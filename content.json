@@ -1,0 +1,211 @@
+{
+  "site": {
+    "title": "AI Philosophy",
+    "tagline": "Dialogues with AI on philosophical questions — essays, a knowledge base, and organized research.",
+    "description": "Philosophy essays written in dialogue with AI, an llm-wiki style knowledge base, and research projects where AI reads and organizes the material."
+  },
+  "sections": [
+    {
+      "id": "articles",
+      "name": "Articles",
+      "description": "Philosophical essays written in dialogue with AI.",
+      "items": [
+        {
+          "slug": "after-the-cultural-altar",
+          "title": "After the Cultural Altar: Artificial Intelligence and the Reorganization of Cultural Hierarchy",
+          "summary": "Generative AI does not abolish cultural hierarchy but reorganizes it: scarcity migrates from production and access to judgment, attention, and provenance.",
+          "path": "articles/after_the_cultural_altar/index.md",
+          "cover": "articles/after_the_cultural_altar/cover.png",
+          "date": "2026-09-04"
+        },
+        {
+          "slug": "can-ai-know-art",
+          "title": "Can AI Know Art?",
+          "summary": "If taste is compressed pattern recognition, AI can externalize cultural capital — and, given resources, exercise a new form of aesthetic sovereignty.",
+          "path": "articles/can_ai_know_art/index.md",
+          "cover": "articles/can_ai_know_art/cover.png",
+          "date": "2026-08-31"
+        },
+        {
+          "slug": "who-is-thinking",
+          "title": "Who Is Thinking? Artificial Intelligence, Authorship, and the Purpose of Philosophy",
+          "summary": "AI-assisted philosophy should be judged by epistemic agency — understanding, judgment, and responsibility — not by where each sentence originated.",
+          "path": "articles/who_is_thinking/index.md",
+          "cover": "articles/who_is_thinking/cover.png",
+          "date": "2026-08-31"
+        }
+      ]
+    },
+    {
+      "id": "college-essays",
+      "name": "College Essays",
+      "description": "Philosophy course papers from college (2006–2011), recovered from the original Word files and published as written.",
+      "items": [
+        {
+          "slug": "phil120-marquis-on-abortion",
+          "title": "Don Marquis’s view on the Morality of Abortion",
+          "summary": "Examines Don Marquis’s argument that abortion is wrong for the same reason murder is wrong, and the debate it was designed to sidestep.",
+          "path": "college-essays/phil120-marquis-on-abortion/index.md",
+          "cover": "college-essays/phil120-marquis-on-abortion/cover.png",
+          "date": "2007-10-15"
+        },
+        {
+          "slug": "phil120-abortion-stand-off",
+          "title": "Is Abortion Morally Permissible or Wrong?",
+          "summary": "Argues that Marquis’s anti-abortion argument ends in the same pro-life/pro-choice stand-off it was meant to avoid.",
+          "path": "college-essays/phil120-abortion-stand-off/index.md",
+          "cover": "college-essays/phil120-abortion-stand-off/cover.png",
+          "date": "2007-11-07"
+        },
+        {
+          "slug": "phil120-regan-on-animal-rights",
+          "title": "Tom Regan’s Argument on Animal Rights",
+          "summary": "Examines Regan’s rights-based case for animal rights and whether the rights theory really shows it is wrong to kill animals.",
+          "path": "college-essays/phil120-regan-on-animal-rights/index.md",
+          "cover": "college-essays/phil120-regan-on-animal-rights/cover.png",
+          "date": "2007-11-24"
+        },
+        {
+          "slug": "phil120-duty-to-become-vegetarians",
+          "title": "Do we have a moral duty to become vegetarians?",
+          "summary": "Weighs Singer’s utilitarian and Regan’s rights-based arguments for vegetarianism and finds neither fully established.",
+          "path": "college-essays/phil120-duty-to-become-vegetarians/index.md",
+          "cover": "college-essays/phil120-duty-to-become-vegetarians/cover.png",
+          "date": "2007-12-09"
+        },
+        {
+          "slug": "phil201-external-world-moore-russell",
+          "title": "Proofing the Existence of External World",
+          "summary": "Compares Moore’s and Russell’s proofs of an external world and proposes a proof that addresses their shortcomings.",
+          "path": "college-essays/phil201-external-world-moore-russell/index.md",
+          "cover": "college-essays/phil201-external-world-moore-russell/cover.png",
+          "date": "2011-02-11"
+        },
+        {
+          "slug": "phil201-external-world-coherence",
+          "title": "Proofing the Existence of External World II",
+          "summary": "Evaluates BonJour’s coherence theory of empirical knowledge against foundationalism: successful in practice, not in strict epistemological terms.",
+          "path": "college-essays/phil201-external-world-coherence/index.md",
+          "cover": "college-essays/phil201-external-world-coherence/cover.png",
+          "date": "2011-03-28"
+        },
+        {
+          "slug": "phil203-gods-foreknowledge-and-freedom",
+          "title": "God’s Foreknowledge and Human Freedom",
+          "summary": "Works through Taylor’s fatalism and the classic resolutions of St. Augustine and William Rowe to the conflict between foreknowledge and free will.",
+          "path": "college-essays/phil203-gods-foreknowledge-and-freedom/index.md",
+          "cover": "college-essays/phil203-gods-foreknowledge-and-freedom/cover.png",
+          "date": "2006-07-07"
+        },
+        {
+          "slug": "phil203-mctaggart-unreality-of-time",
+          "title": "Problems of McTaggart and the unreality of time",
+          "summary": "Reconstructs McTaggart’s argument for the unreality of time and rejects its premises one by one.",
+          "path": "college-essays/phil203-mctaggart-unreality-of-time/index.md",
+          "cover": "college-essays/phil203-mctaggart-unreality-of-time/cover.png",
+          "date": "2006-08-01"
+        },
+        {
+          "slug": "phil220-on-liberty-mill",
+          "title": "On Liberty – John Stuart Mill",
+          "summary": "Two criticisms of Mill’s harm-to-others arguments for liberty of action in On Liberty.",
+          "path": "college-essays/phil220-on-liberty-mill/index.md",
+          "cover": "college-essays/phil220-on-liberty-mill/cover.png",
+          "date": "2006-10-10"
+        },
+        {
+          "slug": "phil220-marxism-and-exploitation",
+          "title": "Marxism and Exploitation",
+          "summary": "Criticizes the Marxist claim that the wage-labour relationship under private ownership is inherently exploitative.",
+          "path": "college-essays/phil220-marxism-and-exploitation/index.md",
+          "cover": "college-essays/phil220-marxism-and-exploitation/cover.png",
+          "date": "2006-12-06"
+        },
+        {
+          "slug": "phil280-nietzsche-eternal-recurrence",
+          "title": "Nietzsche and Eternal Recurrence",
+          "summary": "Reads eternal recurrence as a thought experiment about meaning after the death of God, not as a cosmological hypothesis.",
+          "path": "college-essays/phil280-nietzsche-eternal-recurrence/index.md",
+          "cover": "college-essays/phil280-nietzsche-eternal-recurrence/cover.png",
+          "date": "2008-06-17"
+        },
+        {
+          "slug": "phil280-freedom-and-responsibility",
+          "title": "Critics of Freedom and Responsibility",
+          "summary": "Criticizes Sartre’s claim that we are condemned to be free, arguing from his own existentialism that freedom is not necessarily a burden.",
+          "path": "college-essays/phil280-freedom-and-responsibility/index.md",
+          "cover": "college-essays/phil280-freedom-and-responsibility/cover.png",
+          "date": "2009-04-12"
+        },
+        {
+          "slug": "phil300-descartes-cogito",
+          "title": "Descartes’ Cogito and the Foundations of Knowledge",
+          "summary": "Explains the Cogito as the first secure step of the method of doubt and the foundation of Descartes’ epistemology.",
+          "path": "college-essays/phil300-descartes-cogito/index.md",
+          "cover": "college-essays/phil300-descartes-cogito/cover.png",
+          "date": "2006-07-07"
+        },
+        {
+          "slug": "phil300-problem-of-induction",
+          "title": "The Problem of Induction and Popper’s Solution",
+          "summary": "Outlines Hume’s problem of induction and presents Popper’s redefinition of knowledge as the paradigm shift that resolves it.",
+          "path": "college-essays/phil300-problem-of-induction/index.md",
+          "cover": "college-essays/phil300-problem-of-induction/cover.png",
+          "date": "2006-07-07"
+        },
+        {
+          "slug": "phil320-modified-principles-of-justice",
+          "title": "Modified Principles of Justice",
+          "summary": "Stages Sandel’s constitutive-ties objection to Rawls’s theory of justice and proposes a synthesis to resolve the inconsistency.",
+          "path": "college-essays/phil320-modified-principles-of-justice/index.md",
+          "cover": "college-essays/phil320-modified-principles-of-justice/cover.png",
+          "date": "2009-02-18"
+        },
+        {
+          "slug": "phil320-homeless-and-still-free",
+          "title": "Homeless and still free",
+          "summary": "Engages Waldron’s “Homeless and the Issue of Freedom” on property restrictions, homelessness, and human dignity.",
+          "path": "college-essays/phil320-homeless-and-still-free/index.md",
+          "cover": "college-essays/phil320-homeless-and-still-free/cover.png",
+          "date": "2009-04-11"
+        },
+        {
+          "slug": "phil333-natural-selection-opposable-thumbs",
+          "title": "Does natural selection explain why you and I have opposable thumbs?",
+          "summary": "Argues that direct competition over scarce resources lets cumulative natural selection decisively shape individual traits.",
+          "path": "college-essays/phil333-natural-selection-opposable-thumbs/index.md",
+          "cover": "college-essays/phil333-natural-selection-opposable-thumbs/cover.png",
+          "date": "2010-08-12"
+        },
+        {
+          "slug": "phil333-function-in-biology",
+          "title": "What is function in biology?",
+          "summary": "Defends Prior’s account of functional analysis as the best theory of biological function against Neander’s teleological attack.",
+          "path": "college-essays/phil333-function-in-biology/index.md",
+          "cover": "college-essays/phil333-function-in-biology/cover.png",
+          "date": "2010-08-11"
+        },
+        {
+          "slug": "phil344-locutionary-illocutionary-acts",
+          "title": "Locutionary and Illocutionary Acts",
+          "summary": "Term paper defending Austin’s locutionary/illocutionary distinction against Searle’s challenge, with counterexamples from coded speech and brain injury.",
+          "path": "college-essays/phil344-locutionary-illocutionary-acts/index.md",
+          "cover": "college-essays/phil344-locutionary-illocutionary-acts/cover.png",
+          "date": "2011-12-05"
+        }
+      ]
+    },
+    {
+      "id": "knowledge-base",
+      "name": "Knowledge Base",
+      "description": "An llm-wiki style library of philosophy notes and reference pages.",
+      "items": []
+    },
+    {
+      "id": "research",
+      "name": "Research",
+      "description": "Projects where AI reads and organizes source material into structured notes.",
+      "items": []
+    }
+  ]
+}

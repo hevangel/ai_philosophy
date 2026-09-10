@@ -1,0 +1,5 @@
+[2026-09-10 01:26:13] === batch start: 1 books, mode=proxied ===
+[2026-09-10 01:26:20] workers: 5 via ['socks5://127.0.0.1:1081', 'socks5://127.0.0.1:1082', 'socks5://127.0.0.1:1083', 'socks5://127.0.0.1:1084', 'socks5://127.0.0.1:1085']
+[2026-09-10 01:27:01]     picked (5 cand, score 21.0): Seinfeld and philosophy: a book about everything and no [epub, 856 kB]
+[2026-09-10 01:30:20] #001 [w1] download event never fired
+[2026-09-10 01:36:19] === batch end: 0 total done; remaining: 310 pending states ===
