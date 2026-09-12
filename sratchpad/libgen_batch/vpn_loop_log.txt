@@ -1,0 +1,44 @@
+[2026-09-12 09:50:27] === vpn rotation loop start: 51 hosts, max 12.0 h ===
+[2026-09-12 09:50:27] queue empty, done
+[2026-09-12 09:50:27] === vpn rotation loop end ===
+[2026-09-12 09:55:16] === vpn rotation loop start: 51 hosts, max 12.0 h ===
+[2026-09-12 09:55:16] pending books: 214
+[2026-09-12 09:55:25] tunnel up via United Kingdom uk.vpnunlimitedapp.com (77.245.65.2)
+[2026-09-12 09:58:29] gate closed from 77.245.65.2 (United Kingdom); sleeping 25 min
+[2026-09-12 10:23:55] pending books: 214
+[2026-09-12 10:24:03] tunnel up via United Kingdom uk-cv.vpnunlimitedapp.com (5.101.143.66)
+[2026-09-12 10:27:15] gate closed from 5.101.143.66 (United Kingdom); sleeping 31 min
+[2026-09-12 10:58:16] pending books: 214
+[2026-09-12 10:58:25] tunnel up via United Kingdom uk-lon.vpnunlimitedapp.com (45.154.205.188)
+[2026-09-12 11:00:45] gate closed from 45.154.205.188 (United Kingdom); sleeping 30 min
+[2026-09-12 11:30:16] pending books: 214
+[2026-09-12 11:30:25] tunnel up via United States us-stream.vpnunlimitedapp.com (64.23.175.164)
+[2026-09-12 11:33:00] gate closed from 64.23.175.164 (United States); sleeping 34 min
+[2026-09-12 12:06:54] pending books: 214
+[2026-09-12 12:07:02] tunnel up via United States us.vpnunlimitedapp.com (172.245.232.199)
+[2026-09-12 12:09:52] gate closed from 172.245.232.199 (United States); sleeping 31 min
+[2026-09-12 12:40:26] pending books: 214
+[2026-09-12 12:40:34] tunnel up via United States us-chi.vpnunlimitedapp.com (66.23.205.226)
+[2026-09-12 12:43:55] gate closed from 66.23.205.226 (United States); sleeping 32 min
+[2026-09-12 13:15:49] pending books: 214
+[2026-09-12 13:16:00] tunnel up via United States us-dal.vpnunlimitedapp.com (23.95.73.230)
+[2026-09-12 13:19:29] gate closed from 23.95.73.230 (United States); sleeping 32 min
+[2026-09-12 13:51:07] pending books: 214
+[2026-09-12 13:53:12] tunnel FAILED for 23.237.26.26, rotating on
+[2026-09-12 13:53:53] tunnel up via United States us-hou.vpnunlimitedapp.com (216.230.233.99)
+[2026-09-12 13:55:47] gate closed from 216.230.233.99 (United States); sleeping 24 min
+[2026-09-12 14:20:07] pending books: 213
+[2026-09-12 14:20:20] tunnel up via United States us-lv.vpnunlimitedapp.com (185.242.5.18)
+[2026-09-12 14:23:12] gate closed from 185.242.5.18 (United States); sleeping 25 min
+[2026-09-12 14:47:58] pending books: 213
+[2026-09-12 14:48:08] tunnel up via United States us-la.vpnunlimitedapp.com (23.83.37.209)
+[2026-09-12 14:50:40] gate closed from 23.83.37.209 (United States); sleeping 30 min
+[2026-09-12 15:20:49] pending books: 213
+[2026-09-12 15:20:58] tunnel up via United States us-mia.vpnunlimitedapp.com (38.145.197.8)
+[2026-09-12 15:23:55] gate closed from 38.145.197.8 (United States); sleeping 30 min
+[2026-09-12 15:53:44] pending books: 213
+[2026-09-12 15:53:53] tunnel up via United States us-ny-free.vpnunlimitedapp.com (143.244.169.206)
+[2026-09-12 15:56:39] gate closed from 143.244.169.206 (United States); sleeping 25 min
+[2026-09-12 16:21:22] pending books: 213
+[2026-09-12 16:21:31] tunnel up via United States us-ny.vpnunlimitedapp.com (23.95.75.56)
+[2026-09-12 16:25:05] gate closed from 23.95.75.56 (United States); sleeping 35 min

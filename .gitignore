@@ -231,3 +231,7 @@ sratchpad/libgen_batch/gluetun_configs/
 
 # Repo-local: scratch throwaway dirs
 sratchpad/format-test/
+
+# Repo-local: VPN configs embed private keys — belt and braces
+*.ovpn
+sratchpad/libgen_batch/gluetun_configs/

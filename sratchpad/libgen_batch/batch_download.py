@@ -170,12 +170,14 @@ def looks_valid(data: bytes, ext: str) -> bool:
 class Worker:
     """One requests session pinned to one tunnel (or direct)."""
 
-    def __init__(self, wid: int, port: int | None):
+    def __init__(self, wid: int, port: int | None, proxy: str | None = None):
         self.wid = wid
         self.name = f"w{wid}"
         self.session = requests.Session()
         self.session.headers.update({"User-Agent": UA})
-        if port:
+        if proxy:
+            self.session.proxies.update({"http": proxy, "https": proxy})
+        elif port:
             p = {"http": f"socks5h://127.0.0.1:{port}", "https": f"socks5h://127.0.0.1:{port}"}
             self.session.proxies.update(p)
 
@@ -286,8 +288,10 @@ def process_book(w: Worker, book: dict, state: dict) -> str:
     return "done"
 
 
-def worker(wid: int, port: int | None, q: queue.Queue, state: dict) -> None:
-    w = Worker(wid, port)
+def worker(wid: int, port: int | None, q: queue.Queue, state: dict,
+           proxy: str | None = None, min_gap: float = 12, max_gap: float = 20,
+           abort_on_retry: bool = False) -> None:
+    w = Worker(wid, port, proxy)
     attempts: dict[int, int] = {}   # book num -> failed attempts
     backoff = None                  # per-worker cooldown after a failed attempt
     consecutive_errors = 0
@@ -319,6 +323,9 @@ def worker(wid: int, port: int | None, q: queue.Queue, state: dict) -> None:
             if status == "retry":
                 # give up on this IP for a while; book goes back for another IP to try
                 attempts[num] = attempts.get(num, 0) + 1
+                if abort_on_retry:
+                    log(f"[{w.name}] retry-signature seen, aborting run for IP rotation")
+                    return
                 if attempts[num] >= 4:
                     state[str(num)] = {"status": "failed"}
                     save_state(state)
@@ -329,7 +336,7 @@ def worker(wid: int, port: int | None, q: queue.Queue, state: dict) -> None:
                 time.sleep(rng.uniform(backoff * 0.8, backoff * 1.2))
             else:
                 backoff = None  # success or definitive no_result resets the IP's cooldown
-                time.sleep(rng.uniform(15, 25) if status == "done" else rng.uniform(6, 10))
+                time.sleep(rng.uniform(min_gap, max_gap) if status == "done" else rng.uniform(6, 10))
     finally:
         w.session.close()
 
@@ -340,7 +347,14 @@ def main() -> None:
     ap.add_argument("--retry-failed", action="store_true")
     ap.add_argument("--proxied", action="store_true", help="SSH SOCKS5 pool, one worker per tunnel")
     ap.add_argument("--direct", action="store_true", help="single worker on local IP")
+    ap.add_argument("--proxy", help="single worker through an http proxy URL")
+    ap.add_argument("--max-books", type=int, help="stop after this many queue items processed")
+    ap.add_argument("--min-gap", type=float, default=12, help="min seconds between books")
+    ap.add_argument("--max-gap", type=float, default=20, help="max seconds between books")
+    ap.add_argument("--abort-on-retry", action="store_true",
+                    help="exit as soon as a throttle signature is seen (for IP-rotation drivers)")
     args = ap.parse_args()
+    q_limit = args.max_books
 
     state = load_state()
     if args.only:
@@ -360,11 +374,18 @@ def main() -> None:
         log("nothing to do")
         return
 
+    if q_limit is not None:
+        todo = todo[:q_limit]
+        if not todo:
+            log("nothing to do")
+            return
+
     q: queue.Queue = queue.Queue()
     for b in todo:
         q.put(b)
 
-    log(f"=== batch start: {len(todo)} books, mode={'proxied' if args.proxied else 'direct'} ===")
+    mode = "proxied" if args.proxied else ("proxy" if args.proxy else "direct")
+    log(f"=== batch start: {len(todo)} books, mode={mode} ===")
 
     if args.proxied:
         with ProxyPool(PROXY_HOSTS) as pool:
@@ -382,7 +403,9 @@ def main() -> None:
             for t in threads:
                 t.join()
     else:
-        worker(0, None, q, state)
+        worker(0, None, q, state, proxy=args.proxy,
+               min_gap=args.min_gap, max_gap=args.max_gap,
+               abort_on_retry=args.abort_on_retry)
 
     done = sum(1 for v in state.values() if v.get("status") == "done")
     log(f"=== batch end: {done} total done ===")

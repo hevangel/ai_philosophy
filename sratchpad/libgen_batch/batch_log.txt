@@ -746,3 +746,251 @@
 [2026-09-11 21:58:47]     picked (14 cand, 24.0): Stephen Colbert and Philosophy: I Am Philosophy (And So [epub, 531 kB]
 [2026-09-11 22:02:03]     [w1] ads.php 200 but no keyed link (0B)
 [2026-09-11 22:02:38]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 22:20:32]     picked (3 cand, 24.0): The Golden Compass and Philosophy: God Bites the Dust [epub, 442 kB]
+[2026-09-11 22:20:51]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 22:21:18]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 22:26:13]     picked (7 cand, 24.0): Mr. Monk and Philosophy: the Curious Case of the Defect [epub, 1 MB]
+[2026-09-11 22:26:33]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 22:27:14]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 22:37:59]     picked (9 cand, 24.0): Anime and philosophy: wide eyed wonder [epub, 5 MB]
+[2026-09-11 22:38:14]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 22:38:58]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 22:47:53]     picked (6 cand, 24.0): Facebook and Philosophy: What's on Your Mind? [epub, 1008 kB]
+[2026-09-11 22:48:09]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 22:48:43]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 23:14:08]     picked (9 cand, 24.0): Soccer and Philosophy: Beautiful Thoughts on the Beauti [epub, 750 kB]
+[2026-09-11 23:14:23]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 23:15:03]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 23:15:39]     picked (1 cand, 13.5): Manga Introduction to Philosophy: An Exploration of Tim [pdf, 75 MB]
+[2026-09-11 23:16:00]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 23:16:35]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 23:18:33]     picked (19 cand, 24.0): Dune and Philosophy: Weirding Way of the Mentat [epub, 327 kB]
+[2026-09-11 23:18:50]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 23:19:20]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 23:46:43]     picked (8 cand, 24.0): Dexter and Philosophy: Mind over Spatter [epub, 638 kB]
+[2026-09-11 23:46:58]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 23:47:29]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 23:50:08]     picked (16 cand, 24.0): Sherlock Holmes and philosophy: the footprints of a gig [epub, 775 kB]
+[2026-09-11 23:50:25]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 23:50:57]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 00:11:17]     picked (18 cand, 24.0): Inception and philosophy: ideas to die for [epub, 811 kB]
+[2026-09-12 00:11:33]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 00:12:03]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 00:18:38]     picked (6 cand, 24.0): The Rolling Stones and Philosophy: It's Just a Thought  [epub, 892 kB]
+[2026-09-12 00:18:57]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 00:19:34]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 00:28:49]     picked (5 cand, 24.0): Neil Gaiman and Philosophy: Gods Gone Wild! [epub, 3 MB]
+[2026-09-12 00:32:07] #066 [w5] net error 1: ReadTimeout: SOCKSHTTPSConnectionPool(host='libgen.li', port=443): Read timed out. (read timeout=180)
+[2026-09-12 00:42:23]     picked (9 cand, 24.0): The Walking dead and philosophy: zombie apocalypse now [epub, 3 MB]
+[2026-09-12 00:42:39]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 00:43:22]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 00:50:02]     picked (10 cand, 24.0): Dungeons and dragons and philosophy: raiding the temple [epub, 742 kB]
+[2026-09-12 00:50:20]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 00:50:56]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 01:05:24]     picked (5 cand, 21.0): The Catcher in the Rye and Philosophy [epub, 50 MB]
+[2026-09-12 01:05:41]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 01:06:26]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 01:30:48]     picked (3 cand, 24.0): Dracula and Philosophy: Dying to Know [epub, 7 MB]
+[2026-09-12 01:31:04]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-12 01:31:24] #080 [w3] net error 1: ConnectionError: SOCKSHTTPSConnectionPool(host='libgen.li', port=443): Read timed out.
+[2026-09-12 01:31:37]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-12 01:34:47]     picked (7 cand, 24.0): Downton Abbey and Philosophy: Thinking in That Manor [epub, 3 MB]
+[2026-09-12 01:38:03]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 01:38:33]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 02:00:36]     picked (6 cand, 24.0): Hannibal Lecter and Philosophy: The Heart of the Matter [epub, 1 MB]
+[2026-09-12 02:00:54]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 02:01:37]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 02:16:24]     picked (4 cand, 24.0): The Ultimate Walking Dead and Philosophy: Hungry for Mo [epub, 3 MB]
+[2026-09-12 02:16:45]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 02:17:24]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 02:24:34]     picked (3 cand, 24.0): The Princess Bride and Philosophy: Inconceivable! [epub, 2 MB]
+[2026-09-12 02:24:54]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 02:25:20]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 02:29:45]     picked (4 cand, 24.0): Batman, Superman and philosophy: badass or boyscout? [epub, 1004 kB]
+[2026-09-12 02:30:02]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-12 02:30:35]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-12 02:45:28]     picked (5 cand, 24.0): Discworld and philosophy: reality is not what it seems [epub, 685 kB]
+[2026-09-12 02:45:43]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 02:49:19]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 03:11:59]     picked (13 cand, 24.0): Orphan black and philosophy: grand theft DNA [epub, 671 kB]
+[2026-09-12 03:12:13]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 03:12:50]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 03:20:08]     picked (1 cand, 24.0): Red Rising and Philosophy: Break the Chains! [epub, 2 MB]
+[2026-09-12 03:20:26]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 03:20:52]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 03:23:15]     picked (2 cand, 24.0): The Ultimate Game of Thrones and Philosophy: You Think  [epub, 967 kB]
+[2026-09-12 03:23:35]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-12 03:27:11]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-12 03:29:34]     picked (1 cand, 24.0): Peanuts and Philosophy: You're a Wise Man, Charlie Brow [epub, 713 kB]
+[2026-09-12 03:29:48]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 03:30:24]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 03:42:29]     picked (2 cand, 24.0): Deadpool and Philosophy: My Common Sense Is Tingling [epub, 775 kB]
+[2026-09-12 03:42:44]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 03:46:17] #107 [w2] net error 1: ReadTimeout: SOCKSHTTPSConnectionPool(host='libgen.li', port=443): Read timed out. (read timeout=180)
+[2026-09-12 04:01:58]     picked (9 cand, 24.0): The X-Files and Philosophy: The Truth Is in Here [epub, 567 kB]
+[2026-09-12 04:02:11]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 04:02:58]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 04:17:32]     picked (5 cand, 24.0): Mr. Robot and philosophy: beyond good and evil corp [epub, 1 MB]
+[2026-09-12 04:17:50]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 04:18:25]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 04:29:45]     picked (25 cand, 19.0): The Political Philosophy of Alexander Hamilton [epub, 395 kB]
+[2026-09-12 04:29:59]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 04:30:39]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 04:37:43]     picked (4 cand, 24.0): The man in the high castle and philosophy: subversive r [epub, 2 MB]
+[2026-09-12 04:38:02]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 04:38:43]     picked (11 cand, 21.0): The Americans and Philosophy [epub, 2 MB]
+[2026-09-12 04:38:46]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 04:39:01]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-12 04:39:33]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-12 04:55:34]     picked (1 cand, 24.0): Jimi Hendrix and Philosophy: Experience Required [epub, 2 MB]
+[2026-09-12 04:55:52]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 04:56:36]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 05:19:06]     picked (4 cand, 24.0): American Horror Story and Philosophy: Life Is but a Nig [epub, 1 MB]
+[2026-09-12 05:19:25]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 05:20:07]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 05:30:24] #115 [w3] search http 500
+[2026-09-12 05:30:36]     picked (5 cand, 24.0): Scott Adams and philosophy: a hole in the fabric of rea [epub, 2 MB]
+[2026-09-12 05:30:52]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 05:31:28]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 05:34:17]     picked (4 cand, 24.0): Twin Peaks and Philosophy: That's Damn Fine Philosophy! [epub, 1 MB]
+[2026-09-12 05:34:36]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-12 05:35:02]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-12 05:37:28]     picked (2 cand, 24.0): Amy Schumer and Philosophy: Brainwreck! [epub, 985 kB]
+[2026-09-12 05:37:49]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 05:38:19]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 05:49:02]     picked (25 cand, 24.0): Westworld and Philosophy: Mind Equals Blown [epub, 2 MB]
+[2026-09-12 05:49:20]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 05:49:49]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 05:56:39]     picked (1 cand, 22.5): Tom Petty and Philosophy: We Need to Know (Popular Cult [epub, 3 MB]
+[2026-09-12 05:56:58]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 05:57:36]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 06:24:03]     picked (4 cand, 24.0): Rick and Morty and Philosophy: In the Beginning Was the [epub, 1 MB]
+[2026-09-12 06:24:23]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 06:24:51]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 06:31:39] #126 [w2] search http 502
+[2026-09-12 06:33:41]     picked (2 cand, 21.0): Mister Rogers and Philosophy [epub, 3 MB]
+[2026-09-12 06:33:58] #127 [w2] search http 502
+[2026-09-12 06:34:01]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 06:34:08]     picked (2 cand, 24.0): Rupaul's Drag Race and Philosophy: Sissy That Thought [epub, 774 kB]
+[2026-09-12 06:34:27]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 06:35:10]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 06:37:42]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 06:46:40]     picked (23 cand, 21.0): The Good Place and Philosophy [epub, 2 MB]
+[2026-09-12 06:46:58]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-12 06:47:37]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-12 06:55:59]     picked (2 cand, 23.0): Avengers Infinity Saga and Philosophy: Go Fot the Head  [epub, 3 MB]
+[2026-09-12 06:56:19]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 06:56:50]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 07:09:32]     picked (5 cand, 24.0): Perry Mason and Philosophy: The Case of the Awesome Att [epub, 4 MB]
+[2026-09-12 07:09:47]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 07:10:18]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 07:15:30]     picked (2 cand, 22.5): KISS and Philosophy: Wiser than Hell (Popular Culture a [epub, 3 MB]
+[2026-09-12 07:15:44]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 07:16:22]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 07:35:56]     picked (5 cand, 24.0): 30 Rock and Philosophy: We Want to Go to There [epub, 440 kB]
+[2026-09-12 07:36:21]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 07:37:02]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 07:42:53]     picked (9 cand, 24.0): Alice in wonderland and philosophy: curiouser and curio [epub, 366 kB]
+[2026-09-12 07:43:12]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-12 07:43:47]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-12 07:45:44]     picked (20 cand, 21.0): Alien and Philosophy [epub, 1 MB]
+[2026-09-12 07:45:59]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 07:49:47]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 07:59:50]     picked (10 cand, 23.5): Arrested Development and Philosophy: They've Made a Hug [epub, 321 kB]
+[2026-09-12 08:00:11]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 08:00:56]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 08:24:48]     picked (10 cand, 24.0): Avatar and philosophy: learning to see [epub, 6 MB]
+[2026-09-12 08:25:07]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 08:28:37]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 08:33:27]     picked (4 cand, 21.5): Avatar: The Last Airbender and Philosophy: Wisdom from  [epub, 790 kB]
+[2026-09-12 08:33:46]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-12 08:34:14]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-12 08:45:36]     picked (15 cand, 24.0): Avengers and Philosophy: Earth's Mightiest Thinkers, Th [epub, 272 kB]
+[2026-09-12 08:45:52]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 08:46:26]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-12 08:54:39]     picked (25 cand, 24.0): Batman and Philosophy-The Dark Knight of the Soul [epub, 297 kB]
+[2026-09-12 08:54:59]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 08:55:24]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-12 09:02:55]     picked (13 cand, 24.0): Battlestar Galactica and philosophy: knowledge here beg [epub, 549 kB]
+[2026-09-12 09:03:10]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 09:03:52]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-12 09:22:16]     picked (6 cand, 23.5): The Big Bang Theory and Philosophy: Rock, Paper, Scisso [epub, 804 kB]
+[2026-09-12 09:22:28]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 09:23:05]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-12 09:26:00] #146 [w5] net error 1: ConnectionError: SOCKSHTTPSConnectionPool(host='libgen.li', port=443): Read timed out.
+[2026-09-12 09:50:27] nothing to do
+[2026-09-12 09:57:05] === batch start: 1 books, mode=proxy ===
+[2026-09-12 09:57:07]     picked (9 cand, 24.0): The Simpsons and Philosophy: The D'oh! of Homer [epub, 2 MB]
+[2026-09-12 09:57:27]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 09:58:06]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 09:58:29] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 09:58:29] === batch end: 0 total done ===
+[2026-09-12 10:26:03] === batch start: 1 books, mode=proxy ===
+[2026-09-12 10:26:05]     picked (9 cand, 24.0): The Simpsons and Philosophy: The D'oh! of Homer [epub, 2 MB]
+[2026-09-12 10:26:24]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 10:26:51]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 10:27:15] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 10:27:15] === batch end: 0 total done ===
+[2026-09-12 10:59:25] === batch start: 1 books, mode=proxy ===
+[2026-09-12 10:59:28]     picked (9 cand, 24.0): The Simpsons and Philosophy: The D'oh! of Homer [epub, 2 MB]
+[2026-09-12 10:59:42]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 11:00:14]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 11:00:45] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 11:00:45] === batch end: 0 total done ===
+[2026-09-12 11:31:29] === batch start: 1 books, mode=proxy ===
+[2026-09-12 11:31:30]     picked (9 cand, 24.0): The Simpsons and Philosophy: The D'oh! of Homer [epub, 2 MB]
+[2026-09-12 11:31:44]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 11:32:27]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 11:33:00] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 11:33:00] === batch end: 0 total done ===
+[2026-09-12 12:08:26] === batch start: 1 books, mode=proxy ===
+[2026-09-12 12:08:28]     picked (9 cand, 24.0): The Simpsons and Philosophy: The D'oh! of Homer [epub, 2 MB]
+[2026-09-12 12:08:46]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 12:09:24]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 12:09:52] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 12:09:52] === batch end: 0 total done ===
+[2026-09-12 12:42:18] === batch start: 1 books, mode=proxy ===
+[2026-09-12 12:42:21]     picked (9 cand, 24.0): The Simpsons and Philosophy: The D'oh! of Homer [epub, 2 MB]
+[2026-09-12 12:42:41]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 12:43:25]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 12:43:55] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 12:43:55] === batch end: 0 total done ===
+[2026-09-12 13:18:00] === batch start: 1 books, mode=proxy ===
+[2026-09-12 13:18:02]     picked (9 cand, 24.0): The Simpsons and Philosophy: The D'oh! of Homer [epub, 2 MB]
+[2026-09-12 13:18:19]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 13:18:58]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 13:19:29] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 13:19:29] === batch end: 0 total done ===
+[2026-09-12 13:55:22] === batch start: 1 books, mode=proxy ===
+[2026-09-12 13:55:40] #002 [w0] no search results
+[2026-09-12 13:55:47] === batch end: 0 total done ===
+[2026-09-12 14:21:43] === batch start: 1 books, mode=proxy ===
+[2026-09-12 14:21:48]     picked (27 cand, 24.0): The Matrix and Philosophy: Welcome to the Desert of the [epub, 474 kB]
+[2026-09-12 14:22:07]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 14:22:49]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 14:23:12] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 14:23:12] === batch end: 0 total done ===
+[2026-09-12 14:49:10] === batch start: 1 books, mode=proxy ===
+[2026-09-12 14:49:12]     picked (27 cand, 24.0): The Matrix and Philosophy: Welcome to the Desert of the [epub, 474 kB]
+[2026-09-12 14:49:33]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 14:50:07]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 14:50:40] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 14:50:40] === batch end: 0 total done ===
+[2026-09-12 15:22:19] === batch start: 1 books, mode=proxy ===
+[2026-09-12 15:22:21]     picked (27 cand, 24.0): The Matrix and Philosophy: Welcome to the Desert of the [epub, 474 kB]
+[2026-09-12 15:22:41]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 15:23:23]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 15:23:55] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 15:23:55] === batch end: 0 total done ===
+[2026-09-12 15:55:01] === batch start: 1 books, mode=proxy ===
+[2026-09-12 15:55:04]     picked (27 cand, 24.0): The Matrix and Philosophy: Welcome to the Desert of the [epub, 474 kB]
+[2026-09-12 15:55:22]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 15:56:05]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 15:56:39] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 15:56:39] === batch end: 0 total done ===
+[2026-09-12 16:23:21] === batch start: 1 books, mode=proxy ===
+[2026-09-12 16:23:24]     picked (27 cand, 24.0): The Matrix and Philosophy: Welcome to the Desert of the [epub, 474 kB]
+[2026-09-12 16:23:40]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 16:24:25]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 16:25:05] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 16:25:05] === batch end: 0 total done ===
