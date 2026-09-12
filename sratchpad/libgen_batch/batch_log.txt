@@ -3,3 +3,746 @@
 [2026-09-10 01:27:01]     picked (5 cand, score 21.0): Seinfeld and philosophy: a book about everything and no [epub, 856 kB]
 [2026-09-10 01:30:20] #001 [w1] download event never fired
 [2026-09-10 01:36:19] === batch end: 0 total done; remaining: 310 pending states ===
+[2026-09-10 01:57:59] === batch start: 1 books, mode=proxied ===
+[2026-09-10 01:58:06] workers: 5 on ports [1081, 1082, 1083, 1084, 1085]
+[2026-09-10 01:58:08]     picked (5 cand, 24.0): Seinfeld and philosophy: a book about everything and no [epub, 856 kB]
+[2026-09-10 02:03:40] === batch end: 0 total done ===
+[2026-09-10 02:05:24] === batch start: 1 books, mode=proxied ===
+[2026-09-10 02:05:31] workers: 5 on ports [1081, 1082, 1083, 1084, 1085]
+[2026-09-10 02:05:33]     picked (5 cand, 24.0): Seinfeld and philosophy: a book about everything and no [epub, 856 kB]
+[2026-09-10 02:05:53]     [w1] ads.php -> 500 (no key)
+[2026-09-10 02:06:29]     [w1] ads.php 200 but no keyed link (20962B)
+[2026-09-10 02:07:12]     [w1] ads.php 200 but no keyed link (20962B)
+[2026-09-10 02:11:26] === batch end: 0 total done ===
+[2026-09-10 02:12:15] === batch start: 1 books, mode=proxied ===
+[2026-09-10 02:12:23] workers: 5 on ports [1081, 1082, 1083, 1084, 1085]
+[2026-09-10 02:12:25]     picked (9 cand, 24.0): The Simpsons and Philosophy: The D'oh! of Homer [epub, 2 MB]
+[2026-09-10 02:12:44]     [w1] ads.php 200 but no keyed link (20754B)
+[2026-09-10 02:13:31]     [w1] ads.php 200 but no keyed link (20754B)
+[2026-09-10 02:14:13]     [w1] ads.php 200 but no keyed link (20754B)
+[2026-09-10 02:16:57] === batch end: 0 total done ===
+[2026-09-10 02:23:15] === batch start: 232 books, mode=proxied ===
+[2026-09-10 02:23:22] workers: 5 on ports [1081, 1082, 1083, 1084, 1085]
+[2026-09-10 02:23:26]     picked (27 cand, 24.0): The Matrix and Philosophy: Welcome to the Desert of the [epub, 474 kB]
+[2026-09-10 02:23:29]     picked (6 cand, 24.0): Buffy the Vampire Slayer and Philosophy-Fear and Trembl [epub, 1 MB]
+[2026-09-10 02:23:29]     picked (4 cand, 24.0): Woody Allen and Philosophy: [You Mean My Whole Fallacy  [epub, 433 kB]
+[2026-09-10 02:23:32]     picked (25 cand, 24.0): Harry Potter and Philosophy-If Aristotle Ran Hogwarts [epub, 396 kB]
+[2026-09-10 02:23:41]     [w2] ads.php -> 500 (no key)
+[2026-09-10 02:23:46]     [w4] ads.php -> 500 (no key)
+[2026-09-10 02:23:49]     [w5] ads.php 200 but no keyed link (20804B)
+[2026-09-10 02:23:52]     [w3] ads.php -> 500 (no key)
+[2026-09-10 02:24:11]     [w2] ads.php -> 500 (no key)
+[2026-09-10 02:24:20]     [w4] ads.php 200 but no keyed link (20870B)
+[2026-09-10 02:24:22]     [w5] ads.php -> 500 (no key)
+[2026-09-10 02:24:40]     [w3] ads.php 200 but no keyed link (20920B)
+[2026-09-10 02:25:36] === batch start: 232 books, mode=proxied ===
+[2026-09-10 02:25:43] workers: 5 on ports [1081, 1082, 1083, 1084, 1085]
+[2026-09-10 02:25:47]     picked (9 cand, 24.0): The Simpsons and Philosophy: The D'oh! of Homer [epub, 2 MB]
+[2026-09-10 02:25:47]     picked (27 cand, 24.0): The Matrix and Philosophy: Welcome to the Desert of the [epub, 474 kB]
+[2026-09-10 02:25:49]     picked (6 cand, 24.0): Buffy the Vampire Slayer and Philosophy-Fear and Trembl [epub, 1 MB]
+[2026-09-10 02:25:50]     picked (4 cand, 24.0): Woody Allen and Philosophy: [You Mean My Whole Fallacy  [epub, 433 kB]
+[2026-09-10 02:25:53]     picked (25 cand, 24.0): Harry Potter and Philosophy-If Aristotle Ran Hogwarts [epub, 396 kB]
+[2026-09-10 02:26:07]     [w2] ads.php 200 but no keyed link (20872B)
+[2026-09-10 02:26:07]     [w3] ads.php 200 but no keyed link (20920B)
+[2026-09-10 02:26:08]     [w1] ads.php 200 but no keyed link (20754B)
+[2026-09-10 02:26:13]     [w4] ads.php 200 but no keyed link (20870B)
+[2026-09-10 02:26:18]     [w5] ads.php 200 but no keyed link (20804B)
+[2026-09-10 02:26:41]     [w2] ads.php 200 but no keyed link (20872B)
+[2026-09-10 02:26:46]     [w3] ads.php 200 but no keyed link (20920B)
+[2026-09-10 02:26:49]     [w5] ads.php 200 but no keyed link (20804B)
+[2026-09-10 02:26:50]     [w4] ads.php 200 but no keyed link (20870B)
+[2026-09-10 02:26:51]     [w1] ads.php 200 but no keyed link (20754B)
+[2026-09-10 02:44:05]     picked (1 cand, 4.5): 2005-sep vol. 28 iss. 3 [pdf, 42 kB]
+[2026-09-10 02:44:21]     [w3] ads.php 200 but no keyed link (20915B)
+[2026-09-10 02:44:36]     picked (4 cand, 24.0): The Atkins Diet and Philosophy: Chewing the Fat with Ka [epub, 451 kB]
+[2026-09-10 02:44:56]     [w1] ads.php 200 but no keyed link (20938B)
+[2026-09-10 02:45:02]     [w3] ads.php 200 but no keyed link (20915B)
+[2026-09-10 02:45:31]     [w1] ads.php 200 but no keyed link (20938B)
+[2026-09-10 02:45:43]     picked (4 cand, 24.0): The Chronicles of Narnia and Philosophy: The Lion the W [epub, 645 kB]
+[2026-09-10 02:45:48]     picked (6 cand, 24.0): Bob Dylan and Philosophy: It's Alright Ma (I'm Only Thi [epub, 393 kB]
+[2026-09-10 02:46:07]     [w4] ads.php -> 500 (no key)
+[2026-09-10 02:46:08]     [w2] ads.php 200 but no keyed link (21113B)
+[2026-09-10 02:46:37]     [w2] ads.php 200 but no keyed link (21113B)
+[2026-09-10 02:46:48]     [w4] ads.php -> 500 (no key)
+[2026-09-10 02:49:17]     picked (8 cand, 24.0): Monty Python and Philosophy: Nudge Nudge, Think Think! [epub, 641 kB]
+[2026-09-10 02:49:39]     [w5] ads.php 200 but no keyed link (20833B)
+[2026-09-10 02:50:17]     [w5] ads.php 200 but no keyed link (20833B)
+[2026-09-10 03:26:18]     picked (11 cand, 20.5): Undead Philosophy 101 [epub, 364 kB]
+[2026-09-10 03:26:26]     picked (1 cand, 17.0): How Does It Feel?: Elvis Presley, The Beatles, Bob Dyla [epub, 420 kB]
+[2026-09-10 03:26:38]     [w1] ads.php 200 but no keyed link (20511B)
+[2026-09-10 03:26:48]     [w3] ads.php 200 but no keyed link (20962B)
+[2026-09-10 03:27:10]     [w1] ads.php 200 but no keyed link (20511B)
+[2026-09-10 03:27:24]     [w3] ads.php -> 500 (no key)
+[2026-09-10 03:30:30]     picked (26 cand, 20.5): South Park and Philosophy: Bigger, Longer, and More Pen [pdf, 3 MB]
+[2026-09-10 03:30:48]     [w2] ads.php 200 but no keyed link (21085B)
+[2026-09-10 03:31:25]     [w2] ads.php 200 but no keyed link (21085B)
+[2026-09-10 03:31:47]     picked (13 cand, 24.0): Hitchcock and Philosophy: Dial M for Metaphysics [epub, 985 kB]
+[2026-09-10 03:32:04]     [w4] ads.php -> 500 (no key)
+[2026-09-10 03:32:47]     [w4] ads.php 200 but no keyed link (20879B)
+[2026-09-10 03:36:02]     picked (7 cand, 24.0): Quentin Tarantino and philosophy: how to philosophize w [epub, 427 kB]
+[2026-09-10 03:36:24]     [w5] ads.php -> 500 (no key)
+[2026-09-10 03:36:59]     [w5] ads.php 200 but no keyed link (21151B)
+[2026-09-10 04:25:31]     picked (13 cand, 24.0): Battlestar Galactica and Philosophy : Mission Accomplis [epub, 601 kB]
+[2026-09-10 04:28:49]     [w1] ads.php 200 but no keyed link (21098B)
+[2026-09-10 04:29:34]     [w1] ads.php -> 500 (no key)
+[2026-09-10 04:31:09]     picked (14 cand, 24.0): The Legend of Zelda and philosophy: I link therefore I  [epub, 976 kB]
+[2026-09-10 04:31:26]     [w4] ads.php 200 but no keyed link (20869B)
+[2026-09-10 04:31:39]     picked (8 cand, 24.0): Wizard of Oz and Philosophy: Wicked Wisdom of the West [epub, 528 kB]
+[2026-09-10 04:31:54]     [w4] ads.php 200 but no keyed link (20869B)
+[2026-09-10 04:31:57]     [w3] ads.php 200 but no keyed link (20857B)
+[2026-09-10 04:32:45]     [w3] ads.php 200 but no keyed link (20857B)
+[2026-09-10 04:35:15]     picked (11 cand, 23.0): Radiohead and Philosophy: Fitter Happier More Deductive [epub, 672 kB]
+[2026-09-10 04:35:38]     [w2] ads.php 200 but no keyed link (20990B)
+[2026-09-10 04:36:17]     [w2] ads.php -> 500 (no key)
+[2026-09-10 04:40:53]     picked (3 cand, 24.0): Jimmy Buffett and Philosophy: The Porpoise Driven Life [epub, 319 kB]
+[2026-09-10 04:41:15]     [w5] ads.php -> 500 (no key)
+[2026-09-10 04:41:56]     [w5] ads.php 200 but no keyed link (20899B)
+[2026-09-10 05:18:07]     picked (14 cand, 24.0): Stephen Colbert and Philosophy: I Am Philosophy (And So [epub, 531 kB]
+[2026-09-10 05:18:28]     [w1] ads.php -> 500 (no key)
+[2026-09-10 05:19:05]     [w1] ads.php -> 500 (no key)
+[2026-09-10 05:26:59]     picked (3 cand, 24.0): The Golden Compass and Philosophy: God Bites the Dust [epub, 442 kB]
+[2026-09-10 05:30:20]     [w3] ads.php 200 but no keyed link (20912B)
+[2026-09-10 05:30:58]     [w3] ads.php 200 but no keyed link (20912B)
+[2026-09-10 05:33:24]     picked (7 cand, 24.0): Mr. Monk and Philosophy: the Curious Case of the Defect [epub, 1 MB]
+[2026-09-10 05:33:50]     [w5] ads.php -> 500 (no key)
+[2026-09-10 05:37:17] #046 [w5] net error 1: ConnectionError: SOCKSHTTPSConnectionPool(host='libgen.li', port=443): Read timed out.
+[2026-09-10 05:41:33]     picked (9 cand, 24.0): Anime and philosophy: wide eyed wonder [epub, 5 MB]
+[2026-09-10 05:41:46]     picked (6 cand, 24.0): Facebook and Philosophy: What's on Your Mind? [epub, 1008 kB]
+[2026-09-10 05:41:48]     [w2] ads.php 200 but no keyed link (20752B)
+[2026-09-10 05:42:03]     [w4] ads.php 200 but no keyed link (20710B)
+[2026-09-10 05:42:19]     [w2] ads.php 200 but no keyed link (20752B)
+[2026-09-10 05:42:30]     [w4] ads.php 200 but no keyed link (20710B)
+[2026-09-10 06:24:52]     picked (9 cand, 24.0): Soccer and Philosophy: Beautiful Thoughts on the Beauti [epub, 750 kB]
+[2026-09-10 06:25:10]     [w1] ads.php 200 but no keyed link (20794B)
+[2026-09-10 06:25:33]     picked (1 cand, 13.5): Manga Introduction to Philosophy: An Exploration of Tim [pdf, 75 MB]
+[2026-09-10 06:25:43]     [w1] ads.php 200 but no keyed link (20794B)
+[2026-09-10 06:25:53]     [w3] ads.php 200 but no keyed link (21138B)
+[2026-09-10 06:26:37]     [w3] ads.php 200 but no keyed link (21138B)
+[2026-09-10 06:35:00]     picked (19 cand, 24.0): Dune and Philosophy: Weirding Way of the Mentat [epub, 327 kB]
+[2026-09-10 06:35:14]     [w5] ads.php 200 but no keyed link (20890B)
+[2026-09-10 06:36:01]     [w5] ads.php 200 but no keyed link (20890B)
+[2026-09-10 06:38:34]     picked (8 cand, 24.0): Dexter and Philosophy: Mind over Spatter [epub, 638 kB]
+[2026-09-10 06:38:57]     [w2] ads.php 200 but no keyed link (20733B)
+[2026-09-10 06:39:36]     [w2] ads.php 200 but no keyed link (20733B)
+[2026-09-10 06:40:53]     picked (16 cand, 24.0): Sherlock Holmes and philosophy: the footprints of a gig [epub, 775 kB]
+[2026-09-10 06:41:13]     [w4] ads.php 200 but no keyed link (20965B)
+[2026-09-10 06:41:41]     [w4] ads.php -> 500 (no key)
+[2026-09-10 07:23:28]     picked (18 cand, 24.0): Inception and philosophy: ideas to die for [epub, 811 kB]
+[2026-09-10 07:23:46]     [w3] ads.php 200 but no keyed link (20786B)
+[2026-09-10 07:24:24]     [w3] ads.php 200 but no keyed link (20786B)
+[2026-09-10 07:28:53]     picked (6 cand, 24.0): The Rolling Stones and Philosophy: It's Just a Thought  [epub, 892 kB]
+[2026-09-10 07:29:14]     [w2] ads.php -> 500 (no key)
+[2026-09-10 07:29:51]     [w2] ads.php 200 but no keyed link (20816B)
+[2026-09-10 07:37:38]     picked (5 cand, 24.0): Neil Gaiman and Philosophy: Gods Gone Wild! [epub, 3 MB]
+[2026-09-10 07:37:54]     [w1] ads.php 200 but no keyed link (20825B)
+[2026-09-10 07:38:32]     [w1] ads.php 200 but no keyed link (20825B)
+[2026-09-10 07:47:09]     picked (9 cand, 24.0): The Walking dead and philosophy: zombie apocalypse now [epub, 3 MB]
+[2026-09-10 07:47:27]     [w4] ads.php 200 but no keyed link (20840B)
+[2026-09-10 07:47:37]     picked (10 cand, 24.0): Dungeons and dragons and philosophy: raiding the temple [epub, 742 kB]
+[2026-09-10 07:48:00]     [w5] ads.php 200 but no keyed link (20929B)
+[2026-09-10 07:48:06]     [w4] ads.php 200 but no keyed link (20840B)
+[2026-09-10 07:48:46]     [w5] ads.php 200 but no keyed link (20929B)
+[2026-09-10 08:24:54]     picked (5 cand, 21.0): The Catcher in the Rye and Philosophy [epub, 50 MB]
+[2026-09-10 08:25:10]     [w3] ads.php 200 but no keyed link (20770B)
+[2026-09-10 08:25:56]     [w3] ads.php 200 but no keyed link (20770B)
+[2026-09-10 08:28:16]     picked (8 cand, 24.0): Ender's Game and Philosophy: Genocide Is Child's Play [epub, 483 kB]
+[2026-09-10 08:28:31]     [w2] ads.php 200 but no keyed link (20784B)
+[2026-09-10 08:29:31]     [w2] ads.php 200 but no keyed link (20784B)
+[2026-09-10 08:30:17]     picked (3 cand, 24.0): Dracula and Philosophy: Dying to Know [epub, 7 MB]
+[2026-09-10 08:30:34]     [w1] ads.php 200 but no keyed link (20818B)
+[2026-09-10 08:31:17]     [w1] ads.php 200 but no keyed link (20818B)
+[2026-09-10 08:45:49]     picked (7 cand, 24.0): Downton Abbey and Philosophy: Thinking in That Manor [epub, 3 MB]
+[2026-09-10 08:46:09]     [w5] ads.php 200 but no keyed link (20812B)
+[2026-09-10 08:46:44]     picked (6 cand, 24.0): Hannibal Lecter and Philosophy: The Heart of the Matter [epub, 1 MB]
+[2026-09-10 08:46:58]     [w5] ads.php 200 but no keyed link (20812B)
+[2026-09-10 08:50:06]     [w4] ads.php 200 but no keyed link (20874B)
+[2026-09-10 08:50:40]     [w4] ads.php 200 but no keyed link (20874B)
+[2026-09-10 09:19:03]     picked (4 cand, 24.0): The Ultimate Walking Dead and Philosophy: Hungry for Mo [epub, 3 MB]
+[2026-09-10 09:19:24]     [w2] ads.php 200 but no keyed link (20853B)
+[2026-09-10 09:19:51]     [w2] ads.php 200 but no keyed link (20853B)
+[2026-09-10 09:31:01]     picked (3 cand, 24.0): The Princess Bride and Philosophy: Inconceivable! [epub, 2 MB]
+[2026-09-10 09:31:17]     [w1] ads.php 200 but no keyed link (20851B)
+[2026-09-10 09:34:54]     [w1] ads.php 200 but no keyed link (20851B)
+[2026-09-10 09:36:00]     picked (4 cand, 24.0): Batman, Superman and philosophy: badass or boyscout? [epub, 1004 kB]
+[2026-09-10 09:36:25]     [w3] ads.php 200 but no keyed link (20848B)
+[2026-09-10 09:37:04]     [w3] ads.php 200 but no keyed link (20848B)
+[2026-09-10 09:50:31]     picked (5 cand, 24.0): Discworld and philosophy: reality is not what it seems [epub, 685 kB]
+[2026-09-10 09:50:51]     [w5] ads.php 200 but no keyed link (20858B)
+[2026-09-10 09:51:27]     [w5] ads.php 200 but no keyed link (20858B)
+[2026-09-10 10:00:24]     picked (13 cand, 24.0): Orphan black and philosophy: grand theft DNA [epub, 671 kB]
+[2026-09-10 10:00:42]     [w4] ads.php 200 but no keyed link (20794B)
+[2026-09-10 10:01:08]     [w4] ads.php -> 500 (no key)
+[2026-09-10 10:30:45]     picked (1 cand, 24.0): Red Rising and Philosophy: Break the Chains! [epub, 2 MB]
+[2026-09-10 10:31:05]     [w2] ads.php -> 500 (no key)
+[2026-09-10 10:34:45]     [w2] ads.php 200 but no keyed link (20727B)
+[2026-09-10 10:40:40]     picked (2 cand, 24.0): The Ultimate Game of Thrones and Philosophy: You Think  [epub, 967 kB]
+[2026-09-10 10:40:59]     [w1] ads.php -> 500 (no key)
+[2026-09-10 10:41:33]     [w1] ads.php 200 but no keyed link (20885B)
+[2026-09-10 10:41:38]     picked (1 cand, 24.0): Peanuts and Philosophy: You're a Wise Man, Charlie Brow [epub, 713 kB]
+[2026-09-10 10:41:54]     [w3] ads.php -> 500 (no key)
+[2026-09-10 10:42:30]     [w3] ads.php -> 500 (no key)
+[2026-09-10 11:01:33]     picked (2 cand, 24.0): Deadpool and Philosophy: My Common Sense Is Tingling [epub, 775 kB]
+[2026-09-10 11:01:51]     [w5] ads.php 200 but no keyed link (20872B)
+[2026-09-10 11:02:34]     [w5] ads.php 200 but no keyed link (20872B)
+[2026-09-10 11:12:03]     picked (9 cand, 24.0): The X-Files and Philosophy: The Truth Is in Here [epub, 567 kB]
+[2026-09-10 11:12:21]     [w4] ads.php -> 500 (no key)
+[2026-09-10 11:12:50]     [w4] ads.php 200 but no keyed link (20714B)
+[2026-09-10 11:30:13]     picked (5 cand, 24.0): Mr. Robot and philosophy: beyond good and evil corp [epub, 1 MB]
+[2026-09-10 11:30:31]     [w2] ads.php 200 but no keyed link (20977B)
+[2026-09-10 11:30:36]     picked (25 cand, 19.0): The Political Philosophy of Alexander Hamilton [epub, 395 kB]
+[2026-09-10 11:30:54]     [w1] ads.php 200 but no keyed link (20964B)
+[2026-09-10 11:31:12]     [w2] ads.php 200 but no keyed link (20977B)
+[2026-09-10 11:31:22]     [w1] ads.php 200 but no keyed link (20964B)
+[2026-09-10 11:37:52]     picked (4 cand, 24.0): The man in the high castle and philosophy: subversive r [epub, 2 MB]
+[2026-09-10 11:38:07]     [w3] ads.php -> 500 (no key)
+[2026-09-10 11:38:39]     [w3] ads.php 200 but no keyed link (21130B)
+[2026-09-10 12:03:09]     picked (11 cand, 21.0): The Americans and Philosophy [epub, 2 MB]
+[2026-09-10 12:03:30]     [w5] ads.php 200 but no keyed link (20635B)
+[2026-09-10 12:04:07]     [w5] ads.php 200 but no keyed link (20635B)
+[2026-09-10 12:21:59]     picked (1 cand, 24.0): Jimi Hendrix and Philosophy: Experience Required [epub, 2 MB]
+[2026-09-10 12:22:17]     [w4] ads.php -> 500 (no key)
+[2026-09-10 12:23:04]     [w4] ads.php -> 500 (no key)
+[2026-09-10 12:31:13]     picked (4 cand, 24.0): American Horror Story and Philosophy: Life Is but a Nig [epub, 1 MB]
+[2026-09-10 12:31:33]     [w2] ads.php -> 500 (no key)
+[2026-09-10 12:32:01]     [w2] ads.php 200 but no keyed link (20862B)
+[2026-09-10 12:41:18]     picked (1 cand, 21.0): Iron Man vs. Captain America and Philosophy [epub, 2 MB]
+[2026-09-10 12:41:34]     [w1] ads.php 200 but no keyed link (20833B)
+[2026-09-10 12:42:02]     [w1] ads.php -> 500 (no key)
+[2026-09-10 12:42:03] #117 [w3] no search results
+[2026-09-10 12:42:13]     picked (5 cand, 24.0): Scott Adams and philosophy: a hole in the fabric of rea [epub, 2 MB]
+[2026-09-10 12:42:34]     [w3] ads.php 200 but no keyed link (20973B)
+[2026-09-10 12:43:16]     [w3] ads.php -> 500 (no key)
+[2026-09-10 13:01:27]     picked (4 cand, 24.0): Twin Peaks and Philosophy: That's Damn Fine Philosophy! [epub, 1 MB]
+[2026-09-10 13:01:47]     [w3] ads.php 200 but no keyed link (20963B)
+[2026-09-10 13:02:34]     [w3] ads.php 200 but no keyed link (20963B)
+[2026-09-10 13:15:17]     picked (2 cand, 24.0): Amy Schumer and Philosophy: Brainwreck! [epub, 985 kB]
+[2026-09-10 13:15:34]     [w5] ads.php 200 but no keyed link (20708B)
+[2026-09-10 13:16:08]     [w5] ads.php 200 but no keyed link (20708B)
+[2026-09-10 13:25:19]     picked (25 cand, 24.0): Westworld and Philosophy: Mind Equals Blown [epub, 2 MB]
+[2026-09-10 13:25:36]     [w2] ads.php 200 but no keyed link (20867B)
+[2026-09-10 13:25:52]     picked (1 cand, 22.5): Tom Petty and Philosophy: We Need to Know (Popular Cult [epub, 3 MB]
+[2026-09-10 13:26:09]     [w4] ads.php -> 500 (no key)
+[2026-09-10 13:26:22]     [w2] ads.php 200 but no keyed link (20867B)
+[2026-09-10 13:26:53]     [w4] ads.php -> 500 (no key)
+[2026-09-10 13:50:00]     picked (4 cand, 24.0): Rick and Morty and Philosophy: In the Beginning Was the [epub, 1 MB]
+[2026-09-10 13:50:03]     picked (4 cand, 22.5): Stranger Things and Philosophy: Thus Spake the Demogorg [epub, 3 MB]
+[2026-09-10 13:50:17]     [w1] ads.php -> 500 (no key)
+[2026-09-10 13:50:26]     [w3] ads.php 200 but no keyed link (21078B)
+[2026-09-10 13:50:57]     [w3] ads.php 200 but no keyed link (21078B)
+[2026-09-10 13:50:57]     [w1] ads.php 200 but no keyed link (20951B)
+[2026-09-10 14:11:28]     picked (1 cand, 21.0): Blade Runner 2049 and Philosophy [epub, 2 MB]
+[2026-09-10 14:11:47]     [w5] ads.php 200 but no keyed link (20679B)
+[2026-09-10 14:12:18]     [w5] ads.php 200 but no keyed link (20679B)
+[2026-09-10 14:19:03]     picked (2 cand, 21.0): Mister Rogers and Philosophy [epub, 3 MB]
+[2026-09-10 14:19:22]     [w2] ads.php 200 but no keyed link (20663B)
+[2026-09-10 14:20:00]     [w2] ads.php -> 500 (no key)
+[2026-09-10 14:33:07]     picked (2 cand, 24.0): Rupaul's Drag Race and Philosophy: Sissy That Thought [epub, 774 kB]
+[2026-09-10 14:33:27]     [w4] ads.php 200 but no keyed link (20816B)
+[2026-09-10 14:34:07]     [w4] ads.php 200 but no keyed link (20816B)
+[2026-09-10 14:45:22]     picked (23 cand, 21.0): The Good Place and Philosophy [epub, 2 MB]
+[2026-09-10 14:45:41]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 14:46:25]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 14:48:30]     picked (2 cand, 23.0): Avengers Infinity Saga and Philosophy: Go Fot the Head  [epub, 3 MB]
+[2026-09-10 14:48:47]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 14:49:15]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 15:02:13] #132 [w5] no search results
+[2026-09-10 15:02:20]     picked (5 cand, 24.0): Perry Mason and Philosophy: The Case of the Awesome Att [epub, 4 MB]
+[2026-09-10 15:02:40]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 15:03:24]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 15:17:24]     picked (2 cand, 22.5): KISS and Philosophy: Wiser than Hell (Popular Culture a [epub, 3 MB]
+[2026-09-10 15:17:44]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 15:18:25]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 15:29:09] #135 [w5] search http 502
+[2026-09-10 15:29:22]     picked (5 cand, 24.0): 30 Rock and Philosophy: We Want to Go to There [epub, 440 kB]
+[2026-09-10 15:29:40]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 15:30:10]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 15:39:24]     picked (9 cand, 24.0): Alice in wonderland and philosophy: curiouser and curio [epub, 366 kB]
+[2026-09-10 15:39:42]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-10 15:40:11]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-10 15:48:23]     picked (20 cand, 21.0): Alien and Philosophy [epub, 1 MB]
+[2026-09-10 15:48:40]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 15:48:49]     picked (10 cand, 23.5): Arrested Development and Philosophy: They've Made a Hug [epub, 321 kB]
+[2026-09-10 15:49:07]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 15:49:10]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 15:49:46]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 15:53:30]     picked (10 cand, 24.0): Avatar and philosophy: learning to see [epub, 6 MB]
+[2026-09-10 15:53:50]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 15:54:26]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 16:21:02]     picked (4 cand, 21.5): Avatar: The Last Airbender and Philosophy: Wisdom from  [epub, 790 kB]
+[2026-09-10 16:21:20]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 16:21:54]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 16:30:45] #142 [w5] net error 1: ConnectionError: SOCKSHTTPSConnectionPool(host='libgen.li', port=443): Read timed out.
+[2026-09-10 16:44:54]     picked (25 cand, 24.0): Batman and Philosophy-The Dark Knight of the Soul [epub, 297 kB]
+[2026-09-10 16:45:14]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-10 16:45:57]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-10 16:47:01]     picked (13 cand, 24.0): Battlestar Galactica and philosophy: knowledge here beg [epub, 549 kB]
+[2026-09-10 16:47:21]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 16:47:59]     picked (6 cand, 23.5): The Big Bang Theory and Philosophy: Rock, Paper, Scisso [epub, 804 kB]
+[2026-09-10 16:48:02]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 16:48:14]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 16:48:57]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 17:18:56]     picked (3 cand, 24.0): The Big Lebowski and Philosophy: Keeping Your Mind Limb [epub, 1 MB]
+[2026-09-10 17:19:13]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 17:19:49]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 17:36:53]     picked (8 cand, 24.0): BioShock and philosophy: irrational game, rational book [epub, 1 MB]
+[2026-09-10 17:37:13]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 17:37:48]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 17:38:30]     picked (17 cand, 24.0): Black Mirror and Philosophy: Dark Reflections [epub, 922 kB]
+[2026-09-10 17:38:50]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 17:39:30]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 17:40:55]     picked (4 cand, 24.0): Black Panther and Philosophy: What Can Wakanda Offer th [epub, 963 kB]
+[2026-09-10 17:41:08]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 17:41:46]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 17:56:59]     picked (6 cand, 24.0): Black Sabbath & philosophy: mastering reality [epub, 335 kB]
+[2026-09-10 17:57:18]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-10 17:57:47]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-10 18:11:11] #151 [w2] no search results
+[2026-09-10 18:11:20]     picked (5 cand, 21.0): The Ultimate Daily Show and Philosophy [epub, 492 kB]
+[2026-09-10 18:11:38]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 18:12:14]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 18:28:41]     picked (5 cand, 24.0): Disney and Philosophy: Truth, Trust, and a Little Bit o [epub, 720 kB]
+[2026-09-10 18:28:59]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 18:29:26]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 18:32:50]     picked (5 cand, 24.0): Doctor Strange and Philosophy: The Other Book of Forbid [epub, 961 kB]
+[2026-09-10 18:33:09]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 18:33:48]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 18:35:10]     picked (7 cand, 24.0): Downton Abbey and Philosophy: The Truth Is Neither Here [epub, 374 kB]
+[2026-09-10 18:35:27]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 18:36:04]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 18:49:56]     picked (8 cand, 24.0): Ender's Game and philosophy: the logic gate is down [epub, 366 kB]
+[2026-09-10 18:50:10]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 18:50:40]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 18:52:57] #159 [w4] net error 1: ConnectionError: SOCKSHTTPSConnectionPool(host='libgen.li', port=443): Read timed out.
+[2026-09-10 19:13:54]     picked (1 cand, 22.0): Fallout and Philosophy;THINKING OUTSIDE THE SHELTER [epub, 1 MB]
+[2026-09-10 19:14:14]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 19:14:41]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 19:31:31]     picked (1 cand, 17.5): Family Guy and Philosophy [pdf, 12 MB]
+[2026-09-10 19:31:48]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 19:32:16]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 19:37:13]     picked (9 cand, 24.0): Final fantasy and philosophy: the ultimate walkthrough [epub, 341 kB]
+[2026-09-10 19:37:33]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 19:38:17]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 19:40:46]     picked (19 cand, 24.0): Game of thrones and philosophy logic cuts deeper than s [epub, 829 kB]
+[2026-09-10 19:41:06]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 19:41:47]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 19:54:08]     picked (6 cand, 24.0): The girl with the dragon tattoo and philosophy: everyth [epub, 3 MB]
+[2026-09-10 19:54:29]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-10 19:54:58]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-10 20:19:29]     picked (23 cand, 21.5): The Good Place and Philosophy: Everything is Forking Fi [epub, 868 kB]
+[2026-09-10 20:19:46]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 20:20:16]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 20:39:07]     picked (3 cand, 24.0): Green Lantern and Philosophy-No Evil Shall Escape This  [epub, 823 kB]
+[2026-09-10 20:39:26]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 20:40:00]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 20:47:20]     picked (25 cand, 24.0): The Ultimate Harry Potter and Philosophy: Hogwarts for  [epub, 636 kB]
+[2026-09-10 20:47:37]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 20:47:50]     picked (18 cand, 24.0): Heroes and philosophy: buy the book, save the world [epub, 1 MB]
+[2026-09-10 20:48:06]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 20:48:09]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 20:48:50]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 21:07:00]     picked (5 cand, 24.0): The Hobbit and philosophy: for when you've lost your dw [epub, 940 kB]
+[2026-09-10 21:07:22]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-10 21:07:55]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-10 21:18:04]     picked (25 cand, 23.0): House and Philosophy Everybody Lies 1., Auflage [epub, 310 kB]
+[2026-09-10 21:18:22]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 21:19:10]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 21:40:16]     picked (10 cand, 24.0): House of cards and philosophy: Underwood's republic [epub, 472 kB]
+[2026-09-10 21:40:30]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 21:41:15]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 21:55:53]     picked (7 cand, 24.0): The Hunger games and philosophy: a critique of pure tre [epub, 993 kB]
+[2026-09-10 21:56:10]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 21:56:38]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 21:56:48]     picked (11 cand, 24.0): Indiana Jones and Philosophy : Why Did it Have to be So [epub, 799 kB]
+[2026-09-10 21:57:08]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 21:57:33]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 21:59:15]     picked (9 cand, 24.0): Iron Man and Philosophy: Facing the Stark Reality [epub, 344 kB]
+[2026-09-10 21:59:37]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-10 22:00:10]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-10 22:11:36] #176 [w2] no search results
+[2026-09-10 22:11:46] #177 [w2] no search results
+[2026-09-10 22:11:56]     picked (12 cand, 24.0): LEGO and philosophy: constructing reality brick by bric [epub, 638 kB]
+[2026-09-10 22:12:17]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 22:12:47]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 22:32:41]     picked (14 cand, 19.5): The Legend of Zelda and philosophy: I link therefore I  [epub, 976 kB]
+[2026-09-10 22:33:00]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 22:33:38]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 22:47:02]     picked (2 cand, 21.5): Mad Max and Philosophy: Thinking Through the Wasteland  [epub, 1 MB]
+[2026-09-10 22:47:20]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 22:47:55]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 22:55:08]     picked (7 cand, 23.0): The Ultimate Lost and Philosophy: Think Together, Die A [epub, 417 kB]
+[2026-09-10 22:55:23]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-10 22:58:50]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-10 23:04:06]     picked (9 cand, 24.0): Mad Men and Philosophy: Nothing Is as It Seems [epub, 519 kB]
+[2026-09-10 23:04:25]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 23:04:54]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-10 23:08:07]     picked (3 cand, 20.0): Metallica and Philosophy: A Crash Course in Brain Surge [pdf, 2 MB]
+[2026-09-10 23:08:29]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 23:09:15]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-10 23:16:52]     picked (24 cand, 24.0): The Office and Philosophy: Scenes from the Unexamined L [epub, 788 kB]
+[2026-09-10 23:17:06]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 23:17:35]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-10 23:36:41]     picked (4 cand, 21.5): Saturday Night Live and Philosophy: Deep Thoughts Throu [epub, 735 kB]
+[2026-09-10 23:37:02]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 23:37:33]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-10 23:54:13]     picked (7 cand, 24.0): Spider-Man and Philosophy: The Web of Inquiry [epub, 774 kB]
+[2026-09-10 23:54:29]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-10 23:55:00]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-10 23:59:15]     picked (8 cand, 24.0): Sons of anarchy and philosophy brains before bullets [epub, 878 kB]
+[2026-09-10 23:59:33]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 00:00:02]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 00:03:56]     picked (12 cand, 24.0): The Ultimate South Park and Philosophy: Respect My Phil [epub, 386 kB]
+[2026-09-11 00:04:14]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 00:04:50]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 00:20:45]     picked (6 cand, 24.0): The ultimate Star Trek and philosophy: the search for S [epub, 639 kB]
+[2026-09-11 00:21:04]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 00:21:36]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 00:46:50]     picked (7 cand, 21.5): The Ultimate Star Wars and Philosophy: You Must Unlearn [epub, 745 kB]
+[2026-09-11 00:47:10]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 00:47:48]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 01:00:30]     picked (3 cand, 21.5): Star Wars and Philosophy Strikes Back: This Is the Way  [epub, 905 kB]
+[2026-09-11 01:00:53]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 01:01:27]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 01:03:34]     picked (24 cand, 24.0): Superman and philosophy: what would the Man of Steel do [epub, 3 MB]
+[2026-09-11 01:03:56]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 01:04:31]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 01:06:51]     picked (22 cand, 24.0): Supernatural and philosophy metaphysics and monsters .. [epub, 765 kB]
+[2026-09-11 01:07:12]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 01:07:44]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 01:30:21]     picked (2 cand, 20.5): Taylor Swift and Philosophy: Essays from the Tortured P [pdf, 934 kB]
+[2026-09-11 01:30:38]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 01:31:23]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 01:43:02]     picked (3 cand, 24.0): Ted Lasso and Philosophy : No Question Is Into Touch [epub, 858 kB]
+[2026-09-11 01:43:23]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 01:43:52]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 01:56:26]     picked (12 cand, 24.0): Terminator and philosophy: i'll be back, therefore i am [epub, 392 kB]
+[2026-09-11 01:56:46]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 01:57:22]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 01:58:22]     picked (3 cand, 20.0): True blood and philosophy: we want to think bad things  [epub, 573 kB]
+[2026-09-11 01:58:37]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 01:59:16]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 02:06:13] #198 [w1] no search results
+[2026-09-11 02:06:23]     picked (5 cand, 24.0): True Detective and Philosophy: A Deeper Kind of Darknes [epub, 523 kB]
+[2026-09-11 02:06:44]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 02:07:13]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 02:24:52]     picked (25 cand, 24.0): Twilight and Philosophy: Vampires, Vegetarians, and the [epub, 286 kB]
+[2026-09-11 02:25:11]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 02:25:50]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 02:30:10]     picked (6 cand, 24.0): Veronica Mars and Philosophy: Investigating the Mysteri [epub, 728 kB]
+[2026-09-11 02:30:35]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 02:31:12]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 02:49:46]     picked (9 cand, 24.0): The Walking Dead and Philosophy-Shotgun, Machete, Reaso [epub, 273 kB]
+[2026-09-11 02:50:00]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 02:50:38]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 02:53:05]     picked (15 cand, 24.0): Watchmen and Philosophy: A Rorschach Test [epub, 607 kB]
+[2026-09-11 02:53:22]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 02:53:49]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 03:04:01]     picked (25 cand, 23.0): Westworld and philosophy: if you go looking for the tru [epub, 490 kB]
+[2026-09-11 03:04:28]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 03:05:10]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 03:08:56]     picked (1 cand, 24.0): The Wheel of Time and Philosophy: A Portion of Wisdom [epub, 1 MB]
+[2026-09-11 03:09:16]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 03:09:57]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 03:42:57]     picked (1 cand, 20.0): The Witcher and Philosophy: Toss a Coin to Your Philoso [pdf, 2 MB]
+[2026-09-11 03:43:16]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 03:43:46]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 03:44:53]     picked (6 cand, 21.0): Wonder Woman and Philosophy [epub, 582 kB]
+[2026-09-11 03:45:08]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 03:45:46]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 03:56:28]     picked (26 cand, 23.0): X-Men and Philosophy Astonishing Insight and Uncanny Ar [epub, 592 kB]
+[2026-09-11 03:56:44]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 03:57:14]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 03:59:48]     picked (5 cand, 21.0): Tennis and Philosophy [epub, 448 kB]
+[2026-09-11 04:00:03]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 04:00:32]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 04:10:10]     picked (5 cand, 21.0): The Philosophy of Ang Lee [epub, 2 MB]
+[2026-09-11 04:10:27]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 04:11:12]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 04:51:55]     picked (9 cand, 21.0): The Philosophy of the Beats [epub, 2 MB]
+[2026-09-11 04:52:16]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 04:52:42]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 04:54:02]     picked (4 cand, 21.0): The Philosophy of Charlie Kaufman [epub, 1 MB]
+[2026-09-11 04:54:22]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 04:54:50]     picked (4 cand, 21.0): The Philosophy of Clint Eastwood [epub, 1 MB]
+[2026-09-11 04:58:07]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 04:58:09]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 04:58:54]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 05:08:37]     picked (3 cand, 21.0): The Philosophy of David Cronenberg [epub, 687 kB]
+[2026-09-11 05:08:57]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 05:09:30]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 05:13:18]     picked (4 cand, 21.0): The Philosophy of David Lynch [epub, 396 kB]
+[2026-09-11 05:13:40]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 05:14:08]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 05:44:16]     picked (25 cand, 20.0): Philosophy of Popular Culture : Philosophy of Horror [epub, 3 MB]
+[2026-09-11 05:44:35]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 05:45:07]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 05:48:55]     picked (5 cand, 21.0): The philosophy of J. J. Abrams [epub, 1 MB]
+[2026-09-11 05:49:15]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 05:49:59]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 05:57:27]     picked (3 cand, 21.0): The Philosophy of Joss Whedon [epub, 2 MB]
+[2026-09-11 05:57:46]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 05:58:24]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 06:05:55]     picked (1 cand, 20.5): The Philosophy of Michael Mann First [epub, 1 MB]
+[2026-09-11 06:06:13]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 06:06:55]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 06:12:34]     picked (8 cand, 21.0): The Philosophy of Neo-Noir [epub, 2 MB]
+[2026-09-11 06:12:53]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 06:13:22]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 06:49:10]     picked (5 cand, 21.0): The Philosophy of Spike Lee [epub, 1 MB]
+[2026-09-11 06:49:27]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 06:50:06]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 06:51:37]     picked (4 cand, 21.0): The Philosophy of Steven Soderbergh [epub, 2 MB]
+[2026-09-11 06:51:58]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 06:52:37]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 06:57:49]     picked (9 cand, 21.0): The Philosophy of The X-Files [epub, 620 kB]
+[2026-09-11 06:58:10]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 06:58:38]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 06:59:51]     picked (19 cand, 21.0): The Philosophy of TV Noir [epub, 558 kB]
+[2026-09-11 07:00:08]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 07:00:46]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 07:18:19]     picked (6 cand, 21.0): The Philosophy of War Films [epub, 979 kB]
+[2026-09-11 07:18:43]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 07:19:22]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 07:49:11] #238 [w3] search http 502
+[2026-09-11 07:51:30] #239 [w3] search http 502
+[2026-09-11 07:53:46] #240 [w3] search http 502
+[2026-09-11 07:53:55]     picked (6 cand, 21.0): Joss Whedon As Philosopher [epub, 11 MB]
+[2026-09-11 07:54:13]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 07:54:31]     picked (25 cand, 19.0): Doctor Who and Philosophy: Bigger on the Inside [epub, 580 kB]
+[2026-09-11 07:54:49]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 07:54:50]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 07:56:20]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 08:03:58] #245 [w4] no search results
+[2026-09-11 08:04:07] #246 [w4] no search results
+[2026-09-11 08:04:17]     picked (2 cand, 19.5): Ultimate Supernatural and Philosophy (Pop Culture and P [epub, 4 MB]
+[2026-09-11 08:04:32]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 08:05:07]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 08:09:12] #248 [w1] no search results
+[2026-09-11 08:09:20] #249 [w1] no search results
+[2026-09-11 08:09:32]     picked (25 cand, 22.5): Queen and Philosophy: Guaranteed to Blow Your Mind (Pop [epub, 4 MB]
+[2026-09-11 08:09:50]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 08:10:35]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 08:12:12]     picked (2 cand, 20.0): Punk Rock and Philosophy (Pop Culture and Philosophy) [epub, 7 MB]
+[2026-09-11 08:12:27]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 08:12:56]     picked (2 cand, 21.0): Better Call Saul and Philosophy [epub, 571 kB]
+[2026-09-11 08:13:12]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 08:13:15]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 08:16:59]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 08:23:37]     picked (1 cand, 20.0): Asimov's Foundation and Philosophy (Pop Culture and Phi [epub, 4 MB]
+[2026-09-11 08:23:57]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 08:27:33]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 08:27:38] #254 [w1] no search results
+[2026-09-11 08:27:45]     picked (9 cand, 17.5): Nietzsche, Godfather of Fascism?: On the Uses and Abuse [epub, 2 MB]
+[2026-09-11 08:28:04]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 08:28:41]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 08:50:51]     picked (1 cand, 21.0): Anthony Bourdain and Philosophy [epub, 8 MB]
+[2026-09-11 08:51:11]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 08:51:44]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 09:00:25] #257 [w2] net error 1: ConnectionError: SOCKSHTTPSConnectionPool(host='libgen.li', port=443): Read timed out.
+[2026-09-11 09:01:37]     picked (26 cand, 20.5): South Park and Philosophy: You Know, I Learned Somethin [pdf, 2 MB]
+[2026-09-11 09:01:59]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 09:02:32]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 09:04:26]     picked (27 cand, 19.5): The ultimate Lost and philosophy thus spake the island [epub, 418 kB]
+[2026-09-11 09:04:46]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 09:05:17]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 09:15:22]     picked (10 cand, 20.5): The Daily show and philosophy: moments of zen in the ar [pdf, 2 MB]
+[2026-09-11 09:15:40]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 09:16:08]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 09:25:27]     picked (8 cand, 18.0): The Twilight Zone and Philosophy: A Dangerous Dimension [epub, 2 MB]
+[2026-09-11 09:25:43]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 09:26:13]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 10:05:53]     picked (11 cand, 23.5): Dr. Seuss and philosophy : oh, the thinks you can think [epub, 491 kB]
+[2026-09-11 10:06:11]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 10:06:38]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 10:07:25]     picked (4 cand, 21.0): Stephen King and Philosophy [epub, 912 kB]
+[2026-09-11 10:07:42]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 10:08:28]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 10:12:52]     picked (10 cand, 21.0): Jane Austen and Philosophy [epub, 422 kB]
+[2026-09-11 10:13:10]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 10:13:54]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 10:14:38]     picked (8 cand, 21.0): Mark Twain and Philosophy [epub, 904 kB]
+[2026-09-11 10:14:52]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 10:15:35]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 10:33:42]     picked (25 cand, 20.5): Wine and Philosophy: A Symposium on Thinking and Drinki [pdf, 5 MB]
+[2026-09-11 10:37:03]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 10:37:37]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 11:04:48]     picked (3 cand, 4.5): 1969-feb vol. 81 iss. 478 [pdf, 257 kB]
+[2026-09-11 11:05:04]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 11:05:41]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 11:06:08]     picked (25 cand, 19.5): Food and Philosophy: Eat, Think, and Be Merry 1st ed [pdf, 1 MB]
+[2026-09-11 11:06:24]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 11:06:51]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 11:13:53]     picked (8 cand, 17.5): The Phenomenology and the Philosophy of Running: The Mu [epub, 802 kB]
+[2026-09-11 11:14:09]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 11:14:53]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 11:16:58]     picked (1 cand, 20.0): Whiskey and Philosophy: A Small Batch of Spirited Ideas [pdf, 2 MB]
+[2026-09-11 11:17:14]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 11:17:50]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 11:28:42]     picked (2 cand, 23.5): Fatherhood - Philosophy for Everyone: The Dao of Daddy  [epub, 1 MB]
+[2026-09-11 11:32:01]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 11:32:43]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 11:57:07]     picked (5 cand, 24.0): Motherhood: Philosophy for Everyone: The Birth of Wisdo [epub, 833 kB]
+[2026-09-11 11:57:22]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 11:57:59]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 12:09:19]     picked (4 cand, 24.0): Sailing - Philosophy for Everyone: Catching the Drift o [epub, 1 MB]
+[2026-09-11 12:09:38]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 12:10:18]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 12:18:54]     picked (3 cand, 24.0): Coffee - Philosophy for Everyone: Grounds for Debate [epub, 1 MB]
+[2026-09-11 12:19:12]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 12:19:44]     picked (5 cand, 21.0): Hunting: Philosophy for Everyone [epub, 2 MB]
+[2026-09-11 12:19:58]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 12:20:03]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 12:20:43]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 12:39:07]     picked (3 cand, 20.5): Cycling - Philosophy for Everyone: A Philosophical Tour [pdf, 4 MB]
+[2026-09-11 12:39:20]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 12:39:48]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 13:04:58]     picked (17 cand, 22.0): Porn - Philosophy for Everyone: How to Think With Kink [epub, 773 kB]
+[2026-09-11 13:05:18]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 13:05:57]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 13:08:18]     picked (5 cand, 24.0): Fashion: Philosophy for Everyone: Thinking with Style [epub, 687 kB]
+[2026-09-11 13:08:35]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 13:09:06]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 13:12:35]     picked (3 cand, 24.0): Christmas - Philosophy for Everyone: Better Than a Lump [epub, 722 kB]
+[2026-09-11 13:12:54]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 13:13:38]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 13:16:20]     picked (4 cand, 23.5): Gardening: Philosophy for Everyone- Cultivating Wisdom  [epub, 3 MB]
+[2026-09-11 13:16:35]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 13:17:10]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 13:44:06]     picked (4 cand, 21.0): Cannabis Philosophy for Everyone [epub, 1 MB]
+[2026-09-11 13:44:20]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 13:44:56]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 14:02:35]     picked (5 cand, 23.5): Climbing--philosophy for everyone : because it's there  [epub, 560 kB]
+[2026-09-11 14:02:54]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 14:03:36]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 14:06:52]     picked (3 cand, 23.0): Tattoos: philosophy for everyone: I ink, therefore I am [epub, 2 MB]
+[2026-09-11 14:07:11]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 14:07:19]     picked (5 cand, 24.0): College Sex: Philosophy for Everyone: Philosophers With [epub, 425 kB]
+[2026-09-11 14:07:38]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 14:07:44]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 14:08:18]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 14:19:26]     picked (4 cand, 21.0): Serial Killers - Philosophy for Everyone [epub, 572 kB]
+[2026-09-11 14:19:46]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 14:20:15]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 14:51:19]     picked (5 cand, 23.5): Yoga: Philosophy for Everyone: Bending Mind and Body Pa [epub, 911 kB]
+[2026-09-11 14:51:39]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 14:52:11]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 15:00:44]     picked (1 cand, 20.5): Blues - Philosophy for Everyone: Thinking Deep About Fe [pdf, 1 MB]
+[2026-09-11 15:00:58]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 15:01:30]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 15:04:50]     picked (2 cand, 20.5): Dating - Philosophy for Everyone: Flirting with Big Ide [pdf, 3 MB]
+[2026-09-11 15:05:03]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 15:05:52]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 15:15:41]     picked (25 cand, 20.0): American Horror Story and Philosophy [epub, 1 MB]
+[2026-09-11 15:15:58]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 15:16:34]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 15:16:57]     picked (8 cand, 5.5): vol. 22 iss. 2 [pdf, 385 kB]
+[2026-09-11 15:17:12]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 15:17:46]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 15:40:59] #291 [w1] no search results
+[2026-09-11 15:41:11] #292 [w1] no search results
+[2026-09-11 15:41:18] #293 [w1] no search results
+[2026-09-11 15:41:27] #294 [w1] no search results
+[2026-09-11 15:41:38] #295 [w1] no search results
+[2026-09-11 15:41:48]     picked (2 cand, 15.5): Is Data Human?: The Metaphysics of Star Trek 2 [pdf, 15 MB]
+[2026-09-11 15:45:03]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 15:45:48]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 15:57:38]     picked (3 cand, 24.0): The Philosopher At the End of the Universe: Philosophy  [epub, 415 kB]
+[2026-09-11 15:57:55]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 15:58:41]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 16:01:05]     picked (19 cand, 24.0): The Philosophy of Tolkien-The Worldview Behind The Lord [epub, 227 kB]
+[2026-09-11 16:01:26]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 16:02:02]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 16:05:44]     picked (2 cand, 17.0): Philosophy and The Hitchhiker’s Guide to the Galaxy 1 [pdf, 7 MB]
+[2026-09-11 16:06:00]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 16:06:43]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 16:08:43]     picked (2 cand, 20.0): Who is Who? : the philosophy of Doctor Who Online-Ausg [epub, 666 kB]
+[2026-09-11 16:08:56]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 16:09:37]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 16:19:24]     picked (6 cand, 21.0): Comics As Philosophy [epub, 378 kB]
+[2026-09-11 16:19:42]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 16:20:20]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 16:41:56]     picked (2 cand, 17.5): Graphic Novels as Philosophy [pdf, 2 MB]
+[2026-09-11 16:42:12]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 16:42:40]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 17:04:49]     picked (8 cand, 21.0): Philosophy and the Interpretation of Pop Culture [epub, 691 kB]
+[2026-09-11 17:05:03]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 17:05:38]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 17:11:55]     picked (14 cand, 24.0): Introducing Philosophy Through Pop Culture: From Socrat [epub, 697 kB]
+[2026-09-11 17:12:15]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 17:12:54]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 17:18:57]     picked (4 cand, 20.0): Minerva's Night Out: Philosophy, Pop Culture, and Movin [pdf, 8 MB]
+[2026-09-11 17:19:11]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 17:19:29]     picked (23 cand, 19.5): The Philosophy of TV Noir [epub, 558 kB]
+[2026-09-11 17:19:43]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 17:19:43]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 17:20:17]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 17:42:17] #307 [w1] no search results
+[2026-09-11 17:42:25]     picked (2 cand, 21.0): The Palgrave Handbook of Popular Culture as Philosophy [epub, 5 MB]
+[2026-09-11 17:42:43]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 17:43:24]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 18:00:37] #309 [w1] no search results
+[2026-09-11 18:00:50]     picked (2 cand, 20.0): Real Meaning of Doctor Who (Real Meaning of Popular Cul [epub, 4 MB]
+[2026-09-11 18:01:09]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 18:01:36]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 18:12:18]     picked (25 cand, 24.0): Harry Potter and Philosophy-If Aristotle Ran Hogwarts [epub, 396 kB]
+[2026-09-11 18:12:37]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 18:13:20]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 18:14:39]     picked (27 cand, 24.0): The Matrix and Philosophy: Welcome to the Desert of the [epub, 474 kB]
+[2026-09-11 18:14:48]     picked (6 cand, 24.0): Buffy the Vampire Slayer and Philosophy-Fear and Trembl [epub, 1 MB]
+[2026-09-11 18:14:57]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 18:15:04]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 18:15:05]     picked (4 cand, 24.0): Woody Allen and Philosophy: [You Mean My Whole Fallacy  [epub, 433 kB]
+[2026-09-11 18:15:24]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 18:15:43]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 18:15:46]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 18:16:08]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 18:23:23]     picked (9 cand, 24.0): The Simpsons and Philosophy: The D'oh! of Homer [epub, 2 MB]
+[2026-09-11 18:23:38]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 18:27:11]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 19:01:44]     picked (1 cand, 4.5): 2005-sep vol. 28 iss. 3 [pdf, 42 kB]
+[2026-09-11 19:02:03]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 19:02:32]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 19:17:03]     picked (4 cand, 24.0): The Atkins Diet and Philosophy: Chewing the Fat with Ka [epub, 451 kB]
+[2026-09-11 19:17:19]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 19:17:49]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 19:21:18]     picked (4 cand, 24.0): The Chronicles of Narnia and Philosophy: The Lion the W [epub, 645 kB]
+[2026-09-11 19:21:33]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 19:22:05]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 19:25:45]     picked (6 cand, 24.0): Bob Dylan and Philosophy: It's Alright Ma (I'm Only Thi [epub, 393 kB]
+[2026-09-11 19:25:54]     picked (8 cand, 24.0): Monty Python and Philosophy: Nudge Nudge, Think Think! [epub, 641 kB]
+[2026-09-11 19:26:03]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 19:26:11]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 19:26:33]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 19:26:56]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 20:09:30]     picked (11 cand, 20.5): Undead Philosophy 101 [epub, 364 kB]
+[2026-09-11 20:09:45]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 20:10:16]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 20:23:54]     picked (1 cand, 17.0): How Does It Feel?: Elvis Presley, The Beatles, Bob Dyla [epub, 420 kB]
+[2026-09-11 20:24:12]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 20:24:41]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 20:25:42]     picked (26 cand, 20.5): South Park and Philosophy: Bigger, Longer, and More Pen [pdf, 3 MB]
+[2026-09-11 20:26:00]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 20:26:35]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 20:27:23]     picked (13 cand, 24.0): Hitchcock and Philosophy: Dial M for Metaphysics [epub, 985 kB]
+[2026-09-11 20:27:36]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 20:28:09]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 20:34:51]     picked (7 cand, 24.0): Quentin Tarantino and philosophy: how to philosophize w [epub, 427 kB]
+[2026-09-11 20:35:05]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 20:35:40]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 21:04:55]     picked (13 cand, 24.0): Battlestar Galactica and Philosophy : Mission Accomplis [epub, 601 kB]
+[2026-09-11 21:05:11]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 21:05:41]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 21:17:15]     picked (14 cand, 24.0): The Legend of Zelda and philosophy: I link therefore I  [epub, 976 kB]
+[2026-09-11 21:17:35]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 21:18:21]     [w5] ads.php 200 but no keyed link (0B)
+[2026-09-11 21:19:22]     picked (8 cand, 24.0): Wizard of Oz and Philosophy: Wicked Wisdom of the West [epub, 528 kB]
+[2026-09-11 21:19:41]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 21:20:26]     [w3] ads.php 200 but no keyed link (0B)
+[2026-09-11 21:32:21]     picked (11 cand, 23.0): Radiohead and Philosophy: Fitter Happier More Deductive [epub, 672 kB]
+[2026-09-11 21:32:41]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 21:33:20]     [w4] ads.php 200 but no keyed link (0B)
+[2026-09-11 21:38:04]     picked (3 cand, 24.0): Jimmy Buffett and Philosophy: The Porpoise Driven Life [epub, 319 kB]
+[2026-09-11 21:38:24]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 21:38:51]     [w2] ads.php 200 but no keyed link (0B)
+[2026-09-11 21:58:47]     picked (14 cand, 24.0): Stephen Colbert and Philosophy: I Am Philosophy (And So [epub, 531 kB]
+[2026-09-11 22:02:03]     [w1] ads.php 200 but no keyed link (0B)
+[2026-09-11 22:02:38]     [w1] ads.php 200 but no keyed link (0B)
