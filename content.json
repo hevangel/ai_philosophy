@@ -1,37 +1,50 @@
 {
   "site": {
     "title": "AI Philosophy",
+    "title_zh": "AI 哲學",
     "tagline": "Dialogues with AI on philosophical questions — essays, a knowledge base, and organized research.",
+    "tagline_zh": "與人工智能對談哲學問題——文章、知識庫，以及整理有序的研究。",
     "description": "Philosophy essays written in dialogue with AI, an llm-wiki style knowledge base, and research projects where AI reads and organizes the material."
   },
   "sections": [
     {
       "id": "articles",
       "name": "Articles",
+      "name_zh": "文章",
       "description": "Philosophical essays written in dialogue with AI.",
+      "description_zh": "與人工智能對話而寫成的哲學文章。",
       "items": [
         {
           "slug": "after-the-cultural-altar",
           "title": "After the Cultural Altar: Artificial Intelligence and the Reorganization of Cultural Hierarchy",
+          "title_zh": "文化祭壇之後：人工智能與文化階序的重組",
           "summary": "Generative AI does not abolish cultural hierarchy but reorganizes it: scarcity migrates from production and access to judgment, attention, and provenance.",
+          "summary_zh": "生成式人工智能並未廢除文化階序，而是重組它：稀缺性正從生產與接近的層面，轉移到判斷力、注意力與出處之上。",
           "path": "articles/after_the_cultural_altar/index.md",
           "cover": "articles/after_the_cultural_altar/cover.png",
+          "cover_zh_text": ["文化祭壇之後", "人工智能與文化階序的重組"],
           "date": "2026-09-04"
         },
         {
           "slug": "can-ai-know-art",
           "title": "Can AI Know Art?",
+          "title_zh": "人工智能懂得藝術嗎？",
           "summary": "If taste is compressed pattern recognition, AI can externalize cultural capital — and, given resources, exercise a new form of aesthetic sovereignty.",
+          "summary_zh": "如果品味是一種壓縮了的模式識別，人工智能便能將文化資本外化——並在資源許可時，行使一種新的美學主權。",
           "path": "articles/can_ai_know_art/index.md",
           "cover": "articles/can_ai_know_art/cover.png",
+          "cover_zh_text": ["人工智能懂得藝術嗎？", "品味、權力與新的美學主權", "一篇關於藝術、金錢與機器的隨筆"],
           "date": "2026-08-31"
         },
         {
           "slug": "who-is-thinking",
           "title": "Who Is Thinking? Artificial Intelligence, Authorship, and the Purpose of Philosophy",
+          "title_zh": "誰在思考？人工智能、作者身分與哲學的目的",
           "summary": "AI-assisted philosophy should be judged by epistemic agency — understanding, judgment, and responsibility — not by where each sentence originated.",
+          "summary_zh": "衡量 AI 協作的哲學，應看認知主體性——理解、判斷與責任——而非每個句子出自誰手。",
           "path": "articles/who_is_thinking/index.md",
           "cover": "articles/who_is_thinking/cover.png",
+          "cover_zh_text": ["誰在思考？", "人工智能、作者身分與哲學的目的", "真理。理解。責任。", "不只是什麼是真——而是誰為這場追尋負責。"],
           "date": "2026-08-31"
         }
       ]
@@ -39,12 +52,16 @@
     {
       "id": "college-essays",
       "name": "College Essays",
+      "name_zh": "大學論文",
       "description": "Philosophy course papers from college (2006–2011), recovered from the original Word files and published as written.",
+      "description_zh": "大學哲學系的課業論文（2006–2011），由原本的 Word 檔案復原，按原貌刊出；中文版由 AI 翻譯成香港繁體中文。",
       "items": [
         {
           "slug": "phil120-marquis-on-abortion",
           "title": "Don Marquis’s view on the Morality of Abortion",
+          "title_zh": "唐・馬奎斯論墮胎的道德性",
           "summary": "Examines Don Marquis’s argument that abortion is wrong for the same reason murder is wrong, and the debate it was designed to sidestep.",
+          "summary_zh": "檢視馬奎斯「墮胎之錯，同於謀殺之錯」的論證，以及這個論證刻意繞開的爭議。",
           "path": "college-essays/phil120-marquis-on-abortion/index.md",
           "cover": "college-essays/phil120-marquis-on-abortion/cover.png",
           "date": "2007-10-15"
@@ -52,7 +69,9 @@
         {
           "slug": "phil120-abortion-stand-off",
           "title": "Is Abortion Morally Permissible or Wrong?",
+          "title_zh": "墮胎在道德上是許可的，還是錯的？",
           "summary": "Argues that Marquis’s anti-abortion argument ends in the same pro-life/pro-choice stand-off it was meant to avoid.",
+          "summary_zh": "論證馬奎斯的反墮胎論證，最終還是陷入它本想避開的「維護生命」與「支持選擇」兩陣營的僵局。",
           "path": "college-essays/phil120-abortion-stand-off/index.md",
           "cover": "college-essays/phil120-abortion-stand-off/cover.png",
           "date": "2007-11-07"
@@ -60,7 +79,9 @@
         {
           "slug": "phil120-regan-on-animal-rights",
           "title": "Tom Regan’s Argument on Animal Rights",
+          "title_zh": "湯姆・雷根論動物權利",
           "summary": "Examines Regan’s rights-based case for animal rights and whether the rights theory really shows it is wrong to kill animals.",
+          "summary_zh": "檢視雷根以權利為本的動物權利論證，以及權利理論是否真的能證明殺死動物是錯的。",
           "path": "college-essays/phil120-regan-on-animal-rights/index.md",
           "cover": "college-essays/phil120-regan-on-animal-rights/cover.png",
           "date": "2007-11-24"
@@ -68,7 +89,9 @@
         {
           "slug": "phil120-duty-to-become-vegetarians",
           "title": "Do we have a moral duty to become vegetarians?",
+          "title_zh": "我們有成為素食者的道德義務嗎？",
           "summary": "Weighs Singer’s utilitarian and Regan’s rights-based arguments for vegetarianism and finds neither fully established.",
+          "summary_zh": "權衡辛格的功利主義論證與雷根的權利論證，指出兩者皆未能完全確立素食的義務。",
           "path": "college-essays/phil120-duty-to-become-vegetarians/index.md",
           "cover": "college-essays/phil120-duty-to-become-vegetarians/cover.png",
           "date": "2007-12-09"
@@ -76,7 +99,9 @@
         {
           "slug": "phil201-external-world-moore-russell",
           "title": "Proofing the Existence of External World",
+          "title_zh": "證明外在世界的存在",
           "summary": "Compares Moore’s and Russell’s proofs of an external world and proposes a proof that addresses their shortcomings.",
+          "summary_zh": "比較摩爾與羅素對外在世界的證明，並提出一個能補足兩者缺陷的證明。",
           "path": "college-essays/phil201-external-world-moore-russell/index.md",
           "cover": "college-essays/phil201-external-world-moore-russell/cover.png",
           "date": "2011-02-11"
@@ -84,7 +109,9 @@
         {
           "slug": "phil201-external-world-coherence",
           "title": "Proofing the Existence of External World II",
+          "title_zh": "證明外在世界的存在（二）",
           "summary": "Evaluates BonJour’s coherence theory of empirical knowledge against foundationalism: successful in practice, not in strict epistemological terms.",
+          "summary_zh": "以基礎主義為對照，評估邦喬的經驗知識融貫論：它在實踐上成功，在嚴格的知識論意義上則不然。",
           "path": "college-essays/phil201-external-world-coherence/index.md",
           "cover": "college-essays/phil201-external-world-coherence/cover.png",
           "date": "2011-03-28"
@@ -92,7 +119,9 @@
         {
           "slug": "phil203-gods-foreknowledge-and-freedom",
           "title": "God’s Foreknowledge and Human Freedom",
+          "title_zh": "上帝的預知與人的自由",
           "summary": "Works through Taylor’s fatalism and the classic resolutions of St. Augustine and William Rowe to the conflict between foreknowledge and free will.",
+          "summary_zh": "梳理泰勒的宿命論，以及奧古斯丁與羅威化解「預知與自由意志之衝突」的經典進路。",
           "path": "college-essays/phil203-gods-foreknowledge-and-freedom/index.md",
           "cover": "college-essays/phil203-gods-foreknowledge-and-freedom/cover.png",
           "date": "2006-07-07"
@@ -100,7 +129,9 @@
         {
           "slug": "phil203-mctaggart-unreality-of-time",
           "title": "Problems of McTaggart and the unreality of time",
+          "title_zh": "麥克塔加特的難題與時間的不實在性",
           "summary": "Reconstructs McTaggart’s argument for the unreality of time and rejects its premises one by one.",
+          "summary_zh": "重構麥克塔加特關於時間並不實在的論證，並逐一反駁其前提。",
           "path": "college-essays/phil203-mctaggart-unreality-of-time/index.md",
           "cover": "college-essays/phil203-mctaggart-unreality-of-time/cover.png",
           "date": "2006-08-01"
@@ -108,7 +139,9 @@
         {
           "slug": "phil220-on-liberty-mill",
           "title": "On Liberty – John Stuart Mill",
+          "title_zh": "《論自由》——約翰・彌爾",
           "summary": "Two criticisms of Mill’s harm-to-others arguments for liberty of action in On Liberty.",
+          "summary_zh": "對彌爾《論自由》中支持行動自由的「傷害他人」論證提出的兩點批評。",
           "path": "college-essays/phil220-on-liberty-mill/index.md",
           "cover": "college-essays/phil220-on-liberty-mill/cover.png",
           "date": "2006-10-10"
@@ -116,7 +149,9 @@
         {
           "slug": "phil220-marxism-and-exploitation",
           "title": "Marxism and Exploitation",
+          "title_zh": "馬克思主義與剝削",
           "summary": "Criticizes the Marxist claim that the wage-labour relationship under private ownership is inherently exploitative.",
+          "summary_zh": "批評馬克思主義「私有制下的僱傭勞動關係必然帶有剝削」的主張。",
           "path": "college-essays/phil220-marxism-and-exploitation/index.md",
           "cover": "college-essays/phil220-marxism-and-exploitation/cover.png",
           "date": "2006-12-06"
@@ -124,7 +159,9 @@
         {
           "slug": "phil280-nietzsche-eternal-recurrence",
           "title": "Nietzsche and Eternal Recurrence",
+          "title_zh": "尼采與永恆輪迴",
           "summary": "Reads eternal recurrence as a thought experiment about meaning after the death of God, not as a cosmological hypothesis.",
+          "summary_zh": "把永恆輪迴讀作一個關於「上帝死後」生命意義的思想實驗，而非宇宙論假說。",
           "path": "college-essays/phil280-nietzsche-eternal-recurrence/index.md",
           "cover": "college-essays/phil280-nietzsche-eternal-recurrence/cover.png",
           "date": "2008-06-17"
@@ -132,7 +169,9 @@
         {
           "slug": "phil280-freedom-and-responsibility",
           "title": "Critics of Freedom and Responsibility",
+          "title_zh": "對自由與責任的批判",
           "summary": "Criticizes Sartre’s claim that we are condemned to be free, arguing from his own existentialism that freedom is not necessarily a burden.",
+          "summary_zh": "批評沙特「人被判定為自由」的主張，並從其存在主義自身論證自由不必然是重擔。",
           "path": "college-essays/phil280-freedom-and-responsibility/index.md",
           "cover": "college-essays/phil280-freedom-and-responsibility/cover.png",
           "date": "2009-04-12"
@@ -140,7 +179,9 @@
         {
           "slug": "phil300-descartes-cogito",
           "title": "Descartes’ Cogito and the Foundations of Knowledge",
+          "title_zh": "笛卡兒的「我思」與知識的基礎",
           "summary": "Explains the Cogito as the first secure step of the method of doubt and the foundation of Descartes’ epistemology.",
+          "summary_zh": "把「我思」解釋為懷疑方法的第一個穩固立足點，以及笛卡兒知識論的根基。",
           "path": "college-essays/phil300-descartes-cogito/index.md",
           "cover": "college-essays/phil300-descartes-cogito/cover.png",
           "date": "2006-07-07"
@@ -148,7 +189,9 @@
         {
           "slug": "phil300-problem-of-induction",
           "title": "The Problem of Induction and Popper’s Solution",
+          "title_zh": "歸納難題與波普爾的解答",
           "summary": "Outlines Hume’s problem of induction and presents Popper’s redefinition of knowledge as the paradigm shift that resolves it.",
+          "summary_zh": "概述休謨的歸納難題，並呈現波普爾對知識的重新定義如何作為一場範式轉移化解它。",
           "path": "college-essays/phil300-problem-of-induction/index.md",
           "cover": "college-essays/phil300-problem-of-induction/cover.png",
           "date": "2006-07-07"
@@ -156,7 +199,9 @@
         {
           "slug": "phil320-modified-principles-of-justice",
           "title": "Modified Principles of Justice",
+          "title_zh": "修正後的正義原則",
           "summary": "Stages Sandel’s constitutive-ties objection to Rawls’s theory of justice and proposes a synthesis to resolve the inconsistency.",
+          "summary_zh": "重演桑德爾對羅爾斯正義理論提出的「構成性紐帶」異議，並提出一個化解其內在不一致的綜合方案。",
           "path": "college-essays/phil320-modified-principles-of-justice/index.md",
           "cover": "college-essays/phil320-modified-principles-of-justice/cover.png",
           "date": "2009-02-18"
@@ -164,7 +209,9 @@
         {
           "slug": "phil320-homeless-and-still-free",
           "title": "Homeless and still free",
+          "title_zh": "無家，依然自由",
           "summary": "Engages Waldron’s “Homeless and the Issue of Freedom” on property restrictions, homelessness, and human dignity.",
+          "summary_zh": "回應沃德倫〈無家與自由的問題〉一文，討論財產限制、無家者與人性尊嚴。",
           "path": "college-essays/phil320-homeless-and-still-free/index.md",
           "cover": "college-essays/phil320-homeless-and-still-free/cover.png",
           "date": "2009-04-11"
@@ -172,7 +219,9 @@
         {
           "slug": "phil333-natural-selection-opposable-thumbs",
           "title": "Does natural selection explain why you and I have opposable thumbs?",
+          "title_zh": "自然選擇能解釋你我為何有對生拇指嗎？",
           "summary": "Argues that direct competition over scarce resources lets cumulative natural selection decisively shape individual traits.",
+          "summary_zh": "論證正是對稀缺資源的直接競爭，讓累積的自然選擇能夠決定性地塑造個體性狀。",
           "path": "college-essays/phil333-natural-selection-opposable-thumbs/index.md",
           "cover": "college-essays/phil333-natural-selection-opposable-thumbs/cover.png",
           "date": "2010-08-12"
@@ -180,7 +229,9 @@
         {
           "slug": "phil333-function-in-biology",
           "title": "What is function in biology?",
+          "title_zh": "生物學中的「功能」是什麼？",
           "summary": "Defends Prior’s account of functional analysis as the best theory of biological function against Neander’s teleological attack.",
+          "summary_zh": "在尼安德爾的目的論攻擊之下，為普賴爾的功能分析進路辯護，視之為最佳的生物功能理論。",
           "path": "college-essays/phil333-function-in-biology/index.md",
           "cover": "college-essays/phil333-function-in-biology/cover.png",
           "date": "2010-08-11"
@@ -188,7 +239,9 @@
         {
           "slug": "phil344-locutionary-illocutionary-acts",
           "title": "Locutionary and Illocutionary Acts",
+          "title_zh": "言內行為與言外行為",
           "summary": "Term paper defending Austin’s locutionary/illocutionary distinction against Searle’s challenge, with counterexamples from coded speech and brain injury.",
+          "summary_zh": "學期論文：以代碼語言與腦損傷造成的例子作反例，為奧斯汀的言內／言外之分辯護，回應塞爾的挑戰。",
           "path": "college-essays/phil344-locutionary-illocutionary-acts/index.md",
           "cover": "college-essays/phil344-locutionary-illocutionary-acts/cover.png",
           "date": "2011-12-05"
@@ -198,13 +251,17 @@
     {
       "id": "knowledge-base",
       "name": "Knowledge Base",
+      "name_zh": "知識庫",
       "description": "An llm-wiki style library of philosophy notes and reference pages.",
+      "description_zh": "llm-wiki 式的哲學筆記與參考資料庫。",
       "items": []
     },
     {
       "id": "research",
       "name": "Research",
+      "name_zh": "研究",
       "description": "Projects where AI reads and organizes source material into structured notes.",
+      "description_zh": "由 AI 閱讀並整理原始資料的研究項目。",
       "items": []
     }
   ]

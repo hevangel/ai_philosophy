@@ -49,6 +49,19 @@ Content lives in four kinds of folders:
   `#/md/<path>` for markdown reached via in-document links.
 - The SPA strips the first `H1` of rendered markdown (the title comes from `content.json`)
   and resolves relative `img src` against the markdown file's own folder.
+- The SPA is bilingual (English / Hong Kong Traditional Chinese) and themeable (light / dark).
+  The top bar has an `EN / 中` language switch and a 🌙/☀️ theme button. Both persist in
+  `localStorage` (`aiphil-lang`, `aiphil-theme`; theme falls back to the OS preference), and an
+  inline `<head>` script applies both before first paint to avoid a flash. Toggling re-renders
+  the current route in place — each document has one hash URL for both languages.
+- Language resolution falls back gracefully at every step: display fields use the `<field>_zh`
+  value when present and fall back to English (`title_zh`, `summary_zh` per item; `name_zh`,
+  `description_zh` per section; `site.title_zh`, `site.tagline_zh`); Chinese text loads the
+  `chinese_`-prefixed sibling of the registered `path` (`articles/x/index.md` →
+  `articles/x/chinese_index.md`), falling back to the English file if missing; covers prefer
+  `chinese_cover.png`, else the English cover renders with a translated-text overlay built from
+  the item's `cover_zh_text` array (first line = title; compact title-only overlay on cards).
+  Dates render in `zh-HK` locale and `<html lang>` becomes `zh-HK` in Chinese mode.
 
 ## Content conventions
 
@@ -57,9 +70,22 @@ Content lives in four kinds of folders:
 - First line of each markdown file is the document `# Title`.
 - To publish something: create the folder + markdown (promote it out of `sratchpad/` if it was
   drafted there), then add an entry to `content.json` with `slug`, `title`, `summary`, `path`,
-  `cover`, `date` (ISO). Empty `items: []` sections are fine — the UI shows a placeholder.
+  `cover`, `date` (ISO), plus the Chinese fields (`title_zh`, `summary_zh`; sections carry
+  `name_zh` / `description_zh`, `site` carries `title_zh` / `tagline_zh`). The UI falls back to
+  the English value when a `_zh` field is absent, so a missing translation never breaks the site.
+  Empty `items: []` sections are fine — the UI shows a placeholder.
 - Sections in `content.json` map to the content folders: `articles`, `college-essays`,
   `knowledge-base`, `research`.
+- Chinese translations live in the same document folder with a `chinese_` prefix on the
+  filename: `<folder>/<slug>/chinese_index.md`, first line `# 中文標題`. Translate into Hong
+  Kong Traditional Chinese at a final-year philosophy-student register: 「」 for quotes, 《》
+  for works, 〈〉 for articles, philosopher names in Chinese with the English in parentheses
+  on first mention. Keep reference lists in their original citation format.
+- Chinese cover images: `chinese_cover.png` in the same folder — the same scene as the English
+  cover with the human-readable words translated into Chinese (background words may stay
+  English). If image generation is unavailable, do NOT create placeholder files: list the
+  translated words in the item's `cover_zh_text` (array of lines) and let the SPA overlay
+  them on the English cover.
 - Cover images are AI-generated via the glm-image API:
   `POST https://api.z.ai/api/coding/paas/v4/images/generations` with
   `{"model": "glm-image", "prompt": ..., "size": "1344x768"}`; the API key is in
@@ -72,9 +98,14 @@ Content lives in four kinds of folders:
 ## Verifying changes
 
 - `fetch()` does not work from `file://`. Serve locally and open the printed URL:
-  `python -m http.server 8000` → http://localhost:8000/
+  `py -3 -m http.server 8123` → http://localhost:8123/ (port 8000 is blocked on this
+  machine — see Gotchas).
 - Check: home renders all sections from `content.json`, every registered entry opens and
   renders, images resolve (no broken thumbnails or covers), and `content.json` is still valid JSON.
+- Check both languages and both themes: toggle `EN / 中` and 🌙/☀️ on the home page, one
+  article, and one essay. Chinese mode must show `chinese_index.md` content, `zh-HK` dates,
+  and either `chinese_cover.png` or the English cover with the `cover_zh_text` overlay;
+  missing Chinese text or covers must fall back to English silently.
 - Markdown export artifacts (e.g. `citeturn…` tokens from chat exports) must be stripped
   when promoting drafts into site folders.
 
@@ -83,5 +114,13 @@ Content lives in four kinds of folders:
 - Relative paths only (GitHub Pages project site = subpath hosting).
 - CDN scripts need network access during local preview; if the libs fail to load the page
   will not render markdown — check the browser console.
+- Port 8000 sits in a Windows reserved-port range on this machine (`py -3 -m http.server 8000`
+  fails with `WinError 10013`) — use another port, e.g. 8123. Local preview servers are
+  ephemeral: the live site is GitHub Pages, which needs no local server.
+- The z.ai API key in `~/.zai/auth.json` currently has NO image-generation balance: glm-image
+  returns error 1113 (`Insufficient balance or no resource package`), and other model names
+  (`z-image`, `cogview-4`) do not exist on that endpoint (error 1211). Until the key is topped
+  up, Chinese covers use the `cover_zh_text` overlay fallback; once generation works, drop
+  `chinese_cover.png` into the document folder and the site prefers it automatically.
 - `.mimosa/` is security-scanner state, not site content — leave it alone and don't register it.
 - `libgen_batch/` and other bulk data under `sratchpad/` are working data, not site content.

@@ -5,10 +5,26 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>AI Philosophy</title>
 <meta name="description" content="Philosophy essays written in dialogue with AI, a knowledge base, and organized research.">
+<script>
+/* Apply saved theme/language before first paint to avoid a flash. */
+(function () {
+  try {
+    var t = localStorage.getItem('aiphil-theme');
+    if (t !== 'dark' && t !== 'light') {
+      t = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+    document.documentElement.dataset.theme = t;
+    var l = localStorage.getItem('aiphil-lang') === 'zh' ? 'zh' : 'en';
+    document.documentElement.dataset.lang = l;
+    document.documentElement.lang = l === 'zh' ? 'zh-HK' : 'en';
+  } catch (e) {}
+})();
+</script>
 <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js"></script>
 <style>
   :root {
+    color-scheme: light;
     --bg: #f7f4ee;
     --panel: #fffdf8;
     --text: #2b2620;
@@ -16,8 +32,25 @@
     --accent: #7a3b2e;
     --accent-soft: #b0563f;
     --line: #e4ddd0;
+    --shadow: rgba(60, 45, 30, 0.12);
     --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
     --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  html[data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #17130f;
+    --panel: #201a15;
+    --text: #ece3d3;
+    --muted: #a3967f;
+    --accent: #d98d68;
+    --accent-soft: #e6a988;
+    --line: #383026;
+    --shadow: rgba(0, 0, 0, 0.45);
+  }
+  /* Hong Kong Traditional Chinese font stacks */
+  html[lang="zh-HK"] {
+    --serif: "Songti TC", "Noto Serif TC", "Noto Serif CJK TC", PMingLiU, MingLiU, serif;
+    --sans: "PingFang TC", "Microsoft JhengHei", "Noto Sans TC", system-ui, sans-serif;
   }
   * { box-sizing: border-box; }
   html { scroll-behavior: smooth; }
@@ -59,11 +92,54 @@
   .topnav a.active { color: var(--accent); font-weight: 600; }
   .topnav a:hover { color: var(--accent); text-decoration: none; }
 
+  .controls {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: var(--sans);
+  }
+  .lang-switch {
+    display: inline-flex;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    overflow: hidden;
+    background: var(--bg);
+  }
+  .lang-switch button {
+    border: 0;
+    background: transparent;
+    color: var(--muted);
+    font: inherit;
+    font-size: 0.85rem;
+    padding: 0.22rem 0.65rem;
+    cursor: pointer;
+  }
+  .lang-switch button.active { background: var(--accent); color: #fff; }
+  .lang-switch button:not(.active):hover { color: var(--accent); }
+  .icon-btn {
+    border: 1px solid var(--line);
+    background: var(--bg);
+    color: var(--muted);
+    border-radius: 999px;
+    width: 1.95rem;
+    height: 1.95rem;
+    padding: 0;
+    cursor: pointer;
+    font-size: 0.95rem;
+    line-height: 1;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .icon-btn:hover { color: var(--accent); border-color: var(--accent); }
+
   main { max-width: 960px; margin: 0 auto; padding: 2rem 1.2rem 3rem; }
 
   .hero { margin-bottom: 2.5rem; }
   .hero h1 { font-size: 2.1rem; line-height: 1.25; margin: 0 0 0.4rem; }
   .tagline { color: var(--muted); font-size: 1.08rem; margin: 0; font-style: italic; }
+  html[lang="zh-HK"] .tagline { font-style: normal; }
 
   .section { margin-bottom: 2.8rem; }
   .section-head { display: flex; align-items: baseline; gap: 0.8rem; border-bottom: 1px solid var(--line); padding-bottom: 0.4rem; }
@@ -86,7 +162,7 @@
     flex-direction: column;
     transition: box-shadow 0.15s ease, transform 0.15s ease;
   }
-  .card:hover { box-shadow: 0 4px 16px rgba(60, 45, 30, 0.12); transform: translateY(-2px); }
+  .card:hover { box-shadow: 0 4px 16px var(--shadow); transform: translateY(-2px); }
   .card:hover h3 { color: var(--accent); }
   .card a { color: inherit; display: flex; flex-direction: column; height: 100%; }
   .card a:hover { text-decoration: none; }
@@ -100,6 +176,7 @@
   .card-body { padding: 0.85rem 1rem 1.1rem; display: flex; flex-direction: column; gap: 0.35rem; flex: 1; }
   .card h3 { margin: 0; font-size: 1.05rem; line-height: 1.35; }
   .card .date { color: var(--muted); font-family: var(--sans); font-size: 0.78rem; letter-spacing: 0.03em; text-transform: uppercase; }
+  html[lang="zh-HK"] .card .date { text-transform: none; letter-spacing: 0.05em; }
   .card .summary { color: var(--muted); font-size: 0.92rem; line-height: 1.5; }
 
   .empty {
@@ -111,6 +188,7 @@
     padding: 1.4rem;
     text-align: center;
   }
+  html[lang="zh-HK"] .empty { font-style: normal; }
 
   /* Article page */
   .article-head { margin-bottom: 1.8rem; }
@@ -122,8 +200,44 @@
     border: 1px solid var(--line);
     margin-bottom: 1.2rem;
   }
+  .cover-wrap { position: relative; display: block; }
+  .cover-wrap .cover { display: block; }
+  /* Chinese text overlay shown over an English cover when no chinese_cover.png exists */
+  .cover-zh-overlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.1rem;
+    padding: 1.4rem 1.2rem 1.1rem;
+    text-align: center;
+    border-radius: 8px;
+    pointer-events: none;
+    background: linear-gradient(to top, rgba(15, 10, 6, 0.78) 0%, rgba(15, 10, 6, 0.34) 42%, rgba(15, 10, 6, 0) 72%);
+  }
+  .cover-zh-overlay .zl-title {
+    color: #fff;
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: 1.45rem;
+    line-height: 1.4;
+    text-shadow: 0 1px 8px rgba(0, 0, 0, 0.85);
+  }
+  .cover-zh-overlay .zl-line {
+    color: #f3ead9;
+    font-family: var(--serif);
+    font-size: 0.98rem;
+    line-height: 1.55;
+    text-shadow: 0 1px 5px rgba(0, 0, 0, 0.85);
+  }
+  .cover-zh-overlay.compact { padding: 0.6rem; }
+  .cover-zh-overlay.compact .zl-title { font-size: 0.98rem; line-height: 1.4; }
+  .cover-zh-overlay.compact .zl-line { display: none; }
 
   .prose { font-size: 1.08rem; }
+  html[lang="zh-HK"] .prose { font-size: 1.05rem; line-height: 2; }
   .prose h1, .prose h2, .prose h3, .prose h4 { line-height: 1.3; margin: 2rem 0 0.7rem; }
   .prose h2 { font-size: 1.5rem; border-bottom: 1px solid var(--line); padding-bottom: 0.3rem; }
   .prose h3 { font-size: 1.2rem; }
@@ -136,12 +250,14 @@
     color: var(--muted);
     font-style: italic;
   }
+  html[lang="zh-HK"] .prose blockquote { font-style: normal; }
   .prose img { max-width: 100%; border-radius: 6px; }
   .prose hr { border: none; border-top: 1px solid var(--line); margin: 2.2rem 0; }
   .prose table { border-collapse: collapse; width: 100%; font-size: 0.95rem; }
   .prose th, .prose td { border: 1px solid var(--line); padding: 0.45rem 0.7rem; text-align: left; }
 
   .status { color: var(--muted); text-align: center; padding: 3rem 0; font-style: italic; }
+  html[lang="zh-HK"] .status { font-style: normal; }
   .error-box {
     background: var(--panel);
     border: 1px solid var(--line);
@@ -162,14 +278,21 @@
     .hero h1 { font-size: 1.6rem; }
     .article-head h1 { font-size: 1.5rem; }
     .prose { font-size: 1.02rem; }
+    .cover-zh-overlay .zl-title { font-size: 1.15rem; }
   }
 </style>
 </head>
 <body>
 <header class="topbar">
   <div class="topbar-inner">
-    <a class="site-title" href="#/">AI Philosophy</a>
+    <a class="site-title" id="site-title" href="#/">AI Philosophy</a>
     <nav class="topnav" id="topnav"></nav>
+    <div class="controls">
+      <span class="lang-switch" role="group" aria-label="Language / 語言">
+        <button id="lang-en" type="button">EN</button><button id="lang-zh" type="button" lang="zh-HK">中</button>
+      </span>
+      <button id="theme-btn" class="icon-btn" type="button" aria-label="Toggle dark / light theme"></button>
+    </div>
   </div>
 </header>
 
@@ -178,9 +301,7 @@
 </main>
 
 <footer>
-  <div class="footer-inner">
-    Written in dialogue with AI · <a href="https://github.com/hevangel/ai_philosophy">source on GitHub</a>
-  </div>
+  <div class="footer-inner" id="footer-inner"></div>
 </footer>
 
 <script>
@@ -189,7 +310,46 @@
 
   var app = document.getElementById('app');
   var topnav = document.getElementById('topnav');
+  var siteTitleEl = document.getElementById('site-title');
+  var footerEl = document.getElementById('footer-inner');
+  var themeBtn = document.getElementById('theme-btn');
+  var langEnBtn = document.getElementById('lang-en');
+  var langZhBtn = document.getElementById('lang-zh');
   var contentPromise = null;
+  var currentContent = null;
+
+  var lang = document.documentElement.dataset.lang === 'zh' ? 'zh' : 'en';
+
+  var I18N = {
+    en: {
+      loading: 'Loading…',
+      back: '\u2190 Back',
+      all: '\u2190 All sections',
+      empty: 'Nothing published here yet.',
+      one: 'entry',
+      many: 'entries',
+      errTitle: 'Could not load this page.',
+      notFound: 'No entry \u201C{x}\u201D was found in content.json.',
+      loadFail: 'Failed to load content.json \u2014 {m}. If you opened this file directly from disk, serve the folder over HTTP instead (see AGENTS.md).',
+      footerPre: 'Written in dialogue with AI \u00B7 ',
+      footerLink: 'source on GitHub'
+    },
+    zh: {
+      loading: '載入中……',
+      back: '\u2190 返回',
+      all: '\u2190 所有欄目',
+      empty: '此欄目暫時未有內容。',
+      one: '篇',
+      many: '篇',
+      errTitle: '無法載入此頁面。',
+      notFound: 'content.json 中找不到條目「{x}」。',
+      loadFail: '無法載入 content.json——{m}。若你是直接從磁碟開啟此檔案，請改以 HTTP 伺服器瀏覽（見 AGENTS.md）。',
+      footerPre: '與人工智能對話而寫成 \u00B7 ',
+      footerLink: '於 GitHub 觀看原始碼'
+    }
+  };
+
+  function t(key) { return I18N[lang][key]; }
 
   function getContent() {
     if (!contentPromise) {
@@ -201,9 +361,24 @@
     return contentPromise;
   }
 
+  // Pick the field for the active language, falling back to the English value.
+  function L(obj, field) {
+    if (lang === 'zh') {
+      var zh = obj[field + '_zh'];
+      if (zh) return zh;
+    }
+    return obj[field];
+  }
+
   function dirOf(path) {
     var i = path.lastIndexOf('/');
     return i === -1 ? '' : path.slice(0, i + 1);
+  }
+
+  // articles/foo/index.md -> articles/foo/chinese_index.md (same for cover.png)
+  function zhVariant(path) {
+    var i = path.lastIndexOf('/');
+    return i === -1 ? 'chinese_' + path : path.slice(0, i + 1) + 'chinese_' + path.slice(i + 1);
   }
 
   function resolvePath(src, baseDir) {
@@ -248,49 +423,120 @@
   function fmtDate(iso) {
     if (!iso) return '';
     var d = new Date(iso + 'T00:00:00');
-    return isNaN(d) ? esc(iso) : d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+    if (isNaN(d)) return esc(iso);
+    return d.toLocaleDateString(lang === 'zh' ? 'zh-HK' : 'en-US',
+      { year: 'numeric', month: 'long', day: 'numeric' });
   }
 
+  // ---------- cover resolution (language aware) ----------
+
+  var existsCache = {};
+  function exists(url) {
+    if (!(url in existsCache)) {
+      existsCache[url] = fetch(url, { method: 'HEAD' }).then(function (r) {
+        return r.ok;
+      }).catch(function () { return false; });
+    }
+    return existsCache[url];
+  }
+
+  function imgTag(cls, src) {
+    return '<img class="' + cls + '" src="' + esc(src) + '" alt="" onerror="this.remove()">';
+  }
+
+  function zhOverlayHtml(lines, compact) {
+    var inner = '<span class="zl-title">' + esc(lines[0]) + '</span>';
+    for (var i = 1; i < lines.length; i++) {
+      inner += '<span class="zl-line">' + esc(lines[i]) + '</span>';
+    }
+    return '<span class="cover-zh-overlay' + (compact ? ' compact' : '') + '">' + inner + '</span>';
+  }
+
+  // Returns a Promise<html>. In Chinese mode, prefer chinese_cover.png; if it is
+  // missing, fall back to the English cover with the translated words overlaid.
+  function coverHtml(item, compact) {
+    if (!item.cover) return Promise.resolve('');
+    var cls = compact ? 'thumb' : 'cover';
+    if (lang !== 'zh') return Promise.resolve(imgTag(cls, item.cover));
+    var zhCover = zhVariant(item.cover);
+    return Promise.all([exists(zhCover), exists(item.cover)]).then(function (r) {
+      var zhOk = r[0], enOk = r[1];
+      if (zhOk) return imgTag(cls, zhCover);
+      if (!enOk) return '';
+      var lines = (item.cover_zh_text && item.cover_zh_text.length)
+        ? item.cover_zh_text
+        : (item.title_zh ? [item.title_zh] : null);
+      if (!lines) return imgTag(cls, item.cover);
+      return '<span class="cover-wrap">' + imgTag(cls, item.cover) + zhOverlayHtml(lines, compact) + '</span>';
+    });
+  }
+
+  // ---------- rendering ----------
+
   function cardHtml(sectionId, item) {
-    var img = item.cover
-      ? '<img class="thumb" src="' + esc(item.cover) + '" alt="" onerror="this.remove()">'
-      : '';
-    return (
-      '<article class="card">' +
-        '<a href="#/read/' + esc(sectionId) + '/' + esc(item.slug) + '">' +
-          img +
-          '<div class="card-body">' +
-            '<h3>' + esc(item.title) + '</h3>' +
-            (item.date ? '<span class="date">' + fmtDate(item.date) + '</span>' : '') +
-            (item.summary ? '<p class="summary">' + esc(item.summary) + '</p>' : '') +
-          '</div>' +
-        '</a>' +
-      '</article>'
-    );
+    return coverHtml(item, true).then(function (img) {
+      return (
+        '<article class="card">' +
+          '<a href="#/read/' + esc(sectionId) + '/' + esc(item.slug) + '">' +
+            img +
+            '<div class="card-body">' +
+              '<h3>' + esc(L(item, 'title')) + '</h3>' +
+              (item.date ? '<span class="date">' + fmtDate(item.date) + '</span>' : '') +
+              (item.summary ? '<p class="summary">' + esc(L(item, 'summary')) + '</p>' : '') +
+            '</div>' +
+          '</a>' +
+        '</article>'
+      );
+    });
   }
 
   function sectionHtml(section, showBack) {
-    var cards = section.items.length
-      ? '<div class="cards">' + section.items.map(function (it) { return cardHtml(section.id, it); }).join('') + '</div>'
-      : '<div class="empty">Nothing published here yet.</div>';
-    return (showBack ? '<a class="section-back" href="#/">&#8592; All sections</a>' : '') +
-      '<section class="section">' +
-        '<div class="section-head"><h2>' + esc(section.name) + '</h2>' +
-          '<span class="count">' + section.items.length + (section.items.length === 1 ? ' entry' : ' entries') + '</span>' +
-        '</div>' +
-        (section.description ? '<p class="section-desc">' + esc(section.description) + '</p>' : '') +
-        cards +
-      '</section>';
+    var cardsP = section.items.length
+      ? Promise.all(section.items.map(function (it) { return cardHtml(section.id, it); }))
+          .then(function (cards) { return '<div class="cards">' + cards.join('') + '</div>'; })
+      : Promise.resolve('<div class="empty">' + esc(t('empty')) + '</div>');
+    return cardsP.then(function (cards) {
+      var n = section.items.length;
+      var count = n + (n === 1 ? ' ' + t('one') : ' ' + t('many'));
+      return (showBack ? '<a class="section-back" href="#/">' + esc(t('all')) + '</a>' : '') +
+        '<section class="section">' +
+          '<div class="section-head"><h2>' + esc(L(section, 'name')) + '</h2>' +
+            '<span class="count">' + esc(count) + '</span>' +
+          '</div>' +
+          (section.description ? '<p class="section-desc">' + esc(L(section, 'description')) + '</p>' : '') +
+          cards +
+        '</section>';
+    });
   }
 
   function setNav(activeId, sections) {
     topnav.innerHTML = sections.map(function (s) {
-      return '<a href="#/section/' + esc(s.id) + '"' + (s.id === activeId ? ' class="active"' : '') + '>' + esc(s.name) + '</a>';
+      return '<a href="#/section/' + esc(s.id) + '"' + (s.id === activeId ? ' class="active"' : '') + '>' + esc(L(s, 'name')) + '</a>';
     }).join('');
   }
 
-  function setTitle(t) {
-    document.title = t ? t + ' — AI Philosophy' : 'AI Philosophy';
+  function siteTitle() {
+    if (!currentContent) return 'AI Philosophy';
+    return L(currentContent.site, 'title') || 'AI Philosophy';
+  }
+
+  function setTitle(t2) {
+    document.title = t2 ? t2 + ' — ' + siteTitle() : siteTitle();
+  }
+
+  function applyChrome() {
+    document.documentElement.lang = lang === 'zh' ? 'zh-HK' : 'en';
+    langEnBtn.classList.toggle('active', lang === 'en');
+    langZhBtn.classList.toggle('active', lang === 'zh');
+    if (currentContent) siteTitleEl.textContent = siteTitle();
+    footerEl.innerHTML = esc(t('footerPre')) +
+      '<a href="https://github.com/hevangel/ai_philosophy">' + esc(t('footerLink')) + '</a>';
+  }
+
+  function applyThemeButton() {
+    var dark = document.documentElement.dataset.theme === 'dark';
+    themeBtn.textContent = dark ? '☀️' : '🌙';
+    themeBtn.setAttribute('aria-label', dark ? 'Switch to light theme' : 'Switch to dark theme');
   }
 
   function findItem(content, sectionId, slug) {
@@ -310,7 +556,7 @@
   }
 
   function showError(msg) {
-    app.innerHTML = '<div class="error-box"><strong>Could not load this page.</strong><br>' + esc(msg) + '</div>';
+    app.innerHTML = '<div class="error-box"><strong>' + esc(t('errTitle')) + '</strong><br>' + esc(msg) + '</div>';
   }
 
   function fetchMarkdown(path) {
@@ -325,60 +571,70 @@
   function routeHome(content) {
     setNav(null, content.sections);
     setTitle('');
-    app.innerHTML =
-      '<div class="hero"><h1>' + esc(content.site.title) + '</h1>' +
-      '<p class="tagline">' + esc(content.site.tagline || '') + '</p></div>' +
-      content.sections.map(function (s) { return sectionHtml(s, false); }).join('');
+    showStatus(t('loading'));
+    Promise.all(content.sections.map(function (s) { return sectionHtml(s, false); }))
+      .then(function (htmls) {
+        app.innerHTML =
+          '<div class="hero"><h1>' + esc(L(content.site, 'title')) + '</h1>' +
+          '<p class="tagline">' + esc(L(content.site, 'tagline') || '') + '</p></div>' +
+          htmls.join('');
+      });
   }
 
   function routeSection(content, sectionId) {
     var section = content.sections.filter(function (s) { return s.id === sectionId; })[0];
     if (!section) return routeHome(content);
     setNav(sectionId, content.sections);
-    setTitle(section.name);
-    app.innerHTML = sectionHtml(section, true);
+    setTitle(L(section, 'name'));
+    showStatus(t('loading'));
+    sectionHtml(section, true).then(function (html) { app.innerHTML = html; });
   }
 
   function renderArticle(section, item) {
-    var cover = item.cover
-      ? '<img class="cover" src="' + esc(item.cover) + '" alt="" onerror="this.remove()">'
-      : '';
-    showStatus('Loading…');
-    fetchMarkdown(item.path).then(function (text) {
+    var mdPath = lang === 'zh' ? zhVariant(item.path) : item.path;
+    var md = fetchMarkdown(mdPath).catch(function (e) {
+      // No Chinese translation (or fetch failed) — fall back to the English text.
+      if (lang === 'zh' && mdPath !== item.path) return fetchMarkdown(item.path);
+      throw e;
+    });
+    Promise.all([md, coverHtml(item, false)]).then(function (r) {
+      var text = r[0], cover = r[1];
       app.innerHTML =
-        '<a class="section-back" href="' + (section ? '#/section/' + esc(section.id) : '#/') + '">&#8592; Back</a>' +
+        '<a class="section-back" href="' + (section ? '#/section/' + esc(section.id) : '#/') + '">' + esc(t('back')) + '</a>' +
         '<header class="article-head">' + cover +
-          '<h1>' + esc(item.title) + '</h1>' +
+          '<h1>' + esc(L(item, 'title')) + '</h1>' +
           (item.date ? '<span class="date">' + fmtDate(item.date) + '</span>' : '') +
         '</header>' +
-        '<div class="prose">' + renderMarkdown(text, item.path) + '</div>';
+        '<div class="prose">' + renderMarkdown(text, mdPath) + '</div>';
       window.scrollTo(0, 0);
     }).catch(showError);
   }
 
   function routeRead(content, sectionId, slug) {
     var found = findItem(content, sectionId, slug);
-    if (!found) return showError('No entry “' + esc(slug) + '” was found in content.json.');
+    if (!found) return showError(t('notFound').replace('{x}', slug));
     setNav(found.section.id, content.sections);
-    setTitle(found.item.title);
+    setTitle(L(found.item, 'title'));
     renderArticle(found.section, found.item);
   }
 
   function routeMd(content, encodedPath) {
     var path = decodeURIComponent(encodedPath);
     setNav(null, content.sections);
-    // If the path matches a registered entry, give it the full article chrome.
+    // If the path matches a registered entry (English or Chinese variant),
+    // give it the full article chrome.
     for (var i = 0; i < content.sections.length; i++) {
       var s = content.sections[i];
       for (var j = 0; j < s.items.length; j++) {
-        if (s.items[j].path === path) return renderArticle(s, s.items[j]);
+        var it = s.items[j];
+        if (it.path === path || zhVariant(it.path) === path) return renderArticle(s, it);
       }
     }
     setTitle('');
-    showStatus('Loading…');
+    showStatus(t('loading'));
     fetchMarkdown(path).then(function (text) {
       app.innerHTML =
-        '<a class="section-back" href="#/">&#8592; All sections</a>' +
+        '<a class="section-back" href="#/">' + esc(t('all')) + '</a>' +
         '<div class="prose">' + renderMarkdown(text, path) + '</div>';
       window.scrollTo(0, 0);
     }).catch(showError);
@@ -390,17 +646,38 @@
     var hash = location.hash.replace(/^#\/?/, '');
     var parts = hash.split('/').map(decodeURIComponent);
     getContent().then(function (content) {
+      currentContent = content;
+      applyChrome();
       if (parts[0] === '' || hash === '') return routeHome(content);
       if (parts[0] === 'section' && parts[1]) return routeSection(content, parts[1]);
       if (parts[0] === 'read' && parts[1] && parts[2]) return routeRead(content, parts[1], parts[2]);
       if (parts[0] === 'md' && parts.slice(1).join('/')) return routeMd(content, parts.slice(1).join('/'));
       routeHome(content);
     }).catch(function (e) {
-      showError('Failed to load content.json — ' + e.message +
-        '. If you opened this file directly from disk, serve the folder over HTTP instead (see AGENTS.md).');
+      showError(t('loadFail').replace('{m}', e.message));
     });
   }
 
+  // ---------- toggles ----------
+
+  langEnBtn.addEventListener('click', function () { setLang('en'); });
+  langZhBtn.addEventListener('click', function () { setLang('zh'); });
+
+  function setLang(l) {
+    if (lang === l) return;
+    lang = l;
+    try { localStorage.setItem('aiphil-lang', l); } catch (e) {}
+    route();
+  }
+
+  themeBtn.addEventListener('click', function () {
+    var dark = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+    document.documentElement.dataset.theme = dark;
+    try { localStorage.setItem('aiphil-theme', dark); } catch (e) {}
+    applyThemeButton();
+  });
+
+  applyThemeButton();
   window.addEventListener('hashchange', route);
   route();
 })();
