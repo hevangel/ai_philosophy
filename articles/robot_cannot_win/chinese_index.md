@@ -1,4 +1,4 @@
-# 機械人或會書寫我們，但它不能勝出：人工智能與科幻文學獎的人類邊界
+# 機械人可以寫科幻小說，但它不能奪獎
 
 ## 摘要
 
@@ -450,6 +450,6 @@ World Science Fiction Society. “Rules of the World Science Fiction Society.”
 ---
 
 <div style="margin: 3.5rem auto 1.5rem; text-align: center;">
-  <img src="paperback_cover.png" alt="平裝版封面：機械人或會書寫我們，但它不能勝出" style="max-width: 420px; width: 80%; border-radius: 4px 14px 14px 4px; border-left: 7px solid rgba(25, 18, 10, 0.6); box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.28), 16px 22px 44px rgba(0, 0, 0, 0.45);">
+  <img src="paperback_cover.png" alt="平裝版封面：機械人可以寫科幻小說，但它不能奪獎" style="max-width: 420px; width: 80%; border-radius: 4px 14px 14px 4px; border-left: 7px solid rgba(25, 18, 10, 0.6); box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.28), 16px 22px 44px rgba(0, 0, 0, 0.45);">
   <p style="margin-top: 1.4rem; font-size: 0.82rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted, #888);">—— 平裝版 ——</p>
 </div>

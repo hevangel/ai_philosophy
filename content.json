@@ -17,12 +17,12 @@
         {
           "slug": "robot_cannot_win",
           "title": "The Robot May Write About Us, but It Cannot Win: AI and the Human Boundary of Science-Fiction Awards",
-          "title_zh": "機械人或會書寫我們，但它不能勝出：人工智能與科幻文學獎的人類邊界",
+          "title_zh": "機械人可以寫科幻小說，但它不能奪獎",
           "summary": "If blind judges rank an AI-written novel first, disqualifying it changes the question: a “Best Novel” award becomes the best novel produced under human-only rules — structurally closer to sport than to measurement.",
           "summary_zh": "若雙盲評審把 AI 寫成的小說排在首位，僅因其生成過程而取消資格，追問的問題便已改變：「最佳小說」變成「人類規則下的最佳小說」——結構上更接近體育競技，而非純粹的文學量度。",
           "path": "articles/robot_cannot_win/index.md",
           "cover": "articles/robot_cannot_win/cover.png",
-          "cover_zh_text": ["機械人或會書寫我們，但它不能勝出", "人工智能與科幻文學獎的人類邊界", "同一樣的故事。新的追問。"],
+          "cover_zh_text": ["機械人可以寫科幻小說，但它不能奪獎", "人工智能與科幻文學獎的人類邊界", "同一樣的故事。新的追問。"],
           "date": "2026-09-12"
         },
         {
