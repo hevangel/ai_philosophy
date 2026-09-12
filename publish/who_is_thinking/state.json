@@ -1,0 +1,19 @@
+{
+  "article": "who_is_thinking",
+  "title": "Who Is Thinking? Artificial Intelligence, Authorship, and the Purpose of Philosophy",
+  "source": "articles/who_is_thinking/index.md",
+  "updated": "2026-09-11",
+  "polish": {
+    "status": "done",
+    "language": "en",
+    "word_count": { "source": 2935, "polished_total": 4053, "polished_body": "~3700" },
+    "runs": [
+      {
+        "date": "2026-09-11",
+        "focus": "full academic upgrade: abstract/keywords, road map, all 11 citations verified (2 added: Clark & Chalmers 1998, Gerlich 2025), author-date citation format, new §10 Objections and Replies, Epistemic Responsibility Principle formalized, language pass",
+        "summary": "See polish-notes.md for change log, verification table, TODO(author) list, and AI-use log."
+      }
+    ]
+  },
+  "conversions": {}
+}
