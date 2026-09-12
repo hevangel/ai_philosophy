@@ -147,6 +147,7 @@
   .section-head .count { color: var(--muted); font-family: var(--sans); font-size: 0.85rem; }
   .section-desc { color: var(--muted); margin: 0.5rem 0 1rem; font-size: 0.98rem; }
   .section-back { font-family: var(--sans); font-size: 0.9rem; margin-bottom: 1rem; display: inline-block; }
+  .section-more { font-family: var(--sans); font-size: 0.9rem; display: inline-block; margin-top: 0.9rem; }
 
   .cards {
     display: grid;
@@ -328,6 +329,7 @@
       empty: 'Nothing published here yet.',
       one: 'entry',
       many: 'entries',
+      more: 'View all {n} \u2192',
       errTitle: 'Could not load this page.',
       notFound: 'No entry \u201C{x}\u201D was found in content.json.',
       loadFail: 'Failed to load content.json \u2014 {m}. If you opened this file directly from disk, serve the folder over HTTP instead (see AGENTS.md).',
@@ -341,6 +343,7 @@
       empty: '此欄目暫時未有內容。',
       one: '篇',
       many: '篇',
+      more: '查看全部 {n} 篇 \u2192',
       errTitle: '無法載入此頁面。',
       notFound: 'content.json 中找不到條目「{x}」。',
       loadFail: '無法載入 content.json——{m}。若你是直接從磁碟開啟此檔案，請改以 HTTP 伺服器瀏覽（見 AGENTS.md）。',
@@ -490,21 +493,27 @@
     });
   }
 
-  function sectionHtml(section, showBack) {
-    var cardsP = section.items.length
-      ? Promise.all(section.items.map(function (it) { return cardHtml(section.id, it); }))
+  function sectionHtml(section, showBack, limit) {
+    var total = section.items.length;
+    var shown = (limit && total > limit) ? section.items.slice(0, limit) : section.items;
+    var cardsP = shown.length
+      ? Promise.all(shown.map(function (it) { return cardHtml(section.id, it); }))
           .then(function (cards) { return '<div class="cards">' + cards.join('') + '</div>'; })
       : Promise.resolve('<div class="empty">' + esc(t('empty')) + '</div>');
     return cardsP.then(function (cards) {
-      var n = section.items.length;
+      var n = total;
       var count = n + (n === 1 ? ' ' + t('one') : ' ' + t('many'));
+      var more = (shown.length !== total)
+        ? '<a class="section-more" href="#/section/' + esc(section.id) + '">' +
+            esc(t('more')).replace('{n}', n) + '</a>'
+        : '';
       return (showBack ? '<a class="section-back" href="#/">' + esc(t('all')) + '</a>' : '') +
         '<section class="section">' +
           '<div class="section-head"><h2>' + esc(L(section, 'name')) + '</h2>' +
             '<span class="count">' + esc(count) + '</span>' +
           '</div>' +
           (section.description ? '<p class="section-desc">' + esc(L(section, 'description')) + '</p>' : '') +
-          cards +
+          cards + more +
         '</section>';
     });
   }
@@ -568,11 +577,14 @@
 
   // ---------- routes ----------
 
+  // Cap how many cards each section shows on the home page; section pages stay complete.
+  var HOME_LIMITS = { articles: 6, 'college-essays': 3 };
+
   function routeHome(content) {
     setNav(null, content.sections);
     setTitle('');
     showStatus(t('loading'));
-    Promise.all(content.sections.map(function (s) { return sectionHtml(s, false); }))
+    Promise.all(content.sections.map(function (s) { return sectionHtml(s, false, HOME_LIMITS[s.id]); }))
       .then(function (htmls) {
         app.innerHTML =
           '<div class="hero"><h1>' + esc(L(content.site, 'title')) + '</h1>' +
