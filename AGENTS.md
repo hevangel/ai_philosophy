@@ -18,6 +18,25 @@ Content lives in four kinds of folders:
 - `research/` — projects where AI reads and organizes source material into markdown.
 - `sratchpad/` — scratch space (note the spelling). Working files, drafts, downloads, scripts.
   **Never displayed by the site; never reference it from `content.json` or move site content into it.**
+- `publish/` — journal/preprint submission pipeline for the owner's AI-co-authored writing.
+  Venue AI-policy database (`publish/venues.json`, keeps BOTH the AI-banned and AI-allowed
+  lists with dated policy histories), plus one sub-folder per article with `state.json`,
+  `submissions.json`, polished manuscripts, and per-venue artifacts. **Not site content —
+  never register it in `content.json`.** Schemas and workflow: `publish/README.md`.
+
+## Submission pipeline skills
+
+`.agents/skills/` holds four project skills for external academic submission:
+
+- `phil-venues` — research/update `publish/venues.json` (EN + CN venue AI policies).
+- `phil-polish` — proofread/upgrade an article to journal standard → `publish/<slug>/polished-*.md`.
+- `phil-format` — convert markdown to each venue's format (DOCX/PDF/LaTeX), with blinding,
+  cover letter, and AI disclosure. Bundled script: `scripts/md_to_docx.py` (pandoc via
+  `pypandoc-binary`; PDF export uses desktop Word via pywin32; installed with
+  `py -3 -m pip install --user python-docx pypandoc-binary pywin32`).
+- `phil-submit` — drive venue portals via `browser-use:control-browser`, logging to
+  `submissions.json`. Always re-verify the venue's live AI policy first; never submit to
+  `ai-banned` venues.
 
 ## Site architecture
 

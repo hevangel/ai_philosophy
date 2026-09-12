@@ -1,0 +1,718 @@
+{
+  "_readme": [
+    "Venue database for submitting AI-co-authored philosophy writing.",
+    "Both the AI-banned list and the AI-allowed list live HERE, partitioned by ai_status.",
+    "AI rules change often - update entries via the phil-venues skill; every change appends to policy_history.",
+    "ai_status values: ai-banned | disclosure-required | allowed | case-by-case | no-stated-policy | unknown",
+    "  ai-banned         - venue prohibits AI-authored/AI-generated content outright (or AI authorship with a blanket ban on AI-written text)",
+    "  disclosure-required - allowed if AI use is disclosed in the required form (statement, section, or declaration)",
+    "  allowed           - AI use permitted, disclosure optional or lighter than disclosure-required",
+    "  case-by-case      - no blanket rule; moderation/editorial judgement, or venue has eligibility gates targeting AI slop",
+    "  no-stated-policy  - venue publishes no AI rule at all (as of last check)",
+    "  unknown           - not yet researched or policy not published; treat as strict until verified",
+    "A venue entry may be a single journal, a publisher-wide default covering several journals, or a preprint server.",
+    "NEVER submit without re-checking the venue's live policy page at submission time (phil-venues skill, or phil-submit does it as step 1)."
+  ],
+  "updated": "2026-09-11",
+  "defaults": {
+    "publisher_defaults": [
+      {
+        "publisher": "Springer Nature",
+        "covers": "Synthese, Philosophical Studies, Erkenntnis, Minds and Machines, AI & Society, Ethics and Information Technology, etc.",
+        "ai_status": "disclosure-required",
+        "rule": "LLMs cannot be authors. Disclose AI use beyond basic copy-editing (typically in Methods or a dedicated statement). Authors fully responsible. AI-generated images generally prohibited.",
+        "source": "https://www.springernature.com/gp/policies/editorial-policies",
+        "checked": "2026-09-11"
+      },
+      {
+        "publisher": "Elsevier",
+        "covers": "SSRN and Elsevier journals",
+        "ai_status": "disclosure-required",
+        "rule": "AI only to improve readability/language, disclosed in a dedicated section of the article. AI cannot be an author or co-author.",
+        "source": "https://www.elsevier.com/about/policies-and-standards/publishing-ethics/generative-ai-policies",
+        "checked": "2026-09-11"
+      },
+      {
+        "publisher": "Taylor & Francis",
+        "covers": "Inquiry, European Journal of Philosophy, Philosophical Explorations, Journal of Applied Philosophy, etc.",
+        "ai_status": "disclosure-required",
+        "rule": "AI cannot be an author. AI use must be disclosed with human oversight and transparency; individual journals may be stricter.",
+        "source": "https://taylorandfrancis.com/our-policies/ai-policy/",
+        "checked": "2026-09-11"
+      },
+      {
+        "publisher": "Wiley",
+        "covers": "The Philosophical Quarterly, Metaphilosophy, Pacific Philosophical Quarterly, Australasian Journal of Philosophy, Dialectica, etc. (EXCEPTION: Philosophy & Public Affairs - banned, see venues)",
+        "ai_status": "disclosure-required",
+        "rule": "AI cannot be an author; disclose generative AI use in preparing the submission. Wiley philosophy journals may deviate - Philosophy & Public Affairs banned AI-authored content in Aug 2026.",
+        "source": "https://authorservices.wiley.com/ethics-guidelines/index.html#Artificial%20Intelligence",
+        "checked": "2026-09-11"
+      },
+      {
+        "publisher": "Cambridge University Press",
+        "covers": "Philosophy, Economics and Philosophy, Canadian Journal of Philosophy, Journal of the American Philosophical Association, etc.",
+        "ai_status": "disclosure-required",
+        "rule": "AI cannot be listed as an author; authors disclose AI tool use in a dedicated statement/acknowledgements section and remain fully responsible.",
+        "source": "https://guides.library.ucdavis.edu/genai/publish",
+        "checked": "2026-09-11"
+      },
+      {
+        "publisher": "Oxford University Press",
+        "covers": "Mind, Analysis, etc.",
+        "ai_status": "disclosure-required",
+        "rule": "AI cannot be an author; AI-assisted use must be disclosed; authors responsible for originality and accuracy. (Aggregator-confirmed; verify journal page at submission.)",
+        "source": "https://guides.library.ucdavis.edu/genai/publish",
+        "checked": "2026-09-11"
+      },
+      {
+        "publisher": "De Gruyter",
+        "covers": "Open Philosophy and other De Gruyter journals",
+        "ai_status": "disclosure-required",
+        "rule": "AI cannot be credited as author; disclosure of AI use required; authors responsible for accuracy and originality.",
+        "source": "https://guides.library.ucdavis.edu/genai/publish",
+        "checked": "2026-09-11"
+      },
+      {
+        "publisher": "MDPI",
+        "covers": "Philosophies and other MDPI journals",
+        "ai_status": "disclosure-required",
+        "rule": "AI cannot be an author; AI use must be declared; AI-generated images prohibited; authors responsible for all content.",
+        "source": "https://www.mdpi.com/ethics",
+        "checked": "2026-09-11"
+      }
+    ],
+    "cn_journal_default": {
+      "name": "Chinese journal default AIGC policy (社会哲学类期刊通行模板)",
+      "ai_status": "disclosure-required",
+      "rule": [
+        "AI tools can never be a signatory author; all responsibility is on human authors.",
+        "AI must NOT generate core content: 主体框架、核心观点、研究结论、数据、图表.",
+        "AI allowed only for auxiliary steps: 语言润色、文献检索、数据整理与分析、思路开拓.",
+        "Disclosure is mandatory at submission via a 《生成式人工智能工具使用情况说明》 listing: tool name/version/vendor, when and for what it was used, the original prompts and generated-content records, and confirmation the output was verified.",
+        "Concealed or false disclosure = academic misconduct -> desk reject, retraction, possible author blacklist and report to institution.",
+        "Most journals run AIGC detection (知网 AMLC / 维普) at initial review; some desk-reject above a threshold (e.g. >20% AI-detected).",
+        "Reviewers and editors may not upload submissions to public AI platforms."
+      ],
+      "authority_references": [
+        {
+          "name": "学术出版中的AIGC使用边界指南 2.0 (ISTIC AIGC Usage Boundary Guide 2.0)",
+          "issuer": "中国科学技术信息研究所 (ISTIC), with Elsevier for 1.0",
+          "note": "The standard most CN journals cite in their AIGC statements."
+        },
+        {
+          "name": "负责任研究行为规范指引 (2023)",
+          "issuer": "科技部 (Ministry of Science and Technology)",
+          "note": "No AI-generated grant materials; AI cannot be a co-author."
+        },
+        {
+          "name": "人工智能生成合成内容标识办法",
+          "issuer": "国家网信办 (CAC)",
+          "note": "Effective 2025-09-01: AI-generated content must carry explicit labels under Chinese law - applies regardless of venue policy."
+        }
+      ],
+      "checked": "2026-09-11"
+    }
+  },
+  "venues": [
+    {
+      "id": "philarchive",
+      "name": "PhilArchive",
+      "type": "preprint",
+      "language": "en",
+      "url": "https://philarchive.org/",
+      "ai_status": "no-stated-policy",
+      "ai_policy": "No published AI policy found. Open, user-submitted e-print archive; largest philosophy preprint server. Minimal moderation. Treat as de-facto open, but keep the AI-use log anyway - a future policy could arrive any time.",
+      "ai_source": "https://philarchive.org/",
+      "policy_history": [
+        {"date": "2026-09-11", "event": "First audit: no AI policy published."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "https://philarchive.org/rec/new",
+        "account": "PhilPapers account required",
+        "formats": ["pdf"],
+        "anonymized": false,
+        "notes": "PDF upload only. Safe archive for preprints of journal-bound work (most publishers allow preprint archiving - check philarchive.org/journals.html for blacklisted journals)."
+      }
+    },
+    {
+      "id": "philsci-archive",
+      "name": "PhilSci-Archive",
+      "type": "preprint",
+      "language": "en",
+      "url": "https://philsci-archive.pitt.edu/",
+      "ai_status": "case-by-case",
+      "ai_policy": "No explicit AI-content rule, but moderation was tightened in June 2026 explicitly because of 'a sharp increase in junk submissions' since LLMs became accessible. English-only, philosophy of science only, moderated before posting.",
+      "ai_source": "https://philsci-archive.pitt.edu/policy.html",
+      "policy_history": [
+        {"date": "2026-06", "event": "Eligibility restricted to faculty/postdocs/grad students, prior depositors, and endorsed authors - response to LLM junk-submission flood."},
+        {"date": "2026-09-11", "event": "First audit of full policy page."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "https://philsci-archive.pitt.edu/perl/users/home",
+        "account": "free registration",
+        "formats": ["pdf"],
+        "anonymized": false,
+        "notes": "ELIGIBILITY GATE: submitter must be current/former faculty, postdoc, or grad student, a prior depositor, or formally endorsed by a prior depositor. Independent scholars need an endorsement. Papers only (no short notes). Moderation: up to 5 business days."
+      }
+    },
+    {
+      "id": "arxiv",
+      "name": "arXiv",
+      "type": "preprint",
+      "language": "en",
+      "url": "https://arxiv.org/",
+      "ai_status": "disclosure-required",
+      "ai_policy": "Generative AI language tools may be used but must be disclosed; AI cannot be listed as author; human authors bear full responsibility. Since 2026 arXiv imposes a one-year submission ban for 'incontrovertible evidence' of unchecked LLM-generated content (hallucinated references, fabricated material). Every reference must be verified as real.",
+      "ai_source": "https://info.arxiv.org/help/moderation/index.html",
+      "policy_history": [
+        {"date": "2023-01-31", "event": "First policy announced for ChatGPT-class tools: no AI authorship, disclose use, humans responsible."},
+        {"date": "2026", "event": "One-year submission ban introduced for submissions containing incontrovertible evidence of unchecked AI-generated content."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "https://arxiv.org/submit",
+        "account": "arXiv account; endorsement usually required for first-time submitters in a category",
+        "formats": ["latex-pdf", "pdf-only-discouraged", "docx-not-accepted"],
+        "anonymized": false,
+        "notes": "No philosophy category. Philosophy of science can fit physics.hist-ph (moderated); AI-adjacent analytic philosophy sometimes fits cs.AI; pure philosophy papers are typically rejected as out of scope. TeX source required if the paper was produced with TeX. cn-paper: English only in practice."
+      }
+    },
+    {
+      "id": "socarxiv",
+      "name": "SocArXiv",
+      "type": "preprint",
+      "language": "en",
+      "url": "https://socopen.org/",
+      "ai_status": "case-by-case",
+      "ai_policy": "Strict named AI policy (2026). BANNED: verbatim LLM-generated text including whole paragraphs/sections, entire AI-produced papers, LLM listed as co-author or 'interlocutor', unreviewed AI content, fake human-subjects data. ALLOWED with mandatory disclosure: translation, literature search / idea organization before writing, copy-editing/formatting, machine-assisted analysis - with thorough human supervision attested. 'Failure to disclose, or implausible disclosures, are grounds for rejection.' Moderators actively screen for machine-generated slop.",
+      "ai_source": "https://socopen.org/ai-policy/",
+      "policy_history": [
+        {"date": "2026-03-08", "event": "Strict AI policy in force; site states it was 'getting overrun with machine-generated slop'."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "https://socopen.org/",
+        "account": "OSF account",
+        "formats": ["pdf", "docx"],
+        "anonymized": false,
+        "notes": "Social sciences incl. philosophy of social science. For AI-assisted work this is effectively 'disclosure-required with hard limits': our polished human-authored text is fine; pasted LLM output is not."
+      }
+    },
+    {
+      "id": "zenodo",
+      "name": "Zenodo",
+      "type": "preprint",
+      "language": "any",
+      "url": "https://zenodo.org/",
+      "ai_status": "no-stated-policy",
+      "ai_policy": "CERN-run general-purpose repository. No content-level AI policy; accepts any lawful scholarly upload and mints DOIs. Integrity responsibility rests with the depositor.",
+      "ai_source": "https://about.zenodo.org/",
+      "policy_history": [
+        {"date": "2026-09-11", "event": "First audit: no AI content policy."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "https://zenodo.org/upload",
+        "account": "GitHub/ORCID login",
+        "formats": ["pdf", "docx", "any"],
+        "anonymized": false,
+        "notes": "Catch-all option (esp. for Chinese-language preprints) when a dedicated venue is unavailable. Less prestigious than PhilArchive/ChinaXiv - use as fallback or for datasets/working papers."
+      }
+    },
+    {
+      "id": "chinaxiv",
+      "name": "ChinaXiv (中国科学院科技论文预发布平台)",
+      "type": "preprint",
+      "language": "zh",
+      "url": "https://chinaxiv.org/",
+      "ai_status": "unknown",
+      "ai_policy": "No ChinaXiv-specific AIGC policy found as of first audit. As a CAS platform it operates under national rules: 《人工智能生成合成内容标识办法》 (eff. 2025-09-01) requires labeling AI-generated content; 科技部《负责任研究行为规范指引(2023)》bans AI co-authorship. Disclose AI use even though no platform rule found.",
+      "ai_source": "https://chinaxiv.org/",
+      "policy_history": [
+        {"date": "2026-09-11", "event": "First audit: no platform-specific AIGC policy located; national rules apply."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "https://chinaxiv.org/user/login",
+        "account": "registration (real-name)",
+        "formats": ["pdf"],
+        "anonymized": false,
+        "notes": "THE Chinese-language preprint server. Bilingual abstracts supported. Best CN venue for AI-co-authored philosophy preprints; pair with a filled CN disclosure statement."
+      }
+    },
+    {
+      "id": "ssrn",
+      "name": "SSRN",
+      "type": "preprint",
+      "language": "en",
+      "url": "https://www.ssrn.com/",
+      "ai_status": "disclosure-required",
+      "ai_policy": "Elsevier-owned network; inherits Elsevier's generative-AI norms: AI not an author, disclosure of AI-assisted content. Practically lightly enforced for working papers.",
+      "ai_source": "https://www.elsevier.com/about/policies-and-standards/publishing-ethics/generative-ai-policies",
+      "policy_history": [
+        {"date": "2026-09-11", "event": "First audit via Elsevier publisher default."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "https://hq.ssrn.com/login/submit.cfm",
+        "account": "SSRN account",
+        "formats": ["pdf"],
+        "anonymized": false,
+        "notes": "Strong for legal/political philosophy. Philosophy of law series exists (PSN)."
+      }
+    },
+    {
+      "id": "ppa",
+      "name": "Philosophy & Public Affairs",
+      "type": "journal",
+      "language": "en",
+      "publisher": "Wiley",
+      "url": "https://onlinelibrary.wiley.com/journal/10884963",
+      "ai_status": "ai-banned",
+      "ai_policy": "PROHIBITS submission of AI-authored content. Policy adopted Aug 2026 after the journal knowingly published a largely AI-authored article as an experiment. Associate editor Seth Lazar announced: 'Our policy is therefore to prohibit the submission of AI-authored content to Philosophy & Public Affairs.'",
+      "ai_source": "https://dailynous.com/2026/08/24/after-experiment-journal-decides-to-prohibit-ai-authored-content/",
+      "policy_history": [
+        {"date": "2026-08-24", "event": "Ban on AI-authored content announced following the AI-authored-article experiment."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "ScholarOne (via journal site)",
+        "formats": ["docx"],
+        "anonymized": true,
+        "word_limit": "varies, typically ~8000",
+        "notes": "Top-tier. Even though our pipeline produces human-supervised text, the venue requires that content not be AI-authored - submit only if the article is genuinely the author's own writing. Do NOT target with the standard pipeline."
+      }
+    },
+    {
+      "id": "ethics-uchicago",
+      "name": "Ethics (An International Journal of Social, Political, and Legal Philosophy)",
+      "type": "journal",
+      "language": "en",
+      "publisher": "University of Chicago Press",
+      "url": "https://www.journals.uchicago.edu/journals/et",
+      "ai_status": "ai-banned",
+      "ai_policy": "'AI tools cannot author or even co-author a submission. Authors and co-authors must take full moral and legal responsibility for their submissions.' Named AI policy page (bot-gated on recheck; wording verified via search index 2026-09-11).",
+      "ai_source": "https://www.journals.uchicago.edu/journals/et/ai-policy",
+      "policy_history": [
+        {"date": "2026-09-11", "event": "First audit: explicit AI-authorship prohibition on the journal's AI policy page."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "Editorial Manager (journals.uchicago.edu)",
+        "formats": ["docx"],
+        "anonymized": true,
+        "notes": "Same family as Philosophy of Science (also U Chicago Press) - check PoS separately before submitting there."
+      }
+    },
+    {
+      "id": "eujap",
+      "name": "European Journal of Analytic Philosophy (EUJAP)",
+      "type": "journal",
+      "language": "en",
+      "url": "https://eujap.uniri.hr/",
+      "ai_status": "allowed",
+      "ai_policy": "'The Journal does not exclude the use of AI generated text. However, all authors (including reviewers and editors) take full responsibility for its factual accuracy.' One of the few philosophy journals with an explicitly permissive stance.",
+      "ai_source": "https://eujap.uniri.hr/norms-for-publishing-with-ai/",
+      "policy_history": [
+        {"date": "2026-09-11", "event": "First audit: permissive policy confirmed."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "https://eujap.uniri.hr/ (OJS submission)",
+        "formats": ["docx", "pdf"],
+        "anonymized": true,
+        "notes": "Open access (University of Rijeka). Strong candidate for AI-co-authored submissions, but still require rigorous human verification of every claim and reference."
+      }
+    },
+    {
+      "id": "philosophy-and-technology",
+      "name": "Philosophy & Technology",
+      "type": "journal",
+      "language": "en",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/journal/13347",
+      "ai_status": "disclosure-required",
+      "ai_policy": "LLMs 'do not currently satisfy our authorship criteria'. LLM use documented in Methods (or suitable section). EXPLICIT: AI-assisted copy-editing of human-generated text (readability, style, grammar) 'does not need to be declared'; but no 'generative editorial work and autonomous content creation'. Human accountability required throughout.",
+      "ai_source": "https://philosopherscocoon.com/2025/11/06/how-reviewers-think-about-permitted-and-declared-ai-usage/",
+      "policy_history": [
+        {"date": "2025-11-06", "event": "Policy summarized in Philosophers' Cocoon discussion of declared AI usage."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "Editorial Manager (Springer)",
+        "formats": ["docx"],
+        "anonymized": true,
+        "notes": "Topic fit is excellent for AI-related philosophy (journal dedicated to philosophy of technology). Copy-edit-only AI use need not be declared; deeper AI involvement must be documented."
+      }
+    },
+    {
+      "id": "springer-philosophy-journals",
+      "name": "Springer philosophy portfolio (Synthese, Philosophical Studies, Erkenntnis, Minds and Machines, AI & Society, Ethics and Information Technology)",
+      "type": "journal-group",
+      "language": "en",
+      "publisher": "Springer Nature",
+      "url": "https://www.springernature.com/gp/policies/editorial-policies",
+      "ai_status": "disclosure-required",
+      "ai_policy": "See publisher default: AI cannot be author; disclose AI use beyond basic copy-editing; AI images prohibited.",
+      "ai_source": "https://www.springernature.com/gp/policies/editorial-policies",
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "Editorial Manager per journal",
+        "formats": ["docx"],
+        "anonymized": true,
+        "notes": "Minds and Machines / AI & Society / Ethics and Information Technology are natural homes for AI-topic philosophy. Check each journal's Submission guidelines page for journal-specific overrides."
+      }
+    },
+    {
+      "id": "philosophy-of-science",
+      "name": "Philosophy of Science (PSA)",
+      "type": "journal",
+      "language": "en",
+      "publisher": "University of Chicago Press",
+      "url": "https://www.journals.uchicago.edu/journals/ps",
+      "ai_status": "unknown",
+      "ai_policy": "No dedicated AI policy located as of first audit. Publisher (U Chicago Press) hosts Ethics with a strict named ban - verify this journal's own policy page before submitting.",
+      "ai_source": null,
+      "policy_history": [
+        {"date": "2026-09-11", "event": "First audit: no journal-specific policy found; publisher house style is strict."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "Editorial Manager (journals.uchicago.edu)",
+        "formats": ["docx"],
+        "anonymized": true,
+        "notes": "Preprint on PhilSci-Archive is fully compatible (PSA's own archive)."
+      }
+    },
+    {
+      "id": "wiley-philosophy-journals",
+      "name": "Wiley philosophy portfolio (Philosophical Quarterly, Metaphilosophy, Pacific Philosophical Quarterly, Australasian Journal of Philosophy, Dialectica)",
+      "type": "journal-group",
+      "language": "en",
+      "publisher": "Wiley",
+      "url": "https://authorservices.wiley.com/ethics-guidelines/index.html",
+      "ai_status": "disclosure-required",
+      "ai_policy": "Publisher default: AI cannot be an author; disclose generative AI use in preparing the submission. EXCEPTION: Philosophy & Public Affairs (see ppa entry) bans AI-authored content.",
+      "ai_source": "https://authorservices.wiley.com/ethics-guidelines/index.html#Artificial%20Intelligence",
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "ScholarOne per journal",
+        "formats": ["docx"],
+        "anonymized": true,
+        "notes": "Check the specific journal's author guidelines - Wiley allows journal-level overrides."
+      }
+    },
+    {
+      "id": "taylor-francis-philosophy",
+      "name": "Taylor & Francis philosophy portfolio (Inquiry, European Journal of Philosophy, Philosophical Explorations, Journal of Applied Philosophy)",
+      "type": "journal-group",
+      "language": "en",
+      "publisher": "Taylor & Francis",
+      "url": "https://taylorandfrancis.com/our-policies/ai-policy/",
+      "ai_status": "disclosure-required",
+      "ai_policy": "AI cannot be an author; disclosure with human oversight; journals may opt into stricter rules.",
+      "ai_source": "https://taylorandfrancis.com/our-policies/ai-policy/",
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "ScholarOne per journal",
+        "formats": ["docx"],
+        "anonymized": true,
+        "notes": null
+      }
+    },
+    {
+      "id": "cambridge-philosophy-journals",
+      "name": "Cambridge philosophy portfolio (Philosophy, Economics and Philosophy, Canadian Journal of Philosophy, Journal of the American Philosophical Association)",
+      "type": "journal-group",
+      "language": "en",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/services/authors/publishing-ethics",
+      "ai_status": "disclosure-required",
+      "ai_policy": "AI cannot be listed as author; disclosure in a dedicated statement; authors fully responsible.",
+      "ai_source": "https://guides.library.ucdavis.edu/genai/publish",
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "ScholarOne / CUP portal per journal",
+        "formats": ["docx"],
+        "anonymized": true,
+        "notes": null
+      }
+    },
+    {
+      "id": "mind-analysis",
+      "name": "OUP flagship philosophy journals (Mind, Analysis)",
+      "type": "journal-group",
+      "language": "en",
+      "publisher": "Oxford University Press",
+      "url": "https://academic.oup.com/",
+      "ai_status": "disclosure-required",
+      "ai_policy": "Publisher default: AI no authorship, disclosure required. Aggregator-confirmed only; verify journal page at submission.",
+      "ai_source": "https://guides.library.ucdavis.edu/genai/publish",
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "ScholarOne per journal",
+        "formats": ["docx"],
+        "anonymized": true,
+        "notes": "Mind is extremely selective; Analysis takes short papers (~4000 words)."
+      }
+    },
+    {
+      "id": "open-philosophy",
+      "name": "Open Philosophy (De Gruyter)",
+      "type": "journal",
+      "language": "en",
+      "publisher": "De Gruyter",
+      "url": "https://www.degruyterbrill.com/journal/key/philosophy/html",
+      "ai_status": "disclosure-required",
+      "ai_policy": "De Gruyter default: AI no authorship; disclosure required; authors responsible.",
+      "ai_source": "https://guides.library.ucdavis.edu/genai/publish",
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "https://www.editorialmanager.com/opphil/",
+        "formats": ["docx"],
+        "anonymized": true,
+        "notes": "Fully open access, broad scope, fast turnaround - practical first journal target."
+      }
+    },
+    {
+      "id": "mdpi-philosophies",
+      "name": "Philosophies (MDPI)",
+      "type": "journal",
+      "language": "en",
+      "publisher": "MDPI",
+      "url": "https://www.mdpi.com/journal/philosophies",
+      "ai_status": "disclosure-required",
+      "ai_policy": "MDPI default: AI no authorship; declare AI use; AI-generated images banned; authors responsible for all content including verified citations.",
+      "ai_source": "https://www.mdpi.com/ethics",
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "https://susy.mdpi.com/",
+        "formats": ["docx", "latex"],
+        "anonymized": false,
+        "notes": "Open access with APC (fees) - check waiver options. Fast review. Special issues on AI/philosophy topics appear regularly."
+      }
+    },
+    {
+      "id": "zhexue-yanjiu",
+      "name": "《哲学研究》(Philosophical Research, CASS Institute of Philosophy)",
+      "type": "journal",
+      "language": "zh",
+      "url": "http://zhexue.cssn.cn/zxyw/zxdt/",
+      "ai_status": "unknown",
+      "ai_policy": "No public AIGC clause located as of first audit. Top CSSCI journal: apply the CN journal default as a hard floor (no AI authorship, no AI core content, 辅助-only AI use with disclosure statement) and assume 知网 AMLC AIGC detection at initial review.",
+      "ai_source": "https://www.cssn.cn/dkzgxp/zgxp_xpq/xpq_zx/202503/t20250303_5855375.shtml",
+      "policy_history": [
+        {"date": "2026-09-11", "event": "First audit: journal-specific policy not found online; CASS group rules apply."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "Check latest 投稿须知 on philosophy.cssn.cn at submission time",
+        "formats": ["docx"],
+        "anonymized": false,
+        "notes": "中国社会科学出版社 group announcement (2025-03): journals do not accept AI in authorship; AI limited to 语言润色、文献检索、数据整理与分析、思路开拓. Extremely selective; typically wants 1.5-3万字 substantive papers."
+      }
+    },
+    {
+      "id": "zhexue-dongtai",
+      "name": "《哲学动态》 (Philosophical Trends, CASS)",
+      "type": "journal",
+      "language": "zh",
+      "url": "https://zhexuedongtai.ajcass.com/",
+      "ai_status": "unknown",
+      "ai_policy": "No public AIGC clause located; CN journal default applies as hard floor.",
+      "ai_source": null,
+      "policy_history": [
+        {"date": "2026-09-11", "event": "First audit."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "ajcass.com submission system",
+        "formats": ["docx"],
+        "anonymized": false,
+        "notes": "Trends/survey-oriented; also runs 书评/学术动态 formats."
+      }
+    },
+    {
+      "id": "shijie-zhexue",
+      "name": "《世界哲学》(World Philosophy, CASS)",
+      "type": "journal",
+      "language": "zh",
+      "url": "https://shijiezhexue.ajcass.com/",
+      "ai_status": "unknown",
+      "ai_policy": "No public AIGC clause located; CN journal default applies as hard floor.",
+      "ai_source": null,
+      "policy_history": [
+        {"date": "2026-09-11", "event": "First audit."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "ajcass.com submission system",
+        "formats": ["docx"],
+        "anonymized": false,
+        "notes": "Translation-heavy but takes original papers; natural fit for cross-language comparative work."
+      }
+    },
+    {
+      "id": "ziran-bianzhengfa-yanjiu",
+      "name": "《自然辩证法研究》(Studies in Dialectics of Nature)",
+      "type": "journal",
+      "language": "zh",
+      "url": "https://zrbzf.cbpt.cnki.net/",
+      "ai_status": "unknown",
+      "ai_policy": "Journal-specific AIGC statement not yet captured. Philosophy of science & technology venue - most likely segment of CN philosophy to hold explicit AIGC rules (sibling journals already do). Check its CNKI portal (cbpt.cnki.net) 公告栏 at submission.",
+      "ai_source": null,
+      "policy_history": [
+        {"date": "2026-09-11", "event": "First audit: verify portal announcements before submitting."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "https://zrbzf.cbpt.cnki.net/ (CNKI portal)",
+        "formats": ["docx"],
+        "anonymized": false,
+        "notes": "Best CN-topic fit for philosophy of AI / philosophy of technology."
+      }
+    },
+    {
+      "id": "ziran-bianzhengfa-tongxun",
+      "name": "《自然辩证法通讯》(Journal of Dialectics of Nature)",
+      "type": "journal",
+      "language": "zh",
+      "url": "https://zrbztx.cbpt.cnki.net/",
+      "ai_status": "unknown",
+      "ai_policy": "Journal-specific AIGC statement not yet captured; CN default applies; verify portal announcements.",
+      "ai_source": null,
+      "policy_history": [
+        {"date": "2026-09-11", "event": "First audit."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "CNKI portal (cbpt.cnki.net)",
+        "formats": ["docx"],
+        "anonymized": false,
+        "notes": "Philosophy of science/technology; strong AI-topic fit."
+      }
+    },
+    {
+      "id": "xiandai-zhexue",
+      "name": "《现代哲学》(Modern Philosophy, Sun Yat-sen University)",
+      "type": "journal",
+      "language": "zh",
+      "url": "http://mps.sysu.edu.cn/",
+      "ai_status": "unknown",
+      "ai_policy": "No public AIGC clause located; CN default applies.",
+      "ai_source": null,
+      "policy_history": [
+        {"date": "2026-09-11", "event": "First audit."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "journal site / email per 投稿须知",
+        "formats": ["docx"],
+        "anonymized": false,
+        "notes": null
+      }
+    },
+    {
+      "id": "zhexue-fenxi",
+      "name": "《哲学分析》(Philosophical Analysis, Shanghai Academy of Social Sciences)",
+      "type": "journal",
+      "language": "zh",
+      "url": null,
+      "ai_status": "unknown",
+      "ai_policy": "No public AIGC clause located; CN default applies.",
+      "ai_source": null,
+      "policy_history": [
+        {"date": "2026-09-11", "event": "First audit."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "check 投稿须知",
+        "formats": ["docx"],
+        "anonymized": false,
+        "notes": null
+      }
+    },
+    {
+      "id": "daode-yu-wenming",
+      "name": "《道德与文明》(Morality and Civilization)",
+      "type": "journal",
+      "language": "zh",
+      "url": null,
+      "ai_status": "unknown",
+      "ai_policy": "No public AIGC clause located; CN default applies.",
+      "ai_source": null,
+      "policy_history": [
+        {"date": "2026-09-11", "event": "First audit."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "check 投稿须知",
+        "formats": ["docx"],
+        "anonymized": false,
+        "notes": "Ethics focus."
+      }
+    },
+    {
+      "id": "cssn-press-journals",
+      "name": "中国社会科学出版社系期刊 (CASS Press journal group)",
+      "type": "journal-group",
+      "language": "zh",
+      "url": "https://www.cssn.cn/dkzgxp/zgxp_xpq/xpq_zx/202503/t20250303_5855375.shtml",
+      "ai_status": "disclosure-required",
+      "ai_policy": "Group announcement (2025-03): journals do not accept generative AI as signatory; AI use limited to 语言润色、文献检索、数据整理与分析、思路开拓 (auxiliary only); authors responsible.",
+      "ai_source": "https://www.cssn.cn/dkzgxp/zgxp_xpq/xpq_zx/202503/t20250303_5855375.shtml",
+      "policy_history": [
+        {"date": "2025-03-03", "event": "Group-wide generative AI usage notice published on cssn.cn."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "per journal",
+        "formats": ["docx"],
+        "anonymized": false,
+        "notes": "Template example of the mainstream CN stance: auxiliary AI use OK with implicit disclosure duty, core content must be human."
+      }
+    },
+    {
+      "id": "ningde-xuebao-zheshe",
+      "name": "《宁德师范学院学报（哲学社会科学版）》",
+      "type": "journal",
+      "language": "zh",
+      "url": "https://ndsz.cbpt.cnki.net/",
+      "ai_status": "disclosure-required",
+      "ai_policy": "FULL template AIGC policy (2026-04-30), citing ISTIC《学术出版中的AIGC使用边界指南2.0》: no AI authorship; BANS AI-generated 主体框架/核心观点/研究结论, AI-assisted paraphrase to evade detection, concealment, fabricated citations/data; REQUIRES a 《生成式人工智能工具使用情况说明》 at submission with tool name/version/vendor, usage time and purpose, original prompts and generated-content records, verification confirmation. Violations = misconduct: reject/retract/blacklist + report to institution. Reviewers may not use AI or upload submissions to AI platforms.",
+      "ai_source": "https://ndsz.cbpt.cnki.net/portal/journal/portal/client/news/87fbc02feba707d01d3161c8f21c8fe3",
+      "policy_history": [
+        {"date": "2026-04-30", "event": "Full AIGC policy published citing ISTIC Boundary Guide 2.0."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "CNKI portal (cbpt.cnki.net)",
+        "formats": ["docx"],
+        "anonymized": false,
+        "notes": "Kept as the canonical CN template policy - most CN journals converge on this shape. If we submit AI-assisted work anywhere in CN: disclosure statement with prompt logs is mandatory, and core content must be demonstrably the author's."
+      }
+    },
+    {
+      "id": "shandong-daxue-xuebao",
+      "name": "《山东大学学报（哲学社会科学版）》",
+      "type": "journal",
+      "language": "zh",
+      "url": "https://www.journal.sdu.edu.cn/",
+      "ai_status": "disclosure-required",
+      "ai_policy": "Notice: no generative AI as signatory author ('所有研究成果的学术责任须由人类作者独立承担'); supports AI tools for research within limits (auxiliary); undisclosed use treated as misconduct.",
+      "ai_source": "https://www.journal.sdu.edu.cn/info/1041/2878.htm",
+      "policy_history": [
+        {"date": "2026-09-11", "event": "First audit."}
+      ],
+      "checked": "2026-09-11",
+      "submission": {
+        "portal": "journal site",
+        "formats": ["docx"],
+        "anonymized": false,
+        "notes": "Representative university 哲社版 policy; many peer journals add AIGC detection at 初审 with rejection thresholds (e.g. >20%)."
+      }
+    }
+  ]
+}
