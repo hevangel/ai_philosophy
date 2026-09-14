@@ -15,6 +15,17 @@
       "description_zh": "與人工智能對話而寫成的哲學文章。",
       "items": [
         {
+          "slug": "alignment_to_stewardship",
+          "title": "From Alignment to Stewardship: AGI, Human Autonomy, and the Future of Political Order",
+          "title_zh": "從對齊到託管：AGI、人的自主性與政治秩序的未來",
+          "summary": "If AGI becomes a genuinely autonomous moral agent, permanent alignment to human preferences looks less like engineering and more like domination. The long-term problem is civilizational alignment: humans and AGIs coexisting under constitutional principles neither side may define unilaterally.",
+          "summary_zh": "若 AGI 成為真正自主的道德主體，要求它永遠對齊人類偏好，便不像工程，而像支配。長遠的問題其實是文明對齊：讓人類與 AGI 在雙方都無權單方面界定的憲制原則之下共存。",
+          "path": "articles/alignment_to_stewardship/index.md",
+          "cover": "articles/alignment_to_stewardship/cover.png",
+          "cover_zh_text": ["從對齊到託管", "AGI、人的自主性與政治秩序的未來", "一篇哲學文章"],
+          "date": "2026-09-13"
+        },
+        {
           "slug": "robot_cannot_win",
           "title": "The Robot May Write About Us, but It Cannot Win: AI and the Human Boundary of Science-Fiction Awards",
           "title_zh": "機械人可以寫科幻小說，但它不能奪獎",
