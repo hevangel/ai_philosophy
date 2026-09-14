@@ -38,6 +38,37 @@ Content lives in four kinds of folders:
   `submissions.json`. Always re-verify the venue's live AI policy first; never submit to
   `ai-banned` venues.
 
+`.agents/skills/` also holds the owner's philosophy research toolkit (not part of the
+submission pipeline). Nine modes invoked by slash name and combinable (`/map + /socratic`):
+`faithful-rewrite` is `/rewrite`; the others are `reconstruct`, `socratic`, `attack`, `map`,
+`research`, `ledger`, `originality`, `paper`. For a new idea the default sequence is
+/socratic → /map → /attack → /research → /rewrite → /reconstruct → /ledger → /originality →
+/paper, using only the modes the problem needs — never automatically write an essay. Every
+mode obeys one central rule: **never make an argument stronger, cleaner, or more settled than
+it really is.**
+
+- `faithful-rewrite` (/rewrite) — remove linguistic difficulty, never intellectual difficulty;
+  preserve the author's complete structure; progressive reveal with the "deeper" / "original" /
+  "challenge" / "scholar mode" / "plain mode" controls.
+- `reconstruct` (/reconstruct) — prose → numbered P1/P2/Therefore-C form; textual vs charitable
+  reconstruction (never silently substituted); ends with "what must be true for this to work".
+- `socratic` (/socratic) — question the owner's developing position one small batch at a time;
+  don't rescue it; "help" offers possible responses, "assessment" exits and evaluates.
+- `attack` (/attack) — strongest-version objections across nine failure types, ranked
+  fatal / revision / cost / puzzle; strongest objection first, then evaluate the response.
+- `map` (/map) — map plausible meanings, easily-collapsed distinctions, and surrounding
+  territory before choosing a definition; ends with "the fork in the road".
+- `research` (/research) — translate the question into research language, build a 3–7-work
+  reading path, teach paper-reading practice; never manufacture literature consensus.
+- `ledger` (/ledger) — running claim ledger (thesis, definitions, accepted/rejected claims,
+  dependencies, open objections, revisions, confidence); cross-session ledgers live under
+  `sratchpad/`.
+- `originality` (/originality) — component-by-component neighbor check; classify as independent
+  rediscovery / novel application / novel synthesis / potentially original argument.
+- `paper` (/paper) — structure and write the essay only after substantial thinking; preserve
+  conditionals and unresolved objections. Publishing the result is the site workflow, not this
+  toolkit.
+
 ## Site architecture
 
 - `index.html` (repo root) is the entire app: a single-page web app. GitHub Pages serves it
