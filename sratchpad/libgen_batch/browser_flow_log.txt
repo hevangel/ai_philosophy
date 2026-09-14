@@ -1,0 +1,12 @@
+[2026-09-12 17:15:21] === browser flow start: 1 books ===
+[2026-09-12 17:16:28] #004 unexpected: TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://libgen.li/", waiting until "domcontentloaded"
+
+[2026-09-12 17:16:28] === browser flow end: 0/1 downloaded ===
+[2026-09-12 17:16:59] === browser flow start: 1 books ===
+[2026-09-12 17:18:34] #004 no results page for: Buffy the Vampire Slayer and Philosophy
+[2026-09-12 17:18:34] === browser flow end: 0/1 downloaded ===
+[2026-09-12 17:19:13] === browser flow start: 1 books ===
+[2026-09-12 17:19:29] #004 no results page for: Buffy the Vampire Slayer and Philosophy
+[2026-09-12 17:19:29] === browser flow end: 0/1 downloaded ===

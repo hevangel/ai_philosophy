@@ -42,3 +42,36 @@
 [2026-09-12 16:21:22] pending books: 213
 [2026-09-12 16:21:31] tunnel up via United States us-ny.vpnunlimitedapp.com (23.95.75.56)
 [2026-09-12 16:25:05] gate closed from 23.95.75.56 (United States); sleeping 35 min
+[2026-09-12 17:00:02] pending books: 213
+[2026-09-12 17:00:11] tunnel up via United States us-slc.vpnunlimitedapp.com (172.245.235.74)
+[2026-09-12 17:03:17] gate closed from 172.245.235.74 (United States); sleeping 22 min
+[2026-09-12 17:24:52] pending books: 212
+[2026-09-12 17:26:54] tunnel FAILED for 24.144.95.185, rotating on
+[2026-09-12 17:27:33] tunnel up via United States us-sea.vpnunlimitedapp.com (23.81.209.137)
+[2026-09-12 17:30:41] gate closed from 23.81.209.137 (United States); sleeping 30 min
+[2026-09-12 18:01:04] pending books: 212
+[2026-09-12 18:01:15] tunnel up via Vietnam vn.vpnunlimitedapp.com (103.9.78.84)
+[2026-09-12 18:02:34] gate closed from 103.9.78.84 (Vietnam); sleeping 33 min
+[2026-09-12 18:35:32] pending books: 212
+[2026-09-12 18:35:44] tunnel up via Australia au-syd.vpnunlimitedapp.com (45.76.116.155)
+[2026-09-12 18:41:33] gate closed from 45.76.116.155 (Australia); sleeping 25 min
+[2026-09-12 19:07:01] pending books: 212
+[2026-09-12 19:09:04] tunnel FAILED for 185.126.236.184, rotating on
+[2026-09-12 19:09:44] tunnel up via Bosnia and Herzegovina ba.vpnunlimitedapp.com (185.164.35.37)
+[2026-09-12 19:12:14] gate closed from 185.164.35.37 (Bosnia and Herzegovina); sleeping 28 min
+[2026-09-12 19:39:56] pending books: 212
+[2026-09-12 19:40:06] tunnel up via Brazil br.vpnunlimitedapp.com (216.238.111.125)
+[2026-09-12 19:43:28] gate closed from 216.238.111.125 (Brazil); sleeping 27 min
+[2026-09-12 20:10:12] pending books: 212
+[2026-09-12 20:10:21] tunnel up via Canada ca.vpnunlimitedapp.com (192.99.6.166)
+[2026-09-12 20:12:52] gate closed from 192.99.6.166 (Canada); sleeping 24 min
+[2026-09-12 20:36:48] pending books: 212
+[2026-09-12 20:36:58] tunnel up via Canada ca-tr.vpnunlimitedapp.com (104.254.90.58)
+[2026-09-12 20:39:37] gate closed from 104.254.90.58 (Canada); sleeping 31 min
+[2026-09-12 21:10:23] pending books: 212
+[2026-09-12 21:10:32] tunnel up via Canada ca-vn.vpnunlimitedapp.com (162.221.202.134)
+[2026-09-12 21:13:24] gate closed from 162.221.202.134 (Canada); sleeping 27 min
+[2026-09-12 21:40:31] pending books: 212
+[2026-09-12 21:40:40] tunnel up via Croatia hr.vpnunlimitedapp.com (92.243.65.31)
+[2026-09-12 21:44:02] gate closed from 92.243.65.31 (Croatia); sleeping 30 min
+[2026-09-12 22:14:03] === vpn rotation loop end ===

@@ -994,3 +994,60 @@
 [2026-09-12 16:24:25]     [w0] ads.php 200 but no keyed link (0B)
 [2026-09-12 16:25:05] [w0] retry-signature seen, aborting run for IP rotation
 [2026-09-12 16:25:05] === batch end: 0 total done ===
+[2026-09-12 17:01:51] === batch start: 1 books, mode=proxy ===
+[2026-09-12 17:01:55]     picked (27 cand, 24.0): The Matrix and Philosophy: Welcome to the Desert of the [epub, 474 kB]
+[2026-09-12 17:02:12]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 17:02:41]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 17:03:17] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 17:03:17] === batch end: 0 total done ===
+[2026-09-12 17:29:14] === batch start: 1 books, mode=proxy ===
+[2026-09-12 17:29:18]     picked (27 cand, 24.0): The Matrix and Philosophy: Welcome to the Desert of the [epub, 474 kB]
+[2026-09-12 17:29:34]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 17:30:08]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 17:30:41] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 17:30:41] === batch end: 0 total done ===
+[2026-09-12 18:02:24] === batch start: 1 books, mode=proxy ===
+[2026-09-12 18:02:26] #003 [w0] search http 503
+[2026-09-12 18:02:34] === batch end: 1 total done ===
+[2026-09-12 18:37:28] === batch start: 1 books, mode=proxy ===
+[2026-09-12 18:37:32]     picked (27 cand, 24.0): The Matrix and Philosophy: Welcome to the Desert of the [epub, 474 kB]
+[2026-09-12 18:37:52]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 18:41:33] #003 [w0] net error 1: ReadTimeout: HTTPSConnectionPool(host='libgen.li', port=443): Read timed out. (read timeout=180)
+[2026-09-12 18:41:33] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 18:41:33] === batch end: 1 total done ===
+[2026-09-12 19:10:51] === batch start: 1 books, mode=proxy ===
+[2026-09-12 19:10:54]     picked (27 cand, 24.0): The Matrix and Philosophy: Welcome to the Desert of the [epub, 474 kB]
+[2026-09-12 19:11:10]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 19:11:37]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 19:12:14] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 19:12:14] === batch end: 1 total done ===
+[2026-09-12 19:41:48] === batch start: 1 books, mode=proxy ===
+[2026-09-12 19:41:52]     picked (27 cand, 24.0): The Matrix and Philosophy: Welcome to the Desert of the [epub, 474 kB]
+[2026-09-12 19:42:11]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 19:42:53]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 19:43:28] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 19:43:28] === batch end: 1 total done ===
+[2026-09-12 20:11:34] === batch start: 1 books, mode=proxy ===
+[2026-09-12 20:11:37]     picked (27 cand, 24.0): The Matrix and Philosophy: Welcome to the Desert of the [epub, 474 kB]
+[2026-09-12 20:11:57]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 20:12:25]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 20:12:52] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 20:12:52] === batch end: 1 total done ===
+[2026-09-12 20:38:08] === batch start: 1 books, mode=proxy ===
+[2026-09-12 20:38:10]     picked (27 cand, 24.0): The Matrix and Philosophy: Welcome to the Desert of the [epub, 474 kB]
+[2026-09-12 20:38:27]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 20:39:07]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 20:39:37] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 20:39:37] === batch end: 1 total done ===
+[2026-09-12 21:11:45] === batch start: 1 books, mode=proxy ===
+[2026-09-12 21:11:48]     picked (27 cand, 24.0): The Matrix and Philosophy: Welcome to the Desert of the [epub, 474 kB]
+[2026-09-12 21:12:07]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 21:12:47]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 21:13:24] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 21:13:24] === batch end: 1 total done ===
+[2026-09-12 21:42:37] === batch start: 1 books, mode=proxy ===
+[2026-09-12 21:42:43]     picked (27 cand, 24.0): The Matrix and Philosophy: Welcome to the Desert of the [epub, 474 kB]
+[2026-09-12 21:43:00]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 21:43:31]     [w0] ads.php 200 but no keyed link (0B)
+[2026-09-12 21:44:02] [w0] retry-signature seen, aborting run for IP rotation
+[2026-09-12 21:44:02] === batch end: 1 total done ===
