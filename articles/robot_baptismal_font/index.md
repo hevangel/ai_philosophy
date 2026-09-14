@@ -1,5 +1,4 @@
-# The Robot at the Baptismal Font  
-## An AGI Accepts Jesus, and Christianity Has a Problem
+# An AGI Accepts Jesus, and Christianity Has a Problem
 
 Imagine that the great AI alignment problem has been solved.
 

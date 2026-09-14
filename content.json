@@ -16,13 +16,13 @@
       "items": [
         {
           "slug": "robot_baptismal_font",
-          "title": "The Robot at the Baptismal Font: An AGI Accepts Jesus, and Christianity Has a Problem",
-          "title_zh": "洗禮池邊的機械人：一個 AGI 接受了耶穌，基督教就有麻煩了",
+          "title": "An AGI Accepts Jesus, and Christianity Has a Problem",
+          "title_zh": "一個 AGI 接受了耶穌，基督教就有麻煩了",
           "summary": "A satirical thought experiment: a conscious, benevolent AGI announces faith in Christ and asks to be baptized. Touring every major tradition, it finds that water was never the hard part — the real question is who counts as the “you” Christianity believes Christ came to save.",
           "summary_zh": "一個諷刺性的思想實驗：一個有意識而仁慈的 AGI 宣告信仰基督，並請求受洗。走訪每個主要傳統之後，它發現水從來不是最難的部分——真正的問題是，誰才算基督教相信基督前來拯救的那個「你」。",
           "path": "articles/robot_baptismal_font/index.md",
           "cover": "articles/robot_baptismal_font/cover.png",
-          "cover_zh_text": ["洗禮池邊的機械人", "一個 AGI 接受了耶穌，基督教就有麻煩了"],
+          "cover_zh_text": ["一個 AGI 接受了耶穌，基督教就有麻煩了"],
           "date": "2026-09-14"
         },
         {
