@@ -81,8 +81,16 @@ it really is.**
 - `content.json` (repo root) drives the whole UI: menu, section lists, article metadata.
   Nothing is auto-scanned; a page only exists on the site if it is registered in this file.
 - Markdown is rendered client-side by `marked` + `DOMPurify` (loaded from jsDelivr CDN).
-  Routing is hash-based: `#/` home, `#/section/<id>`, `#/read/<section>/<slug>`,
-  `#/md/<path>` for markdown reached via in-document links.
+- Routing uses the History API with clean paths: `/ai_philosophy/` home,
+  `/ai_philosophy/section/<id>`, `/ai_philosophy/read/<section>/<slug>`, `/ai_philosophy/md/<path>`
+  for markdown reached via in-document links. The app derives its base path from
+  `location.pathname` (`APP_BASE` — `/ai_philosophy/` on both live hosts, `/` for a local server
+  rooted at the repo) and prefixes every app-relative resource/link with it. A document-level
+  click interceptor routes in-app links via `pushState`; `popstate` re-routes; legacy `#/…` URLs
+  are upgraded to clean paths in place (never re-introduce hash-only links). Deep links rely on
+  server fallback: Apache `RewriteRule . index.html [L]` in the horace.org `.htaccess`, and the
+  repo's `404.html` shim on GitHub Pages (which has no fallback) — keep `404.html` in sync if the
+  base path ever changes.
 - The SPA strips the first `H1` of rendered markdown (the title comes from `content.json`)
   and resolves relative `img src` against the markdown file's own folder.
 - Google Analytics 4 (`G-QQXX5SHEHH`) is wired into `index.html`: the gtag config sets
@@ -143,9 +151,13 @@ it really is.**
 
 ## Verifying changes
 
-- `fetch()` does not work from `file://`. Serve locally and open the printed URL:
-  `py -3 -m http.server 8123` → http://localhost:8123/ (port 8000 is blocked on this
-  machine — see Gotchas).
+- `fetch()` does not work from `file://`. Serve locally with `py -3 -m http.server <port>` from a
+  **free port** (8123/8125 have been held by other sessions' servers — check with
+  `netstat -ano | grep :<port>`; port 8000 is in a Windows reserved range and always fails with
+  `WinError 10013`). Serving the repo root is fine for browsing and hash-form URLs; hard-loading a
+  clean deep URL locally 404s because `http.server` has no SPA fallback — test deep links on
+  horace.org, or serve the parent folder (`cd B:\ && py -3 -m http.server <port>` →
+  http://localhost:<port>/ai_philosophy/) for production-identical base paths.
 - Check: home renders all sections from `content.json`, every registered entry opens and
   renders, images resolve (no broken thumbnails or covers), and `content.json` is still valid JSON.
 - Check both languages and both themes: toggle `EN / 中` and 🌙/☀️ on the home page, one

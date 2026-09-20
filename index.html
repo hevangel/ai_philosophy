@@ -331,6 +331,15 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
 
   var lang = document.documentElement.dataset.lang === 'zh' ? 'zh' : 'en';
 
+  // Clean URLs: the app lives at /ai_philosophy/ on both live hosts (GitHub
+  // Pages project site and the horace.org mirror); '/' when served locally
+  // from a server rooted at the repo. Routes are pushed as real paths and
+  // Apache (or 404.html on GitHub Pages) falls back to index.html for them.
+  var APP_BASE = location.pathname.indexOf('/ai_philosophy/') === 0 ? '/ai_philosophy/' : '/';
+  function appUrl(p) { return APP_BASE + p; }
+  function isExternalPath(p) { return /^(https?:|data:|#|[a-z]+:|\/)/i.test(p); }
+  function toAppUrl(p) { return isExternalPath(p) ? p : appUrl(p); }
+
   var I18N = {
     en: {
       loading: 'Loading…',
@@ -366,7 +375,7 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
 
   function getContent() {
     if (!contentPromise) {
-      contentPromise = fetch('content.json').then(function (r) {
+      contentPromise = fetch(appUrl('content.json')).then(function (r) {
         if (!r.ok) throw new Error('content.json HTTP ' + r.status);
         return r.json();
       });
@@ -411,15 +420,15 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
     var firstH1 = body.querySelector('h1');
     if (firstH1) firstH1.remove();
     body.querySelectorAll('img[src]').forEach(function (img) {
-      img.src = resolvePath(img.getAttribute('src'), baseDir);
+      img.src = toAppUrl(resolvePath(img.getAttribute('src'), baseDir));
       img.loading = 'lazy';
     });
     body.querySelectorAll('a[href]').forEach(function (a) {
       var href = a.getAttribute('href');
       if (/\.md($|[?#])/i.test(href) && !/^(https?:|#[a-z]+:)/i.test(href)) {
-        a.href = '#/md/' + encodeURIComponent(resolvePath(href, baseDir));
-      } else if (!/^(https?:|data:|#|mailto:)/i.test(href)) {
-        a.href = resolvePath(href, baseDir);
+        a.href = appUrl('md/' + encodeURIComponent(resolvePath(href, baseDir)));
+      } else if (!isExternalPath(href)) {
+        a.href = toAppUrl(resolvePath(href, baseDir));
         a.target = '_blank';
         a.rel = 'noopener';
       }
@@ -446,7 +455,7 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
   var existsCache = {};
   function exists(url) {
     if (!(url in existsCache)) {
-      existsCache[url] = fetch(url, { method: 'HEAD' }).then(function (r) {
+      existsCache[url] = fetch(toAppUrl(url), { method: 'HEAD' }).then(function (r) {
         return r.ok;
       }).catch(function () { return false; });
     }
@@ -454,7 +463,7 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
   }
 
   function imgTag(cls, src) {
-    return '<img class="' + cls + '" src="' + esc(src) + '" alt="" onerror="this.remove()">';
+    return '<img class="' + cls + '" src="' + esc(toAppUrl(src)) + '" alt="" onerror="this.remove()">';
   }
 
   function zhOverlayHtml(lines, compact) {
@@ -490,7 +499,7 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
     return coverHtml(item, true).then(function (img) {
       return (
         '<article class="card">' +
-          '<a href="#/read/' + esc(sectionId) + '/' + esc(item.slug) + '">' +
+          '<a href="' + appUrl('read/' + esc(sectionId) + '/' + esc(item.slug)) + '">' +
             img +
             '<div class="card-body">' +
               '<h3>' + esc(L(item, 'title')) + '</h3>' +
@@ -514,10 +523,10 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
       var n = total;
       var count = n + (n === 1 ? ' ' + t('one') : ' ' + t('many'));
       var more = (shown.length !== total)
-        ? '<a class="section-more" href="#/section/' + esc(section.id) + '">' +
+        ? '<a class="section-more" href="' + appUrl('section/' + esc(section.id)) + '">' +
             esc(t('more')).replace('{n}', n) + '</a>'
         : '';
-      return (showBack ? '<a class="section-back" href="#/">' + esc(t('all')) + '</a>' : '') +
+      return (showBack ? '<a class="section-back" href="' + appUrl('') + '">' + esc(t('all')) + '</a>' : '') +
         '<section class="section">' +
           '<div class="section-head"><h2>' + esc(L(section, 'name')) + '</h2>' +
             '<span class="count">' + esc(count) + '</span>' +
@@ -530,7 +539,7 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
 
   function setNav(activeId, sections) {
     topnav.innerHTML = sections.map(function (s) {
-      return '<a href="#/section/' + esc(s.id) + '"' + (s.id === activeId ? ' class="active"' : '') + '>' + esc(L(s, 'name')) + '</a>';
+      return '<a href="' + appUrl('section/' + esc(s.id)) + '"' + (s.id === activeId ? ' class="active"' : '') + '>' + esc(L(s, 'name')) + '</a>';
     }).join('');
   }
 
@@ -589,7 +598,7 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
   }
 
   function fetchMarkdown(path) {
-    return fetch(path).then(function (r) {
+    return fetch(toAppUrl(path)).then(function (r) {
       if (!r.ok) throw new Error('HTTP ' + r.status + ' for ' + path);
       return r.text();
     });
@@ -632,7 +641,7 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
     Promise.all([md, coverHtml(item, false)]).then(function (r) {
       var text = r[0], cover = r[1];
       app.innerHTML =
-        '<a class="section-back" href="' + (section ? '#/section/' + esc(section.id) : '#/') + '">' + esc(t('back')) + '</a>' +
+        '<a class="section-back" href="' + appUrl(section ? 'section/' + esc(section.id) : '') + '">' + esc(t('back')) + '</a>' +
         '<header class="article-head">' + cover +
           '<h1>' + esc(L(item, 'title')) + '</h1>' +
           (item.date ? '<span class="date">' + fmtDate(item.date) + '</span>' : '') +
@@ -669,7 +678,7 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
     showStatus(t('loading'));
     fetchMarkdown(path).then(function (text) {
       app.innerHTML =
-        '<a class="section-back" href="#/">' + esc(t('all')) + '</a>' +
+        '<a class="section-back" href="' + appUrl('') + '">' + esc(t('all')) + '</a>' +
         '<div class="prose">' + renderMarkdown(text, path) + '</div>';
       window.scrollTo(0, 0);
     }).catch(showError);
@@ -677,13 +686,25 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
 
   // ---------- router ----------
 
+  // Route parts from the clean path (e.g. /ai_philosophy/read/<s>/<slug> →
+  // ['read', s, slug]); legacy '#/…' URLs are rewritten to clean paths in place.
+  function currentRouteParts() {
+    if (location.hash.indexOf('#/') === 0) {
+      history.replaceState(null, '', appUrl(location.hash.slice(2)));
+    }
+    var p = location.pathname;
+    if (APP_BASE !== '/' && p.indexOf(APP_BASE) === 0) p = p.slice(APP_BASE.length);
+    else p = p.replace(/^\/+/, '');
+    p = p.replace(/\/+$/, '');
+    return p === '' ? [''] : p.split('/').map(decodeURIComponent);
+  }
+
   function route() {
-    var hash = location.hash.replace(/^#\/?/, '');
-    var parts = hash.split('/').map(decodeURIComponent);
+    var parts = currentRouteParts();
     getContent().then(function (content) {
       currentContent = content;
       applyChrome();
-      if (parts[0] === '' || hash === '') return routeHome(content);
+      if (parts[0] === '') return routeHome(content);
       if (parts[0] === 'section' && parts[1]) return routeSection(content, parts[1]);
       if (parts[0] === 'read' && parts[1] && parts[2]) return routeRead(content, parts[1], parts[2]);
       if (parts[0] === 'md' && parts.slice(1).join('/')) return routeMd(content, parts.slice(1).join('/'));
@@ -713,7 +734,26 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
   });
 
   applyThemeButton();
-  window.addEventListener('hashchange', route);
+  // In-app navigation: intercept links targeting this app (a clean path under
+  // APP_BASE, or a legacy '#/…' href) and route them via pushState instead of
+  // a full page load. External / modified / target=_blank links pass through.
+  document.addEventListener('click', function (e) {
+    if (e.defaultPrevented || e.button !== 0 ||
+        e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    var a = e.target.closest ? e.target.closest('a[href]') : null;
+    if (!a || a.target || a.hasAttribute('download')) return;
+    var href = a.getAttribute('href');
+    if (!href) return;
+    var dest = null;
+    if (href.indexOf(APP_BASE) === 0) dest = href.slice(APP_BASE.length);
+    else if (href.charAt(0) === '#') dest = href.replace(/^#\/?/, '');
+    if (dest === null) return;
+    e.preventDefault();
+    if (appUrl(dest) === location.pathname + location.search) { route(); return; }
+    history.pushState(null, '', appUrl(dest));
+    route();
+  });
+  window.addEventListener('popstate', route);
   route();
 })();
 </script>
