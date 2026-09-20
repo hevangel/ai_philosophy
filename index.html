@@ -20,6 +20,16 @@
   } catch (e) {}
 })();
 </script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QQXX5SHEHH"></script>
+<script>
+/* Google Analytics 4. The SPA is hash-routed, so automatic page tracking would
+   only fire once per full load; the router sends page_view manually instead
+   (see trackPageView) with the final document title and hash URL. */
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
+</script>
 <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js"></script>
 <style>
@@ -531,6 +541,16 @@
 
   function setTitle(t2) {
     document.title = t2 ? t2 + ' — ' + siteTitle() : siteTitle();
+    trackPageView();
+  }
+
+  function trackPageView() {
+    if (typeof window.gtag !== 'function') return;
+    window.gtag('event', 'page_view', {
+      page_title: document.title,
+      page_location: location.href,
+      page_path: location.pathname + location.search + location.hash
+    });
   }
 
   function applyChrome() {
@@ -639,7 +659,10 @@
       var s = content.sections[i];
       for (var j = 0; j < s.items.length; j++) {
         var it = s.items[j];
-        if (it.path === path || zhVariant(it.path) === path) return renderArticle(s, it);
+        if (it.path === path || zhVariant(it.path) === path) {
+          setTitle(L(it, 'title'));
+          return renderArticle(s, it);
+        }
       }
     }
     setTitle('');

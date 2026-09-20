@@ -85,6 +85,11 @@ it really is.**
   `#/md/<path>` for markdown reached via in-document links.
 - The SPA strips the first `H1` of rendered markdown (the title comes from `content.json`)
   and resolves relative `img src` against the markdown file's own folder.
+- Google Analytics 4 (`G-QQXX5SHEHH`) is wired into `index.html`: the gtag config sets
+  `send_page_view: false` and the router's `setTitle()` sends `page_view` manually (via
+  `trackPageView`) so every hash-route change counts, with the final document title and full
+  hash URL. Don't bypass `setTitle()` in route code, or pages stop being tracked. Both hosts
+  (GitHub Pages and the horace.org mirror) report into the same GA4 property.
 - The SPA is bilingual (English / Hong Kong Traditional Chinese) and themeable (light / dark).
   The top bar has an `EN / 中` language switch and a 🌙/☀️ theme button. Both persist in
   `localStorage` (`aiphil-lang`, `aiphil-theme`; theme falls back to the OS preference), and an
