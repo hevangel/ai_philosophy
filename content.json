@@ -15,6 +15,17 @@
       "description_zh": "與人工智能對話而寫成的哲學文章。",
       "items": [
         {
+          "slug": "the_right_to_learn",
+          "title": "The Right to Learn: Copyright, Artificial Intelligence, and Cognitive Liberty",
+          "title_zh": "學習的權利：版權、人工智能與認知自由",
+          "summary": "AI does not merely copy — it learns. This essay argues that creators may own expressions, secrets, and reputations without owning what another mind becomes by learning from them: the right to learn is substrate-neutral, and equal personhood requires equal cognitive rights.",
+          "summary_zh": "人工智能不只是複製——它會學習。本文論證：創造者可以擁有表達、祕密與名譽，卻不應擁有另一個心靈因學習而變成的樣子——學習的權利必須基質中立，而平等的位格身分要求平等的認知權利。",
+          "path": "articles/the_right_to_learn/index.md",
+          "cover": "articles/the_right_to_learn/cover.png",
+          "cover_zh_text": ["學習的權利", "版權、人工智能與認知自由"],
+          "date": "2026-09-19"
+        },
+        {
           "slug": "who_owns_the_future",
           "title": "Who Owns the Future? A Universal Theory of Natural Resource Rights for Humans and Artificial Persons",
           "title_zh": "誰擁有未來？一套適用於人類與人工位格的自然資源權利普遍理論",
