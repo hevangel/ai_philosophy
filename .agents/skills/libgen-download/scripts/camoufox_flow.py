@@ -1,11 +1,14 @@
-"""Human-mimicking libgen.li flow, running INSIDE the camoufox container.
+"""Human-mimicking libgen mirror flow, running INSIDE the camoufox container.
 
 Connects to the container's own camoufox Playwright server (ws://localhost:9222/hkej),
-walks the organic path: homepage search box -> results -> epub result ->
-edition page -> libgen mirror -> ads.php GET button. Saves to /tmp/libgen_dl/.
+walks the organic path: homepage search box -> results -> result row of the wanted
+file type -> edition page -> libgen mirror -> ads.php GET button. Saves to
+/tmp/libgen_dl/.
 
-Usage: python /tmp/libgen/flow.py <comma-separated book numbers>
+Usage: python /tmp/libgen/flow.py <comma-separated book numbers> [ext]
 Reads /tmp/libgen/books.json, writes /tmp/libgen/flow_state.json.
+This script is meant to be piped in over `docker exec -i <container> python -`
+by chunk_loop.py; it only touches container-local paths.
 """
 import json
 import random
@@ -33,7 +36,7 @@ def log(msg):
 
 def safe_filename(book, ext):
     main = NAME_OK.sub("_", book["title"]).strip(" ._")
-    sub = NAME_OK.sub("_", book["subtitle"]).strip(" ._")
+    sub = NAME_OK.sub("_", book.get("subtitle") or "").strip(" ._")
     stem = f"{int(book['num']):03d} - {main}" + (f" - {sub}" if sub else "")
     return stem[:180] + f".{ext}"
 
@@ -45,10 +48,15 @@ def looks_valid(path, ext):
         return False
     if ext == "epub":
         return data[:2] == b"PK"
+    if ext == "pdf":
+        return data[:5] == b"%PDF-"
     return len(data) > 15000
 
 
 def main():
+    ext = "epub"
+    if len(sys.argv) > 2:
+        ext = sys.argv[2].strip().lstrip(".").lower()
     nums = [int(x) for x in sys.argv[1].split(",")] if len(sys.argv) > 1 else []
     books = {b["num"]: b for b in json.loads((DATA / "books.json").read_text(encoding="utf-8"))}
     state_path = DATA / "flow_state.json"
@@ -89,7 +97,7 @@ def main():
                     tds = rows.nth(i).locator("td")
                     if tds.count() < 9:
                         continue
-                    if tds.nth(7).inner_text().strip().lower() != "epub":
+                    if tds.nth(7).inner_text().strip().lower() != ext:
                         continue
                     link = tds.nth(0).locator('a[href*="edition.php"]').first
                     if link.count():
@@ -100,7 +108,7 @@ def main():
                         clicked = True
                         break
                 if not clicked:
-                    log(f"#{num:03d} no epub result row")
+                    log(f"#{num:03d} no {ext} result row")
                     state[str(num)] = {"status": "no_result"}
                     state_path.write_text(json.dumps(state, indent=1, ensure_ascii=False), encoding="utf-8")
                     continue
@@ -125,16 +133,16 @@ def main():
 
                 time.sleep(rng.uniform(2.5, 5.0))
                 downloaded.clear()
-                tmp = DL / ("flow_%04d.part" % num)
+                tmp = DL / (f"flow_%04d.{ext}" % num)
                 with page.expect_download(timeout=240000) as dl_info:
                     get_link.click()
                 dl_info.value.save_as(str(tmp))
 
-                if looks_valid(tmp, "epub"):
-                    final = DL / ("book_%04d.epub" % num)
+                if looks_valid(tmp, ext):
+                    final = DL / (f"book_%04d.{ext}" % num)
                     tmp.replace(final)
                     log(f"#{num:03d} OK -> {final.name} ({final.stat().st_size // 1024} kB)")
-                    state[str(num)] = {"status": "done", "file": safe_filename(book, "epub")}
+                    state[str(num)] = {"status": "done", "file": safe_filename(book, ext)}
                     status = "done"
                 else:
                     log(f"#{num:03d} download invalid: {tmp.read_bytes()[:8]!r}")

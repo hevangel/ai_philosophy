@@ -1,10 +1,29 @@
-"""Parse the master bibliography markdown into books.json for batch processing."""
+"""EXAMPLE: how the example book list was built from a bibliography markdown.
+
+Parsed `sratchpad/philosophy_and_popular_culture_master_bibliography-1.md`
+(a numbered, sectioned bibliography of the philosophy-and-popular-culture
+series) into `philosophy_pop_culture.books.json`: one record per book with
+num / group / title / subtitle / full_title / author. Adapt the section_map
+and the numbered-entry regex to your own bibliography format.
+
+Output schema expected by the download scripts (scripts/batch_download.py,
+scripts/chunk_loop.py, scripts/local_match.py):
+
+  [{"num": 1, "group": "Open Court",
+    "title": "Seinfeld and Philosophy",
+    "subtitle": "A Book about Everything and Nothing",
+    "full_title": "Seinfeld and Philosophy: A Book about Everything and Nothing",
+    "author": ""}, ...]
+
+`num` must be unique (it keys the download state and the extracted
+book_NNNN.<ext> filenames); title/subtitle drive search and match scoring.
+"""
 import json
 import re
 from pathlib import Path
 
 MD = Path(r"B:\ai_philosophy\sratchpad\philosophy_and_popular_culture_master_bibliography-1.md")
-OUT = Path(r"B:\ai_philosophy\sratchpad\libgen_batch\books.json")
+OUT = Path(__file__).with_name("philosophy_pop_culture.books.json")
 
 text = MD.read_text(encoding="utf-8")
 

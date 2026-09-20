@@ -1,11 +1,12 @@
 """SOCKS5 proxy pool over SSH dynamic tunnels (ssh -D).
 
-Standalone adaptation of chanmainvest knowledge_base src/kb/scrapers/proxy.py
+Adapted from chanmainvest knowledge_base src/kb/scrapers/proxy.py
 (same hygiene rules: free-port binding, ExitOnForwardFailure backstop,
 taskkill /F /T teardown on Windows, dead-tunnel reaping).
 
-The working egress hosts per spec/youtube-scrapers.md:
-  oc1-4.hevangel.com, horace.org   (serv00 excluded: SOCKS forward broken)
+Hosts are passed in by the caller, e.g. batch_download.py --ssh-hosts
+oc1.example.com,oc2.example.com — one worker thread per tunnel, so the local
+residential IP never talks to the mirror directly.
 """
 import socket
 import subprocess
@@ -83,16 +84,8 @@ class ProxyPool:
         return url
 
     def _reap(self) -> None:
-        if not self._procs:
-            return
-        alive = [e for e in self._procs if e[2].poll() is None]
-        dead = [e for e in self._procs if e[2].poll() is not None]
-        if not dead:
-            return
-        for host, port, _ in dead:
-            print(f"[proxy] tunnel reaped (ssh exited): {host} -> 127.0.0.1:{port}", flush=True)
-        self._procs = alive
-        self._urls = [f"socks5://127.0.0.1:{port}" for _, port, _ in alive]
+        self._procs = [e for e in self._procs if e[2].poll() is None]
+        self._urls = [f"socks5://127.0.0.1:{port}" for _, port, _ in self._procs]
         if self._urls:
             self._idx %= len(self._urls)
 

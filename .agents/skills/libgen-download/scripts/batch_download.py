@@ -1,18 +1,24 @@
-"""Rate-limited batch downloader for the philosophy/pop-culture bibliography.
+"""Rate-limited batch downloader for a libgen mirror, driven by a books.json list.
 
-Pipeline (pure requests, no browser): libgen.li search -> pick best record ->
-ads.php keyed link -> get.php download, all through SSH SOCKS5 tunnels
+Pipeline (pure requests, no browser): mirror search -> pick best record ->
+ads.php keyed link -> get.php download, optionally through SSH SOCKS5 tunnels
 (proxy_pool.py). One worker thread per tunnel; the local residential IP sends
-libgen zero requests. Politeness: 12-20 s between books per worker, 8-15 s
-between a search and its download, 3 download attempts with key re-minting,
-per-worker cooldown on throttle signatures. State checkpointed after every
-book (resumable).
+the mirror zero requests. Politeness: 12-20 s between books per worker, 8-15 s
+between a search and its download, download attempts with key re-minting,
+per-worker exponential cooldown on throttle signatures. State checkpointed
+after every book (resumable).
+
+If the mirror starts refusing the plain-requests flow (JS/session gate), use
+the camoufox in-container browser flow instead (chunk_loop.py).
 
 Usage:
-  uv run python batch_download.py --proxied            # main run (SSH pool)
-  uv run python batch_download.py --direct             # local IP, no tunnels
-  uv run python batch_download.py --proxied --only 1,2
-  uv run python batch_download.py --proxied --retry-failed
+  py -3 batch_download.py --books books.json --dest ./corpus --direct
+  py -3 batch_download.py --books books.json --dest ./corpus \
+      --ssh-hosts oc1.example.com,oc2.example.com
+  py -3 batch_download.py --books books.json --dest ./corpus --only 1,2
+  py -3 batch_download.py --books books.json --dest ./corpus --retry-failed
+  py -3 batch_download.py --books books.json --dest ./corpus \
+      --skip-report match_report.json   # skip nums already satisfied elsewhere
 """
 import argparse
 import contextlib
@@ -24,25 +30,14 @@ import threading
 import time
 import unicodedata
 from pathlib import Path
+from urllib.parse import urlsplit
 
 import requests
 
 from proxy_pool import ProxyPool
 
-BATCH = Path(r"B:\ai_philosophy\sratchpad\libgen_batch").resolve()
-DEST = Path(r"B:\ai_philosophy\philosophy_pop_culture").resolve()
-STATE_FILE = BATCH / "batch_state.json"
-LOG_FILE = BATCH / "batch_log.txt"
-BOOKS = json.loads((BATCH / "books.json").read_text(encoding="utf-8"))
-
-BASE = "https://libgen.li"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36")
-PROXY_HOSTS = ["oc1.hevangel.com", "oc2.hevangel.com", "oc3.hevangel.com",
-               "oc4.hevangel.com", "horace.org"]
-ALLOWED_HOST = "libgen.li"
-
-STOPWORDS = {"the", "a", "an", "and", "of", "in", "to", "for", "is", "it"}
 
 # server-minted key pieces, matched individually with strict whitelists
 MD5_RE = re.compile(r"^[0-9a-f]{32}$")
@@ -56,23 +51,57 @@ _log_lock = threading.Lock()
 _state_lock = threading.Lock()
 
 
-def log(msg: str) -> None:
+def log(msg: str, log_file: Path | None) -> None:
     line = f"[{time.strftime('%Y-%m-%d %H:%M:%S')}] {msg}"
     with _log_lock:
         print(line, flush=True)
-        with open(LOG_FILE, "a", encoding="utf-8") as f:
-            f.write(line + "\n")
+        if log_file:
+            with open(log_file, "a", encoding="utf-8") as f:
+                f.write(line + "\n")
+
+
+def validate_mirror(base: str) -> str:
+    """https-only, public host only (no localhost / private / reserved)."""
+    parts = urlsplit(base)
+    host = (parts.hostname or "").lower()
+    if parts.scheme != "https" or not host:
+        raise ValueError(f"mirror must be an https URL with a host: {base}")
+    bad_local = host == "localhost" or host.endswith((".local", ".internal")) or ":" in host
+    try:
+        import ipaddress
+        ip = ipaddress.ip_address(host)
+        bad_local = bad_local or not ip.is_global
+    except ValueError:
+        pass  # plain hostname, not an IP literal
+    if bad_local:
+        raise ValueError(f"mirror host is local/private/reserved: {base}")
+    return base.rstrip("/")
+
+
+class Cfg:
+    def __init__(self, args):
+        self.base = validate_mirror(args.mirror)
+        self.allowed_host = urlsplit(self.base).hostname
+        self.dest = Path(args.dest).resolve()
+        self.dest.mkdir(parents=True, exist_ok=True)
+        self.state_file = Path(args.state) if args.state else args.books.with_name("batch_state.json")
+        self.log_file = Path(args.log) if args.log else self.state_file.with_suffix(".log")
+        self.books = json.loads(args.books.read_text(encoding="utf-8"))
+        self.skip_report = args.skip_report
+
+
+CFG: Cfg
 
 
 def load_state() -> dict:
-    if STATE_FILE.exists():
-        return json.loads(STATE_FILE.read_text(encoding="utf-8"))
+    if CFG.state_file.exists():
+        return json.loads(CFG.state_file.read_text(encoding="utf-8"))
     return {}
 
 
 def save_state(state: dict) -> None:
     with _state_lock:
-        STATE_FILE.write_text(json.dumps(state, indent=2, ensure_ascii=False), encoding="utf-8")
+        CFG.state_file.write_text(json.dumps(state, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
 def norm(s: str) -> str:
@@ -83,7 +112,8 @@ def norm(s: str) -> str:
 
 
 def sig_tokens(s: str) -> set[str]:
-    return {t for t in norm(s).split() if len(t) > 2 and t not in STOPWORDS}
+    stop = {"the", "a", "an", "and", "of", "in", "to", "for", "is", "it"}
+    return {t for t in norm(s).split() if len(t) > 2 and t not in stop}
 
 
 def parse_search_html(html: str) -> list[dict]:
@@ -125,8 +155,8 @@ def size_kb(size_txt: str) -> float:
 
 def pick_best(results: list[dict], book: dict) -> dict | None:
     tokens = sig_tokens(book["title"])
-    sub_tokens = sig_tokens(book["subtitle"]) if book["subtitle"] else set()
-    base_words = set(norm(book["title"]).split()) | set(norm(book["subtitle"]).split())
+    sub_tokens = sig_tokens(book.get("subtitle") or "")
+    base_words = set(norm(book["title"]).split()) | set(norm(book.get("subtitle") or "").split())
 
     def score(r: dict) -> float:
         rt = norm(r["title"])
@@ -146,13 +176,13 @@ def pick_best(results: list[dict], book: dict) -> dict | None:
         return None
     best_s, best_r = scored[0]
     log(f"    picked ({len(scored)} cand, {best_s:.1f}): {best_r['title'][:55]} "
-        f"[{best_r['ext']}, {best_r['size_txt']}]")
+        f"[{best_r['ext']}, {best_r['size_txt']}]", CFG.log_file)
     return best_r
 
 
 def safe_filename(book: dict, ext: str) -> str:
     main = NAME_OK.sub("_", book["title"]).strip(" ._")
-    sub = NAME_OK.sub("_", book["subtitle"]).strip(" ._")
+    sub = NAME_OK.sub("_", book.get("subtitle") or "").strip(" ._")
     stem = f"{int(book['num']):03d} - {main}" + (f" - {sub}" if sub else "")
     return stem[:180] + f".{ext}"
 
@@ -182,10 +212,9 @@ class Worker:
             self.session.proxies.update(p)
 
     def _check(self, url: str) -> None:
-        from urllib.parse import urlsplit
         if not url.startswith("https://"):
             raise ValueError("only https")
-        if urlsplit(url).hostname != ALLOWED_HOST:
+        if urlsplit(url).hostname != CFG.allowed_host:
             raise ValueError(f"host not allowed: {url}")
 
     def get(self, url: str, **kw) -> requests.Response:
@@ -197,30 +226,30 @@ class Worker:
         """file.php warmup -> ads.php key -> get.php download, whole file in memory."""
         if file_id and file_id.isdigit():
             try:
-                self.get(f"{BASE}/file.php", params={"id": file_id})
+                self.get(f"{CFG.base}/file.php", params={"id": file_id})
             except requests.RequestException:
                 pass
             time.sleep(rng.uniform(3, 6))
-        r0 = self.get(f"{BASE}/ads.php", params={"md5": md5})
+        r0 = self.get(f"{CFG.base}/ads.php", params={"md5": md5})
         if r0.status_code != 200:
-            log(f"    [{self.name}] ads.php -> {r0.status_code} (no key)")
+            log(f"    [{self.name}] ads.php -> {r0.status_code} (no key)", CFG.log_file)
             return None
         m = re.search(r'href="get\.php\?md5=([0-9a-f]{32})&amp;key=([A-Z0-9]{6,20})"', r0.text)
         if not m:
-            log(f"    [{self.name}] ads.php 200 but no keyed link ({len(r0.text)}B)")
+            log(f"    [{self.name}] ads.php 200 but no keyed link ({len(r0.text)}B)", CFG.log_file)
             return None
         md5_hex, key = m.group(1), m.group(2)
         if not (MD5_RE.match(md5_hex) and KEY_RE.match(key)):
-            log(f"    [{self.name}] minted key failed whitelist")
+            log(f"    [{self.name}] minted key failed whitelist", CFG.log_file)
             return None
         time.sleep(rng.uniform(6, 12))
-        r = self.get(f"{BASE}/get.php",
+        r = self.get(f"{CFG.base}/get.php",
                      params={"md5": md5_hex, "key": key},
-                     headers={"Referer": f"{BASE}/ads.php"},
+                     headers={"Referer": f"{CFG.base}/ads.php"},
                      stream=True)
         try:
             if r.status_code != 200:
-                log(f"    [{self.name}] get.php -> {r.status_code}")
+                log(f"    [{self.name}] get.php -> {r.status_code}", CFG.log_file)
                 return None
             cl = r.headers.get("content-length")
             expected = int(cl) if cl and cl.isdigit() else None
@@ -228,14 +257,14 @@ class Worker:
             for chunk in r.iter_content(chunk_size=65536):
                 buf.extend(chunk)
                 if len(buf) > 60 * 1024 * 1024:  # sanity cap
-                    log(f"    [{self.name}] file exceeds 60 MB cap")
+                    log(f"    [{self.name}] file exceeds 60 MB cap", CFG.log_file)
                     return None
             if expected and len(buf) != expected:
-                log(f"    [{self.name}] size mismatch {len(buf)}/{expected}")
+                log(f"    [{self.name}] size mismatch {len(buf)}/{expected}", CFG.log_file)
                 return None
             return bytes(buf)
         except requests.RequestException as e:
-            log(f"    [{self.name}] transfer error: {type(e).__name__}: {str(e)[:80]}")
+            log(f"    [{self.name}] transfer error: {type(e).__name__}: {str(e)[:80]}", CFG.log_file)
             return None
         finally:
             r.close()
@@ -245,16 +274,16 @@ def process_book(w: Worker, book: dict, state: dict) -> str:
     """Returns the final status for this attempt."""
     num = int(book["num"])
     query = book["title"].replace("&", " and ")
-    search_url = (f"{BASE}/index.php?req={requests.utils.quote(query)}&res=25"
+    search_url = (f"{CFG.base}/index.php?req={requests.utils.quote(query)}&res=25"
                   "&columns[]=t&objects[]=f&objects[]=e&objects[]=s&objects[]=a&objects[]=p&objects[]=w")
     r = w.get(search_url)
     if r.status_code != 200:
-        log(f"#{num:03d} [{w.name}] search http {r.status_code}")
+        log(f"#{num:03d} [{w.name}] search http {r.status_code}", CFG.log_file)
         state[str(num)] = {"status": "throttled"}
         return "throttled"
     results = parse_search_html(r.text)
     if not results:
-        log(f"#{num:03d} [{w.name}] no search results")
+        log(f"#{num:03d} [{w.name}] no search results", CFG.log_file)
         state[str(num)] = {"status": "no_result"}
         return "no_result"
     best = pick_best(results, book)
@@ -275,22 +304,22 @@ def process_book(w: Worker, book: dict, state: dict) -> str:
         state[str(num)] = {"status": "pending_retry", "md5": best["md5"]}
         return "retry"
     if not looks_valid(data, ext):
-        log(f"#{num:03d} [{w.name}] invalid file head={data[:8]!r}")
+        log(f"#{num:03d} [{w.name}] invalid file head={data[:8]!r}", CFG.log_file)
         state[str(num)] = {"status": "pending_retry", "md5": best["md5"]}
         return "retry"
 
-    dest = (DEST / safe_filename(book, ext)).resolve()
-    if dest.parent != DEST:
+    dest = (CFG.dest / safe_filename(book, ext)).resolve()
+    if dest.parent != CFG.dest:
         raise ValueError(f"destination escaped target folder: {dest}")
     dest.write_bytes(data)
-    log(f"#{num:03d} [{w.name}] OK -> {dest.name} ({len(data) // 1024} kB)")
+    log(f"#{num:03d} [{w.name}] OK -> {dest.name} ({len(data) // 1024} kB)", CFG.log_file)
     state[str(num)] = {"status": "done", "file": dest.name, "ext": ext, "md5": best["md5"]}
     return "done"
 
 
 def worker(wid: int, port: int | None, q: queue.Queue, state: dict,
            proxy: str | None = None, min_gap: float = 12, max_gap: float = 20,
-           abort_on_retry: bool = False) -> None:
+           max_attempts: int = 4, abort_on_retry: bool = False) -> None:
     w = Worker(wid, port, proxy)
     attempts: dict[int, int] = {}   # book num -> failed attempts
     backoff = None                  # per-worker cooldown after a failed attempt
@@ -308,14 +337,15 @@ def worker(wid: int, port: int | None, q: queue.Queue, state: dict,
                 consecutive_errors = 0
             except requests.RequestException as e:
                 consecutive_errors += 1
-                log(f"#{num:03d} [{w.name}] net error {consecutive_errors}: {type(e).__name__}: {str(e)[:90]}")
+                log(f"#{num:03d} [{w.name}] net error {consecutive_errors}: "
+                    f"{type(e).__name__}: {str(e)[:90]}", CFG.log_file)
                 state[str(num)] = {"status": "pending_retry"}
                 status = "retry"
                 if consecutive_errors >= 5:
-                    log(f"[{w.name}] too many consecutive net errors, retiring worker")
+                    log(f"[{w.name}] too many consecutive net errors, retiring worker", CFG.log_file)
                     return
             except Exception as e:
-                log(f"#{num:03d} [{w.name}] unexpected: {type(e).__name__}: {str(e)[:130]}")
+                log(f"#{num:03d} [{w.name}] unexpected: {type(e).__name__}: {str(e)[:130]}", CFG.log_file)
                 state[str(num)] = {"status": "failed"}
                 status = "failed"
             save_state(state)
@@ -324,12 +354,12 @@ def worker(wid: int, port: int | None, q: queue.Queue, state: dict,
                 # give up on this IP for a while; book goes back for another IP to try
                 attempts[num] = attempts.get(num, 0) + 1
                 if abort_on_retry:
-                    log(f"[{w.name}] retry-signature seen, aborting run for IP rotation")
+                    log(f"[{w.name}] retry-signature seen, aborting run for IP rotation", CFG.log_file)
                     return
-                if attempts[num] >= 4:
+                if attempts[num] >= max_attempts:
                     state[str(num)] = {"status": "failed"}
                     save_state(state)
-                    log(f"#{num:03d} [{w.name}] giving up after {attempts[num]} attempts")
+                    log(f"#{num:03d} [{w.name}] giving up after {attempts[num]} attempts", CFG.log_file)
                 else:
                     q.put(book)
                 backoff = min((backoff or 600) * 2, 3600)
@@ -342,61 +372,79 @@ def worker(wid: int, port: int | None, q: queue.Queue, state: dict,
 
 
 def main() -> None:
-    ap = argparse.ArgumentParser()
+    global CFG
+    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    ap.add_argument("--books", type=Path, required=True, help="books.json list")
+    ap.add_argument("--dest", required=True, help="folder to save downloaded files into")
+    ap.add_argument("--state", type=Path, help="state json (default: batch_state.json next to --books)")
+    ap.add_argument("--log", type=Path, help="log file (default: <state>.log)")
+    ap.add_argument("--mirror", default="https://libgen.li", help="libgen mirror base URL")
+    ap.add_argument("--skip-report", type=Path,
+                    help="match_report.json-format file; nums with status 'copied' are skipped")
     ap.add_argument("--only", help="comma separated book numbers")
     ap.add_argument("--retry-failed", action="store_true")
-    ap.add_argument("--proxied", action="store_true", help="SSH SOCKS5 pool, one worker per tunnel")
-    ap.add_argument("--direct", action="store_true", help="single worker on local IP")
+    ap.add_argument("--ssh-hosts", help="comma separated SSH hosts; one SOCKS5 tunnel + worker each")
     ap.add_argument("--proxy", help="single worker through an http proxy URL")
+    ap.add_argument("--direct", action="store_true", help="single worker on local IP (default)")
     ap.add_argument("--max-books", type=int, help="stop after this many queue items processed")
     ap.add_argument("--min-gap", type=float, default=12, help="min seconds between books")
     ap.add_argument("--max-gap", type=float, default=20, help="max seconds between books")
+    ap.add_argument("--max-attempts", type=int, default=4)
     ap.add_argument("--abort-on-retry", action="store_true",
                     help="exit as soon as a throttle signature is seen (for IP-rotation drivers)")
     args = ap.parse_args()
-    q_limit = args.max_books
+    CFG = Cfg(args)
 
     state = load_state()
     if args.only:
         wanted = {int(x) for x in args.only.split(",")}
-        todo = [b for b in BOOKS if b["num"] in wanted]
+        todo = [b for b in CFG.books if b["num"] in wanted]
     elif args.retry_failed:
-        todo = [b for b in BOOKS if state.get(str(b["num"]), {}).get("status")
+        todo = [b for b in CFG.books if state.get(str(b["num"]), {}).get("status")
                 in ("failed", "throttled", "pending_retry")]
     else:
         done_nums = {int(k) for k, v in state.items()
                      if v.get("status") in ("done", "no_result")}
-        copied = {r["num"] for r in json.loads((BATCH / "match_report.json").read_text(encoding="utf-8"))
-                  if r.get("status") == "copied"}
-        todo = [b for b in BOOKS if b["num"] not in done_nums and b["num"] not in copied]
+        skipped: set[int] = set()
+        if CFG.skip_report and CFG.skip_report.exists():
+            report = json.loads(CFG.skip_report.read_text(encoding="utf-8"))
+            skipped = {int(r["num"]) for r in report if r.get("status") == "copied"}
+        todo = [b for b in CFG.books
+                if b["num"] not in done_nums and b["num"] not in skipped]
 
     if not todo:
-        log("nothing to do")
+        log("nothing to do", CFG.log_file)
         return
 
-    if q_limit is not None:
-        todo = todo[:q_limit]
+    if args.max_books is not None:
+        todo = todo[:args.max_books]
         if not todo:
-            log("nothing to do")
+            log("nothing to do", CFG.log_file)
             return
 
     q: queue.Queue = queue.Queue()
     for b in todo:
         q.put(b)
 
-    mode = "proxied" if args.proxied else ("proxy" if args.proxy else "direct")
-    log(f"=== batch start: {len(todo)} books, mode={mode} ===")
+    mode = "ssh-pool" if args.ssh_hosts else ("proxy" if args.proxy else "direct")
+    log(f"=== batch start: {len(todo)} books, mode={mode}, mirror={CFG.base}, dest={CFG.dest} ===",
+        CFG.log_file)
 
-    if args.proxied:
-        with ProxyPool(PROXY_HOSTS) as pool:
+    if args.ssh_hosts:
+        hosts = [h.strip() for h in args.ssh_hosts.split(",") if h.strip()]
+        with ProxyPool(hosts) as pool:
             if not pool.urls:
-                log("no tunnels; aborting")
+                log("no tunnels; aborting", CFG.log_file)
                 return
             ports = [int(u.rsplit(":", 1)[1]) for u in pool.urls]
-            log(f"workers: {len(ports)} on ports {ports}")
+            log(f"workers: {len(ports)} on ports {ports}", CFG.log_file)
             threads = []
             for i, port in enumerate(ports):
-                t = threading.Thread(target=worker, args=(i + 1, port, q, state), daemon=True)
+                t = threading.Thread(target=worker, args=(i + 1, port, q, state),
+                                     kwargs={"min_gap": args.min_gap, "max_gap": args.max_gap,
+                                             "max_attempts": args.max_attempts,
+                                             "abort_on_retry": args.abort_on_retry},
+                                     daemon=True)
                 t.start()
                 threads.append(t)
                 time.sleep(1.5)
@@ -405,10 +453,10 @@ def main() -> None:
     else:
         worker(0, None, q, state, proxy=args.proxy,
                min_gap=args.min_gap, max_gap=args.max_gap,
-               abort_on_retry=args.abort_on_retry)
+               max_attempts=args.max_attempts, abort_on_retry=args.abort_on_retry)
 
     done = sum(1 for v in state.values() if v.get("status") == "done")
-    log(f"=== batch end: {done} total done ===")
+    log(f"=== batch end: {done} total done ===", CFG.log_file)
 
 
 if __name__ == "__main__":

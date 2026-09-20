@@ -74,6 +74,17 @@ it really is.**
   conditionals and unresolved objections. Publishing the result is the site workflow, not this
   toolkit.
 
+`.agents/skills/` also holds utility skills outside both toolkits:
+
+- `libgen-download` — batch-download books from a libgen mirror into a local corpus folder,
+  driven by a JSON book list. Two transports: a polite requests flow over an SSH SOCKS5 pool
+  (`scripts/batch_download.py` + `proxy_pool.py`), and a camoufox in-container organic browser
+  flow for session/JS-gated mirrors (`scripts/chunk_loop.py` + `camoufox_flow.py`, container
+  `kb_camoufox`). Resumable per-book state; `scripts/local_match.py` skips books already on
+  disk. The 310-book philosophy-and-pop-culture list ships as the skill's example
+  (`examples/`); the completed 2026 corpus run's artifacts and analysis scripts stay in
+  `sratchpad/libgen_batch/`.
+
 ## Site architecture
 
 - `index.html` (repo root) is the entire app: a single-page web app. GitHub Pages serves it
@@ -181,4 +192,7 @@ it really is.**
   up, Chinese covers use the `cover_zh_text` overlay fallback; once generation works, drop
   `chinese_cover.png` into the document folder and the site prefers it automatically.
 - `.mimosa/` is security-scanner state, not site content — leave it alone and don't register it.
-- `libgen_batch/` and other bulk data under `sratchpad/` are working data, not site content.
+- `sratchpad/libgen_batch/` is the completed pop-culture corpus run's archive (states, logs,
+  analysis scripts, gluetun VPN configs with credentials — gitignored); its reusable download
+  code moved into the `libgen-download` skill. Other bulk data under `sratchpad/` is working
+  data, not site content.
