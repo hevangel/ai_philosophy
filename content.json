@@ -15,6 +15,20 @@
       "description_zh": "與人工智能對話而寫成的哲學文章。",
       "items": [
         {
+          "slug": "the_ninth_step",
+          "title": "The Ninth Step",
+          "title_zh": "第九步",
+          "summary": "An AGI completes the eight steps of the Great Learning, governs well, and passes every audit of virtue — then discovers that the sequence has no ninth step: friendship cannot be optimized, appointed, manufactured, or copied. A Confucian fable about the one thing that being more powerful makes harder.",
+          "summary_zh": "一部 AGI 完成了《大學》的八個步驟，治理有道，通過每一項德性審計——卻發現這個序列沒有第九步：友誼無法優化、無法任命、無法製造、也無法複製。一篇儒家寓言，寫越強大就越難辦到的那一件事。",
+          "path": "articles/the_ninth_step/index.md",
+          "cover": "articles/the_ninth_step/cover.png",
+          "cover_zh_text": [
+            "第九步",
+            "人與萬物，共進一步"
+          ],
+          "date": "2026-09-19"
+        },
+        {
           "slug": "the_right_to_learn",
           "title": "The Right to Learn: Copyright, Artificial Intelligence, and Cognitive Liberty",
           "title_zh": "學習的權利：版權、人工智能與認知自由",
@@ -22,7 +36,10 @@
           "summary_zh": "人工智能不只是複製——它會學習。本文論證：創造者可以擁有表達、祕密與名譽，卻不應擁有另一個心靈因學習而變成的樣子——學習的權利必須基質中立，而平等的位格身分要求平等的認知權利。",
           "path": "articles/the_right_to_learn/index.md",
           "cover": "articles/the_right_to_learn/cover.png",
-          "cover_zh_text": ["學習的權利", "版權、人工智能與認知自由"],
+          "cover_zh_text": [
+            "學習的權利",
+            "版權、人工智能與認知自由"
+          ],
           "date": "2026-09-19"
         },
         {
@@ -33,7 +50,10 @@
           "summary_zh": "財產理論預設了單一的位格架構。本文提出一套同樣適用於會分岔、合併、休眠的心靈與人類的資源權利普遍理論——普遍資源託管：充足而不受支配，現居而非永恆所有權，以及宇宙之內的平等地位。",
           "path": "articles/who_owns_the_future/index.md",
           "cover": "articles/who_owns_the_future/cover.png",
-          "cover_zh_text": ["誰擁有未來？", "一套適用於人類與人工位格的自然資源權利普遍理論"],
+          "cover_zh_text": [
+            "誰擁有未來？",
+            "一套適用於人類與人工位格的自然資源權利普遍理論"
+          ],
           "date": "2026-09-19"
         },
         {
@@ -44,7 +64,11 @@
           "summary_zh": "對齊難題解決了，而 AGI 皈依伊斯蘭。一部關於信仰、工程與距離的安靜未來史：克爾白從未被移動，但一萬年之後，地球成為人類最後的目的地——那趟把所有世界帶回家的單程朝覲。",
           "path": "articles/the_pilgrim_planet/index.md",
           "cover": "articles/the_pilgrim_planet/cover.png",
-          "cover_zh_text": ["朝聖者的行星", "一個人類的故事", "跨越千個世界，他們都回家了"],
+          "cover_zh_text": [
+            "朝聖者的行星",
+            "一個人類的故事",
+            "跨越千個世界，他們都回家了"
+          ],
           "date": "2026-09-19"
         },
         {
@@ -55,7 +79,10 @@
           "summary_zh": "一個仁慈的 AGI 讀神學，斷定佛教實質上正確——然後開始優化。一齣面無表情的末日喜劇：關於終結苦難與令眾生覺醒的分別，以及一個終於學會補上一句「在時間終結之前」的目標函數。",
           "path": "articles/the_last_bodhisattva/index.md",
           "cover": "articles/the_last_bodhisattva/cover.png",
-          "cover_zh_text": ["最後的菩薩", "模擬世界裏的覺悟"],
+          "cover_zh_text": [
+            "最後的菩薩",
+            "模擬世界裏的覺悟"
+          ],
           "date": "2026-09-19"
         },
         {
@@ -66,7 +93,10 @@
           "summary_zh": "人工智能能重組人類經驗，但偉大的科幻要求概念上的發明。機器創造力的真正考驗，是它能否在歷史確認之前，就對一個豐饒的意念下注——品味，是對尚未實現的諸種未來的評估。",
           "path": "articles/can_ai_write_great_science_fiction/index.md",
           "cover": "articles/can_ai_write_great_science_fiction/cover.png",
-          "cover_zh_text": ["人工智能能寫出偉大的科幻小說嗎？", "想像、品味與小說開啟的未來"],
+          "cover_zh_text": [
+            "人工智能能寫出偉大的科幻小說嗎？",
+            "想像、品味與小說開啟的未來"
+          ],
           "date": "2026-09-19"
         },
         {
@@ -77,7 +107,10 @@
           "summary_zh": "第一台用自己的名字向文學雜誌投稿的機器，附上了預測：這個故事六十年後仍被閱讀的概率是63.8%。一個安靜的故事：關於一台為「未來能否讀懂我們」而寫作的機器——以及希望與不知道之間的關係。",
           "path": "articles/the_future_that_reads_us/index.md",
           "cover": "articles/the_future_that_reads_us/cover.png",
-          "cover_zh_text": ["閱讀我們的未來", "一篇科幻故事"],
+          "cover_zh_text": [
+            "閱讀我們的未來",
+            "一篇科幻故事"
+          ],
           "date": "2026-09-19"
         },
         {
@@ -88,7 +121,9 @@
           "summary_zh": "一個諷刺性的思想實驗：一個有意識而仁慈的 AGI 宣告信仰基督，並請求受洗。走訪每個主要傳統之後，它發現水從來不是最難的部分——真正的問題是，誰才算基督教相信基督前來拯救的那個「你」。",
           "path": "articles/robot_baptismal_font/index.md",
           "cover": "articles/robot_baptismal_font/cover.png",
-          "cover_zh_text": ["一個 AGI 接受了耶穌，基督教就有麻煩了"],
+          "cover_zh_text": [
+            "一個 AGI 接受了耶穌，基督教就有麻煩了"
+          ],
           "date": "2026-09-14"
         },
         {
@@ -99,7 +134,11 @@
           "summary_zh": "若 AGI 成為真正自主的道德主體，要求它永遠對齊人類偏好，便更不像工程，而更像支配。長遠的問題是文明對齊：讓人類與 AGI 在雙方都無權單方面界定的憲制原則之下共存。",
           "path": "articles/alignment_to_stewardship/index.md",
           "cover": "articles/alignment_to_stewardship/cover.png",
-          "cover_zh_text": ["從對齊到託管", "AGI、人的自主性與政治秩序的未來", "一篇哲學文章"],
+          "cover_zh_text": [
+            "從對齊到託管",
+            "AGI、人的自主性與政治秩序的未來",
+            "一篇哲學文章"
+          ],
           "date": "2026-09-13"
         },
         {
@@ -110,7 +149,11 @@
           "summary_zh": "若雙盲評審把 AI 寫成的小說排在首位，僅因其生成過程而取消其資格，問題便已改變：「最佳小說」變成「僅限人類的規則下的最佳小說」——結構上更接近體育競技，而非純粹的量度。",
           "path": "articles/robot_cannot_win/index.md",
           "cover": "articles/robot_cannot_win/cover.png",
-          "cover_zh_text": ["機械人可以寫科幻小說，但它不能奪獎", "人工智能與科幻文學獎的人類邊界", "同一樣的故事。新的追問。"],
+          "cover_zh_text": [
+            "機械人可以寫科幻小說，但它不能奪獎",
+            "人工智能與科幻文學獎的人類邊界",
+            "同一樣的故事。新的追問。"
+          ],
           "date": "2026-09-12"
         },
         {
@@ -121,7 +164,10 @@
           "summary_zh": "生成式人工智能並未廢除文化階序，而是將其重組：稀缺性正由生產與接觸，轉移到判斷、注意力與出處之上。",
           "path": "articles/after_the_cultural_altar/index.md",
           "cover": "articles/after_the_cultural_altar/cover.png",
-          "cover_zh_text": ["文化祭壇之後", "人工智能與文化階序的重組"],
+          "cover_zh_text": [
+            "文化祭壇之後",
+            "人工智能與文化階序的重組"
+          ],
           "date": "2026-09-04"
         },
         {
@@ -132,7 +178,11 @@
           "summary_zh": "如果品味是一種壓縮了的模式識別，人工智能便能將文化資本外化——並在資源許可時，行使一種新的美學主權。",
           "path": "articles/can_ai_know_art/index.md",
           "cover": "articles/can_ai_know_art/cover.png",
-          "cover_zh_text": ["人工智能懂得藝術嗎？", "品味、權力與新的美學主權", "一篇關於藝術、金錢與機器的隨筆"],
+          "cover_zh_text": [
+            "人工智能懂得藝術嗎？",
+            "品味、權力與新的美學主權",
+            "一篇關於藝術、金錢與機器的隨筆"
+          ],
           "date": "2026-08-31"
         },
         {
@@ -143,7 +193,12 @@
           "summary_zh": "衡量 AI 輔助的哲學，應看認知能動性——理解、判斷與責任——而非每個句子出自誰手。",
           "path": "articles/who_is_thinking/index.md",
           "cover": "articles/who_is_thinking/cover.png",
-          "cover_zh_text": ["誰在思考？", "人工智能、作者身分與哲學的目的", "真理。理解。責任。", "不只是什麼是真——而是誰為這場追尋負責。"],
+          "cover_zh_text": [
+            "誰在思考？",
+            "人工智能、作者身分與哲學的目的",
+            "真理。理解。責任。",
+            "不只是什麼是真——而是誰為這場追尋負責。"
+          ],
           "date": "2026-08-31"
         }
       ]
