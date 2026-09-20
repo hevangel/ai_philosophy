@@ -544,3 +544,1163 @@
 [2026-09-13 19:58:16] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
 [2026-09-13 19:58:16] chunk done: 0 new epubs
 [2026-09-13 19:58:16] sleeping 4 min before next chunk
+[2026-09-13 20:02:31] pending: 126
+[2026-09-13 20:02:31] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 20:02:31] chunk done: 0 new epubs
+[2026-09-13 20:02:31] sleeping 5 min before next chunk
+[2026-09-13 20:07:42] pending: 126
+[2026-09-13 20:07:42] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 20:07:43] chunk done: 0 new epubs
+[2026-09-13 20:07:43] sleeping 5 min before next chunk
+[2026-09-13 20:12:43] pending: 126
+[2026-09-13 20:12:43] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 20:12:44] chunk done: 0 new epubs
+[2026-09-13 20:12:44] sleeping 4 min before next chunk
+[2026-09-13 20:17:10] pending: 126
+[2026-09-13 20:17:10] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 20:17:11] chunk done: 0 new epubs
+[2026-09-13 20:17:11] sleeping 7 min before next chunk
+[2026-09-13 20:23:56] pending: 126
+[2026-09-13 20:23:56] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 20:23:56] chunk done: 0 new epubs
+[2026-09-13 20:23:56] sleeping 7 min before next chunk
+[2026-09-13 20:30:46] pending: 126
+[2026-09-13 20:30:46] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 20:30:46] chunk done: 0 new epubs
+[2026-09-13 20:30:46] sleeping 6 min before next chunk
+[2026-09-13 20:36:39] pending: 126
+[2026-09-13 20:36:39] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 20:36:40] chunk done: 0 new epubs
+[2026-09-13 20:36:40] sleeping 7 min before next chunk
+[2026-09-13 20:43:17] pending: 126
+[2026-09-13 20:43:17] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 20:43:17] chunk done: 0 new epubs
+[2026-09-13 20:43:17] sleeping 4 min before next chunk
+[2026-09-13 20:47:19] pending: 126
+[2026-09-13 20:47:19] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 20:47:20] chunk done: 0 new epubs
+[2026-09-13 20:47:20] sleeping 6 min before next chunk
+[2026-09-13 20:52:51] pending: 126
+[2026-09-13 20:52:51] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 20:52:51] chunk done: 0 new epubs
+[2026-09-13 20:52:51] sleeping 5 min before next chunk
+[2026-09-13 20:57:27] pending: 126
+[2026-09-13 20:57:27] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 20:57:27] chunk done: 0 new epubs
+[2026-09-13 20:57:27] sleeping 5 min before next chunk
+[2026-09-13 21:02:03] pending: 126
+[2026-09-13 21:02:03] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 21:02:04] chunk done: 0 new epubs
+[2026-09-13 21:02:04] sleeping 4 min before next chunk
+[2026-09-13 21:06:31] pending: 126
+[2026-09-13 21:06:31] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 21:06:31] chunk done: 0 new epubs
+[2026-09-13 21:06:31] sleeping 6 min before next chunk
+[2026-09-13 21:12:49] pending: 126
+[2026-09-13 21:12:49] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 21:12:49] chunk done: 0 new epubs
+[2026-09-13 21:12:49] sleeping 7 min before next chunk
+[2026-09-13 21:19:23] pending: 126
+[2026-09-13 21:19:23] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 21:19:24] chunk done: 0 new epubs
+[2026-09-13 21:19:24] sleeping 4 min before next chunk
+[2026-09-13 21:23:32] pending: 126
+[2026-09-13 21:23:32] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 21:23:33] chunk done: 0 new epubs
+[2026-09-13 21:23:33] sleeping 7 min before next chunk
+[2026-09-13 21:30:22] pending: 126
+[2026-09-13 21:30:22] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 21:30:22] chunk done: 0 new epubs
+[2026-09-13 21:30:22] sleeping 5 min before next chunk
+[2026-09-13 21:35:26] pending: 126
+[2026-09-13 21:35:26] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 21:35:26] chunk done: 0 new epubs
+[2026-09-13 21:35:26] sleeping 6 min before next chunk
+[2026-09-13 21:41:39] pending: 126
+[2026-09-13 21:41:39] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 21:41:39] chunk done: 0 new epubs
+[2026-09-13 21:41:39] sleeping 6 min before next chunk
+[2026-09-13 21:47:34] pending: 126
+[2026-09-13 21:47:34] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 21:47:35] chunk done: 0 new epubs
+[2026-09-13 21:47:35] sleeping 6 min before next chunk
+[2026-09-13 21:53:35] pending: 126
+[2026-09-13 21:53:35] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 21:53:36] chunk done: 0 new epubs
+[2026-09-13 21:53:36] sleeping 5 min before next chunk
+[2026-09-13 21:58:42] pending: 126
+[2026-09-13 21:58:42] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 21:58:43] chunk done: 0 new epubs
+[2026-09-13 21:58:43] sleeping 4 min before next chunk
+[2026-09-13 22:03:03] pending: 126
+[2026-09-13 22:03:03] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 22:03:04] chunk done: 0 new epubs
+[2026-09-13 22:03:04] sleeping 5 min before next chunk
+[2026-09-13 22:08:25] pending: 126
+[2026-09-13 22:08:25] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 22:08:25] chunk done: 0 new epubs
+[2026-09-13 22:08:25] sleeping 4 min before next chunk
+[2026-09-13 22:12:48] pending: 126
+[2026-09-13 22:12:48] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 22:12:49] chunk done: 0 new epubs
+[2026-09-13 22:12:49] sleeping 7 min before next chunk
+[2026-09-13 22:19:39] pending: 126
+[2026-09-13 22:19:39] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 22:19:40] chunk done: 0 new epubs
+[2026-09-13 22:19:40] sleeping 6 min before next chunk
+[2026-09-13 22:25:46] pending: 126
+[2026-09-13 22:25:46] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 22:25:46] chunk done: 0 new epubs
+[2026-09-13 22:25:46] sleeping 6 min before next chunk
+[2026-09-13 22:31:34] pending: 126
+[2026-09-13 22:31:34] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 22:31:34] chunk done: 0 new epubs
+[2026-09-13 22:31:34] sleeping 4 min before next chunk
+[2026-09-13 22:35:59] pending: 126
+[2026-09-13 22:35:59] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 22:36:00] chunk done: 0 new epubs
+[2026-09-13 22:36:00] sleeping 4 min before next chunk
+[2026-09-13 22:40:13] pending: 126
+[2026-09-13 22:40:13] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 22:40:14] chunk done: 0 new epubs
+[2026-09-13 22:40:14] sleeping 4 min before next chunk
+[2026-09-13 22:44:16] pending: 126
+[2026-09-13 22:44:16] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 22:44:16] chunk done: 0 new epubs
+[2026-09-13 22:44:16] sleeping 7 min before next chunk
+[2026-09-13 22:50:53] pending: 126
+[2026-09-13 22:50:53] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 22:50:53] chunk done: 0 new epubs
+[2026-09-13 22:50:53] sleeping 6 min before next chunk
+[2026-09-13 22:56:24] pending: 126
+[2026-09-13 22:56:24] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 22:56:24] chunk done: 0 new epubs
+[2026-09-13 22:56:24] sleeping 5 min before next chunk
+[2026-09-13 23:01:37] pending: 126
+[2026-09-13 23:01:37] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 23:01:38] chunk done: 0 new epubs
+[2026-09-13 23:01:38] sleeping 4 min before next chunk
+[2026-09-13 23:05:57] pending: 126
+[2026-09-13 23:05:57] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 23:05:57] chunk done: 0 new epubs
+[2026-09-13 23:05:57] sleeping 6 min before next chunk
+[2026-09-13 23:11:39] pending: 126
+[2026-09-13 23:11:39] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 23:11:39] chunk done: 0 new epubs
+[2026-09-13 23:11:39] sleeping 6 min before next chunk
+[2026-09-13 23:17:14] pending: 126
+[2026-09-13 23:17:14] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 23:17:14] chunk done: 0 new epubs
+[2026-09-13 23:17:14] sleeping 6 min before next chunk
+[2026-09-13 23:23:30] pending: 126
+[2026-09-13 23:23:30] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 23:23:31] chunk done: 0 new epubs
+[2026-09-13 23:23:31] sleeping 7 min before next chunk
+[2026-09-13 23:30:03] pending: 126
+[2026-09-13 23:30:03] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 23:30:03] chunk done: 0 new epubs
+[2026-09-13 23:30:03] sleeping 7 min before next chunk
+[2026-09-13 23:36:52] pending: 126
+[2026-09-13 23:36:52] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 23:36:53] chunk done: 0 new epubs
+[2026-09-13 23:36:53] sleeping 6 min before next chunk
+[2026-09-13 23:42:29] pending: 126
+[2026-09-13 23:42:29] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 23:42:30] chunk done: 0 new epubs
+[2026-09-13 23:42:30] sleeping 6 min before next chunk
+[2026-09-13 23:48:31] pending: 126
+[2026-09-13 23:48:31] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 23:48:32] chunk done: 0 new epubs
+[2026-09-13 23:48:32] sleeping 5 min before next chunk
+[2026-09-13 23:53:03] pending: 126
+[2026-09-13 23:53:03] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 23:53:03] chunk done: 0 new epubs
+[2026-09-13 23:53:03] sleeping 4 min before next chunk
+[2026-09-13 23:57:13] pending: 126
+[2026-09-13 23:57:13] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-13 23:57:14] chunk done: 0 new epubs
+[2026-09-13 23:57:14] sleeping 6 min before next chunk
+[2026-09-14 00:03:41] pending: 126
+[2026-09-14 00:03:41] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 00:03:42] chunk done: 0 new epubs
+[2026-09-14 00:03:42] sleeping 7 min before next chunk
+[2026-09-14 00:10:23] pending: 126
+[2026-09-14 00:10:23] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 00:10:23] chunk done: 0 new epubs
+[2026-09-14 00:10:23] sleeping 6 min before next chunk
+[2026-09-14 00:16:33] pending: 126
+[2026-09-14 00:16:33] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 00:16:33] chunk done: 0 new epubs
+[2026-09-14 00:16:33] sleeping 6 min before next chunk
+[2026-09-14 00:22:53] pending: 126
+[2026-09-14 00:22:53] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 00:22:54] chunk done: 0 new epubs
+[2026-09-14 00:22:54] sleeping 5 min before next chunk
+[2026-09-14 00:28:08] pending: 126
+[2026-09-14 00:28:08] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 00:28:08] chunk done: 0 new epubs
+[2026-09-14 00:28:08] sleeping 5 min before next chunk
+[2026-09-14 00:33:14] pending: 126
+[2026-09-14 00:33:14] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 00:33:14] chunk done: 0 new epubs
+[2026-09-14 00:33:14] sleeping 4 min before next chunk
+[2026-09-14 00:37:25] pending: 126
+[2026-09-14 00:37:25] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 00:37:26] chunk done: 0 new epubs
+[2026-09-14 00:37:26] sleeping 5 min before next chunk
+[2026-09-14 00:42:28] pending: 126
+[2026-09-14 00:42:28] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 00:42:29] chunk done: 0 new epubs
+[2026-09-14 00:42:29] sleeping 5 min before next chunk
+[2026-09-14 00:47:18] pending: 126
+[2026-09-14 00:47:18] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 00:47:18] chunk done: 0 new epubs
+[2026-09-14 00:47:18] sleeping 5 min before next chunk
+[2026-09-14 00:52:36] pending: 126
+[2026-09-14 00:52:36] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 00:52:36] chunk done: 0 new epubs
+[2026-09-14 00:52:36] sleeping 7 min before next chunk
+[2026-09-14 00:59:11] pending: 126
+[2026-09-14 00:59:11] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 00:59:11] chunk done: 0 new epubs
+[2026-09-14 00:59:11] sleeping 4 min before next chunk
+[2026-09-14 01:03:26] pending: 126
+[2026-09-14 01:03:26] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 01:03:26] chunk done: 0 new epubs
+[2026-09-14 01:03:26] sleeping 7 min before next chunk
+[2026-09-14 01:10:16] pending: 126
+[2026-09-14 01:10:16] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 01:10:16] chunk done: 0 new epubs
+[2026-09-14 01:10:16] sleeping 6 min before next chunk
+[2026-09-14 01:15:53] pending: 126
+[2026-09-14 01:15:53] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 01:15:53] chunk done: 0 new epubs
+[2026-09-14 01:15:53] sleeping 6 min before next chunk
+[2026-09-14 01:21:26] pending: 126
+[2026-09-14 01:21:26] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 01:21:27] chunk done: 0 new epubs
+[2026-09-14 01:21:27] sleeping 5 min before next chunk
+[2026-09-14 01:26:13] pending: 126
+[2026-09-14 01:26:13] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 01:26:14] chunk done: 0 new epubs
+[2026-09-14 01:26:14] sleeping 4 min before next chunk
+[2026-09-14 01:30:21] pending: 126
+[2026-09-14 01:30:21] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 01:30:22] chunk done: 0 new epubs
+[2026-09-14 01:30:22] sleeping 5 min before next chunk
+[2026-09-14 01:35:46] pending: 126
+[2026-09-14 01:35:46] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 01:35:46] chunk done: 0 new epubs
+[2026-09-14 01:35:46] sleeping 5 min before next chunk
+[2026-09-14 01:40:45] pending: 126
+[2026-09-14 01:40:45] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 01:40:46] chunk done: 0 new epubs
+[2026-09-14 01:40:46] sleeping 5 min before next chunk
+[2026-09-14 01:46:12] pending: 126
+[2026-09-14 01:46:12] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 01:46:13] chunk done: 0 new epubs
+[2026-09-14 01:46:13] sleeping 5 min before next chunk
+[2026-09-14 01:51:02] pending: 126
+[2026-09-14 01:51:02] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 01:51:03] chunk done: 0 new epubs
+[2026-09-14 01:51:03] sleeping 6 min before next chunk
+[2026-09-14 01:56:56] pending: 126
+[2026-09-14 01:56:56] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 01:56:57] chunk done: 0 new epubs
+[2026-09-14 01:56:57] sleeping 6 min before next chunk
+[2026-09-14 02:03:05] pending: 126
+[2026-09-14 02:03:05] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-14 02:03:06] chunk done: 0 new epubs
+[2026-09-14 02:03:06] sleeping 7 min before next chunk
+[2026-09-16 22:22:43] === chunk loop start (chunk=20, max 24.0 h) ===
+[2026-09-16 22:22:43] pending: 126
+[2026-09-16 22:22:43] running chunk: 11,52,108,110,135,160,161,162,163,164,165,166,167,168,169,170,171,172,174,175
+[2026-09-16 22:22:43] container /tmp/libgen/books.json missing (container restarted?) — re-uploading
+[2026-09-16 22:22:43] re-uploaded books.json to container
+[2026-09-16 23:04:46] === chunk loop start (chunk=20, max 24.0 h) ===
+[2026-09-16 23:04:46] pending: 121
+[2026-09-16 23:04:46] running chunk: 160,161,162,163,164,165,166,167,168,169,170,171,172,174,175,178,179,180,181,182
+[2026-09-16 23:04:46] container /tmp/libgen/books.json missing (container restarted?) — re-uploading
+[2026-09-16 23:04:46] re-uploaded books.json to container
+[2026-09-16 23:58:38]   [06:06:18] #160 OK -> book_0160.epub (1046 kB)
+[2026-09-16 23:58:38]   [06:07:41] #161 no epub result row
+[2026-09-16 23:58:38]   [06:08:42] #162 OK -> book_0162.epub (341 kB)
+[2026-09-16 23:58:38]   [06:17:16] #164 OK -> book_0164.epub (3224 kB)
+[2026-09-16 23:58:38]   [06:19:26] #165 OK -> book_0165.epub (1811 kB)
+[2026-09-16 23:58:38]   [06:21:53] #166 OK -> book_0166.epub (823 kB)
+[2026-09-16 23:58:38]   [06:41:30] #170 OK -> book_0170.epub (472 kB)
+[2026-09-16 23:58:38]   [06:43:49] #171 OK -> book_0171.epub (472 kB)
+[2026-09-16 23:58:38]   [06:45:40] #172 OK -> book_0172.epub (992 kB)
+[2026-09-16 23:58:38]   [06:47:31] #174 OK -> book_0174.epub (796 kB)
+[2026-09-16 23:58:38]   [06:49:31] #175 OK -> book_0175.epub (344 kB)
+[2026-09-16 23:58:38]   [06:51:12] #178 OK -> book_0178.epub (637 kB)
+[2026-09-16 23:58:38]   [06:53:21] #179 OK -> book_0179.epub (976 kB)
+[2026-09-16 23:58:38]   [06:55:19] #180 OK -> book_0180.epub (1052 kB)
+[2026-09-16 23:58:38]   [06:56:55] #181 OK -> book_0181.epub (417 kB)
+[2026-09-16 23:58:38]   [06:58:37] #182 OK -> book_0182.epub (518 kB)
+[2026-09-16 23:58:38]   #160 saved -> 160 - Fallout and Philosophy - Thinking Outside the Shelter.epub
+[2026-09-16 23:58:38]   #162 saved -> 162 - Final Fantasy and Philosophy - The Ultimate Walkthrough.epub
+[2026-09-16 23:58:38]   #164 saved -> 164 - The Girl with the Dragon Tattoo and Philosophy - Everything Is Fire.epub
+[2026-09-16 23:58:38]   #165 saved -> 165 - The Good Place and Philosophy - Everything Is Forking Fine!.epub
+[2026-09-16 23:58:38]   #166 saved -> 166 - Green Lantern and Philosophy - No Evil Shall Escape This Book.epub
+[2026-09-16 23:58:38]   #170 saved -> 170 - House and Philosophy - Everybody Lies.epub
+[2026-09-16 23:58:39]   #171 saved -> 171 - House of Cards and Philosophy - Underwood's Republic.epub
+[2026-09-16 23:58:39]   #172 saved -> 172 - The Hunger Games and Philosophy - A Critique of Pure Treason.epub
+[2026-09-16 23:58:39]   #174 saved -> 174 - Indiana Jones and Philosophy - Why Did It Have to Be Socrates_.epub
+[2026-09-16 23:58:39]   #175 saved -> 175 - Iron Man and Philosophy - Facing the Stark Reality.epub
+[2026-09-16 23:58:39]   #178 saved -> 178 - LEGO and Philosophy - Constructing Reality Brick by Brick.epub
+[2026-09-16 23:58:39]   #179 saved -> 179 - The Legend of Zelda and Philosophy - Link Outside the Box.epub
+[2026-09-16 23:58:39]   #180 saved -> 180 - Mad Max and Philosophy - Thinking Through the Wasteland.epub
+[2026-09-16 23:58:39]   #181 saved -> 181 - Ultimate Lost and Philosophy - Think Together, Die Alone.epub
+[2026-09-16 23:58:39]   #182 saved -> 182 - Mad Men and Philosophy - Nothing Is as It Seems.epub
+[2026-09-16 23:58:40] chunk done: 15 new epubs
+[2026-09-16 23:58:40] sleeping 5 min before next chunk
+[2026-09-17 00:03:11] pending: 105
+[2026-09-17 00:03:11] running chunk: 163,167,168,169,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,199
+[2026-09-17 00:37:09] chunk done: 0 new epubs
+[2026-09-17 00:37:09] sleeping 6 min before next chunk
+[2026-09-17 00:42:54] pending: 105
+[2026-09-17 00:42:54] running chunk: 163,167,168,169,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,199
+[2026-09-17 02:42:55] chunk timed out; continuing with what landed
+[2026-09-17 02:42:55] chunk done: 0 new epubs
+[2026-09-17 02:42:55] sleeping 4 min before next chunk
+[2026-09-17 02:46:59] pending: 105
+[2026-09-17 02:46:59] running chunk: 163,167,168,169,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,199
+[2026-09-17 03:36:20]   [09:54:18] #167 OK -> book_0167.epub (629 kB)
+[2026-09-17 03:36:20]   [09:56:17] #168 ads page has no GET link
+[2026-09-17 03:36:20]   [09:58:14] #169 OK -> book_0169.epub (1429 kB)
+[2026-09-17 03:36:20]   [10:00:04] #183 no epub result row
+[2026-09-17 03:36:20]   [10:00:55] #184 OK -> book_0184.epub (788 kB)
+[2026-09-17 03:36:20]   [10:02:38] #185 ads page has no GET link
+[2026-09-17 03:36:20]   [10:09:43] #187 OK -> book_0187.epub (877 kB)
+[2026-09-17 03:36:20]   [10:11:33] #188 OK -> book_0188.epub (386 kB)
+[2026-09-17 03:36:20]   [10:19:24] #190 OK -> book_0190.epub (745 kB)
+[2026-09-17 03:36:20]   [10:21:19] #191 ads page has no GET link
+[2026-09-17 03:36:20]   [10:22:29] #192 OK -> book_0192.epub (1004 kB)
+[2026-09-17 03:36:20]   [10:24:13] #193 OK -> book_0193.epub (765 kB)
+[2026-09-17 03:36:20]   [10:26:05] #194 no epub result row
+[2026-09-17 03:36:20]   [10:26:56] #195 OK -> book_0195.epub (857 kB)
+[2026-09-17 03:36:20]   [10:34:33] #197 OK -> book_0197.epub (573 kB)
+[2026-09-17 03:36:20]   [10:36:20] #199 OK -> book_0199.epub (523 kB)
+[2026-09-17 03:36:20]   #167 saved -> 167 - The Ultimate Harry Potter and Philosophy - Hogwarts for Muggles.epub
+[2026-09-17 03:36:20]   #169 saved -> 169 - The Hobbit and Philosophy - For When You've Lost Your Dwarves, Your Wizard, and Your Way.epub
+[2026-09-17 03:36:21]   #184 saved -> 184 - The Office and Philosophy - Scenes from the Unexamined Life.epub
+[2026-09-17 03:36:21]   #187 saved -> 187 - Sons of Anarchy and Philosophy - Brains Before Bullets.epub
+[2026-09-17 03:36:21]   #188 saved -> 188 - The Ultimate South Park and Philosophy - Respect My Philosophah!.epub
+[2026-09-17 03:36:21]   #190 saved -> 190 - The Ultimate Star Wars and Philosophy - You Must Unlearn What You Have Learned.epub
+[2026-09-17 03:36:21]   #192 saved -> 192 - Superman and Philosophy - What Would the Man of Steel Do_.epub
+[2026-09-17 03:36:21]   #193 saved -> 193 - Supernatural and Philosophy - Metaphysics and Monsters... for Idjits.epub
+[2026-09-17 03:36:21]   #195 saved -> 195 - Ted Lasso and Philosophy - No Question Is Into Touch.epub
+[2026-09-17 03:36:21]   #197 saved -> 197 - True Blood and Philosophy - We Wanna Think Bad Things with You.epub
+[2026-09-17 03:36:21]   #199 saved -> 199 - True Detective and Philosophy - A Deeper Kind of Darkness.epub
+[2026-09-17 03:36:22] chunk done: 11 new epubs
+[2026-09-17 03:36:22] sleeping 7 min before next chunk
+[2026-09-17 03:43:06] pending: 92
+[2026-09-17 03:43:06] running chunk: 163,168,185,186,189,191,196,200,201,202,203,204,205,206,207,208,213,214,215,216
+[2026-09-17 04:26:54]   [10:44:04] #163 OK -> book_0163.epub (829 kB)
+[2026-09-17 04:26:54]   [10:46:12] #168 OK -> book_0168.epub (1426 kB)
+[2026-09-17 04:26:54]   [10:48:02] #185 OK -> book_0185.epub (735 kB)
+[2026-09-17 04:26:54]   [10:49:56] #186 OK -> book_0186.epub (774 kB)
+[2026-09-17 04:26:54]   [10:51:26] #189 ads page has no GET link
+[2026-09-17 04:26:54]   [10:52:07] #191 ads page has no GET link
+[2026-09-17 04:26:54]   [10:53:00] #196 OK -> book_0196.epub (392 kB)
+[2026-09-17 04:26:54]   [11:00:59] #201 OK -> book_0201.epub (783 kB)
+[2026-09-17 04:26:54]   [11:05:49] #203 OK -> book_0203.epub (571 kB)
+[2026-09-17 04:26:54]   [11:13:31] #205 ads page has no GET link
+[2026-09-17 04:26:54]   [11:13:55] #206 no epub result row
+[2026-09-17 04:26:54]   [11:14:51] #207 OK -> book_0207.epub (581 kB)
+[2026-09-17 04:26:54]   [11:16:42] #208 ads page has no GET link
+[2026-09-17 04:26:54]   [11:17:33] #213 OK -> book_0213.epub (448 kB)
+[2026-09-17 04:26:54]   [11:25:10] #215 OK -> book_0215.epub (1714 kB)
+[2026-09-17 04:26:54]   [11:26:53] #216 OK -> book_0216.epub (1344 kB)
+[2026-09-17 04:26:54]   #163 saved -> 163 - Game of Thrones and Philosophy - Logic Cuts Deeper Than Swords.epub
+[2026-09-17 04:26:54]   #168 saved -> 168 - Heroes and Philosophy - Buy the Book, Save the World.epub
+[2026-09-17 04:26:54]   #185 saved -> 185 - Saturday Night Live and Philosophy - Deep Thoughts Through the Decades.epub
+[2026-09-17 04:26:54]   #186 saved -> 186 - Spider-Man and Philosophy - The Web of Inquiry.epub
+[2026-09-17 04:26:54]   #196 saved -> 196 - Terminator and Philosophy - I'll Be Back, Therefore I Am.epub
+[2026-09-17 04:26:55]   #201 saved -> 201 - Veronica Mars and Philosophy - Investigating the Mysteries of Life (Which Is a Bitch Until You Die).epub
+[2026-09-17 04:26:55]   #203 saved -> 203 - Watchmen and Philosophy - A Rorschach Test.epub
+[2026-09-17 04:26:55]   #207 saved -> 207 - Wonder Woman and Philosophy - The Amazonian Mystique.epub
+[2026-09-17 04:26:55]   #213 saved -> 213 - Tennis and Philosophy - What the Racket Is All About.epub
+[2026-09-17 04:26:55]   #215 saved -> 215 - The Philosophy of the Beats.epub
+[2026-09-17 04:26:55]   #216 saved -> 216 - The Philosophy of Charlie Kaufman.epub
+[2026-09-17 04:26:56] chunk done: 11 new epubs
+[2026-09-17 04:26:56] sleeping 7 min before next chunk
+[2026-09-17 04:33:29] pending: 80
+[2026-09-17 04:33:29] running chunk: 189,191,200,202,204,205,208,214,217,219,220,222,223,224,226,227,230,232,233,235
+[2026-09-17 06:33:29] chunk timed out; continuing with what landed
+[2026-09-17 06:33:30]   #189 saved -> 189 - The Ultimate Star Trek and Philosophy - The Search for Socrates.epub
+[2026-09-17 06:33:31]   #191 saved -> 191 - Star Wars and Philosophy Strikes Back - This Is the Way.epub
+[2026-09-17 06:33:31]   #200 saved -> 200 - Twilight and Philosophy - Vampires, Vegetarians, and the Pursuit of Immortality.epub
+[2026-09-17 06:33:32] chunk done: 3 new epubs
+[2026-09-17 06:33:32] sleeping 4 min before next chunk
+[2026-09-17 06:37:55] pending: 77
+[2026-09-17 06:37:55] running chunk: 202,204,205,208,214,217,219,220,222,223,224,226,227,230,232,233,235,236,238,239
+[2026-09-17 08:37:55] chunk timed out; continuing with what landed
+[2026-09-17 08:37:55] chunk done: 0 new epubs
+[2026-09-17 08:37:55] sleeping 4 min before next chunk
+[2026-09-17 08:42:22] pending: 77
+[2026-09-17 08:42:22] running chunk: 202,204,205,208,214,217,219,220,222,223,224,226,227,230,232,233,235,236,238,239
+[2026-09-17 09:28:19]   [15:43:00] #202 no mirror link on edition page
+[2026-09-17 09:28:19]   [15:44:48] #204 ads page has no GET link
+[2026-09-17 09:28:19]   [15:47:49] #208 ads page has no GET link
+[2026-09-17 09:28:19]   [15:57:17] #219 OK -> book_0219.epub (686 kB)
+[2026-09-17 09:28:19]   [16:00:43] #220 OK -> book_0220.epub (1274 kB)
+[2026-09-17 09:28:19]   [16:02:27] #222 ads page has no GET link
+[2026-09-17 09:28:19]   [16:03:02] #223 no mirror link on edition page
+[2026-09-17 09:28:19]   [16:07:25] #226 ads page has no GET link
+[2026-09-17 09:28:19]   [16:14:32] #230 OK -> book_0230.epub (1377 kB)
+[2026-09-17 09:28:19]   [16:16:09] #232 OK -> book_0232.epub (2427 kB)
+[2026-09-17 09:28:19]   [16:18:04] #233 no epub result row
+[2026-09-17 09:28:19]   [16:24:28] #236 OK -> book_0236.epub (978 kB)
+[2026-09-17 09:28:19]   [16:26:28] #238 OK -> book_0238.epub (2157 kB)
+[2026-09-17 09:28:19]   [16:28:19] #239 OK -> book_0239.epub (6744 kB)
+[2026-09-17 09:28:20]   #219 saved -> 219 - The Philosophy of David Cronenberg.epub
+[2026-09-17 09:28:20]   #220 saved -> 220 - The Philosophy of David Lynch.epub
+[2026-09-17 09:28:20]   #230 saved -> 230 - The Philosophy of Spike Lee.epub
+[2026-09-17 09:28:20]   #232 saved -> 232 - The Philosophy of Steven Soderbergh.epub
+[2026-09-17 09:28:20]   #236 saved -> 236 - The Philosophy of War Films.epub
+[2026-09-17 09:28:20]   #238 saved -> 238 - Steven Spielberg and Philosophy - We're Gonna Need a Bigger Book.epub
+[2026-09-17 09:28:20]   #239 saved -> 239 - The Philosophy of Werner Herzog.epub
+[2026-09-17 09:28:21] chunk done: 7 new epubs
+[2026-09-17 09:28:21] sleeping 6 min before next chunk
+[2026-09-17 09:34:15] pending: 69
+[2026-09-17 09:34:15] running chunk: 202,204,205,208,214,217,222,223,224,226,227,235,240,242,244,247,250,251,252,253
+[2026-09-17 10:35:47]   [16:35:13] #202 OK -> book_0202.epub (2816 kB)
+[2026-09-17 10:35:47]   [16:40:30] #205 OK -> book_0205.epub (1100 kB)
+[2026-09-17 10:35:47]   [16:42:28] #208 OK -> book_0208.epub (1151 kB)
+[2026-09-17 10:35:47]   [16:56:36] #223 OK -> book_0223.epub (593 kB)
+[2026-09-17 10:35:47]   [17:10:07] #227 OK -> book_0227.epub (2117 kB)
+[2026-09-17 10:35:47]   [17:18:17] #240 OK -> book_0240.epub (2199 kB)
+[2026-09-17 10:35:47]   [17:28:54] #247 OK -> book_0247.epub (4439 kB)
+[2026-09-17 10:35:47]   [17:30:15] #250 no epub result row
+[2026-09-17 10:35:47]   [17:30:59] #251 OK -> book_0251.epub (998 kB)
+[2026-09-17 10:35:47]   [17:32:28] #252 OK -> book_0252.epub (571 kB)
+[2026-09-17 10:35:47]   #202 saved -> 202 - The Walking Dead and Philosophy - Shotgun. Machete. Reason..epub
+[2026-09-17 10:35:47]   #205 saved -> 205 - The Wheel of Time and Philosophy - A Portion of Wisdom.epub
+[2026-09-17 10:35:47]   #208 saved -> 208 - X-Men and Philosophy - Astonishing Insight and Uncanny Argument in the Mutant X-Verse.epub
+[2026-09-17 10:35:47]   #223 saved -> 223 - The Philosophy of J.J. Abrams.epub
+[2026-09-17 10:35:47]   #227 saved -> 227 - The Philosophy of Neo-Noir.epub
+[2026-09-17 10:35:48]   #240 saved -> 240 - Neil Young and Philosophy.epub
+[2026-09-17 10:35:48]   #247 saved -> 247 - The Ultimate Supernatural and Philosophy - Saving People, Killing Things, the Family Business.epub
+[2026-09-17 10:35:48]   #251 saved -> 251 - Punk Rock and Philosophy - Research and Destroy.epub
+[2026-09-17 10:35:48]   #252 saved -> 252 - Better Call Saul and Philosophy - I Think Therefore I Scam.epub
+[2026-09-17 10:35:48] chunk done: 9 new epubs
+[2026-09-17 10:35:48] sleeping 6 min before next chunk
+[2026-09-17 10:41:31] pending: 59
+[2026-09-17 10:41:31] running chunk: 204,214,217,222,224,226,235,242,244,253,255,256,257,258,259,260,261,262,263,264
+[2026-09-17 11:50:18]   [18:00:28] #222 OK -> book_0222.epub (761 kB)
+[2026-09-17 11:50:18]   [18:02:10] #224 OK -> book_0224.epub (11359 kB)
+[2026-09-17 11:50:18]   [18:16:08] #242 OK -> book_0242.epub (11359 kB)
+[2026-09-17 11:50:18]   [18:18:29] #244 OK -> book_0244.epub (580 kB)
+[2026-09-17 11:50:18]   [18:20:33] #253 OK -> book_0253.epub (4046 kB)
+[2026-09-17 11:50:18]   [18:23:34] #255 OK -> book_0255.epub (1723 kB)
+[2026-09-17 11:50:18]   [18:25:21] #256 OK -> book_0256.epub (8109 kB)
+[2026-09-17 11:50:18]   [18:30:17] #258 OK -> book_0258.epub (697 kB)
+[2026-09-17 11:50:18]   [18:37:51] #260 OK -> book_0260.epub (492 kB)
+[2026-09-17 11:50:18]   [18:46:10] #262 OK -> book_0262.epub (491 kB)
+[2026-09-17 11:50:18]   [18:48:27] #263 OK -> book_0263.epub (910 kB)
+[2026-09-17 11:50:18]   [18:50:18] #264 OK -> book_0264.epub (421 kB)
+[2026-09-17 11:50:18]   #222 saved -> 222 - The Philosophy of Horror.epub
+[2026-09-17 11:50:18]   #224 saved -> 224 - The Philosophy of Joss Whedon.epub
+[2026-09-17 11:50:19]   #242 saved -> 242 - Joss Whedon as Philosopher.epub
+[2026-09-17 11:50:19]   #244 saved -> 244 - The Who and Philosophy.epub
+[2026-09-17 11:50:19]   #253 saved -> 253 - Asimov's Foundation and Philosophy - Psychohistory and Its Discontents.epub
+[2026-09-17 11:50:19]   #255 saved -> 255 - The Godfather and Philosophy - An Argument You Can't Refute.epub
+[2026-09-17 11:50:19]   #256 saved -> 256 - Anthony Bourdain and Philosophy - An Appetite for Life.epub
+[2026-09-17 11:50:19]   #258 saved -> 258 - South Park and Philosophy - You Know, I Learned Something Today.epub
+[2026-09-17 11:50:19]   #260 saved -> 260 - The Daily Show and Philosophy - Moments of Zen in the Art of Fake News.epub
+[2026-09-17 11:50:19]   #262 saved -> 262 - Dr. Seuss and Philosophy - Oh, the Thinks You Can Think!.epub
+[2026-09-17 11:50:20]   #263 saved -> 263 - Stephen King and Philosophy.epub
+[2026-09-17 11:50:20]   #264 saved -> 264 - Jane Austen and Philosophy.epub
+[2026-09-17 11:50:20] chunk done: 12 new epubs
+[2026-09-17 11:50:20] sleeping 7 min before next chunk
+[2026-09-17 11:56:58] pending: 47
+[2026-09-17 11:56:58] running chunk: 204,214,217,226,235,257,259,261,265,266,267,268,269,270,271,272,273,274,275,276
+[2026-09-17 13:56:59] chunk timed out; continuing with what landed
+[2026-09-17 13:56:59]   #204 saved -> 204 - Westworld and Philosophy - If You Go Looking for the Truth, Get the Whole Thing.epub
+[2026-09-17 13:56:59]   #214 saved -> 214 - The Philosophy of Ang Lee.epub
+[2026-09-17 13:56:59]   #217 saved -> 217 - The Philosophy of Clint Eastwood.epub
+[2026-09-17 13:56:59]   #226 saved -> 226 - The Philosophy of Michael Mann.epub
+[2026-09-17 13:57:00]   #259 saved -> 259 - Lost and Philosophy - The Island Has Its Reasons.epub
+[2026-09-17 13:57:00] chunk done: 5 new epubs
+[2026-09-17 13:57:00] sleeping 6 min before next chunk
+[2026-09-17 14:03:04] pending: 42
+[2026-09-17 14:03:04] running chunk: 235,257,261,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281
+[2026-09-17 16:03:04] chunk timed out; continuing with what landed
+[2026-09-17 16:03:04] chunk done: 0 new epubs
+[2026-09-17 16:03:04] sleeping 5 min before next chunk
+[2026-09-17 16:08:22] pending: 42
+[2026-09-17 16:08:22] running chunk: 235,257,261,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281
+[2026-09-17 18:08:23] chunk timed out; continuing with what landed
+[2026-09-17 18:08:23] chunk done: 0 new epubs
+[2026-09-17 18:08:23] sleeping 6 min before next chunk
+[2026-09-17 18:14:50] pending: 42
+[2026-09-17 18:14:50] running chunk: 235,257,261,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281
+[2026-09-17 20:14:50] chunk timed out; continuing with what landed
+[2026-09-17 20:14:51] chunk done: 0 new epubs
+[2026-09-17 20:14:51] sleeping 5 min before next chunk
+[2026-09-17 20:19:47] pending: 42
+[2026-09-17 20:19:47] running chunk: 235,257,261,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281
+[2026-09-17 20:52:32] chunk done: 0 new epubs
+[2026-09-17 20:52:32] sleeping 4 min before next chunk
+[2026-09-17 20:56:32] pending: 42
+[2026-09-17 20:56:32] running chunk: 235,257,261,265,266,267,268,269,270,271,272,273,274,275,276,277,278,279,280,281
+[2026-09-17 21:54:51]   [03:58:37] #235 download invalid: b'%PDF-1.6'
+[2026-09-17 21:54:51]   [04:14:34] #266 no epub result row
+[2026-09-17 21:54:51]   [04:14:58] #267 no epub result row
+[2026-09-17 21:54:51]   [04:21:35] #269 no epub result row
+[2026-09-17 21:54:51]   [04:21:59] #270 no epub result row
+[2026-09-17 21:54:51]   [04:22:52] #271 OK -> book_0271.epub (1303 kB)
+[2026-09-17 21:54:51]   [04:25:37] #272 OK -> book_0272.epub (2074 kB)
+[2026-09-17 21:54:51]   [04:27:51] #273 OK -> book_0273.epub (1405 kB)
+[2026-09-17 21:54:51]   [04:30:09] #274 OK -> book_0274.epub (1052 kB)
+[2026-09-17 21:54:51]   [04:33:02] #275 OK -> book_0275.epub (1723 kB)
+[2026-09-17 21:54:51]   [04:34:16] #276 no epub result row
+[2026-09-17 21:54:51]   [04:52:49] #280 OK -> book_0280.epub (2930 kB)
+[2026-09-17 21:54:51]   [04:54:51] #281 OK -> book_0281.epub (1131 kB)
+[2026-09-17 21:54:51]   #271 saved -> 271 - Fatherhood – Philosophy for Everyone - The Dao of Daddy.epub
+[2026-09-17 21:54:52]   #272 saved -> 272 - Motherhood – Philosophy for Everyone - The Birth of Wisdom.epub
+[2026-09-17 21:54:52]   #273 saved -> 273 - Sailing – Philosophy for Everyone - Catching the Drift of Why We Sail.epub
+[2026-09-17 21:54:52]   #274 saved -> 274 - Coffee – Philosophy for Everyone - Grounds for Debate.epub
+[2026-09-17 21:54:52]   #275 saved -> 275 - Hunting – Philosophy for Everyone - In Search of the Wild Life.epub
+[2026-09-17 21:54:52]   #280 saved -> 280 - Gardening – Philosophy for Everyone - Cultivating Wisdom.epub
+[2026-09-17 21:54:52]   #281 saved -> 281 - Cannabis – Philosophy for Everyone - What Were We Just Talking About_.epub
+[2026-09-17 21:54:52] chunk done: 7 new epubs
+[2026-09-17 21:54:52] sleeping 5 min before next chunk
+[2026-09-17 21:59:25] pending: 30
+[2026-09-17 21:59:25] running chunk: 235,257,261,265,268,277,278,279,282,283,284,285,286,287,288,289,290,296,297,298
+[2026-09-17 23:24:46]   [05:20:32] #268 OK -> book_0268.epub (710 kB)
+[2026-09-17 23:24:46]   [05:53:39] #285 OK -> book_0285.epub (571 kB)
+[2026-09-17 23:24:46]   [06:12:57] #289 OK -> book_0289.epub (1592 kB)
+[2026-09-17 23:24:46]   [06:18:02] #296 no epub result row
+[2026-09-17 23:24:46]   [06:24:45] #298 OK -> book_0298.epub (393 kB)
+[2026-09-17 23:24:46]   #268 saved -> 268 - Food & Philosophy - Eat, Think, and Be Merry.epub
+[2026-09-17 23:24:46]   #285 saved -> 285 - Serial Killers – Philosophy for Everyone - Being and Killing.epub
+[2026-09-17 23:24:46]   #289 saved -> 289 - Horror and Philosophy - Essays on Their Intersection in Film, Television and Literature.epub
+[2026-09-17 23:24:46]   #298 saved -> 298 - The Philosophy of Tolkien - The Worldview Behind The Lord of the Rings.epub
+[2026-09-17 23:24:47] chunk done: 4 new epubs
+[2026-09-17 23:24:47] sleeping 6 min before next chunk
+[2026-09-17 23:30:53] === chunk loop end ===
+[2026-09-17 23:35:42] === chunk loop start (chunk=20, max 24.0 h) ===
+[2026-09-17 23:35:42] pending: 25
+[2026-09-17 23:35:42] running chunk: 235,257,261,265,277,278,279,282,283,284,286,287,288,290,297,299,300,301,302,303
+[2026-09-18 00:10:33] chunk done: 0 new epubs
+[2026-09-18 00:10:33] sleeping 5 min before next chunk
+[2026-09-18 00:15:25] pending: 25
+[2026-09-18 00:15:25] running chunk: 235,257,261,265,277,278,279,282,283,284,286,287,288,290,297,299,300,301,302,303
+[2026-09-18 01:22:02]   [07:16:16] #235 ads page has no GET link
+[2026-09-18 01:22:02]   [07:20:14] #261 OK -> book_0261.epub (1896 kB)
+[2026-09-18 01:22:02]   [07:46:09] #282 OK -> book_0282.epub (560 kB)
+[2026-09-18 01:22:02]   [07:54:25] #284 ads page has no GET link
+[2026-09-18 01:22:02]   [07:55:05] #286 ads page has no GET link
+[2026-09-18 01:22:02]   [07:55:47] #287 ads page has no GET link
+[2026-09-18 01:22:02]   [08:02:28] #290 no epub result row
+[2026-09-18 01:22:02]   [08:08:46] #299 no epub result row
+[2026-09-18 01:22:02]   [08:21:07] #302 no epub result row
+[2026-09-18 01:22:02]   [08:22:02] #303 OK -> book_0303.epub (690 kB)
+[2026-09-18 01:22:03]   #261 saved -> 261 - Philosophy in The Twilight Zone.epub
+[2026-09-18 01:22:03]   #282 saved -> 282 - Climbing – Philosophy for Everyone - Because It's There.epub
+[2026-09-18 01:22:03]   #303 saved -> 303 - Philosophy and the Interpretation of Pop Culture.epub
+[2026-09-18 01:22:03] chunk done: 3 new epubs
+[2026-09-18 01:22:03] sleeping 5 min before next chunk
+[2026-09-18 01:27:28] pending: 19
+[2026-09-18 01:27:28] running chunk: 235,257,265,277,278,279,283,284,286,287,288,297,300,301,304,305,306,308,310
+[2026-09-18 02:38:33]   [08:37:51] #265 OK -> book_0265.epub (904 kB)
+[2026-09-18 02:38:33]   [08:39:35] #277 OK -> book_0277.epub (773 kB)
+[2026-09-18 02:38:33]   [08:41:56] #278 OK -> book_0278.epub (686 kB)
+[2026-09-18 02:38:33]   [09:19:09] #297 OK -> book_0297.epub (415 kB)
+[2026-09-18 02:38:33]   [09:26:45] #301 OK -> book_0301.epub (377 kB)
+[2026-09-18 02:38:33]   [09:28:30] #304 OK -> book_0304.epub (697 kB)
+[2026-09-18 02:38:33]   [09:29:43] #305 no epub result row
+[2026-09-18 02:38:33]   [09:36:16] #308 OK -> book_0308.epub (4629 kB)
+[2026-09-18 02:38:33]   [09:38:33] #310 OK -> book_0310.epub (3956 kB)
+[2026-09-18 02:38:34]   #265 saved -> 265 - Mark Twain and Philosophy.epub
+[2026-09-18 02:38:34]   #277 saved -> 277 - Porn – Philosophy for Everyone - How to Think With Kink.epub
+[2026-09-18 02:38:34]   #278 saved -> 278 - Fashion – Philosophy for Everyone - Thinking with Style.epub
+[2026-09-18 02:38:34]   #297 saved -> 297 - The Philosopher at the End of the Universe - Philosophy Explained Through Science Fiction Films.epub
+[2026-09-18 02:38:34]   #301 saved -> 301 - Comics as Philosophy.epub
+[2026-09-18 02:38:34]   #304 saved -> 304 - Introducing Philosophy Through Pop Culture - From Socrates to South Park, Hume to House.epub
+[2026-09-18 02:38:34]   #308 saved -> 308 - The Palgrave Handbook of Popular Culture as Philosophy.epub
+[2026-09-18 02:38:34]   #310 saved -> 310 - The Real Meaning of Doctor Who.epub
+[2026-09-18 02:38:35] chunk done: 8 new epubs
+[2026-09-18 02:38:35] sleeping 5 min before next chunk
+[2026-09-18 02:43:10] pending: 10
+[2026-09-18 02:43:10] running chunk: 235,257,279,283,284,286,287,288,300,306
+[2026-09-18 03:07:42]   [10:01:27] #284 error: TargetClosedError: Locator.count: Target page, context or browser has been closed
+[2026-09-18 03:07:42]   [10:02:51] #286 error: TargetClosedError: Page.goto: Target page, context or browser has been closed
+[2026-09-18 03:07:42]   [10:03:51] #287 error: TargetClosedError: Page.goto: Target page, context or browser has been closed
+[2026-09-18 03:07:42]   [10:04:49] #288 error: TargetClosedError: Page.goto: Target page, context or browser has been closed
+[2026-09-18 03:07:42]   [10:06:14] #300 error: TargetClosedError: Page.goto: Target page, context or browser has been closed
+[2026-09-18 03:07:42]   [10:07:42] #306 error: TargetClosedError: Page.goto: Target page, context or browser has been closed
+[2026-09-18 03:07:42] chunk done: 0 new epubs
+[2026-09-18 03:07:42] sleeping 4 min before next chunk
+[2026-09-18 03:11:46] pending: 10
+[2026-09-18 03:11:46] running chunk: 235,257,279,283,284,286,287,288,300,306
+[2026-09-18 03:47:22]   [10:12:41] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 03:47:22]   [10:40:50] #287 OK -> book_0287.epub (572 kB)
+[2026-09-18 03:47:22]   [10:42:40] #288 OK -> book_0288.epub (613 kB)
+[2026-09-18 03:47:22]   [10:45:13] #300 OK -> book_0300.epub (665 kB)
+[2026-09-18 03:47:22]   [10:47:22] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 03:47:23]   #287 saved -> 287 - Blues – Philosophy for Everyone - Thinking Deep About Feeling Low.epub
+[2026-09-18 03:47:23]   #288 saved -> 288 - Dating – Philosophy for Everyone - Flirting With Big Ideas.epub
+[2026-09-18 03:47:23]   #300 saved -> 300 - Who Is Who_ The Philosophy of Doctor Who.epub
+[2026-09-18 03:47:23] chunk done: 3 new epubs
+[2026-09-18 03:47:23] sleeping 5 min before next chunk
+[2026-09-18 03:52:50] pending: 7
+[2026-09-18 03:52:50] running chunk: 235,257,279,283,284,286,306
+[2026-09-18 04:07:42]   [10:54:18] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 04:07:42]   [10:58:51] #279 OK -> book_0279.epub (722 kB)
+[2026-09-18 04:07:42]   [11:01:02] #283 OK -> book_0283.epub (2149 kB)
+[2026-09-18 04:07:42]   [11:03:06] #284 OK -> book_0284.epub (425 kB)
+[2026-09-18 04:07:42]   [11:05:24] #286 OK -> book_0286.epub (910 kB)
+[2026-09-18 04:07:42]   [11:07:42] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 04:07:42]   #279 saved -> 279 - Christmas – Philosophy for Everyone - Better Than a Lump of Coal.epub
+[2026-09-18 04:07:42]   #283 saved -> 283 - Tattoos – Philosophy for Everyone - I Ink, Therefore I Am.epub
+[2026-09-18 04:07:42]   #284 saved -> 284 - College Sex – Philosophy for Everyone - Philosophers With Benefits.epub
+[2026-09-18 04:07:42]   #286 saved -> 286 - Yoga – Philosophy for Everyone - Bending Mind and Body.epub
+[2026-09-18 04:07:43] chunk done: 4 new epubs
+[2026-09-18 04:07:43] sleeping 6 min before next chunk
+[2026-09-18 04:13:54] pending: 3
+[2026-09-18 04:13:54] running chunk: 235,257,306
+[2026-09-18 04:20:54]   [11:15:27] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 04:20:54]   [11:20:54] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 04:20:55] chunk done: 0 new epubs
+[2026-09-18 04:20:55] sleeping 5 min before next chunk
+[2026-09-18 04:25:40] pending: 3
+[2026-09-18 04:25:40] running chunk: 235,257,306
+[2026-09-18 04:32:44]   [11:27:05] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 04:32:44]   [11:32:44] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 04:32:44] chunk done: 0 new epubs
+[2026-09-18 04:32:44] sleeping 6 min before next chunk
+[2026-09-18 04:39:04] pending: 3
+[2026-09-18 04:39:04] running chunk: 235,257,306
+[2026-09-18 04:45:20]   [11:40:23] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 04:45:20]   [11:45:20] #306 ads page has no GET link
+[2026-09-18 04:45:20] chunk done: 0 new epubs
+[2026-09-18 04:45:20] sleeping 6 min before next chunk
+[2026-09-18 04:51:47] pending: 3
+[2026-09-18 04:51:47] running chunk: 235,257,306
+[2026-09-18 05:05:32] chunk done: 0 new epubs
+[2026-09-18 05:05:32] sleeping 4 min before next chunk
+[2026-09-18 05:09:49] pending: 3
+[2026-09-18 05:09:49] running chunk: 235,257,306
+[2026-09-18 05:17:04]   [12:11:44] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 05:17:04] chunk done: 0 new epubs
+[2026-09-18 05:17:04] sleeping 6 min before next chunk
+[2026-09-18 05:22:45] pending: 3
+[2026-09-18 05:22:45] running chunk: 235,257,306
+[2026-09-18 05:28:59]   [12:24:11] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 05:28:59]   [12:28:59] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 05:28:59] chunk done: 0 new epubs
+[2026-09-18 05:28:59] sleeping 7 min before next chunk
+[2026-09-18 05:35:38] pending: 3
+[2026-09-18 05:35:38] running chunk: 235,257,306
+[2026-09-18 05:40:19]   [12:36:22] #235 ads page has no GET link
+[2026-09-18 05:40:19]   [12:40:19] #306 ads page has no GET link
+[2026-09-18 05:40:19] chunk done: 0 new epubs
+[2026-09-18 05:40:19] sleeping 5 min before next chunk
+[2026-09-18 05:45:44] pending: 3
+[2026-09-18 05:45:44] running chunk: 235,257,306
+[2026-09-18 05:52:50]   [12:47:11] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 05:52:50]   [12:52:50] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 05:52:50] chunk done: 0 new epubs
+[2026-09-18 05:52:50] sleeping 6 min before next chunk
+[2026-09-18 05:59:19] pending: 3
+[2026-09-18 05:59:19] running chunk: 235,257,306
+[2026-09-18 06:06:40]   [13:02:04] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 06:06:40]   [13:06:39] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 06:06:40] chunk done: 0 new epubs
+[2026-09-18 06:06:40] sleeping 7 min before next chunk
+[2026-09-18 06:13:12] pending: 3
+[2026-09-18 06:13:12] running chunk: 235,257,306
+[2026-09-18 06:19:47]   [13:14:06] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 06:19:47]   [13:19:46] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 06:19:47] chunk done: 0 new epubs
+[2026-09-18 06:19:47] sleeping 6 min before next chunk
+[2026-09-18 06:25:39] pending: 3
+[2026-09-18 06:25:39] running chunk: 235,257,306
+[2026-09-18 06:33:40]   [13:26:32] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 06:33:40]   [13:33:40] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 06:33:40] chunk done: 0 new epubs
+[2026-09-18 06:33:40] sleeping 7 min before next chunk
+[2026-09-18 06:40:28] pending: 3
+[2026-09-18 06:40:28] running chunk: 235,257,306
+[2026-09-18 06:46:22]   [13:41:20] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 06:46:22]   [13:46:22] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 06:46:22] chunk done: 0 new epubs
+[2026-09-18 06:46:22] sleeping 6 min before next chunk
+[2026-09-18 06:52:09] pending: 3
+[2026-09-18 06:52:09] running chunk: 235,257,306
+[2026-09-18 06:57:58]   [13:52:57] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 06:57:58]   [13:57:58] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 06:57:58] chunk done: 0 new epubs
+[2026-09-18 06:57:58] sleeping 5 min before next chunk
+[2026-09-18 07:02:46] pending: 3
+[2026-09-18 07:02:46] running chunk: 235,257,306
+[2026-09-18 07:12:40]   [14:12:40] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 07:12:41] chunk done: 0 new epubs
+[2026-09-18 07:12:41] sleeping 6 min before next chunk
+[2026-09-18 07:18:59] pending: 3
+[2026-09-18 07:18:59] running chunk: 235,257,306
+[2026-09-18 07:26:31]   [14:20:42] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 07:26:31]   [14:26:31] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 07:26:31] chunk done: 0 new epubs
+[2026-09-18 07:26:31] sleeping 7 min before next chunk
+[2026-09-18 07:33:09] pending: 3
+[2026-09-18 07:33:09] running chunk: 235,257,306
+[2026-09-18 07:39:35]   [14:34:02] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 07:39:35]   [14:39:35] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 07:39:35] chunk done: 0 new epubs
+[2026-09-18 07:39:35] sleeping 4 min before next chunk
+[2026-09-18 07:43:51] pending: 3
+[2026-09-18 07:43:51] running chunk: 235,257,306
+[2026-09-18 07:49:11]   [14:44:42] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 07:49:11]   [14:49:11] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 07:49:12] chunk done: 0 new epubs
+[2026-09-18 07:49:12] sleeping 5 min before next chunk
+[2026-09-18 07:53:52] pending: 3
+[2026-09-18 07:53:52] running chunk: 235,257,306
+[2026-09-18 08:00:19]   [14:55:34] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 08:00:19]   [15:00:19] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 08:00:19] chunk done: 0 new epubs
+[2026-09-18 08:00:19] sleeping 5 min before next chunk
+[2026-09-18 08:05:32] pending: 3
+[2026-09-18 08:05:32] running chunk: 235,257,306
+[2026-09-18 08:09:33] chunk done: 0 new epubs
+[2026-09-18 08:09:33] sleeping 4 min before next chunk
+[2026-09-18 08:14:00] pending: 3
+[2026-09-18 08:14:00] running chunk: 235,257,306
+[2026-09-18 08:17:48] chunk done: 0 new epubs
+[2026-09-18 08:17:48] sleeping 6 min before next chunk
+[2026-09-18 08:23:38] pending: 3
+[2026-09-18 08:23:38] running chunk: 235,257,306
+[2026-09-18 08:29:32]   [15:24:29] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 08:29:32]   [15:29:32] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 08:29:32] chunk done: 0 new epubs
+[2026-09-18 08:29:32] sleeping 6 min before next chunk
+[2026-09-18 08:35:45] pending: 3
+[2026-09-18 08:35:45] running chunk: 235,257,306
+[2026-09-18 08:41:42]   [15:36:40] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 08:41:42]   [15:41:41] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 08:41:42] chunk done: 0 new epubs
+[2026-09-18 08:41:42] sleeping 6 min before next chunk
+[2026-09-18 08:47:57] pending: 3
+[2026-09-18 08:47:57] running chunk: 235,257,306
+[2026-09-18 08:54:56]   [15:48:52] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 08:54:56]   [15:54:56] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 08:54:57] chunk done: 0 new epubs
+[2026-09-18 08:54:57] sleeping 6 min before next chunk
+[2026-09-18 09:00:31] pending: 3
+[2026-09-18 09:00:31] running chunk: 235,257,306
+[2026-09-18 09:06:53]   [16:01:21] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 09:06:53]   [16:06:53] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 09:06:53] chunk done: 0 new epubs
+[2026-09-18 09:06:53] sleeping 7 min before next chunk
+[2026-09-18 09:13:31] pending: 3
+[2026-09-18 09:13:31] running chunk: 235,257,306
+[2026-09-18 09:18:14] chunk done: 0 new epubs
+[2026-09-18 09:18:14] sleeping 6 min before next chunk
+[2026-09-18 09:24:05] pending: 3
+[2026-09-18 09:24:05] running chunk: 235,257,306
+[2026-09-18 09:30:59]   [16:25:43] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 09:30:59]   [16:30:59] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 09:30:59] chunk done: 0 new epubs
+[2026-09-18 09:30:59] sleeping 7 min before next chunk
+[2026-09-18 09:37:46] pending: 3
+[2026-09-18 09:37:46] running chunk: 235,257,306
+[2026-09-18 09:45:34]   [16:39:29] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 09:45:34]   [16:45:34] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 09:45:34] chunk done: 0 new epubs
+[2026-09-18 09:45:34] sleeping 6 min before next chunk
+[2026-09-18 09:51:50] pending: 3
+[2026-09-18 09:51:50] running chunk: 235,257,306
+[2026-09-18 09:57:34]   [16:52:45] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 09:57:34]   [16:57:34] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 09:57:34] chunk done: 0 new epubs
+[2026-09-18 09:57:34] sleeping 6 min before next chunk
+[2026-09-18 10:03:32] pending: 3
+[2026-09-18 10:03:32] running chunk: 235,257,306
+[2026-09-18 10:10:11]   [17:04:21] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 10:10:11]   [17:10:11] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 10:10:12] chunk done: 0 new epubs
+[2026-09-18 10:10:12] sleeping 5 min before next chunk
+[2026-09-18 10:14:57] pending: 3
+[2026-09-18 10:14:57] running chunk: 235,257,306
+[2026-09-18 10:22:36]   [17:16:30] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 10:22:36]   [17:22:36] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 10:22:36] chunk done: 0 new epubs
+[2026-09-18 10:22:36] sleeping 6 min before next chunk
+[2026-09-18 10:29:03] pending: 3
+[2026-09-18 10:29:03] running chunk: 235,257,306
+[2026-09-18 10:38:46]   [17:29:56] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 10:38:46] chunk done: 0 new epubs
+[2026-09-18 10:38:46] sleeping 5 min before next chunk
+[2026-09-18 10:43:35] pending: 3
+[2026-09-18 10:43:35] running chunk: 235,257,306
+[2026-09-18 10:54:20] chunk done: 0 new epubs
+[2026-09-18 10:54:20] sleeping 6 min before next chunk
+[2026-09-18 11:00:45] pending: 3
+[2026-09-18 11:00:45] running chunk: 235,257,306
+[2026-09-18 11:06:23]   [18:01:35] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 11:06:23]   [18:06:23] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 11:06:23] chunk done: 0 new epubs
+[2026-09-18 11:06:23] sleeping 7 min before next chunk
+[2026-09-18 11:13:07] pending: 3
+[2026-09-18 11:13:07] running chunk: 235,257,306
+[2026-09-18 11:18:54]   [18:13:58] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 11:18:54]   [18:18:54] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 11:18:54] chunk done: 0 new epubs
+[2026-09-18 11:18:54] sleeping 6 min before next chunk
+[2026-09-18 11:24:24] pending: 3
+[2026-09-18 11:24:24] running chunk: 235,257,306
+[2026-09-18 11:33:39]   [18:33:39] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 11:33:40] chunk done: 0 new epubs
+[2026-09-18 11:33:40] sleeping 5 min before next chunk
+[2026-09-18 11:38:56] pending: 3
+[2026-09-18 11:38:56] running chunk: 235,257,306
+[2026-09-18 11:44:58]   [18:39:50] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 11:44:58]   [18:44:58] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 11:44:58] chunk done: 0 new epubs
+[2026-09-18 11:44:58] sleeping 6 min before next chunk
+[2026-09-18 11:50:58] pending: 3
+[2026-09-18 11:50:58] running chunk: 235,257,306
+[2026-09-18 11:57:22]   [18:51:49] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 11:57:22]   [18:57:22] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 11:57:22] chunk done: 0 new epubs
+[2026-09-18 11:57:22] sleeping 6 min before next chunk
+[2026-09-18 12:03:28] pending: 3
+[2026-09-18 12:03:28] running chunk: 235,257,306
+[2026-09-18 12:08:47]   [19:04:19] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 12:08:47]   [19:08:47] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 12:08:47] chunk done: 0 new epubs
+[2026-09-18 12:08:47] sleeping 5 min before next chunk
+[2026-09-18 12:13:31] pending: 3
+[2026-09-18 12:13:31] running chunk: 235,257,306
+[2026-09-18 12:22:45]   [19:22:45] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 12:22:45] chunk done: 0 new epubs
+[2026-09-18 12:22:45] sleeping 6 min before next chunk
+[2026-09-18 12:28:39] pending: 3
+[2026-09-18 12:28:39] running chunk: 235,257,306
+[2026-09-18 12:34:24]   [19:29:44] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 12:34:24]   [19:34:24] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 12:34:24] chunk done: 0 new epubs
+[2026-09-18 12:34:24] sleeping 6 min before next chunk
+[2026-09-18 12:40:21] pending: 3
+[2026-09-18 12:40:21] running chunk: 235,257,306
+[2026-09-18 12:46:54]   [19:42:19] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 12:46:54]   [19:46:54] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 12:46:54] chunk done: 0 new epubs
+[2026-09-18 12:46:54] sleeping 5 min before next chunk
+[2026-09-18 12:51:54] pending: 3
+[2026-09-18 12:51:54] running chunk: 235,257,306
+[2026-09-18 12:57:54]   [19:52:46] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 12:57:54]   [19:57:54] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 12:57:54] chunk done: 0 new epubs
+[2026-09-18 12:57:54] sleeping 5 min before next chunk
+[2026-09-18 13:03:17] pending: 3
+[2026-09-18 13:03:17] running chunk: 235,257,306
+[2026-09-18 13:06:52] chunk done: 0 new epubs
+[2026-09-18 13:06:52] sleeping 5 min before next chunk
+[2026-09-18 13:11:47] pending: 3
+[2026-09-18 13:11:47] running chunk: 235,257,306
+[2026-09-18 13:17:56]   [20:12:39] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 13:17:56]   [20:17:56] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 13:17:57] chunk done: 0 new epubs
+[2026-09-18 13:17:57] sleeping 5 min before next chunk
+[2026-09-18 13:23:26] pending: 3
+[2026-09-18 13:23:26] running chunk: 235,257,306
+[2026-09-18 13:32:50]   [20:32:50] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 13:32:50] chunk done: 0 new epubs
+[2026-09-18 13:32:50] sleeping 6 min before next chunk
+[2026-09-18 13:39:20] pending: 3
+[2026-09-18 13:39:20] running chunk: 235,257,306
+[2026-09-18 13:46:10]   [20:40:12] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 13:46:10]   [20:46:10] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 13:46:10] chunk done: 0 new epubs
+[2026-09-18 13:46:10] sleeping 6 min before next chunk
+[2026-09-18 13:51:50] pending: 3
+[2026-09-18 13:51:50] running chunk: 235,257,306
+[2026-09-18 14:02:10]   [20:53:22] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 14:02:10] chunk done: 0 new epubs
+[2026-09-18 14:02:10] sleeping 6 min before next chunk
+[2026-09-18 14:08:34] pending: 3
+[2026-09-18 14:08:34] running chunk: 235,257,306
+[2026-09-18 14:14:40]   [21:09:44] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 14:14:40]   [21:14:40] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 14:14:40] chunk done: 0 new epubs
+[2026-09-18 14:14:40] sleeping 5 min before next chunk
+[2026-09-18 14:19:59] pending: 3
+[2026-09-18 14:19:59] running chunk: 235,257,306
+[2026-09-18 14:29:05]   [21:20:49] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 14:29:05] chunk done: 0 new epubs
+[2026-09-18 14:29:05] sleeping 7 min before next chunk
+[2026-09-18 14:36:00] pending: 3
+[2026-09-18 14:36:00] running chunk: 235,257,306
+[2026-09-18 14:42:45]   [21:36:53] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 14:42:45]   [21:42:45] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 14:42:46] chunk done: 0 new epubs
+[2026-09-18 14:42:46] sleeping 7 min before next chunk
+[2026-09-18 14:49:34] pending: 3
+[2026-09-18 14:49:34] running chunk: 235,257,306
+[2026-09-18 14:53:42] chunk done: 0 new epubs
+[2026-09-18 14:53:42] sleeping 5 min before next chunk
+[2026-09-18 14:58:13] pending: 3
+[2026-09-18 14:58:13] running chunk: 235,257,306
+[2026-09-18 15:07:25]   [21:59:05] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 15:07:25] chunk done: 0 new epubs
+[2026-09-18 15:07:25] sleeping 4 min before next chunk
+[2026-09-18 15:11:49] pending: 3
+[2026-09-18 15:11:49] running chunk: 235,257,306
+[2026-09-18 15:18:41]   [22:12:43] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 15:18:41]   [22:18:41] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 15:18:41] chunk done: 0 new epubs
+[2026-09-18 15:18:41] sleeping 7 min before next chunk
+[2026-09-18 15:25:28] pending: 3
+[2026-09-18 15:25:28] running chunk: 235,257,306
+[2026-09-18 15:29:38] chunk done: 0 new epubs
+[2026-09-18 15:29:38] sleeping 5 min before next chunk
+[2026-09-18 15:34:40] pending: 3
+[2026-09-18 15:34:40] running chunk: 235,257,306
+[2026-09-18 15:39:47]   [22:35:29] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 15:39:47]   [22:39:47] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 15:39:48] chunk done: 0 new epubs
+[2026-09-18 15:39:48] sleeping 4 min before next chunk
+[2026-09-18 15:44:15] pending: 3
+[2026-09-18 15:44:15] running chunk: 235,257,306
+[2026-09-18 15:48:02] chunk done: 0 new epubs
+[2026-09-18 15:48:02] sleeping 6 min before next chunk
+[2026-09-18 15:53:48] pending: 3
+[2026-09-18 15:53:48] running chunk: 235,257,306
+[2026-09-18 16:00:03]   [22:55:04] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 16:00:03]   [23:00:03] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 16:00:03] chunk done: 0 new epubs
+[2026-09-18 16:00:03] sleeping 4 min before next chunk
+[2026-09-18 16:04:04] pending: 3
+[2026-09-18 16:04:04] running chunk: 235,257,306
+[2026-09-18 16:09:41]   [23:05:00] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 16:09:41]   [23:09:41] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 16:09:41] chunk done: 0 new epubs
+[2026-09-18 16:09:41] sleeping 4 min before next chunk
+[2026-09-18 16:13:55] pending: 3
+[2026-09-18 16:13:55] running chunk: 235,257,306
+[2026-09-18 16:19:35]   [23:14:47] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 16:19:35]   [23:19:34] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 16:19:35] chunk done: 0 new epubs
+[2026-09-18 16:19:35] sleeping 4 min before next chunk
+[2026-09-18 16:24:04] pending: 3
+[2026-09-18 16:24:04] running chunk: 235,257,306
+[2026-09-18 16:29:43]   [23:25:05] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 16:29:43]   [23:29:43] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 16:29:43] chunk done: 0 new epubs
+[2026-09-18 16:29:43] sleeping 6 min before next chunk
+[2026-09-18 16:35:51] pending: 3
+[2026-09-18 16:35:51] running chunk: 235,257,306
+[2026-09-18 16:42:36]   [23:42:36] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 16:42:36] chunk done: 0 new epubs
+[2026-09-18 16:42:36] sleeping 4 min before next chunk
+[2026-09-18 16:46:52] pending: 3
+[2026-09-18 16:46:52] running chunk: 235,257,306
+[2026-09-18 16:52:30]   [23:47:42] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 16:52:30]   [23:52:30] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 16:52:31] chunk done: 0 new epubs
+[2026-09-18 16:52:31] sleeping 6 min before next chunk
+[2026-09-18 16:58:55] pending: 3
+[2026-09-18 16:58:55] running chunk: 235,257,306
+[2026-09-18 17:04:55]   [23:59:44] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 17:04:55]   [00:04:55] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 17:04:56] chunk done: 0 new epubs
+[2026-09-18 17:04:56] sleeping 5 min before next chunk
+[2026-09-18 17:10:05] pending: 3
+[2026-09-18 17:10:05] running chunk: 235,257,306
+[2026-09-18 17:16:18]   [00:11:21] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 17:16:18]   [00:16:18] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 17:16:18] chunk done: 0 new epubs
+[2026-09-18 17:16:18] sleeping 5 min before next chunk
+[2026-09-18 17:21:28] pending: 3
+[2026-09-18 17:21:28] running chunk: 235,257,306
+[2026-09-18 17:28:35]   [00:22:34] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 17:28:35]   [00:28:35] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 17:28:35] chunk done: 0 new epubs
+[2026-09-18 17:28:35] sleeping 6 min before next chunk
+[2026-09-18 17:34:33] pending: 3
+[2026-09-18 17:34:33] running chunk: 235,257,306
+[2026-09-18 17:39:54]   [00:35:22] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 17:39:54]   [00:39:54] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 17:39:54] chunk done: 0 new epubs
+[2026-09-18 17:39:54] sleeping 5 min before next chunk
+[2026-09-18 17:44:34] pending: 3
+[2026-09-18 17:44:34] running chunk: 235,257,306
+[2026-09-18 17:50:50]   [00:45:23] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 17:50:50]   [00:50:50] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 17:50:50] chunk done: 0 new epubs
+[2026-09-18 17:50:50] sleeping 6 min before next chunk
+[2026-09-18 17:56:38] pending: 3
+[2026-09-18 17:56:38] running chunk: 235,257,306
+[2026-09-18 18:02:27]   [00:57:29] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 18:02:27]   [01:02:27] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 18:02:27] chunk done: 0 new epubs
+[2026-09-18 18:02:27] sleeping 5 min before next chunk
+[2026-09-18 18:07:47] pending: 3
+[2026-09-18 18:07:47] running chunk: 235,257,306
+[2026-09-18 18:14:22]   [01:08:44] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 18:14:22]   [01:14:22] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 18:14:22] chunk done: 0 new epubs
+[2026-09-18 18:14:22] sleeping 7 min before next chunk
+[2026-09-18 18:21:18] pending: 3
+[2026-09-18 18:21:18] running chunk: 235,257,306
+[2026-09-18 18:25:10] chunk done: 0 new epubs
+[2026-09-18 18:25:10] sleeping 5 min before next chunk
+[2026-09-18 18:29:41] pending: 3
+[2026-09-18 18:29:41] running chunk: 235,257,306
+[2026-09-18 18:35:37]   [01:30:40] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 18:35:37]   [01:35:37] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 18:35:37] chunk done: 0 new epubs
+[2026-09-18 18:35:37] sleeping 6 min before next chunk
+[2026-09-18 18:41:12] pending: 3
+[2026-09-18 18:41:12] running chunk: 235,257,306
+[2026-09-18 18:47:22]   [01:42:02] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 18:47:22]   [01:47:22] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 18:47:22] chunk done: 0 new epubs
+[2026-09-18 18:47:22] sleeping 7 min before next chunk
+[2026-09-18 18:54:05] pending: 3
+[2026-09-18 18:54:05] running chunk: 235,257,306
+[2026-09-18 19:00:38]   [01:55:04] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 19:00:38]   [02:00:38] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 19:00:39] chunk done: 0 new epubs
+[2026-09-18 19:00:39] sleeping 7 min before next chunk
+[2026-09-18 19:07:19] pending: 3
+[2026-09-18 19:07:19] running chunk: 235,257,306
+[2026-09-18 19:12:45]   [02:08:26] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 19:12:45]   [02:12:45] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 19:12:45] chunk done: 0 new epubs
+[2026-09-18 19:12:45] sleeping 7 min before next chunk
+[2026-09-18 19:19:28] pending: 3
+[2026-09-18 19:19:28] running chunk: 235,257,306
+[2026-09-18 19:23:38] chunk done: 0 new epubs
+[2026-09-18 19:23:38] sleeping 6 min before next chunk
+[2026-09-18 19:29:30] pending: 3
+[2026-09-18 19:29:30] running chunk: 235,257,306
+[2026-09-18 19:39:36]   [02:39:36] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 19:39:36] chunk done: 0 new epubs
+[2026-09-18 19:39:36] sleeping 4 min before next chunk
+[2026-09-18 19:43:44] pending: 3
+[2026-09-18 19:43:44] running chunk: 235,257,306
+[2026-09-18 19:47:54] chunk done: 0 new epubs
+[2026-09-18 19:47:54] sleeping 6 min before next chunk
+[2026-09-18 19:53:42] pending: 3
+[2026-09-18 19:53:42] running chunk: 235,257,306
+[2026-09-18 19:58:02] chunk done: 0 new epubs
+[2026-09-18 19:58:02] sleeping 6 min before next chunk
+[2026-09-18 20:04:17] pending: 3
+[2026-09-18 20:04:17] running chunk: 235,257,306
+[2026-09-18 20:07:47] chunk done: 0 new epubs
+[2026-09-18 20:07:47] sleeping 6 min before next chunk
+[2026-09-18 20:13:37] pending: 3
+[2026-09-18 20:13:37] running chunk: 235,257,306
+[2026-09-18 20:19:56]   [03:14:25] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 20:19:56]   [03:19:56] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 20:19:56] chunk done: 0 new epubs
+[2026-09-18 20:19:56] sleeping 6 min before next chunk
+[2026-09-18 20:26:13] pending: 3
+[2026-09-18 20:26:13] running chunk: 235,257,306
+[2026-09-18 20:32:40]   [03:27:25] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 20:32:40]   [03:32:40] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 20:32:40] chunk done: 0 new epubs
+[2026-09-18 20:32:40] sleeping 6 min before next chunk
+[2026-09-18 20:38:52] pending: 3
+[2026-09-18 20:38:53] running chunk: 235,257,306
+[2026-09-18 20:43:05] chunk done: 0 new epubs
+[2026-09-18 20:43:05] sleeping 5 min before next chunk
+[2026-09-18 20:48:19] pending: 3
+[2026-09-18 20:48:19] running chunk: 235,257,306
+[2026-09-18 20:53:44]   [03:49:06] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 20:53:44]   [03:53:44] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 20:53:45] chunk done: 0 new epubs
+[2026-09-18 20:53:45] sleeping 5 min before next chunk
+[2026-09-18 20:58:29] pending: 3
+[2026-09-18 20:58:29] running chunk: 235,257,306
+[2026-09-18 21:04:11]   [03:59:23] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 21:04:11]   [04:04:11] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 21:04:11] chunk done: 0 new epubs
+[2026-09-18 21:04:11] sleeping 5 min before next chunk
+[2026-09-18 21:08:59] pending: 3
+[2026-09-18 21:08:59] running chunk: 235,257,306
+[2026-09-18 21:15:45]   [04:10:13] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 21:15:45]   [04:15:45] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 21:15:45] chunk done: 0 new epubs
+[2026-09-18 21:15:45] sleeping 6 min before next chunk
+[2026-09-18 21:21:46] pending: 3
+[2026-09-18 21:21:46] running chunk: 235,257,306
+[2026-09-18 21:27:30]   [04:22:32] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 21:27:30]   [04:27:30] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 21:27:30] chunk done: 0 new epubs
+[2026-09-18 21:27:30] sleeping 7 min before next chunk
+[2026-09-18 21:34:27] pending: 3
+[2026-09-18 21:34:27] running chunk: 235,257,306
+[2026-09-18 21:38:12] chunk done: 0 new epubs
+[2026-09-18 21:38:12] sleeping 5 min before next chunk
+[2026-09-18 21:43:08] pending: 3
+[2026-09-18 21:43:08] running chunk: 235,257,306
+[2026-09-18 21:50:25]   [04:43:57] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 21:50:25] chunk done: 0 new epubs
+[2026-09-18 21:50:25] sleeping 6 min before next chunk
+[2026-09-18 21:56:13] pending: 3
+[2026-09-18 21:56:13] running chunk: 235,257,306
+[2026-09-18 22:01:59]   [04:57:10] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 22:01:59]   [05:01:58] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 22:01:59] chunk done: 0 new epubs
+[2026-09-18 22:01:59] sleeping 5 min before next chunk
+[2026-09-18 22:06:57] pending: 3
+[2026-09-18 22:06:57] running chunk: 235,257,306
+[2026-09-18 22:12:09]   [05:07:44] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 22:12:09]   [05:12:09] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 22:12:09] chunk done: 0 new epubs
+[2026-09-18 22:12:09] sleeping 6 min before next chunk
+[2026-09-18 22:18:05] pending: 3
+[2026-09-18 22:18:05] running chunk: 235,257,306
+[2026-09-18 22:24:10]   [05:19:03] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 22:24:10]   [05:24:09] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 22:24:10] chunk done: 0 new epubs
+[2026-09-18 22:24:10] sleeping 5 min before next chunk
+[2026-09-18 22:28:54] pending: 3
+[2026-09-18 22:28:54] running chunk: 235,257,306
+[2026-09-18 22:34:36]   [05:29:51] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 22:34:36]   [05:34:36] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 22:34:36] chunk done: 0 new epubs
+[2026-09-18 22:34:36] sleeping 4 min before next chunk
+[2026-09-18 22:38:54] pending: 3
+[2026-09-18 22:38:54] running chunk: 235,257,306
+[2026-09-18 22:44:57]   [05:39:49] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 22:44:57]   [05:44:57] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 22:44:57] chunk done: 0 new epubs
+[2026-09-18 22:44:57] sleeping 4 min before next chunk
+[2026-09-18 22:49:09] pending: 3
+[2026-09-18 22:49:09] running chunk: 235,257,306
+[2026-09-18 22:53:27] chunk done: 0 new epubs
+[2026-09-18 22:53:27] sleeping 6 min before next chunk
+[2026-09-18 22:59:46] pending: 3
+[2026-09-18 22:59:46] running chunk: 235,257,306
+[2026-09-18 23:05:54]   [06:00:37] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 23:05:54]   [06:05:54] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 23:05:54] chunk done: 0 new epubs
+[2026-09-18 23:05:54] sleeping 6 min before next chunk
+[2026-09-18 23:11:46] pending: 3
+[2026-09-18 23:11:46] running chunk: 235,257,306
+[2026-09-18 23:19:20]   [06:13:09] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 23:19:20]   [06:19:20] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 23:19:20] chunk done: 0 new epubs
+[2026-09-18 23:19:20] sleeping 6 min before next chunk
+[2026-09-18 23:25:19] pending: 3
+[2026-09-18 23:25:19] running chunk: 235,257,306
+[2026-09-18 23:31:04]   [06:26:12] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 23:31:04]   [06:31:04] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 23:31:05] chunk done: 0 new epubs
+[2026-09-18 23:31:05] sleeping 4 min before next chunk
+[2026-09-18 23:35:20] pending: 3
+[2026-09-18 23:35:20] running chunk: 235,257,306
+[2026-09-18 23:41:48]   [06:36:16] #235 download invalid: b'%PDF-1.6'
+[2026-09-18 23:41:48]   [06:41:48] #306 download invalid: b'%PDF-1.6'
+[2026-09-18 23:41:48] chunk done: 0 new epubs
+[2026-09-18 23:41:48] sleeping 7 min before next chunk
+[2026-09-18 23:48:33] === chunk loop end ===

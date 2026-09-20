@@ -37,6 +37,11 @@ Content lives in four kinds of folders:
 - `phil-submit` — drive venue portals via `browser-use:control-browser`, logging to
   `submissions.json`. Always re-verify the venue's live AI policy first; never submit to
   `ai-banned` venues.
+- `zh-translate` — the site's authoritative Chinese-translation prompt: Hong Kong Traditional
+  Chinese written the way Hong Kong philosophers write in Chinese (HK character forms 裏 着 羣
+  啓 衞, HK vocabulary, the HK–Taiwan academic philosophy lexicon, HK name transliterations with
+  the 間隔號 ·). Every `chinese_index.md`, `title_zh`, `summary_zh`, and `cover_zh_text` follows
+  it; invoke as `/zh-translate <document>`.
 
 `.agents/skills/` also holds the owner's philosophy research toolkit (not part of the
 submission pipeline). Nine modes invoked by slash name and combinable (`/map + /socratic`):
@@ -109,9 +114,14 @@ it really is.**
   `knowledge-base`, `research`.
 - Chinese translations live in the same document folder with a `chinese_` prefix on the
   filename: `<folder>/<slug>/chinese_index.md`, first line `# 中文標題`. Translate into Hong
-  Kong Traditional Chinese at a final-year philosophy-student register: 「」 for quotes, 《》
-  for works, 〈〉 for articles, philosopher names in Chinese with the English in parentheses
-  on first mention. Keep reference lists in their original citation format.
+  Kong Traditional Chinese — a **complete, paragraph-faithful translation** (never a digest) at
+  a final-year philosophy-student register, using the wordings and phrases of Hong Kong
+  philosophers writing in Chinese: HK character forms (裏 着 羣 啓 衞 恆), HK general vocabulary
+  (機械人 軟件 網絡 質素 身分 透過), the HK–Taiwan academic philosophy lexicon (知識論 存有論
+  後設倫理學 對確 證成), HK name transliterations separated by the 間隔號 ·（U+00B7, never ・）.
+  The full, authoritative prompt is `.agents/skills/zh-translate/SKILL.md` — follow it for every
+  translation, retranslation, and review, including titles and summaries (`title_zh`,
+  `summary_zh`, `cover_zh_text`).
 - Chinese cover images: `chinese_cover.png` in the same folder — the same scene as the English
   cover with the human-readable words translated into Chinese (background words may stay
   English). If image generation is unavailable, do NOT create placeholder files: list the

@@ -18,7 +18,7 @@ Karl Popper radicalized a related idea in his philosophy of science. For Popper,
 
 Generative AI fits remarkably well into this conception of philosophy. An AI may generate twenty possible objections to an argument in seconds. It may expose an ambiguity that the philosopher failed to notice or propose an alternative distinction that would have taken weeks of reading to discover independently. If philosophy is fundamentally concerned with improving arguments, refusing such assistance merely because its source is artificial begins to look arbitrary.
 
-The philosopher Andy Clark has recently pushed this point further. Clark argues that human beings have always constructed hybrid cognitive systems using notebooks, diagrams, language, calculators, search engines, and other external resources. Generative AI represents a dramatic expansion of this tendency rather than an entirely alien intrusion into cognition. Human thinking has never been confined neatly inside the skull. citeturn597662search2turn597662search3
+The philosopher Andy Clark has recently pushed this point further. Clark argues that human beings have always constructed hybrid cognitive systems using notebooks, diagrams, language, calculators, search engines, and other external resources. Generative AI represents a dramatic expansion of this tendency rather than an entirely alien intrusion into cognition. Human thinking has never been confined neatly inside the skull.
 
 From this perspective, the complaint that “AI thought of it, not you” assumes exactly what needs to be demonstrated: that genuine human cognition must consist only of operations performed internally by the unaided biological brain.
 
@@ -72,7 +72,7 @@ If so, however, the accusation that “the AI wrote it, therefore it is not your
 
 Recent philosophy of AI is beginning to describe this intermediate territory more precisely.
 
-Xabier Barandiaran and Marta Pérez-Verdugo propose the concept of **generative midtended cognition**. Generative AI can introduce material that was not fully intended in advance by the human, yet the human can subsequently evaluate, appropriate, reshape, and incorporate that contribution into an intentional cognitive process. The resulting thought is therefore not straightforwardly internally generated, but neither is it simply an alien product passively received from outside. citeturn597662search6
+Xabier Barandiaran and Marta Pérez-Verdugo propose the concept of **generative midtended cognition**. Generative AI can introduce material that was not fully intended in advance by the human, yet the human can subsequently evaluate, appropriate, reshape, and incorporate that contribution into an intentional cognitive process. The resulting thought is therefore not straightforwardly internally generated, but neither is it simply an alien product passively received from outside.
 
 This resembles ordinary intellectual life more than we may initially admit.
 
@@ -92,9 +92,9 @@ The important question therefore becomes not simply **where an idea first appear
 
 An overly optimistic account nevertheless faces an important objection.
 
-Louis Loock has argued that intelligent technologies may not merely extend cognition but **extract** cognitive capacities from us. A tool that repeatedly performs a task may eventually reduce the user's ability to perform that task independently. citeturn597662search5
+Louis Loock has argued that intelligent technologies may not merely extend cognition but **extract** cognitive capacities from us. A tool that repeatedly performs a task may eventually reduce the user's ability to perform that task independently.
 
-Jeffrey Maynes develops a related concern about generative AI and cognitive offloading. He warns of the possibility of a critical-thinking “death spiral”: increased dependence on AI weakens critical-thinking ability, and weakened critical-thinking ability then makes users less capable of judging when AI should or should not be trusted, producing still greater dependence. citeturn597662search1
+Jeffrey Maynes develops a related concern about generative AI and cognitive offloading. He warns of the possibility of a critical-thinking “death spiral”: increased dependence on AI weakens critical-thinking ability, and weakened critical-thinking ability then makes users less capable of judging when AI should or should not be trusted, producing still greater dependence.
 
 This objection is stronger than the simple claim that using AI is intellectually dishonest.
 
@@ -118,7 +118,7 @@ Therefore the relevant distinction cannot simply be between **AI use and non-AI 
 
 A further complication concerns authorship itself.
 
-René van Woudenberg, Chris Ranalli, and Daniel Bracker argue that current systems such as ChatGPT should not straightforwardly be regarded as authors. Authorship involves more than generating sequences of words. Authors normally possess intentions and beliefs, make assertions, and can be held responsible for what they say. Current language models do not obviously participate in these normative practices in the relevant way. citeturn597662search0
+René van Woudenberg, Chris Ranalli, and Daniel Bracker argue that current systems such as ChatGPT should not straightforwardly be regarded as authors. Authorship involves more than generating sequences of words. Authors normally possess intentions and beliefs, make assertions, and can be held responsible for what they say. Current language models do not obviously participate in these normative practices in the relevant way.
 
 But denying that AI is an author does not automatically establish that the human user is the sole author.
 

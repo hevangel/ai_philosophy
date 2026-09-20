@@ -36,6 +36,28 @@ def docker_exec_stdin(script: str, args: str = "", timeout: int = 7200):
                           timeout=timeout, shell=False)
 
 
+def ensure_container_support():
+    """The flow reads /tmp/libgen/books.json, and container restarts wipe /tmp.
+    Without this check a dead container fails every chunk instantly with a
+    FileNotFoundError that the log filter used to swallow."""
+    chk = subprocess.run(
+        ["docker", "exec", CONTAINER, "sh", "-c",
+         "test -f /tmp/libgen/books.json && echo ok"],
+        capture_output=True, text=True, shell=False, timeout=60)
+    if (chk.stdout or "").strip() == "ok":
+        return
+    log("container /tmp/libgen/books.json missing (container restarted?) — re-uploading")
+    payload = (HERE / "books.json").read_bytes()
+    up = subprocess.run(
+        ["docker", "exec", "-i", CONTAINER, "sh", "-c",
+         "mkdir -p /tmp/libgen && cat > /tmp/libgen/books.json"],
+        input=payload, capture_output=True, shell=False, timeout=60)
+    if up.returncode != 0:
+        log(f"re-upload failed rc={up.returncode}: {(up.stderr or '')[:120]}")
+    else:
+        log("re-uploaded books.json to container")
+
+
 def main():
     chunk_size = int(sys.argv[1]) if len(sys.argv) > 1 else 25
     max_hours = float(sys.argv[2]) if len(sys.argv) > 2 else 24.0
@@ -59,11 +81,14 @@ def main():
         nums = ",".join(str(b["num"]) for b in chunk)
         log(f"running chunk: {nums}")
         try:
+            ensure_container_support()
             script = (HERE / "camoufox_flow.py").read_text(encoding="utf-8")
             r = docker_exec_stdin(script, nums)
             out = (r.stdout or "") + (r.stderr or "")
             for line in out.splitlines():
-                if "OK ->" in line or "no epub" in line or "no GET" in line or "no mirror" in line or "invalid" in line:
+                if ("OK ->" in line or "no epub" in line or "no GET" in line
+                        or "no mirror" in line or "invalid" in line
+                        or "rror" in line or "Traceback" in line):
                     log("  " + line.strip())
         except subprocess.TimeoutExpired:
             log("chunk timed out; continuing with what landed")
@@ -132,8 +157,14 @@ def main():
                 log(f"  #{num:03d} extraction failed, keeping file in container")
         # merge remaining flow state (no_result / pending_retry / failed markers)
         for k, v in flow_state.items():
-            if isinstance(v, dict) and v.get("status") != "done":
-                batch_state.setdefault(k, v)
+            if not isinstance(v, dict) or v.get("status") == "done":
+                continue
+            cur = batch_state.get(k)
+            # a no_result verdict outranks an earlier transient pending_retry,
+            # so permanently-absent books stop being retried every chunk
+            if cur is None or (v.get("status") == "no_result"
+                               and cur.get("status") == "pending_retry"):
+                batch_state[k] = v
         (HERE / "batch_state.json").write_text(
             json.dumps(batch_state, indent=2, ensure_ascii=False), encoding="utf-8")
         # clean container download dir: only files successfully extracted

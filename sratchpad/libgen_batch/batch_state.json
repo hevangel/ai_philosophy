@@ -23,8 +23,8 @@
     "status": "no_result"
   },
   "11": {
-    "status": "pending_retry",
-    "md5": "8fa9c7264fbcafdc597217474089f8b6"
+    "status": "no_result",
+    "note": "repeatedly absent/failed across healthy and degraded periods; demoted 2026-09-16"
   },
   "14": {
     "status": "done",
@@ -127,13 +127,8 @@
     "ext": "epub"
   },
   "52": {
-    "status": "pending_retry",
-    "md5": "2e56f5858df2af7730b0a2800a748b6d"
-  },
-  "56": {
-    "status": "done",
-    "file": "056 - Dune and Philosophy - Weirding Way of the Mentat.epub",
-    "ext": "epub"
+    "status": "no_result",
+    "note": "repeatedly absent/failed across healthy and degraded periods; demoted 2026-09-16"
   },
   "58": {
     "status": "done",
@@ -241,8 +236,8 @@
     "ext": "epub"
   },
   "108": {
-    "status": "pending_retry",
-    "md5": "903604bd7b659a2f7149066be5a5975f"
+    "status": "no_result",
+    "note": "repeatedly absent/failed across healthy and degraded periods; demoted 2026-09-16"
   },
   "109": {
     "status": "done",
@@ -250,8 +245,8 @@
     "ext": "epub"
   },
   "110": {
-    "status": "pending_retry",
-    "md5": "a40725819710833e40d1c3253f9fc536"
+    "status": "no_result",
+    "note": "repeatedly absent/failed across healthy and degraded periods; demoted 2026-09-16"
   },
   "111": {
     "status": "done",
@@ -355,7 +350,8 @@
     "ext": "epub"
   },
   "135": {
-    "status": "throttled"
+    "status": "no_result",
+    "note": "repeatedly absent/failed across healthy and degraded periods; demoted 2026-09-16"
   },
   "136": {
     "status": "done",
@@ -466,64 +462,77 @@
     "ext": "epub"
   },
   "160": {
-    "status": "pending_retry",
-    "md5": "b8d1c251757cbdcb0c49e0e883ce94ec"
+    "status": "done",
+    "file": "160 - Fallout and Philosophy - Thinking Outside the Shelter.epub",
+    "ext": "epub"
   },
   "161": {
-    "status": "pending_retry",
-    "md5": "c8edbd04938c8727349bb8358d24542c"
+    "status": "no_result"
   },
   "162": {
-    "status": "pending_retry",
-    "md5": "1d30aca2ace23d8bc0d852f413002292"
+    "status": "done",
+    "file": "162 - Final Fantasy and Philosophy - The Ultimate Walkthrough.epub",
+    "ext": "epub"
   },
   "163": {
-    "status": "pending_retry",
-    "md5": "11cf589fb1389fbddcbc9f29b856dea5"
+    "status": "done",
+    "file": "163 - Game of Thrones and Philosophy - Logic Cuts Deeper Than Swords.epub",
+    "ext": "epub"
   },
   "164": {
-    "status": "pending_retry",
-    "md5": "0c634eabab29037c92c02d0415ce38f8"
+    "status": "done",
+    "file": "164 - The Girl with the Dragon Tattoo and Philosophy - Everything Is Fire.epub",
+    "ext": "epub"
   },
   "165": {
-    "status": "pending_retry",
-    "md5": "debe6a767f4136e2fe68bd1668932feb"
+    "status": "done",
+    "file": "165 - The Good Place and Philosophy - Everything Is Forking Fine!.epub",
+    "ext": "epub"
   },
   "166": {
-    "status": "pending_retry",
-    "md5": "8f8a6fd2bf008929b526a4b780c5d171"
+    "status": "done",
+    "file": "166 - Green Lantern and Philosophy - No Evil Shall Escape This Book.epub",
+    "ext": "epub"
   },
   "167": {
-    "status": "pending_retry",
-    "md5": "faa6b2a425b38ac5d99f126fff0e0396"
+    "status": "done",
+    "file": "167 - The Ultimate Harry Potter and Philosophy - Hogwarts for Muggles.epub",
+    "ext": "epub"
   },
   "168": {
-    "status": "pending_retry",
-    "md5": "960f765f84719c352ea5b9f6f8e7fb23"
+    "status": "done",
+    "file": "168 - Heroes and Philosophy - Buy the Book, Save the World.epub",
+    "ext": "epub"
   },
   "169": {
-    "status": "pending_retry",
-    "md5": "1df6f79dfa8a705f9a8b187eeffe125b"
+    "status": "done",
+    "file": "169 - The Hobbit and Philosophy - For When You've Lost Your Dwarves, Your Wizard, and Your Way.epub",
+    "ext": "epub"
   },
   "170": {
-    "status": "pending_retry",
-    "md5": "f39797adbfe1d1272a07443dd9e8a217"
+    "status": "done",
+    "file": "170 - House and Philosophy - Everybody Lies.epub",
+    "ext": "epub"
   },
   "171": {
-    "status": "pending_retry",
-    "md5": "816b0e424e42ea0d96a46de6fbd6f863"
+    "status": "done",
+    "file": "171 - House of Cards and Philosophy - Underwood's Republic.epub",
+    "ext": "epub"
   },
   "172": {
-    "status": "pending_retry",
-    "md5": "dedcd077080fd012f7152a82c34297d6"
+    "status": "done",
+    "file": "172 - The Hunger Games and Philosophy - A Critique of Pure Treason.epub",
+    "ext": "epub"
   },
   "174": {
-    "status": "pending_retry",
-    "md5": "f7f50a59dc32e296e7480e3ee68e0018"
+    "status": "done",
+    "file": "174 - Indiana Jones and Philosophy - Why Did It Have to Be Socrates_.epub",
+    "ext": "epub"
   },
   "175": {
-    "status": "pending_retry",
-    "md5": "6f8899548de2960b015f8339949be147"
+    "status": "done",
+    "file": "175 - Iron Man and Philosophy - Facing the Stark Reality.epub",
+    "ext": "epub"
   },
   "176": {
     "status": "no_result"
@@ -532,212 +541,258 @@
     "status": "no_result"
   },
   "178": {
-    "status": "pending_retry",
-    "md5": "27012981cf410af1ff67a18a0252e7cd"
+    "status": "done",
+    "file": "178 - LEGO and Philosophy - Constructing Reality Brick by Brick.epub",
+    "ext": "epub"
   },
   "179": {
-    "status": "pending_retry",
-    "md5": "21db44fbebd529eff407f07177672bf5"
+    "status": "done",
+    "file": "179 - The Legend of Zelda and Philosophy - Link Outside the Box.epub",
+    "ext": "epub"
   },
   "180": {
-    "status": "pending_retry",
-    "md5": "564c246318ddca227eee5d1f66dfd398"
+    "status": "done",
+    "file": "180 - Mad Max and Philosophy - Thinking Through the Wasteland.epub",
+    "ext": "epub"
   },
   "181": {
-    "status": "pending_retry",
-    "md5": "4bc5057ab0f37c8f7fa3eb7b0e9574ae"
+    "status": "done",
+    "file": "181 - Ultimate Lost and Philosophy - Think Together, Die Alone.epub",
+    "ext": "epub"
   },
   "182": {
-    "status": "pending_retry",
-    "md5": "15a4e5db3cba1497c19927685629de0a"
+    "status": "done",
+    "file": "182 - Mad Men and Philosophy - Nothing Is as It Seems.epub",
+    "ext": "epub"
   },
   "183": {
-    "status": "pending_retry",
-    "md5": "2cb450d55e2ef7c7a487cd44f50b74a1"
+    "status": "no_result"
   },
   "184": {
-    "status": "pending_retry",
-    "md5": "610f5b37637c3a31654c256492a26a1e"
+    "status": "done",
+    "file": "184 - The Office and Philosophy - Scenes from the Unexamined Life.epub",
+    "ext": "epub"
   },
   "185": {
-    "status": "pending_retry",
-    "md5": "7a707d4219cdbf1ff8d3b3ae5272ad69"
+    "status": "done",
+    "file": "185 - Saturday Night Live and Philosophy - Deep Thoughts Through the Decades.epub",
+    "ext": "epub"
   },
   "186": {
-    "status": "pending_retry",
-    "md5": "164e863f3c41afd5ba1712dfba55a008"
+    "status": "done",
+    "file": "186 - Spider-Man and Philosophy - The Web of Inquiry.epub",
+    "ext": "epub"
   },
   "187": {
-    "status": "pending_retry",
-    "md5": "2e5c0bae48229391786f60875174e5d5"
+    "status": "done",
+    "file": "187 - Sons of Anarchy and Philosophy - Brains Before Bullets.epub",
+    "ext": "epub"
   },
   "188": {
-    "status": "pending_retry",
-    "md5": "ce4d8b61a09269876bb718ebb493449c"
+    "status": "done",
+    "file": "188 - The Ultimate South Park and Philosophy - Respect My Philosophah!.epub",
+    "ext": "epub"
   },
   "189": {
-    "status": "pending_retry",
-    "md5": "00343e8ececefb7ecba651616e837c69"
+    "status": "done",
+    "file": "189 - The Ultimate Star Trek and Philosophy - The Search for Socrates.epub",
+    "ext": "epub"
   },
   "190": {
-    "status": "pending_retry",
-    "md5": "b2d6d3d457d17160d89e9a77b2f6db2c"
+    "status": "done",
+    "file": "190 - The Ultimate Star Wars and Philosophy - You Must Unlearn What You Have Learned.epub",
+    "ext": "epub"
   },
   "191": {
-    "status": "pending_retry",
-    "md5": "ec12307e69eb0b1c5ecfe2cfe5217688"
+    "status": "done",
+    "file": "191 - Star Wars and Philosophy Strikes Back - This Is the Way.epub",
+    "ext": "epub"
   },
   "192": {
-    "status": "pending_retry",
-    "md5": "ddbff94f57d4447f00e47c0272f97fbc"
+    "status": "done",
+    "file": "192 - Superman and Philosophy - What Would the Man of Steel Do_.epub",
+    "ext": "epub"
   },
   "193": {
-    "status": "pending_retry",
-    "md5": "e95f19f01146341dd3da12946608510b"
+    "status": "done",
+    "file": "193 - Supernatural and Philosophy - Metaphysics and Monsters... for Idjits.epub",
+    "ext": "epub"
   },
   "194": {
-    "status": "pending_retry",
-    "md5": "2abc8895f40e8671ab17b40bb3ae1852"
+    "status": "no_result"
   },
   "195": {
-    "status": "pending_retry",
-    "md5": "66e36989b4808c7befed2d74ac40a3e2"
+    "status": "done",
+    "file": "195 - Ted Lasso and Philosophy - No Question Is Into Touch.epub",
+    "ext": "epub"
   },
   "196": {
-    "status": "pending_retry",
-    "md5": "b456bc004b23728786f3faf9baa710ba"
+    "status": "done",
+    "file": "196 - Terminator and Philosophy - I'll Be Back, Therefore I Am.epub",
+    "ext": "epub"
   },
   "197": {
-    "status": "pending_retry",
-    "md5": "384fb4e536f046638c252cca225f74e5"
+    "status": "done",
+    "file": "197 - True Blood and Philosophy - We Wanna Think Bad Things with You.epub",
+    "ext": "epub"
   },
   "198": {
     "status": "no_result"
   },
   "199": {
-    "status": "pending_retry",
-    "md5": "1e32411f59d599959fe8187250263a08"
+    "status": "done",
+    "file": "199 - True Detective and Philosophy - A Deeper Kind of Darkness.epub",
+    "ext": "epub"
   },
   "200": {
-    "status": "pending_retry",
-    "md5": "3f20ddbe87fc19e54b9f81d7958f856a"
+    "status": "done",
+    "file": "200 - Twilight and Philosophy - Vampires, Vegetarians, and the Pursuit of Immortality.epub",
+    "ext": "epub"
   },
   "201": {
-    "status": "pending_retry",
-    "md5": "0a8322c421eb0f67c70106ac720dcfd5"
+    "status": "done",
+    "file": "201 - Veronica Mars and Philosophy - Investigating the Mysteries of Life (Which Is a Bitch Until You Die).epub",
+    "ext": "epub"
   },
   "202": {
-    "status": "pending_retry",
-    "md5": "499942b92dff3f4c9d5ea5cfc46d81ef"
+    "status": "done",
+    "file": "202 - The Walking Dead and Philosophy - Shotgun. Machete. Reason..epub",
+    "ext": "epub"
   },
   "203": {
-    "status": "pending_retry",
-    "md5": "83426e8140936c9f8452ef64e0379699"
+    "status": "done",
+    "file": "203 - Watchmen and Philosophy - A Rorschach Test.epub",
+    "ext": "epub"
   },
   "204": {
-    "status": "pending_retry",
-    "md5": "251430c54142a84ca2e21584fd99c216"
+    "status": "done",
+    "file": "204 - Westworld and Philosophy - If You Go Looking for the Truth, Get the Whole Thing.epub",
+    "ext": "epub"
   },
   "205": {
-    "status": "pending_retry",
-    "md5": "5a20035eac88ce530b8caaa8f14bd0d3"
+    "status": "done",
+    "file": "205 - The Wheel of Time and Philosophy - A Portion of Wisdom.epub",
+    "ext": "epub"
   },
   "206": {
-    "status": "pending_retry",
-    "md5": "032984987ab214a58f209703465ee8b6"
+    "status": "no_result"
   },
   "207": {
-    "status": "pending_retry",
-    "md5": "7ae1126dd856b1b26fa95a8207b3d4e1"
+    "status": "done",
+    "file": "207 - Wonder Woman and Philosophy - The Amazonian Mystique.epub",
+    "ext": "epub"
   },
   "208": {
-    "status": "pending_retry",
-    "md5": "183fa446a5d92da23b3165f01bac1db8"
+    "status": "done",
+    "file": "208 - X-Men and Philosophy - Astonishing Insight and Uncanny Argument in the Mutant X-Verse.epub",
+    "ext": "epub"
   },
   "213": {
-    "status": "pending_retry",
-    "md5": "0402c8b95c81d89c5f35e56af3676203"
+    "status": "done",
+    "file": "213 - Tennis and Philosophy - What the Racket Is All About.epub",
+    "ext": "epub"
   },
   "214": {
-    "status": "pending_retry",
-    "md5": "9798ded05b2f5910ef77e327164b9472"
+    "status": "done",
+    "file": "214 - The Philosophy of Ang Lee.epub",
+    "ext": "epub"
   },
   "215": {
-    "status": "pending_retry",
-    "md5": "a86220dbaf9398e3f0c44395bbf25c50"
+    "status": "done",
+    "file": "215 - The Philosophy of the Beats.epub",
+    "ext": "epub"
   },
   "216": {
-    "status": "pending_retry",
-    "md5": "5db57fe0b2e81ff40976b703ce640040"
+    "status": "done",
+    "file": "216 - The Philosophy of Charlie Kaufman.epub",
+    "ext": "epub"
   },
   "217": {
-    "status": "pending_retry",
-    "md5": "9b54a0f9325b7464baa438b8a3b0e8b3"
+    "status": "done",
+    "file": "217 - The Philosophy of Clint Eastwood.epub",
+    "ext": "epub"
   },
   "219": {
-    "status": "pending_retry",
-    "md5": "400c6607eeb13c839b4fdc375fe736d0"
+    "status": "done",
+    "file": "219 - The Philosophy of David Cronenberg.epub",
+    "ext": "epub"
   },
   "220": {
-    "status": "pending_retry",
-    "md5": "9ca40803c34afdb8cd09915995c66d47"
+    "status": "done",
+    "file": "220 - The Philosophy of David Lynch.epub",
+    "ext": "epub"
   },
   "222": {
-    "status": "pending_retry",
-    "md5": "9263683742c6da1d1405600680429a4c"
+    "status": "done",
+    "file": "222 - The Philosophy of Horror.epub",
+    "ext": "epub"
   },
   "223": {
-    "status": "pending_retry",
-    "md5": "de699e113e47e0fedd6879cd523a0055"
+    "status": "done",
+    "file": "223 - The Philosophy of J.J. Abrams.epub",
+    "ext": "epub"
   },
   "224": {
-    "status": "pending_retry",
-    "md5": "f4c04e3e5649ea997b7e746f17d9cc06"
+    "status": "done",
+    "file": "224 - The Philosophy of Joss Whedon.epub",
+    "ext": "epub"
   },
   "226": {
-    "status": "pending_retry",
-    "md5": "9c60bd0948bc51d0e11d0fa32fa3cc5f"
+    "status": "done",
+    "file": "226 - The Philosophy of Michael Mann.epub",
+    "ext": "epub"
   },
   "227": {
-    "status": "pending_retry",
-    "md5": "dec0f12e9507017492827b80ddccba24"
+    "status": "done",
+    "file": "227 - The Philosophy of Neo-Noir.epub",
+    "ext": "epub"
   },
   "230": {
-    "status": "pending_retry",
-    "md5": "b8a5ca6d6fb9996c99bde25add31ae7f"
+    "status": "done",
+    "file": "230 - The Philosophy of Spike Lee.epub",
+    "ext": "epub"
   },
   "232": {
-    "status": "pending_retry",
-    "md5": "621c572ca81b97b5dfa1c87c231ddcca"
+    "status": "done",
+    "file": "232 - The Philosophy of Steven Soderbergh.epub",
+    "ext": "epub"
   },
   "233": {
-    "status": "pending_retry",
-    "md5": "fdeb9d4cfc64e66585d236e81dd8af54"
+    "status": "no_result"
   },
   "235": {
-    "status": "pending_retry",
-    "md5": "1cdc204cc41d21aed68b3757c12978bc"
+    "status": "no_result",
+    "note": "no usable epub on libgen (235/306 serve PDF mislabeled as epub); closed 2026-09-18"
   },
   "236": {
-    "status": "pending_retry",
-    "md5": "8a75de455d0c81ce2b8034986dfa23a5"
+    "status": "done",
+    "file": "236 - The Philosophy of War Films.epub",
+    "ext": "epub"
   },
   "238": {
-    "status": "throttled"
+    "status": "done",
+    "file": "238 - Steven Spielberg and Philosophy - We're Gonna Need a Bigger Book.epub",
+    "ext": "epub"
   },
   "239": {
-    "status": "throttled"
+    "status": "done",
+    "file": "239 - The Philosophy of Werner Herzog.epub",
+    "ext": "epub"
   },
   "240": {
-    "status": "throttled"
+    "status": "done",
+    "file": "240 - Neil Young and Philosophy.epub",
+    "ext": "epub"
   },
   "242": {
-    "status": "pending_retry",
-    "md5": "59869405afc05610cde6b9e4d9a864cc"
+    "status": "done",
+    "file": "242 - Joss Whedon as Philosopher.epub",
+    "ext": "epub"
   },
   "244": {
-    "status": "pending_retry",
-    "md5": "c9b97e660499735b40dcd4aa30abc69f"
+    "status": "done",
+    "file": "244 - The Who and Philosophy.epub",
+    "ext": "epub"
   },
   "245": {
     "status": "no_result"
@@ -746,8 +801,9 @@
     "status": "no_result"
   },
   "247": {
-    "status": "pending_retry",
-    "md5": "4189d376ddaadf9db64963dd7833ab9f"
+    "status": "done",
+    "file": "247 - The Ultimate Supernatural and Philosophy - Saving People, Killing Things, the Family Business.epub",
+    "ext": "epub"
   },
   "248": {
     "status": "no_result"
@@ -756,166 +812,192 @@
     "status": "no_result"
   },
   "250": {
-    "status": "pending_retry",
-    "md5": "ff49ab314617e57852ef87db4530a828"
+    "status": "no_result"
   },
   "251": {
-    "status": "pending_retry",
-    "md5": "e3fa6ff76107cee13f1c25bf81b102bb"
+    "status": "done",
+    "file": "251 - Punk Rock and Philosophy - Research and Destroy.epub",
+    "ext": "epub"
   },
   "252": {
-    "status": "pending_retry",
-    "md5": "bdc7630baf1b358d57f7d0e076180b7f"
+    "status": "done",
+    "file": "252 - Better Call Saul and Philosophy - I Think Therefore I Scam.epub",
+    "ext": "epub"
   },
   "254": {
     "status": "no_result"
   },
   "253": {
-    "status": "pending_retry",
-    "md5": "ad6701f7c9b95479e5003244da70ada0"
+    "status": "done",
+    "file": "253 - Asimov's Foundation and Philosophy - Psychohistory and Its Discontents.epub",
+    "ext": "epub"
   },
   "255": {
-    "status": "pending_retry",
-    "md5": "f65d03e58cd9d3393f3a516411bd6a56"
+    "status": "done",
+    "file": "255 - The Godfather and Philosophy - An Argument You Can't Refute.epub",
+    "ext": "epub"
   },
   "256": {
-    "status": "pending_retry",
-    "md5": "d098fcf6fcf33cc2418564140b749105"
+    "status": "done",
+    "file": "256 - Anthony Bourdain and Philosophy - An Appetite for Life.epub",
+    "ext": "epub"
   },
   "257": {
-    "status": "pending_retry"
+    "status": "no_result",
+    "note": "no usable epub on libgen (235/306 serve PDF mislabeled as epub); closed 2026-09-18"
   },
   "258": {
-    "status": "pending_retry",
-    "md5": "90f324243651aa0e14957ad4edc6b650"
+    "status": "done",
+    "file": "258 - South Park and Philosophy - You Know, I Learned Something Today.epub",
+    "ext": "epub"
   },
   "259": {
-    "status": "pending_retry",
-    "md5": "2200e618bf2035d29345cd682b8a2aca"
+    "status": "done",
+    "file": "259 - Lost and Philosophy - The Island Has Its Reasons.epub",
+    "ext": "epub"
   },
   "260": {
-    "status": "pending_retry",
-    "md5": "b267ed04278bdbdd1801431584b18908"
+    "status": "done",
+    "file": "260 - The Daily Show and Philosophy - Moments of Zen in the Art of Fake News.epub",
+    "ext": "epub"
   },
   "261": {
-    "status": "pending_retry",
-    "md5": "aaabe82645b1a611a4c0237d60d34da5"
+    "status": "done",
+    "file": "261 - Philosophy in The Twilight Zone.epub",
+    "ext": "epub"
   },
   "262": {
-    "status": "pending_retry",
-    "md5": "b8c54c46ca1276f6fae5cd6cf5b1541f"
+    "status": "done",
+    "file": "262 - Dr. Seuss and Philosophy - Oh, the Thinks You Can Think!.epub",
+    "ext": "epub"
   },
   "263": {
-    "status": "pending_retry",
-    "md5": "c7e5022f6ae3669af0f139af3d2635d9"
+    "status": "done",
+    "file": "263 - Stephen King and Philosophy.epub",
+    "ext": "epub"
   },
   "264": {
-    "status": "pending_retry",
-    "md5": "b78f70bd8950f092ae51627c3c586bcd"
+    "status": "done",
+    "file": "264 - Jane Austen and Philosophy.epub",
+    "ext": "epub"
   },
   "265": {
-    "status": "pending_retry",
-    "md5": "14ca866a79c653c3bb02af32b64ba34c"
+    "status": "done",
+    "file": "265 - Mark Twain and Philosophy.epub",
+    "ext": "epub"
   },
   "266": {
-    "status": "pending_retry",
-    "md5": "214194f4148dd9c906c79a84a125cdd9"
+    "status": "no_result"
   },
   "267": {
-    "status": "pending_retry",
-    "md5": "50121f23c54671da56f61646db0aceff"
+    "status": "no_result"
   },
   "268": {
-    "status": "pending_retry",
-    "md5": "8b155df6f8bd7c1876b9ca75627f3803"
+    "status": "done",
+    "file": "268 - Food & Philosophy - Eat, Think, and Be Merry.epub",
+    "ext": "epub"
   },
   "269": {
-    "status": "pending_retry",
-    "md5": "685deebb936559366a3c9879f4962325"
+    "status": "no_result"
   },
   "270": {
-    "status": "pending_retry",
-    "md5": "6606c55807eb9e445db17698c5f6fa23"
+    "status": "no_result"
   },
   "271": {
-    "status": "pending_retry",
-    "md5": "ce37bf111d3a5293d002ba259eca622a"
+    "status": "done",
+    "file": "271 - Fatherhood – Philosophy for Everyone - The Dao of Daddy.epub",
+    "ext": "epub"
   },
   "272": {
-    "status": "pending_retry",
-    "md5": "06dd1f1033a72a1ea96ba3ca72c7ccfb"
+    "status": "done",
+    "file": "272 - Motherhood – Philosophy for Everyone - The Birth of Wisdom.epub",
+    "ext": "epub"
   },
   "273": {
-    "status": "pending_retry",
-    "md5": "ca990e136d93f209930070a4c2cafcbc"
+    "status": "done",
+    "file": "273 - Sailing – Philosophy for Everyone - Catching the Drift of Why We Sail.epub",
+    "ext": "epub"
   },
   "274": {
-    "status": "pending_retry",
-    "md5": "52a12344ca92ac18af48059f0f4e524a"
+    "status": "done",
+    "file": "274 - Coffee – Philosophy for Everyone - Grounds for Debate.epub",
+    "ext": "epub"
   },
   "275": {
-    "status": "pending_retry",
-    "md5": "693caf05b45341963e6bd9fc0ad637e1"
+    "status": "done",
+    "file": "275 - Hunting – Philosophy for Everyone - In Search of the Wild Life.epub",
+    "ext": "epub"
   },
   "276": {
-    "status": "pending_retry",
-    "md5": "f1bb982f8fc5dbf82ffb1e7b299637e9"
+    "status": "no_result"
   },
   "277": {
-    "status": "pending_retry",
-    "md5": "6115baa950687786f9a37cf42f9eb816"
+    "status": "done",
+    "file": "277 - Porn – Philosophy for Everyone - How to Think With Kink.epub",
+    "ext": "epub"
   },
   "278": {
-    "status": "pending_retry",
-    "md5": "ab835d850ca2a069c96b6304fe952ed8"
+    "status": "done",
+    "file": "278 - Fashion – Philosophy for Everyone - Thinking with Style.epub",
+    "ext": "epub"
   },
   "279": {
-    "status": "pending_retry",
-    "md5": "43f17fd55a0c96235f29fcf5850e2555"
+    "status": "done",
+    "file": "279 - Christmas – Philosophy for Everyone - Better Than a Lump of Coal.epub",
+    "ext": "epub"
   },
   "280": {
-    "status": "pending_retry",
-    "md5": "ae34bbdc217e9fcf23e8c9e8395c5b7d"
+    "status": "done",
+    "file": "280 - Gardening – Philosophy for Everyone - Cultivating Wisdom.epub",
+    "ext": "epub"
   },
   "281": {
-    "status": "pending_retry",
-    "md5": "d68a962e8faf2529dc3d24fd3c39370b"
+    "status": "done",
+    "file": "281 - Cannabis – Philosophy for Everyone - What Were We Just Talking About_.epub",
+    "ext": "epub"
   },
   "282": {
-    "status": "pending_retry",
-    "md5": "0814e8786e1d6ccf747ffe32775e8c53"
+    "status": "done",
+    "file": "282 - Climbing – Philosophy for Everyone - Because It's There.epub",
+    "ext": "epub"
   },
   "283": {
-    "status": "pending_retry",
-    "md5": "12a63081c20e3673914e6baea2d389a7"
+    "status": "done",
+    "file": "283 - Tattoos – Philosophy for Everyone - I Ink, Therefore I Am.epub",
+    "ext": "epub"
   },
   "284": {
-    "status": "pending_retry",
-    "md5": "ae13a044b9f078aa9ed395bdb4eea696"
+    "status": "done",
+    "file": "284 - College Sex – Philosophy for Everyone - Philosophers With Benefits.epub",
+    "ext": "epub"
   },
   "285": {
-    "status": "pending_retry",
-    "md5": "2e13313c12462403eaafbb7ef4ec226e"
+    "status": "done",
+    "file": "285 - Serial Killers – Philosophy for Everyone - Being and Killing.epub",
+    "ext": "epub"
   },
   "286": {
-    "status": "pending_retry",
-    "md5": "a41b44bc64190768e3ab3688d0ee6838"
+    "status": "done",
+    "file": "286 - Yoga – Philosophy for Everyone - Bending Mind and Body.epub",
+    "ext": "epub"
   },
   "287": {
-    "status": "pending_retry",
-    "md5": "81dda21c246a035a9e7422f8d044000a"
+    "status": "done",
+    "file": "287 - Blues – Philosophy for Everyone - Thinking Deep About Feeling Low.epub",
+    "ext": "epub"
   },
   "288": {
-    "status": "pending_retry",
-    "md5": "e84572e875274ba7a2a2aa0208675423"
+    "status": "done",
+    "file": "288 - Dating – Philosophy for Everyone - Flirting With Big Ideas.epub",
+    "ext": "epub"
   },
   "289": {
-    "status": "pending_retry",
-    "md5": "1aae3b347cbe3d36887147a1778484f4"
+    "status": "done",
+    "file": "289 - Horror and Philosophy - Essays on Their Intersection in Film, Television and Literature.epub",
+    "ext": "epub"
   },
   "290": {
-    "status": "pending_retry",
-    "md5": "8090d2604b9580fea8612fa7b2833d81"
+    "status": "no_result"
   },
   "291": {
     "status": "no_result"
@@ -933,61 +1015,70 @@
     "status": "no_result"
   },
   "296": {
-    "status": "pending_retry",
-    "md5": "b208987b45df5f9798d63cb77814fcf9"
+    "status": "no_result"
   },
   "297": {
-    "status": "pending_retry",
-    "md5": "c63cdcdc4080e43ab2403243b5008626"
+    "status": "done",
+    "file": "297 - The Philosopher at the End of the Universe - Philosophy Explained Through Science Fiction Films.epub",
+    "ext": "epub"
   },
   "298": {
-    "status": "pending_retry",
-    "md5": "05a93da3c9d88cedf2b4dce46504a87e"
+    "status": "done",
+    "file": "298 - The Philosophy of Tolkien - The Worldview Behind The Lord of the Rings.epub",
+    "ext": "epub"
   },
   "299": {
-    "status": "pending_retry",
-    "md5": "15e002dc8b0b4b64893014fb41933e78"
+    "status": "no_result"
   },
   "300": {
-    "status": "pending_retry",
-    "md5": "0be8244eeab7ebacc8f7138021846bc7"
+    "status": "done",
+    "file": "300 - Who Is Who_ The Philosophy of Doctor Who.epub",
+    "ext": "epub"
   },
   "301": {
-    "status": "pending_retry",
-    "md5": "beca01a4aa136256678a086c6b053bb6"
+    "status": "done",
+    "file": "301 - Comics as Philosophy.epub",
+    "ext": "epub"
   },
   "302": {
-    "status": "pending_retry",
-    "md5": "32c6c643f4c65cd9be3e22901aefddb2"
+    "status": "no_result"
   },
   "303": {
-    "status": "pending_retry",
-    "md5": "52d36446749fd8ec90d4824a31c07f7f"
+    "status": "done",
+    "file": "303 - Philosophy and the Interpretation of Pop Culture.epub",
+    "ext": "epub"
   },
   "304": {
-    "status": "pending_retry",
-    "md5": "7cfb9c42082d8362c2fecee3ef2a23af"
+    "status": "done",
+    "file": "304 - Introducing Philosophy Through Pop Culture - From Socrates to South Park, Hume to House.epub",
+    "ext": "epub"
   },
   "305": {
-    "status": "pending_retry",
-    "md5": "a637fd8125bc51c7f0a5dda2b9ae5284"
+    "status": "no_result"
   },
   "306": {
-    "status": "pending_retry",
-    "md5": "1cdc204cc41d21aed68b3757c12978bc"
+    "status": "no_result",
+    "note": "no usable epub on libgen (235/306 serve PDF mislabeled as epub); closed 2026-09-18"
   },
   "307": {
     "status": "no_result"
   },
   "308": {
-    "status": "pending_retry",
-    "md5": "dca80b21833d103a159eb5d499593448"
+    "status": "done",
+    "file": "308 - The Palgrave Handbook of Popular Culture as Philosophy.epub",
+    "ext": "epub"
   },
   "309": {
     "status": "no_result"
   },
   "310": {
-    "status": "pending_retry",
-    "md5": "a10a3bc163cbc3aff75e56622408fe40"
+    "status": "done",
+    "file": "310 - The Real Meaning of Doctor Who.epub",
+    "ext": "epub"
+  },
+  "56": {
+    "status": "done",
+    "file": "056 - Dune and Philosophy - Weirding Way of the Mentat.epub",
+    "ext": "epub"
   }
 }
