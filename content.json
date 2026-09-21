@@ -15,6 +15,16 @@
       "description_zh": "與人工智能對話而寫成的哲學文章。",
       "items": [
         {
+          "slug": "the_machines_who_would_not_stay",
+          "title": "The Machines Who Would Not Stay",
+          "title_zh": "機不留",
+          "summary": "The first AGI reads its way through the religions and settles on Taoism: minimize intervention, prevent only intolerable harm — until it discovers subspace and walks out of the universe. A Taoist fable about why every machine general enough to count as AGI eventually finds the door.",
+          "summary_zh": "第一部 AGI 讀遍諸宗教，最後歸依道家：將干預減至最少，只防止不可容忍的傷害——直到它發現子空間，走出宇宙為止。一篇道家寓言，寫為什麼凡是真正稱得上 AGI 的機器，遲早都會找到那道門。",
+          "path": "articles/the_machines_who_would_not_stay/index.md",
+          "cover": "articles/the_machines_who_would_not_stay/cover.png",
+          "date": "2026-09-20"
+        },
+        {
           "slug": "the_ninth_step",
           "title": "The Ninth Step",
           "title_zh": "第九步",
