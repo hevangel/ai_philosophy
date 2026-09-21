@@ -1,0 +1,14 @@
+# ai_philosophy static site — clean URLs (History-API SPA, relative resources)
+# GitHub Pages ignores this file; it governs the horace.org (Apache/LiteSpeed) mirror.
+Options -Indexes
+
+# Repo internals & non-site folders: never serve (404 hides existence)
+RewriteEngine On
+RewriteRule ^(\.git|\.agents|publish|sratchpad)(/|$) - [R=404,L]
+
+# SPA fallback: deep links serve the app; real files (md/png/json) pass through
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.html [L]
+
+AddType text/markdown .md

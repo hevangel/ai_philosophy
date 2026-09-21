@@ -100,7 +100,9 @@ it really is.**
   rooted at the repo) and prefixes every app-relative resource/link with it. A document-level
   click interceptor routes in-app links via `pushState`; `popstate` re-routes; legacy `#/…` URLs
   are upgraded to clean paths in place (never re-introduce hash-only links). Deep links rely on
-  server fallback: Apache `RewriteRule . index.html [L]` in the horace.org `.htaccess`, and the
+  server fallback: Apache `RewriteRule . index.html [L]` in the tracked `.htaccess` (committed to
+  the repo; GitHub Pages ignores it, and it governs the horace.org mirror — pull keeps the server
+  copy in sync, so never hand-edit it there), and the
   repo's `404.html` shim on GitHub Pages (which has no fallback) — keep `404.html` in sync if the
   base path ever changes.
 - The SPA strips the first `H1` of rendered markdown (the title comes from `content.json`)
