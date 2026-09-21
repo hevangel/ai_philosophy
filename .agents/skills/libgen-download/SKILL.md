@@ -102,5 +102,7 @@ py -3 scripts/local_match.py --books books.json --index library_index.txt --dest
 - Container restarts wipe `/tmp` — chunk_loop re-uploads `books.json`
   automatically, but if you run `camoufox_flow.py` by hand, check it's there.
 - Markdown/corpus analysis of a downloaded corpus (epub → per-chapter
-  markdown, cross-book maps) is project-specific and lives with the corpus
-  project, not in this skill.
+  markdown, cross-book maps) is project-specific and not part of this skill.
+  The 2026 pop-culture run's analysis scripts were deleted with the
+  `sratchpad/libgen_batch/` archive — recoverable from pre-2026-09-20 git
+  history if a similar pipeline is ever needed.

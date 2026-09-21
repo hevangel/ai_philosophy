@@ -82,8 +82,9 @@ it really is.**
   flow for session/JS-gated mirrors (`scripts/chunk_loop.py` + `camoufox_flow.py`, container
   `kb_camoufox`). Resumable per-book state; `scripts/local_match.py` skips books already on
   disk. The 310-book philosophy-and-pop-culture list ships as the skill's example
-  (`examples/`); the completed 2026 corpus run's artifacts and analysis scripts stay in
-  `sratchpad/libgen_batch/`.
+  (`examples/`). The completed 2026 corpus run's archive was deleted from `sratchpad/` at the
+  owner's request (2026-09-20); its states, logs, and analysis scripts remain recoverable from
+  git history if ever needed.
 
 ## Site architecture
 
@@ -192,7 +193,7 @@ it really is.**
   up, Chinese covers use the `cover_zh_text` overlay fallback; once generation works, drop
   `chinese_cover.png` into the document folder and the site prefers it automatically.
 - `.mimosa/` is security-scanner state, not site content — leave it alone and don't register it.
-- `sratchpad/libgen_batch/` is the completed pop-culture corpus run's archive (states, logs,
-  analysis scripts, gluetun VPN configs with credentials — gitignored); its reusable download
-  code moved into the `libgen-download` skill. Other bulk data under `sratchpad/` is working
-  data, not site content.
+- The `sratchpad/libgen_batch/` run archive (states, logs, analysis scripts, gluetun VPN
+  configs) was deleted from disk 2026-09-20 — recoverable from git history, except
+  `gluetun_configs/` which was never committed (credentials). Bulk data under `sratchpad/` is
+  working data, not site content.
