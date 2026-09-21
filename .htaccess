@@ -6,9 +6,12 @@ Options -Indexes
 RewriteEngine On
 RewriteRule ^(\.git|\.agents|publish|sratchpad)(/|$) - [R=404,L]
 
-# SPA fallback: deep links serve the app; real files (md/png/json) pass through
+# SPA fallback: deep links serve the app; real files (md/png/json) pass through.
+# Missing images are exempted so they return a real 404 (the zh-cover probe
+# depends on it); missing .md still falls back and is handled client-side.
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !\.(png|jpe?g|gif|webp|svg|ico)$ [NC]
 RewriteRule . index.html [L]
 
 AddType text/markdown .md

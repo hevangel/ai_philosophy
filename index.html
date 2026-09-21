@@ -455,8 +455,10 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
   var existsCache = {};
   function exists(url) {
     if (!(url in existsCache)) {
+      // The Apache SPA fallback answers missing files with 200 text/html
+      // (index.html); only a non-HTML response counts as "exists".
       existsCache[url] = fetch(toAppUrl(url), { method: 'HEAD' }).then(function (r) {
-        return r.ok;
+        return r.ok && !/text\/html/i.test(r.headers.get('content-type') || '');
       }).catch(function () { return false; });
     }
     return existsCache[url];
@@ -600,6 +602,12 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
   function fetchMarkdown(path) {
     return fetch(toAppUrl(path)).then(function (r) {
       if (!r.ok) throw new Error('HTTP ' + r.status + ' for ' + path);
+      // A 200 text/html response is the Apache SPA fallback serving index.html
+      // for a file that does not exist — treat it as missing so callers fall
+      // back (e.g. zh text falls back to the English document).
+      if (/text\/html/i.test(r.headers.get('content-type') || '')) {
+        throw new Error('missing ' + path);
+      }
       return r.text();
     });
   }
