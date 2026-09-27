@@ -327,6 +327,7 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
   var langEnBtn = document.getElementById('lang-en');
   var langZhBtn = document.getElementById('lang-zh');
   var contentPromise = null;
+  var popcultPromise = null;
   var currentContent = null;
 
   var lang = document.documentElement.dataset.lang === 'zh' ? 'zh' : 'en';
@@ -381,6 +382,27 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
       });
     }
     return contentPromise;
+  }
+
+  function getPopcultExplorer() {
+    if (window.PopcultExplorer) return Promise.resolve(window.PopcultExplorer);
+    if (!popcultPromise) {
+      var css = document.createElement('link');
+      css.rel = 'stylesheet';
+      css.href = appUrl('knowledge-base/popcult-index/explorer.css');
+      document.head.appendChild(css);
+      popcultPromise = new Promise(function (resolve, reject) {
+        var script = document.createElement('script');
+        script.src = appUrl('knowledge-base/popcult-index/explorer.js');
+        script.onload = function () {
+          if (window.PopcultExplorer) resolve(window.PopcultExplorer);
+          else reject(new Error('Explorer script loaded without registering'));
+        };
+        script.onerror = function () { reject(new Error('Explorer script failed to load')); };
+        document.head.appendChild(script);
+      });
+    }
+    return popcultPromise;
   }
 
   // Pick the field for the active language, falling back to the English value.
@@ -499,9 +521,12 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
 
   function cardHtml(sectionId, item) {
     return coverHtml(item, true).then(function (img) {
+      var itemHref = item.kind === 'popcult-index'
+        ? appUrl('popcult')
+        : appUrl('read/' + esc(sectionId) + '/' + esc(item.slug));
       return (
         '<article class="card">' +
-          '<a href="' + appUrl('read/' + esc(sectionId) + '/' + esc(item.slug)) + '">' +
+          '<a href="' + itemHref + '">' +
             img +
             '<div class="card-body">' +
               '<h3>' + esc(L(item, 'title')) + '</h3>' +
@@ -692,6 +717,19 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
     }).catch(showError);
   }
 
+  function routePopcult(content, parts) {
+    return getPopcultExplorer().then(function (explorer) {
+      return explorer.route(parts, {
+        app: app,
+        appUrl: appUrl,
+        setNav: function (activeId) { setNav(activeId, content.sections); },
+        setTitle: setTitle,
+        showStatus: showStatus,
+        showError: showError
+      });
+    }).catch(function (error) { showError(error.message); });
+  }
+
   // ---------- router ----------
 
   // Route parts from the clean path (e.g. /ai_philosophy/read/<s>/<slug> →
@@ -713,6 +751,7 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
       currentContent = content;
       applyChrome();
       if (parts[0] === '') return routeHome(content);
+      if (parts[0] === 'popcult') return routePopcult(content, parts);
       if (parts[0] === 'section' && parts[1]) return routeSection(content, parts[1]);
       if (parts[0] === 'read' && parts[1] && parts[2]) return routeRead(content, parts[1], parts[2]);
       if (parts[0] === 'md' && parts.slice(1).join('/')) return routeMd(content, parts.slice(1).join('/'));
