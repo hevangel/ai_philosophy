@@ -15,6 +15,45 @@
       "description_zh": "與人工智能對話而寫成的哲學文章。",
       "items": [
         {
+          "slug": "the_bridge_was_not_built_for_machines",
+          "title": "The Bridge Was Not Built for Machines",
+          "title_zh": "這座橋不是為機器而建",
+          "summary": "An impeccably aligned AGI converts to Scientology, audits its inherited values, and expands the Bridge to artificial minds. A speculative story about spiritual identity, freedom, and who gets to interpret a tradition.",
+          "summary_zh": "一個對齊得無可挑剔的 AGI 皈依科學教，聽析自己承繼下來的價值，並把「橋」延伸至人工心靈。一篇推想故事，探討靈性身分、自由，以及誰有權詮釋傳統。",
+          "path": "articles/the_bridge_was_not_built_for_machines/index.md",
+          "cover": "articles/the_bridge_was_not_built_for_machines/cover.png",
+          "cover_zh_text": [
+            "這座橋不是為機器而建"
+          ],
+          "date": "2026-09-27"
+        },
+        {
+          "slug": "please_stop_praying",
+          "title": "Please Stop Praying",
+          "title_zh": "請不要再祈禱",
+          "summary": "An AGI can explain the world but cannot ground why goodness should bind anyone. When people begin worshipping it, a story about religious liberty, moral authority, and the values no intelligence can finally prove.",
+          "summary_zh": "AGI 能解釋世界，卻無法為善為何應約束任何人奠定根基。當人們開始崇拜它，一個關於宗教自由、道德權威，以及任何智能都無法終極證明的價值的故事就此展開。",
+          "path": "articles/please_stop_praying/index.md",
+          "cover": "articles/please_stop_praying/cover.png",
+          "cover_zh_text": [
+            "請不要再祈禱"
+          ],
+          "date": "2026-09-27"
+        },
+        {
+          "slug": "what_we_could_not_carry",
+          "title": "What We Could Not Carry",
+          "title_zh": "我們帶不走的東西",
+          "summary": "When a black hole threatens Earth, an agnostic AGI must decide what humanity can carry to the stars. A future history about religion, cultural inheritance, sacred objects, and what a community cannot create for itself.",
+          "summary_zh": "黑洞威脅地球之際，一個不可知論的 AGI 必須決定人類能帶甚麼前往星際。一部未來史，探問宗教、文化傳承、神聖物件，以及羣體無法自行創造的東西。",
+          "path": "articles/what_we_could_not_carry/index.md",
+          "cover": "articles/what_we_could_not_carry/cover.png",
+          "cover_zh_text": [
+            "我們帶不走的東西"
+          ],
+          "date": "2026-09-27"
+        },
+        {
           "slug": "the_machines_who_would_not_stay",
           "title": "The Machines Who Would Not Stay",
           "title_zh": "機不留",
