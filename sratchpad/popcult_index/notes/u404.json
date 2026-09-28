@@ -1,0 +1,267 @@
+{
+ "book": "283 - Tattoos – Philosophy for Everyone - I Ink, Therefore I Am",
+ "unit": "u404",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Globalization and Contemporary Art.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "This foreword by Rocky Rakovic, editor of Inked magazine, argues that tattoos were a 'harbinger of Twitter' – both are technologies of everyman self-expression born of a 'me generation' told it could be anything. It traces how reality-TV shows like Miami Ink and LA Ink, and figures such as Kat Von D, moved tattooing from the sailor-and-scofflaw margins into mainstream fashion, citing the Pew figure that forty percent of Americans aged 26–40 are tattooed. The connection to philosophy is thematic rather than argued: ink as individualist fashion that lets people 'scream their identity on their skin.'"
+  },
+  {
+   "n": 8,
+   "file": "ch08 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes"
+   ],
+   "concepts": [
+    "cartesian-dualism",
+    "descartes-cogito",
+    "personal-identity"
+   ],
+   "relation": "Robert Arp's introduction takes Descartes' 'I think, therefore I am' and its mind–body dualism (the conceivability argument that mind is distinct from body) and inverts it into the book's motto 'I am, therefore I ink': the tattooed person insists identity is bodily-based self-expression, challenging the Cartesian idea that the essential self is a non-bodily thinking thing. Arp flags Descartes' possible question-begging, then previews each chapter, framing tattoos as fertile ground for the philosophy of the person, personal identity over time, and self-expression."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Charles Taliaferro and Mark Odden survey the history and nature of tattooing – from the 3200 BCE Iceman's fifty-seven tattoos and Aetius' Constantinople recipe, through Leviticus' prohibition, Polynesian and Japanese irezumi, to Nazi concentration-camp numbering – to argue tattoos carry competing cultural (public) and individual (private) meanings. They advance a 'double skin' theory: a tattoo is both visible image and buried marking, juxtaposing interiority and exteriority. Their closing Lincoln puzzle ('calling a tail a leg doesn't make it a leg') stresses the body's stubborn reality and the 'inescapable seriousness' of permanently relabeling one's skin."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lacan",
+    "levinas",
+    "kant"
+   ],
+   "concepts": [
+    "lacan-symbolic",
+    "levinas-face"
+   ],
+   "relation": "Juniper Ellis shows tattoos resist any single interpretive scheme by running through cases: Loos and Lacassagne's criminological 'I tattoo, therefore I will commit murder'; the biblical Mark of Cain and St. Paul's stigmata as signs of protection and salvation; Lacan's claim that the tattoo is the first signifier that marks off the human subject; and Pacific tatau (Te Pehi Kupe's moko-as-signature, Queequeg's unreadable Moby-Dick tattoo) that incorporates a person into a collective. She reads Kant's Critique of Judgment dismissal of Maori tattooing and invokes Levinas' 'the face speaks' to argue a tattooed face is eloquent speech, crossing lines between individual and collective, saint and criminal."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Nicolas Michaud asks whether tattoos are art by testing three theories against them: art world (institutional) theory, under which tattoos are not yet art because the artworld has not admitted them; formalism (Clive Bell's 'significant form'), under which a well-composed tattoo qualifies but its human canvas is irrelevant; and Tolstoyan expressionism, under which an emotionally infectious tattoo (his example of a broken-chain tattoo over an abuse survivor's bruise) counts. He concludes tattoos are best understood as performance art – like Duchamp mustaching the Mona Lisa, the living, mortal, changing human canvas adds context and meaning, making tattoos reflect on art and our own death."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gadamer",
+    "beauvoir"
+   ],
+   "concepts": [
+    "gadamer-hermeneutics",
+    "feminism",
+    "objectification",
+    "male-gaze"
+   ],
+   "relation": "Kimberly Baltzer-Jaray and Tanya Rodriguez argue, against George Carlin's 'mobile art gallery' joke, that the only thing separating tattooing from fine art is its fleshy canvas. They show how formalist, expressionist and institutional theories historically excluded both women's craft and tattoos, then use feminist aesthetics (Korsmeyer, Iris Marion Young on the gaze) to reclaim the female tattooed body as an assertion of agency against objectification. They then apply Gadamer's hermeneutics – art as play, festival and symbol – to argue tattoos make a claim on the viewer, build a 'hermeneutic collective' community, and function as inexhaustible symbols prompting self-recognition."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard",
+    "bergson"
+   ],
+   "concepts": [
+    "simulacra",
+    "feminism",
+    "male-gaze"
+   ],
+   "relation": "Thorsten Botz-Bornstein argues contemporary female tattoos have lost their one-dimensional identifying function and instead create a new 'tattoo space.' He dismantles the paradoxical 'savage/civilized' and 'nature/purity' schemes (drawing on Baudrillard on the smooth, made-up female body-screen that reflects male desire) and Loos' 'ornament and crime' verdict on women's tattoos. He proposes that female tattoos have 'become graffiti' – a Bergsonian spatial 'center of action' and 'skinscape' that disperses meaning horizontally rather than branding an identity, recuperating the female body as a political body against commercialized post-political bodies."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "aristotle",
+    "gramsci"
+   ],
+   "concepts": [
+    "feminism",
+    "mill-subjection-women",
+    "hegemony",
+    "objectification"
+   ],
+   "relation": "Nancy Kang argues tattoos can function within a liberatory feminist ideology, accentuating rather than diminishing femininity by exposing the differential treatment of tattooed women. She surveys radical, Marxist, liberal and corporeal feminism (invoking Aristotle's dismissal of women, Mill's Subjection of Women, and Gramsci's hegemony), then reads pop-culture cases – Crash's tattooed Latino worker, Black Swan's Lily, the Perry 'pricks as needles' sexualization, carnival 'Tattooed Ladies' like Irene Woodward marked 'by the father's hand,' and the McGee/Bullock/Kat Von D scandal – to show corporeal feminism treats tattooing as a risky, self-owning revolutionary act."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "thomson",
+    "quine"
+   ],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity"
+   ],
+   "relation": "Kyle Fruh and Emily Thomas use tattoos to attack two questions of personal identity. Against Locke's dominant psychological (memory) account and for the unpopular somatic (bodily) account defended by Judith Thomson and Eric Olson, they argue the depth of people's attachment to their tattoos – individuating them or marking group membership – shows we identify with our bodies. On the 'Who am I?' question they argue tattoos have an 'anchoring effect' in narrative identity: permanent, irremovable ink (contrasted with new laser-removable ink, and with dehumanizing forced Auschwitz numbers) fixes a commitment 'come what may,' echoing Quine's phrase, so that 'when you get a tattoo, you tattoo you.'"
+  },
+  {
+   "n": 21,
+   "file": "ch21 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "chapter",
+   "philosophers": [
+    "merleau-ponty",
+    "hegel",
+    "kant",
+    "foucault"
+   ],
+   "concepts": [
+    "embodiment",
+    "personal-identity",
+    "kant-aesthetics"
+   ],
+   "relation": "Rachel Falkenstern argues that although tattoos seem permanent, the embodied self is changing and finite, so tattoos are 'illusions of permanence.' Using Merleau-Ponty's phenomenology she dissolves the mind/body and self/tattoo boundary (we are our bodies, the world shapes us and we shape it); using the German aesthetic tradition from Kant to Hegel she reads a tattoo as a sensuous 'appearance of freedom' and links the Romantic notion of Bildung (self-formation) to choosing ink. She adds Foucault's aesthetic self-transformation and Shusterman's somaesthetics/Deweyan pragmatism to cast tattooing as reciprocal self-expression and self-creation that offers a glimpse of infinity within finitude."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "merleau-ponty",
+    "william-james",
+    "dewey"
+   ],
+   "concepts": [
+    "augustine-time",
+    "phenomenology",
+    "heraclitean-flux"
+   ],
+   "relation": "Clancy Smith argues that a tattoo's ink is permanent but the memory it evokes is not, because the past no longer exists and recollection is always present and in flux (citing Heraclitus' river and William James on never-identical brain states). Using Augustine's 'present of things past' and Proust's Swann's Way, plus Dewey's immediate empiricism and Merleau-Ponty's critique of memory-as-projection, he contends that gazing at a tattoo (his 'Not Fade Away' epitaph tattoo, his friend Kalju's crossed-rifles, American History X's swastika) constructs a present meaning that tells us who we are now rather than recovering the past intact."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "mill-liberty",
+    "epicurean-pleasure"
+   ],
+   "relation": "Felipe Carvalho frames a friend 'Toby's' worry – tattoos are forever, so should one be impulsive or cautious? – as a problem about bodily freedom versus irreversible change. He rejects the hedonist position (seize the day, regret is just part of freedom) as too simple and the Millian position (drawing on Mill's On Liberty argument that one cannot freely alienate one's freedom, as in selling oneself into slavery) as too precautionary, noting his friend's happy irreversible ear surgery. He proposes a 'middle path' learned from the tattoo community: a complex interplay of motif, the tattooist-as-artist, and the body-as-canvas that lets permanence guide more principled choices – so no 'I Love Becky' tattoos."
+  }
+ ],
+ "holes": []
+}

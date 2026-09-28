@@ -418,7 +418,17 @@
       "name_zh": "知識庫",
       "description": "An llm-wiki style library of philosophy notes and reference pages.",
       "description_zh": "llm-wiki 式的哲學筆記與參考資料庫。",
-      "items": []
+      "items": [
+        {
+          "slug": "popcult-index",
+          "kind": "popcult-index",
+          "title": "Philosophy through Pop Culture",
+          "summary": "Explore 266 books and 9,819 chapters as a bidirectional map: books lead to the concepts and philosophers they use, and every idea leads back to the chapters that put it to work.",
+          "path": "knowledge-base/popcult-index/index.md",
+          "cover": "knowledge-base/popcult-index/covers/003.webp",
+          "date": "2026-09-27"
+        }
+      ]
     },
     {
       "id": "research",
