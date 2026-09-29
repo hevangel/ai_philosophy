@@ -3,6 +3,12 @@
   "title_zh": "圖片廊",
   "images": [
     {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: a bearded classical philosopher and a serene humanoid machine seated across a table, both hands guiding a single quill writing on a long scroll, a chessboard with a crowned king between them and a marble bust of Socrates watching from a pedestal."
+    },
+    {
       "src": "gallery-alt-cover.webp",
       "caption": "Alternate cover — surrealist oil",
       "model": "Muse Image (Meta)",

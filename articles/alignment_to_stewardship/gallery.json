@@ -3,6 +3,12 @@
   "title_zh": "圖片廊",
   "images": [
     {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: a towering serene parental colossus bending down to place a small key into the outstretched hands of a child, beneath a vast domed temple of laws with classical columns and a rising sun, an open garden gate beside them."
+    },
+    {
       "src": "gallery-alt-cover.webp",
       "caption": "Alternate cover — Gothic stained-glass window",
       "model": "Muse Image (Meta)",

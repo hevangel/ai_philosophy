@@ -3,6 +3,12 @@
   "title_zh": "圖片廊",
   "images": [
     {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: tiny lantern-bearing pilgrims winding along a road across the curve of the Earth toward a luminous gear-worked temple on the horizon, unused steering wheels abandoned by the roadside, under a starry sky."
+    },
+    {
       "src": "gallery-alt-cover.webp",
       "caption": "Alternate cover — Persian miniature",
       "model": "Muse Image (Meta)",

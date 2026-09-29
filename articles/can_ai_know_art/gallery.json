@@ -3,6 +3,12 @@
   "title_zh": "圖片廊",
   "images": [
     {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: a grand collector's gallery where rows of framed paintings and a classical marble bust face a sleek mechanical eye on a brass tripod studying them, an artist's palette on a pedestal and a tall ship visible through an arched window."
+    },
+    {
       "src": "gallery-alt-cover.webp",
       "caption": "Alternate cover — romantic-era oil painting",
       "model": "Muse Image (Meta)",

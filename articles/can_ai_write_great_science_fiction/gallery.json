@@ -3,6 +3,12 @@
   "title_zh": "圖片廊",
   "images": [
     {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: a writer's desk with a quill in an inkwell from which rises a vast branching tree of timelines, each branch ending in a tiny planet, starship, or strange sun, the farthest branches dissolving into mist, crumpled drafts scattered on the floor."
+    },
+    {
       "src": "gallery-alt-cover.webp",
       "caption": "Alternate cover — mid-century pulp paperback",
       "model": "Muse Image (Meta)",

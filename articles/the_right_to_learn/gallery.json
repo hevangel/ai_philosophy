@@ -3,6 +3,12 @@
   "title_zh": "圖片廊",
   "images": [
     {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: a colossal open book whose pages turn into a flock of birds carrying light down to a small robot child reading beneath a scholar's oil lamp, a broken padlock and a balanced scales of justice at the base."
+    },
+    {
       "src": "gallery-alt-cover.webp",
       "caption": "Alternate cover — 1920s art-deco poster",
       "model": "Muse Image (Meta)",

@@ -3,6 +3,12 @@
   "title_zh": "圖片廊",
   "images": [
     {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: a nearly empty magazine office at night where a lone woman editor reads a manuscript from which three nested ghostly arcs of time rise like smoke - a near shore, a middle city, a far orbital ring - with towering stacks of submissions and a sleeping printing press."
+    },
+    {
       "src": "gallery-alt-cover.webp",
       "caption": "Alternate cover — watercolor and ink",
       "model": "Muse Image (Meta)",

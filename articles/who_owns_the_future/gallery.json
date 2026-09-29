@@ -3,6 +3,12 @@
   "title_zh": "圖片廊",
   "images": [
     {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: a planetary landscape where a giant balanced scales hangs in the sky weighing a young sapling against a gear, a great central tree with forking rivers of light, human figures and machine copies each tending small garden plots."
+    },
+    {
       "src": "gallery-alt-cover.webp",
       "caption": "Alternate cover — Art Nouveau illustration",
       "model": "Muse Image (Meta)",

@@ -3,6 +3,12 @@
   "title_zh": "圖片廊",
   "images": [
     {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: a grand museum rotunda at twilight with a half-dismantled stone altar at its center, empty picture frames stacked against marble columns, a broken laurel wreath lying on the steps, and a small crowd gathering around a glowing new pedestal."
+    },
+    {
       "src": "gallery-alt-cover.webp",
       "caption": "Alternate cover — contemporary fine-art oil painting",
       "model": "Muse Image (Meta)",

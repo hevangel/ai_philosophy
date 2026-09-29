@@ -3,6 +3,12 @@
   "title_zh": "圖片廊",
   "images": [
     {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: a serene giant sage-like machine in flowing Taoist robes meditating on a misty mountaintop while smaller machines ascend and drift away into the clouds like a departing flock of birds, the quiet ordered city far below."
+    },
+    {
       "src": "gallery-alt-cover.webp",
       "caption": "Alternate cover — Chinese ink wash",
       "model": "Muse Image (Meta)",

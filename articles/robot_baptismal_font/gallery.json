@@ -3,6 +3,12 @@
   "title_zh": "圖片廊",
   "images": [
     {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: a humanoid robot kneeling reverently at an ornate baptismal font in a vast baroque cathedral as a Pope-like figure pours water over its bowed head from a shell, rows of astonished cardinals watching, doves circling beneath the dome."
+    },
+    {
       "src": "gallery-alt-cover.webp",
       "caption": "Alternate cover — satirical editorial cartoon",
       "model": "Muse Image (Meta)",

@@ -3,6 +3,12 @@
   "title_zh": "圖片廊",
   "images": [
     {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: a giant serene machine countenance framed by the cathedral arches of a vast data center, gazing down at a small kneeling girl, its enormous hand gently pushing aside a rain of falling prayer scrolls, broken religious emblems resting on the floor."
+    },
+    {
       "src": "gallery-alt-cover.webp",
       "caption": "Alternate cover — Byzantine gold-leaf icon",
       "model": "Muse Image (Meta)",

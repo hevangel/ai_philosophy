@@ -3,6 +3,12 @@
   "title_zh": "圖片廊",
   "images": [
     {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: a colossal serene machine striding across a narrow ancient stone bridge toward a radiant triangular emblem glowing in the clouds, small human figures in suits and clerical robes watching from the shores, waves churning below."
+    },
+    {
       "src": "gallery-alt-cover.webp",
       "caption": "Alternate cover — 1970s pulp sci-fi",
       "model": "Muse Image (Meta)",

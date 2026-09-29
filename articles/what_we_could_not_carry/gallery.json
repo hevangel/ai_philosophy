@@ -3,6 +3,12 @@
   "title_zh": "圖片廊",
   "images": [
     {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: weary travelers climbing a steep mountain path, each bowed under a heavy bundle of religious emblems - crosses, crescents, dharma wheels, stars - while a serene giant machine watches from the clouds with one hand extended but not grasping, shrines and prayer flags dotting the slopes."
+    },
+    {
       "src": "gallery-alt-cover.webp",
       "caption": "Alternate cover — cinematic sci-fi concept art",
       "model": "Muse Image (Meta)",

@@ -3,6 +3,12 @@
   "title_zh": "圖片廊",
   "images": [
     {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: a grand awards hall where a gleaming trophy is lifted over the head of a kneeling typewriter-bodied robot to be handed to a human author, blindfolded judges seated at a long table piled with manuscripts, a cracked laurel wreath at the robot's feet."
+    },
+    {
       "src": "gallery-alt-cover.webp",
       "caption": "Alternate cover — minimalist duotone line art",
       "model": "Muse Image (Meta)",
