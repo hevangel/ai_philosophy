@@ -1,0 +1,12 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — contemporary fine-art oil painting",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Contemporary fine-art oil painting, purely pictorial with no text: a museum rotunda at twilight, a half-dismantled altar, empty picture frames and a broken laurel wreath — on AI reorganizing, not abolishing, cultural hierarchy."
+    }
+  ]
+}

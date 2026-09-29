@@ -1,0 +1,12 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — romantic-era oil painting",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Romantic-era oil painting, purely pictorial with no text: a luminous ethereal figure bending over a garret painter's glowing canvas — AI as an aesthetic patron discovering the unknown artist."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — satirical editorial cartoon",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Satirical editorial cartoon in flat bold inks, purely pictorial with no text: a chrome robot kneeling at a baptismal font, a priest with a comically long ladle, sizzling circuits, a judgmental dove — the comedic denomination tour."
+    }
+  ]
+}

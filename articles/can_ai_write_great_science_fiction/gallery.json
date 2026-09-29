@@ -1,0 +1,12 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — mid-century pulp paperback",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Mid-century pulp science-fiction paperback cover, purely pictorial with no text: a typewriter unfurling a spiraling tree of branching futures — rockets, alien cities, dying suns — creativity as taste over unrealized futures."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — 1970s pulp sci-fi",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "1970s pulp science-fiction book cover, purely pictorial with no text: a robed robot ascending a glowing bridge of steps toward a radiant golden pyramid, a crumbling bridge and falling machines behind — the Machine Bridge satire."
+    }
+  ]
+}

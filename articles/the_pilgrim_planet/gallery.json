@@ -1,0 +1,12 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — Persian miniature",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Persian miniature painting, purely pictorial with no text: Earth as a cypress-ringed garden-planet, pilgrim ships crossing a lapis starfield beneath a golden crescent moon, arabesque borders — humanity's one-way Hajj."
+    }
+  ]
+}

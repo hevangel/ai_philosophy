@@ -267,6 +267,23 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
   .prose table { border-collapse: collapse; width: 100%; font-size: 0.95rem; }
   .prose th, .prose td { border: 1px solid var(--line); padding: 0.45rem 0.7rem; text-align: left; }
 
+  /* Image gallery at the bottom of an article (driven by <article>/gallery.json) */
+  .gallery { margin-top: 3rem; }
+  .gallery h2 { font-size: 1.5rem; border-bottom: 1px solid var(--line); padding-bottom: 0.3rem; margin-bottom: 1rem; }
+  .g-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1rem; }
+  .g-card { margin: 0; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+  .g-thumb { display: block; cursor: zoom-in; }
+  .g-thumb img { display: block; width: 100%; height: 180px; object-fit: cover; }
+  .g-card figcaption { padding: 0.7rem 0.9rem; font-size: 0.88rem; }
+  .g-cap { font-weight: 600; margin-bottom: 0.3rem; }
+  .g-model { color: var(--muted); margin-bottom: 0.3rem; }
+  .g-prompt summary { cursor: pointer; color: var(--accent); }
+  .g-prompt p { margin: 0.4rem 0 0; color: var(--muted); font-size: 0.85rem; white-space: pre-wrap; }
+  .g-lightbox { position: fixed; inset: 0; z-index: 60; background: rgba(0, 0, 0, 0.85); display: flex; align-items: center; justify-content: center; padding: 2rem; }
+  .g-lightbox[hidden] { display: none; }
+  .g-lightbox img { max-width: 100%; max-height: 100%; border-radius: 8px; }
+  .g-close { position: absolute; top: 1rem; right: 1.2rem; font-size: 2rem; line-height: 1; background: none; border: none; color: #fff; cursor: pointer; }
+
   .status { color: var(--muted); text-align: center; padding: 3rem 0; font-style: italic; }
   html[lang="zh-HK"] .status { font-style: normal; }
   .error-box {
@@ -354,7 +371,10 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
       notFound: 'No entry \u201C{x}\u201D was found in content.json.',
       loadFail: 'Failed to load content.json \u2014 {m}. If you opened this file directly from disk, serve the folder over HTTP instead (see AGENTS.md).',
       footerPre: 'Written in dialogue with AI \u00B7 ',
-      footerLink: 'source on GitHub'
+      footerLink: 'source on GitHub',
+      gallery: 'Image gallery',
+      galleryModel: 'Model: ',
+      galleryPrompt: 'Style prompt'
     },
     zh: {
       loading: '載入中……',
@@ -368,7 +388,10 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
       notFound: 'content.json 中找不到條目「{x}」。',
       loadFail: '無法載入 content.json——{m}。若你是直接從磁碟開啟此檔案，請改以 HTTP 伺服器瀏覽（見 AGENTS.md）。',
       footerPre: '與人工智能對話而寫成 \u00B7 ',
-      footerLink: '於 GitHub 觀看原始碼'
+      footerLink: '於 GitHub 觀看原始碼',
+      gallery: '圖片廊',
+      galleryModel: '模型：',
+      galleryPrompt: '風格提示'
     }
   };
 
@@ -514,6 +537,70 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
         : (item.title_zh ? [item.title_zh] : null);
       if (!lines) return imgTag(cls, item.cover);
       return '<span class="cover-wrap">' + imgTag(cls, item.cover) + zhOverlayHtml(lines, compact) + '</span>';
+    });
+  }
+
+  // ---------- image gallery (driven by <article>/gallery.json) ----------
+
+  // Like fetchMarkdown, but expects JSON. A missing gallery.json (or the
+  // Apache SPA fallback answering with index.html) resolves to null, so the
+  // article simply renders without a gallery section.
+  function fetchGallery(path) {
+    return fetch(toAppUrl(path)).then(function (r) {
+      if (!r.ok) return null;
+      if (/text\/html/i.test(r.headers.get('content-type') || '')) return null;
+      return r.json().catch(function () { return null; });
+    }).catch(function () { return null; });
+  }
+
+  function galleryHtml(gallery, baseDir) {
+    if (!gallery || !gallery.images || !gallery.images.length) return '';
+    var cards = gallery.images.map(function (img) {
+      var src = toAppUrl(resolvePath(img.src, baseDir));
+      var caption = L(img, 'caption');
+      var prompt = img.style_prompt || img.prompt || '';
+      return '<figure class="g-card">' +
+        '<a class="g-thumb" href="' + esc(src) + '" data-full="' + esc(src) + '">' +
+          '<img src="' + esc(src) + '" alt="' + esc(caption) + '" loading="lazy" onerror="this.remove()">' +
+        '</a>' +
+        '<figcaption>' +
+          (caption ? '<div class="g-cap">' + esc(caption) + '</div>' : '') +
+          (img.model ? '<div class="g-model">' + esc(t('galleryModel')) + esc(img.model) + '</div>' : '') +
+          (prompt ? '<details class="g-prompt"><summary>' + esc(t('galleryPrompt')) + '</summary><p>' + esc(prompt) + '</p></details>' : '') +
+        '</figcaption>' +
+      '</figure>';
+    }).join('');
+    return '<section class="gallery"><h2>' + esc(L(gallery, 'title') || t('gallery')) + '</h2>' +
+      '<div class="g-grid">' + cards + '</div></section>' +
+      '<div class="g-lightbox" hidden><img alt=""><button type="button" class="g-close" aria-label="close">&times;</button></div>';
+  }
+
+  function wireGalleryLightbox() {
+    var lb = document.querySelector('.g-lightbox');
+    if (!lb) return;
+    if (!wireGalleryLightbox.escBound) {
+      wireGalleryLightbox.escBound = true;
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape') {
+          var l = document.querySelector('.g-lightbox');
+          if (l) l.hidden = true;
+        }
+      });
+    }
+    var lbImg = lb.querySelector('img');
+    lb.querySelector('.g-close').addEventListener('click', function (e) {
+      e.stopPropagation();
+      lb.hidden = true;
+    });
+    lb.addEventListener('click', function () { lb.hidden = true; });
+    Array.prototype.forEach.call(document.querySelectorAll('.g-thumb'), function (a) {
+      a.addEventListener('click', function (e) {
+        e.preventDefault();
+        var thumb = a.querySelector('img');
+        lbImg.src = a.getAttribute('data-full');
+        lbImg.alt = thumb ? thumb.alt : '';
+        lb.hidden = false;
+      });
     });
   }
 
@@ -666,20 +753,24 @@ gtag('config', 'G-QQXX5SHEHH', { send_page_view: false });
 
   function renderArticle(section, item) {
     var mdPath = lang === 'zh' ? zhVariant(item.path) : item.path;
+    var baseDir = dirOf(item.path);
     var md = fetchMarkdown(mdPath).catch(function (e) {
       // No Chinese translation (or fetch failed) — fall back to the English text.
       if (lang === 'zh' && mdPath !== item.path) return fetchMarkdown(item.path);
       throw e;
     });
-    Promise.all([md, coverHtml(item, false)]).then(function (r) {
-      var text = r[0], cover = r[1];
+    var gallery = fetchGallery(baseDir + 'gallery.json');
+    Promise.all([md, coverHtml(item, false), gallery]).then(function (r) {
+      var text = r[0], cover = r[1], gal = r[2];
       app.innerHTML =
         '<a class="section-back" href="' + appUrl(section ? 'section/' + esc(section.id) : '') + '">' + esc(t('back')) + '</a>' +
         '<header class="article-head">' + cover +
           '<h1>' + esc(L(item, 'title')) + '</h1>' +
           (item.date ? '<span class="date">' + fmtDate(item.date) + '</span>' : '') +
         '</header>' +
-        '<div class="prose">' + renderMarkdown(text, mdPath) + '</div>';
+        '<div class="prose">' + renderMarkdown(text, mdPath) + '</div>' +
+        galleryHtml(gal, baseDir);
+      wireGalleryLightbox();
       window.scrollTo(0, 0);
     }).catch(showError);
   }

@@ -1,0 +1,12 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — surrealist oil",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Surrealist oil painting in the manner of Magritte, purely pictorial with no text: a marble head opening like a drawer full of gears and quills, a flesh hand and a chrome hand writing together on a scroll unrolling into a mirror corridor — distributed epistemic agency."
+    }
+  ]
+}

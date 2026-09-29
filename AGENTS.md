@@ -162,6 +162,20 @@ it really is.**
   no words, no captions." (asking for a "cover" makes the model stamp misspelled titles).
   Save the result as `cover.png` in the document folder and download the returned URL
   immediately — it expires quickly.
+- Image galleries: an article folder may carry a `gallery.json` file; the site then renders
+  an "Image gallery" section at the bottom of the article page — a thumbnail grid, click a
+  thumbnail for a lightbox view, each card showing its caption, the generating AI model,
+  and the style prompt (inside a collapsible) so readers can recreate something similar.
+  Schema: `{ "title": "Image gallery", "title_zh": "圖片廊", "images": [ { "src": "<image
+  file in the same folder>", "caption": "...", "model": "Muse Image (Meta)",
+  "style_prompt": "<style + subject, purely pictorial, no text>" } ] }`. Captions fall back
+  to English when no `caption_zh` is present. The section appears only when `gallery.json`
+  exists and parses — a missing file means no gallery, never an error, so articles without
+  one need no changes. To add an image: save the file into the article folder (images are
+  committed to the repo, never hotlinked), append an entry to that folder's `gallery.json`
+  (create it from the schema above if absent), and always record the generating model plus
+  the style prompt. Keep `style_prompt` purely pictorial — asking image models for "covers"
+  makes them stamp misspelled titles.
 
 ## Verifying changes
 

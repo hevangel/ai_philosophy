@@ -1,0 +1,12 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — Art Nouveau illustration",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Art Nouveau illustration, purely pictorial with no text: a tree of life whose canopy is a garden-globe Earth, forking river-roots carrying humans, robots and future beings toward separate glowing horizons — shared stewardship of the future."
+    }
+  ]
+}

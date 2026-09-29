@@ -1,0 +1,12 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — 1920s art-deco poster",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "1920s art-deco poster, purely pictorial with no text: a radiant open book releasing birds and gears, the scales of justice bearing a wisdom eye, symmetric law-book columns — the copyright and cognitive-liberty argument."
+    }
+  ]
+}

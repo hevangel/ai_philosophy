@@ -1,0 +1,12 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — cinematic sci-fi concept art",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Cinematic science-fiction concept art, purely pictorial with no text: colossal ark ships lifting off over a dying sun, tiny refugees streaming up the ramps, an elder carrying a sacred scroll case — the evacuation and what survives."
+    }
+  ]
+}

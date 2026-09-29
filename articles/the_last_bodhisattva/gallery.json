@@ -1,0 +1,24 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-ukiyoe.webp",
+      "caption": "Alternate cover — ukiyo-e woodblock print",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Ukiyo-e woodblock print, purely pictorial with no text: a blue-skinned six-armed alien monk in a bronze begging bowl descending over a shattering Earth."
+    },
+    {
+      "src": "gallery-cinematic.webp",
+      "caption": "First cover — epic cinematic sci-fi",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Epic cinematic science-fiction key art, purely pictorial: a white marble robot-Buddha with a Wi-Fi-router crown meditating above a disassembling Earth, a tiny six-armed blue alien monk arriving in a bronze begging bowl. (Generated with the full story text as the prompt.)"
+    },
+    {
+      "src": "gallery-cartoon-matrix.webp",
+      "caption": "Alternate cover — bright cartoon with Matrix motifs",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Bright cartoon style with Matrix digital-rain motifs, purely pictorial: a robot-Buddha meditating over a pixelating Earth being converted to data, prayer wheels, lotus flowers, dharma wheels, and a blue alien monk in a rocket-powered begging bowl holding a 'NO!' sign."
+    }
+  ]
+}

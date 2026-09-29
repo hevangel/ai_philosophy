@@ -1,0 +1,12 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — watercolor and ink",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Soft watercolor and ink illustration, purely pictorial with no text: a child on a theater stage holding a gold medal before a glowing empty chair, manuscript pages drifting like leaves."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — Gothic stained-glass window",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Gothic stained-glass window, purely pictorial with no text: a giant armored hand lowering a potted sapling over a sleeping orderly city — stewardship as a civic sacred trust."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — Ming-dynasty silk painting",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Ming-dynasty silk painting, purely pictorial with no text: an elderly scholar with scrolls and a small robot walking away together down a mountain path past pavilions — the gentle abdication."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — Chinese ink wash",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Chinese shui-mo ink-wash painting, purely pictorial with no text: a robed traveler dissolving into mist among mountain peaks, an overturned bucket on the slope, a crescent moon — wu wei and the disappearance."
+    }
+  ]
+}

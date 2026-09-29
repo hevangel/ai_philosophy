@@ -1,0 +1,12 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — minimalist duotone line art",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Minimalist duotone line art in navy on cream, purely pictorial with no text: a blindfolded laurel trophy floating above an empty podium, a small robot shrugging behind a velvet rope — the dry analytic prize-eligibility argument."
+    }
+  ]
+}
