@@ -3,12 +3,6 @@
   "title_zh": "圖片廊",
   "images": [
     {
-      "src": "gallery-ukiyoe.webp",
-      "caption": "Alternate cover — ukiyo-e woodblock print",
-      "model": "Muse Image (Meta)",
-      "style_prompt": "Ukiyo-e woodblock print, purely pictorial with no text: a blue-skinned six-armed alien monk in a bronze begging bowl descending over a shattering Earth."
-    },
-    {
       "src": "gallery-cinematic.webp",
       "caption": "First cover — epic cinematic sci-fi",
       "model": "Muse Image (Meta)",
@@ -19,6 +13,18 @@
       "caption": "Alternate cover — bright cartoon with Matrix motifs",
       "model": "Muse Image (Meta)",
       "style_prompt": "Bright cartoon style with Matrix digital-rain motifs, purely pictorial: a robot-Buddha meditating over a pixelating Earth being converted to data, prayer wheels, lotus flowers, dharma wheels, and a blue alien monk in a rocket-powered begging bowl holding a 'NO!' sign."
+    },
+    {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial with no text: a serene marble robot Buddha wearing a Wi-Fi router crown meditates above the Earth as it is dismantled into concentric rings of solar collectors; a tiny six-armed alien monk arrives floating in a bronze begging bowl; fine cross-hatching throughout."
+    },
+    {
+      "src": "gallery-ukiyoe.webp",
+      "caption": "Alternate cover — ukiyo-e woodblock print",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Ukiyo-e woodblock print, purely pictorial with no text: a blue-skinned six-armed alien monk in a bronze begging bowl descending over a shattering Earth."
     }
   ]
 }
