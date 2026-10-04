@@ -1,0 +1,135 @@
+{
+ "unit": "u145",
+ "book": "090 - Dracula and Philosophy - Dying to Know",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\090 - Dracula and Philosophy - Dying to Know",
+ "range": [
+  3,
+  23
+ ],
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Dracula and Philosophy.md",
+   "words": 943
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Dracula and Philosophy.md",
+   "words": 0
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dracula and Philosophy.md",
+   "words": 109
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Dracula and Philosophy.md",
+   "words": 289
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Dracula and Philosophy.md",
+   "words": 465
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Dracula and Philosophy.md",
+   "words": 5
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Dracula and Philosophy.md",
+   "words": 3113
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Dracula and Philosophy.md",
+   "words": 2815
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Dracula and Philosophy.md",
+   "words": 3156
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Dracula and Philosophy.md",
+   "words": 3557
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Dracula and Philosophy.md",
+   "words": 6046
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Dracula and Philosophy.md",
+   "words": 5
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Dracula and Philosophy.md",
+   "words": 3994
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Dracula and Philosophy.md",
+   "words": 3383
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Dracula and Philosophy.md",
+   "words": 4861
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Dracula and Philosophy.md",
+   "words": 3029
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Dracula and Philosophy.md",
+   "words": 4144
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Dracula and Philosophy.md",
+   "words": 8
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Dracula and Philosophy.md",
+   "words": 3834
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Dracula and Philosophy.md",
+   "words": 2968
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Dracula and Philosophy.md",
+   "words": 3359
+  }
+ ],
+ "content": [
+  3,
+  6,
+  7,
+  9,
+  10,
+  11,
+  12,
+  13,
+  15,
+  16,
+  17,
+  18,
+  19,
+  21,
+  22,
+  23
+ ]
+}

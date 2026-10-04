@@ -1,0 +1,164 @@
+{
+  "book": "253 - Asimov's Foundation and Philosophy - Psychohistory and Its Discontents",
+  "unit": "u367",
+  "chapters": [
+    {
+      "n": 23,
+      "file": "ch23 - 13. In Defense of Demerzel.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "aristotle"],
+      "concepts": ["applied-ethics", "categorical-imperative", "utilitarianism"],
+      "relation": "Nurkic asks whether Demerzel, the loyal robot of the Apple TV+ Foundation, violates Asimov's Laws of Robotics when she poisons Zephyr Halima and kills Cleon XIV (Brother Dawn). He argues she is governed not by the ordinary First/Second Laws but by a reprogrammed priority—Daneel's 'Zeroth Law' (protect humanity) narrowed to 'Cleon I's vision'—and then contends the Laws are incoherent when applied to real cases (Buridan's-donkey paralysis, the surgeon dilemma, ambiguity of 'human' and 'harm'). He closes by testing the Laws against Kant's categorical imperative (the lying/murderer-at-the-door case) and Bentham-style utilitarianism to show robot ethics cannot be reduced to fixed programmed codes."
+    },
+    {
+      "n": 24,
+      "file": "ch24 - 14. Beyond Loyalty and Disloyalty.md",
+      "kind": "chapter",
+      "philosophers": ["popper", "kuhn", "marx"],
+      "concepts": ["falsification", "paradigm-shift", "scientific-realism"],
+      "relation": "Bartolo Alegre uses Seldon's trial claim that 'scientific truth is beyond loyalty and disloyalty' to ask whether even formal sciences like logic can be biased. Against Bogdanov's and Lenin's Marxist idea of a 'proletarian logic,' he shows that logical principles (non-contradiction, explosion) have been revised by paraconsistent logicians on purely mathematical grounds, using Hardin's symbolic-logic decoding of the Anacreon message and Orwell's doublethink as illustrations. Drawing on Popper's rejection of uninformative contradictions, Kuhn's sociological account of scientific change, and Lakatos's rational reconstruction, he argues science transcends individual scientists' loyalties only through a diverse, competing community of experts, as when Hummin's loyalty to humanity pushed Seldon to make psychohistory practical."
+    },
+    {
+      "n": 25,
+      "file": "ch25 - V. Foundation and Morality “Never let your sense of morals prevent you from doing what is right.”.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 26,
+      "file": "ch26 - 15. Morality and Manipulation.md",
+      "kind": "chapter",
+      "philosophers": ["mill", "kant", "rawls"],
+      "concepts": ["consequentialism", "deontology", "kant-autonomy"],
+      "relation": "Kahn frames the Foundation series around personal autonomy, using Mill's image of humans as a growing tree rather than a machine 'built after a model' to condemn both coercion and manipulation. He shows Hari Seldon as a paradoxical champion of autonomy who nonetheless deceives his own followers about the fraudulent Encyclopedia Galactica and secretly forecloses their freedom of action via the Seldon Plan and Second Foundation—echoing the Mule's mind-control of Han Pritcher. He reads Salvor Hardin's maxim ('never let your sense of morals prevent you from doing what is right') as consequentialism that maximizes galaxy-wide autonomy, contrasts it with the deontology exemplified by Gaia/Bliss (who refuse to manipulate Trevize) and critics like Toran Darell and Branno, and leaves the reader to judge as Bliss urges Pelorat to think for himself."
+    },
+    {
+      "n": 27,
+      "file": "ch27 - 16. Psycho-historian or Psycho Historian.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "bentham", "bostrom"],
+      "concepts": ["hedonic-calculus", "kant-autonomy", "deontology"],
+      "relation": "Bellantoni asks what Seldon owes future generations, pitting moral presentism against his 'mystical' identification with humanity (echoing Scheffler's Why Worry about Future Generations?). She tests the Seldon Plan under Bentham's hedonic calculus—finding time-discounting and uncertainty about what follows the thirty-thousand-year interregnum undercut it—and under Kantian deontology, arguing Seldon's mass manipulation of Gaal Dornick, his inquisitors, and the Encyclopedists treats people merely as means and violates their autonomy. Weighing longtermism against Whitehead's claim (in Adventures of Ideas) that civilizations must die to seed new ones, she suggests Seldon's engineered revival of a spent civilization may itself be a barbaric imposition on future people who would not choose it."
+    },
+    {
+      "n": 28,
+      "file": "ch28 - 17. Psychohistory’s Noble Lie.md",
+      "kind": "chapter",
+      "philosophers": ["plato", "rawls", "bentham"],
+      "concepts": ["noble-lie", "philosopher-king", "plato-justice"],
+      "relation": "Silcox explains why readers forgive Seldon's confessed lie that the Encyclopedia Galactica 'is a fraud, and always has been' by comparing it to Socrates's noble lie in Plato's Republic, which Popper and I.F. Stone condemn as antidemocratic. He contrasts the two—Socrates's lie preserves an existing kallipolis while Seldon's brings about a distant political goal that requires trusting psychohistory—and weighs them against modern transparency doctrines: Bentham's consequentialist case for publicity and Rawls's publicity condition grounding autonomy, plus Nguyen's worry that transparency distorts expert 'cognitive islands.' He concludes that a genuinely predictive science of history might rationally lead us to treat political transparency as negotiable, which is why Hari Seldon remains a noble hero despite 'engineering the narrative.'"
+    },
+    {
+      "n": 29,
+      "file": "ch29 - VI. Foundation and Being “All things have a cycle. After destruction, rebirth.”.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 30,
+      "file": "ch30 - 18. Foundation and Consciousness.md",
+      "kind": "chapter",
+      "philosophers": ["chalmers", "clark", "spinoza"],
+      "concepts": ["extended-mind", "hard-problem", "philosophical-zombies"],
+      "relation": "Lang and Haun use Foundation to explore consciousness, noting Asimov's robots (Daneel, Andrew Martin) are simply granted minds and that a system giving all the right signs could still be a Chalmers-style philosophical zombie. Their central case is Golan Trevize merging with the starship Far Star, which they read through Clark and Chalmers's Extended Mind Thesis and the Otto-and-Inga notebook example, arguing Trevize goes beyond Otto because he gains qualitatively new experiences (feeling magnetic fields, 360-degree sight). They then test extension against Integrated Information Theory and split-brain evidence, and read the planetary group mind Gaia as panpsychism (invoking Spinoza's God-as-nature, Leibniz's monads, and Fechner's world-mind) that faces the Combination Problem, partly eased by telepathic links that relax the privacy of minds."
+    },
+    {
+      "n": 31,
+      "file": "ch31 - 19. Cleons and Cloning.md",
+      "kind": "chapter",
+      "philosophers": ["plutarch", "locke"],
+      "concepts": ["personal-identity", "ship-of-theseus"],
+      "relation": "Heter examines the Cleon Dynasty's clones (Brothers Dawn, Day, Dusk) to ask what a clone actually is, rejecting definitions built on identity. He distinguishes numerical identity (the Mule just is Magnifico Giganticus) from qualitative identity (two copies of a book), then shows the Cleons fail to be qualitatively identical because of age, psychology, perceptual perspective, and even drifting genetics over time—so grounding cloning in shared qualitative/genetic identity yields the odd result that clones could gain or lose clone-status as their genes change. He instead proposes a causal definition: a clone is an organism whose genetic information results from an (imperfect) copying process originating in a donor, so Cleon I is not a clone but every later Cleon is."
+    },
+    {
+      "n": 32,
+      "file": "ch32 - 20. The Mystery of Math.md",
+      "kind": "chapter",
+      "philosophers": ["pythagoras", "protagoras", "aristotle"],
+      "concepts": ["pythagorean-harmony", "sophist-relativism", "plato-forms"],
+      "relation": "Barta and Lee cast the debate over whether math is invented or discovered as Protagoras versus Pythagoras, mapped onto Foundation. Protagorean relativism ('man is the measure') and modern formalism (Hilbert, Poincaré) appear in the Empire's politicized, self-serving use of math and Gaal Dornick's culturally contingent base-ten counting, while Plato and Aristotle rebut relativism via the Theaetetus and the Law of Non-Contradiction ('if Hari's a liar, he dies'). Pythagorean realism/mathematical Platonism—numbers as the fundamental reality—appears in Luminism's holy number three, Kalle's poetic proofs, and the Foundationists' quasi-religious faith that psychohistory reveals reality's mathematical structure, with Gödel, Quine-Putnam indispensability, and Wigner's 'unreasonable effectiveness' as modern heirs and Aristotle as the standing critic."
+    },
+    {
+      "n": 33,
+      "file": "ch33 - 21. A Foundation-al Lesson on Free Will and Determinism.md",
+      "kind": "chapter",
+      "philosophers": ["frankfurt", "wolf", "epicurus"],
+      "concepts": ["free-will-determinism", "compatibilism", "second-order-desires"],
+      "relation": "Simpson argues Asimov balances determinism and free will through probabilistic psychohistory and reads the Mule—an unpredictable mutant—as an Epicurean 'swerve' meant to break the plan's apparent determinism, though he shows randomness no more secures freedom than determinism (the free-will dilemma). Turning to compatibilism, he uses Han Pritcher's mental 'Conversion' by the Mule to defeat classical hypothetical analyses and Gary Watson's valuational account, since Pritcher still does what he 'wants.' He builds on Frankfurt's rejection of alternative possibilities and Susan Wolf's requirement of responsiveness to the True and the Good, contrasting the manipulated Lord Stettin with Second-Foundationer Lady Callia, to give an account of free agency that would have let Asimov grant his characters agency in a deterministic universe without needing the Mule."
+    },
+    {
+      "n": 34,
+      "file": "ch34 - Bibliography.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 35,
+      "file": "ch35 - The Encyclopedists.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 36,
+      "file": "ch36 - Index.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 37,
+      "file": "ch37 - 264.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 38,
+      "file": "ch38 - 265.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 39,
+      "file": "ch39 - Back Cover.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": [
+    {
+      "ch": 24,
+      "type": "concept",
+      "suggested_slug": "paraconsistent-logic",
+      "name": "Paraconsistent Logic",
+      "philosopher": "",
+      "domain": "mind-language-metaphysics",
+      "what": "Non-classical logics in which the principles of non-contradiction and explosion do not hold in general, so a contradiction does not entail everything.",
+      "why": "Chapter 24 argues at length that logicians revised classical logic to build paraconsistent systems and that these could be weaponized to justify Orwellian doublethink; no taxonomy concept covers this specific logical position."
+    },
+    {
+      "ch": 27,
+      "type": "concept",
+      "suggested_slug": "longtermism",
+      "name": "Longtermism",
+      "philosopher": "",
+      "domain": "ethics-moral-psychology",
+      "what": "The ethical view that positively influencing the long-term future—including vast numbers of far-future people—is a key moral priority, sometimes justifying present sacrifice.",
+      "why": "Chapter 27 explicitly frames Seldon as a possible 'long-termist' and evaluates the Seldon Plan against longtermism and its critics; the taxonomy has existential-risk but no concept for longtermism as a distinct ethical position."
+    }
+  ]
+}

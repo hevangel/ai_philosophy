@@ -1,0 +1,381 @@
+{
+ "book": "149 - Black Panther and Philosophy - What Can Wakanda Offer the World_",
+ "unit": "u218",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Series page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Title page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - vii.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Contributors One Single Tribe.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Introduction A Few Words from the Wakandan International Outreach Centre.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editors frame the volume: Stan Lee and Jack Kirby created the first Black superhero in Fantastic Four no. 52 (1966) during the Civil Rights era, when an advanced African nation or a Black president seemed unthinkable to many Americans, and Stan's 1968 'Stan's Soapbox' column called for destroying bigotry by exposing it rather than punching it. They present Wakanda as significant but imperfect, and position the contributors' philosophical essays on racism, colonialism, feminism, spirituality, and Afrofuturism as continuing Lee and Kirby's tradition, with Coogler's 'one single tribe' message as the through-line."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Part I Yibambe!.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 1 Challenge Day Tradition and Revolution in Wakanda.md",
+   "kind": "chapter",
+   "philosophers": [
+    "edmund-burke"
+   ],
+   "concepts": [],
+   "relation": "Boudreaux reads Wakanda's Challenge Day and Killmonger's coup through Edmund Burke's critique of the French Revolution, arguing that pure reason divorced from tradition cannot supply social cohesion: M'Baku's reverence for the ritual combat allows a peaceful transfer of power, and the ceremony itself checks arbitrary rule by making T'Challa fight stripped of Panther powers. Killmonger's disregard for custom ('Weeks? I don't need weeks') and burning of the Heart-Shaped Herb garden show revolution destroying what it claims to save, splitting Okoye's throne-loyalty against Nakia's 'I save my country,' while M'Baku sheltering T'Challa and T'Challa's incremental outreach centers embody the organic, gradual reform Burke endorsed over rationally designed reinvention."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 2 Transforming Wakanda Justice (or Not ) in Black Panther.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "locke"
+   ],
+   "concepts": [
+    "punishment-theory",
+    "kant-humanity-formula",
+    "locke-natural-rights"
+   ],
+   "relation": "Bein and Lewis imagine Killmonger surviving his duel to face Wakandan justice, and sort what justice would demand into retributive justice (Kant: punishment only what the offender deserves, never using him merely as a means to public safety, though they note Kant's own racist views), reparatory justice (Locke's natural rights and what Wakanda owes N'Jadaka for T'Chaka killing N'Jobu and abandoning him in Oakland), and the restorative-to-transformative justice of Changamire's gatherings in Coates's 'A Nation Under Our Feet,' modeled on South Africa's Truth and Reconciliation Commission. They argue a restorative Wakanda would seat Killmonger with his victims and even the king at the table to repair harm rather than imprison him, and sketch a prison-abolitionist Wakanda meeting Thanos with 'Wakandan justice is more civilized.'"
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 3 Sins of the Fathers Historical Injustice and Its Repair in lack Panther.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mills",
+    "rawls",
+    "aristotle"
+   ],
+   "concepts": [
+    "justice-as-fairness",
+    "veil-of-ignorance",
+    "punishment-theory"
+   ],
+   "relation": "Almassi contrasts Rawlsian ideal theory (the veil of ignorance, justice as fairness) with Charles Mills's critique that idealization marginalizes actual historic oppression, arguing the film's characters seek Aristotle's corrective justice in a world already steeped in wrongdoing: the 1991 deaths of W'Kabi's parents at Klaue's hands and of N'Jobu at T'Chaka's. He works through the Museum of Great Britain axe scene as restitution, W'Kabi's 'you kill him where he stands' and Killmonger's 'I'mma make sure we're even' as retribution (tested against Walen's proportionality principles, with vengeance untethered from legitimate punishment), and Nakia's and T'Challa's outreach centers as Margaret Urban Walker-style relational repair, reading T'Chaka's concealment of N'Jobu's death as actively constructed ignorance in service of isolationism."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 4 “What Would You Have Wakanda Do about It ” Black Panther, Global Justice, and African Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "fricker"
+   ],
+   "concepts": [
+    "epistemic-injustice",
+    "cosmopolitanism-ethics"
+   ],
+   "relation": "Hobden argues Wakanda's isolationist 'us vs. them' politics is Western rather than African in spirit: Ramonda's branding of Killmonger as a 'charlatan' enacts Fricker's testimonial injustice and echoes the colonial epistemicide that dismissed African knowledge, while African philosophers (Etieyibo, Eze, Menkiti) derive cosmopolitan duties from ubuntu ('I am because we are') and Igbo proverbs like 'the right hand washes the left,' which welcome the stranger as a bearer of knowledge. She finds it striking that an isiXhosa-speaking Wakanda shows no trace of ubuntu, and reads T'Challa's UN speech as a Western-style aid relationship ('what would you like us to do about it?') rather than genuine recognition of shared humanity."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 5 T’Challa’s Liberalism and Killmonger’s Pan-Africanism.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dubois"
+   ],
+   "concepts": [
+    "terrorism-violence"
+   ],
+   "relation": "Graves sets T'Challa's liberal internationalism — UN sovereign equality and collective security, which he traces through the organization's Charter limits and its record of preserving the status quo — against Killmonger's Pan-Africanism, the liberation lineage of the 1900 Pan-African Conference, Du Bois's Pan-African Congresses, Garvey's UNIA, and Nkrumah's 'Africa Must Unite,' which N'Jobu and Killmonger carry forward with vibranium weapons after centuries of Wakandan indifference to slavery, colonialism, and apartheid. He argues collective security has repeatedly failed oppressed Black populations, making Killmonger's realist 'Africans must save themselves' position understandable, though he questions whether arms rather than aid can liberate and calls T'Challa's single Oakland outreach center inadequate to Wakanda's wealth."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Part II Wakanda Forever!.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 6 Panther Virtue The Many Roles of T’Challa.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-practical-wisdom",
+    "aristotle-golden-mean",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "White applies Aristotle's virtue ethics to T'Challa's many roles — Panther Tribe chieftain, king, Avenger, ambassador, brother, husband — arguing that virtues like the honesty and courage his fellow heroes praise need practical wisdom (phronesis) to guide action when roles conflict, as when he chooses country over rescuing Storm from trial, spies on the Avengers as king, or abducts a businessman as a matter of national security. Through tragic dilemmas like destroying Wakanda's vibranium to keep it from Doctor Doom ('a king must make terrible choices'), he shows such choices haunt without dirtying character, and that over-adopting roles is itself a failure of the golden mean, evidenced by T'Challa feeling 'imprisoned' by a kingship he never chose."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 7 Should Wakanda Take Over the World The Ethics of International Power.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "mill",
+    "kant",
+    "sartre"
+   ],
+   "concepts": [
+    "philosopher-king",
+    "kant-perpetual-peace",
+    "utilitarianism",
+    "cosmopolitanism-ethics"
+   ],
+   "relation": "Littmann asks whether Wakanda should take over the world, staging N'Jobu's and Killmonger's 'Wakanda could rule them all... the right way' plan against the history of benevolently justified empire: Roman civilization of barbarians, Kipling's white man's burden, and Mill's trusteeship argument for educating non-Europeans toward democracy. Plato's Republic case for rule by the wisest initially favors Wakandan conquest, but Kant's Perpetual Peace condemnation of conquering 'European savages,' Mill's own four reasons imperial rule goes wrong (ignorance of local conditions, lack of sympathy, partiality, exploitation), and Diderot's claim that distance from home erodes moral restraint convince him domination breeds abuse; he endorses Nakia's aid-and-refuge outreach and Mill's hope that the 'aristocracy of nationality' will one day look as wrong as racism."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 8 T’Challa, the Revolutionary King Legitimation Crises in Wakanda.md",
+   "kind": "chapter",
+   "philosophers": [
+    "habermas",
+    "locke"
+   ],
+   "concepts": [
+    "social-contract"
+   ],
+   "relation": "Porter uses Habermas's legitimation crisis to read Killmonger's reign: by governing flagrantly against Wakandan tradition — burning the Heart-Shaped Herb, waving off the unfinished challenge ritual with 'All that challenge shit is over with. I'm the king now' — he erodes not just his own standing but acceptance of kingship itself, moving Okoye from procedural objection to 'you are not fit to be a king.' He then argues the film inoculates monarchy against viewer critique through Shuri's permissible teasing and Wakanda's harmonizing of opposites, and shows that T'Challa's UN speech, matched line-by-line to Bossuet's defense of the divine right of kings, quietly reaches toward absolutism — leaving audiences cheering a hereditary, divinely sanctioned throne that Locke's consent of the governed would never legitimate in their own world."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 9 T’Challa’s Machiavellian Methods.md",
+   "kind": "chapter",
+   "philosophers": [
+    "machiavelli"
+   ],
+   "concepts": [
+    "machiavelli-virtu",
+    "machiavelli-ends"
+   ],
+   "relation": "Drake and Lloyd argue the comic-book T'Challa of 'Panther's Rage' is classically Machiavellian in a way the film's earnest king is not: he rules through fear and strategic violence against Killmonger's uprising, cultivates the appearance of The Prince's five qualities (mercy, faith, honesty, humanity, religion), and exploits Wakandan religion — letting subjects believe the Black Panther is divine, never doffing the sacred garb even when swimming with Monica — as an instrument for preserving power. Advisers like Taku ask whether T'Challa differs from Killmonger, and the chapter concludes that, sharing Machiavelli's low view of human nature, T'Challa never considers democracy and keeps his people quiescent through a divinity he knows is performance."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 10 Understanding the Reigns of T’Challa and Killmonger through Hannah Arendt.md",
+   "kind": "chapter",
+   "philosophers": [
+    "arendt"
+   ],
+   "concepts": [
+    "arendt-totalitarianism",
+    "terrorism-violence"
+   ],
+   "relation": "Sinanan reads both reigns through Arendt's account of collective responsibility: T'Challa moves from conscience-based 'I am not king of all people' to owning what Wakanda did in its name ('He was the truth I chose to omit') and finally to political action in Oakland and at the UN, while Killmonger — an MIT-educated Navy SEAL embodying the collective that formed him — becomes the imperialist he opposed, his 'burn it all' revolution matching Arendt's warning about totalitarian domination from within. She compares Killmonger's council speech and herb-burning directly to Hitler's 1924 Munich trial speech, reads his manipulation of the challenge ritual as totalitarian propaganda that organizes rather than persuades, and credits Nakia, Okoye, Shuri, and Ramonda with refusing Arendt's ultimate danger, indifference."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Part III The Heart-Shaped Herb.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 11 Beastly Boys The Racial-Sexual Politics of Meat.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hooks",
+    "plumwood"
+   ],
+   "concepts": [
+    "intersectionality",
+    "ecofeminism"
+   ],
+   "relation": "Huerter reads M'Baku's 'I'm kidding. We are vegetarians' punchline through Carol Adams's sexual politics of meat and bell hooks's plantation patriarchy: since colonial meat-eating signified masculine mastery over nature (Plumwood's reason/nature dualism) while enslaved people were fed plant foods and cast as edible themselves, audiences primed by the racist cannibal trope expect M'Baku to be a savage, so his refusal of flesh turns the colonizer's gaze back on itself. Killmonger, by contrast, embodies the Black patriarchy produced by the American military-industrial complex ('He's one of ours'), a plantation patriarch whose hypermasculine conquest — killing Linda, burning the Herb garden, his defiant 'death was better than bondage' exit — replays colonial violence even in liberation's name, against which M'Baku's warrior-but-vegetarian politics marks a moral asymmetry."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - 12 Panther Mystique Wakandan Feminism Demystified.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir",
+    "friedan",
+    "butler",
+    "audre-lorde"
+   ],
+   "concepts": [
+    "gender-performativity",
+    "feminine-mystique",
+    "becoming-woman",
+    "woman-as-other"
+   ],
+   "relation": "Wright and Pérez ask whether Wakanda's powerful women are feminists, arguing M'Baku's dismissal of Shuri as a child trades on Friedan's feminine mystique while Wakandan women escape Beauvoir's woman as the Other because their society, lacking any history of female oppression, never inscribed the second sex. Drawing on Lorde, Davis, Collins, and Walker's womanism, they read Shuri's rejection of romance, Okoye's throne-loyalty, and Nakia's stubbornness as self-definition and interdependency across difference, then use Butler's gender performativity to explain why Okoye squirms in a wig while Nakia breezes through Seoul: womanhood performed in womanist (community-centered) versus feminist (individual-transcendence) modes, with Wakanda modeling the collective call for solidarity the authors hope the future inherits."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 13 The Ancestral Plane Metaphysical Mystery or Meaningful Metaphor.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes"
+   ],
+   "concepts": [
+    "cartesian-dualism",
+    "immortality"
+   ],
+   "relation": "Kowalski treats the Heart-Shaped Herb's Ancestral Plane visits as a test case for Cartesian substance dualism: if T'Challa truly embraces T'Chaka's soul, the film commits to bodies and souls as distinct substances, with the film's own analogy — Shuri remotely driving T'Challa's car from her lab — standing in for soul-body interactionism. But Princess Elisabeth's interaction problem (how a non-physical soul could be embraced, seen, or chemically affected) makes dualism implausible, so he argues the second and third visits work better as metaphor: Killmonger's audience with N'Jobu and T'Challa's 'You were wrong! All of you!' confrontation with his ancestors dramatize taking stock of how one's father shaped who one is, with T'Challa's sunlit third visit symbolizing his choice not to be bound by that past."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 10,
+   "type": "philosopher",
+   "suggested_slug": "edmund-burke",
+   "name": "Edmund Burke",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Irish-British Whig statesman and philosopher (1729–1797), critic of the French Revolution who defended gradual, tradition-bound political change over rationally designed upheaval.",
+   "why": "Chapter 10 is built on Burke's Reflections-era argument that Wakanda's Challenge Day rituals and organic reform outperform Killmonger's rationally justified revolution."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "agnotology",
+   "name": "Agnotology (cultivated ignorance)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The study of ignorance as an actively constructed and maintained product, rather than a mere absence of knowledge.",
+   "why": "Chapter 12 analyzes T'Chaka's concealment of N'Jobu's death and N'Jadaka's existence as ignorance deliberately manufactured to sustain Wakandan isolationism."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "ubuntu",
+   "name": "Ubuntu (I am because we are)",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "Southern African ethical principle that persons are constituted through relations with others, grounding mutuality, hospitality, and recognition of shared humanity.",
+   "why": "Chapter 13 argues an isiXhosa-speaking Wakanda paradoxically lacks ubuntu, and that Etieyibo and Eze use it to ground a cosmopolitanism of shared humanity that Wakanda's isolationism betrays."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "pan-africanism",
+   "name": "Pan-Africanism",
+   "philosopher": "dubois",
+   "domain": "feminism-gender-race",
+   "what": "Movement holding that people of African descent share a common condition and should unite for liberation, from the 1900 Pan-African Conference through Du Bois, Garvey, and Nkrumah.",
+   "why": "Chapter 14 identifies Killmonger's plan to arm the diaspora as the violent wing of this tradition and measures it against T'Challa's institutional liberalism."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "liberal-internationalism",
+   "name": "Liberal Internationalism and Collective Security",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "International-relations doctrine that states should cooperate through institutions like the UN, with collective security deterring aggression and rights trumping national interest.",
+   "why": "Chapter 14 evaluates T'Challa's UN speech and Oakland outreach as exactly this doctrine, finding collective security impotent against the oppression Killmonger targets."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "civilizing-mission",
+   "name": "The Civilizing Mission (moral defense of empire)",
+   "philosopher": "mill",
+   "domain": "political-social",
+   "what": "The justification that conquest and rule over 'less enlightened' peoples benefits the conquered, from Rome's pacification through Kipling's white man's burden and Mill's trusteeship.",
+   "why": "Chapter 17 tests N'Jobu's and Killmonger's 'rule them all the right way' plan against exactly this imperial self-justification and its historical record of atrocity."
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "legitimation-crisis",
+   "name": "Legitimation Crisis",
+   "philosopher": "habermas",
+   "domain": "political-social",
+   "what": "Habermas's notion of a breakdown in the motivations and institutions that secure mass loyalty to a social order, leaving its norms unable to bind members.",
+   "why": "Chapter 18's central claim is that Killmonger's unkingly rule triggers precisely this crisis for Wakandan kingship itself, not just for his personal reign."
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "divine-right-of-kings",
+   "name": "Divine Right of Kings",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Doctrine that monarchs derive authority directly from God rather than the people's consent, articulated by James VI and systematized by Bossuet.",
+   "why": "Chapter 18 maps T'Challa's UN speech proposition-by-proposition onto Bossuet's scriptural defense of absolutism, concluding Wakanda's king reaches toward divine-right rule."
+  },
+  {
+   "ch": 22,
+   "type": "philosopher",
+   "suggested_slug": "carol-adams",
+   "name": "Carol J. Adams",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Feminist-vegetarian critical theorist whose The Sexual Politics of Meat argues meat-eating symbolically reinforces patriarchal masculinity and the objectification of women and animals.",
+   "why": "Chapter 11 builds its entire reading of M'Baku's vegetarianism and Killmonger's hypermasculinity on Adams's meat-patriarchy framework."
+  },
+  {
+   "ch": 23,
+   "type": "philosopher",
+   "suggested_slug": "audre-lorde",
+   "name": "Audre Lorde",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Black feminist poet and theorist of difference, interdependency, and the limits of using the master's tools against the master's house.",
+   "why": "Chapter 23 grounds its account of Wakandan women's womanist self-definition and solidarity across difference in Lorde's essays, quoted at length throughout."
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "womanism",
+   "name": "Womanism (Alice Walker)",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Alice Walker's term for Black feminist consciousness — 'womanish,' audacious, committed to the survival and wholeness of an entire people — prioritizing communal over individual freedom.",
+   "why": "Chapter 23 applies Walker's four-part definition to Shuri, Okoye, and Nakia, arguing Wakandan women exemplify womanist rather than merely feminist philosophies."
+  }
+ ]
+}

@@ -1,0 +1,444 @@
+{
+ "book": "053 - Martial Arts and Philosophy - Beating and Nothingness",
+ "unit": "u085",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Martial Arts and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Popular Culture and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Fighting Talk.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "buddhism",
+    "stoicism",
+    "utilitarianism"
+   ],
+   "relation": "The editors' introduction argues that philosophy and fighting have been companions since Socrates the soldier and Plato the wrestler (whose name means 'broad shouldered' from the gym), and that each can illuminate the other. It tours the volume through concrete cases: budo courtesy drawn from Shinto, Confucianism and Zen; the Shaolin monks' exercises as a route to Buddhahood; Western chivalry and Gordon Marino's boxing as educations in Aristotelian courage; fencing's egoism and value; and the Stoicism of karate and utilitarianism of Kano's judo. Philosophy clarifies fighting traditions, while fights supply puzzles for ethics, aesthetics, and the philosophy of mind."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Enter the Dragon - Traditional Asian Martial Arts.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Free Your Mind, and Your Roundhouse Will Follow.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "confucius",
+    "buddha"
+   ],
+   "concepts": [
+    "confucian-ren",
+    "confucian-li",
+    "aristotle-virtue-ethics",
+    "zen"
+   ],
+   "relation": "Young argues that dojo courtesy is not the fantasy that good manners win fights (Napoleon and the Karate Kid's Johnny lost on skill, not rudeness) but the framing of a craft within a way of life. He maps Aristotle's techne/ethos distinction onto the Japanese jutsu/do pairing to show founders like Kano, Funakoshi and Ueshiba treated fighting as one part of a whole ethical character, reads his seiza apology to an injured yellow belt through Confucian ren, li, yi and shu, and traces Shinto purity into the sincerity (kime) of committed sparring. His black-belt humiliation by seniors becomes Zen's 'courtesy of brutal': ego-deflating violence that trains no-mindedness (muga, Takuan Soho's fudoshin)."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - 2 - An Interview with Bodhidharma.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha"
+   ],
+   "concepts": [
+    "zen",
+    "buddhist-non-self",
+    "nagarjuna-emptiness",
+    "buddhist-compassion"
+   ],
+   "relation": "Priest stages a spoof radio interview with Bodhidharma at the Shaolin Temple to argue that the monks' fighting exercises are really meditation: a fist passing an inch from your nose focuses the mind, and repeatedly practicing violent techniques makes practitioners less violent. Bodhidharma explains that a liter of goat's milk, a marauding thug, and even the reporter's self are only conceptual labels over 'thusness' (tathata), that attachment and the desire to strike cause suffering to the striker, and that the Buddha's compassion permits self-defense without aggression. The punchline is the reporter's unanswered last question: 'They're not really about fighting, are they?'"
+  },
+  {
+   "n": 9,
+   "file": "ch09 - A Koan.md",
+   "kind": "chapter",
+   "philosophers": [
+    "donald-davidson"
+   ],
+   "concepts": [
+    "zen"
+   ],
+   "relation": "Finnigan and Tanaka use the kendo student Kenzo, struck down whenever he thinks 'Now is the time to strike!', to pose the puzzle of intentional action without thought. They set Donald Davidson's causal theory of action (intentions as belief-desire causes) against Takuan Soho's mushin, which warns that wherever you put your mind it stops, then resolve it: training lets a master act 'as Yagyu would', and giving reasons afterwards is how one accepts responsibility for an action no reason was 'in mind' for. The koan dissolves once how-questions (how could I act without thinking?) are distinguished from why-questions (why did you do that?)."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - And the Winner Is.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "buddha"
+   ],
+   "concepts": [
+    "plato-tripartite-soul",
+    "buddhist-non-self",
+    "philosopher-king",
+    "zen"
+   ],
+   "relation": "Lynch pits Plato against the Shaolin monks on the nature of the self that martial training is supposed to master. Plato's Republic makes the athlete-warrior Guardian a harmonious, rationally ruled tripartite soul whose bravery is 'remembering what ought and ought not to be feared', trained so reason governs aggression; Buddhism instead dissolves the self into five impermanent aggregates (illustrated by the chariot analogy) and reads mushin as a direct taste of no-self. He awards the practical decision to the Buddhist fighting monks, since no-self explains martial spontaneity and naturally arising compassion, while admitting Plato's substantive rational soul is not strictly refuted."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Knowledge and Mastery.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Schubert asks what his own master's certificate actually certified and dismantles two accounts of martial mastery: the 'Secret Knowledge' account (hidden teachings like Crouching Tiger's stolen Wu Dan manual) and the 'Complete Knowledge' account, which absurdly implies mastery is suspended when a new takedown joins the syllabus or his forgetful Iaido master omits a step of a form. Using the distinction between knowing-that, knowing-how and physical ability (he knew how to jump-spin heel-kick with his foot in a cast), he argues mastery is knowing that and how across the essential techniques, principles and strategies a style could have consisted of, by analogy with fluency in a language. Rank, politics and even the ability to perform are at best signs of mastery, not the thing itself."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Karate Kid - Character and Education.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - An Enemy Lying in Ambush.md",
+   "kind": "chapter",
+   "philosophers": [
+    "epictetus",
+    "marcus-aurelius",
+    "zeno-citium",
+    "seneca"
+   ],
+   "concepts": [
+    "stoicism",
+    "dichotomy-of-control"
+   ],
+   "relation": "Fuller reads his teenage collapse while holding shiko dachi at his Eighth Kyu grading as a weakness of will, and argues that karate is Stoic discipline embodied. He explains the dichotomy of control through Epictetus's barbecue etiquette and the Kill Bill II buried-alive scene (only the Bride's years of disciplined training, not magic, break the coffin), then lays out living according to nature, Zeno's apatheia, Marcus Aurelius's Meditations, and Seneca's nightly self-examination as the model of askesis. Kata becomes 'a defiant stand against irrational emotion-chasing', and since only virtue is up to us, the enemy 'lying in ambush' is always internal: ourselves."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Don’t Carry the World upon Your Shoulders. Only Your Opponent.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bentham",
+    "mill"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "greatest-happiness",
+    "hedonic-calculus"
+   ],
+   "relation": "Cooper and Taylor argue that Kano's judo principles, seiryokuzenyou (maximum efficiency) and jitakyouei (mutual welfare and benefit), echo Bentham's principle of utility: both men swept away archaic rules to reach one efficient ethical goal, and Kano accepted the comparison. They run the hedonic calculus over training bruises versus the joy of a clean throw, use Mill's secondary principles as rule-utilitarian guidelines (release the armbar at the tap rather than calculating each time), and answer the objection that utilitarianism demands too much with Kano's own ethos: like judo, it is about continual improvement, not impossible maximization."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Living the Absurd Life.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "nietzsche"
+   ],
+   "concepts": [
+    "existentialism",
+    "existence-precedes-essence",
+    "the-absurd",
+    "authenticity"
+   ],
+   "relation": "Krein asks why he has spent fifteen years on karate when pepper spray and avoidance would serve self-defense better, and answers with existentialism rather than Buddhism. Nietzsche's death of God and Sartre's claim that existence precedes essence leave life objectively meaningless, but the dojo supplies a self-contained standard for Sartrean transcendence (kata quality is judged within the art), trains the courage and clarity authenticity requires, and enforces excuse-free responsibility: in sparring you either score or you don't. Studying a traditional martial art is thus a heroic, 'act without hope' defiance of the absurd."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Last Resort.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault"
+   ],
+   "concepts": [
+    "feminism",
+    "power-knowledge"
+   ],
+   "relation": "Petersen recounts fighting off a man who threatened to rape and kill her, and argues that karate, not feminist doctrine or therapy, made her a real feminist by rewiring her self-concept, fear responses and relationships. Against the Lara Croft fantasy she sets practical self-defense doctrine ('don't be there'; assertiveness, not aggression, with the bus pest), Australian, US and UN statistics on violence against women, and the Guthrie study of Chicago's feminist Thousand Waves dojo. She frames the transformation with Foucault's 'care of the self': karate's practices of the self give women power through knowledge, so that by black-belt time enduring harassment simply 'isn't who she is'."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - The Way of the Place.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Beattie uses Henri Lefebvre's account of the production of space to read the dojo as a 'differential space' practitioners actively create against abstract, conformist space. He shows how bow-ins, founder portraits, Japanese counting, mats, dogi and belt hierarchies mark ownership, bind the school to a lineage, separate 'dojo' from 'street', and shape bodies and safety (with Kendo's door-side seating and MMA's display of physique as hierarchy written into space). Play matters too: Aristotle's point that virtues are built by habit explains how playing at combat in a safe place breeds real courage, and the whole exercise teaches a moving balance between inside and outside."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Perfect Weapon - Ethics and Value.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Back at the Bins, or Loving Your Enemy Like Your Neighbor.md",
+   "kind": "chapter",
+   "philosophers": [
+    "levinas",
+    "arendt",
+    "kant"
+   ],
+   "concepts": [
+    "levinas-face",
+    "categorical-imperative"
+   ],
+   "relation": "Kohn begins with her own response to a serial bin-tipper: practicing iaido sword draws in full view of the neighbours to intimidate an imagined Other. Contrasting iaido's virtual opponent (a mere tool for the self) with aikido's real partners, she deploys Levinas's face of the Other, responsibility without waiting for reciprocity and philosophy as 'the Wisdom of Love', alongside Arendt's shared responsibility for the world's conflicts, to argue that care for even one's attacker comes first, with Kant's categorical imperative as the generalizable counterpart to Levinas's ethics. Her confession: she treated the imagined culprit as an object of hate, when meeting 'the Face' would have demanded an apology and maybe a hug."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Why It Matters.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha"
+   ],
+   "concepts": [],
+   "relation": "Russell, who at eleven believed practice would let her kill a bull with one blow, argues that martial arts culture systematically breeds epistemic vices: gullibility (ki knockouts, chocolate milk for recovery), closed-mindedness, dojos treated like churches, sunk-cost defence of the side-kick-knifes-from-hands story, and deference to sensei and founders (Funakoshi curing fevers with karate). She diagnoses data-poverty, since lethal techniques cannot be ethically tested, as the enabling condition, and prescribes cautious belief, closing with the Buddha's counsel from Harry Cook's dojo wall: believe nothing on the authority of masters alone. It matters because these are beliefs about what can injure and kill."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - The Moving Shadow of Truth.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel",
+    "aristotle",
+    "foucault",
+    "descartes"
+   ],
+   "concepts": [
+    "hegel-dialectic",
+    "cartesian-dualism",
+    "embodiment",
+    "discipline"
+   ],
+   "relation": "Haffner and Vogel define martial arts by a Wittgensteinian family resemblance to combat and organize the promise of self-improvement as paired opposites, working them Hegelian dialectic style, granting some truth to each side. They ask whether training brings peace or violence (Hobbes's shield for a war of all against all and Freudian catharsis versus Aristotle's worry that habituated violence breeds violence), strength fantasies or Socratic humility about weakness (with Sun Tzu's know-your-enemy and Foucault on the teacher's gaze and dojo power games), Cartesian dualism versus embodiment, and appreciation of tradition versus its distortion. The lesson is that the martial path holds both light and shadow, and separating enlightenment from self-deception takes eternal vigilance."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - What Monkey Should Have Known.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha"
+   ],
+   "concepts": [
+    "buddhism",
+    "zen",
+    "buddhist-karma"
+   ],
+   "relation": "Mortensen opens with Monkey from Journey to the West beating six robbers to death despite Tripitaka's protest, and asks whether a practitioner of budo can be a Buddhist. He defends three principles, Take No Life, No First Strike and Stop Before Harm, qualifying them via the Upaya-kausalya Sutra's sea captain, Funakoshi's 'there is no first strike in karate', Ueshiba's purely defensive aikido, the initiator's bad karma, and the exception of multiple attackers; then he applies them to weapons, arguing that wooden weapons (the jo, Musashi's bokken, above all the humble walking stick, the 'last legal weapon') fit the precepts where the katana does not. Monkey, in short, should have carried a stick."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Living Beauty.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "pythagoras"
+   ],
+   "concepts": [
+    "apollonian-dionysian",
+    "yin-yang"
+   ],
+   "relation": "Saltzman explains why a flowing Shaolin Kenpo form is beautiful by way of Nietzsche's Birth of Tragedy: the Apollonian geometry of square, triangle and circle fuses with Dionysian power and intention, just as yang hardness needs yin softness. She grounds the body's fitness for this in the Golden Ratio known to Pythagoras, answers 'beauty is in the eye of the beholder' with Clive Bell's 'significant form' as an objective structure that trained judges can recognize, and locates 'living beauty' in the practitioner's own breakthrough, the moment when, as Nietzsche and Yeats agree, the dancer and the dance dissolve into pure mindless movement."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Excalibur - Western Martial Arts.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Jousting for Virtue.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "aristotle-virtue-ethics",
+    "aristotle-practical-wisdom"
+   ],
+   "relation": "Farrell argues that the medieval code of chivalry is a living case study for Aristotle's virtue ethics: Lancelot, 'mekest in hall and sternest to his foe', embodies the paradox C.S. Lewis names as meek and fierce 'to the nth', which Farrell reads as Aristotle's courage, the golden mean between cowardice and rashness, exercised 'to the right extent, at the right time, with the right motive'. The joust, meanwhile, was a proving ground where knightly virtues became second nature through habituated practice, since as Aristotle says 'it is no easy task to be good'. Western martial arts, he concludes, are 'moral kung fu': a fencing match with one's own standards of virtue."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Boxing, a School for Virtues.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-golden-mean"
+   ],
+   "relation": "Marino answers colleagues who call college boxing 'teaching violence' with an Aristotelian defense: courage is the mean between fearlessness and excessive fear, and the ring is one of the few workshops where fear is actually practiced. He cites Wacquant's boxing gym as 'a school of morality' in Durkheim's sense, Rotella's 'education at the fights', and boxers like Maja Cavlovic and George Foreman on how training takes over when fear hits, to argue boxing forges emotional self-command. His challenge to his own students: 'How can you be consistently honest or just if you don't have the mettle to take a hit?'"
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Is Fencing a Dishonorable Art.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes"
+   ],
+   "concepts": [
+    "moral-egoism",
+    "state-of-nature",
+    "social-contract"
+   ],
+   "relation": "Michaud argues that fencing is the loneliest and most egoistic martial art: alone on the strip, you seek to understand your opponent only in order to deceive them through disengages and parry-feints. He maps the bout onto Hobbes: psychological egoism, the dueling ground as a state of nature of 'solitary, poor, nasty, brutish, and short', and the referee as the Leviathan whose rules keep the bloodshed out while licensing normative egoism inside them. Testing defenses from Rand, Friedman and Carr's business 'rules of the game', he concludes that fencing kept its soldier's anything-goes ethos after the lethal stakes vanished, making it a 'dishonorable' art: a Hobbesian feast of solitude, egoism and deception."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Personality of the Épée.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Lawrence asks why anyone practices the épée, an 'unmartial martial art' with no self-defense payoff, one-sided exercise value, and only stylized descent from dueling to first blood (unlike foil and saber's artificial targets and right-of-attack rules). His three answers: fencing uniquely rewards psychology, timing and dexterity over strength and pain-endurance (he prefers Odysseus's guile to Ajax's force); it continues a Bronze-Age tradition ('the history of the sword is the history of mankind'); and the named swords of epic, from Excalibur to Sting, point to the weapon's distinctive personality of courage, honor, deadliness, aesthetic fitness for purpose, and an intimacy with the opponent that Housman's saber-duel poem captures."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Back to Square One.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "bentham"
+   ],
+   "concepts": [],
+   "relation": "Moss concedes fencing's romantic dueling aura, noting that Kant classed a killing in a duel as mere manslaughter, Bentham proposed giving duelists the protection of self-defense for the sake of honor, and Rousseau and Schopenhauer sneered at the whole business. But he argues the sport's uniqueness lies not in honor, psychology or combat origins, which it shares with other martial arts, but in a combination of rules: the blade-set distance between fencers, protective gear that makes them effectively invulnerable, right-of-way, and the return to a neutral start after each point. That combination allows the complex 'phrases' of feint and disengage that make fencing 'physical chess'; what is unique, he concludes, is a matter of rules, not romance."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - And in the Blue Corner, Wearing the White Pants.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - The University of Hard Knocks.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Fighting Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 9,
+   "type": "philosopher",
+   "suggested_slug": "donald-davidson",
+   "name": "Donald Davidson",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Twentieth-century American philosopher whose causal theory of action explains intentional action as behavior caused by an intention, a combination of belief and desire.",
+   "why": "Chapter 9 frames the kendo no-mind puzzle with Davidson's account, asking how Takuan's thoughtless mushin action can still count as intentional."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "knowing-how-vs-knowing-that",
+   "name": "Knowing How vs Knowing That",
+   "philosopher": "ryle",
+   "domain": "mind-language-metaphysics",
+   "what": "The distinction between propositional knowledge (knowing that) and practical competence (knowing how), which need not manifest in actual ability to perform.",
+   "why": "Chapter 11's whole account of mastery rests on separating knowing-that, knowing-how and physical ability, none of which taxonomy currently has a slug for."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "care-of-the-self",
+   "name": "Care of the Self (practices of the self)",
+   "philosopher": "foucault",
+   "domain": "political-social",
+   "what": "Foucault's late ethical notion that self-transformation requires concrete techniques, 'practices of the self', through which one cultivates and governs oneself.",
+   "why": "Chapter 16 argues karate liberates women as feminists precisely by supplying these practices of the self, a framework the existing Foucault slugs do not cover."
+  },
+  {
+   "ch": 17,
+   "type": "philosopher",
+   "suggested_slug": "henri-lefebvre",
+   "name": "Henri Lefebvre",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "French Marxist philosopher of everyday life whose The Production of Space shows how abstract spatial maps encode power and how people build resistant 'differential spaces'.",
+   "why": "Chapter 17's entire analysis of the dojo as a created, resistant place is built on Lefebvre's production-of-space framework."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "epistemic-vice",
+   "name": "Epistemic Vices (vice epistemology)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Character defects in the formation of belief, such as gullibility, closed-mindedness and misplaced deference, that reliably lead to false or unjustified beliefs.",
+   "why": "Chapter 20 argues dojo culture breeds exactly these vices, from ki fantasies to blind deference to founders, and no existing slug names the notion of epistemic vice."
+  },
+  {
+   "ch": 21,
+   "type": "philosopher",
+   "suggested_slug": "gadamer",
+   "name": "Hans-Georg Gadamer",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "German philosopher of philosophical hermeneutics who held that understanding always works within inherited traditions, interpreting rather than escaping them.",
+   "why": "Chapter 21 uses Gadamer to frame whether martial artists appreciate or distort the traditions that shape their identities."
+  }
+ ]
+}

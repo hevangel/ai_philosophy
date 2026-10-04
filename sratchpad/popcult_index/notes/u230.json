@@ -1,0 +1,326 @@
+{
+ "book": "157 - Dungeons and Dragons and Philosophy - Read and Gain Advantage on All Wisdom Checks",
+ "unit": "u230",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Dungeons and Dragons and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Dungeons and Dragons and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dungeons and Dragons and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Dungeons and Dragons and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein"
+   ],
+   "concepts": [
+    "language-games"
+   ],
+   "relation": "The editors' introduction tells two origin stories for D&D: Gygax and Arneson adapting Tolkien-flavored tabletop wargames like Tactics (the original 1974 subtitle was 'Rules for Fantastic Medieval Wargames Campaigns Playable with Paper and Pencil and Miniature Figures'), versus Gygax's childhood friend Jim Rausch improvising live spy and murder-mystery games where getting 'killed' meant leaving the house. It argues the trouble with classifying what kind of thing D&D is recalls Wittgenstein's claim in Philosophical Investigations that 'game' covers too diverse a range of activities to be defined, echoing Huizinga's Homo Ludens on play lying outside truth and falsehood. The volume's project is announced: stepping back from immersion to ask whether dungeon-crawling is mere escapism or a proving-ground for ideas about morality, metaphysics, and hedonic value."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Dungeons and Dragons and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Littmann recruits Aristotle to answer the charge that D&D is a waste of time: by the function argument the best human life is one of thinking well, and D&D counts even as hack-and-slash, since munchkin optimization and 4e combat roles are logic puzzles, while role-playing is improvisational theater and therefore art. Aristotle's two art-functions are applied to play: catharsis, so that smacking goblins with a mace (his first cleric Brother Silverwolf) purges aggression and fear, and the Poetics' point that poetry explores 'a kind of thing that might be', so a dwarf chieftain losing a son to disintegration or rescuing a thief from stormclaw scorpions makes players reflect on parenthood and what friends owe each other. A good DM, Aristotle-style, keeps events within internal probability (no medusa petrifying someone facing away), players must act in character (the lawful good paladin cannot ride past the bandit-attacked peasant, and 'just playing my character' does not excuse the assassin murdering the magic-user at the inn), yet D&D's fully participatory, player-authored art can still accommodate unaligned and evil PCs."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "virtue-ethics",
+    "aristotle-virtue-ethics",
+    "moral-psychology"
+   ],
+   "relation": "Merli argues from alignment role-play against Aristotelian virtue ethics: a morally decent player convincingly runs a vicious treacherous thief who frames others for murder, and a 'moral mediocrity' runs a genuinely good paladin, so the ability to judge what the virtuous agent would do is one thing and being virtuous another. This undermines the McDowell/Hursthouse/Jacobson line that only the virtuous, with habituated emotional responses, can 'see what to do' — the role-playing skill works off-line, without feeling the character's fear or sharing its motives, so right-action judgment does not require trained emotion. He adds that if the virtue ethicist retorts that non-virtuous players never really get it right, the contrast between guessing dice in a fist (verifiable success) and claiming to read auras (unverifiable) shows the retort makes virtue look fraudulent, and that role-playing, unlike reading Austen, demands active deliberation from another's point of view, exposing abilities literary examples miss."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "mill",
+    "arendt"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "greatest-happiness",
+    "banality-of-evil"
+   ],
+   "relation": "Cogburn attacks Fourth Edition's contraction of the nine alignments to five: it deletes archetypes that fantasy literature needs, since Karsa Orlong (who wills the destruction of all civilization without sadism) and Jacqueline Carey's Haomane Firstborn (who loves cold mathematical order while his laws lead to genocide) fit nowhere in the new scheme. He rebuilds alignment by taking it to describe what a character wills in Kant's sense, mapping the law-chaos axis onto the categorical imperative (the liar and murderer must take themselves to be exceptions to universal laws) and the good-evil axis onto Mill's greatest happiness principle, which yields a Lawful Good of Gandhi and King, a Neutral Good modeled on Jesus breaking Sabbath law out of love, and Lawful Evil exemplified by vampire hierarchies and politicians whose policies create hell abroad. Joe Abercrombie's torturer San Dan Glotka becomes the archetypal Neutral Neutral, 'banality of evil' in Arendt's sense, and the chapter concludes Chaotic Good is empty because willing the destruction of universalizability cannot consistently will less pain."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "mill",
+    "bentham"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "kingdom-of-ends",
+    "greatest-happiness"
+   ],
+   "relation": "Bateman replies to Cogburn by recovering the alignment system's actual literary source: Moorcock's Elric saga, where Law and Chaos are rival political ideologies (conservative and liberal tendencies) held in check by the Cosmic Balance, so a Chaotic person need only refuse law's authority, not will horror, and Chaotic Good remains possible. He rejects Cogburn's 'sausage machine' reading of Kant's first formula in favor of the humanity formula and the Realm of Ends, and rejects act utilitarianism as a model of the Good alignment, since an overpopulation scenario shows Mill's calculus mandating culling-genocide and Bentham's felicific calculus cannot actually measure goodness. Drawing on Badiou's ethic of truths, Buddhist and Jain renunciation, and the true-Neutral Druid as servant of the Cosmic Balance, he argues neutrality between Good and Evil need not be monstrous and mourns 4e's 'childishly simplistic' new system."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "nagel",
+    "charles-taylor"
+   ],
+   "concepts": [
+    "personal-identity",
+    "narrative-identity"
+   ],
+   "relation": "Silcox's fifth-level paladin died to eighty-three orcs and his middle-school friends held a funeral, and the chapter asks whether grief for a PC death is rational. Charles Taylor's narrative ethics — we grasp our lives as unfolding stories — would vindicate it, but objections from Beckett's Waiting for Godot and MacEwan's Atonement (via critic Samantha Vice) show stories can discourage seeing life as narrative, and the decisive asymmetry is Nagel's point about death: after the paladin falls the campaign story continues and the player can still watch it, whereas a person's own death forecloses any finding out how things turn out, a difference like February cold versus interstellar cold. He proposes instead that the self is a 'back-story' or metanarrative precondition of storytelling, closing against Descartes' Meditations claim that the power of imagination is 'in no way necessary' to his essence — take away someone's capacity for shared fiction entirely and nothing recognizable remains."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume"
+   ],
+   "concepts": [
+    "imaginative-resistance"
+   ],
+   "relation": "Dadlez narrates an all-night RPG in which her disguised Romulan spy blew up the Enterprise and got herself shunned by her seminar colleagues, and asks whether role-playing evil makes the player morally complicit. Working through Hume's Standard of Taste claim that we cannot 'enter into' vicious sentiments and the puzzle of imagining morally deviant worlds, she argues the role-player is like an author or improvising actor: generating Waltonian fictional truths about a wicked character requires no first-person endorsement of the character's values, any more than method acting a villain requires sharing his ethics. The other players' real anger is explained not as imagined complicity but as resentment at having their collaborative Star Trek story hijacked into a triumph of the villain, and the 'Orc Holocaust' worry about XP-for-slaughter survives only as a caution that game-licensed 'shoot first' generalizations might bleed into real-world attitudes."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "hume"
+   ],
+   "concepts": [
+    "falsification",
+    "noble-lie"
+   ],
+   "relation": "Cooke defends his three-year campaign of a lawful evil wizard (Oraximon, who magic-missiled an innkeeper and hid the bodies in a rope trick) against religious and secular critics. The epistemic charge fails because rulebooks are invitations to imagine, not assertions, and the Smurfs-as-Krishna example shows an 'attitude for export' needs authorial evidence D&D lacks; Hume's twin claims about the impropriety of imaginatively endorsing flawed sentiments are dismantled by splitting Can'tians from Won'tians over Gendler's stories and defending a 'Hardian' view on which resistance is just difficulty, making imaginative resistance a chimera. The causal charge fails on the evidence (the Werther effect and its video-game and jazz cousins are post hoc plus confirmation bias), the character-warping charge risks the unfalsifiability of the repressed-desire diagnosis, and Plato's ban on the arts — enforced via the noble lie — would be the price if imagining were as bad as doing."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dubois",
+    "appiah"
+   ],
+   "concepts": [],
+   "relation": "The Rochas confess to being 'elf racists' and map Forgotten Realms elf races onto American racial stereotypes: wood elves as Native Americans living in harmony with nature, sun elves as the smart, honor-bound 'model minority' Asians, moon elves as the unmarked white norm against which others are qualified, and drow as Black people — with the lighter-skinned dark elves redeemable through Eilistraee's blood sacrifice, echoing the racist 'good negro' myth and the Underdark as ghetto. After summarizing the biology that human races are not sub-species (no race gene; African genetic diversity so deep two Black people may each be closer to an Asian stranger than to each other), they weigh pro-race philosophers — Du Bois's Conservation of the Races, where each race must deliver its message, and Outlaw's races as support groups — against Appiah's argument in 'Racisms' that salvaging race without biology always smuggles biology back and keeping races regenerates hierarchy. Their verdict: Dungeon Masters should stop lazily stereotyping, so NPCs can surprise players instead of confirming racial essences."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "feminism",
+    "objectification",
+    "care-ethics"
+   ],
+   "relation": "Olson's first D&D Encounters session handed her a sexualized female miniature in a chainmail bikini and high-heeled boots, and the chapter audits the game as a feminist would: research on the 'token girl' and male-default storytelling, women like Dowsett pushed to play male characters to be taken seriously, and harassment ranging from 'date at least one of the party or bring food' to condescension toward women in the industry. Against this she argues the rules themselves are egalitarian — identical power pools for male and female characters, embodying Plato's Republic claim that women 'are by nature the same with respect to guarding the city', and even the evil deities are stereotyped symmetrically (scheming Lolth and Tiamat versus war-god patrons of power) — while the collaborative party structure (clerics healing strikers, shared goals) has exactly the care-ethical, anti-individualist flavor Friedman and Bolte attribute to women's moral perspectives. Sexism is thus a consequence of unreflective practices, marketing that ignores women, and industry culture rather than the game; all-female systems like Portal Worlds are a real response but, she worries, separatism risks deepening the divide."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Dungeons and Dragons and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "parfit",
+    "nagel"
+   ],
+   "concepts": [
+    "parfit-teleportation",
+    "what-is-it-like",
+    "personal-identity"
+   ],
+   "relation": "Silcox and Cox read D&D modules as thought experiments in James Robert Brown's 'laboratory of the mind'. The Tomb of Horrors' four overlapping plane-shifted buildings restate Parfit's teletransporter puzzle — did the character who stepped through get annihilated, or is an exact copy walking around elsewhere, and does the answer differ for a Warforged or Tiefling? — while the Eberron setting's magically sentient Warforged run into Nagel's 'What Is It Like to Be a Bat?': players cannot access Warforged experience and are really exploring what it is like for a human to suspend disbelief, like Greek actors donning masks. Mary Anne Warren's Space Traveler criteria for alien personhood collapse on contact with orcs who pass them yet eat you, and with the Flumph — lawful good, rational, but killed on sight by the authors' own party — showing personhood cannot be the only criterion for how to treat strangers; the closing twist is that philosophy contemplates scenarios sub specie aeternitatis while D&D forces immersion sub specie temporis, a habit of entertaining the impossible that is itself a philosophical virtue."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "sartre"
+   ],
+   "concepts": [
+    "art-horror"
+   ],
+   "relation": "Cogburn and Hebert ask how fantasy can stage magic that is by definition indescribable, from Lovecraft's unknowable mirror-monster in 'The Outsider' to Priest's limit-of-thought paradoxes. They sort magic into formulaic natural magic — mage-scientists exploiting a world's universal laws, exactly Kant's conception of nature, as in Snape's potions or Mieville's steampunk — and sublimate natural magic, where the practitioner surrenders to forces as in Candomblé possession or Robin Hobb's possessed soldier, against genuinely unnatural magic that violates law itself, as in Bakker's Prince of Nothing or the reality-liquefying passage from Sartre's Nausea. Carroll's theory of art-horror (via Mary Douglas: impurity as categorical incompatibility and incompleteness, from Leviticus's shellfish to The Dunwich Horror's fusions, fissions, and formlessness) explains how writers express the inexpressible, and exposes why 4e's algorithmic spell rules — the Fireball math every player masters 'like a chemistry student' — naturalize magic and kill the horror, leaving Dungeon Masters only narrative techniques (character reaction, reader-relative impossibility, limit impossibility) rather than rules."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "lacan",
+    "husserl"
+   ],
+   "concepts": [
+    "phenomenology",
+    "dasein"
+   ],
+   "relation": "Morton argues that to play D&D well is to do phenomenology: mapping a dungeon enacts a Heideggerian 'worlding' in which players generate care and concern for the entities around them, and the smudged, blood-stained survivor's journal in The Lost Caverns of Tsojcanth — alluding to the dwarves' book in Moria — shows that worlds are never transparent but allure, drawing players in through mystery (Harman's 'allure'). Against Heidegger's remark that animals are 'poor in world' and Lacan and Žižek's claim that only humans stick out of their life-world, he borrows Harman's 'sincerity' (with Husserl's intentional objects) to say every entity is stuck inside its own incomparable world — Elvish sincerity, Orcish sincerity, the Illusionist whose spells are a recursive play of illusion inside a game of illusion. D&D thereby caps the history of realism: where the novel moved from letters to focalization under a controlling narrator, the RPG replaces the master narrator with 'willing disbelief', letting players handle Romantic story-worlds — Tolkien's Middle-earth template, Greyhawk's continents, the Astral Plane's many planes — as DIY totalities that can be punctured, sorted, and rebuilt at will."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 9,
+   "type": "concept",
+   "suggested_slug": "aristotelian-catharsis",
+   "name": "Catharsis (purging emotion through tragedy)",
+   "philosopher": "aristotle",
+   "domain": "ancient",
+   "what": "Aristotle's Poetics account on which experiencing tragedy purges the spectator's pity and fear, extended in this book to other emotions and media.",
+   "why": "Chapter 9's defense of D&D as worthwhile art leans on catharsis to explain how smacking imaginary goblins discharges real aggression and fear."
+  },
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "alain-badiou",
+   "name": "Alain Badiou",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "French philosopher whose 'ethic of truths' argues that commitment to a single natural moral law produces evil, as a 'simulacrum' of the Good (Nazism) or a 'disaster' (wars for human rights).",
+   "why": "Chapter 12 invokes Badiou to ground Chaotic Good: one can pursue what one takes to be Good while refusing the authority of any single moral law."
+  },
+  {
+   "ch": 13,
+   "type": "philosopher",
+   "suggested_slug": "charles-taylor",
+   "name": "Charles Taylor",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Contemporary philosopher of selfhood (Sources of the Self) who holds that identity requires an orientation to the good woven into one's life as an unfolding narrative.",
+   "why": "Chapter 13 quotes Taylor as the leading advocate of narrative ethics and tests his view against grief over a slain D&D character."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "narrative-identity",
+   "name": "Narrative Identity (narrative ethics)",
+   "philosopher": "charles-taylor",
+   "domain": "ethics-moral-psychology",
+   "what": "The view that making sense of oneself as a persisting self requires grasping one's life as a story, and that fiction and life derive value in similar ways.",
+   "why": "Chapter 13 evaluates whether narrative ethics can rationalize a player's grief at PC death and replaces it with the self as 'back-story' or metanarrative."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "imaginative-resistance",
+   "name": "Imaginative Resistance",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The puzzle that readers readily imagine physical impossibilities but balk at imagining morally deviant worlds in which evil is right, discussed via Hume, Gendler, and Walton.",
+   "why": "Chapters 14 and 15 use imaginative resistance to explain why evil role-play can feel wrong, and whether players must be complicit in a character's wicked perspective."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "race-eliminativism",
+   "name": "Race Eliminativism vs Conservation",
+   "philosopher": "appiah",
+   "domain": "feminism-gender-race",
+   "what": "The debate over whether, given that biology finds no human races, we should eliminate racial categories entirely or conserve them pragmatically for pride and solidarity.",
+   "why": "Chapter 16 frames the D&D elf-race stereotype problem through this exact debate, weighing Du Bois and Outlaw against Appiah's race-blind ideal."
+  },
+  {
+   "ch": 19,
+   "type": "philosopher",
+   "suggested_slug": "mary-anne-warren",
+   "name": "Mary Anne Warren",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Bioethicist whose Space Traveler thought experiment proposes criteria (religion, art, tool use, shelter) for when unfamiliar beings count as persons with full moral rights.",
+   "why": "Chapter 19 tests Warren's personhood criteria against orcs that pass them and the lawful-good Flumph killed on sight, concluding personhood cannot be the only moral criterion."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "art-horror",
+   "name": "Art-Horror (the philosophy of horror)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Noel Carroll's account of horror fiction as arousing art-horror through monsters that are categorically impossible, impure, or incomplete relative to our conceptual schemes, expressed by metonymy, massification, magnification, fission, and fusion.",
+   "why": "Chapter 20 builds its whole account of unnatural magic on Carroll's tropes and shows why D&D's mechanical spell rules make the inexpressible unplayable."
+  },
+  {
+   "ch": 21,
+   "type": "philosopher",
+   "suggested_slug": "graham-harman",
+   "name": "Graham Harman",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Object-oriented ontologist who holds that entities withdraw from all access, with 'allure' naming the aesthetic invitation into another object's reality and 'sincerity' our inescapable fusion with our own experienced objects.",
+   "why": "Chapter 21 borrows Harman's allure and sincerity to explain how D&D lets players handle the incomparable inner worlds of elves, orcs, paladins, and Illusionists."
+  }
+ ]
+}

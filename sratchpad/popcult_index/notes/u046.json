@@ -1,0 +1,295 @@
+{
+ "book": "030 - Pink Floyd and Philosophy - Careful with that Axiom, Eugene!",
+ "unit": "u046",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Pink Floyd and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Popular Culture and Philosophy Series Editor George A. Reisch.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Pink Floyd From Pompeii to Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "nagel"
+   ],
+   "concepts": [
+    "plato-forms",
+    "what-is-it-like"
+   ],
+   "relation": "George Reisch's introduction reads the 1971 Live at Pompeii film, with the band playing to no audience inside a circular stone amphitheatre, as an ironic anticipation of The Wall, tracing how Waters's fury at stadium crowds (culminating in the 1977 Montreal spitting incident that spawned the wall concept) had not yet arrived. It frames the band's post-Barrett move from psychedelic whimsy to minimal formalism as philosophical stripping-away: Barrett wrote like an Aristotle fascinated by odd particulars ('Lucifer Sam,' 'The Gnome'), whose puzzlement at his impenetrable cat prefigures Nagel's 'What Is It Like to Be a Bat?' and the problem of other minds, while Waters pursued Plato's monolithic 'forms' of time, money, and madness. On this reading Dark Side's closing 'the sun is eclipsed by the moon' indicts Being itself, making life essentially and permanently tragic, a circular trap signaled by The Wall's interlocking 'we came in?' and 'Isn't this where...'"
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Pink Floyd in Popular Culture.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Does Johnny Rotten Still Hate Pink Floyd.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "authenticity",
+    "culture-industry"
+   ],
+   "relation": "Reisch argues that Johnny Rotten's 'I hate Pink Floyd' T-shirt was a provocation aimed at the band everyone loved, since Pink Floyd was the exception to late-1970s corporate blandness rather than a symptom of it. Tracing the band from Syd Barrett's disintegration (the ever-changing 'Have You Got It Yet?', his unrecognizable 1975 walk-in at the Wish You Were Here sessions) through the Dark Side triumph and the Waters/Gilmour split, he contends that Pink Floyd 'was punk long before the Ramones and the Sex Pistols.' Where punk used two-minute power chords, Pink Floyd meticulously sharpened an ax to grind: 'Have a Cigar' and 'Welcome to the Machine' dissect the industry machine that cages and commodifies artists, and the whole project attacks the inauthenticity, alienation, and tragedy of modern life."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - “A New Broom Sweeps Clean, but an Old Broom Knows Every Corner”.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "buddhism"
+   ],
+   "relation": "Callis interweaves a memoir of the teenage boyfriend who played her Dark Side and later killed himself with an account of Easy Star Records' 2003 reggae remake, Dub Side of the Moon, arguing that the album's themes of time, money, materialism, and madness translate naturally into Rasta reasoning. Nyabinghi drumming, singjay toasting, and bong-bubble effects re-read 'Money' (the cash register replaced by a lighter firing the chalice) and 'Time' (Ranking Joe's 'Time is the master') through Rasta rejection of Babylon, anti-capitalist subsistence, and 'soon come' patience, which she glosses with the Buddhist principle that things happen in their own time. The reggae setting, she concludes, weaves all this pain and madness, from Barrett's collapse to her own ghosts, into something more optimistic than the original ever sounded."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Feelings of an Almost Human Nature.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "joseph-campbell"
+   ],
+   "concepts": [],
+   "relation": "Mroz rereads Alan Parker's film The Wall twenty-five years after it left her speechless, arguing it works on the viewer like Jungian lucid dreaming, a conversation between the brain's holistic image-making and linear verbal halves (via Shlain), and that its uroboros structure (the '...we came in?' / 'Isn't this where...' loop) replaces Aristotle's linear plot curve with something closer to Campbell's Hero's Journey, in which the audience's identification rises and the true 'return' happens after the film ends. She complains that most of the film's symbols are over-explicit, since the Judge is literally a talking asshole and the flowers that couple and then maul each other need no interpretation, leaving the viewer nothing to do; the one sequence that earns identification is Young Pink nursing the sick rat that dies anyway. The Trial's 'tear down the wall' becomes the moment the trauma-built self could finally be exposed, leaving the children in the ruins ambiguously alone."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Caring Dogs Watching Flying Pigs.md",
+   "kind": "chapter",
+   "philosophers": [
+    "adam-smith",
+    "marx"
+   ],
+   "concepts": [
+    "invisible-hand",
+    "marx-ideology",
+    "utopia-dystopia"
+   ],
+   "relation": "Croskery reads Animals as a beast fable in the tradition of Orwell's Animal Farm that opens with a thought experiment ('If you didn't care what happened to me / And I didn't care for you') and portrays a world without empathy across three corruptible institutions. 'Dogs' dramatizes a malfunctioning marketplace where Adam Smith's invisible-hand justification fails, since success requires lying to those you must trust and ends with the sad old man 'dragged down by the stone'; 'Pigs (3 Different Ones)' targets state corruption from Mary Whitehouse's censorship crusade to war-waging and regulatory capture; and 'Sheep' depicts Marxist false consciousness, the pastoral illusion hiding the slaughterhouse, capped by the Twenty-Third Psalm parody that 'converteth me to lamb cutlets.' The chapter concludes that libertarian, statist, and traditionalist errors each idolize one institution, and that Waters's closing 'Pigs on the Wing' points to the delicate balance of market, state, and community that political philosophy must strike."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Thematic Synchronicity.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kuhn"
+   ],
+   "concepts": [
+    "paradigm-shift"
+   ],
+   "relation": "Jones asks what the famous Dark Side of the Rainbow synchronization (album plus The Wizard of Oz, started on the third MGM lion roar) could mean given that the band denies designing it. He catalogs vivid syncs ('Time''s chimes as Miss Gulch bicycles past, 'Money''s cash register entering Munchkinland, 'Us and Them''s 'black and blue' over the Witch and Dorothy), then rejects both the Waters-conspiracy model and Jung's acausal 'synchronicity' as pseudoscience, proposing instead Conrad's apophenia and Kuhn's point that suspecting patterns others miss is the lifeblood of discovery. His resolution is 'thematic synchronicity': both works stage the struggle between security and transcendence, Dorothy's 'Over the Rainbow' against 'Eclipse''s 'all you touch and all you see is all your life will ever be,' so the coincidences feel objective because they are subjectively real to everyone."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - In the End, It’s Only Round and Round (and Round).md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "eternal-recurrence"
+   ],
+   "relation": "Steiff argues Pink Floyd's music is cinematic in itself: like film it unfolds in time and uses foreshadowing ('Speak to Me'), dynamic contrast, and Kuleshov-effect juxtaposition, which explains why the Wizard of Oz mashup creates any meaning at all, though she finds that mashup a novelty compared to 'Echoes' over the ending of Kubrick's 2001. The heart of the chapter is circularity: the heartbeat that both opens and closes Dark Side, The Wall's interlocking 'isn't this where / we came in,' and the fish bowl of 'Wish You Were Here' make the listener see, not merely be told, that life is a maze of metaphysical necessity, doomed to repeat the same round. Compared to Waters's doggerel 'Free-Four,' which says the same thing about death, Dark Side's forty-three-minute loop lets you live a microcosmic life, and that shown-rather-than-said quality gave a lonely listener the dark hope of knowing he was not alone."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Alienation (Several Different Ones).md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - We Don’t Need No Indoctrination.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx",
+    "heidegger",
+    "sartre",
+    "camus",
+    "russell"
+   ],
+   "concepts": [
+    "marx-alienation",
+    "being-toward-death",
+    "thrownness",
+    "authenticity"
+   ],
+   "relation": "Detmer argues the four classic albums from Dark Side to The Wall form a unified meditation on alienation, from others, work, nature, and oneself, and reads Waters's stated 'political and philosophical' aims through the existentialists. 'Breathe''s rabbit digging one hole after another illustrates Marx's alienated labor (the worker 'only feels himself freely active in his animal functions'), echoed by Russell on industrialism's life against instinct and Camus on the day the 'why' arises; 'Time''s missed starting gun dramatizes our thrown condition and Heidegger's claim that only facing mortality head-on cures the inauthenticity of living as 'they' do, while Gilmour's improvised solos model the spontaneity such authenticity requires. 'Money' is a satire of greed confirmed by 'Dogs,' whose self-rationalizing climbers end 'dragged down by the stone,' and 'Us and Them' attacks artificial divisions (soldiers manipulated by map-movers, racism's 'black and blue,' the old man who dies 'for the want of the price of tea and a slice'). 'Another Brick in the Wall (Part 2)' indicts indoctrination, being told what to think, rather than education itself, making independent critical thought the road to the Sartrean autonomy and responsibility the chapter urges."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Would You Help Me to Carry the Stone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "camus",
+    "plato",
+    "hegel",
+    "nietzsche",
+    "sartre"
+   ],
+   "concepts": [
+    "the-absurd",
+    "sisyphus",
+    "plato-cave",
+    "camus-revolt"
+   ],
+   "relation": "Weinstein argues critics who call Waters a gloomy misanthrope misread him: he is an existentialist whose work maps point for point onto Camus's absurd, the human demand for unity endlessly frustrated. Waters's imagery tracks Camus's: the sun (Plato's cave symbol of the good, and the light Sisyphus loved on earth) against the eclipsed moon of death and madness; the stone we secrete through failed communication ('the bad blood slows and turns to stone' in 'Dogs,' 'would you help me to carry the stone' in The Wall) against Sisyphus's rock; and Pink's Trial, condemned for 'showing feelings of an almost human nature,' replaying Meursault's condemnation for failing to cry at his mother's funeral. Since the institutions of home, school, military, and the music industry's machine block every genuine encounter, Waters's persistence in making art that mostly fails to communicate is itself the absurd revolt, so with Camus one must imagine Sisyphus happy, and Weinstein imagines Waters happy too."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Eclipse of Musical Alienation.md",
+   "kind": "chapter",
+   "philosophers": [
+    "adorno",
+    "marx"
+   ],
+   "concepts": [
+    "culture-industry",
+    "marx-alienation"
+   ],
+   "relation": "Macan uses Adorno to measure Pink Floyd's career-long confrontation with alienation: after 'Echoes' fused metaphysical loneliness ('I am you and what I see is me') with an explicitly Marxist account of capitalist atomization and commodification, the early epics 'Interstellar Overdrive,' 'Careful with that Axe, Eugene,' 'Set the Controls,' and 'Echoes' unknowingly resurrected Stravinsky's primitivism, their LSD-shaped structures (dechronization, depersonalization, dynamization) modeling the ego's dissolution and reintegration through climactic 'breakthrough' passages of maximum alienation, just as Schoenberg's twelve-tone music 'points out the ills of society' by musically modeling them. Against Adorno's 'On Popular Music,' he argues the early Floyd audience sought challenge rather than reassurance, but that from Dark Side onward the increasingly conventional music, polished by producer Bob Ezrin on The Wall, began 'hearing for the listener,' so Waters's plainspoken social critique lost its transgressive force. The Adornian moral is that you cannot critique alienation through music that is no longer itself alienating."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - There is No Dark Side of the Moon Really. Matter of Fact It’s All Dark.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buber",
+    "nietzsche",
+    "buddha",
+    "horkheimer"
+   ],
+   "concepts": [
+    "i-thou",
+    "death-of-god",
+    "buddhism"
+   ],
+   "relation": "Johnston reads The Dark Side of the Moon through Buber's I and Thou: modern life traps us in the I-It mode of experience, from 'Welcome to the Machine' to teachers who treat students as replaceable Its ('Hey, teacher, leave us kids alone!') and Horkheimer's instrumental reason that turns personnel into 'human resources,' while the album repeatedly calls us to the I-You encounter, from 'Echoes'' strangers whose glances meet ('I am you and what I see is me,' Waters's origin of empathy) to 'Breathe''s 'don't be afraid to care.' He links the opening heartbeat and the breath of 'Breathe' to Buber's eternal You, defends Buddhism against Buber's charge that enlightenment is worldless monologue (the Buddha becomes one with the world, a perfect reciprocity like the innate You of the womb), and accepts Nietzsche's point that the Enlightenment's abstract God is dead while insisting, with Buber, that encounter with the eternal You remains possible. The album itself, he concludes, resists degenerating into an It: even if 'the sun is eclipsed by the moon,' the light persists and Dark Side can be the antidote to the It-world."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Apples and Oranges Or Just Apples.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - To Join in with the Game.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "kant"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "kant-aesthetics"
+   ],
+   "relation": "Gracyk argues Waters is wrong that Pink Floyd ended when he quit in 1985: Waters's case rests on an illicit use of the identity of indiscernibles, since if losing Waters's lyrics destroys the band's identity, then losing Barrett's or Wright's, or adding 'Lucifer Sam,' would too, which proves too much. Borrowing Locke's distinction between the same man and the same person (the oak that remains the same oak through change; the unrecognized Syd in Abbey Road's Studio Three) and Kant's contrast between free and dependent beauty to explain how intentions change aesthetic evaluation, he defends actual intentionalism over hypothetical intentionalism: Hendrix really sings 'kiss the sky,' and interviews with Waters genuinely aid interpretation of Wish You Were Here. He then argues for collective agency, that groups can have intentions through members charged to act responsibly on the group's behalf, so no single member can disband a collective: Waters had a duty to leave, Gilmour, Mason, and Wright were entitled to continue the group's longstanding intention of making and performing original music, and the Echoes compilation is therefore an accurate portrait of the real Pink Floyd."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 8,
+   "type": "concept",
+   "suggested_slug": "rastafari",
+   "name": "Rastafari (Babylon, I-tal, and Jah)",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "A Jamaican religious movement grounded in the Old Testament that rejects 'Babylon' (white imperialist power structures) through natural living, ganja as sacrament, nyabinghi drumming, and 'soon come' time.",
+   "why": "Chapter 8 interprets the reggae Dub Side of the Moon, and Dark Side's money and time themes, entirely through Rasta reasoning, which no taxonomy concept covers."
+  },
+  {
+   "ch": 9,
+   "type": "philosopher",
+   "suggested_slug": "carl-jung",
+   "name": "Carl Jung",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Swiss psychologist whose theory of symbols, lucid dreaming, and the collective unconscious treats images and dreams as a conversation between the conscious and unconscious mind.",
+   "why": "Chapter 9 builds its reading of The Wall film on Jung's concepts of lucid dreaming and over-explicit versus genuinely symbolic imagery to explain how the movie works on its audience."
+  },
+  {
+   "ch": 9,
+   "type": "philosopher",
+   "suggested_slug": "joseph-campbell",
+   "name": "Joseph Campbell",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Mythologist whose monomyth of the Hero's Journey, departure, fulfillment, and return, describes the initiation structure of narratives across cultures.",
+   "why": "Chapter 9 superimposes Campbell's circular Hero's Journey on Aristotle's plot curve to model how the audience participates in The Wall and receives its meaning."
+  },
+  {
+   "ch": 11,
+   "type": "philosopher",
+   "suggested_slug": "carl-jung",
+   "name": "Carl Jung",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Swiss psychologist who proposed 'synchronicity,' an acausal connecting principle meant to explain meaningful coincidences.",
+   "why": "Chapter 11 examines and rejects Jung's synchronicity as one of the two main models for why the Dark Side of the Rainbow synchronization feels meaningful."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "apophenia",
+   "name": "Apophenia (seeing patterns in randomness)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The human tendency to perceive meaningful connections among unrelated phenomena, a term coined by psychologist Klaus Conrad and linked by Peter Brugger to creativity itself.",
+   "why": "Chapter 11 uses apophenia, alongside Kuhnian pattern-recognition, as its psychological explanation of why the Dark Side of the Rainbow syncs are perceived without being designed."
+  },
+  {
+   "ch": 17,
+   "type": "philosopher",
+   "suggested_slug": "max-horkheimer",
+   "name": "Max Horkheimer",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Frankfurt School critical theorist whose Eclipse of Reason diagnoses modern thought as 'instrumental reason,' the application of self-interest to all situations for technical efficiency.",
+   "why": "Chapter 17 uses Horkheimer's instrumental reason and ideology critique, alongside Buber, to interpret the It-world of 'Welcome to the Machine,' work, and education."
+  },
+  {
+   "ch": 19,
+   "type": "concept",
+   "suggested_slug": "collective-intentionality",
+   "name": "Collective Intentionality (group agency)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The thesis that groups can be agents with intentions, responsibility, and identity of their own, not reducible to the intentions of their individual members.",
+   "why": "Chapter 19 needs collective agency to explain how Pink Floyd can have a group legacy and why Waters's departure did not end the band."
+  },
+  {
+   "ch": 19,
+   "type": "concept",
+   "suggested_slug": "aesthetic-intentionalism",
+   "name": "Actual vs Hypothetical Intentionalism",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The debate in aesthetics over whether artworks should be interpreted and evaluated by their creators' actual intentions or by the hypothetical intentions of an idealized artist.",
+   "why": "Chapter 19 defends actual intentionalism (Hendrix's 'kiss the sky,' Waters's interviews) as the constraint on which albums genuinely count as Pink Floyd's work."
+  }
+ ]
+}

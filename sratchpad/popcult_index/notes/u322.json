@@ -1,0 +1,105 @@
+{
+ "book": "222 - The Philosophy of Horror",
+ "unit": "u322",
+ "chapters": [
+  {
+   "n": 11,
+   "file": "ch11 - Monstrous motherhood.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "lacan",
+    "freud"
+   ],
+   "concepts": [
+    "discipline",
+    "power-knowledge",
+    "lacan-symbolic",
+    "abjection"
+   ],
+   "relation": "The chapter argues that horror films about mothers are not static representations but Foucauldian sites where 'discourses of motherhood' are produced, policed and contested; using Foucault's account of bodies disciplined through power/knowledge, it treats films as cultural artefacts that both enforce and challenge norms of 'essential' and 'ideal' motherhood. It reworks Sarah Arnold's Lacanian 'Good Mother/Bad Mother' schema (the mother who sacrifices herself so the child enters the Symbolic and submits to the Law of the Father) alongside popularised Freudian mother-blame (the 'refrigerator mother', 'tell me about your mother') to read Psycho's Norma(n), the phallic mothers of The Killing Kind and The Brood, and the doomed single mothers of The Ring, Silent Hill and Triangle. It coins the 'monstrous-maternal' to argue that motherhood is framed as always-already monstrous because no woman can meet the impossible, shifting criteria of ideal motherhood, illustrated through Grace's Vivian/Madeline generational clash and Serial Mom's Beverly Sutphin."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The ageing woman as (American) horror story.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "deleuze",
+    "kristeva"
+   ],
+   "concepts": [
+    "discipline",
+    "power-knowledge",
+    "rhizome"
+   ],
+   "relation": "The chapter theorises the 'abject barren body' — the menstruating, menopausal and post-menopausal woman — connecting menarche as an upswell of feminine power (Carrie's telekinesis, Ginger Snaps, The Witch's Thomasin) to menopause's cultural construction as loss and 'living decay'. Drawing on Mary Douglas and Kristeva on pollution and abjection, and on Deleuze and Guattari's 'becoming-woman' and bodies defined by capacities rather than fixed being, it argues that the female reproductive body is more often barren than fecund and that this state is another generative modality, not an absence. It reads the Western biomedical pathologisation of menopause (Wilson's Feminine Forever, HRT) as a Foucauldian disciplinary discourse, then tracks older women through Sunset Boulevard's Norma Desmond, the hagsploitation cycle (What Ever Happened to Baby Jane?, Strait-Jacket, Hush Hush Sweet Charlotte), and The Taking of Deborah Logan, concluding that Jessica Lange's American Horror Story roles offer the fullest, sexually frank rebuttal to the abjection and invisibility of the ageing woman."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Afterword monstrous miscarriages and uncanny births.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The afterword uses the anthology films The ABCs of Death and its sequel to argue that 'gynaehorror' can be either reactionary or radical. Recounting a female-fan viewing of the first anthology, it catalogues its 'matrix of misogyny' — pervasive objectification, sexual assault and the reductive 'M is for Miscarriage' punchline that renders the woman's reproductive body abject and disposable. Against this it champions the sequel's 'Z is for Zygote', in which an abandoned pregnant woman keeps her thirteen-year-old unborn inside her and is finally turned inside-out and reborn as a 'mother-skin', reading the short as a provocative, generative treatment of maternity, ageing and reproduction. It closes the book's argument that gynaehorror need not belittle women's bodies but can be monstrous in the productive sense of a zygote — new life and new possibilities."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 288.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "abjection",
+   "name": "Abjection",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "Kristeva's concept (from Powers of Horror) of the horror provoked by what must be expelled to maintain the clean and proper body and self, especially the maternal body.",
+   "why": "Chapter 11 grounds the monstrous-maternal partly in Kristeva's maternal-as-abject, and the taxonomy has no abjection concept and no Kristeva."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "monstrous-feminine",
+   "name": "The Monstrous-Feminine",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Barbara Creed's psychoanalytic-feminist account of how horror cinema constructs woman's sexual and reproductive difference as monstrous (womb, femme castratrice, archaic mother).",
+   "why": "Chapter 11's 'monstrous-maternal' is explicitly built as a revision of Creed's monstrous-feminine, which the taxonomy lacks entirely."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "abject-barren-body",
+   "name": "The Abject Barren Body",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "The author's framework linking menstruating, menopausal and post-menopausal female bodies as a non-reproductive yet generative modality that is culturally excluded and abjected.",
+   "why": "Chapter 12 is organised entirely around this coined concept of barren/menopausal abjection, for which the taxonomy offers no adequate slug."
+  },
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "kristeva",
+   "name": "Julia Kristeva",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "French psychoanalytic theorist whose Powers of Horror develops abjection, the semiotic, and the abject maternal body.",
+   "why": "Chapters 11 and 12 both rely substantively on Kristeva's abjection, but she is absent from the taxonomy's philosopher list."
+  }
+ ]
+}

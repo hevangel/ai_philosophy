@@ -1,0 +1,215 @@
+{
+ "book": "232 - The Philosophy of Steven Soderbergh",
+ "unit": "u338",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - The Philosophy of Popular Culture.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - The Philosophy of Popular Culture.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - The Philosophy of Popular Culture.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - The Philosophy of Popular Culture.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - The Philosophy of Popular Culture.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - The Philosophy of Popular Culture.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Philosophy of Popular Culture.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bergson",
+    "kant",
+    "sartre",
+    "augustine",
+    "baudrillard"
+   ],
+   "concepts": [
+    "skepticism",
+    "personal-identity",
+    "simulacra"
+   ],
+   "relation": "The editors' introduction surveys the volume and frames Soderbergh as a maker of 'philosophical cinema' whose films engage epistemology, metaphysics, and ethics. It previews the essays' claims: that sex, lies, and videotape and Schizopolis stage epistemological questions of truth, evidence, and skepticism; that The Underneath and The Limey use Bergson's durée to explore time and self-understanding; that Traffic tests Kant's ethics against Sartrean individual decision; and that Solaris recasts memory and authenticity via Augustine and Baudrillard's simulacra. It positions Soderbergh within Indiewood filmmaking after Welles as a self-reflexive artist."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Philosophy of Popular Culture.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Philosophy of Popular Culture.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "plato",
+    "dennett",
+    "protagoras"
+   ],
+   "concepts": [
+    "skepticism",
+    "cartesian-doubt",
+    "moral-relativism"
+   ],
+   "relation": "Rodriguez-Ruiz argues that Schizopolis and sex, lies, and videotape function as everyday 'thought experiments' about knowledge, contrasting them with Descartes's evil-genius and dream arguments and Dretske's disguised-zebra case. Fletcher must literally become his wife's lover's double to know she is cheating, and Ann pieces together John's affair from a stray earring, dramatizing how high the bar for knowledge of others is and how much depends on lucky accident. The trashcan-music scene stages the problem of induction and Lehrer's Mr. Truetemp. Soderbergh's boss's 'confirm nor deny' speech and Lester's preventable death show the films endorse a moderate skepticism that still affirms nature and power as real, rejecting full relativism and dogmatism."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Philosophy of Popular Culture.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lyotard",
+    "baudrillard"
+   ],
+   "concepts": [
+    "grand-narratives",
+    "language-games",
+    "personal-identity"
+   ],
+   "relation": "Tzioumakis reads sex, lies, and videotape through Lyotard's The Postmodern Condition, arguing the film is contradictory as a 'postmodern' text. Its four characters (Graham, Ann, Cynthia, John) acquire self-knowledge not from the celebrated video camera but through what Lyotard calls the flexible networks of language games: Graham's 'unexpected moves' displace Ann and Cynthia, who then master his interrogative game, while John's reactive lying dooms him. Tzioumakis contends the film's neat character transformations are legitimated by this agonistic network yet remain wedded to a strong emancipation 'master narrative' plus heterosexuality and patriarchy, undercutting its reputation as exemplary postmodern cinema and linking it back to modernity."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Philosophy of Popular Culture.md",
+   "kind": "chapter",
+   "philosophers": [
+    "benjamin"
+   ],
+   "concepts": [
+    "benjamin-aura",
+    "objectification"
+   ],
+   "relation": "Pomerance combines philosophy of sex and philosophy of language to argue that sex, lies, and videotape is less about sex than about speaking sex and being watched speaking it. He analyzes Cynthia's videotaped confession about her first encounter, showing how her circumlocutions ('smooth like a test tube,' 'Ladies first') tease and withhold, and how Graham as silent 'priest of carnality' becomes an absent audience. Videotape 'amplifies' situated speech to a diffuse mass audience, so Cynthia's sexuality becomes a 'television personality,' pornographic in form and effacing her individuality in the manner of Benjamin's mechanical reproduction. The face and presence-in-time make every filmed performance both erotic and a kind of illuminating lie."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - The Philosophy of Popular Culture.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - The Philosophy of Popular Culture.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bergson",
+    "deleuze",
+    "hobbes"
+   ],
+   "concepts": [
+    "bergson-duration",
+    "bergson-memory",
+    "personal-identity"
+   ],
+   "relation": "Palmer argues that The Underneath and The Limey fuse film noir's obsession with the untranscendable past with Alain Resnais's Bergsonism, mediated by Deleuze's account of the time-image. In The Limey, career criminal Wilson's consciousness accumulates recollection-images (including Poor Cow footage of a young Stamp) and prospective imaginings (the two visualized shootings), building toward a Bergsonian intuition: confronting Terry Valentine, Wilson recognizes himself as the same kind of selfish betrayer and spares him, achieving a redemption denied noir predecessors like Get Carter's Carter and Point Blank's Walker. The Underneath, by contrast, uses achronic color-coded structure only to define Michael from the outside, which Palmer counts a partial failure of the same interior ambition."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Philosophy of Popular Culture.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bergson",
+    "deleuze",
+    "hobbes"
+   ],
+   "concepts": [
+    "bergson-duration",
+    "personal-identity",
+    "bergson-memory"
+   ],
+   "relation": "King analyzes The Limey as 'Get Carter as made by Alain Resnais,' using Bordwell's fabula/syuzhet distinction to show how its nonlinear editing renders what Soderbergh calls the nonlinear nature of thought. Dialogue continuity is stretched across discontinuous spaces (the Wilson-Elaine 'embarrassed/ashamed/disappointed' exchange), flash-forwards precede events, and the party shooting is replayed three times as Wilson's fantasy. King argues the whole film reads as Wilson's subjective reconstruction on the plane home, grounded in Bergson (via Deleuze's time-image) yet, unlike Resnais's Marienbad, never producing real ontological or epistemological doubt because the revenge-thriller backbone and color-coding keep it legible. The film's dominant note is nostalgia for a past that, because of Wilson's imprisonments, never really was."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Philosophy of Popular Culture.md",
+   "kind": "chapter",
+   "philosophers": [
+    "benjamin",
+    "baudrillard"
+   ],
+   "concepts": [
+    "simulacra",
+    "benjamin-aura",
+    "grand-narratives"
+   ],
+   "relation": "de Waard argues that The Good German embodies Soderbergh's 'neo-meta' philosophy of history as polyphonic mediation, staged by Levi's line about a camera that turns the image upside-down to set it right. Shooting with 1940s-era equipment and pastiching Casablanca, The Third Man, Chinatown, and Schindler's List, the film presents not history's progression but 'history as time,' a simultaneity of broken mirrors. Reworking Benjamin's angel-of-history thesis, de Waard claims images of the present threaten to reappear ad infinitum, and contrasts Soderbergh's cold, morally relativist tale of American war-criminal whitewashing (Lena's confession that she betrayed twelve Jews) with Spielberg's emotionally manipulative Holocaust spectacle, invoking Eco on Casablanca as 'movies' itself."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - The Philosophy of Popular Culture.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "applied-ethics"
+   ],
+   "relation": "Baker uses Noel Carroll's aesthetic claim that film art requires 'sufficient' creative control ('no control, no style, no art') to defend Soderbergh's authorship across four remakes. The Underneath swaps noir shadow for suburban banality and green/blue color symbolism to externalize Michael's alienation; Traffic adapts a BBC series to indict NAFTA-era globalization and the treatment-starved drug war; Ocean's Eleven rewrites the Rat Pack ending so the thieves keep $150 million, an allegory of American wealth consolidation embodied by casino owner Benedict; Solaris strips science fiction to introspective desire. Baker further argues Soderbergh harnesses star images (Roberts, Douglas, Clooney) yet pushes them past type, synthesizing Hollywood's utopianism (per Dyer) with art-cinema social critique."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Philosophy of Popular Culture.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Philosophy of Popular Culture.md",
+   "kind": "chapter",
+   "philosophers": [
+    "deleuze",
+    "lacan",
+    "baudrillard"
+   ],
+   "concepts": [
+    "simulacra",
+    "grand-narratives",
+    "personal-identity"
+   ],
+   "relation": "Ritzer reads Kafka through Deleuze (and Guattari), Jameson, Barthes, and Lacan as a self-reflexive, schizophrenic pastiche. The film's shift from black-and-white to color as Kafka enters the castle is analyzed via Deleuze's 'colour-image' and Barthes on color as artifice, using color's sensual materiality rather than realism. Its dense allusions to Wiene, Murnau, Lang, Welles's The Trial, and German expressionism make it, in Jameson's terms, a postmodern pastiche marking the waning of historicity, while Lacanian schizophrenia (the breakdown of the signifying chain) models Kafka's paranoia about power structures controlling the individual. Ritzer finally argues the film approaches Deleuze and Guattari's 'minor cinema,' deterritorializing classical Hollywood's realism through intensity and the supremacy of sign over referent."
+  }
+ ],
+ "holes": []
+}

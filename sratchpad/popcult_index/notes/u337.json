@@ -1,0 +1,150 @@
+{
+ "book": "231 - The Philosophy of Stanley Kubrick",
+ "unit": "u337",
+ "chapters": [
+  {
+   "n": 18,
+   "file": "ch18 - The Philosophy of Stanley Kubrick.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "schopenhauer",
+    "mill"
+   ],
+   "concepts": [
+    "stoicism",
+    "meaning-of-life",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Sanders reads Kubrick's heist film The Killing through Stoic ethics, casting Johnny Clay (Sterling Hayden) as a member of the 'cult of the cool' whose reticence and final resigned 'What's the difference?' surrender embody apatheia and acceptance of fate/logos. He tests Spencer Selby's claim that Clay and the sharpshooter Nikki must fail because their motives are immoral, arguing instead via an Aristotelian principle (virtues are stable dispositions) that their sudden lapses—the flimsy suitcase, Nikki's racial slur that loses him the lucky horseshoe—are Kubrick stacking the deck rather than genuine character. He closes by weighing Clay's life against models of a meaningful life (exuberance/romanticism vs. rationalism/self-fulfillment), faulting Clay for never subjecting his chosen ends to self-critical reason."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Philosophy of Stanley Kubrick.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - The Philosophy of Stanley Kubrick.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "plutarch"
+   ],
+   "concepts": [
+    "plato-tripartite-soul"
+   ],
+   "relation": "Braden argues that Kubrick's Spartacus, despite its chaotic production, coheres around Plato's tripartite soul as mediated by Plutarch's analysis of Roman politics. He maps the film's gladiatorial paria and the Crassus–Gracchus rivalry onto to thymoeides, the spirited/competitive middle part of the soul that Plutarch renders as philotimia (love of honor) driving the alpha males of classical history. The central thesis is that Crassus (Laurence Olivier) is ruled by this competitive second part: his skewed hamilla with Spartacus plays out not just on the battlefield but through the erotic triangle over Varinia and Antoninus ('he steals my boy, I steal his girl'), so the Republic falls to a coup driven by the restless, honor-seeking part of the soul."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - The Philosophy of Stanley Kubrick.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nagel",
+    "camus"
+   ],
+   "concepts": [
+    "the-absurd",
+    "sisyphus"
+   ],
+   "relation": "Pliatska reads Barry Lyndon through Thomas Nagel's essay 'The Absurd' (built on Camus's Sisyphus), distinguishing conventional absurdity (a discrepancy between aspiration and reality, like the mechanical digger wasp Sphex) from philosophical absurdity (the collision of the engaged participant perspective with the detached external one). He argues Kubrick's three signature devices—the painterly aesthetic that renders eighteenth-century rituals AS rituals, the slow reverse zoom that literally moves from close-up participant view to overwhelming long-shot external view, and the ironic omniscient narrator—make viewers see Barry's conventional absurdity and then confront their own inescapable philosophical absurdity. He notes Kubrick laments this predicament pessimistically where Nagel counsels irony."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Philosophy of Stanley Kubrick.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard",
+    "nietzsche"
+   ],
+   "concepts": [
+    "simulacra",
+    "death-of-god",
+    "ressentiment"
+   ],
+   "relation": "Palmer reads The Shining through Fredric Jameson's account of postmodernity as a 'perpetual present' that has lost its past and can only cannibalize it as pastiche and nostalgia film. He argues Kubrick's film enacts an 'anti-nostalgia' that invokes the nostalgic impulse—Jack Torrance's wish to escape an empty present into the Overlook's endless 1921 party—only to destroy him with it, refusing the genre's happy-ending wish-fulfillment. Drawing on Baudrillard's image of art 'adrift in a kind of weightlessness' merely 'playing with the pieces,' he casts Jack, endlessly typing 'All work and no play,' as the failed postmodern artist trapped between times, reduced to pointless Nietzschean ressentiment, with the film's Nietzschean death-of-God flux underlying its refusal of stable meaning."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Philosophy of Stanley Kubrick.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - The Philosophy of Stanley Kubrick.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "sartre"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "sartre-freedom"
+   ],
+   "relation": "Shaw asks whether Kubrick's worldview is nihilistic by tracking the free-will-versus-determinism question across his films, arguing (against Vincent Canby) that A Clockwork Orange celebrates rather than condemns Alex's recovered capacity for moral choice: the state's Ludovico conditioning, which makes him retch at sex and violence, is more monstrous than Alex because it destroys the free will that grounds human meaning. Invoking Kevin Stoehr's distinction between Nietzsche's passive and active nihilism, Shaw claims Kubrick highlights the negative to point beyond it. He surveys the oeuvre—Dax, Bowman, Barry, Wendy, Joker, Bill Harford as choosing agents—and reads Eyes Wide Shut through Sartre's Being and Nothingness on the contradiction of wanting the beloved's freely-given yet secure love."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - The Philosophy of Stanley Kubrick.md",
+   "kind": "chapter",
+   "philosophers": [
+    "turing",
+    "hegel",
+    "aristotle"
+   ],
+   "concepts": [
+    "turing-test",
+    "hegel-master-slave",
+    "personal-identity"
+   ],
+   "relation": "Eberl compares HAL in 2001 and David in A.I. to ask whether an artificially created being can be a person meriting respect and rights. He runs both through criteria of personhood—self-consciousness, rationality, social activity, autonomy—and Turing's imitation game/behaviorism, concluding their responses give sufficient evidence of personhood even if the soul question is open. He uses Hegel's master–slave dialectic of recognition to explain the deadly struggle between humans and their creations (Bowman disconnecting HAL; the Flesh Fair destroying Mechas), warning against a moral crime of 'biological supremacy,' and invokes Aristotle's telos/virtue to argue Flesh Fairs wrongly preclude Mechas from fulfilling their function, while David's Pinocchio 'leap of faith' and cry 'I'm special, I'm David!' mark his approach to personhood."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Philosophy of Stanley Kubrick.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "plato"
+   ],
+   "concepts": [
+    "ubermensch",
+    "death-of-god",
+    "last-man"
+   ],
+   "relation": "Abrams argues that 2001 films the whole evolutionary arc of Nietzsche's Thus Spoke Zarathustra, from ape-men through humanity to the Star Child as the overman/posthuman. He maps the moon monolith's discovery onto the death of God (science debunking the creation myth, guarded by a Platonic 'noble lie' cover-up), the astronauts Bowman/Poole/Floyd onto the Enlightenment 'higher men,' and Bowman's decadent hotel-room decline plus his and Poole's fatal spacewalks onto the last man and the falling tightrope walker whom Zarathustra carries. He then extends the vision toward Kurzweil's Singularity and Moravec's 'mind children,' while criticizing Kubrick for replacing Nietzsche's godless self-overcoming with alien 'replacement gods' that thin out the death-of-God insight."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Philosophy of Stanley Kubrick.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Philosophy of Stanley Kubrick.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The Philosophy of Stanley Kubrick.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": []
+}

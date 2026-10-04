@@ -1,0 +1,347 @@
+{
+ "book": "162 - Final Fantasy and Philosophy - The Ultimate Walkthrough",
+ "unit": "u237",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Final Fantasy and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Final Fantasy and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Final Fantasy and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Final Fantasy and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Final Fantasy and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Final Fantasy and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Final Fantasy and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "roland-barthes"
+   ],
+   "concepts": [],
+   "relation": "Benjamin Chandler argues that Final Fantasy VII realizes Roland Barthes's ideal of the writerly text: its nine playable characters carry bundles of preset signifiers (Cloud's spiky hair, Aeris's Cetra fate) that players multiply through customization, so each player produces the game's narrative for themselves. He shows how identification with Cloud makes the Sector 7 plate drop feel like the player's own moral burden, how Cloud's identity crisis and Aeris's death force players to reinterpret the whole text, and how Crisis Core (playing the doomed Zack), the passive film Advent Children (the least writerly text), and Dirge of Cerberus (Vincent) add further entry points into the FFVII universe."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Final Fantasy and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "nietzsche",
+    "kant"
+   ],
+   "concepts": [
+    "master-slave-morality",
+    "death-of-god",
+    "ubermensch",
+    "power-knowledge"
+   ],
+   "relation": "Kylie Prymus asks whether Kefka is truly mad, using Foucault's Madness and Civilization to argue that madness is a label society applies to dismiss what it cannot control, so players and heroes refute Kefka with the ad hominem 'you're crazy' rather than answering him. She then reads Kefka's 'monument to non-existence' through Nietzsche: his godlike discovery that existence has no justification echoes the death of God, our horror at him reflects slave morality's relabeling of noble strength as evil, and the heroes' appeal to purposes he lacks fails because existence is only a hypothetical imperative. Kefka ends up a failed Ubermensch who overthrows the gods but cannot overcome nihilism, leaving the World of Ruin heroes the genuinely Nietzschean task of creating meaning where none is given."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Final Fantasy and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume"
+   ],
+   "concepts": [
+    "standard-of-taste"
+   ],
+   "relation": "Alex Nuttall applies Hume's essay on the standard of taste to video games as art: beauty is not in objects (Sin's FFX rendering is just digital information) but in trained sentiment, yet quality differences are real, as the gap between Final Fantasy VII and the broken Superman 64 shows. Using the Malboro's Bad Breath as a metaphor for the confused, blinded, charmed state of novice judges, he lays out Hume's remedies of practice, repeated viewing, comparison, and reason against bias, and defends Hume against the circularity charge that good judges and masterpieces like FFVII define each other."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Final Fantasy and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Final Fantasy and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Jay Foster runs a conceptual analysis of Marlene's opening description of the Lifestream in Advent Children, showing it can be read literally (a holist-organicist living planet, AVALANCHE's view) or metaphorically (a reductionist-mechanist aggregate of energies, Shinra's and Hojo's view). Comparing Dr. Cid's Gaia in The Spirits Within with James Lovelock and Lynn Margulis's Gaia hypothesis, understood as a homeostatic cybernetic system rather than a living spirit, he argues that General Hein's skepticism toward Cid's vitalist holism is warranted, that mechanism and reductionism have the stronger empirical record, and that Dr. Cid's Gaia belongs entirely in the world of Final Fantasy."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Final Fantasy and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "anthropocentrism",
+    "ecofeminism"
+   ],
+   "relation": "Jason Blahuta reads The Spirits Within as staging the debate between General Hein's anthropocentric, domination-of-nature outlook (traced to the Genesis tradition and thinkers like Bacon and Descartes) and Aki's Gaia-hypothesis and ecofeminist view of nature as a self-regulating whole. Hein's repeated firings of the Zeus Cannon, which injure rather than kill the Phantoms and doom New York, dramatize what happens when we meddle with a self-regulating Gaia, while the chapter's survey of intrinsic-value versus enlightened-self-interest accounts of nature's worth ends with Lovelock's bleak verdict that humanity has become a tumor inside Gaia and must choose to be a benign or a malignant one."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Final Fantasy and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "mill",
+    "aristotle",
+    "nietzsche"
+   ],
+   "concepts": [
+    "objectification",
+    "kant-humanity-formula",
+    "utilitarianism",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Robert Arp and Sarah Fisk test three moral theories against objectification in Final Fantasy: Kant's ban on using rational beings as mere means (Kuja's manipulation of Queen Brahne, the Geostigma children of Advent Children), Mill's greatest-happiness principle (Yuna's and Aeris's self-sacrifice), and Aristotle's character-based virtue ethics (Hojo and Sephiroth as vicious, Aeris as virtuous). They argue Kantianism generates a stalemate between 'moral sanctity' and 'moral autonomy' camps over cases like Guardian Force summoning in FFVIII, and utilitarianism a stalemate over mandatory self-sacrifice, leaving virtue ethics, Aristotelian or Nietzschean, as the view that escapes both, ending with the question 'Aeris or a Cloud?'"
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Final Fantasy and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Final Fantasy and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "mill",
+    "aristotle"
+   ],
+   "concepts": [
+    "moral-egoism",
+    "higher-lower-pleasures",
+    "aristotle-golden-mean",
+    "social-contract"
+   ],
+   "relation": "Greg Littmann asks what sort of life is worth living by holding Final Fantasy protagonists and FFXI Online players up to three standards. Hobbes's egoism and defense of absolute monarchy condemn the altruistic, authority-defying heroes (AVALANCHE, the rebels of FFII and FFVI) while partly approving the gil-grubbing, rule-breaking FFXI player; Mill's utilitarianism praises the world-saving heroes but condemns grinding down beastmen and rates most gaming a lower pleasure; Aristotle's function argument and golden mean find heroes like Yuna immoderately self-sacrificial yet credit ordinary FFXI adventurers with genuinely virtuous moderation, helping others while keeping their own interests in view."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Final Fantasy and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "frankfurt",
+    "aquinas"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "fate-vs-free-will"
+   ],
+   "relation": "Nicolas Michaud asks whether the prophesied Four Warriors of Light of Final Fantasy I deserve thanks if the Sage Lukahn's foreknowledge meant they could not do otherwise, framing their plight with the problem of divine foreknowledge and Aquinas's answer that God stands outside time. He then deploys Frankfurt's preemption cases, Garland ready to mind-control you either way, to show moral responsibility can survive without alternative possibilities, but concludes the Warriors may still be unworthy of praise because they know they are predestined, a worry that spreads to us through Phineas Gage-style biological determinism: if our characters are hardwired, neither we nor Garland deserve praise or blame."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Final Fantasy and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Final Fantasy and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger"
+   ],
+   "concepts": [
+    "heidegger-technology"
+   ],
+   "relation": "Jonah Mitropoulos reads Final Fantasy VII through Shinto: the Lifestream is a kami-filled world of spiritual energy pervading nature, and Jenova's corrupting influence works like tsumi, pollution contracted without intent that requires water purification, as when Aerith's Lifestream cures Geostigma in Advent Children and Lucrecia retreats to a waterfall. He reads Jenova as an allegory of Western, Christian, capitalist influence on Japan, citing Aizawa Seishisai's fear of ideological invasion, Wutai's postwar-style disarmament, and the disease metaphors both sides use. The chapter closes with Heidegger's Question Concerning Technology: Shinra treats the planet as a standing resource, and only a syncretic way of the kami reconciles technology and nature."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Final Fantasy and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "historical-materialism",
+    "class-struggle"
+   ],
+   "relation": "Michel Beaulieu reads the series through Marx's materialist conception of history: the 'Proletariat Patrons' Movement' sign in FFIX's Alexandria, the job system as a class system, and Shinra dropping the Sector 7 plate on its own laboring class all instantiate class struggle, while Vaan's life in Rabanastre shows social existence determining consciousness. But he argues the heroes are not Marxist revolutionaries, since Cecil ends up King of Baron and the Light Warriors leave feudal structures intact, and the Moogles, the series' true proletarian serfs, never revolt, because no Final Fantasy world has yet matured to the stage where the Marxian transformation becomes possible."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Final Fantasy and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "machiavelli"
+   ],
+   "concepts": [
+    "master-slave-morality",
+    "machiavelli-ends",
+    "machiavelli-virtu",
+    "death-of-god"
+   ],
+   "relation": "David Hahn argues that Spira's Yevon religion is exactly what Machiavelli and Nietzsche warned against: hope for the Calm and a Sin-free future makes Spirans otherworldly and passive, forbidding machina, revering self-sacrificing Summoner martyrs, and blaming themselves for Sin, just as just-war Christianity left Machiavelli's princes passive and dependent on mercenaries, paralleled by Seymour and Kinoc standing idle at Operation Mi'ihen. Nietzsche's slave revolt in morality explains Yevon's sanctification of meekness and death, while Machiavelli's account of religion as a political instrument, from Numa to Scipio's oath, explains why the lie of Yevon held Spira together, and why its collapse may bring either Nietzschean rebirth or Machiavellian chaos."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Final Fantasy and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Final Fantasy and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "nietzsche",
+    "heidegger"
+   ],
+   "concepts": [
+    "bad-faith",
+    "authenticity",
+    "death-of-god",
+    "existence-precedes-essence"
+   ],
+   "relation": "Christopher Wood reads Cloud's arc as an existentialist quest: Heidegger's thrownness in Cloud's tumble off the Midgar train and his initial 'It's not my problem' denial of being-in-the-world; Nietzsche's death of God in Mako-powered Midgar's nihilism, with AVALANCHE as a call for revaluation of values and Sephiroth as a false aspirant god; and Sartre's bad faith in Cloud 'playing at being a SOLDIER,' a persona borrowed wholesale from Zack along with his sword and mercenary dream. Through the Lifestream reunion with Tifa, Cloud faces his fabricated past, admits 'I never was in SOLDIER,' and turns to authenticity by resolving to live without pretending, which Wood presents as the player's own existential task."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Final Fantasy and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "epicurus"
+   ],
+   "concepts": [
+    "epicurean-death",
+    "epicurean-pleasure",
+    "meaning-of-life"
+   ],
+   "relation": "Kevin Fitzpatrick uses Vivi Orunitia and the self-aware Black Mages of Final Fantasy IX, who call death 'stopping,' to ask whether the fear of death is justified, answering that death harms only insofar as it frustrates a person's values, such as Vivi's morality, his thirst for knowledge, and his care for others' happiness. He brings in Epicurus's argument that death is nothing to us because the dead feel no pain, casts Necron, who wants to return all life to a painless 'zero world' because fear of death has corrupted it, as a darker Epicurean, and weighs the deprivation objection, death cheats us of future goods like Chocobo Hot and Cold, against the puzzle of when death's harm could even occur."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Final Fantasy and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kripke",
+    "russell",
+    "searle"
+   ],
+   "concepts": [
+    "kripke-naming"
+   ],
+   "relation": "Andrew Russo and Jason Southworth use the recurring Cid in every Final Fantasy game and the apparently identical Cloud Strife of FFVII and FF Tactics to test theories of reference: direct reference theory trivializes informative identity claims like 'Squall is Leon,' and Russell's descriptivism, names as abbreviations for definite descriptions, handles Cid but stumbles on Cloud, whose FF Tactics birthday makes him an Aquarius rather than a Leo, and on a Spira where Schmidt, not Braska, actually defeated Sin. Kripke's causal-historical theory, with its dubbing ceremonies and name-transference chains illustrated by Yuna tracking the Tidus lookalike in X-2, answers the modal challenge but faces the qua problem of 'Balamb Garden has moved,' leading the authors to call for a reflective equilibrium between the two theories."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Final Fantasy and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Final Fantasy and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 8,
+   "type": "philosopher",
+   "suggested_slug": "roland-barthes",
+   "name": "Roland Barthes",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "French literary theorist and semiologist whose writerly/readerly distinction holds that readers actively produce a text's meaning from its signifiers.",
+   "why": "Chapter 8's entire argument is that FFVII is a Barthesian writerly text whose players produce the narrative by interpreting signifiers, and Barthes is absent from the taxonomy."
+  },
+  {
+   "ch": 8,
+   "type": "concept",
+   "suggested_slug": "writerly-text",
+   "name": "The Writerly Text (semiology)",
+   "philosopher": "roland-barthes",
+   "domain": "political-social",
+   "what": "Barthes's ideal of a text so rich in signifiers that its consumer must co-produce its meaning, contrasted with the closed readerly text.",
+   "why": "Chapter 8 applies exactly this distinction to FFVII's customizable characters and multiple entry points, and no existing slug covers semiology or reader-produced meaning."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "standard-of-taste",
+   "name": "The Standard of Taste",
+   "philosopher": "hume",
+   "domain": "medieval-early-modern",
+   "what": "Hume's account of aesthetic judgment on which beauty lies in sentiment but the joint verdict of experienced, unbiased 'good judges' forms a genuine standard of artistic value.",
+   "why": "Chapter 10 is built entirely on applying this essay's good-judge criteria and the masterpiece circularity problem to judging video games as art, and the taxonomy has no Hume aesthetics slug."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "gaia-hypothesis",
+   "name": "The Gaia Hypothesis",
+   "philosopher": "",
+   "domain": "environment-animal",
+   "what": "Lovelock and Margulis's claim that Earth's biosphere is a self-regulating homeostatic system that maintains conditions favorable to life.",
+   "why": "Chapters 12 and 13 both organize their readings of the Lifestream and The Spirits Within around distinguishing Lovelock's Gaia from vitalist holism, and the taxonomy lacks any Gaia or ecology concept."
+  },
+  {
+   "ch": 19,
+   "type": "concept",
+   "suggested_slug": "shinto-kami",
+   "name": "Shinto (kami and tsumi)",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "Japan's indigenous tradition in which kami, a spiritual presence pervading nature, and tsumi, pollution removed by purification rituals, shape an ecological 'orientation in living'.",
+   "why": "Chapter 19's whole reading of FFVII, the Lifestream as kami, Jenova as tsumi, and water purification rituals, rests on Shinto concepts the taxonomy lacks under eastern-world."
+  }
+ ]
+}

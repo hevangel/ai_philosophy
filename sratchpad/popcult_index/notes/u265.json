@@ -1,0 +1,434 @@
+{
+ "book": "182 - Mad Men and Philosophy - Nothing Is as It Seems",
+ "unit": "u265",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Mad Men and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - The Blackwell Philosophy and Pop Culture Series.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright Page.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Acknowledgements.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editors introduce the volume by framing Mad Men as a show that immerses viewers in the morally ambiguous world of 1960 Madison Avenue, where we find ourselves rooting for Don Draper to sell cigarettes, hide affairs, and conceal his stolen identity while cringing at the office's treatment of women. They argue the series teaches uncomfortable truths about the early 1960s (drinking, smoking, systemic sexism, racism, homophobia) while dramatizing how people experienced era-defining events as they happened, and so helps us understand both past and present. The chapters that follow, they say, are written by fans for fans who want to think further about the role of women, the morality of advertising, and how to lead a meaningful life."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - PART ONE - “PEOPLE MAY SEE THINGS DIFFERENTLY, BUT THEY DON’T REALLY WANT TO”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - “It’s Like Watching a Dog Play the Piano”.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Schurtz argues the Mad Men characters are not stupid but epistemically bounded by what their era counts as a reason: Don dismisses Dr. Guttman's 'death wish' research (and the proto-Marlboro-Man danger angle) because a research psychologist's testimony does not register as expertise for him, and the senior partners ignore Pete's correctly pro-Kennedy insight because a junior account executive's word is not a justifier. Working through knowledge as justified true belief (Betty is justified but wrong to believe her husband is Don Draper), the chapter moves from epistemic individualism to social epistemology (testimony, expert disagreement) and finally standpoint epistemology, illustrated by the Belle Jolie secretaries whose 'moron' insight Peggy vindicates with the winning pitch. The upshot: sexism, closeted gay life (Salvatore in 'The Hobo Code'), and Betty's dry-cleaning-bag ignorance persist because 1960 society does not distribute justifying testimony to women, the young, or the marginalized."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - “All That Is Solid Melts into Air”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "marx"
+   ],
+   "concepts": [
+    "plato-tripartite-soul",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Dunn reads Mad Men through Plato's Republic: the passions are the 'mad masters' Cephalus describes, embodied in Pete Campbell's au pair indiscretion and remorse, and because passions cannot tell staged appearance from reality, the mimetic perfection of Don's 'You're a whore' scene with Betty grips viewers exactly as Plato feared televised drama would, watering the parts of the soul that should be ruled. He extends the point to advertising: Don's 'I make pictures where people appear to be in love' and 'love was invented by guys like me to sell nylons' work because mimesis bypasses reason and attaches feeling to images, while Aristotle's account of imitation shows drama can also train virtue by making us delight in what we should. Marx and Engels' 'all that is solid melts into air' frames the title sequence, where Don's office dissolves past advertising images revealed as empty simulacra, until the final shot restores the convincing façade of his confidence."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Bringing Corporations and Government Together.md",
+   "kind": "chapter",
+   "philosophers": [
+    "milton-friedman"
+   ],
+   "concepts": [
+    "compatibilism",
+    "free-will-determinism"
+   ],
+   "relation": "Guilfoy stages Galbraith's The Affluent Society against Friedman's Capitalism and Freedom through the Heineken case: Don's end-aisle display made Betty serve the beer at her dinner party, and when she found out she had been the target demographic she accused him ('You embarrassed me'). Galbraith's deep-self compatibilism holds that advertising-created desires are not genuinely ours, so Betty's choice was unfree, and that consumerism produces private wealth amid public squalor (the Cadillac picnic litter scene, the Madison Square Garden account Lane kills for lack of profit); Friedman's libertarian free will answers that Betty simply chose, desires are reasons rather than causes, and Pete's Admiral Negro-market pitch shows the market punishing racist irrationality. Both economists converge on the danger dramatized in 'The Inheritance': when Sterling Cooper sells corporations to congressmen and congressmen to corporations, consumers lose under either theory."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - PART TWO - “THERE IS NO BIG LIE, THERE IS NO SYSTEM, THE UNIVERSE IS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - “Have Done” with the Past.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "ressentiment"
+   ],
+   "relation": "Fritz applies Nietzsche's On the Uses and Disadvantages of History for Life and the Genealogy to the dialectic of remembering and forgetting: Pete cannot 'have done' with anything, so Ken Cosgrove's Atlantic Monthly story and Peggy's promotion become 'vermin' that eat into him, his reactive rancor and entitlement driving him to make Trudy broker his bad talking-bear story. Peggy is the opposite extreme of active forgetting, from not registering her own pregnancy to telling Pete flatly 'I had your baby and I gave it away. I wanted other things,' after Don's hospital advice that 'This never happened. It'll shock you how much this never happened.' Don knows forgetting is the strength of strong natures (the $5,000 offer to Adam, 'my life only goes in one direction, forward'), yet the Carousel's home-movie slides and other external triggers keep forcing the past back on him, so only Peggy fully inhabits the Nietzschean ideal."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Existential Values.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard",
+    "nietzsche",
+    "heidegger"
+   ],
+   "concepts": [
+    "kierkegaard-stages",
+    "authenticity",
+    "last-man",
+    "will-to-power"
+   ],
+   "relation": "Belliotti tests Roger Sterling against three existential standards. Kierkegaard's aesthetic stage fits him 'crisply': his quips about the chase, drinking 'because it's what men do,' and the penny-jar view of marriage reveal flight from commitment and terror of boredom, and even his twenty-year marriage to Mona lacked Kierkegaard's passionate inwardness, making it objectively true but existentially inauthentic. Measured by Nietzsche he falls between the last man who wants an agency 'where everybody has a summer house' and the will-to-power grand transcender he never becomes, oscillating between frustration and boredom; measured by Heidegger he settles for chatter, clings to fixity, and reflects on mortality only briefly after his heart attacks. The verdict: significantly inauthentic, capped by the blackface 'My Old Kentucky Home' serenade that makes Don whisper 'Can we go?'"
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Universe Is Not Indifferent.md",
+   "kind": "chapter",
+   "philosophers": [
+    "ayn-rand"
+   ],
+   "concepts": [
+    "moral-egoism",
+    "virtue-ethics"
+   ],
+   "relation": "White takes Bert Cooper's shelf display of Atlas Shrugged seriously and argues, against Cooper's claim that Don is 'completely self-interested,' that Don is the conventional image of the egoist rather than a Randian one: he is a second-hander whose stolen identity makes his life a lie, so Betty is married to a man who does not exist and only Anna Draper, who sees Dick Whitman, gives him psychological visibility. Objectivism's primacy of existence explains why every lie collides with facts (the train recognition, Adam's newspaper photo, the misplaced dog-tag parcel) and why Don's 'ruthlessness' and the 'indifferent universe' he complains of are products of his own vices, since what is, is. The chapter walks through Rand's virtues (rationality, independence, honesty, productiveness, pride, self-esteem grounded in objective self-appraisal, not the 'whore-child' label) to show Don sought spiritual gain through deceit and so placed his self-esteem against reality."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Television and Existential Awakening.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir",
+    "sartre",
+    "marcuse",
+    "kant"
+   ],
+   "concepts": [
+    "bad-faith",
+    "woman-as-other",
+    "one-dimensional-man",
+    "objectification"
+   ],
+   "relation": "Jaarsma argues Mad Men dramatizes an existential rather than Kantian-enlightenment model of advertising: Don's 'freedom from fear' pitch ('Whatever you are doing is okay. You are okay') sells escape from the anxiety of real choice, which is precisely Sartrean bad faith and what de Beauvoir calls the stagnant 'happiness' of women rewarded for being the other. Betty on her psychiatrist's couch, Peggy measured by Joan's paper-bag mirror and the Playtex bullet-bra silhouette, and the closeted Salvatore all internalize the dominant values Marcuse describes, finding meaning in conformity to the objectifying gaze ('bras are for men; women want to see themselves the way men see them'). Rachel Menken, who refuses to 'put on an apron' and calls out the contingency of gendered embodiment, models authenticity as choosing to choose, and the chapter closes with the hope that television itself can occasion the viewer's existential awakening."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - PART THREE - “AND YOU KNOW WHAT HAPPINESS IS ” MAD MEN AND ETHICS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Question of Ethical Advertising.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-respect",
+    "kant-humanity-formula",
+    "categorical-imperative"
+   ],
+   "relation": "Novakovic and Whitney use the Heineken incident, where Betty discovers she was the target demographic for her husband's campaign ('Must be so funny, being in on it'), to test advertising against Kantian honesty and respect. Kant's humanity formula and the lying-promise example show that manipulation wrongs the consumer as a rational agent, and Don's defense that advertising sells 'happiness' fails because Kant allows making others' happiness an end but never at the cost of truth, whether the consumer is a stranger or a wife. The chapter sets this against the era's brainwashing anxieties (Hunter's Brainwashing in Red China, Packard's The Hidden Persuaders, Precon subliminal projection) and concludes that honest advertising must survive disclosure of its methods, noting that real sponsors like Canada Dry and BMW responded to the show with stripped-down 'transparent' ads that let viewers be 'in on it.'"
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Each of Us Would See Ourselves.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "heidegger",
+    "marx"
+   ],
+   "concepts": [
+    "ubermensch",
+    "heidegger-technology",
+    "master-slave-morality",
+    "apollonian-dionysian"
+   ],
+   "relation": "The Teschners cast Don as a Nietzschean creator of value in technological culture: his nihilism ('There is no big lie. There is no system. The universe is indifferent') and 'What you call love was invented by guys like me to sell nylons' embody anti-foundationalism, while the beatnik Roy plays the resentful slave mentality whose passion lives only off what it despises. Don's creative process (sleep on it, 'forget it, and an idea will jump in your face') mirrors the camel-lion-child metamorphoses of Zarathustra, and the collapse of the principium individuationis explains his fluid identities from Dick Whitman to the 'Adam and Eve' fantasy with Rachel. Heidegger's techné frames the Kodak Carousel as genuine art, a revealing that transfigures 'a hell of a gadget' into 'a place where we know we are loved,' at the tragic price of a man outside community, and the falling figure of the credits is one 'we would each see ourselves' in."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - “The Wrong Direction”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "aquinas"
+   ],
+   "concepts": [
+    "deontology"
+   ],
+   "relation": "Barkman builds a definition of lying (communicating what one believes false while hiding that fact, with intent to hurt or disrespect, which distinguishes mere deception and parts ways with Aquinas's blanket ban) and applies it to five advertising worries, from bags of chips designed to invite false inference to the Belle Jolie 'promise' no one actually believes and the Israeli Tourism ad that omits danger. Persuasion is legitimate because rational souls are equals to be treated as ends (Aristotle's justice), but manipulation (ads aimed at preschoolers that use children to pressure parents) and fear-preying coercion (Clearasil on insecure teenagers, nylons to unmarried women like Rachel Menken) treat people as means, while government must regulate factually (FDA 'smoking kills' labels) without overriding adult choice. Responsibility is then distributed across producer, agency, media, public, and state, and Don was indeed 'looking in the wrong direction' in this sense: being able to talk anyone into anything does not mean he should."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Nonetheless, Don Can Be a Real Heel.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "hume"
+   ],
+   "concepts": [
+    "virtue-ethics",
+    "moral-psychology",
+    "situationism"
+   ],
+   "relation": "Terjesen asks whether Don is a good man, testing his mixed record (egalitarian instincts, loyalty to Mohawk Airlines, protecting Horace Jr., against habitual adultery and the stolen identity) through Aristotle's habituation, Plato's Protagoras unity-of-virtues theses, Hume's sensible knave, and John Doris's situationist attack on global character traits. The unity theses imply Don's vices undermine his virtues (affairs make him unavailable when Betty crashes; evasions about his past block honesty), and Doris's dime-in-the-payphone literature suggests even Don's reliability may be circumstance-bound, as with Pete's weddings-and-vacations-only philandering. Against full situationism, Don's consistent rules (never forcing women, valuing women he genuinely finds interesting) point to 'regional' traits, yet Roger's verdict stands: 'You're no good with relationships because you don't value them,' since Don runs family on a business code, from Adam's bribe to 'that's what people do' consolation for Pete."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Reconciliation Doesn’t Come in a Bottle.md",
+   "kind": "chapter",
+   "philosophers": [
+    "camus",
+    "macintyre",
+    "nietzsche",
+    "aristotle"
+   ],
+   "concepts": [
+    "macintyre-tradition",
+    "virtue-ethics",
+    "the-absurd"
+   ],
+   "relation": "Elia reads Don through Camus's Clamence in The Fall, an establishment success shadowed by guilt and self-medication, while insisting Don is no existential hero: unlike Sisyphus or Meursault, Dick Whitman never lucidly chose his freedom, he merely fled his past by stealing dog tags in Korea. Using MacIntyre's After Virtue opposition between Nietzschean value-creation and Aristotelian tradition-embeddedness, the chapter argues Don lacks integrity, the virtue that justifies breaks in one's narrative by deeper commitments, which is why peace appears only when past and present reconcile: phoning Anna as 'Dick Whitman,' the ocean immersion, and the confession to Betty ('I can explain' / 'You're a very, very gifted story-teller'). His justice is real but thin, a merit-based accounting that works at the office (promoting Peggy on talent) yet fails Betty, the children, and Adam, and reconciliation, the title insists, doesn't come in a bottle."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - PART FOUR - “NO ONE ELSE IS SAYING THE RIGHT THING ABOUT THIS” MAD MEN AND.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - “To a Place Where We Know We Are Loved”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "gilligan"
+   ],
+   "concepts": [
+    "aristotle-friendship",
+    "care-ethics",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Myers grades the moral development of the Sterling Cooper cast with Kohlberg's justice stages and Gilligan's ethics of care in order to find Aristotelian friendships, which require equals in moral development who wish each other good for the other's sake. Don and Peggy emerge as moral equivalents, each hiding a dark secret (the stolen identity; the baby given away) and each having done for the other what no one else could, from the hospital visit ('Move forward') to Don's 'nobody understands that, but you do' recruitment pitch; Joan and Roger form a second pair whose mutual esteem survives his marriage to Jane and her departure, shown when he trusts her to build Sterling Cooper Draper Pryce. Closing with Aristotle's claim that friendship holds states together, the chapter gives the new agency a better-than-average chance because these friendships are 'not for sale.'"
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Don’t Go Mad.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "objectification",
+    "feminism"
+   ],
+   "relation": "Barkman applies a qualified Aristotelian standard of justice, that women possessing rational souls must be treated as equals, to Peggy, Betty, and Joan as second-wave feminism dawns. Peggy is the 'mad woman' in the best sense: she demands a desk, equal pay ('You have everything and so much of it'), and Don's apology while never resorting to blackmail like Pete, whereas Betty is repressed at home by a husband who shows her off ('I want to show you off, Betts') and Joan suppresses herself, measuring worth by appearance and enduring Greg's violation until the vase incident. The sexual objectification Peggy faces from her first day (Ken's elevator leers, Joan's paper-bag advice, the panty-hunt in 'Nixon vs. Kennedy') is the chapter's core injustice, and the warning is that women who cannot stand up to it may simply go mad."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - What’s on the Horizon.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Carveth traces race across three seasons: Carla and Hollis are seen but not heard in season one, Paul's Mississippi Freedom Ride with Sheila plays out in season two, and season three brings Roger's blackface 'My Old Kentucky Home' and Pete's Admiral 'Negro market' pitch, which the client kills with 'monkey see, monkey do' and Cooper with 'no interest in becoming a colored television company.' The chapter argues the show practices differential racialization, black characters existing to support white ones without backstories (Carla silenced with 'This is not a conversation I am going to have with you,' Sheila reduced to proof Paul is interesting), while anti-Semitism gets more multidimensional treatment through Rachel Menken's 'we thrive at doing business with people who hate us.' Hollis mourning Marilyn Monroe yet silent on Medgar Evers illustrates race as a social construction and his silence as hiding in plain sight, and the chapter faults Mad Men for softening Northern racism while hoping season four moves forward."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - “I’m Enjoying the Story So Far, but I Have a Feeling It’s Not Going to End Well”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-justice",
+    "plato-tripartite-soul"
+   ],
+   "relation": "South uses 'New Amsterdam' to examine how social convention, not personal authority, constrains agency: Bert Cooper's 'New York City is a marvelous machine' and 'There are other rules... His mother is Dorothy Dyckman Campbell' reveal that Pete's value lies in a name he doesn't understand, just as Don's authority dissolves before forces neither he nor Pete consented to. Reading through Plato's Republic city-soul analogy and Adeimantus's warning that changes in music insinuate themselves 'little by little' into character and laws, the chapter shows Pete missing the worth of his old-family name, the Bethlehem Steel man missing that steel cannot be advertised like flour, and Don, despite seizing a fresh identity, quietly conforming to the suburban corporate script he claims never to have envisioned. The Kennedy-assassination pitch to Peggy ('The way that they saw themselves is gone') and Conrad Hilton's 'It's business' close on Plato's caution: the city's gears keep turning, and 'people don't change' may be the show's last word."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Appendix It’s Not a List of Titles and Air Dates; It’s An Episode Guide.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Contributors.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 9,
+   "type": "concept",
+   "suggested_slug": "standpoint-epistemology",
+   "name": "Standpoint Epistemology",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "The view that some social positions (women, minorities, the young) grant privileged access to knowledge unavailable from dominant standpoints, so their testimony can justify beliefs others cannot get first-hand.",
+   "why": "Chapter 9's central tool: Don rejects Dr. Guttman's research and Pete's pro-Kennedy insight because 1960 Madison Avenue refuses to recognize women's and youth's standpoints as sources of justification, culminating in Peggy's Belle Jolie win."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "plato-mimesis",
+   "name": "Mimesis and Plato's Critique of Imitative Art",
+   "philosopher": "plato",
+   "domain": "ancient",
+   "what": "Plato's Republic X charge that artistic imitation works on the passions prior to reason, cannot distinguish appearance from reality, and shapes the soul by habituating its audience's emotional responses.",
+   "why": "Chapter 10's whole argument, from viewers' reaction to Don's 'You're a whore' scene to Don's 'pictures where people appear to be in love,' turns on mimesis bypassing reason, a Plato topic the taxonomy lacks."
+  },
+  {
+   "ch": 11,
+   "type": "philosopher",
+   "suggested_slug": "john-kenneth-galbraith",
+   "name": "John Kenneth Galbraith",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Liberal economist (1908-2006) whose The Affluent Society argues advertising creates consumer desires, producing private wealth amid public squalor and a 'conventional wisdom' that desires originate with consumers.",
+   "why": "Chapter 11 reads Sterling Cooper's advertising (the Heineken campaign, the Cadillac picnic) through Galbraith's deep-self compatibilist account of manipulated, unfree consumer choice."
+  },
+  {
+   "ch": 11,
+   "type": "philosopher",
+   "suggested_slug": "milton-friedman",
+   "name": "Milton Friedman",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Free-market economist (1912-2006) whose Capitalism and Freedom defends libertarian free will, advertising as information rather than desire-creation, and the market's power to erode discrimination.",
+   "why": "Chapter 11 sets Friedman against Galbraith as the other pole: Betty's Heineken purchase was free choice, and Pete's Admiral Negro-market pitch illustrates Friedman's claim that bigotry costs businesses money."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "nietzsche-active-forgetting",
+   "name": "Active Forgetting (the uses and disadvantages of history for life)",
+   "philosopher": "nietzsche",
+   "domain": "nineteenth-century",
+   "what": "Nietzsche's doctrine that forgetting is a positive strength: the past must serve life, rumination is a sickness, and strong natures 'have done' with their misdeeds and misfortunes with a single shrug.",
+   "why": "Chapter 13 organizes Pete (dyspeptic rumination), Peggy (willful forgetting of her pregnancy and baby), and Don (the dialectic of memory and forgetting) entirely around this concept, which no existing Nietzsche slug covers."
+  },
+  {
+   "ch": 15,
+   "type": "philosopher",
+   "suggested_slug": "ayn-rand",
+   "name": "Ayn Rand",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Russian-American novelist-philosopher (1905-1982) whose Objectivism defends rational egoism, the virtues (honesty, independence, productiveness, pride), the second-hander versus independent creator, and a 'benevolent universe.'",
+   "why": "Chapter 15 reads Bert Cooper's Atlas Shrugged fandom, Don's identity theft as second-handedness, and the whole cast's inauthenticity through Objectivism; the taxonomy has no Rand entry."
+  },
+  {
+   "ch": 21,
+   "type": "philosopher",
+   "suggested_slug": "john-doris",
+   "name": "John Doris",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Contemporary moral philosopher (b. c. 1969) whose Lack of Character (2002) argues situationist social psychology undermines the existence of global virtuous or vicious character traits.",
+   "why": "Chapter 21 uses Doris's situationism (the dime-in-the-payphone study, local versus global traits) as the main modern challenge to judging whether Don Draper is a good or bad person."
+  },
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "situationism",
+   "name": "Situationism (the critique of character)",
+   "philosopher": "john-doris",
+   "domain": "ethics-moral-psychology",
+   "what": "The thesis, drawn from social psychology, that small environmental factors predict behavior better than stable character traits, so people lack the global virtues and vices virtue ethics assumes.",
+   "why": "Chapter 21 applies situationism to explain Don's and Pete's circumstance-bound behavior (helping only when a dime is found; affairs only before weddings) before defending regional character traits against it."
+  },
+  {
+   "ch": 24,
+   "type": "philosopher",
+   "suggested_slug": "lawrence-kohlberg",
+   "name": "Lawrence Kohlberg",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Moral psychologist (1927-1987) whose six-stage theory holds that moral development culminates in reasoning from universal principles of justice, a scheme built on studies of adolescent men.",
+   "why": "Chapter 24 measures Don's, Peggy's, and Joan's moral development on Kohlberg's scale as the foil to Gilligan's care ethics before ranking Aristotelian friendships."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "critical-race-theory",
+   "name": "Critical Race Theory (differential racialization)",
+   "philosopher": "crenshaw",
+   "domain": "feminism-gender-race",
+   "what": "The framework (Delgado, Stefancic, Crenshaw and others) that race is a social construction sustained by power structures, including the differential racialization of minority groups to serve dominant interests.",
+   "why": "Chapter 26 explicitly analyzes Mad Men's black characters (Carla, Hollis, Sheila) through differential racialization and race as social construction, concepts the taxonomy's existing race and gender slugs do not cover."
+  }
+ ]
+}

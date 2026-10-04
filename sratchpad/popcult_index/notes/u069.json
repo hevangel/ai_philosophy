@@ -1,0 +1,350 @@
+{
+ "book": "043 - The Golden Compass and Philosophy - God Bites the Dust",
+ "unit": "u069",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - The Golden Compass and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - The Golden Compass and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - The Golden Compass and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - The Golden Compass and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - The Golden Compass and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Golden Compass and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Golden Compass and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "personal-identity",
+    "immortality"
+   ],
+   "relation": "The editors' introduction argues that His Dark Materials is philosophy-rich rather than a mere children's fantasy: its metaphysics of parallel worlds, dæmons, angels, armored bears, and mulefa poses genuine epistemic questions and ethical dilemmas. It frames the volume around the controversy over whether exposing children to Pullman's anti-religious vision is spiritual violence or an education in thinking for oneself like Lyra. It also sets up the trilogy's alternative afterlife, where Lyra frees the dead from the drab land of the dead to dissolve into Dust, and flags dæmons as puzzles of personal identity and soul-body interaction."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Golden Compass and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Golden Compass and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "death-of-god",
+    "ubermensch",
+    "will-to-power",
+    "amor-fati"
+   ],
+   "relation": "Auxier argues the trilogy is narrated on a Nietzschean lattice rather than being a mere inverted Milton: after tracing the Paradise Lost, Genesis 6, and Pseudepigrapha sources (Azazel as the model for Asriel, Metatron from Third Enoch, Dust from Milton's warring particles), he reads Mrs. Coulter's speech to Father MacPhail about seeking God out and giving him 'the gift of death' as Nietzsche's death of God fused with a description of Nietzsche's own final dementia. Will and Lyra become overman and overwoman beyond good and evil: Will rises by his will and his willingness to kill (the alethiometer's verdict 'He is a murderer' makes him a worthy companion), while Lyra commands both truth and lies, the alethiometer embodying truth as 'a mobile army of metaphors.' But the chapter's payoff is critical: Pullman does not endorse Nietzsche, since in a world where the will to power dominates, the overwoman Mrs. Coulter has no place and falls with Asriel and Metatron into the Abyss, while Xaphania's teaching offers a disciplined, workful imagination as an alternative."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Golden Compass and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "problem-of-evil",
+    "fate-vs-free-will"
+   ],
+   "relation": "Robison measures Pullman's Authority against the three attributes that make the Christian God worthy of worship and finds it fails all three: the suffering of intercision victims like Tony Makarios and the Authority's delegation to the malevolent Metatron defeat omnibenevolence, because unlike with the real God we know no free-will theodicy applies, since the Authority simply does not care; his ignorance of Lyra's destiny (which witches and the Consistorial Court learn long before he does) defeats omniscience; and his demented weeping in the crystal litter before dissolving in open air defeats omnipotence. Since the Authority never created the universe and lied about being its creator, he is not God at all, so Pullman's plot never refutes the God of the philosophers. What the books do establish, she argues, is a powerful attack on organized religion: the Magisterium's suppression of Dust research and harming of children mirror real religious institutions' punishment of Galileo, resistance to evolution, and persecution of dissenters."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - The Golden Compass and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "mill",
+    "socrates",
+    "sartre"
+   ],
+   "concepts": [
+    "mill-liberty",
+    "death-of-god",
+    "bad-faith"
+   ],
+   "relation": "Fairweather casts the campaign against Pullman's books as Socrates's trial rerun (impiety plus corrupting the young) and asks whether legally protected speech can still be morally wrong, weighing Mill's On Liberty point that children lack the 'maturity of their faculties' against the charge that Pullman's 'killing God' rhetoric inflicts spiritual violence on young believers, by his own image of intercision. The answer comes through Nietzsche's Three Metamorphoses: Asriel, Will, and Lyra play the lion that slays the great 'thou shalt' of the Authority, but the lion's destruction is only the possibility of freedom, since full freedom is Nietzsche's child creating its own values rather than lapsing into nihilism or Sartrean bad faith. Pullman's Republic of Heaven, with its virtues of courage, compassion, love, kindness, and curiosity held in community, is a social ideal rather than a radically Nietzschean one, so the charge of corrupting young readers is deflated."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - The Golden Compass and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "clifford"
+   ],
+   "concepts": [
+    "faith-vs-reason",
+    "applied-ethics"
+   ],
+   "relation": "Yuen reads the silver guillotine of intercision against infant circumcision: both cut unconsenting children as acts of faith, Mrs. Coulter's belief that severing dæmons prevents original sin mirroring the Abrahamic covenant of Genesis 17. Deploying W.K. Clifford's shipowner ('It is wrong always, everywhere, and for anyone to believe anything upon insufficient evidence') and Hume's claim that belief is an involuntary feeling no will can command, he argues that the real moral fault lies in acting on uninvestigated beliefs in ways that harm others, while Mrs. Coulter's non-consensual experiments on kidnapped children are wrong independently of what she believes. He concludes that if cutting Pantalaimon from Lyra is wrong, circumcision is wrong for the same reasons though less severely, at worst as irresponsible as exposing a child to chicken pox."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Golden Compass and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Golden Compass and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "noble-lie",
+    "liar-paradox"
+   ],
+   "relation": "Vaclavik follows Lyra's career as liar and trickster, from the Silvertongue performance that goads Iofur Raknison into fighting Iorek Byrnison, up to the reversal in the Land of the Dead where the harpy screams 'Liar!' and only true stories can feed the ghosts. She frames Lyra's boast that she is the best liar there ever was yet is not lying as a version of the Liar Paradox, then dissolves the puzzle by showing that lies continue after the katabasis (Will's comforting fib, Mrs. Coulter's noble treachery with Metatron) just as truth-telling appeared before it. Truth triumphs in the underworld not for its own sake but because it suits the audience: the dead need the world they have lost, so storytelling, truthful or invented, is judged by what it does for its listeners."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - The Golden Compass and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "ontology-of-fiction"
+   ],
+   "relation": "Mackey tracks the ontological migrations of Lyra, Pantalaimon, and the alethiometer from black marks on a page into the Listening Library audiobook with fixed voices, the National Theatre's puppet dæmons whose black-clad puppeteer stunningly turns out to speak as Lyra's death, the film's computer-graphic Pan with its explanatory opening voice-over, the dæmon-assignment website, a videogame that reduces Pan's shape-shifting to four player-chosen forms, and a Tonner collectible doll with a resin Pantalaimon. She asks whether 'reinforced fiction' supported by extratextual evidence (publisher websites, playbill portraits supposedly showing historical dæmons) makes stories feel more real, and what essential qualities make each embodied version still count as Lyra or Pan. Her conclusion is a research program: understanding how readers conjure fictional beings 'out of all air and thought' across media would be a giant step toward understanding the intricacies of the human mind."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Golden Compass and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "heraclitean-flux"
+   ],
+   "relation": "Russell argues that in Pullman's universe stories generate Dust and truth is a product of the telling: Lord Asriel defends the Adam and Eve story as an 'imaginary number' that lets you calculate what you could not otherwise imagine, and Mary Malone must first tell a lie to a guard and later narrate her own story of leaving her convent to bring Lyra and Will to the moment of free will. Reading the companion pieces Lyra's Oxford and Once Upon a Time in the North, she shows Lyra and Lee Scoresby (guided by Hester and Iorek) learning to read clues, birds, maps, and attached ephemera without closing too fast on meaning, Lyra's detective-story certainty proving mistaken about the alchemist Sebastian Makepeace. The self that emerges, citing Santiago Colas, is relational and becoming rather than being: we become the stories we tell and read, and Dust is renewed by each narrative interaction rather than settled into final answers."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Golden Compass and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - The Golden Compass and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis",
+    "peirce",
+    "plato"
+   ],
+   "concepts": [
+    "possible-worlds",
+    "free-will-determinism"
+   ],
+   "relation": "Auxier tests Pullman's many-worlds premise, setting Asriel's coin-toss explanation and the Barnard-Stokes hypothesis against Book III's claim that unchosen possibilities are 'snuffed out like candles,' then measures the trilogy against David Lewis's causally independent possible worlds, which forbid the subtle knife's transworld travel and leave the chill Lyra feels at the thought of 'another Lyra' in Will's Oxford as an unresolved transworld-identity puzzle. Compiling fourteen kinds of conscious beings from humans and dæmons to specters and the Abyss itself, he argues Pullman's cosmology is panpsychist and aesthetic rather than moral or epistemic, ordered by what the alethiometer, the knife, and the spyglass can and cannot do, with the alethiometer submitting to the knife and love alone able to break it, as Will's love for his mother and for Lyra does twice. Peirce's agapicism, evolution by creative love alongside chance and mechanical necessity, supplies the closest philosophical analogue to Pullman's 'Matter loved Dust.'"
+  },
+  {
+   "n": 21,
+   "file": "ch21 - The Golden Compass and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "frankfurt"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "compatibilism",
+    "moral-luck"
+   ],
+   "relation": "Michaud asks whether a prophesied savior can be a hero: since Lyra can succeed only in ignorance of the witches' prophecy (Dr. Lanselius's condition), either others keep her ignorant and she saves the world or someone tells her and she fails, so the outcome never depends on her any more than Iorek's eating of Iofur's heart depends on bear choice. Frankfurt's counterexample, recast with the Magisterium's Fra Pavel standing by to force your choice, shows one can be blameworthy despite being unable to do otherwise, and Fischer's guidance control, a reasons-responsive decision-making mechanism that is your own, checked across possible worlds, explains why responsibility survives absent alternatives. But Lyra's case exposes a flaw in that account: her success hinges on things she cannot control, so responsibility is shared among all who kept the prophecy secret, and heroism lies in character and self-sacrifice rather than sole control of the outcome."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Golden Compass and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "lewis",
+    "moore"
+   ],
+   "concepts": [
+    "cartesian-doubt",
+    "skepticism"
+   ],
+   "relation": "Michaud wonders whether the Magisterium's censorship of Dust research could be epistemically justified, building the answer from Descartes's dreaming and deceiving-demon doubts (imagine waking to find your dæmon was only a dream), Moore's common-sense 'I know I have two hands' reply, and Dretske's relevant alternatives, arriving at Lewis's 'Elusive Knowledge': inquiry itself ratchets up the standards for knowledge until certainty dissolves, which is exactly what happens to Lyra, and to readers, once they start asking questions about Dust and other worlds. On this view the Magisterium had a Lewisian motive to suppress inquiry, since unquestioning belief preserves the certainty on which its power and promise of salvation rest. But because philosophical questions like 'Is God good?' can never meet the raised standards anyway, the chapter concludes that a little doubt is preferable to the dogmatism and bigotry certainty breeds."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Golden Compass and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - The Golden Compass and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis"
+   ],
+   "concepts": [
+    "possible-worlds"
+   ],
+   "relation": "Finley puts Pullman's parallel worlds beside philosophers' possible worlds: the twin Oxfords sharing Simon Parslow's scratched initials invite the inference that Lyra's world has its own Madagascar, while modal realists like Lewis ('out there going on') take possible worlds to really exist and more skeptical theorists treat them as convenient fictions like 'in the story.' She contrasts their origins, quantum splitting at the level of elementary particles versus eternal logical possibility, explains why the indexical 'actual world' is one we can never leave, and argues that Lewis's underdetermination of fiction means the books describe not one possible world but vast numbers differing in unmentioned details like the population of alternate Madagascar. Lewis's counterpart theory then resolves Lyra's chill at 'perhaps there was a Lyra': the counterpart in Will's Oxford could never be her, only someone remarkably like her."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - The Golden Compass and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "parfit",
+    "descartes",
+    "chalmers"
+   ],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity",
+    "cartesian-dualism",
+    "immortality"
+   ],
+   "relation": "Harris and Baer use the Boatman scene ('Pan is me... we'd die') to test criteria of personal identity against the trilogy: Lyra and Will's inference to a thinking third part, the ghost, reenacts Descartes's dualist reasoning about mind-body distinctness, Iorek's lack of a ghost exemplifies the same-body criterion, and Pantalaimon's instant shape-shifting favors the psychological criterion, spelled out through Locke's prince-and-cobbler memory thought experiment and Parfit's psychological connectedness and continuity. They ask whether Lee Scoresby's dissolution into conscious atoms that reunite with Hester's counts as genuine survival, best accommodated by Locke's consciousness criterion or a panpsychist matter criterion, with Chalmers cited as the contemporary defender of conscious matter. The chapter closes with individuation, whether Lyra and Pan are one person or two, applied to a Primal Fear-style multiple-personality murder trial, the hypothetical of Pan killing someone while Lyra is innocent, and living wills in persistent vegetative states."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Golden Compass and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "epicurus"
+   ],
+   "concepts": [
+    "epicurean-death",
+    "immortality"
+   ],
+   "relation": "Greene applies the philosophy of death to Pullman's worlds, starting from the Epicurean puzzle that death is bad only if experienced, so it cannot be bad, plus the asymmetry puzzle about prenatal non-existence, then testing the Deprivation View (Father Gomez's bullet would rob Lyra of Oxford, the alethiometer, and love) and the Desire-Frustration View (Iorek's frustrated desires) against a universe whose dead do persist as ghosts. The world of the dead, with its harpies, eternal boredom, and the pain of leaving Pan with the Boatman, seems to refute Epicurus by making death a miserable experience after all. But the twist reframes everything: the dead who stream through Will's knife-hole to dissolve into Dust are choosing death over the afterlife, and since for them the good things of life are already off the table, death is not bad at all, which is exactly why they choose it."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Golden Compass and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Golden Compass and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 14,
+   "type": "philosopher",
+   "suggested_slug": "clifford",
+   "name": "William Kingdon Clifford",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Victorian philosopher whose 'The Ethics of Belief' holds, via the shipowner thought experiment, that it is wrong always, everywhere, and for anyone to believe anything upon insufficient evidence.",
+   "why": "Chapter 14's verdict on Mrs. Coulter and on circumcision is built directly on Clifford's evidentialist principle and shipowner case."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "liar-paradox",
+   "name": "The Liar Paradox",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The ancient puzzle of the Cretan who says all Cretans are liars: a self-referential statement that is true only if false.",
+   "why": "Chapter 16 explicitly uses the Liar Paradox to frame Lyra's claim that she is the best liar yet is not lying, and to model the trilogy's apparent turn against storytelling."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "ontology-of-fiction",
+   "name": "Ontology of Fictional Characters",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The branch of metaphysics asking what fictional beings are and what makes them the same character across tellings, media, and embodiments.",
+   "why": "Chapter 17 is organized entirely around the ontological status of Lyra, Pantalaimon, and the alethiometer as they move from page to audio, stage, film, game, and doll."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "panpsychism",
+   "name": "Panpsychism",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The view that consciousness is a fundamental and ubiquitous feature of reality, so that nothing that exists is wholly 'dead matter.'",
+   "why": "Chapter 20 argues Pullman's cosmology of Dust, dæmons, specters, and a conscious Abyss is a panpsychist one, and lists fourteen kinds of conscious beings to make the case."
+  },
+  {
+   "ch": 21,
+   "type": "philosopher",
+   "suggested_slug": "fischer",
+   "name": "John Martin Fischer",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Contemporary philosopher who, with Mark Ravizza, grounds moral responsibility in guidance control, a reasons-responsive mechanism owned by the agent, rather than in the ability to do otherwise.",
+   "why": "Chapter 21 needs Fischer's guidance-control theory to argue Lyra can be a praiseworthy hero even though the prophecy forecloses her alternatives."
+  },
+  {
+   "ch": 22,
+   "type": "philosopher",
+   "suggested_slug": "dretske",
+   "name": "Fred Dretske",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Epistemologist known for the relevant-alternatives theory, on which a skeptical possibility defeats a knowledge claim only when it is relevant to the claim at issue.",
+   "why": "Chapter 22 builds its defense of everyday knowledge, between Moore's common sense and Lewis's contextualism, on Dretske's relevant-alternatives approach."
+  }
+ ]
+}

@@ -1,0 +1,130 @@
+{
+  "book": "260 - The Daily Show and Philosophy - Moments of Zen in the Art of Fake News",
+  "unit": "u376",
+  "chapters": [
+    {
+      "n": 23,
+      "file": "ch23 - The Ultimate Daily Show and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["gadamer", "rousseau", "machiavelli", "nietzsche", "camus"],
+      "concepts": ["gadamer-hermeneutics", "social-contract", "apollonian-dionysian"],
+      "relation": "Torosyan argues that The Daily Show models critical thinking and postmodern self-awareness, using Stewart's interviews to show how to reframe debate and act in good faith. He reads Stewart's demand that news media serve the public through Rousseau's social contract, casts scaremongering politicians as following Machiavelli's advice to 'learn how not to be good,' invokes Gadamer's hermeneutics to argue that guests like William Bennett fail to question their own prejudices, and uses Nietzsche's Apollonian/Dionysian tension to explain the show's tragicomic satire (e.g., the 'Smallpox Blankets' joke and Bush reading Camus's The Stranger)."
+    },
+    {
+      "n": 24,
+      "file": "ch24 - The Ultimate Daily Show and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 25,
+      "file": "ch25 - The Ultimate Daily Show and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["locke", "gadamer"],
+      "concepts": ["faith-vs-reason", "gadamer-hermeneutics"],
+      "relation": "Sirvent and Baker use Stewart's mockery of politicians who claim a divine endorsement (Bachmann's certainty of a 'miracle,' Wyatt Cenac reporting from a Las Vegas-style heaven) to apply John Locke's critique of religious 'enthusiasm'\u2014the arrogance of taking one's own intuitions for divine direction without weighing them against reason. They then deploy Gadamer's philosophical hermeneutics against the 'objectivism' of Glenn Beck and Pat Robertson, arguing that treating scripture as an unambiguous rulebook ignores how every reading is conditioned by culture and history."
+    },
+    {
+      "n": 26,
+      "file": "ch26 - The Ultimate Daily Show and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["marx", "buddha", "shankara"],
+      "concepts": ["faith-vs-reason", "buddhist-non-self", "atman-brahman"],
+      "relation": "LoPresti uses the 'This Week in God' segments (the God Machine, Ed Helms's Hindu-vs-Mayan 'faith-off,' Colbert's inclusivist White House roast) to lay out three responses to religious diversity\u2014exclusivism, inclusivism, and pluralism\u2014and defends John Cobb's Whiteheadian process-metaphysics pluralism. He insists the distinct concepts of religions be respected rather than collapsed, citing Buddhist impermanence and no-Self and the South Asian Atman/Brahman as unique and non-reducible, and closes by reading the show's turn to political framing of religion through Marx's claim that religion is a mechanism for controlling the masses."
+    },
+    {
+      "n": 27,
+      "file": "ch27 - The Ultimate Daily Show and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["faith-vs-reason"],
+      "relation": "Johnson argues that Fox News's 'war on Christmas' is fabricated and that the real conflict is a centuries-long Christian war FOR Christmas\u2014Constantine tacking Jesus's birth onto pagan late-December Saturnalia and solstice celebrations. Using Stewart's and Colbert's segments plus Kevin Bleyer-style history, he defends the separation of church and state (courthouse nativities and school Nativity plays as unconstitutional endorsements of Christianity), debunks David Barton's claims that Jefferson was a conservative Christian, and shows Jefferson the deist coining 'a wall of separation between church and state.'"
+    },
+    {
+      "n": 28,
+      "file": "ch28 - The Ultimate Daily Show and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["popper", "hume", "descartes", "feyerabend", "aristotle"],
+      "concepts": ["falsification", "scientific-realism", "problem-of-evil"],
+      "relation": "Pigliucci uses the 'Evolution, Schmevolution' series and the Dover trial to argue that intelligent design is not science because it is unfalsifiable and invokes supernatural causation. He cites Popper's falsificationism (and Popper's recantation about Darwinism), contrasts Descartes's rationalism with Hume's empiricism to characterize science as a tentative blend of the two, flags Feyerabend's 'anything goes' as an irrational view of knowledge, invokes Aristotle's eudaimonia to argue meaning in life is a personal work in progress, and turns Dembski's theistic-evolution concession into a Pyrrhic victory via the problem of evil ('argument from bad design')."
+    },
+    {
+      "n": 29,
+      "file": "ch29 - The Ultimate Daily Show and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 30,
+      "file": "ch30 - The Ultimate Daily Show and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["mill", "hobbes"],
+      "concepts": ["democracy-theory", "mill-liberty", "social-contract"],
+      "relation": "Vanderheiden reads America (The Book) as a work of democratic theory dressed as textbook parody, arguing its satire is a 'rhetoric of challenge' enacting deliberative democracy. He contrasts 'thin' (merely electoral) with 'thick' participatory democracy using Putnam's social capital and Barber's strong democracy, and invokes J.S. Mill's 'marketplace of ideas' and On Liberty to indict media conglomeration for killing the press's watchdog role. He reads the companion Earth (The Book) through social-contract theory (Hobbes-style), noting its jab that contractual authority historically required the assent of subjugated groups it never obtained."
+    },
+    {
+      "n": 31,
+      "file": "ch31 - The Ultimate Daily Show and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["plato"],
+      "concepts": ["democracy-theory"],
+      "relation": "Sotos uses America (The Book)'s fake Jefferson foreword and Kevin Bleyer's Me the People to attack constitutional 'originalism' and Tea Party 'historical fundamentalism' (per Jill Lepore), arguing the Framers were revolutionaries who intended a living, amendable document. She champions Jefferson's view that 'the earth belongs to the living' and every generation should refound its constitution, contrasts Justice Breyer's living-constitutionalist 'active liberty' with Scalia's originalism ('the Constitution is dead'), invokes Plato's Laws as thinking in similarly living terms, and uses John Oliver's Tea Party interviews to expose 'anti-history' that cancels historical time."
+    },
+    {
+      "n": 32,
+      "file": "ch32 - The Ultimate Daily Show and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["language-games"],
+      "relation": "Holt examines the neologisms of The Daily Show and especially The Colbert Report ('truthiness,' 'wikiality,' 'infoganda,' 'catastrophuck,' 'superstantial') to ask how a coined term becomes a meaningful word. He stakes out a middle position between Humpty Dumpty's anything-goes intentionalism and the Academie Francaise's not-if-we-say-it-isn't-ism, arguing that dictionaries both regulate and merely report usage, and that a lone wordsmith can exploit the untapped meaning potential of language's rules to make a word meaningful at first use. He treats the shows' coinages as ridicule-by-example of gratuitous neologizing (e.g., Palin's 'refudiate')."
+    },
+    {
+      "n": 33,
+      "file": "ch33 - The Ultimate Daily Show and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["freud"],
+      "concepts": ["freud-unconscious", "moral-psychology"],
+      "relation": "Griffioen dissects Colbert's 'truthiness' as two forms of motivated epistemic irrationality\u2014preferring what one wishes true (wishful thinking) and intuiting truth from the gut over facts (self-deception). Using a running example of Samantha Bee believing in Jason Jones's fidelity against the evidence, she rejects Freud-style divided-mind accounts (with their static and dynamic paradoxes) in favor of self-deception as an attention-directing process, and skewers Colbert's circular 'truthinessiness' (proving truthiness with more truthiness). She argues gut feelings only justify belief when they implicitly track relevant facts, proposing a fallacy of 'argumentum ad ventrem.'"
+    },
+    {
+      "n": 34,
+      "file": "ch34 - The Ultimate Daily Show and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["rorty", "kierkegaard", "socrates", "hegel", "nietzsche", "dewey"],
+      "concepts": ["pragmatism", "socratic-method"],
+      "relation": "Decker asks whether 'Stephen Colbert' the persona is an 'existential ironist,' tracing irony from Socrates's Delphic-oracle-inspired questioning through Schlegel, Hegel (irony as freedom but an abdication of responsibility), and Kierkegaard (the ironist detached from and not taking community practices seriously). He reads Colbert's centerless self-redescription and Super PAC stunt via Rorty's 'ironist' and 'final vocabulary' (built from Nietzschean self-creation and Deweyan plasticity through language), then argues that truthiness is a dangerous subjectivism\u2014and that Colbert, unlike a pure Rortian ironist, drops the mask to side with the powerless."
+    },
+    {
+      "n": 35,
+      "file": "ch35 - The Ultimate Daily Show and Philosophy.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 36,
+      "file": "ch36 - The Ultimate Daily Show and Philosophy.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": [
+    {
+      "ch": 32,
+      "type": "concept",
+      "suggested_slug": "neologism-word-coinage",
+      "name": "Neologism and Word-Coinage",
+      "philosopher": "",
+      "domain": "mind-language-metaphysics",
+      "what": "The philosophy-of-language question of how a newly coined term acquires genuine meaning and word-status, between individual intention and community/dictionary convention.",
+      "why": "Chapter 32 is entirely about how Daily Show/Colbert Report neologisms ('truthiness,' 'wikiality') become meaningful words, and the taxonomy has no concept for meaning-creation/neologization\u2014language-games is only a loose stand-in."
+    }
+  ]
+}

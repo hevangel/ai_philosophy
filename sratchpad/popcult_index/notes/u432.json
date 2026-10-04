@@ -1,0 +1,148 @@
+{
+ "book": "308 - The Palgrave Handbook of Popular Culture as Philosophy",
+ "unit": "u432",
+ "chapters": [
+  {
+   "n": 59,
+   "file": "ch59 - 56. Pulp Fiction as Philosophy Bad Faith, Authenticity, and the Path of the Righteous Man.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "heidegger",
+    "kierkegaard"
+   ],
+   "concepts": [
+    "bad-faith",
+    "authenticity",
+    "kierkegaard-despair"
+   ],
+   "relation": "The chapter argues that in Pulp Fiction the authentic characters get 'saved' and the inauthentic do not. Using Sartre's bad faith, it reads Vincent as fleeing into his facticity (his gangster role and social obligations) and Pumpkin as evading responsibility, while Butch acknowledges both his past (the father's watch) and his freedom. Heidegger's 'falling' and das Man explain Vincent's unmoved everyday mode after the miracle. Kierkegaard's three forms of despair from The Sickness unto Death rank the characters, with Jules alone transcending despair by accepting God's grace after 'divine intervention' stopped the bullets, making his Ezekiel monologue the film's key to a deeper authenticity."
+  },
+  {
+   "n": 60,
+   "file": "ch60 - 57. Tenet as Philosophy Fatalism Isn’t an Excuse to Do Nothing.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis",
+    "frankfurt",
+    "vann-inwagen"
+   ],
+   "concepts": [
+    "fate-vs-free-will",
+    "time-travel",
+    "compatibilism",
+    "free-will-determinism"
+   ],
+   "relation": "The chapter reads Nolan's Tenet as an argument for metaphysical fatalism set in a block-universe (eternalism), using the Sator Square, the palindromic 'ten,' and Neil's refrain 'what's happened, happened' as evidence that every event, including the Protagonist's and Kat's, was fated and unchangeable. It deploys David Lewis's solution to the grandfather paradox and reverse causation (Feynman/Wheeler positrons) to show the future cannot kill its ancestors, then argues fatalism entails no libertarian free will, rejecting Frankfurt's compatibilist second-order-desires account and citing van Inwagen that indeterministic acts are no freer. Via a back-tracking counterfactual it concludes fatalism is still no excuse to do nothing, because different action would have yielded a different (annihilated) world."
+  },
+  {
+   "n": 61,
+   "file": "ch61 - 58. Tom Sawyer as Philosopher Lying and Deception on the Mississippi.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "hume",
+    "gettier"
+   ],
+   "concepts": [
+    "gettier-problem",
+    "frankfurt-bullshit"
+   ],
+   "relation": "The chapter treats Mark Twain's Tom Sawyer novels as applied epistemology, arguing lying is far broader and more varied than spoken falsehood. Using Augustine's intent-to-deceive definition it analyzes Tom whitewashing the fence, the blood oath about Injun Joe's murder, Huck's 'sacrifice lie' about smallpox, and disguises as 'showing the false' (mimicking, inventing, decoying) versus 'hiding the truth' (masking, repackaging, dazzling). It invokes Gettier's method of counterexamples as a parallel to Twain showing the traditional definition of lying is too narrow, and links Tom's gaslighting of Aunt Sally and evolutionary/self-deception to modern fake news and deepfakes."
+  },
+  {
+   "n": 62,
+   "file": "ch62 - 59. Don’t Look Up as Philosophy Comets, Climate Change, and Why the Snacks Are Not Free.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "kant",
+    "singer"
+   ],
+   "concepts": [
+    "climate-ethics",
+    "categorical-imperative",
+    "drowning-child"
+   ],
+   "relation": "The chapter argues Don't Look Up is less a film than a moral imperative: its comet is an allegory for climate change, and Randall Mindy's on-air breakdown presents Singer-style simple premises (the end of human life is bad; prevent bad things you can) that compel action. It uses Plato's knowledge-as-the-Good and 'blameworthy ignorance' to condemn the willfully ignorant (Kate's parents, the Orlean Bros) who act as if they know, and Kant's categorical imperative to condemn General Themes's 'free snacks' lie and to cast the moral as the rational. It defends the comet/climate analogy against critics and insists individual action is insufficient while collective government action is required."
+  },
+  {
+   "n": 63,
+   "file": "ch63 - 60. Little Women as Philosophy Death or Marriage and the Meaning of Life.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wolf",
+    "beauvoir"
+   ],
+   "concepts": [
+    "wolf-meaning",
+    "meaning-of-life",
+    "becoming-woman"
+   ],
+   "relation": "The chapter tests Susan Wolf's 'fitting fulfillment' theory (meaning as subjective attraction meeting objective attractiveness) against Greta Gerwig's Little Women, arguing the March sisters and most historical women are ill-fitted to it. Jo is forced to make her writing 'mercenary and commercial' and marries; Amy abandons painting and marries Laurie because 'marriage is an economic proposition'; Marmee, Hannah, and Mrs. Hummel live from duty and self-sacrifice without joy. Invoking Beauvoir's 'one is not born, but becomes a woman' and Imposter Syndrome, it concludes fulfillment is indicative but not necessary for meaning, urging a purely objective theory that can value women's lives 'appropriately appreciated at least in principle.'"
+  },
+  {
+   "n": 64,
+   "file": "ch64 - 61. God’s Not Dead as Philosophy Trying to Prove God Exists.md",
+   "kind": "chapter",
+   "philosophers": [
+    "al-ghazali",
+    "plato",
+    "hume",
+    "russell"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "plato-euthyphro",
+    "faith-vs-reason"
+   ],
+   "relation": "The chapter evaluates the arguments college freshman Josh delivers in God's Not Dead and finds them to fail while the film demonizes atheists via caricature and the Christian persecution complex. It rebuts the Kalam cosmological argument (traced to al-Ghazali) with vacuum fluctuations and a quantum-foam explanation, shows the Big Bang refutes rather than confirms Genesis, and uses Russell's teapot and Hume's evidence proportioning on the burden of proof. Against Josh's 'without God everything is permissible' it applies Plato's Euthyphro to sink divine command theory, answers the free-will defense to the problem of evil, and closes that the film's fideism makes knowledge impossible."
+  },
+  {
+   "n": 65,
+   "file": "ch65 - Part III. Comedians.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 66,
+   "file": "ch66 - 62. Hannah Gadsby as Philosopher Is Comedy Really Such a Good Thing.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nussbaum",
+    "frankl",
+    "freud"
+   ],
+   "concepts": [
+    "stoicism",
+    "frankl-meaning",
+    "philosophy-of-humor"
+   ],
+   "relation": "The chapter treats Hannah Gadsby's Nanette as philosophical comedy, weighing her four reasons for quitting: self-deprecation is humiliation for the marginalized, jokes' setup-punchline structure cannot heal trauma, comic relief lets audiences off the hook, and anger only spreads hatred. It distinguishes self-lacerating from ethical, existential, and ironic self-deprecation, and contrasts Critchley's Freudian neo-Stoic humor (super-ego viewing the ego as trivial, akin to Epictetus and cognitive therapy) with the Willetts' feminist 'collective catharsis.' Against Gadsby's claim that anger cannot be constructive, it sets Nussbaum's Anger and Forgiveness alongside Lorde and Srinivasan to argue anger can recover agency and register injustice, and defends Nanette as genuine comedy and 'stand-up catharsis.'"
+  }
+ ],
+ "holes": [
+  {
+   "ch": 61,
+   "type": "concept",
+   "suggested_slug": "lying-deception",
+   "name": "Lying and Deception",
+   "philosopher": "augustine",
+   "domain": "knowledge-science-reality",
+   "what": "The applied-epistemology study of what lies and deception are and their varieties (spoken lies, keeping mum, concealing, showing the false vs. hiding the truth).",
+   "why": "Chapter 61 is centrally about the nature and taxonomy of lying/deception in Twain's Tom Sawyer, which the taxonomy has no concept slug for; frankfurt-bullshit and gettier-problem only touch adjacent ideas."
+  },
+  {
+   "ch": 66,
+   "type": "concept",
+   "suggested_slug": "philosophy-of-humor",
+   "name": "Philosophy of Humor",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Theories of what humor is and does, including relief theory, catharsis, self-deprecation, and comedy as cultural critique.",
+   "why": "Chapter 66's core subject is a philosophical critique of comedy and jokes themselves (relief humor, catharsis, self-deprecation), for which the taxonomy provides no dedicated concept slug."
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+  "book": "310 - The Real Meaning of Doctor Who",
+  "unit": "u437",
+  "chapters": [
+    {
+      "n": 6,
+      "file": "ch06 - Preface.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 7,
+      "file": "ch07 - Welcome Aboard the TARDIS\u2014It\u2019s Bigger on the Inside.md",
+      "kind": "chapter",
+      "philosophers": ["hegel", "marx", "heidegger"],
+      "concepts": ["hegel-dialectic", "culture-industry", "thrownness"],
+      "relation": "The author argues that Doctor Who functions as a 'great educator' that shapes viewers' reality and their conception of the good life, framing our birth into the world as being 'thrown' into a new environment we must assimilate. He applies Hegel's historical dialectic to the Doctor-versus-Daleks conflict, treating the Doctor (wisdom, liberty, compassion) and the Daleks (obedience, hatred, conquest) as opposing theses whose ongoing struggle synthesizes the wider universe's fear of the Daleks. Drawing on Carroll and Danesi, he claims pop culture like Doctor Who validates experience and creates collective structures of meaning, and that our chosen first Doctor becomes the interpretive framework through which we judge every later one."
+    },
+    {
+      "n": 8,
+      "file": "ch08 - I Following the Doctor.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 9,
+      "file": "ch09 - 1. Engaging Life Like the Doctor.md",
+      "kind": "chapter",
+      "philosophers": ["socrates", "hume", "william-james", "hegel", "aristotle"],
+      "concepts": ["socratic-method", "hegel-dialectic", "unexamined-life"],
+      "relation": "The chapter casts the Doctor as a 'fl\u00e2neur' who teaches an engaged, critical-thinking way of life, illustrated through episodes like 'Blink,' 'Heaven Sent,' and 'Kerblam!' where the Doctor (and viewer) solve mysteries through trial and error. It uses Hume and William James to argue the mind actively constructs reality into a narrative, and pairs the Doctor with Socrates as a truth-seeking 'midwife' teacher who withholds answers so companions can learn by living rather than being told. The Doctor's rejection of Time Lord non-interference models the Socratic examined life of engaging the world to know oneself and others."
+    },
+    {
+      "n": 10,
+      "file": "ch10 - 2. The Dangers of Being the Doctor.md",
+      "kind": "chapter",
+      "philosophers": ["young"],
+      "concepts": ["free-will-determinism", "civil-disobedience"],
+      "relation": "The chapter weighs the Doctor's ethic of interference against the Time Lords' non-interference, using determinism and the 'butterfly effect' (Martha in 'The Shakespeare Code') to concede when disengaged observation is prudent, while insisting that non-interference fails to protect human dignity. Drawing on Terrence Des Pres's account of dignity as 'inward resistance,' and real-world dissidents Adam Michnik and V\u00e1clav Havel's 'power of the powerless,' it reads 'Rosa,' 'The Woman Who Fell to Earth,' and the people of Le Chambon as models of dignified, communal resistance to wrongdoing. Citing Iris Young, it argues everyone bears moral responsibility to engage rather than remain a detached, complicit 'objective observer.'"
+    },
+    {
+      "n": 11,
+      "file": "ch11 - II Everyday Life as the Doctor.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 12,
+      "file": "ch12 - 3. What Is Who.md",
+      "kind": "chapter",
+      "philosophers": ["locke", "plato", "sartre", "descartes", "freud"],
+      "concepts": ["personal-identity", "locke-personal-identity", "existence-precedes-essence", "ship-of-theseus"],
+      "relation": "The chapter runs the Doctor's regenerations and the 'Timeless Child' reveal through competing theories of personal identity: Plato's soul/Forms, Locke's memory continuity, and bodily continuity, all of which the Doctor's body-swaps and forgotten lifetimes defeat (the Twelfth Doctor's 'you are a broom' speech recasts the Ship of Theseus). It endorses an existentialist answer\u2014personal identity is chosen and constantly 'becoming,' as the Thirteenth Doctor declares 'I know exactly who I am. I'm the Doctor'\u2014and uses Sartre against Freud to explain how the Doctor and the Whovian fandom reconcile internal and external selves in a community of acceptance. It closes arguing that only an 'objective' immortality (memories preserved in the Matrix) survives death, not a subjective self."
+    },
+    {
+      "n": 13,
+      "file": "ch13 - 4. The Good of the Doctor.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "kant", "mill", "bentham", "gilligan"],
+      "concepts": ["utilitarianism", "deontology", "virtue-ethics", "care-ethics"],
+      "relation": "The chapter distinguishes aesthetic 'good' (taste, beauty of the Daleks) from ethical 'good,' then tests the Doctor against the major moral theories: utilitarianism (rejected when Sarah Jane urges exterminating the Daleks in 'Genesis of the Daleks'), Kantian duty ethics (the Doctor's 'never met anyone who wasn't important' and attempts to save Davros and the Master), virtue ethics (the Eleventh Doctor guarding Christmas in 'The Time of the Doctor'), and feminist care ethics. Concluding that none quite fits because the Doctor values non-rational beings and feels compassion, the author proposes the Doctor follows Wolterstorff's 'ethic of need'\u2014justice as meeting the needs of all\u2014consistent with 'getting in the thick of things' as a fl\u00e2neur."
+    },
+    {
+      "n": 14,
+      "file": "ch14 - 5. Monsters and Evil in Doctor Who.md",
+      "kind": "chapter",
+      "philosophers": ["hume", "rawls", "nietzsche"],
+      "concepts": ["punishment-theory", "banality-of-evil", "moral-psychology"],
+      "relation": "The chapter defines a 'moral monster' as one who delights in evil acts, arguing (via Jonathan Glover and Laurence Thomas) that Hitler-style evil is all-too-human, not alien. Using Hume's claim that action springs from passion, it contends the emotionless Cybermen are a mere force of nature (bad but not evil), whereas the Daleks, driven by hatred, tribalism, and a closed belief system, are genuinely evil monsters; the manipulating Master mirrors our everyday lying. It then examines retributive justice through Solomon's execution in 'Dinosaurs on a Spaceship' and 'A Town Called Mercy,' rejecting purely backward- or forward-looking punishment (citing Rawls on utilitarianism's injustice) in favor of the Doctor's needs-based, 'reprobative' punishment, mercy, and self-forgiveness over the Time War."
+    },
+    {
+      "n": 15,
+      "file": "ch15 - III Beyond Everything.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 16,
+      "file": "ch16 - 6. Religion, Loss, and Afterlife.md",
+      "kind": "chapter",
+      "philosophers": ["kierkegaard", "aristotle", "socrates", "plato", "tillich"],
+      "concepts": ["meaning-of-life", "immortality", "kierkegaard-stages"],
+      "relation": "The chapter asks whether Doctor Who is a religion, testing it against Hopfe's and Ninian Smart's criteria and concluding it is best understood as a Humanist-and-religious 'philosophy'\u2014sacred and 'holy' (Otto) but lacking a genuine transcendent 'unseen.' On loss, it uses Kierkegaard's 'aesthetic life' and 'rotation method' to explain why we fear endings and regenerations, urging viewers to root life in lasting meaning rather than fleeting pleasure. On death, it deploys Socrates in the Apology and Phaedo and Aristotle on courage (Jabe, Harriet Jones, Donna sacrificing themselves) to argue death is nothing to fear, and reads the Matrix and Nethersphere as the show's two Socratic afterlife options."
+    },
+    {
+      "n": 17,
+      "file": "ch17 - 7. Knowledge, Space, and Time.md",
+      "kind": "chapter",
+      "philosophers": ["gettier", "descartes", "hume", "reid", "goldman"],
+      "concepts": ["gettier-problem", "reliabilism", "descartes-cogito", "a-series-time"],
+      "relation": "The chapter uses the TARDIS to defend a 'block universe' theory of spacetime over Presentism (since the Doctor visits past and future), then turns to epistemology, distinguishing belief from knowledge and 'belief in' the Doctor from 'belief that' he exists. It re-stages Gettier's justified-true-belief counterexample as picking the Doctor's next companion by a blue jean jacket, surveys Descartes's Cogito foundationalism, Hume's induction, and Reid's direct perception, and endorses Alston's reliabilist two-level foundationalism plus Klein's infinitism. It argues the Doctor's benefit-of-the-doubt toward non-rational creatures fits a reliabilist 'lower level' of knowledge and an imaginative, engaged, virtuous (Zagzebski) search for truth."
+    },
+    {
+      "n": 18,
+      "file": "ch18 - Epilogue.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche"],
+      "concepts": ["meaning-of-life", "amor-fati"],
+      "relation": "The closing essay exhorts readers to 'approach life as the Doctor'\u2014engaged, compassionate, and critically thinking\u2014insisting each person is important and that fandom passion, even when fractious, expresses the Doctor's engaged life (invoking Voltaire on free expression). Using 'Father's Day' and 'The Day of the Doctor,' it argues we cannot change the past but must seize the present, and ties 'truth' and 'trust' to a shared root to claim a meaningful life requires trusting oneself and others rather than merely proving oneself right. It affirms that wisdom is lived truth, that being wrong is how we mature, and that courage is doing what must be done while afraid."
+    },
+    {
+      "n": 19,
+      "file": "ch19 - Filmography.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 20,
+      "file": "ch20 - Bibliography.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 21,
+      "file": "ch21 - Index.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 22,
+      "file": "ch22 - 196.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 23,
+      "file": "ch23 - 197.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": []
+}

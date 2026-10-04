@@ -1,0 +1,79 @@
+{
+ "unit": "u392",
+ "book": "275 - Hunting \u2013 Philosophy for Everyone - In Search of the Wild Life",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\275 - Hunting \u2013 Philosophy for Everyone - In Search of the Wild Life",
+ "range": [
+  25,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 25,
+   "file": "ch25 - Hunting Philosophy for Everyone.md",
+   "words": 5529
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Hunting Philosophy for Everyone.md",
+   "words": 4798
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Hunting Philosophy for Everyone.md",
+   "words": 3939
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Hunting Philosophy for Everyone.md",
+   "words": 5335
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Hunting Philosophy for Everyone.md",
+   "words": 11
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Hunting Philosophy for Everyone.md",
+   "words": 4758
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Hunting Philosophy for Everyone.md",
+   "words": 4593
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Hunting Philosophy for Everyone.md",
+   "words": 5023
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Hunting Philosophy for Everyone.md",
+   "words": 5068
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Hunting Philosophy for Everyone.md",
+   "words": 4910
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Hunting Philosophy for Everyone.md",
+   "words": 2536
+  }
+ ],
+ "content": [
+  25,
+  26,
+  27,
+  28,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35
+ ]
+}

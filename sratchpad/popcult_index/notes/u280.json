@@ -1,0 +1,337 @@
+{
+ "book": "192 - Superman and Philosophy - What Would the Man of Steel Do_",
+ "unit": "u280",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - ii.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - It’s About Damn Time.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editor's introduction argues that the fans' endless Batman-vs-Superman fight is never really about who is stronger or richer but about who is the better hero — who we should try to be like, raise our children to resemble, and model our future on. Recalling learning sacrifice from Batman and total self-giving from the Death of Superman storyline, it frames the book's debate format as a choice between hopeful faith that humanity will succeed and cynical suspicion that everyone is one lab accident from villainy, and hands the verdict to the reader."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Pre-Fight Warm-Up Battle of the Billennium.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - 1. Where Have All the Supermen Gone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "ubermensch",
+    "apollonian-dionysian",
+    "death-of-god",
+    "will-to-power"
+   ],
+   "relation": "Holdier tests each hero against Nietzsche: Superman looks like the Übermensch but his mild-mannered Clark Kent pose is slave morality that would turn Nietzsche's stomach, while Batman's will-forged heroism (his Year One vow, 'what does not kill me makes me stronger') seems more overman-like until his self-loathing in Hush ('deep down, I'm not [a good person]') disqualifies him too. Neither qualifies; instead Superman embodies the Apollonian sun-god force of The Birth of Tragedy and Batman the Dionysian, so their Dark Knight Returns clash is the inevitable but never-final friction of art's twin poles — and the readers are the ones who win the fight."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Round One Decision—Superman! The Son Shines Bright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 2. Sure We’re Criminals.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "plato",
+    "hobbes",
+    "locke",
+    "hume",
+    "nozick"
+   ],
+   "concepts": [
+    "social-contract",
+    "civil-disobedience",
+    "anarchism"
+   ],
+   "relation": "Alloy uses the problem of political obligation to split the heroes: against Plato's Crito, where Socrates refuses escape because even bad laws bind, Bruce Wayne simply flees arrest in Bruce Wayne: Murderer?/Fugitive, treating law as a tool of his war. He tests consent theory through Superman's chosen handcuffs in Man of Steel and Darkseid's Apokolips as Hobbes's 'mortal god' versus Locke's natural-rights standard, lets Hume's objection sink tacit consent (Red Son Superman cannot really emigrate, and Batman would never leave Gotham), rejects gratitude theory via the Kents' adoption of Kal-El, and dismantles Batman's 'I'm not wearing hockey pads' defense with Nozick's Batman-lottery — concluding Superman's law-conforming restraint protects the public from him becoming Luthor's 'alien overlord', while answerable-to-no-one Batman remains a force of chaos."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 3. Darwin in Metropolis.md",
+   "kind": "chapter",
+   "philosophers": [
+    "spencer",
+    "darwin"
+   ],
+   "concepts": [
+    "social-darwinism",
+    "existence-risk"
+   ],
+   "relation": "Springett applies evolutionary biology to the debate: natural selection, fitness (Batman edges it by one child, Damian Wayne), morphospace reasoning, and biological altruism, which technically Batman satisfies better since invulnerable Superman cannot lower his own fitness. But judged as an effective helper at species scale — Gould's catastrophes, asteroids, alien invasions — Superman protects the fitness of the whole species and planet where Batman guards one city, so a closing three-premise argument crowns Superman the superior Superhero, and his habit of saving the less fit makes him a living counterexample to Social Darwinism."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 4. A Cape and a Code.md",
+   "kind": "chapter",
+   "philosophers": [
+    "cs-lewis"
+   ],
+   "concepts": [
+    "virtue-ethics"
+   ],
+   "relation": "Farrell traces the heroes to medieval knighthood and evaluates them by C.S. Lewis's 'The Necessity of Chivalry': both live the double demand of fierceness and meekness (Batman brutalizing the Joker in The Dark Knight yet gifting a boy his surveillance gear; Superman turning back time for Lois yet rescuing a girl's cat), and both must achieve knightly character 'by art, not nature'. The decisive difference is restraint: Superman's Pa Kent lessons and the Smallville 'Red' red-kryptonite episode show the mighty man choosing self-control, making Kal-El the truer chivalric knight, where Lewis's examples (Achilles, triumphant generals) show power without meekness is no heroism."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 5. How Heroes Argue.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "nietzsche"
+   ],
+   "concepts": [
+    "virtue-ethics"
+   ],
+   "relation": "LaBauve opens with an imagined Justice League showdown over a Joker hostage where Batman sways the crowd with pathos (fear of failing the innocent) and Superman wins them back through ethos — years of trusted character — to stage the chapter's claim from Aristotle's On Rhetoric. Superman alone balances all three appeals: Batman's pathos is all too human (Nolan's tormented Bruce) and his logos is master-detective method, but pure pathos risks Hitler-style demagoguery and pure logos is inhuman, while Superman's surpassing ethos — reinforced by the Kill Bill Vol. 2 monologue that Clark Kent is the costume — makes him the virtuous exemplar who 'must win'."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Round Two Decision—Batman! More Human than a Superman.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 6. The God We Need Now.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "death-of-god"
+   ],
+   "relation": "Ketcham frames a fictional 1939 memoir asking which god a god-forsaken age gets: Depression-era America needed Superman as a messiah (Siegel and Shuster as gospel-writers, DC's clerics redrawing him all-good like the church editing the New Testament), but a jaded modern America, he argues, now worships the dark billionaire as a Hades figure — Wayne Manor's hidden underworld with Alfred as Cerberus, the rich sacrificed to like Greeks propitiating Zeus. Superman is dismissed as unattainable alien fiction while Bruce Wayne is the self-made god of the American dream, with the essay ending on the prospect of a cybergod for his grandchildren."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 7. How Batman Cowed a God.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "master-slave-morality",
+    "ressentiment",
+    "ubermensch"
+   ],
+   "relation": "Reider reads Batman as Nietzsche's aristocratic 'good' man — pagan wrath and vengeance without shame, his no-kill rule in Under the Red Hood mere pride, like Achilles dragging Hector's body — and Superman as the unwitting pawn of slave morality, his Kent-farm humility, guilt, and protect-the-weak ethos the very values the resentful revolt installed. The provocation: a god whose morality favors the weak may secretly wish to be overcome, so the imagined confrontation where Batman growls 'follow the plan or I'll take you out myself' lets Superman feel happily, honestly human again — which is also why Wonder Woman pursues Batman and Clark pines for the domineering Lois."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 8. Saints and Superheroes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer",
+    "wolf"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "deontology",
+    "drowning-child",
+    "supererogation"
+   ],
+   "relation": "Alloy uses supererogation — Urmson's saints-and-heroes puzzle — to separate the heroes: utilitarianism (via Singer's Famine, Affluence, and Morality, where even Clark's novelty glasses are stolen from charity) and deontology both erase acts that are good but not required, and Susan Wolf's moral saints show where that lands — a Bruce Wayne with no hobbies, friends, or life, like Astro City's Samaritan. Alloy's own Raz-style fix (requirements overridden by moral permitting reasons) yields the verdict: Batman risks his life by choice and so is a true hero, while Superman, facing no real danger, merely does what his powers make morally required — 'a good person with the powers of a living god'."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 9. Masks, Hearts, and Superheroes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "plato"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-golden-mean",
+    "plato-ring-of-gyges"
+   ],
+   "relation": "Dupree and Fuš argue from identity statements: Bruce Wayne is 'just a mask' for Batman, while Clark Kent is in his heart Superman, so only an essentially human character can be a true superhero. On their Aristotelian definition — virtue ethics, the golden mean, flourishing through self-developed excellence — Batman's no-kill rule (sparing even the Joker), his planned avoidance of lethal force in Gotham Knights #31, and his balance against extremes make him the true hero, whereas Superman's given god-powers (killing Zod in Man of Steel, tyrant in Red Son) mirror power rings as Gyges's ring: possession without earned virtue."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 10. Gods Are Overrated.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "nietzsche"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "death-of-god",
+    "immortality",
+    "meaning-of-life"
+   ],
+   "relation": "Michaud runs Hume's problem of evil against a Superman who is nearly all-powerful, all-knowing, and good yet takes dates with Lois while animals and children suffer pointlessly — and unlike God he cannot hide behind mystery, only laziness. God-like protectors breed excuses ('Superman is our great excuse' for doing nothing about homelessness or starving children), and belief in afterlife and divine rescue cheapens this life; following Nietzsche's death of God, the chapter argues we should stop believing in saviors, face the infinite night, make our own meaning, and be more like Batman — self-reliant people who try to save others themselves."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Round Three Decision—Superman! The Best Man for Tomorrow.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 11. Of Bats and Supermen.md",
+   "kind": "chapter",
+   "philosophers": [
+    "merleau-ponty",
+    "nagel"
+   ],
+   "concepts": [
+    "embodiment",
+    "what-is-it-like",
+    "social-darwinism",
+    "transhumanism"
+   ],
+   "relation": "Springett argues Superman, not Batman, is the right goal for a transhumanist future: through Merleau-Ponty's embodied cognition (Lois's deadline nausea, Alfred recovering a thought by redoing his posture, real-life 'Subway Superman' Wesley Autrey's gut-level rescue) he shows bodies shape thought and morality, so a super-body means a super-mind. Nagel's 'What Is It Like to Be a Bat?' becomes 'what is it like to be Superman' — a problem of superhero minds, with Doctor Manhattan's indifference as the cautionary case — while Superman's rescues of the less fit show transcendence need not slide into eugenics or Social Darwinism."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - 12. Vigilante Wanted.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "forgiveness",
+    "terrorism-violence"
+   ],
+   "relation": "Ketcham writes a fictional Dust Bowl kid's 1940 diary: facing bank foreclosure, he weighs which comic to keep as the vigilante who would burn down the bank — Superman, the Kansas farm boy gone Metropolis-insider, or Batman, rich like the bankers yet a fellow avenger who only fights 'carnival freaks'. Testing each against Hamlet's paralysis, Henry V at Agincourt, Tom Joad's 'I'll be ever'where' promise, and a Lex-Luthor pact with the devil, he burns the Batman comics and keeps Superman — realizing he is really giving up his own hate and the preacher's unforgiveness, though even Superman begins to fade 'like dust in that wind'."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 13. Time to Choose.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "kant"
+   ],
+   "concepts": [
+    "consequentialism",
+    "deontology",
+    "moral-luck",
+    "utilitarianism"
+   ],
+   "relation": "Goldberg and Gavaler read Superman's first-year Action Comics adventures (reforming the Blakely Mine owner, demolishing slums, buying back swindled stock) as consequentialism on Millian lines, and Batman's Detective Comics year (letting the Joker's victims die while 'the time isn't ripe', the batarang deflected by invisible glass) as a dark, vengeance-based cousin of Kant's duty ethics. Moral luck is the pivot — deontology ignores it, consequentialism is hostage to it — but Superman's powers cancel luck, and in the opening Luthor/Joker two-bomb scenario Superman defuses while Batman chases the villain, so the chapter rules Superman's 'super consequentialism' the superior code."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "darwin",
+   "name": "Charles Darwin",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Naturalist whose theory of evolution by natural selection grounds the concepts of fitness, adaptation, and biological altruism.",
+   "why": "Chapter 12 ('Darwin in Metropolis') runs its entire Batman-vs-Superman comparison through Darwinian fitness, natural selection, and altruism, and Darwin is absent from the taxonomy."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "natural-selection",
+   "name": "Natural Selection and Fitness",
+   "philosopher": "darwin",
+   "domain": "knowledge-science-reality",
+   "what": "The evolutionary mechanism by which heritable traits aiding survival and reproduction spread, defining biological fitness and biological altruism.",
+   "why": "Chapter 12 argues Superman is the fitter and more effective 'Superhero' using natural selection, morphospace reasoning, and biological altruism, none of which taxonomy covers."
+  },
+  {
+   "ch": 13,
+   "type": "philosopher",
+   "suggested_slug": "cs-lewis",
+   "name": "C.S. Lewis",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Twentieth-century literary scholar and Christian apologist whose essay 'The Necessity of Chivalry' analyzes the knight's double demand of fierceness and meekness.",
+   "why": "Chapter 13's whole comparison of Batman and Superman as chivalric knights is built on Lewis's account of knightly character as achieved art rather than nature."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "chivalry",
+   "name": "The Code of Chivalry",
+   "philosopher": "cs-lewis",
+   "domain": "medieval-early-modern",
+   "what": "The medieval knightly code pairing martial fierceness with meekness, courtesy, and restraint, treating knightly character as something achieved by art.",
+   "why": "Chapter 13 evaluates Superman and Batman against chivalry's double demand and crowns Superman the truer knight for his self-restraint."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "ethos-pathos-logos",
+   "name": "Ethos, Pathos, and Logos (modes of persuasion)",
+   "philosopher": "aristotle",
+   "domain": "ancient",
+   "what": "Aristotle's three modes of persuasion in On Rhetoric: appeal to the speaker's character, to the audience's emotions, and to logic and facts.",
+   "why": "Chapter 14's entire argument weighs Batman's pathos and logos against Superman's balanced ethos to decide which hero argues like a hero."
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "supererogation",
+   "name": "Supererogation (beyond the call of duty)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Good, praiseworthy actions that are not morally required — the deeds of saints and heroes, per Urmson and Raz.",
+   "why": "Chapter 18's core claim is that Batman's risky crime-fighting is supererogatory while Superman's rescues are merely required by his powers; taxonomy has no such concept."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "transhumanism",
+   "name": "Transhumanism",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The cultural and philosophical movement aiming to transcend the human condition through technology, genetic engineering, and enhancement.",
+   "why": "Chapter 22's central argument is that Superman, not Batman, is the proper goal of transhumanist self-improvement; taxonomy lacks the concept."
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "unit": "u236",
+ "book": "160 - Fallout and Philosophy - Thinking Outside the Shelter",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\160 - Fallout and Philosophy - Thinking Outside the Shelter",
+ "range": [
+  25,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 25,
+   "file": "ch25 - Notes.md",
+   "words": 3734
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Notes.md",
+   "words": 4134
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Notes.md",
+   "words": 4591
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Notes.md",
+   "words": 3717
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Notes.md",
+   "words": 3597
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Part 5 A BEAUTIFUL DISASTER THE AESTHETICS OF FALLOUT.md",
+   "words": 8
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Notes.md",
+   "words": 3988
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Notes.md",
+   "words": 3653
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Notes.md",
+   "words": 3357
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Notes.md",
+   "words": 3235
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Notes.md",
+   "words": 3678
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Part 6 APOCALYPTIC PSYCHOLOGY.md",
+   "words": 3
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Notes.md",
+   "words": 4022
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Notes.md",
+   "words": 3647
+  },
+  {
+   "n": 39,
+   "file": "ch39 - Notes.md",
+   "words": 3517
+  },
+  {
+   "n": 40,
+   "file": "ch40 - Index.md",
+   "words": 768
+  },
+  {
+   "n": 41,
+   "file": "ch41 - End User License Agreement.md",
+   "words": 18
+  }
+ ],
+ "content": [
+  25,
+  26,
+  27,
+  28,
+  29,
+  31,
+  32,
+  33,
+  34,
+  35,
+  37,
+  38,
+  39,
+  40
+ ]
+}

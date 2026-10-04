@@ -1,0 +1,244 @@
+{
+ "book": "190 - The Ultimate Star Wars and Philosophy - You Must Unlearn What You Have Learned",
+ "unit": "u276",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Series.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - The Ultimate Star Wars and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Acknowledgments Legacy of the Force.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Introduction “The Circle Is Now Complete”.md",
+   "kind": "chapter",
+   "philosophers": ["hegel"],
+   "concepts": [],
+   "relation": "The editors frame the volume through fan controversies (Han or Greedo, Jar Jar, the de-canonized Expanded Universe) and the philosophical question each film raises, from whether a prophesied destiny robs Anakin of freedom to whether good and evil are mere 'points of view.' They invoke Hegel's claim that philosophy captures only its own time to concede this 'ultimate' volume predates Episode VII. The introduction connects Star Wars to philosophy by previewing the essays: Stoic Jedi, the Sith's Thrasymachus-like worldview, Boba Fett's amoralism, feminist readings of Padme and Leia, Kevin Smith's charge that the Rebels are terrorists, Joseph Campbell's monomyth, droid minds, and whether Chewie can speak."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Episode I The Philosophical Menace.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Notes.md",
+   "kind": "chapter",
+   "philosophers": ["plato", "nietzsche", "socrates"],
+   "concepts": ["plato-tripartite-soul", "sophist-relativism", "will-to-power", "noble-lie"],
+   "relation": "MacMullan argues Darth Plagueis is a paradox for Plato: wisdom as reason ruling spirit and appetite should be impossible for a Sith who feeds on passion, yet Plagueis stays patient, restrained, and rational for over a century. He reads Sidious's 'I will make it legal' and the Sith Code as Thrasymachus's 'justice is the advantage of the stronger,' and notes Plagueis even shares Plato's noble lie and eugenic breeding programs. Finding that Plato's prediction of self-destruction fails for Plagueis, the chapter turns to Nietzsche: master morality, the will to power, and life beyond good and evil better explain a Sith who cherishes bodily life and seeks to conquer death where Yoda and Socrates calmly disdain 'crude matter.'"
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Notes.md",
+   "kind": "chapter",
+   "philosophers": ["epictetus"],
+   "concepts": ["dichotomy-of-control", "stoic-indifferents", "stoicism"],
+   "relation": "Hummel maps the Jedi Order onto Epictetus's Stoicism: philosophy as a way of life, virtue through wisdom, the dichotomy of control ('some things are up to us'), and treating outcomes like flying or other people's fates as preferred indifferents within the will of the Force. Anakin falls because he misconceives power as the ability to do amazing things - stopping people from dying - instead of mastery of his own judgments, and he refuses Stoic indifference toward Shmi and Padme. The chapter also indicts the Jedi's own un-Stoic lapses: mind tricks on Watto, entering the Clone Wars, and Mace Windu's attempt to execute a subdued Sidious."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Notes.md",
+   "kind": "chapter",
+   "philosophers": ["kierkegaard"],
+   "concepts": ["leap-of-faith", "teleological-suspension", "kierkegaard-stages", "faith-vs-reason"],
+   "relation": "Lindenmuth reads Luke's endgame in Return of the Jedi as Kierkegaard's knight of faith, reversing Abraham's binding of Isaac: where Abraham raised the knife, Luke, pressed by Yoda and Obi-Wan to kill his father, throws his saber away. Jedi detachment ('train yourself to let go') is infinite resignation, and Han Solo's arc from self-interested smuggler to hero at Yavin traces Kierkegaard's aesthetic-to-ethical stages. Luke's double movement - resigning everything, his cause and his life, while trusting there is still good in Vader - suspends the ethical demand to kill and accomplishes what neither side thought possible: turning a Sith back to the light."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Notes.md",
+   "kind": "chapter",
+   "philosophers": ["nietzsche", "kant"],
+   "concepts": ["nietzsche-perspectivism", "golden-rule", "hume-induction"],
+   "relation": "Adams pairs Anakin with Achilles to show how Palpatine's lesson that 'good is a point of view' - Nietzsche's claim that there are no moral facts, only interpretations - nearly destroys both heroes before a father's love pulls them back: Priam's tears before Achilles, Luke unmasking Vader. Against nihilism the chapter defends moral realism through Apollo's lion simile (compassion and respect are objective facts about what persons require) and Kant's self-critical inquiry, with the Jedi Council's twelve-way deliberation illustrating that some interpretations are better than others, beyond Hume's problem of induction. Both epics settle on a 'Pagan Golden Rule' - help your friends and harm your enemies, but never lose compassion for either."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Notes.md",
+   "kind": "chapter",
+   "philosophers": ["confucius", "laozi"],
+   "concepts": ["wu-wei", "the-tao", "confucian-ren", "rectification-of-names"],
+   "relation": "Decker parallels the Republic's fall into Palpatine's Empire with the Zhou dynasty's collapse that birthed Chinese philosophy, reading three Jedi from the Dark Times comics through it. K'Kruhk, guided by the Zatoichi-like Master Zao, learns wu-wei - following the Force rather than forcing outcomes, with Laozi's Dao as the Force's Chinese analogue. Dass Jennir's struggle over what 'Jedi' means after killing a slaver becomes Confucian rectification of names and the cultivation of ren, while Kai Hudorra's loss of faith, withdrawal to a casino, and final sacrificial stand against Vader embody Mozi-style pragmatic minimalism redeemed by Jennir's virtuous example."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Episode II Attack of the Morals.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["just-war-theory", "terrorism-violence", "aquinas-double-effect", "utilitarianism"],
+   "relation": "Camosy takes up Randal's charge in Clerks that destroying Death Star II killed innocent independent contractors. Against utilitarian reasoning he deploys just war theory: terrorism is intentionally targeting innocents as a means, so Tarkin's destruction of Alderaan (and, he argues, Hiroshima) qualifies, while the Rebels, who would have been 'pleased' if the workers took the day off, do not. Since the crew was mostly conscripted clones and programmed droids with no moral responsibility, and destroying the station saved billions, the attack passes the proportionality test - an exercise in double-effect reasoning that asks fans to question the 'good guys lens.'"
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Notes.md",
+   "kind": "chapter",
+   "philosophers": ["walzer"],
+   "concepts": ["just-war-theory", "moral-egoism", "moral-relativism"],
+   "relation": "LaRocca argues Boba Fett is best understood as an amoralist - neither a moral relativist nor an ethical egoist, but someone who has withdrawn from moral judgment altogether - reading his terse 'As you wish' to Vader and his insuring of Han's survival purely for payment as evidence. Through Michael Walzer's account of the soldier's constrained choice and the 'good mercenary' debate, he asks whether mercenary violence (Blackwater, private military contractors) really differs morally from a conscript's or clone's. The upshot is that Fett's grayness between Empire and Rebellion exposes amoralism as a surprisingly central part of political and military life."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Notes.md",
+   "kind": "chapter",
+   "philosophers": ["kant", "nagel", "frankfurt", "wolf"],
+   "concepts": ["moral-luck", "categorical-imperative", "second-order-desires", "free-will-determinism"],
+   "relation": "Michaud puts Jar Jar Binks on trial for proposing the emergency powers that let Palpatine become Emperor and doom the galaxy. He weighs Nagel's resultant moral luck through a two-Lukes landspeeder case, Susan Wolf's virtue-based reply that equal fault can deserve different feelings, Kant's 'ought implies can' and the categorical imperative, and a Frankfurt-style scenario in which Palpatine's hypothetical mind-trick removes Jar Jar's ability to choose otherwise. The verdict: as a deceived, politically limited character trying to do good, Jar Jar is not guilty of the Empire's crimes - only of being obnoxious."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Notes.md",
+   "kind": "chapter",
+   "philosophers": ["augustine"],
+   "concepts": ["problem-of-evil", "augustine-will", "fate-vs-free-will"],
+   "relation": "Eberl applies Augustine's theodicy to the Force: since evil is privation rather than a thing, the dark side is not a real half of the Force but its willful misuse by free beings, answering why a Force with a will permits Alderaan. Anakin's fall is Augustine's inordinate desire (cupiditas) for the temporal good of Padme's life against Yoda's counsel to let go, while Jacen Solo's willingness to kill for peace shows love destroyed rather than merely disordered, placing him beyond the redemption Anakin's rightly ordered love for his children still permits. Free will remains a divine gift whose misuse, not its giver, explains moral evil, and Anakin could still freely fulfill the Chosen One prophecy."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Episode III Revenge of the Alliance.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Notes.md",
+   "kind": "chapter",
+   "philosophers": ["epictetus", "zeno-citium"],
+   "concepts": ["stoicism", "dichotomy-of-control", "philosophy-of-love"],
+   "relation": "Taliaferro and Beck trace a philosophy of love through Anakin: fatherless, he attaches compulsively to Shmi and then Padme, refusing the Stoic limits on control that Yoda and Epictetus teach, so that love curdles into the vow to 'stop people from dying.' Vader's fatherhood is the caricature of love - offering Luke power instead of care - until Luke's compassion and Vader's final self-sacrifice redeem it. The lesson: love must be tempered by humility about what Zeno and the Stoics placed outside our control, and broken family bonds can be partly repaired through costly self-sacrifice."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Notes.md",
+   "kind": "chapter",
+   "philosophers": ["socrates", "plato", "aristotle"],
+   "concepts": ["aristotle-friendship", "social-contract", "plato-justice", "political-animal"],
+   "relation": "Littmann shows Luke, Leia, and Han repeatedly put friends and family above the galaxy's freedom - Luke abandoning Dagobah for Bespin, the Jabba rescue, refusing to kill Vader - in the tradition of Homer's heroes, then submits them to Athenian scrutiny. Socrates's refusal to escape his Athens prison and his implicit just agreement with the city set civic duty over friendship; Plato would abolish the guardians' family and censor the Zeus-Kronos patricide myth yet approves of Luke sparing Vader; Aristotle prizes philia but holds citizens belong to the state. He concludes the philosophers mostly win: heroic loyalty is often moral failure, and good moral reasoning asks how many people an action affects, not just whom you love."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Notes.md",
+   "kind": "chapter",
+   "philosophers": ["aristotle"],
+   "concepts": ["moral-psychology"],
+   "relation": "Malloy argues loyalty's moral value is exaggerated, asking what loyalty is via Royce's cause-loyalty, Fletcher's historical self, and Keller's thin motive theory, applied to Leia torn between Alderaan and the Alliance and to Luke's emotional flight from Dagobah. The Sith embody a paradox: under the Rule of Two a loyal Sith must betray, so Vader's final turn on Palpatine was loyalty to Luke and thus betrayal of the Sith itself, while stormtrooper-style loyalty shows devotion is only as good as its object. Betrayal wrongs because it irreversibly alters a relationship - which is why Lando's Bespin gamble was right - and loyalty's real value is the commitment, dedication, and selflessness behind it."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Notes.md",
+   "kind": "chapter",
+   "philosophers": ["plato", "socrates"],
+   "concepts": ["philosopher-king", "plato-justice", "plato-tripartite-soul", "noble-lie"],
+   "relation": "Barkman and Alkema map Plato's Republic onto the fall of the Old Republic: the bickering Senate and Anakin's 'someone wise' exchange with Padme enact democracy's degeneration into tyranny, with Palpatine as Plato's werewolf-like protector-tyrant and Dooku's Sith name 'Tyranus' marking Thrasymachus's justice-as-strength as Sith doctrine. The Jedi approximate Plato's philosopher-guardians - courageous, temperate, reluctant to rule, surrendering their children to the Temple much like the Republic's breeding deceptions and noble lies. Justice as each part doing its own work applies to the tripartite soul as much as the state, and the chapter closes that democracy survives Endor but only if truth stays a beacon of the light side."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 8,
+   "type": "philosopher",
+   "suggested_slug": "thrasymachus",
+   "name": "Thrasymachus",
+   "philosopher": "",
+   "domain": "ancient",
+   "what": "Sophist in Plato's Republic who defines justice as the advantage of the stronger.",
+   "why": "Chapter 8 reads the Sith Code and Sidious's 'I will make it legal' as Thrasymachus's might-makes-right set against Plato, but the taxonomy has no sophist-era thinker beyond Protagoras."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "moral-nihilism",
+   "name": "Moral Nihilism (there are no moral facts)",
+   "philosopher": "nietzsche",
+   "domain": "ethics-moral-psychology",
+   "what": "The view that there are no objective moral facts; moral judgments are merely interpretations of phenomena.",
+   "why": "Chapter 11 is built on the claim that Palpatine teaches Anakin Nietzsche's moral nihilism and that the Iliad and Star Wars both reject it through compassion-based moral realism."
+  },
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "mozi",
+   "name": "Mozi",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "Warring States critic of Confucianism (c. 470-391 BCE) whose Mohism condemned offensive war and demanded impartial concern for the overall benefit of all.",
+   "why": "Chapter 12 reads Jedi Master Kai Hudorra's withdrawal from the fight and his final sacrifice as Mohist, but the taxonomy's Chinese philosophy entries omit Mozi entirely."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "mandate-of-heaven",
+   "name": "Mandate of Heaven (tianming)",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "The classical Chinese doctrine that Heaven grants rulers legitimacy through virtue (de) and withdraws it from bad rulers.",
+   "why": "Chapter 12 frames Palpatine's Empire against the Zhou dynasty's collapse through its opening section 'Heaven's Mandate Is Not Constant,' a concept absent from the taxonomy."
+  },
+  {
+   "ch": 15,
+   "type": "concept",
+   "suggested_slug": "amoralism",
+   "name": "Amoralism (withdrawal from moral judgment)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The stance of acting outside moral categories altogether, distinct from both moral relativism and ethical egoism.",
+   "why": "Chapter 15's thesis is that Boba Fett is an amoralist rather than a relativist or egoist, and no taxonomy slug names amoralism itself."
+  },
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "loyalty",
+   "name": "Loyalty and Betrayal",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The debate over whether loyalty is a duty, a virtue, or a mere emotional connection, and what makes betrayal wrong.",
+   "why": "Chapter 21 is wholly organized around the moral value of loyalty (Royce, Fletcher, Keller) and the wrongness of betrayal, which no taxonomy concept covers."
+  }
+ ]
+}

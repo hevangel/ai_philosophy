@@ -1,0 +1,506 @@
+{
+ "book": "078 - Futurama and Philosophy - Bite My Shiny Metal Axiom",
+ "unit": "u129",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Futurama and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Futurama and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Futurama and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Futurama and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editors' introduction argues that Futurama is more than a cartoon: Matt Groening and David X. Cohen built a gold-standard sci-fi show whose storylines engage ethics, time travel, science, normalcy, and the environment. It frames Fry as a twenty-first-century flawed hero in the lineage of Moses, Gilgamesh, Odysseus, Don Quixote, and Frodo, called beyond his inadequacies, and reads his opening 'Space Pilot 3000' musings about the gorilla-throwing-barrels game as a glimpse of life's ups and downs. The chapter presents the show's strategy of making the mundane strange as the backdrop the volume's philosophers will use to examine life and meaning, and jokes that fans' resurrection of the canceled show (wave after wave, like Zapp Brannigan's troops) guarantees Futurama's permanence."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Futurama and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill"
+   ],
+   "concepts": [
+    "harm-principle",
+    "mill-liberty"
+   ],
+   "relation": "In 'A Taste of Freedom,' Zoidberg eats Earth's flag Old Freebie on Freedom Day, is tried by Earth's Supreme Court, and his death sentence triggers a Decapodian invasion that enslaves Earth under the Mobile Oppression Palace. The chapter pits Mill's On Liberty defense of unpopular expression (mankind cannot silence a lone dissenter; unchallenged beliefs are mere 'true opinions' akin to prejudice) against Feinberg's offense principle, mapping the case onto Texas v. Johnson and the symbolic-speech line from Stromberg to Tinker. It ends with Zoidberg burning the flag 'to preserve the freedom it represents': liberty and majority will often conflict (doomsday devices, Proposition Infinity's robosexual marriage ban), so preserving freedom requires tolerating offensive expression."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rousseau",
+    "mill"
+   ],
+   "concepts": [
+    "rousseau-social-contract",
+    "harm-principle"
+   ],
+   "relation": "Young tests Isaiah Berlin's distinction between negative liberty (absence of external interference) and positive liberty (rational self-government) on three episodes: Fry's super-Slurm compulsion in 'Fry and the Slurm Factory,' human Bender's lethal gluttony in 'Anthology of Interest II,' and the worms whose upgrades win Leela's love in 'Parasites Lost' - each agent is externally unobstructed yet not self-governing. Bender's jacking-on addiction and the Temple of Robotology's threat of Robot Hell in 'Hell Is Other Robots' illustrate Rousseau's 'forced to be free,' the coercion that Berlin warned has licensed totalitarian regimes. The chapter concludes Futurama takes no side, suggesting genuine freedom needs both positive and negative liberty."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "commodity-fetishism"
+   ],
+   "relation": "Buchanan reads 'A Big Piece of Garbage' as political ecology: the trash ball Old New York blasted into space in 2000 returns to threaten New New York, showing that even a society that has 'mastered recycling' cannot escape a capitalist economy whose commodities are designed to end as waste. On the trash ball, Fry's nostalgia ('junk isn't garbage... a glorious monument to the twentieth century') debates Leela's 'this stuff was garbage when it was new,' and Fry's rescue plan - building a second trash ball to knock the first into the Sun - merely recreates the disaster, celebrated as 'the twentieth-century spirit' of willful ignorance. Drawing on Bryant and Bailey's political ecology and Rodgers's waste stream, the chapter argues trash unmasks the exploitation of nature crystallized in commodities, so green technology and recycling alone cannot avert ecological crisis."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "walzer"
+   ],
+   "concepts": [
+    "just-war-theory"
+   ],
+   "relation": "Malloy defines war as organized, political, violent conflict and tests Futurama's many invasions against just war theory: Zapp's invasion of Spheron 1 in 'War Is the H-Word' fails just cause ('they stand for everything we don't stand for'), the first Omicronian invasion over the interrupted Single Female Lawyer broadcast fails proportionality and last resort, while the second, over eaten Popplers, passes. Zapp's Hyperdeath laser ribbon-cutting and the Bender suicide-bombing plot against the Brain Balls illustrate discrimination, proportionality, and means evil in themselves, and the postwar demand that Lrrr eat one human - ending with blameless Free Waterfall Jr. - raises war-crimes punishment and restitution. The chapter closes by endorsing Walzer: a state's moral authority hinges on at least acknowledging the rules of war."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Futurama and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "nietzsche"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "ressentiment"
+   ],
+   "relation": "Piven argues Zapp Brannigan's 'sexlexia' - his deluded velour-and-spanking seductions of Leela and his relief at finding Lee Lemon is a woman - typifies a whole cast of clueless lovers (Fry coaching Zoidberg's courtship of Edna, Morgan Proctor's mess fetish, Bender coldly dumping the Planet Express ship in 'Love and Rocket'). Kant's condemnation of masturbation as self-abuse that throws away one's personality and violates humanity in one's own person is exposed as unsupported prejudice, and Nietzsche's claim that morality projects fear, envy, and disgust onto the despised other explains why 'perversion' is an arbitrary cultural judgment. Freud, Stoller, and McDougall then recast perversion as unconscious flight from anxiety and death, so the show's kink - up to the Monsterpus of The Beast with a Billion Backs and Amy's 'general sluttiness' - mirrors our own sexlexia and existential dread."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "locke"
+   ],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity",
+    "ship-of-theseus"
+   ],
+   "relation": "Jenkins asks what makes Bender Bender when Leela still recognizes him as the walnut-panelled steam robot of 'Obsoletely Fabulous.' Scruffy's progressively repaired conference table stages the Ship of Theseus problem and the same body theory, while the Roboticon 'Soul Detector' (Fry sets it off, robots pass through) rules out Descartes' same soul theory for robots. Episodes from 'Anthology of Interest II' and 'The Honking' to 'The Prisoner of Benda' mind swap and Roberto's instant 1-X re-education support Locke's psychological continuity: Bender persists through an overlapping chain of memories and traits stored on his hard drive - 'Everything that is Bender is right here' - which is why an empathic, ascetic Bender ('The old Bender is gone') threatens his very identity."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "camus"
+   ],
+   "concepts": [
+    "sisyphus",
+    "meaning-of-life",
+    "philosophy-of-love"
+   ],
+   "relation": "Lewis argues that Futurama's answer to the fear of being forgotten - Zoidberg thriving on negative attention, Bender's billion-cubit statue and the Shrimpkins' forced worship both failing - is to become existentially intertwined with others through friendship, love, and family. Bender's arc in 'A Pharaoh to Remember' is read through Camus's Sisyphus: life itself is meaningless, but our freedom lets us fill it with meaning, which Bender finds not in monuments or worship but in seeing others remember him. Fry's devotion in 'Godfellas' and 'Jurassic Bark' (Seymour waiting outside Panucci's forever), Bender's Big Score, the holophonor opera of 'The Devil's Hands Are Idle Playthings,' and Yancey naming his son after Fry in 'The Luck of the Fryish' show remembrance surviving inside the people we have shaped, including the viewers."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "epicurus",
+    "nagel",
+    "frankl"
+   ],
+   "concepts": [
+    "epicurean-death",
+    "frankl-meaning"
+   ],
+   "relation": "Salazar takes Professor Farnsworth's cry that the crew's age regression in 'Teenage Mutant Leela's Hurdles' will end in 'a fate worse than death: pre-life! Then death' as a test of whether death is bad. Epicurus's 'death is nothing to us' says death cannot be experienced, so the deprivation account of Nagel's 'Death' is needed to explain how death is bad for the one deprived of a valuable future - a dispute staged by Bender's suicide-booth despair in 'Space Pilot 3000' after learning his bending built the booths. The chapter then argues losing one's identity and values can be worse than death (Bender's and Fry's flight from career-chip assignments, the Professor's love of being 161, Leela's frustrated teen redo), closing with Frankl's Man's Search for Meaning and Leela's sacrifice of her regained youth: inner integrity, not erasing the past, makes life worth living."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "hume"
+   ],
+   "concepts": [
+    "hume-induction"
+   ],
+   "relation": "Elsby argues Fry's 'brain thing' illuminates how humans form beliefs and adapt to misconceptions: Fry accepts swans as swan boats and deduces 'boat eggs,' romances the radiator woman from the radiator planet, and insists he is in the ruined New York of 4000 rather than L.A. - each time reasoning flawlessly from a false premise before readjusting when corrected. Using Aristotle's incidental perception (seeing the pale thing as Cleon's son), Hume's warning that grouping similar-but-non-identical objects breeds ambiguity, and Mom's grandiose misreading of Fry's anchovy purchase in 'A Fishful of Dollars,' the chapter traces how error enters at each step of identification and inference. The payoff: Fry differs from us only in degree, and our capacity to adapt to overturned assumptions might be inferior to his."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Futurama and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer",
+    "nagel"
+   ],
+   "concepts": [
+    "speciesism",
+    "what-is-it-like",
+    "free-will-determinism"
+   ],
+   "relation": "Von Gunten asks whether Bender, Calculon, and the robot mafia have moral worth, arguing first that they are sentient: behavioral similarity plus functional equivalence (pain as electric signals in neurons or circuits) defeat both behavior-only objections (the Sphex wasp's preprogrammed loop, knife-avoiding toy robots) and composition-based prejudice - Fry's 'I'm all squishy and flabby' defense at the Hal Institute - which would be 'biologism' analogous to racism. He then distinguishes moral patiency (Nibbler can be harmed but only behaviorally reinforced) from moral agency (deliberation and accountability), concluding that Bender's flexible life - Iron Cook, wrestling, folk music with Beck's head, jacking-on addiction - shows robots transcend their programming as humans transcend evolutionary presets. Limiting moral status to biology or species would be speciesism, so the thirty-first century's robots deserve the full protections and responsibilities humans have."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bentham",
+    "singer"
+   ],
+   "concepts": [
+    "speciesism",
+    "animal-liberation",
+    "food-ethics"
+   ],
+   "relation": "The chapter uses 'The Problem with Popplers' to map the real-world ethics of eating meat: Free Waterfall Jr.'s 'You shouldn't eat things that feel pain' restates Bentham's 'Can they suffer?' and Singer's equal consideration of suffering; Fishy Joe's profits-first stance echoes agro-ecological defenses of meat eating; and Leela's 'eating an intelligent animal is different' voices the common intuition Singer condemns as speciesism. The food-chain justification collapses when the Omicronians claim the apex and demand 198 billion humans in return, and Bender's 'fight to the death and I'll cook the loser' flips the diner's perspective, while Waterfall's orangutan-for-Leela trade sets up Singer's future-directed preferences distinction from Practical Ethics as a possible rescue. The chapter ends on the episode's real target: gluttonous consumption ('stuff the ship!') and the arbitrary sentimentality governing what we will and won't eat."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "free-will-determinism",
+    "applied-ethics",
+    "moral-egoism",
+    "utilitarianism"
+   ],
+   "relation": "Pless asks whether Bender is responsible for his misdeeds given that MomCorp designed him to be an alcoholic kleptomaniac (revealed through Bender Vision in 'Mother's Day') and Planet Express regularly orders him into morally dirty work. Against Asimov's utilitarian Three Laws - embodied by the servile, selfless Robot 1-X of 'Obsoletely Fabulous' - Futurama's 'robot subjectivism' makes every robot a self-interested agent, and Bender's autonomy is proven by his refusal of Mom's 'kill all humans' order and by his fear of punishment in Robot Hell ('Hell Is Other Robots'), which also shows the show's universe is not morally relativist. Because Bender can rewrite his own code - his unprogrammed friendship with Fry, the adoption scam that turns heartfelt in 'The Cyber House Rules' - he sits on the same sliding scale of moral agency as humans, so if Bender can break his programming, we have no excuse for not exercising our own free will."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Futurama and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis"
+   ],
+   "concepts": [
+    "time-travel",
+    "possible-worlds"
+   ],
+   "relation": "Burkett uses Fry's accidental incest in 'Roswell that Ends Well' - protecting Enos only to cause his death and then becoming his own grandfather via Mildred - to examine backwards time travel through David Lewis's Grandfather Paradox. Killing one's grandfather is shown to be logically impossible (it makes Enos both dead and alive in 1947, so every would-be assassin fails for ordinary reasons like a jammed rifle), while becoming your own grandfather is a consistent causal loop, and branching timelines merely kill a man who is no one's grandfather. The 'paradox-correcting' time spheres of Bender's Big Score fail on Hermes's stolen body, and Bender's year-long loop would spawn infinitely many duplicates were it not for the Globetrotters' Doom Field - so backwards time travel is bizarre but logically possible."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "russell",
+    "ockham"
+   ],
+   "concepts": [
+    "watchmaker-argument",
+    "sufficient-reason"
+   ],
+   "relation": "DePoe weighs the multiverse against the fine-tuning argument for God's existence: just as Farnsworth's box in 'The Farnsworth Parabox' spills out universe-1's golden Bender plus togas, pirate, and hippie universes, an infinite multiverse would realize every possibility and make our life-permitting constants certain rather than miraculous, while 'Time Keeps on Slippin''s chronoton-disturbed cosmos illustrates what fine-tuning means. He then asks what is metaphysically primitive, staging the 1948 Copleston-Russell exchange ('I should say that the universe is just there, and that's all') and applying Ockham's razor to weigh one infinitely complex God against infinitely many unobservable universes. The chapter concludes in evidential stalemate, closing with the God Entity's counsel in 'Godfellas': 'When you do things right, people won't be sure you've done anything at all.'"
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "john-hick"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "meaning-of-life",
+    "soul-making-theodicy"
+   ],
+   "relation": "Oschman reads 'Godfellas' as an answer to the problem of evil: Bender, made god of the Shrimpkins, destroys them by meddling too much, and the God Entity explains 'if you do too much, people get dependent. And if you do nothing, they lose hope.' After testing the contrast response (pain makes Slurm sweet) and the Free Will Defense (which covers moral evils like the returning garbage ball of 'A Big Piece of Garbage' but not natural evils or the taste of anchovies), the chapter adopts John Hick's soul-making theodicy: God's epistemic distance - compared to Fry's obsession after tasting super Slurm - keeps creatures uncompelled so they can grow into free moral agents. Fry's slow evolution from delivery boy to 'slightly less lazy slob' is soul-making, and 'The Late Philip J. Fry' wryly confirms life's purpose is 'probably some hogwash about the human spirit.'"
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes"
+   ],
+   "concepts": [
+    "ship-of-theseus",
+    "cartesian-dualism",
+    "personal-identity"
+   ],
+   "relation": "Williams uses Hermes's slide from chest-harpoon to extendo-arm to Cylon eye to full robot body in 'The Six Million Dollar Mon' - until Zoidberg's 'Monster Mash' surgery restores his brain to Li'l Hermes - to ask what makes a person themselves under voluntary enhancement. The 'Ship of Planet Express' and the seven-year cell-replacement fact recast the Ship of Theseus, exposing our terror of upgrades as inconsistent with our constant physical change, while the therapeutic-versus-enhancement line (medical steroids vs doping, Aimee Mullins's blades) explains why Hermes's chosen upgrades disturb us. Cartesian interactionist dualism predicts Mecha-Hermes stays the same person, yet his personality shifts with his parts, so the chapter turns to physicalism and lands on functionalism: Hermes persists through each swap until the Roberto brain-chip replaces the brain that houses his memories and motivations."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "aristotle"
+   ],
+   "concepts": [
+    "eternal-recurrence",
+    "amor-fati",
+    "stoicism"
+   ],
+   "relation": "Laderoute reads 'The Late Philip J. Fry' - the forward-only time machine overshooting past the year one billion and the last protons to a second Big Bang and an identical universe (ten feet lower, conveniently crushing its duplicates) - as a tour of cosmology from Aristotle's static, eternal, Earth-centered heavens through the Stoics' providential determinism and fiery ekpyrosis to Big Bang cosmology and heat death, which is why the Professor is so shocked. Nietzsche's Gay Science 341 supplies the existential payoff: faced with living identically forever, one can react with horror or delight, and eternal recurrence becomes a challenge to become the person you want to be. Fry, a billion years late for his Cavern on the Green dinner, reads Leela's message carved in stone, and in the repeated universe finally arrives on time - 'That was the old Fry... he's dead now' - amor fati enacted."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Futurama and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "plato"
+   ],
+   "concepts": [
+    "socratic-ignorance",
+    "socratic-method"
+   ],
+   "relation": "Mills-Knutsen reads the Brain Spawn - floating brains whose pain at others' thoughts drives them to dumb life down and finally to hoard all knowledge in the Infosphere ('The Day the Earth Stood Stupid,' 'The Why of Fry') - as Futurama's funhouse mirror of the West's distrust of intellectuals, from Pandora and Eve to Frankenstein and comic-book evil geniuses. Fry, the delta-brainwave-lacking hero made stupid by doing 'the nasty in the pasty,' stabs the Big Brain with Bonfire of the Vanities and later banishes the Brains to another dimension, just as Athens executed Socrates. A close reading of Plato's Apology - Socrates's feigned ignorance exposing everyone else's, his demand of free meals in lieu of exile, and his prophecy of even more annoying successors - maps onto the Big Brain's snobbery and onto universities (Wernstrom's tenure scam in 'A Big Piece of Garbage,' Amy's doctorate in 'That Darn Katz!') as society's way of paying intellectuals to stay out of the way."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "aristotle",
+    "hume"
+   ],
+   "concepts": [
+    "heteronormativity",
+    "discipline"
+   ],
+   "relation": "Onishi argues humor exposes cultural normalcy: Futurama transplants twenty-first-century prejudices into the future, where Leela's one eye still gets her mocked by the blind-and-deaf orphan Kirk ('The Cyber House Rules') and same-sex marriage is unremarkable while robosexual marriage is taboo ('Proposition Infinity,' a parody of California's Proposition 8). Leela's phaser-eye surgery and her self-loathing until 'Leela's Homeworld' reveals she is a mutant show standards of normalcy are cultural rather than natural, and are wielded oppressively. Drawing on Aristotle's habituation, Hume's habit, and Foucault's disciplinary production of subjects, the chapter uses Bender's change of heart after dating the Lucy Liu-bot head in 'I Dated a Robot' to argue habits change through meeting actual people rather than abstract 'ideas' of communities - which is how satire quietly extends what counts as normal."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "beauvoir"
+   ],
+   "concepts": [
+    "plato-cave",
+    "woman-as-other"
+   ],
+   "relation": "Reitter reads the sewer mutants - banished underground, surviving on what the surface flushes, as in 'The Mutants Are Revolting' where Leela is deported without trial the moment Fry reveals she is not an alien - as philosophy's Other, illuminated by Plato's cave (surface dwellers fear and demonize what they have never seen) and Beauvoir's The Second Sex (Leela passes as an acceptable alien until exposed as a mutant). Mrs. Astor's United Mutant Scholarship Fund film, with its 'noble sewer mutants... uh, people, I guess,' is read alongside Said's Orientalism and racist charity imagery as a third face of Othering. The chapter then adds folklore theory: the mutants are a folk group with their own urban legends (alligators in the sewer, and the 'sub-urban legend' of sub-mutants), ballads like 'The Legend of El Chupanibre,' and freegan-style recycling ethics - a counterculture whose difference the dominant universe-view casts as monstrosity."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "philosophy-of-love"
+   ],
+   "relation": "Taft pairs Fry with Don Quixote: both are media-saturated characters who live as if inside fiction, break the fourth wall, and are dismissed as madmen - Fry scripting a finale for Single Female Lawyer to placate the Omicronians in 'When Aliens Attack,' Quixote blaming enchanters whenever his fantasies misfire. The chapter asks where reality ends and fiction begins, contrasting the Canon's charge that novels merely delight with the Priest's reply that stories display the beauty of a mind - dramatized when Fry's holophoner music, not worm-given strength or the Robot Devil's hands, is what moves Leela in 'Parasites Lost' and 'The Devil's Hands Are Idle Playthings.' Ending with the opera that spills into its own audience until Hermes sings 'Is this really happening or just being staged?,' the chapter argues a life of enchantment can bend reality toward fantasy - Fry authors his own story just as Quixote's neighbors finally beg him to ride again."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel",
+    "descartes"
+   ],
+   "concepts": [
+    "descartes-cogito",
+    "personal-identity"
+   ],
+   "relation": "Micic uses Fry's hundred-cups-of-coffee rescue in 'Three Hundred Big Boys' - a mysterious orange blur to onlookers while Fry calmly watches each cork pop - and the chronoton time skips of 'Time Keeps on Slippin'' as breaks in experience that Hegel's Phenomenology of Spirit explains better than Descartes. Against the cogito's inference of a separate thinking 'I,' Hegel treats consciousness as the act of relating subject to object, whose ceaseless repetitions (here1, here2, here3...) we knit into the illusion of a unified self. The identical universes of 'The Late Philip J. Fry' (U1 = U2 = U3...) then model the same collapse of enumeration: the gaps in experience feel abnormal only because we never notice the constant gaps our own consciousness smooths over - including Nibbler's shadow in the pilot's cryogenics lab."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Futurama and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard",
+    "william-james"
+   ],
+   "concepts": [
+    "subjective-truth",
+    "will-to-believe"
+   ],
+   "relation": "Hamer tests sanity against truth using Kierkegaard's asylum anecdote - the escapee intoning 'Boom, the earth is round' proves his insanity precisely by resting it on objective fact - and applies it to 'Insane in the Mainframe,' where Fry, wrongly committed to a robot asylum, is only released once he subjectively believes he is a robot, and to 'The Sting,' where comatose Leela's plan to keep Fry's corpse under her mattress to 'prove I'm not insane' fails the same traitorous way. Pure objectivity cannot certify sanity and pure subjectivity licenses lunacy, so the chapter brings in James's 'The Will to Believe': some beliefs must be held first before their evidence can even count. Fry, who abandons his robot belief the moment his knife-nick bleeds human blood, models the justified believer who pursues the objective truth subjectively."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Futurama and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Futurama and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Futurama and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 10,
+   "type": "philosopher",
+   "suggested_slug": "isaiah-berlin",
+   "name": "Isaiah Berlin",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Twentieth-century liberal philosopher famous for distinguishing positive and negative liberty.",
+   "why": "Chapter 10 is built entirely on Berlin's two-concepts-of-liberty framework, which taxonomy.json lacks."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "positive-negative-liberty",
+   "name": "Positive and Negative Liberty",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Berlin's distinction between freedom as rational self-mastery and freedom from external interference.",
+   "why": "Chapter 10 uses the distinction to diagnose Fry's Slurm addiction and human Bender's fatal indulgence as unfreedom despite no external constraint."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "political-ecology",
+   "name": "Political Ecology",
+   "philosopher": "",
+   "domain": "environment-animal",
+   "what": "The approach treating environmental crisis as inseparable from political-economic structures such as capitalism.",
+   "why": "Chapter 11 applies Bryant and Bailey's political ecology to argue Futurama's trash-ball disaster is produced by capitalist consumption, not by insufficient recycling."
+  },
+  {
+   "ch": 14,
+   "type": "philosopher",
+   "suggested_slug": "sigmund-freud",
+   "name": "Sigmund Freud",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Founder of psychoanalysis who explained perversion as symbolic escape from unconscious sexual anxiety.",
+   "why": "Chapter 14 leans on Freud's theory of perversion (with Stoller and McDougall) to read Zapp's fetishes, and taxonomy.json has no psychoanalytic thinker."
+  },
+  {
+   "ch": 26,
+   "type": "philosopher",
+   "suggested_slug": "john-hick",
+   "name": "John Hick",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Philosopher of religion whose Irenaean 'soul-making' theodicy explains evil and God's hiddenness as conditions for moral development.",
+   "why": "Chapter 26 builds its entire answer to the problem of evil in 'Godfellas' on Hick's soul-making theodicy and epistemic distance, which taxonomy.json lacks."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "soul-making-theodicy",
+   "name": "Soul-Making Theodicy",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "The view that evil exists because the world is a vale of soul-making where free creatures develop, requiring God's epistemic distance.",
+   "why": "Chapter 26 applies soul-making to argue Bender's divine meddling and God's light touch show why a good God permits evil."
+  },
+  {
+   "ch": 33,
+   "type": "concept",
+   "suggested_slug": "value-of-fiction",
+   "name": "The Value of Fiction",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The question of how fiction relates to reality and what imaginative works can teach or accomplish in real life.",
+   "why": "Chapter 33's whole argument is that the line between Fry's fantasy and reality is porous and that fiction (the holophoner, Don Quixote) genuinely changes the real world, a theme taxonomy.json lacks."
+  },
+  {
+   "ch": 34,
+   "type": "concept",
+   "suggested_slug": "hegel-unity-of-consciousness",
+   "name": "Unity of Consciousness",
+   "philosopher": "hegel",
+   "domain": "kant-german-idealism",
+   "what": "Hegel's doctrine that consciousness just is the relating of subject and object, producing the illusion of a separate 'I'.",
+   "why": "Chapter 34 uses this doctrine (rather than the dialectic) to dissolve Futurama's time skips and coffee-speed scenes into ordinary gaps of experience."
+  }
+ ]
+}

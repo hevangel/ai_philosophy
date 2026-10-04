@@ -1,0 +1,88 @@
+{
+ "book": "243 - The Philosophy of Christopher Nolan",
+ "unit": "u358",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buber",
+    "hegel",
+    "descartes",
+    "freud",
+    "hobbes"
+   ],
+   "concepts": [
+    "i-thou",
+    "hegel-master-slave",
+    "personal-identity",
+    "cartesian-doubt"
+   ],
+   "relation": "The editors' introduction surveys Nolan's oeuvre chronologically to argue that a recurring theme of self-destruction and unstable self-identity runs through every film. It reads Following's needy Young Man through Buber's I/Thou (existing fully only when a Thou acknowledges you) and Hegel's master/slave dependence between Cobb and his mark, casts Inception's spinning top as a version of Descartes's dream argument about telling the real from the constructed, and invokes Hobbes when the Joker introduces 'a little anarchy' into Gotham. It frames Doodlebug as Nolan's most Freudian film and Interstellar as uniting personal identity, moral choice, and epistemology in Cooper's self-sacrifice."
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Love, Value, and the Human Destiny in Interstellar.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aristotle"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "aristotle-friendship",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "Belluomini and Dunn use Interstellar's clash between Cooper's partial parental love and Professor Brand's species-level 'Plan B' to ask why the survival of humanity matters and what 'saving humanity' means. Drawing on Aristotle, they treat Cooper's daughter Murph as 'another self' loved as an end in itself and tie the good to individual happiness (eudaimonia), so 5,000 faceless embryos could never be the intrinsic good a real family is. They then turn to Kant to argue humans have unconditional value (dignity) as rational beings, which both grounds a reason to preserve the species AND condemns Brand's 'monstrous lie' as treating people merely as means to an end they do not share."
+  },
+  {
+   "n": 5,
+   "file": "ch05 - “Are You Watching Closely ”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "locke",
+    "rawls",
+    "hobbes",
+    "edmund-burke"
+   ],
+   "concepts": [
+    "social-contract",
+    "locke-natural-rights",
+    "justice-as-fairness"
+   ],
+   "relation": "Foy and Dale argue that Nolan's Dark Knight trilogy stages a conservative critique of liberal political theory. They set Locke's pre-political natural rights and Rawls's priority-of-rights ('each person possesses an inviolability... that even the welfare of society cannot override') against a Batman who wiretaps all of Gotham, tortures, and kidnaps Lau, treating social order as the thing that overrides individual rights. Batman is cast as a Humean conservative who grounds authority in habit and custom rather than an imaginary social contract, invoking Carl Schmitt's 'state of exception' (the Roman dictator Dent describes) and Burke's non-elected natural aristocracy to justify the billionaire elite Wayne saving a liberal order from the Joker's nihilism and Bane's Marxist-Leninist revolution."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 5,
+   "type": "philosopher",
+   "suggested_slug": "burke",
+   "name": "Edmund Burke",
+   "philosopher": "burke",
+   "domain": "political-social",
+   "what": "Eighteenth-century Anglo-Irish statesman and founder of modern conservatism, defending tradition, gradual reform, and a non-elected 'natural aristocracy' with 'virtual representation' of the people.",
+   "why": "Chapter 5 explicitly builds its case that Bruce Wayne is a wise elite entrusted to protect society on Burke's doctrine of virtual representation, and no existing conservatism/tradition slug names Burke."
+  },
+  {
+   "ch": 5,
+   "type": "philosopher",
+   "suggested_slug": "schmitt",
+   "name": "Carl Schmitt",
+   "philosopher": "schmitt",
+   "domain": "political-social",
+   "what": "Twentieth-century German conservative jurist who defined the sovereign as whoever can declare a 'state of exception' suspending the law, and grounded politics in the friend/enemy distinction.",
+   "why": "Chapter 5's central 'sovereign exceptionalism' argument for Batman acting outside the law rests directly on Schmitt's Political Theology, a distinct thinker with no adequate slug in the taxonomy."
+  }
+ ]
+}

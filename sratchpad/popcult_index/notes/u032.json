@@ -1,0 +1,258 @@
+{
+ "book": "022 - The Undead and Philosophy - Chicken Soup for the Soulless",
+ "unit": "u032",
+ "chapters": [
+  {
+   "n": 21,
+   "file": "ch21 - Deserving to Be a Vampire.md",
+   "kind": "chapter",
+   "philosophers": [
+    "epicurus",
+    "nussbaum",
+    "aristotle"
+   ],
+   "concepts": [
+    "epicurean-death",
+    "immortality",
+    "applied-ethics"
+   ],
+   "relation": "Ted Preston asks whether becoming a vampire would be morally good or desirable, working through Forever Knight's Nick draining his lover, Blade feeding on stored blood, and The Lost Boys' promise that Michael will 'never grow old'. He argues vampires are not evil by nature: if they cannot control their hunger they are pitied rather than blamed (though we remain Aristotle-responsible for choosing to become addicted), and consensual, non-lethal feeding is no worse than mortals eating animals, since the bite only becomes murder by choice. Against Epicurus's claim that death is nothing to us, he uses Furley and Nussbaum's deprivation view - death vindictively empties our long-term projects like marriage or a career - so vampiric immortality genuinely preserves value, while the standard boredom objection fails because there are repeatable pleasures in a changing world. The thought experiment ends as moral psychology for mortals: since neither of us will become a vampire, live a life that would be worthy of eternity."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - PART IV - Digging Up the Body Politic.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Possibilities for Human-Vampire Co-operation.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nozick",
+    "singer",
+    "rawls",
+    "adam-smith"
+   ],
+   "concepts": [
+    "minimal-state",
+    "drowning-child",
+    "speciesism"
+   ],
+   "relation": "Douglas Glen Whitman contrasts two pop-culture templates: Buffy's vampire brothel, where willing humans pay vampires for consensual bites (Giles calls the customers 'willing victims'), and Blade's implied government blood bank, where humans are forced to donate. Running Robert Nozick's personhood criteria (sentience, rationality, free will, moral agency, soul) against vampires, he argues no standard admits humans while excluding them, so staking vampires violates rights and, on Singer's suffering-equals-suffering logic, refusing consideration is a kind of speciesism. The welfarist side - Singer and Unger's principle that we must prevent bad at little cost, as in the drowning child - would mandate Blade-style forced blood transfers, but Whitman contends such coercion breeds the very xenophobia (Adam Smith's Poor Law settlement rules, anti-immigrant welfare politics) that blocks recognizing vampire personhood. Only a libertarian market of voluntary exchange turns human-vampire relations from a zero-sum war into a positive-sum commerce."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - A Political Philosophy of Vampires.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rousseau",
+    "freud",
+    "kristeva"
+   ],
+   "concepts": [
+    "binary-oppositions",
+    "the-absurd",
+    "the-uncanny"
+   ],
+   "relation": "Phillip Cole takes Rousseau's remark that the eighteenth-century vampire epidemics had complete legal proof - the Arnold Paole exhumations - and argues Rousseau's real point was political: authorities manufacture imaginary monsters, as in the witch craze, to exploit fear and hold power over their own populations. Freud's account of the uncanny explains why the horror is not death itself but the returning dead (the watching eyes of Scratchy in Itchy and Scratchy, versus the serene corpses of Six Feet Under, whose absurdity the show meets with wry amusement), and Julia Kristeva's abjection explains the corpse as the ultimate boundary-breaker. The vampire then resurfaces as the demonized outsider - Stoker's Dracula coded as the unassimilated Jewish immigrant, today's terrorist - exposing political borders as arbitrary fabrications. Buffy completes the collapse of the us/them binary: Angel and Spike join the slayer, and the most shocking killings (Faith's accidental human kill, Warren's stray bullet hitting Tara) are all too human, so the real subject of border policing is the community's own members."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - The Possibility of a Non-Repressive Civilization.md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud",
+    "marcuse"
+   ],
+   "concepts": [
+    "freud-civilization",
+    "freud-death-drive",
+    "utopia-dystopia"
+   ],
+   "relation": "Simon Clark reads Romero's four Dead films through Freud's Civilization and Its Discontents: the zombie is the return of the repressed, the ripped-out instinctual life of a civilization that demands work, and it multiplies exactly as humans (Stephen defending the mall, Ben fighting Mr. Cooper) lapse into unlawful self-gratification. The bite unites Eros and Thanatos - an erotic, engorged cannibalism that also regresses victims to rotting matter, which Clark glosses with Creed's vagina dentata. He then argues Day of the Dead's beach ending (John fishing, Sarah at peace) stages Marcuse's non-repressive civilization where work becomes play and liberated sexuality rejoins Eros, while Land of the Dead goes further: the evolved, tool-using zombies led by Big Daddy are the martyrs who actually found Marcuse's impossible pleasurable community, leaving living humans still fenced inside repression."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - No Way Out.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "rousseau",
+    "tocqueville"
+   ],
+   "concepts": [
+    "social-contract",
+    "state-of-nature",
+    "rousseau-social-contract",
+    "communitarianism"
+   ],
+   "relation": "Leah Murray reads Romero's Dead series as an argument about the American social contract, individualism versus communitarianism. Night of the Living Dead's farmhouse is Hobbes: fear throws strangers Ben and Mr. Cooper into a makeshift commonwealth whose individualist half ('every man for himself' in the basement) fails, while Dawn shows the Hobbesian next step - martial law as Leviathan - after the state of nature returns. Land of the Dead's Fiddler's Green is a fear-born contract corrupting into Kaufman's hierarchy, and Big Daddy's zombies form the counter-model, a Rousseauian community of the general will based on mutual bonds rather than terror, as the priest in Dawn already urged ('we must stop the killing... or lose the war'). Following Tocqueville on civic association, she concludes Romero's survivors - Ben, Peter, Sarah, Riley - vindicate communitarian cooperation, even though Night's bureaucratic ending suggests there may be no way out."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - PART V - Leaving a Good-Looking Corpse.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Meta-Fear of Fear.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "freud",
+    "bergson"
+   ],
+   "concepts": [
+    "being-toward-death",
+    "freud-unconscious",
+    "ockham-razor",
+    "bergson-laughter"
+   ],
+   "relation": "Noel Carroll traces Halloween's Undead imagery to the Celtic Samhain and its Catholic absorption into All Hallows' Eve, then asks the paradox: why do we take pleasure in images of the death that, as Heidegger says, is the deep source of Angst we spend our lives denying? He examines Ernest Jones's Freudian analysis - the vampire as wish-fulfillment disguising an incestuous desire, horror as the price the super-ego exacts - and rejects it as theoretically expensive, invoking the demand for simpler, more economical explanation. His own hypothesis is the 'meta-fear of fear': adolescent viewers (and aging ones) use horror films and the holiday's zombie costumes to test and master fear itself, with parody and Bergson's laughter as companion devices of emotional control - a folk remedy that needs no unconscious to work."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The Male Vampire as Metrosexual . . . Sort Of.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault"
+   ],
+   "concepts": [
+    "discipline",
+    "feminism",
+    "objectification"
+   ],
+   "relation": "Joan Grassbaugh Forry asks how conventional standards of beauty, femininity, and masculinity operate in the vampire aesthetic of Interview with the Vampire, Buffy, and Queen of the Damned. Using Foucault's figure of the soldier whose body is 'made' by discipline, and Bartky and Bordo's feminist extension of it to dieting, deportment, and ornamenting the female body, she argues vampires expose the ideology of natural beauty: they are youthful, elegant, and effortlessly beautiful - no gym, no reflection - so their beauty is pure naturalness with the discipline erased. Gender decides the payoff: ultra-feminine female vampires (Drusilla's dresses and tea parties, Akasha, childlike Claudia) are femmes fatales whose threat must be punished by death, ridicule, or infantilization, while feminized male protagonists (Louis, Angel, Spike painting his nails and watching Passions - the 'metrosexual') win audience identification and tragic dignity. Beauty, in short, is a shield for the male vampire and a death sentence for the female."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Oh Yes, There Will Be Blood.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "personal-identity",
+    "immortality",
+    "free-will-determinism"
+   ],
+   "relation": "Rachel Robison asks why blood, of all substances, carries metaphysical powers in vampire lore - Elizabeth Bathory's youth-giving baths, Dracula's control over Mina once she drinks his blood, Sookie's bond with Bill in True Blood. Her explanation is historical: the ancient cardiocentric view (Aristotle, Empedocles, Chrysippus placing the rational center in the heart and making blood its product) plus Galenic humorism and bloodletting made blood the carrier of the self, so drinking someone's blood plausibly transmits bits of their personal identity, knowledge, and even domination over one's free will. She then tests the show's synthetic 'True Blood': either some essential property of blood (or of the act of drinking it) carries the power, or the legend is parasitic on our lingering habit of locating emotion and character in the heart ('hot blooded') - either way the myth stays credible because our metaphors of blood never died."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - A Meditation on the Word.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "aquinas",
+    "nietzsche",
+    "hegel",
+    "socrates"
+   ],
+   "concepts": [
+    "power-knowledge",
+    "will-to-power",
+    "philosophy-of-love"
+   ],
+   "relation": "Randall Auxier and Eileen Townsend fictionalize the history of philosophy as vampire predation in letters, emails, and IMs (1983-2009) between the 800-year-old Etienne Lavec - a student of Siger de Brabant who drained Thomas Aquinas over the Summa's Treatise on Angels, which wrote vampires out of existence - and Paulie, a freshman turned at Memphis State. Lavec recounts tasting Pico, Spinoza, Hegel, and the willing Kierkegaard, sparing Nietzsche who 'stole some of my ideas about free death', and contrasts vampire self-knowledge (embracing desire) with the Socratic beginning in affirmed ignorance. The centerpiece is Foucault: Lavec summarizes his genealogies of how institutions create the sick, the mad, the prisoner, and the pervert, fails to drain him, and is then haunted for decades by posthumous publications, taunting 'nietzsche26' emails, and finally a catacombs trap - power/knowledge that refuses to die. Lavec's embedded 'Meditation on the Word' recasts the Logos of John's Gospel so that vampires are the uncreated darkness at the boundary of the divine Word, pure self-grounding desire 'beyond good and evil', while the closing Twilight-era chats satirize Stephenie Meyer's sparkling, abstinent Edward as Foucauldian 'sin by words'."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Philosophers by Day . ..md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Hemolytic Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Zombies, Vampires, and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Zombies, Vampires, and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 24,
+   "type": "philosopher",
+   "suggested_slug": "kristeva",
+   "name": "Julia Kristeva",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Psychoanalytic theorist of abjection: the horrified fascination with bodily wastes, borders, and the corpse, which exposes death as already inside the self.",
+   "why": "Chapter 24's central explanation of vampire and corpse horror is Kristeva's concept of the abject, quoting her line that the corpse is 'the most sickening of wastes'."
+  },
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "the-uncanny",
+   "name": "The Uncanny (das Unheimliche)",
+   "philosopher": "freud",
+   "domain": "mind-language-metaphysics",
+   "what": "Freud's account of why revenants, dead bodies, and the return of the dead are the most potent uncanny figures, preserving primitive belief beneath a thin veneer.",
+   "why": "Chapter 24 uses Freud's essay on the uncanny to argue that what horrifies us is not death but the returning dead, and reads Buffy's all-too-human killers as the uncanny in reverse."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "eros-and-civilization",
+   "name": "Eros and Civilization (non-repressive civilization)",
+   "philosopher": "marcuse",
+   "domain": "political-social",
+   "what": "Marcuse's reworking of Freud holding that civilization, being historical, can evolve beyond repression once liberated sexuality rejoins Eros and labor becomes play.",
+   "why": "Chapter 25's whole argument is that Romero's zombies embody the return of the repressed and that Day of the Dead's beach ending and Land of the Dead's evolved zombies picture Marcuse's non-repressive civilization."
+  },
+  {
+   "ch": 26,
+   "type": "philosopher",
+   "suggested_slug": "tocqueville",
+   "name": "Alexis de Tocqueville",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Author of Democracy in America, who warned that democracy decays when individualism detaches citizens from one another and saw civic association as democracy's lifeblood.",
+   "why": "Chapter 26 measures Romero's communitarian heroes against Tocqueville's claim that Americans must join groups and connect across difference for democracy to survive."
+  },
+  {
+   "ch": 30,
+   "type": "concept",
+   "suggested_slug": "humorism",
+   "name": "Humorism (the four humors)",
+   "philosopher": "",
+   "domain": "ancient",
+   "what": "Ancient medical doctrine, systematized by Galen, that health and temperament depend on the balance of four bodily humors, with blood as the primary one.",
+   "why": "Chapter 30 uses humorism and bloodletting to explain why legend credits blood with preserving youth, sustaining life, and carrying personal identity."
+  }
+ ]
+}

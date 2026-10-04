@@ -1,0 +1,402 @@
+{
+ "unit": "u020",
+ "book": "013 - Superheroes and Philosophy - Truth, Justice, and the Socratic Way",
+ "part": "3/3",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\013 - Superheroes and Philosophy - Truth, Justice, and the Socratic Way",
+ "range": [
+  94,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 94,
+   "file": "ch94 - I Fought the Law and the Law Won.md",
+   "words": 1350
+  },
+  {
+   "n": 95,
+   "file": "ch95 - But It\u2019s Just a White Lie!.md",
+   "words": 960
+  },
+  {
+   "n": 96,
+   "file": "ch96 - Chapter 15 - Why Be a Superhero Why Be Moral.md",
+   "words": 109
+  },
+  {
+   "n": 97,
+   "file": "ch97 - The Problem for Spider-Man.md",
+   "words": 580
+  },
+  {
+   "n": 98,
+   "file": "ch98 - Phony Answers.md",
+   "words": 454
+  },
+  {
+   "n": 99,
+   "file": "ch99 - Reasons to Be Moral.md",
+   "words": 2174
+  },
+  {
+   "n": 100,
+   "file": "ch100 - In It for the Long Run.md",
+   "words": 700
+  },
+  {
+   "n": 101,
+   "file": "ch101 - Superheroes, Duty, and the Biggest of Big Pictures.md",
+   "words": 473
+  },
+  {
+   "n": 102,
+   "file": "ch102 - Swinging from One Idea to Another.md",
+   "words": 287
+  },
+  {
+   "n": 103,
+   "file": "ch103 - Chapter 16 - Superman and Kingdom Come The Surprise of Philosophical Theology.md",
+   "words": 595
+  },
+  {
+   "n": 104,
+   "file": "ch104 - The Background of Kingdom Come.md",
+   "words": 590
+  },
+  {
+   "n": 105,
+   "file": "ch105 - Hope, Obligation, and the Big Picture.md",
+   "words": 662
+  },
+  {
+   "n": 106,
+   "file": "ch106 - Gloom, Doom, and Morality.md",
+   "words": 944
+  },
+  {
+   "n": 107,
+   "file": "ch107 - Worldviews, Values, and Superheroes.md",
+   "words": 985
+  },
+  {
+   "n": 108,
+   "file": "ch108 - A Theological Basis for Super-Heroics.md",
+   "words": 1260
+  },
+  {
+   "n": 109,
+   "file": "ch109 - Hope and the Human Challenge.md",
+   "words": 499
+  },
+  {
+   "n": 110,
+   "file": "ch110 - Part Four - Identity and Superhero Metaphysics.md",
+   "words": 6
+  },
+  {
+   "n": 111,
+   "file": "ch111 - Chapter 17 - Questions of Identity Is the Hulk the Same Person as Bruce Banner.md",
+   "words": 442
+  },
+  {
+   "n": 112,
+   "file": "ch112 - The Hulk\u2019s Bodily Identity.md",
+   "words": 1063
+  },
+  {
+   "n": 113,
+   "file": "ch113 - The Mental Realm of the Hulk.md",
+   "words": 1697
+  },
+  {
+   "n": 114,
+   "file": "ch114 - A Causal Account of the Hulk\u2019s Identity.md",
+   "words": 435
+  },
+  {
+   "n": 115,
+   "file": "ch115 - Is There No Way to Tell.md",
+   "words": 442
+  },
+  {
+   "n": 116,
+   "file": "ch116 - The Hulk\u2019s Relational Identity.md",
+   "words": 1012
+  },
+  {
+   "n": 117,
+   "file": "ch117 - What Should We Conclude.md",
+   "words": 441
+  },
+  {
+   "n": 118,
+   "file": "ch118 - Chapter 18 - Identity Crisis Time Travel and Metaphysics in the DC Multiverse.md",
+   "words": 344
+  },
+  {
+   "n": 119,
+   "file": "ch119 - The DC Comics Multiverse.md",
+   "words": 332
+  },
+  {
+   "n": 120,
+   "file": "ch120 - Crisis on Infinite Earths The Story Unfolds.md",
+   "words": 781
+  },
+  {
+   "n": 121,
+   "file": "ch121 - Time Travel and Wishful Thinking.md",
+   "words": 820
+  },
+  {
+   "n": 122,
+   "file": "ch122 - More Things in Heaven and Earth.md",
+   "words": 600
+  },
+  {
+   "n": 123,
+   "file": "ch123 - A Multiversity.md",
+   "words": 477
+  },
+  {
+   "n": 124,
+   "file": "ch124 - Does Anything Change, or Not.md",
+   "words": 482
+  },
+  {
+   "n": 125,
+   "file": "ch125 - Identity in Crisis.md",
+   "words": 656
+  },
+  {
+   "n": 126,
+   "file": "ch126 - Endurantist Past-Changing.md",
+   "words": 387
+  },
+  {
+   "n": 127,
+   "file": "ch127 - Chapter 19 - What\u2019s Behind the Mask The Secret of Secret Identities.md",
+   "words": 366
+  },
+  {
+   "n": 128,
+   "file": "ch128 - Dual Identities.md",
+   "words": 1258
+  },
+  {
+   "n": 129,
+   "file": "ch129 - Keeping Secrets.md",
+   "words": 825
+  },
+  {
+   "n": 130,
+   "file": "ch130 - Superman\u2019s Interesting Motivation.md",
+   "words": 2232
+  },
+  {
+   "n": 131,
+   "file": "ch131 - Switching Identities.md",
+   "words": 1607
+  },
+  {
+   "n": 132,
+   "file": "ch132 - Wow! It Could Be the Greatest Gathering of Minds in Comic-Book History! Hold on.md",
+   "words": 2820
+  },
+  {
+   "n": 133,
+   "file": "ch133 - Index.md",
+   "words": 1
+  },
+  {
+   "n": 134,
+   "file": "ch134 - Superheroes and Philosophy.md",
+   "words": 57
+  },
+  {
+   "n": 135,
+   "file": "ch135 - Superheroes and Philosophy.md",
+   "words": 122
+  },
+  {
+   "n": 136,
+   "file": "ch136 - Superheroes and Philosophy.md",
+   "words": 56
+  },
+  {
+   "n": 137,
+   "file": "ch137 - Superheroes and Philosophy.md",
+   "words": 10
+  },
+  {
+   "n": 138,
+   "file": "ch138 - Superheroes and Philosophy.md",
+   "words": 89
+  },
+  {
+   "n": 139,
+   "file": "ch139 - Superheroes and Philosophy.md",
+   "words": 10
+  },
+  {
+   "n": 140,
+   "file": "ch140 - Superheroes and Philosophy.md",
+   "words": 33
+  },
+  {
+   "n": 141,
+   "file": "ch141 - Superheroes and Philosophy.md",
+   "words": 64
+  },
+  {
+   "n": 142,
+   "file": "ch142 - Superheroes and Philosophy.md",
+   "words": 33
+  },
+  {
+   "n": 143,
+   "file": "ch143 - Superheroes and Philosophy.md",
+   "words": 18
+  },
+  {
+   "n": 144,
+   "file": "ch144 - Superheroes and Philosophy.md",
+   "words": 42
+  },
+  {
+   "n": 145,
+   "file": "ch145 - Superheroes and Philosophy.md",
+   "words": 49
+  },
+  {
+   "n": 146,
+   "file": "ch146 - Superheroes and Philosophy.md",
+   "words": 50
+  },
+  {
+   "n": 147,
+   "file": "ch147 - Superheroes and Philosophy.md",
+   "words": 88
+  },
+  {
+   "n": 148,
+   "file": "ch148 - Superheroes and Philosophy.md",
+   "words": 28
+  },
+  {
+   "n": 149,
+   "file": "ch149 - Superheroes and Philosophy.md",
+   "words": 25
+  },
+  {
+   "n": 150,
+   "file": "ch150 - Superheroes and Philosophy.md",
+   "words": 54
+  },
+  {
+   "n": 151,
+   "file": "ch151 - Superheroes and Philosophy.md",
+   "words": 2
+  },
+  {
+   "n": 152,
+   "file": "ch152 - Superheroes and Philosophy.md",
+   "words": 45
+  },
+  {
+   "n": 153,
+   "file": "ch153 - Superheroes and Philosophy.md",
+   "words": 131
+  },
+  {
+   "n": 154,
+   "file": "ch154 - Superheroes and Philosophy.md",
+   "words": 31
+  },
+  {
+   "n": 155,
+   "file": "ch155 - Superheroes and Philosophy.md",
+   "words": 5
+  },
+  {
+   "n": 156,
+   "file": "ch156 - Superheroes and Philosophy.md",
+   "words": 8
+  },
+  {
+   "n": 157,
+   "file": "ch157 - Superheroes and Philosophy.md",
+   "words": 66
+  },
+  {
+   "n": 158,
+   "file": "ch158 - Superheroes and Philosophy.md",
+   "words": 28
+  },
+  {
+   "n": 159,
+   "file": "ch159 - Superheroes and Philosophy.md",
+   "words": 3
+  },
+  {
+   "n": 160,
+   "file": "ch160 - Superheroes and Philosophy.md",
+   "words": 1
+  },
+  {
+   "n": 161,
+   "file": "ch161 - Superheroes and Philosophy.md",
+   "words": 0
+  },
+  {
+   "n": 162,
+   "file": "ch162 - Superheroes and Philosophy.md",
+   "words": 2298
+  },
+  {
+   "n": 163,
+   "file": "ch163 - Copyright Page.md",
+   "words": 161
+  }
+ ],
+ "content": [
+  94,
+  95,
+  97,
+  98,
+  99,
+  100,
+  101,
+  102,
+  103,
+  104,
+  105,
+  106,
+  107,
+  108,
+  109,
+  111,
+  112,
+  113,
+  114,
+  115,
+  116,
+  117,
+  118,
+  119,
+  120,
+  121,
+  122,
+  123,
+  124,
+  125,
+  126,
+  127,
+  128,
+  129,
+  130,
+  131,
+  132,
+  162
+ ]
+}

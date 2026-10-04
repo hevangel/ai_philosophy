@@ -1,0 +1,114 @@
+{
+ "book": "050 - Facebook and Philosophy - What's on Your Mind_",
+ "unit": "u081",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - index.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "schopenhauer",
+    "hegel",
+    "nietzsche",
+    "plato",
+    "mcluhan"
+   ],
+   "concepts": [
+    "existence-precedes-essence",
+    "meaning-of-life",
+    "last-man"
+   ],
+   "relation": "This file holds the book's front matter, Wittkower's introduction 'A Reply to facebook Critics', and the 'facebook Itself' essays. Wittkower answers critics of trivial status updates with Sartre's claim that lives have no given meaning (so their value is ours to create, from the inside), Hegel's argument that real freedom means choosing alongside others (against both Sunstein's 'Daily Me' echo chamber and the forced community of family and hometown), and Schopenhauer's microscope image from 'On the Vanity of Existence', concluding that we care about a friend's dinner update for the same reason we care about our own. James Grimmelmann's 'The Privacy Virus' rebuts the claim that Facebook users don't care about privacy by arguing they practice a contextual, Nissenbaum-style privacy (untagging keg-stand photos, the News Feed revolt, the Miss New Jersey blackmail), while Facebook's architecture breaks the 'know your audience' rule and recruits users into spreading violations like a virus. Graham Meikle reads wall posts and status updates as a convergence of personal messaging and broadcast media (citing the MI6 chief's wife's holiday photos and the Sunday Express's Dunblane survivors story), and Ian Bogost applies McLuhan's media ecology to Facebook as an 'extension of man': it enhances the directory and the yearbook, obsolesces the reunion and the secret, retrieves the small town and the soda shop, and reverses into campus life and high school."
+  },
+  {
+   "n": 3,
+   "file": "ch03 - index.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "aristotle",
+    "mill",
+    "beauvoir",
+    "plato",
+    "williams",
+    "benjamin",
+    "cicero",
+    "derrida",
+    "bentham",
+    "singer",
+    "jackson",
+    "roland-barthes"
+   ],
+   "concepts": [
+    "plato-ring-of-gyges",
+    "aristotle-friendship",
+    "the-look",
+    "utilitarianism"
+   ],
+   "relation": "This file spans book chapters 4-11. Elizabeth Losh reads Facebook games (Zombies, Mob Wars, Scrabulous, Parking Wars, PackRat, (Lil) Green Patch) through Goffman's 'face', Brown and Levinson's politeness, and Derrida's gift-obligation, showing that aggressive games can be played politely while altruistic ones coerce; Jeremy Sarachan analyzes profile pictures through Barthes's studium, punctum and 'air' and Benjamin's mechanical reproduction (the webcam image that has no original). Mimi Marinucci pairs Glaucon's Ring of Gyges with Suler's online disinhibition effect to argue that Facebook's forced integration of audiences (students, colleagues, Mom all reading one profile) suppresses 'fronting' and so can foster authentic self-expression; Mariam Thalos answers with Sartre's analysis of the gaze and Beauvoir's woman-as-Other that the elective, endlessly plastic profile cannot anchor the bonding only face-to-face encounter provides - hence 'Why I Am Not a Friend' - while Wandel and Beavers use Groundhog Day's Phil Connors and Goffman's presentation of self to defend identity play as real self-discovery, and Vejby and Wittkower ask whether Facebook is Debord's Spectacle 2.0 or a platform for Situationist detournement. Finally, Craig Condella measures 'friending' against Aristotle's three friendships and Cicero's 'handmaid of virtue' (via the Seinfeld episode where Keith Hernandez asks Jerry to help him move), and Matthew Tedesco sets 322 Facebook friends against Godwin's burning archbishop to press the utilitarian impartiality challenge, deploying Williams's 'one thought too many' shipwreck case and criticizing Frank Jackson's sector-plan defense of partiality."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 2,
+   "type": "philosopher",
+   "suggested_slug": "mcluhan",
+   "name": "Marshall McLuhan",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Canadian media theorist who held that media are 'extensions of man' whose form rather than content reshapes perception and society ('the medium is the message').",
+   "why": "Bogost's chapter is built on McLuhan: it treats Facebook as a medium to be analyzed by its form rather than judged by its content."
+  },
+  {
+   "ch": 2,
+   "type": "concept",
+   "suggested_slug": "media-tetrad",
+   "name": "The Tetrad of Media Effects (enhancement, obsolescence, retrieval, reversal)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "McLuhan's four-question tool for any medium: what it enhances, what it obsolesces, what older form it retrieves, and what it reverses into when pushed to its limits.",
+   "why": "Bogost applies the tetrad to Facebook (enhances the directory, obsolesces the reunion, retrieves the small town, reverses into high school)."
+  },
+  {
+   "ch": 2,
+   "type": "concept",
+   "suggested_slug": "contextual-privacy",
+   "name": "Contextual Privacy (contextual integrity)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Helen Nissenbaum's account on which privacy is respected when information flows follow the norms of the social context they arose in, replacing a simple public/private divide.",
+   "why": "Grimmelmann's chapter argues Facebook users care about privacy in exactly this contextual sense and that Facebook's design violates it by collapsing social contexts."
+  },
+  {
+   "ch": 3,
+   "type": "philosopher",
+   "suggested_slug": "barthes",
+   "name": "Roland Barthes",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "French literary theorist and philosopher whose Camera Lucida analyzes photographs through studium, punctum, and the 'air' of the subject.",
+   "why": "Sarachan's chapter reads Facebook profile pictures entirely through Barthes's photography theory."
+  },
+  {
+   "ch": 3,
+   "type": "philosopher",
+   "suggested_slug": "debord",
+   "name": "Guy Debord",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Situationist theorist whose The Society of the Spectacle argues that directly lived experience has receded into representations mediated by commodities and images.",
+   "why": "Vejby and Wittkower's 'Spectacle 2.0?' tests whether Facebook is a new participatory form of Debord's spectacle or a tool for subverting it."
+  },
+  {
+   "ch": 3,
+   "type": "concept",
+   "suggested_slug": "the-spectacle",
+   "name": "The Spectacle (with Situationist derive and detournement)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Debord's notion of social relations mediated by images, together with Situationist counter-tactics such as the derive (drift) and detournement (subversive repurposing of existing media).",
+   "why": "The chapter applies the spectacle, derive and detournement to News Feeds, lolcats and viral status-update parodies to ask whether Web 2.0 participation is real action or the spectacle reinforcing itself."
+  }
+ ]
+}

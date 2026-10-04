@@ -1,0 +1,130 @@
+{
+ "unit": "u270",
+ "book": "187 - Sons of Anarchy and Philosophy - Brains Before Bullets",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\187 - Sons of Anarchy and Philosophy - Brains Before Bullets",
+ "range": [
+  1,
+  20
+ ],
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Globalization and Contemporary Art.md",
+   "words": 958
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Sons of Anarchy and Philosophy.md",
+   "words": 784
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Sons of Anarchy and Philosophy.md",
+   "words": 0
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Sons of Anarchy and Philosophy.md",
+   "words": 437
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Sons of Anarchy and Philosophy.md",
+   "words": 588
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Sons of Anarchy and Philosophy.md",
+   "words": 270
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Sons of Anarchy and Philosophy.md",
+   "words": 12
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Sons of Anarchy and Philosophy.md",
+   "words": 4912
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Sons of Anarchy and Philosophy.md",
+   "words": 4770
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Sons of Anarchy and Philosophy.md",
+   "words": 3727
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Sons of Anarchy and Philosophy.md",
+   "words": 5365
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Sons of Anarchy and Philosophy.md",
+   "words": 10
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Sons of Anarchy and Philosophy.md",
+   "words": 4748
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Sons of Anarchy and Philosophy.md",
+   "words": 3003
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Sons of Anarchy and Philosophy.md",
+   "words": 4603
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Sons of Anarchy and Philosophy.md",
+   "words": 3134
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Sons of Anarchy and Philosophy.md",
+   "words": 4317
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Sons of Anarchy and Philosophy.md",
+   "words": 12
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Sons of Anarchy and Philosophy.md",
+   "words": 4098
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Sons of Anarchy and Philosophy.md",
+   "words": 4279
+  }
+ ],
+ "content": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  8,
+  9,
+  10,
+  11,
+  13,
+  14,
+  15,
+  16,
+  17,
+  19,
+  20
+ ]
+}

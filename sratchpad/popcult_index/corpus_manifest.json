@@ -1,0 +1,1367 @@
+[
+ {
+  "book": "001 - Seinfeld and Philosophy - A Book about Everything and Nothing",
+  "n_chapters": 32,
+  "total_words": 73741
+ },
+ {
+  "book": "002 - The Simpsons and Philosophy - The D'oh! of Homer",
+  "n_chapters": 8,
+  "total_words": 107557
+ },
+ {
+  "book": "003 - The Matrix and Philosophy - Welcome to the Desert of the Real",
+  "n_chapters": 295,
+  "total_words": 100971
+ },
+ {
+  "book": "004 - Buffy the Vampire Slayer and Philosophy - Fear and Trembling in Sunnydale",
+  "n_chapters": 39,
+  "total_words": 113282
+ },
+ {
+  "book": "005 - The Lord of the Rings and Philosophy - One Book to Rule Them All",
+  "n_chapters": 35,
+  "total_words": 83520
+ },
+ {
+  "book": "006 - Baseball and Philosophy - Thinking Outside the Batter's Box",
+  "n_chapters": 46,
+  "total_words": 110254
+ },
+ {
+  "book": "007 - The Sopranos and Philosophy - I Kill Therefore I Am",
+  "n_chapters": 36,
+  "total_words": 76950
+ },
+ {
+  "book": "008 - Woody Allen and Philosophy - You Mean My Whole Fallacy Is Wrong_",
+  "n_chapters": 32,
+  "total_words": 96710
+ },
+ {
+  "book": "009 - Harry Potter and Philosophy - If Aristotle Ran Hogwarts",
+  "n_chapters": 178,
+  "total_words": 87616
+ },
+ {
+  "book": "010 - Mel Gibson's Passion and Philosophy - The Cross, the Questions, the Controversy",
+  "n_chapters": 36,
+  "total_words": 96727
+ },
+ {
+  "book": "012 - Star Wars and Philosophy - More Powerful than You Can Possibly Imagine",
+  "n_chapters": 33,
+  "total_words": 83048
+ },
+ {
+  "book": "013 - Superheroes and Philosophy - Truth, Justice, and the Socratic Way",
+  "n_chapters": 163,
+  "total_words": 106389
+ },
+ {
+  "book": "014 - The Atkins Diet and Philosophy - Chewing the Fat with Kant and Nietzsche",
+  "n_chapters": 35,
+  "total_words": 89128
+ },
+ {
+  "book": "015 - The Chronicles of Narnia and Philosophy - The Lion, the Witch, and the Worldview",
+  "n_chapters": 39,
+  "total_words": 110898
+ },
+ {
+  "book": "016 - Hip-Hop and Philosophy - Rhyme 2 Reason",
+  "n_chapters": 37,
+  "total_words": 81417
+ },
+ {
+  "book": "017 - Bob Dylan and Philosophy - It's Alright Ma (I'm Only Thinking)",
+  "n_chapters": 32,
+  "total_words": 73920
+ },
+ {
+  "book": "018 - Harley-Davidson and Philosophy - Full-Throttle Aristotle",
+  "n_chapters": 32,
+  "total_words": 72874
+ },
+ {
+  "book": "019 - Monty Python and Philosophy - Nudge Nudge, Think Think!",
+  "n_chapters": 34,
+  "total_words": 97887
+ },
+ {
+  "book": "020 - Poker and Philosophy - Pocket Rockets and Philosopher Kings",
+  "n_chapters": 35,
+  "total_words": 80605
+ },
+ {
+  "book": "021 - U2 and Philosophy - How to Decipher an Atomic Band",
+  "n_chapters": 32,
+  "total_words": 83434
+ },
+ {
+  "book": "022 - The Undead and Philosophy - Chicken Soup for the Soulless",
+  "n_chapters": 36,
+  "total_words": 105376
+ },
+ {
+  "book": "023 - James Bond and Philosophy - Questions Are Forever",
+  "n_chapters": 33,
+  "total_words": 83660
+ },
+ {
+  "book": "024 - Bullshit and Philosophy - Guaranteed to Get Perfect Results Every Time",
+  "n_chapters": 132,
+  "total_words": 103134
+ },
+ {
+  "book": "025 - The Beatles and Philosophy - Nothing You Can Think that Can't Be Thunk",
+  "n_chapters": 17,
+  "total_words": 115691
+ },
+ {
+  "book": "026 - South Park and Philosophy - Bigger, Longer, and More Penetrating",
+  "n_chapters": 53,
+  "total_words": 169752
+ },
+ {
+  "book": "027 - Hitchcock and Philosophy - Dial M for Metaphysics",
+  "n_chapters": 35,
+  "total_words": 95214
+ },
+ {
+  "book": "028 - The Grateful Dead and Philosophy - Getting High Minded about Love and Haight",
+  "n_chapters": 38,
+  "total_words": 91776
+ },
+ {
+  "book": "029 - Quentin Tarantino and Philosophy - How to Philosophize with a Pair of Pliers and a Blowtorch",
+  "n_chapters": 31,
+  "total_words": 75717
+ },
+ {
+  "book": "030 - Pink Floyd and Philosophy - Careful with that Axiom, Eugene!",
+  "n_chapters": 32,
+  "total_words": 103136
+ },
+ {
+  "book": "031 - Johnny Cash and Philosophy - The Burning Ring of Truth",
+  "n_chapters": 35,
+  "total_words": 94196
+ },
+ {
+  "book": "032 - Bruce Springsteen and Philosophy - Darkness on the Edge of Truth",
+  "n_chapters": 35,
+  "total_words": 110993
+ },
+ {
+  "book": "033 - Battlestar Galactica and Philosophy - Mission Accomplished or Mission Frakked Up_",
+  "n_chapters": 57,
+  "total_words": 144101
+ },
+ {
+  "book": "034 - iPod and Philosophy - iCon of an ePoch",
+  "n_chapters": 34,
+  "total_words": 90325
+ },
+ {
+  "book": "035 - Star Trek and Philosophy - The Wrath of Kant",
+  "n_chapters": 34,
+  "total_words": 98795
+ },
+ {
+  "book": "036 - The Legend of Zelda and Philosophy - I Link Therefore I Am",
+  "n_chapters": 41,
+  "total_words": 89635
+ },
+ {
+  "book": "037 - The Wizard of Oz and Philosophy - Wicked Wisdom of the West",
+  "n_chapters": 37,
+  "total_words": 143480
+ },
+ {
+  "book": "038 - Radiohead and Philosophy - Fitter Happier More Deductive",
+  "n_chapters": 39,
+  "total_words": 97971
+ },
+ {
+  "book": "039 - Jimmy Buffett and Philosophy - The Porpoise Driven Life",
+  "n_chapters": 29,
+  "total_words": 90255
+ },
+ {
+  "book": "040 - Transformers and Philosophy - More than Meets the Mind",
+  "n_chapters": 31,
+  "total_words": 85217
+ },
+ {
+  "book": "041 - Stephen Colbert and Philosophy - I Am Philosophy (And So Can You!)",
+  "n_chapters": 32,
+  "total_words": 100572
+ },
+ {
+  "book": "042 - Supervillains and Philosophy - Sometimes, Evil Is Its Own Reward",
+  "n_chapters": 15,
+  "total_words": 75002
+ },
+ {
+  "book": "043 - The Golden Compass and Philosophy - God Bites the Dust",
+  "n_chapters": 28,
+  "total_words": 67164
+ },
+ {
+  "book": "044 - Led Zeppelin and Philosophy - All Will Be Revealed",
+  "n_chapters": 30,
+  "total_words": 119733
+ },
+ {
+  "book": "045 - World of Warcraft and Philosophy - Wrath of the Philosopher King",
+  "n_chapters": 38,
+  "total_words": 90880
+ },
+ {
+  "book": "046 - Mr. Monk and Philosophy - The Curious Case of the Defective Detective",
+  "n_chapters": 34,
+  "total_words": 97657
+ },
+ {
+  "book": "047 - Anime and Philosophy - Wide Eyed Wonder",
+  "n_chapters": 44,
+  "total_words": 107112
+ },
+ {
+  "book": "048 - The Red Sox and Philosophy - Green Monster Meditations",
+  "n_chapters": 46,
+  "total_words": 131677
+ },
+ {
+  "book": "049 - Zombies, Vampires, and Philosophy - New Life for the Undead",
+  "n_chapters": 36,
+  "total_words": 105376
+ },
+ {
+  "book": "050 - Facebook and Philosophy - What's on Your Mind_",
+  "n_chapters": 7,
+  "total_words": 109891
+ },
+ {
+  "book": "051 - Soccer and Philosophy - Beautiful Thoughts on the Beautiful Game",
+  "n_chapters": 49,
+  "total_words": 168997
+ },
+ {
+  "book": "053 - Martial Arts and Philosophy - Beating and Nothingness",
+  "n_chapters": 33,
+  "total_words": 73076
+ },
+ {
+  "book": "054 - The Onion and Philosophy - Fake News Story True, Alleges Indignant Area Professor",
+  "n_chapters": 39,
+  "total_words": 92052
+ },
+ {
+  "book": "055 - Doctor Who and Philosophy - Bigger on the Inside",
+  "n_chapters": 50,
+  "total_words": 151301
+ },
+ {
+  "book": "056 - Dune and Philosophy - Weirding Way of the Mentat",
+  "n_chapters": 32,
+  "total_words": 83898
+ },
+ {
+  "book": "057 - Rush and Philosophy - Heart and Mind United",
+  "n_chapters": 34,
+  "total_words": 111937
+ },
+ {
+  "book": "058 - Dexter and Philosophy - Mind over Spatter",
+  "n_chapters": 41,
+  "total_words": 112004
+ },
+ {
+  "book": "059 - Halo and Philosophy - Intellect Evolved",
+  "n_chapters": 32,
+  "total_words": 82809
+ },
+ {
+  "book": "060 - SpongeBob SquarePants and Philosophy - Soaking Up Secrets Under the Sea!",
+  "n_chapters": 31,
+  "total_words": 60521
+ },
+ {
+  "book": "061 - Sherlock Holmes and Philosophy - The Footprints of a Gigantic Mind",
+  "n_chapters": 50,
+  "total_words": 136085
+ },
+ {
+  "book": "062 - Inception and Philosophy - Ideas to Die For",
+  "n_chapters": 36,
+  "total_words": 111159
+ },
+ {
+  "book": "063 - Philip K. Dick and Philosophy - Do Androids Have Kindred Spirits",
+  "n_chapters": 214,
+  "total_words": 118905
+ },
+ {
+  "book": "064 - The Rolling Stones and Philosophy - It's Just a Thought Away",
+  "n_chapters": 218,
+  "total_words": 107966
+ },
+ {
+  "book": "065 - Chuck Klosterman and Philosophy - The Real and the Cereal",
+  "n_chapters": 39,
+  "total_words": 90861
+ },
+ {
+  "book": "066 - Neil Gaiman and Philosophy - Gods Gone Wild!",
+  "n_chapters": 28,
+  "total_words": 68562
+ },
+ {
+  "book": "067 - Breaking Bad and Philosophy - Badder Living through Chemistry",
+  "n_chapters": 36,
+  "total_words": 79398
+ },
+ {
+  "book": "068 - The Walking Dead and Philosophy - Zombie Apocalypse Now",
+  "n_chapters": 36,
+  "total_words": 94334
+ },
+ {
+  "book": "069 - Curb Your Enthusiasm and Philosophy - Awaken the Social Assassin Within",
+  "n_chapters": 33,
+  "total_words": 93892
+ },
+ {
+  "book": "070 - Dungeons and Dragons and Philosophy - Raiding the Temple of Wisdom",
+  "n_chapters": 34,
+  "total_words": 113456
+ },
+ {
+  "book": "071 - The Catcher in the Rye and Philosophy - A Book for Bastards, Morons, and Madmen",
+  "n_chapters": 2,
+  "total_words": 0
+ },
+ {
+  "book": "072 - Jeopardy! and Philosophy - What Is Knowledge in the Form of a Question",
+  "n_chapters": 36,
+  "total_words": 66651
+ },
+ {
+  "book": "073 - The Wire and Philosophy - This America, Man",
+  "n_chapters": 39,
+  "total_words": 108053
+ },
+ {
+  "book": "074 - Planet of the Apes and Philosophy - Great Apes Think Alike",
+  "n_chapters": 43,
+  "total_words": 105755
+ },
+ {
+  "book": "075 - Psych and Philosophy - Some Dark Juju-Magumbo",
+  "n_chapters": 42,
+  "total_words": 92003
+ },
+ {
+  "book": "076 - The Good Wife and Philosophy - Temptations of Saint Alicia",
+  "n_chapters": 33,
+  "total_words": 58979
+ },
+ {
+  "book": "077 - Boardwalk Empire and Philosophy - Bootleg This Book",
+  "n_chapters": 32,
+  "total_words": 67280
+ },
+ {
+  "book": "078 - Futurama and Philosophy - Bite My Shiny Metal Axiom",
+  "n_chapters": 38,
+  "total_words": 81821
+ },
+ {
+  "book": "079 - Frankenstein and Philosophy - The Shocking Truth",
+  "n_chapters": 43,
+  "total_words": 99220
+ },
+ {
+  "book": "080 - Ender's Game and Philosophy - Genocide Is Child's Play",
+  "n_chapters": 30,
+  "total_words": 82557
+ },
+ {
+  "book": "081 - How I Met Your Mother and Philosophy - Being and Awesomeness",
+  "n_chapters": 29,
+  "total_words": 82249
+ },
+ {
+  "book": "082 - Jurassic Park and Philosophy - The Truth Is Terrifying",
+  "n_chapters": 42,
+  "total_words": 92660
+ },
+ {
+  "book": "083 - The Devil and Philosophy - The Nature of His Game",
+  "n_chapters": 78,
+  "total_words": 115442
+ },
+ {
+  "book": "084 - Leonard Cohen and Philosophy - Various Positions",
+  "n_chapters": 38,
+  "total_words": 89257
+ },
+ {
+  "book": "085 - Homeland and Philosophy - For Your Minds Only",
+  "n_chapters": 39,
+  "total_words": 73249
+ },
+ {
+  "book": "086 - Girls and Philosophy - This Book Isn't a Metaphor for Anything",
+  "n_chapters": 35,
+  "total_words": 84797
+ },
+ {
+  "book": "087 - Adventure Time and Philosophy - The Handbook for Heroes",
+  "n_chapters": 43,
+  "total_words": 106059
+ },
+ {
+  "book": "088 - Justified and Philosophy - Shoot First, Think Later",
+  "n_chapters": 34,
+  "total_words": 81301
+ },
+ {
+  "book": "089 - Steve Jobs and Philosophy - For Those Who Think Different",
+  "n_chapters": 34,
+  "total_words": 69718
+ },
+ {
+  "book": "090 - Dracula and Philosophy - Dying to Know",
+  "n_chapters": 39,
+  "total_words": 96289
+ },
+ {
+  "book": "091 - It's Always Sunny and Philosophy - The Gang Gets Analyzed",
+  "n_chapters": 30,
+  "total_words": 68636
+ },
+ {
+  "book": "092 - Orange Is the New Black and Philosophy - Last Exit from Litchfield",
+  "n_chapters": 35,
+  "total_words": 66935
+ },
+ {
+  "book": "093 - More Doctor Who and Philosophy - Regeneration Time",
+  "n_chapters": 44,
+  "total_words": 113052
+ },
+ {
+  "book": "094 - Divergent and Philosophy - The Factions of Life",
+  "n_chapters": 36,
+  "total_words": 77512
+ },
+ {
+  "book": "095 - Downton Abbey and Philosophy - Thinking in That Manor",
+  "n_chapters": 41,
+  "total_words": 94357
+ },
+ {
+  "book": "096 - Hannibal Lecter and Philosophy - The Heart of the Matter",
+  "n_chapters": 36,
+  "total_words": 94096
+ },
+ {
+  "book": "097 - The Ultimate Walking Dead and Philosophy - Hungry for More",
+  "n_chapters": 43,
+  "total_words": 93565
+ },
+ {
+  "book": "098 - The Princess Bride and Philosophy - Inconceivable!",
+  "n_chapters": 42,
+  "total_words": 92442
+ },
+ {
+  "book": "099 - Louis C.K. and Philosophy - You Don't Get to Be Bored",
+  "n_chapters": 45,
+  "total_words": 107446
+ },
+ {
+  "book": "100 - Batman, Superman, and Philosophy - Badass or Boyscout_",
+  "n_chapters": 42,
+  "total_words": 100433
+ },
+ {
+  "book": "101 - Discworld and Philosophy - Reality Is Not What It Seems",
+  "n_chapters": 39,
+  "total_words": 117889
+ },
+ {
+  "book": "102 - Orphan Black and Philosophy - Grand Theft DNA",
+  "n_chapters": 36,
+  "total_words": 70164
+ },
+ {
+  "book": "103 - David Bowie and Philosophy - Rebel Rebel",
+  "n_chapters": 29,
+  "total_words": 68766
+ },
+ {
+  "book": "104 - Red Rising and Philosophy - Break the Chains!",
+  "n_chapters": 31,
+  "total_words": 68728
+ },
+ {
+  "book": "105 - The Ultimate Game of Thrones and Philosophy - You Think or Die",
+  "n_chapters": 53,
+  "total_words": 85955
+ },
+ {
+  "book": "106 - Peanuts and Philosophy - You're a Wise Man, Charlie Brown!",
+  "n_chapters": 38,
+  "total_words": 69212
+ },
+ {
+  "book": "107 - Deadpool and Philosophy - My Common Sense Is Tingling",
+  "n_chapters": 46,
+  "total_words": 114438
+ },
+ {
+  "book": "109 - Mr. Robot and Philosophy - Beyond Good and Evil Corp.",
+  "n_chapters": 40,
+  "total_words": 68630
+ },
+ {
+  "book": "110 - Hamilton and Philosophy - Revolutionary Thinking",
+  "n_chapters": 22,
+  "total_words": 45341
+ },
+ {
+  "book": "111 - The Man in the High Castle and Philosophy - Subversive Reports from Another Reality",
+  "n_chapters": 39,
+  "total_words": 78761
+ },
+ {
+  "book": "112 - The Americans and Philosophy - Reds in the Bed",
+  "n_chapters": 17,
+  "total_words": 71299
+ },
+ {
+  "book": "113 - Jimi Hendrix and Philosophy - Experience Required",
+  "n_chapters": 37,
+  "total_words": 88189
+ },
+ {
+  "book": "114 - American Horror Story and Philosophy - Life Is But a Nightmare",
+  "n_chapters": 33,
+  "total_words": 67938
+ },
+ {
+  "book": "115 - Iron Man vs. Captain America and Philosophy - Give Me Liberty or Keep Me Safe",
+  "n_chapters": 41,
+  "total_words": 92317
+ },
+ {
+  "book": "116 - 1984 and Philosophy - Is Resistance Futile",
+  "n_chapters": 40,
+  "total_words": 104646
+ },
+ {
+  "book": "118 - Scott Adams and Philosophy - A Hole in the Fabric of Reality",
+  "n_chapters": 33,
+  "total_words": 73361
+ },
+ {
+  "book": "119 - Twin Peaks and Philosophy - That's Damn Fine Philosophy!",
+  "n_chapters": 36,
+  "total_words": 79796
+ },
+ {
+  "book": "120 - Amy Schumer and Philosophy - Brainwreck!",
+  "n_chapters": 34,
+  "total_words": 72751
+ },
+ {
+  "book": "121 - The Twilight Zone and Philosophy - A Dangerous Dimension to Visit",
+  "n_chapters": 39,
+  "total_words": 82105
+ },
+ {
+  "book": "122 - Westworld and Philosophy - Mind Equals Blown",
+  "n_chapters": 32,
+  "total_words": 90795
+ },
+ {
+  "book": "123 - The Handmaid's Tale and Philosophy - A Womb of One's Own",
+  "n_chapters": 40,
+  "total_words": 84361
+ },
+ {
+  "book": "124 - Tom Petty and Philosophy - We Need to Know",
+  "n_chapters": 33,
+  "total_words": 84632
+ },
+ {
+  "book": "125 - Rick and Morty and Philosophy - In the Beginning Was the Squanch",
+  "n_chapters": 37,
+  "total_words": 80343
+ },
+ {
+  "book": "126 - Stranger Things and Philosophy - Thus Spake the Demogorgon",
+  "n_chapters": 33,
+  "total_words": 73352
+ },
+ {
+  "book": "127 - Blade Runner 2049 and Philosophy - This Breaks the World",
+  "n_chapters": 47,
+  "total_words": 88409
+ },
+ {
+  "book": "128 - Mister Rogers and Philosophy - Wondering through the Neighborhood",
+  "n_chapters": 41,
+  "total_words": 80790
+ },
+ {
+  "book": "129 - RuPaul's Drag Race and Philosophy - Sissy That Thought",
+  "n_chapters": 32,
+  "total_words": 90805
+ },
+ {
+  "book": "130 - The Good Place and Philosophy - Get an Afterlife",
+  "n_chapters": 42,
+  "total_words": 84527
+ },
+ {
+  "book": "131 - Avengers Infinity Saga and Philosophy - Go for the Head",
+  "n_chapters": 47,
+  "total_words": 107651
+ },
+ {
+  "book": "133 - Perry Mason and Philosophy - The Case of the Awesome Attorney",
+  "n_chapters": 32,
+  "total_words": 68265
+ },
+ {
+  "book": "134 - KISS and Philosophy - Wiser than Hell",
+  "n_chapters": 38,
+  "total_words": 80707
+ },
+ {
+  "book": "136 - 30 Rock and Philosophy - We Want to Go to There",
+  "n_chapters": 32,
+  "total_words": 66960
+ },
+ {
+  "book": "137 - Alice in Wonderland and Philosophy - Curiouser and Curiouser",
+  "n_chapters": 27,
+  "total_words": 63074
+ },
+ {
+  "book": "138 - Alien and Philosophy - I Infest Therefore I Am",
+  "n_chapters": 28,
+  "total_words": 77702
+ },
+ {
+  "book": "139 - Arrested Development and Philosophy - They've Made a Huge Mistake",
+  "n_chapters": 33,
+  "total_words": 75387
+ },
+ {
+  "book": "140 - Avatar and Philosophy - Learning to See",
+  "n_chapters": 42,
+  "total_words": 112034
+ },
+ {
+  "book": "141 - Avatar_ The Last Airbender and Philosophy - Wisdom from Aang to Zuko",
+  "n_chapters": 42,
+  "total_words": 112034
+ },
+ {
+  "book": "142 - The Avengers and Philosophy - Earth's Mightiest Thinkers",
+  "n_chapters": 30,
+  "total_words": 68389
+ },
+ {
+  "book": "143 - Batman and Philosophy - The Dark Knight of the Soul",
+  "n_chapters": 36,
+  "total_words": 88536
+ },
+ {
+  "book": "144 - Battlestar Galactica and Philosophy - Knowledge Here Begins Out There",
+  "n_chapters": 57,
+  "total_words": 144101
+ },
+ {
+  "book": "145 - The Big Bang Theory and Philosophy - Rock, Paper, Scissors, Aristotle, Locke",
+  "n_chapters": 32,
+  "total_words": 80146
+ },
+ {
+  "book": "146 - The Big Lebowski and Philosophy - Keeping Your Mind Limber with Abiding Wisdom",
+  "n_chapters": 35,
+  "total_words": 85435
+ },
+ {
+  "book": "147 - Bioshock and Philosophy - Irrational Game, Rational Book",
+  "n_chapters": 24,
+  "total_words": 60723
+ },
+ {
+  "book": "148 - Black Mirror and Philosophy - Dark Reflections",
+  "n_chapters": 52,
+  "total_words": 148354
+ },
+ {
+  "book": "149 - Black Panther and Philosophy - What Can Wakanda Offer the World_",
+  "n_chapters": 40,
+  "total_words": 112262
+ },
+ {
+  "book": "150 - Black Sabbath and Philosophy - Mastering Reality",
+  "n_chapters": 31,
+  "total_words": 73211
+ },
+ {
+  "book": "152 - The Ultimate Daily Show and Philosophy - More Moments of Zen, More Indecision Theory",
+  "n_chapters": 36,
+  "total_words": 127443
+ },
+ {
+  "book": "153 - Disney and Philosophy - Truth, Trust, and a Little Bit of Pixie Dust",
+  "n_chapters": 43,
+  "total_words": 108827
+ },
+ {
+  "book": "154 - Doctor Strange and Philosophy - The Other Book of Forbidden Knowledge",
+  "n_chapters": 31,
+  "total_words": 90834
+ },
+ {
+  "book": "155 - Downton Abbey and Philosophy - The Truth Is Neither Here Nor There",
+  "n_chapters": 41,
+  "total_words": 94357
+ },
+ {
+  "book": "156 - Dune and Philosophy - Minds, Monads, and Muad'Dib",
+  "n_chapters": 32,
+  "total_words": 83897
+ },
+ {
+  "book": "157 - Dungeons and Dragons and Philosophy - Read and Gain Advantage on All Wisdom Checks",
+  "n_chapters": 34,
+  "total_words": 113456
+ },
+ {
+  "book": "158 - Ender's Game and Philosophy - The Logic Gate Is Down",
+  "n_chapters": 30,
+  "total_words": 82557
+ },
+ {
+  "book": "159 - The Expanse and Philosophy - So Far Out Into the Darkness",
+  "n_chapters": 41,
+  "total_words": 96396
+ },
+ {
+  "book": "160 - Fallout and Philosophy - Thinking Outside the Shelter",
+  "n_chapters": 41,
+  "total_words": 105132
+ },
+ {
+  "book": "161 - Family Guy and Philosophy - A Cure for the Petarded",
+  "n_chapters": 26,
+  "total_words": 83120
+ },
+ {
+  "book": "162 - Final Fantasy and Philosophy - The Ultimate Walkthrough",
+  "n_chapters": 27,
+  "total_words": 66270
+ },
+ {
+  "book": "163 - Game of Thrones and Philosophy - Logic Cuts Deeper Than Swords",
+  "n_chapters": 36,
+  "total_words": 92464
+ },
+ {
+  "book": "164 - The Girl with the Dragon Tattoo and Philosophy - Everything Is Fire",
+  "n_chapters": 32,
+  "total_words": 63533
+ },
+ {
+  "book": "165 - The Good Place and Philosophy - Everything Is Forking Fine!",
+  "n_chapters": 42,
+  "total_words": 84527
+ },
+ {
+  "book": "166 - Green Lantern and Philosophy - No Evil Shall Escape This Book",
+  "n_chapters": 35,
+  "total_words": 86836
+ },
+ {
+  "book": "167 - The Ultimate Harry Potter and Philosophy - Hogwarts for Muggles",
+  "n_chapters": 178,
+  "total_words": 87616
+ },
+ {
+  "book": "168 - Heroes and Philosophy - Buy the Book, Save the World",
+  "n_chapters": 33,
+  "total_words": 91385
+ },
+ {
+  "book": "169 - The Hobbit and Philosophy - For When You've Lost Your Dwarves, Your Wizard, and Your Way",
+  "n_chapters": 47,
+  "total_words": 75797
+ },
+ {
+  "book": "170 - House and Philosophy - Everybody Lies",
+  "n_chapters": 40,
+  "total_words": 100777
+ },
+ {
+  "book": "171 - House of Cards and Philosophy - Underwood's Republic",
+  "n_chapters": 40,
+  "total_words": 100777
+ },
+ {
+  "book": "172 - The Hunger Games and Philosophy - A Critique of Pure Treason",
+  "n_chapters": 35,
+  "total_words": 93999
+ },
+ {
+  "book": "173 - Inception and Philosophy - Because It's Never Just a Dream",
+  "n_chapters": 36,
+  "total_words": 111159
+ },
+ {
+  "book": "174 - Indiana Jones and Philosophy - Why Did It Have to Be Socrates_",
+  "n_chapters": 40,
+  "total_words": 105689
+ },
+ {
+  "book": "175 - Iron Man and Philosophy - Facing the Stark Reality",
+  "n_chapters": 32,
+  "total_words": 83105
+ },
+ {
+  "book": "178 - LEGO and Philosophy - Constructing Reality Brick by Brick",
+  "n_chapters": 35,
+  "total_words": 80875
+ },
+ {
+  "book": "179 - The Legend of Zelda and Philosophy - Link Outside the Box",
+  "n_chapters": 41,
+  "total_words": 89635
+ },
+ {
+  "book": "180 - Mad Max and Philosophy - Thinking Through the Wasteland",
+  "n_chapters": 36,
+  "total_words": 89221
+ },
+ {
+  "book": "181 - Ultimate Lost and Philosophy - Think Together, Die Alone",
+  "n_chapters": 33,
+  "total_words": 111414
+ },
+ {
+  "book": "182 - Mad Men and Philosophy - Nothing Is as It Seems",
+  "n_chapters": 30,
+  "total_words": 78043
+ },
+ {
+  "book": "184 - The Office and Philosophy - Scenes from the Unexamined Life",
+  "n_chapters": 39,
+  "total_words": 112605
+ },
+ {
+  "book": "185 - Saturday Night Live and Philosophy - Deep Thoughts Through the Decades",
+  "n_chapters": 35,
+  "total_words": 89008
+ },
+ {
+  "book": "186 - Spider-Man and Philosophy - The Web of Inquiry",
+  "n_chapters": 32,
+  "total_words": 84745
+ },
+ {
+  "book": "187 - Sons of Anarchy and Philosophy - Brains Before Bullets",
+  "n_chapters": 34,
+  "total_words": 92789
+ },
+ {
+  "book": "188 - The Ultimate South Park and Philosophy - Respect My Philosophah!",
+  "n_chapters": 33,
+  "total_words": 97679
+ },
+ {
+  "book": "189 - The Ultimate Star Trek and Philosophy - The Search for Socrates",
+  "n_chapters": 45,
+  "total_words": 130175
+ },
+ {
+  "book": "190 - The Ultimate Star Wars and Philosophy - You Must Unlearn What You Have Learned",
+  "n_chapters": 42,
+  "total_words": 113559
+ },
+ {
+  "book": "191 - Star Wars and Philosophy Strikes Back - This Is the Way",
+  "n_chapters": 45,
+  "total_words": 113000
+ },
+ {
+  "book": "192 - Superman and Philosophy - What Would the Man of Steel Do_",
+  "n_chapters": 42,
+  "total_words": 100433
+ },
+ {
+  "book": "193 - Supernatural and Philosophy - Metaphysics and Monsters... for Idjits",
+  "n_chapters": 27,
+  "total_words": 65007
+ },
+ {
+  "book": "194 - Taylor Swift and Philosophy - Essays from the Tortured Philosophers Department",
+  "n_chapters": 36,
+  "total_words": 107876
+ },
+ {
+  "book": "195 - Ted Lasso and Philosophy - No Question Is Into Touch",
+  "n_chapters": 36,
+  "total_words": 88712
+ },
+ {
+  "book": "196 - Terminator and Philosophy - I'll Be Back, Therefore I Am",
+  "n_chapters": 32,
+  "total_words": 90340
+ },
+ {
+  "book": "197 - True Blood and Philosophy - We Wanna Think Bad Things with You",
+  "n_chapters": 33,
+  "total_words": 82944
+ },
+ {
+  "book": "199 - True Detective and Philosophy - A Deeper Kind of Darkness",
+  "n_chapters": 31,
+  "total_words": 69319
+ },
+ {
+  "book": "200 - Twilight and Philosophy - Vampires, Vegetarians, and the Pursuit of Immortality",
+  "n_chapters": 39,
+  "total_words": 82105
+ },
+ {
+  "book": "201 - Veronica Mars and Philosophy - Investigating the Mysteries of Life (Which Is a Bitch Until You Die)",
+  "n_chapters": 32,
+  "total_words": 67821
+ },
+ {
+  "book": "202 - The Walking Dead and Philosophy - Shotgun. Machete. Reason.",
+  "n_chapters": 36,
+  "total_words": 94334
+ },
+ {
+  "book": "203 - Watchmen and Philosophy - A Rorschach Test",
+  "n_chapters": 12,
+  "total_words": 72425
+ },
+ {
+  "book": "204 - Westworld and Philosophy - If You Go Looking for the Truth, Get the Whole Thing",
+  "n_chapters": 32,
+  "total_words": 90795
+ },
+ {
+  "book": "205 - The Wheel of Time and Philosophy - A Portion of Wisdom",
+  "n_chapters": 34,
+  "total_words": 84880
+ },
+ {
+  "book": "206 - The Witcher and Philosophy - Toss a Coin to Your Philosopher",
+  "n_chapters": 37,
+  "total_words": 108959
+ },
+ {
+  "book": "207 - Wonder Woman and Philosophy - The Amazonian Mystique",
+  "n_chapters": 34,
+  "total_words": 74487
+ },
+ {
+  "book": "208 - X-Men and Philosophy - Astonishing Insight and Uncanny Argument in the Mutant X-Verse",
+  "n_chapters": 11,
+  "total_words": 82821
+ },
+ {
+  "book": "209 - Basketball and Philosophy - Thinking Outside the Paint",
+  "n_chapters": 35,
+  "total_words": 105252
+ },
+ {
+  "book": "210 - Football and Philosophy - Going Deep",
+  "n_chapters": 30,
+  "total_words": 79638
+ },
+ {
+  "book": "211 - Golf and Philosophy - Lessons from the Links",
+  "n_chapters": 37,
+  "total_words": 98966
+ },
+ {
+  "book": "212 - The Olympics and Philosophy",
+  "n_chapters": 33,
+  "total_words": 103319
+ },
+ {
+  "book": "213 - Tennis and Philosophy - What the Racket Is All About",
+  "n_chapters": 26,
+  "total_words": 114055
+ },
+ {
+  "book": "214 - The Philosophy of Ang Lee",
+  "n_chapters": 29,
+  "total_words": 121609
+ },
+ {
+  "book": "215 - The Philosophy of the Beats",
+  "n_chapters": 30,
+  "total_words": 105681
+ },
+ {
+  "book": "216 - The Philosophy of Charlie Kaufman",
+  "n_chapters": 28,
+  "total_words": 126460
+ },
+ {
+  "book": "217 - The Philosophy of Clint Eastwood",
+  "n_chapters": 22,
+  "total_words": 111785
+ },
+ {
+  "book": "218 - The Philosophy of the Coen Brothers",
+  "n_chapters": 28,
+  "total_words": 118193
+ },
+ {
+  "book": "219 - The Philosophy of David Cronenberg",
+  "n_chapters": 24,
+  "total_words": 89603
+ },
+ {
+  "book": "220 - The Philosophy of David Lynch",
+  "n_chapters": 36,
+  "total_words": 79796
+ },
+ {
+  "book": "221 - The Philosophy of Film Noir",
+  "n_chapters": 25,
+  "total_words": 96362
+ },
+ {
+  "book": "222 - The Philosophy of Horror",
+  "n_chapters": 15,
+  "total_words": 146283
+ },
+ {
+  "book": "223 - The Philosophy of J.J. Abrams",
+  "n_chapters": 30,
+  "total_words": 107592
+ },
+ {
+  "book": "224 - The Philosophy of Joss Whedon",
+  "n_chapters": 11,
+  "total_words": 110652
+ },
+ {
+  "book": "225 - The Philosophy of Martin Scorsese",
+  "n_chapters": 24,
+  "total_words": 108067
+ },
+ {
+  "book": "226 - The Philosophy of Michael Mann",
+  "n_chapters": 24,
+  "total_words": 110992
+ },
+ {
+  "book": "227 - The Philosophy of Neo-Noir",
+  "n_chapters": 24,
+  "total_words": 85046
+ },
+ {
+  "book": "228 - The Philosophy of Science Fiction Film",
+  "n_chapters": 24,
+  "total_words": 89095
+ },
+ {
+  "book": "229 - The Philosophy of Sherlock Holmes",
+  "n_chapters": 22,
+  "total_words": 77483
+ },
+ {
+  "book": "230 - The Philosophy of Spike Lee",
+  "n_chapters": 26,
+  "total_words": 105709
+ },
+ {
+  "book": "231 - The Philosophy of Stanley Kubrick",
+  "n_chapters": 29,
+  "total_words": 107592
+ },
+ {
+  "book": "232 - The Philosophy of Steven Soderbergh",
+  "n_chapters": 31,
+  "total_words": 123495
+ },
+ {
+  "book": "234 - The Philosophy of Tim Burton",
+  "n_chapters": 24,
+  "total_words": 117829
+ },
+ {
+  "book": "235 - The Philosophy of TV Noir",
+  "n_chapters": 22,
+  "total_words": 108731
+ },
+ {
+  "book": "236 - The Philosophy of War Films",
+  "n_chapters": 30,
+  "total_words": 215776
+ },
+ {
+  "book": "237 - The Philosophy of the Western",
+  "n_chapters": 30,
+  "total_words": 144663
+ },
+ {
+  "book": "238 - Steven Spielberg and Philosophy - We're Gonna Need a Bigger Book",
+  "n_chapters": 26,
+  "total_words": 114779
+ },
+ {
+  "book": "239 - The Philosophy of Werner Herzog",
+  "n_chapters": 22,
+  "total_words": 125692
+ },
+ {
+  "book": "240 - Neil Young and Philosophy",
+  "n_chapters": 21,
+  "total_words": 84476
+ },
+ {
+  "book": "241 - The Philosophy of Documentary Film",
+  "n_chapters": 38,
+  "total_words": 275314
+ },
+ {
+  "book": "242 - Joss Whedon as Philosopher",
+  "n_chapters": 11,
+  "total_words": 110652
+ },
+ {
+  "book": "243 - The Philosophy of Christopher Nolan",
+  "n_chapters": 10,
+  "total_words": 101555
+ },
+ {
+  "book": "244 - The Who and Philosophy",
+  "n_chapters": 50,
+  "total_words": 151301
+ },
+ {
+  "book": "247 - The Ultimate Supernatural and Philosophy - Saving People, Killing Things, the Family Business",
+  "n_chapters": 31,
+  "total_words": 72425
+ },
+ {
+  "book": "251 - Punk Rock and Philosophy - Research and Destroy",
+  "n_chapters": 13,
+  "total_words": 74897
+ },
+ {
+  "book": "252 - Better Call Saul and Philosophy - I Think Therefore I Scam",
+  "n_chapters": 40,
+  "total_words": 96685
+ },
+ {
+  "book": "253 - Asimov's Foundation and Philosophy - Psychohistory and Its Discontents",
+  "n_chapters": 39,
+  "total_words": 93225
+ },
+ {
+  "book": "255 - The Godfather and Philosophy - An Argument You Can't Refute",
+  "n_chapters": 30,
+  "total_words": 143489
+ },
+ {
+  "book": "256 - Anthony Bourdain and Philosophy - An Appetite for Life",
+  "n_chapters": 35,
+  "total_words": 86019
+ },
+ {
+  "book": "258 - South Park and Philosophy - You Know, I Learned Something Today",
+  "n_chapters": 53,
+  "total_words": 169752
+ },
+ {
+  "book": "259 - Lost and Philosophy - The Island Has Its Reasons",
+  "n_chapters": 33,
+  "total_words": 111414
+ },
+ {
+  "book": "260 - The Daily Show and Philosophy - Moments of Zen in the Art of Fake News",
+  "n_chapters": 36,
+  "total_words": 127443
+ },
+ {
+  "book": "261 - Philosophy in The Twilight Zone",
+  "n_chapters": 39,
+  "total_words": 82105
+ },
+ {
+  "book": "262 - Dr. Seuss and Philosophy - Oh, the Thinks You Can Think!",
+  "n_chapters": 29,
+  "total_words": 110473
+ },
+ {
+  "book": "263 - Stephen King and Philosophy",
+  "n_chapters": 22,
+  "total_words": 116086
+ },
+ {
+  "book": "264 - Jane Austen and Philosophy",
+  "n_chapters": 32,
+  "total_words": 88290
+ },
+ {
+  "book": "265 - Mark Twain and Philosophy",
+  "n_chapters": 30,
+  "total_words": 97089
+ },
+ {
+  "book": "268 - Food & Philosophy - Eat, Think, and Be Merry",
+  "n_chapters": 16,
+  "total_words": 34320
+ },
+ {
+  "book": "271 - Fatherhood – Philosophy for Everyone - The Dao of Daddy",
+  "n_chapters": 34,
+  "total_words": 83547
+ },
+ {
+  "book": "272 - Motherhood – Philosophy for Everyone - The Birth of Wisdom",
+  "n_chapters": 33,
+  "total_words": 88452
+ },
+ {
+  "book": "273 - Sailing – Philosophy for Everyone - Catching the Drift of Why We Sail",
+  "n_chapters": 28,
+  "total_words": 78953
+ },
+ {
+  "book": "274 - Coffee – Philosophy for Everyone - Grounds for Debate",
+  "n_chapters": 34,
+  "total_words": 96292
+ },
+ {
+  "book": "275 - Hunting – Philosophy for Everyone - In Search of the Wild Life",
+  "n_chapters": 35,
+  "total_words": 99789
+ },
+ {
+  "book": "277 - Porn – Philosophy for Everyone - How to Think With Kink",
+  "n_chapters": 37,
+  "total_words": 98898
+ },
+ {
+  "book": "278 - Fashion – Philosophy for Everyone - Thinking with Style",
+  "n_chapters": 28,
+  "total_words": 85402
+ },
+ {
+  "book": "279 - Christmas – Philosophy for Everyone - Better Than a Lump of Coal",
+  "n_chapters": 35,
+  "total_words": 94091
+ },
+ {
+  "book": "280 - Gardening – Philosophy for Everyone - Cultivating Wisdom",
+  "n_chapters": 32,
+  "total_words": 92679
+ },
+ {
+  "book": "281 - Cannabis – Philosophy for Everyone - What Were We Just Talking About_",
+  "n_chapters": 33,
+  "total_words": 94255
+ },
+ {
+  "book": "282 - Climbing – Philosophy for Everyone - Because It's There",
+  "n_chapters": 33,
+  "total_words": 93933
+ },
+ {
+  "book": "283 - Tattoos – Philosophy for Everyone - I Ink, Therefore I Am",
+  "n_chapters": 37,
+  "total_words": 104757
+ },
+ {
+  "book": "284 - College Sex – Philosophy for Everyone - Philosophers With Benefits",
+  "n_chapters": 22,
+  "total_words": 93359
+ },
+ {
+  "book": "285 - Serial Killers – Philosophy for Everyone - Being and Killing",
+  "n_chapters": 34,
+  "total_words": 86730
+ },
+ {
+  "book": "286 - Yoga – Philosophy for Everyone - Bending Mind and Body",
+  "n_chapters": 34,
+  "total_words": 88283
+ },
+ {
+  "book": "287 - Blues – Philosophy for Everyone - Thinking Deep About Feeling Low",
+  "n_chapters": 33,
+  "total_words": 89248
+ },
+ {
+  "book": "288 - Dating – Philosophy for Everyone - Flirting With Big Ideas",
+  "n_chapters": 32,
+  "total_words": 95070
+ },
+ {
+  "book": "289 - Horror and Philosophy - Essays on Their Intersection in Film, Television and Literature",
+  "n_chapters": 24,
+  "total_words": 106532
+ },
+ {
+  "book": "297 - The Philosopher at the End of the Universe - Philosophy Explained Through Science Fiction Films",
+  "n_chapters": 18,
+  "total_words": 81323
+ },
+ {
+  "book": "298 - The Philosophy of Tolkien - The Worldview Behind The Lord of the Rings",
+  "n_chapters": 35,
+  "total_words": 83520
+ },
+ {
+  "book": "300 - Who Is Who_ The Philosophy of Doctor Who",
+  "n_chapters": 17,
+  "total_words": 81666
+ },
+ {
+  "book": "301 - Comics as Philosophy",
+  "n_chapters": 8,
+  "total_words": 102991
+ },
+ {
+  "book": "303 - Philosophy and the Interpretation of Pop Culture",
+  "n_chapters": 21,
+  "total_words": 115661
+ },
+ {
+  "book": "304 - Introducing Philosophy Through Pop Culture - From Socrates to South Park, Hume to House",
+  "n_chapters": 53,
+  "total_words": 169752
+ },
+ {
+  "book": "308 - The Palgrave Handbook of Popular Culture as Philosophy",
+  "n_chapters": 102,
+  "total_words": 1097048
+ },
+ {
+  "book": "310 - The Real Meaning of Doctor Who",
+  "n_chapters": 23,
+  "total_words": 52684
+ }
+]

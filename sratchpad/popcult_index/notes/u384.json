@@ -1,0 +1,106 @@
+{
+  "book": "265 - Mark Twain and Philosophy",
+  "unit": "u384",
+  "chapters": [
+    {
+      "n": 20,
+      "file": "ch20 - Chapter 9 Twain\u2019s Critique of Human Exceptionalism.md",
+      "kind": "chapter",
+      "philosophers": ["singer", "bentham", "descartes", "montaigne", "regan"],
+      "concepts": ["speciesism", "anthropocentrism", "animal-liberation", "animal-rights"],
+      "relation": "VanDette argues that Twain's late anti-vivisection writings anticipate posthumanist animal ethics by inverting the Darwinian species hierarchy. Through 'Letters from a Dog,' the essay 'Man's Place in the Animal World,' his 1899 London Anti-Vivisection Society letter, and the mother-dog narrator Aileen in 'A Dog's Tale,' Twain gives animals voice and subjectivity to attack human exceptionalism. His refusal to weigh vivisection's benefit against animal pain echoes Bentham's 'Can they suffer?', while his target is the Cartesian view of animals as insensible machines and the evolutionary logic used to justify experiments; Dr. Gray's cold killing of Aileen's puppy indicts a science that deadens compassion."
+    },
+    {
+      "n": 21,
+      "file": "ch21 - Part IV Literary Devices.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 22,
+      "file": "ch22 - Chapter 10 Mark Twain\u2019s Serious Humor and That Peculiar Institution.md",
+      "kind": "chapter",
+      "philosophers": ["sartre", "beauvoir", "schopenhauer", "hume", "socrates", "democritus", "russell"],
+      "concepts": ["existentialism", "bad-faith", "problem-of-evil", "skepticism"],
+      "relation": "Kramer argues, against Davenport, that Twain can be simultaneously serious and funny, using humor to attack the 'spirit of seriousness'\u2014the dogmatic certitude and epistemic closure Sartre and Beauvoir describe\u2014rather than sincerity itself. Drawing on Schopenhauer's account of seriousness and Beauvoir's remark that the mystified slave takes his condition as natural, Kramer shows Twain's satire of Christianity ('Little Bessie,' 'Letters from the Earth,' the anti-adultery commandment, the Philippines massacre) exposing the incongruity between professed omnibenevolence and real suffering. Like Democritus the 'laughing philosopher' and a Socratic ironist, Twain undermines complacent certainty without offering dogmatic Truth in its place."
+    },
+    {
+      "n": 23,
+      "file": "ch23 - Chapter 11 Socratic Irony in Twain\u2019s Skeptical Religious Jeremiads.md",
+      "kind": "chapter",
+      "philosophers": ["socrates"],
+      "concepts": ["socratic-ignorance", "socratic-method", "skepticism"],
+      "relation": "Jacquette demands a precise definition of Twain's much-invoked irony, adopting Vlastos's/Quintilian's formula that irony says the contrary of what is meant while letting the real meaning be recovered. He classifies Twain's irony as local vs. global and comic vs. sober (tragic/historical): 'Personal Recollections of Joan of Arc' is globally ironic (falsely presented as de Conte's eyewitness manuscript), while the relic-mocking passages of 'The Innocents Abroad' (St. Luke's Madonna, kegs of true-cross nails, three skulls of John the Baptist) are local comic irony. Jacquette concludes Twain's irony is distinctively Socratic: like Socrates interpreting the Delphic oracle, Twain makes a moral and epistemic virtue of ridiculing experts who claim to know what no one can know about God, sin, and the afterlife."
+    },
+    {
+      "n": 24,
+      "file": "ch24 - Part V Comparison to Other Philosophers.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 25,
+      "file": "ch25 - Chapter 12 The American Diogenes.md",
+      "kind": "chapter",
+      "philosophers": ["diogenes-cynic", "epicurus", "socrates"],
+      "concepts": ["cynicism", "epicurean-death", "stoic-cosmopolitanism"],
+      "relation": "Johnson argues Twain is best understood not as a religious skeptic but as an 'American Diogenes'\u2014a Cynic of Christianity-as-practiced. As Diogenes 'defaced the coinage' to remove counterfeit customs, Twain uses 'sacred profanity' (honest, even profane speech that exposes phony piety, e.g. the swearing butcher, Satanic narrators in 'The Mysterious Stranger' and 'Letters from the Earth') to strike four counterfeit coins: superstition/special providence, hypocrisy, artificial 'Moral Sense'/conscience, and heavenly rewards. On death Twain matches Diogenes and Epicurus (annihilation is nothing to fear), and his self-description as 'Member at Large for the Human Race' mirrors Diogenes the cosmopolitan; Diogenes carries a lantern to find a real human, Twain a mirror to show we are worse than we think."
+    },
+    {
+      "n": 26,
+      "file": "ch26 - Chapter 13 An Epicurean Consideration of Superstitions in Mark Twain and in the Good Life.md",
+      "kind": "chapter",
+      "philosophers": ["epicurus", "lucretius", "nussbaum"],
+      "concepts": ["epicurean-death", "epicurean-pleasure", "virtue-ethics", "aristotle-eudaimonia"],
+      "relation": "Baker reads Twain's ghost stories and superstition through Epicurean virtue ethics, which holds that false beliefs\u2014above all the terror of death\u2014breed empty desires that block eudaimonia. Citing Twain's Autobiography passage that 'annihilation has no terrors for me' as a near-verbatim Epicurean line, and using Lucretius and Nussbaum's 'Therapy of Desire,' she aligns Huck's disdain for a useless conscience and his rejection of wealth ('being rich ain't what it's cracked up to be') with the Epicurean pursuit of simple natural pleasures. She notes a tension: by making tall-tale-telling and Sunday-school-shirking so enjoyable, Twain the satirist spreads the very superstitions the Epicureans would eradicate, seeming to work at cross-purposes with them."
+    },
+    {
+      "n": 27,
+      "file": "ch27 - Chapter 14 Moral Value and Moral Psychology in Twain\u2019s \u201cCarnival of Crime\u201d.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche", "hume"],
+      "concepts": ["master-slave-morality", "hume-sentimentalism", "moral-psychology", "ubermensch"],
+      "relation": "Boardman treats Twain's 'The Facts Concerning the Recent Carnival of Crime in Connecticut'\u2014in which a narrator kills his personified conscience (a shabby dwarf) and gleefully commits a spree of crimes\u2014as staging an 'exasperating metaphysical question' about the value and psychology of morality. On a Nietzschean reading the narrator becomes an Overman revaluing values, seeing conscience as the internalized lie of slave morality; on a Humean reading conscience is moral feeling (not reason), so once it is destroyed the narrator can still reason about right yet has no motive to act morally, illustrating the oak-tree and willful-murder arguments that vice lies in sentiment, not relations or facts. Boardman concludes both interpretations fit yet neither settles whether Twain endorses or lampoons the result\u2014our horror at the crimes is what makes the story funny."
+    },
+    {
+      "n": 28,
+      "file": "ch28 - Chapter 15 Making the Heart Grow Fonder.md",
+      "kind": "chapter",
+      "philosophers": ["kierkegaard"],
+      "concepts": ["subjective-truth"],
+      "relation": "Dueck reads Twain's 'Life on the Mississippi'\u2014where mastering the river as a pilot drains away its beauty, like a doctor who sees a face as a medical case\u2014through Edward Bullough's aesthetic principle of 'psychical distance,' the balance between under-distancing (practical absorption) and over-distancing (cold abstraction) that makes experience aesthetic. He argues knowledge need not kill wonder if we re-establish distance, and that Twain's fiction ('Tom Sawyer,' 'Huckleberry Finn,' 'The Prince and the Pauper,' 'A Connecticut Yankee') itself creates the right distance. He links this to Kierkegaard's 'indirect communication': humor, irony and story convey existential, subjective truth that the reader must 'undo the knot' to grasp, so that distance makes the heart grow fonder and the mind wiser."
+    },
+    {
+      "n": 29,
+      "file": "ch29 - Notes.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 30,
+      "file": "ch30 - About the Editor and Contributors.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": [
+    {
+      "ch": 28,
+      "type": "concept",
+      "suggested_slug": "psychical-distance",
+      "name": "Psychical Distance",
+      "philosopher": "",
+      "domain": "mind-language-metaphysics",
+      "what": "Edward Bullough's aesthetic principle that genuine aesthetic experience requires a filtered 'distance' balanced between practical under-distancing and abstract over-distancing.",
+      "why": "Chapter 15's entire argument turns on Bullough's psychical distance as the criterion of aesthetic experience, and the taxonomy has no aesthetics concept that captures it (kant-aesthetics is specifically Kant's judgment of taste and the sublime, which the chapter does not apply)."
+    }
+  ]
+}

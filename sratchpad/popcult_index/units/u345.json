@@ -1,0 +1,106 @@
+{
+ "unit": "u345",
+ "book": "237 - The Philosophy of the Western",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\237 - The Philosophy of the Western",
+ "range": [
+  1,
+  16
+ ],
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Front 1.md",
+   "words": 295
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Title Page.md",
+   "words": 23
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Copyright Page.md",
+   "words": 171
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Contents.md",
+   "words": 294
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Introduction Philosophy and the Western.md",
+   "words": 3669
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Part 1 The Cowboy Way The Essence of the Western Hero.md",
+   "words": 13
+  },
+  {
+   "n": 7,
+   "file": "ch07 - \u201cDo Not Forsake Me, Oh, My Darling\u201d Loneliness and Solitude in Westerns.md",
+   "words": 7285
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Civilization and Its Discontents The Self-Sufficient Western Hero.md",
+   "words": 10181
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Mommas, Don't Let Your Babies Grow Up to Be Pragmatists.md",
+   "words": 6468
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Two Ways to Yuma Locke, Liberalism, and Western Masculinity in 3 10 to Yuma.md",
+   "words": 8122
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Landscapes of Gendered Violence Male Love and Anxiety on the Railroad.md",
+   "words": 8898
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Part 2 The Code of the West The Cowboy and Society.md",
+   "words": 13
+  },
+  {
+   "n": 13,
+   "file": "ch13 - \u201cOrder Out of the Mud\u201d Deadwood and the State of Nature.md",
+   "words": 10656
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Order without Law The Magnificent Seven, East and West.md",
+   "words": 3912
+  },
+  {
+   "n": 15,
+   "file": "ch15 - From Dollars to Iron The Currency of Clint Eastwood's Westerns.md",
+   "words": 8200
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Duty of Reason Kantian Ethics in High Noon.md",
+   "words": 5639
+  }
+ ],
+ "content": [
+  1,
+  4,
+  5,
+  7,
+  8,
+  9,
+  10,
+  11,
+  13,
+  14,
+  15,
+  16
+ ]
+}

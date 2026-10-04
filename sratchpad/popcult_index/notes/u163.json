@@ -1,0 +1,246 @@
+{
+ "book": "100 - Batman, Superman, and Philosophy - Badass or Boyscout_",
+ "unit": "u163",
+ "chapters": [
+  {
+   "n": 25,
+   "file": "ch25 - 14. Who Watches the Justice League.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "popper"
+   ],
+   "concepts": [
+    "consequentialism"
+   ],
+   "relation": "Judged by negative consequentialism - the view the chapter attributes to Hume and Popper, that ethics means minimizing future suffering - Superman is the more ethical hero because he plans failsafes against himself: the gold Kryptonite vault he enters after killing Mr. Mxyzptlk in 'Whatever Happened to the Man of Tomorrow?', the de-powering device he entrusts to Batman in Injustice, even his own death as harm prevention. Batman's countermeasures against the League (Tower of Babel, Justice League: Doom) fall short because he builds no failsafe for himself, hiding behind 'My failsafe is the Justice League.' The chapter reads Superman's killing of Zod in Man of Steel and Bruce's compulsive detective work through Hume's claim that reason is the slave of the passions, concluding that Clark's willingness to enable his own defeat wins the ethical contest."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 15. Infinite Environmental Crisis.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "anthropocentrism",
+    "metabolic-rift"
+   ],
+   "relation": "Through a mock Lois Lane interview the chapter argues that Batman's endless Bat-vehicle upgrades and Wayne Enterprises' worldwide production repeat the 'metabolic rift' John Bellamy Foster developed from Marx: we take materials from the earth faster than we return them in a form it can process, generating an infinite chain of environmental crises. Superman looks like the winner because he runs on sunlight, yet Krypton died of its own ecological abuse, making him an 'environmental refugee' rather than a model. The real point is that 'we are all Bruce Wayne': humans cannot photosynthesize, so the choice is not Batman versus Superman but infinite consumption versus a balanced relationship with nature."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 16. You Made Me First.md",
+   "kind": "chapter",
+   "philosophers": [
+    "schopenhauer",
+    "william-james"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "will-to-believe"
+   ],
+   "relation": "The chapter argues that origin stories fix character: Batman, forged by watching his parents murdered (and in Burton's film by the Joker himself - 'You made me first'), is trapped by a past that sets his trajectory, since as Schopenhauer said we can do what we will but cannot will what we will. Kal-El's origin is instead an act of hope - his parents launch him into the universe believing the wildly unlikely - which the chapter reads through William James's will-to-believe, the same faith Bruce needs to jump the chasm unroped in The Dark Knight Rises. Because the past causes the future and 'I can do whatever I want' is not free will, Bruce can never escape his tragedy, while Superman's hopeful origin lets him believe, and make us believe, that we might yet fly."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Round Four Decision—Batman! It’s Always Darkest Before the Knight.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 17. Batman’s Mask in Aristotle’s Drama.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "plato"
+   ],
+   "concepts": [],
+   "relation": "Reading Batman through Aristotle's Poetics, the chapter argues the bat-mask is mimesis - a theatrical imitation that makes criminals imagine worse than he is, as when Batman bluffs the germophobic goon with a jar of 'crimson fever' in 'Feat of Clay,' and when his staged heart-attack death in The Dark Knight Returns lets him beat Superman with 'fists and thespianism.' Unmasked, Platonic Superman presents his true self - the Mirror of Truth cannot show Clark Kent - and wins trust, but Aristotle's pity, fear, and catharsis favor Batman, whose human limits create suspense about whether he will finally cross the line. Because the Batman is a repeatable performance - copied by the Sons of Batman, franchised in Batman Incorporated - he converts gang members and changes hearts and minds, an immortality the inimitable alien Superman can never achieve."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 18. Superman the Super Dick.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer",
+    "frankfurt"
+   ],
+   "concepts": [
+    "drowning-child",
+    "frankfurt-bullshit",
+    "supererogation"
+   ],
+   "relation": "Modeled on Harry Frankfurt's analysis of 'bullshit,' the chapter defines a 'dick' as someone who willfully disregards others' needs, and argues Superman qualifies: he lets crimes proceed while he works at the Daily Planet or hunts vending-machine change, although the SuperBat storyline (Superman/Batman #53-56) shows a briefly super-powered Batman clearing every city's crime in a single night. Applying Peter Singer's famine-and-affluence argument - the penny that saves a life, the ten-cent polio vaccine - the chapter contends that saving at little or no cost to oneself is obligatory rather than supererogatory, so Superman's convenience-first choices make him a 'Super Dick.' Batman, who risks his mortal life seeking out strangers to save, does what he can and therefore escapes the charge."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 19. Overpower versus Empowerment.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The chapter argues from game design that Superman is a poor video game hero because his built-in, all-or-nothing powers are too rigid: an overpowered character destroys the balance of challenge and skill that Csikszentmihaly calls flow, Kryptonite strips every ability at once rather than letting powers be lost and regained one by one as in Metroid, and no controller input can test the force of will - the 'heart of a hero' - that lets Superman unleash his strength. Batman's trainable skills, swappable equipment, and player-solvable investigations (with in-fiction help such as a Gordon tip-off) give designers flexible ways to empower the player, which is why the Arkham series thrives while good Superman games barely exist. A playable Clark Kent journalist mode is floated as the way designers could finally make an almighty hero worth playing."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - 20. What It Takes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rousseau"
+   ],
+   "concepts": [
+    "problem-of-evil"
+   ],
+   "relation": "The chapter argues Batman is the more heroic superhero because his heroism is supererogatory and replicable: like Wesley Autrey the Subway Samaritan rather than the duty-bound Captain Sullenberger, he acts beyond obligation with human abilities we could imitate, while Superman's alien powers make his help barely optional and himself impossible to emulate. It frames Batman as Bruce's answer to the problem of evil in Susan Neiman's secular version - Rachel Dawes's challenge that good people must 'do something' about Falcone's Gotham - siding with the Rousseau line that reason must make evil intelligible against Voltaire's refusal. Batman earns his 'super' by marshaling reason as well as wealth, like the cell-phone sonar he submits to Lucius Fox's veto in The Dark Knight, and his parting 'anyone can be a hero' to Gordon shows heroes begetting heroes, which Superman's otherworldliness never manages."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - 21. Batman Is Superman.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "ubermensch",
+    "apollonian-dionysian",
+    "eternal-recurrence",
+    "will-to-power"
+   ],
+   "relation": "The chapter argues that Bale's Batman, not the alien Superman, is Nietzsche's Übermensch: a mortal whose identity is forged in the unreconciled struggle between Dionysian emotion and Apollonian reason - vengeance against justice in Batman Begins - and who relives his traumas as Nietzschean eternal recurrence, from the bat-filled well to the prison leap of The Dark Knight Rises. The Joker is his dark double, whose will to power and ferry-boat experiment nearly extinguish Gotham's hope, but Batman absorbs the chaos and sacrifices his heroic name, whereas Superman in Injustice, losing Lois, falls into a vengeful Dionysian abyss he cannot master. Only a mortal who extends his limits without succumbing to the herd's 'gravity of madness' can be Nietzsche's superman, so the mortal, conflicted, imitable Batman is the true superman."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Post-Fight Analysis Superhero Truthers Speak Out!.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - 22. Unmasking the World and Its Heroes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates"
+   ],
+   "concepts": [
+    "plato-cave",
+    "socratic-ignorance"
+   ],
+   "relation": "Mapping both heroes onto Plato's cave, the chapter argues each must first see past shadows: Bruce abandons revenge on Joe Chill to change Gotham's whole idea of justice, its citizens climb out of apathy when the Dark Knight ferries refuse the Joker's detonators, and Clark needs Jonathan Kent ('It's not to score touchdowns') and Jor-El to learn what his powers are for. Socrates' Apology supplies the mask's rationale - the just man must lead a private life to survive, so secret identities protect loved ones from Luthor's kryptonite stabbing and FBI kidnapping - and Plato's warning that the returned cave-escapee would be killed explains why the heroes must lead by hope rather than force. The oracle story's lesson that wisdom is knowing that you know nothing grounds the close: anyone can be a hero, as Batman tells Gordon about the coat around a boy's shoulders."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - 23. I Fight Crime in My Sleep.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha",
+    "gandhi"
+   ],
+   "concepts": [
+    "four-noble-truths",
+    "buddhist-non-self",
+    "buddhist-impermanence",
+    "buddhist-karma"
+   ],
+   "relation": "Staged as a Fight Club parody in which a Buddhist psychiatrist, Dr. Quinzel, evaluates a costumed narrator sent to Arkham, the chapter argues neither hero is close to awakening: Batman's crime-fighting is craving that perpetuates dukkha, his secret identities a twice-constructed self that the Buddha's no-self teaching dissolves, and his violence fails the test that 'hostility is never appeased by hostility.' Superman fares no better - his super-intellect imposes illusory order on impermanence, his flight and X-ray vision are distractions beside the Buddha-eye and tapas, and as one of the titans of the six realms he is further from Buddhahood than a human - while the doctor defines justice as karma rather than retaliation and finds Batman one step from American Psycho's Bateman. Only conquering Mara, one's own inner deceiver, is 'the only superpower worth having,' and the closing reveal that the doctor has a plan of her own for 'Mr. Kent' caps the diagnosis."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - 24. The Fifty-Third Card.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "drowning-child",
+    "moral-luck"
+   ],
+   "relation": "Writing as the Joker playing 'the fifty-third card,' the chapter trashes both heroes at once: Superman is an attention-starved show-off who could save people invisibly but wants worship, and Batman is a billionaire who pours his fortune into toys and beatings while thousands of children die for want of the charity he could give. The real punchline is our hypocrisy: we are only as moral as our circumstances allow (born in the ghetto we would steal too), we mourn pets while eating smarter pigs and buying chocolate picked by child slaves, and in The Dark Knight's ferry scene everyone would really have pushed the button - since choosing not to help kills as surely as detonating, 'we kill every day.' The only honest hero would drop moral pretense, do what he genuinely thinks right, and remind us that under the skin we are all clowns laughing as the world burns."
+  },
+  {
+   "n": 38,
+   "file": "ch38 - References.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 39,
+   "file": "ch39 - Rogues Gallery.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 40,
+   "file": "ch40 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 41,
+   "file": "ch41 - 290.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 42,
+   "file": "ch42 - 291.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "metabolic-rift",
+   "name": "Metabolic Rift",
+   "philosopher": "marx",
+   "domain": "environment-animal",
+   "what": "Marx's term (revived by John Bellamy Foster) for the rupture capitalism tears in the material exchange between human society and nature - depleting soils and piling up waste faster than the earth can process it.",
+   "why": "Chapter 15's entire diagnosis of Batman's gadgets and Wayne Enterprises as an 'infinite environmental crisis' is built on the metabolic rift, which no existing taxonomy slug covers."
+  },
+  {
+   "ch": 29,
+   "type": "concept",
+   "suggested_slug": "mimesis-catharsis",
+   "name": "Mimesis and Catharsis (Poetics)",
+   "philosopher": "aristotle",
+   "domain": "ancient",
+   "what": "Aristotle's account in the Poetics of drama as imitation (mimesis) of human action that arouses pity and fear and purges them in catharsis.",
+   "why": "Chapter 17's whole argument is that Batman is a mimetic performance producing suspense and catharsis while Superman is transparent self-presentation, and the taxonomy has no Poetics slug."
+  },
+  {
+   "ch": 30,
+   "type": "concept",
+   "suggested_slug": "supererogation",
+   "name": "Supererogation (beyond the call of duty)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The category of acts that are praiseworthy and good yet beyond what morality obliges, introduced by J.O. Urmson's 'Saints and Heroes'.",
+   "why": "Chapter 18 turns on whether Superman's life-saving is obligatory or supererogatory and chapter 20 makes supererogation the test of true heroism, but no taxonomy slug names the concept."
+  },
+  {
+   "ch": 31,
+   "type": "concept",
+   "suggested_slug": "flow",
+   "name": "Flow (optimal experience)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Csikszentmihaly's state of optimal experience, reached when an activity's challenge is balanced with the doer's skill, between boredom and anxiety.",
+   "why": "Chapter 19 explains why Superman games fail and Batman games succeed entirely through keeping players in flow, which an overpowered hero destroys."
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "unit": "u146",
+ "book": "090 - Dracula and Philosophy - Dying to Know",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\090 - Dracula and Philosophy - Dying to Know",
+ "range": [
+  24,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 24,
+   "file": "ch24 - Dracula and Philosophy.md",
+   "words": 3462
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Dracula and Philosophy.md",
+   "words": 4040
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Dracula and Philosophy.md",
+   "words": 5
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Dracula and Philosophy.md",
+   "words": 3407
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Dracula and Philosophy.md",
+   "words": 3985
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Dracula and Philosophy.md",
+   "words": 4270
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Dracula and Philosophy.md",
+   "words": 3945
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Dracula and Philosophy.md",
+   "words": 3304
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Dracula and Philosophy.md",
+   "words": 5
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Dracula and Philosophy.md",
+   "words": 4461
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Dracula and Philosophy.md",
+   "words": 3623
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Dracula and Philosophy.md",
+   "words": 4847
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Dracula and Philosophy.md",
+   "words": 4259
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Dracula and Philosophy.md",
+   "words": 739
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Dracula and Philosophy.md",
+   "words": 1276
+  },
+  {
+   "n": 39,
+   "file": "ch39 - Dracula and Philosophy.md",
+   "words": 444
+  }
+ ],
+ "content": [
+  24,
+  25,
+  27,
+  28,
+  29,
+  30,
+  31,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39
+ ]
+}

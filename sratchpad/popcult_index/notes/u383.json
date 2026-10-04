@@ -1,0 +1,103 @@
+{
+ "book": "265 - Mark Twain and Philosophy",
+ "unit": "u383",
+ "chapters": [
+  {
+   "n": 8,
+   "file": "ch08 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["moral-psychology", "problem-of-evil"],
+   "relation": "Alan Goldman's editorial introduction previews the volume's essays, framing Twain as a serious philosopher hidden behind humor and irony. It lays out the Huckleberry Finn debate over whether Huck's refusal to turn in Jim is weak-willed conscience versus reason-bearing sympathy (Bennett, Goldman, Fudge, Lyons, Gehrman), then Twain's late attacks on religion via Letters from the Earth and the problem of evil, plus essays on lying, animal rights, humor, and comparisons to Diogenes, the Epicureans, Nietzsche, and Hume. It treats these as genuine philosophical stakes drawn from Twain's fiction and late writings."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Part I Morality in Huckleberry Finn.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Chapter 1 The Conscience of Huckleberry Finn.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["moral-psychology", "moral-relativism"],
+   "relation": "Jonathan Bennett reads the chapter 16 raft episode as a clash between 'bad morality' and sympathy: Huck's conscience (slave-owning principles telling him to return Jim to Miss Watson) supplies all the reasons, while his sympathy for Jim is a bare, reasonless feeling that wins by weakness of will, so Huck does right while believing he does wrong. He contrasts Huck with Himmler, whose bad morality overrode his surviving sympathy, and Jonathan Edwards, whose Calvinist approval of eternal damnation left no sympathy to conflict. The lesson is that principles should be kept open to revision under pressure from sympathy, since one cannot declare one's own morality bad but should stay open to correction."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Chapter 2 Huckleberry Finn and Moral Motivation.md",
+   "kind": "chapter",
+   "philosophers": ["kant"],
+   "concepts": ["moral-psychology", "hume-sentimentalism"],
+   "relation": "Alan Goldman argues against Bennett and against Arpaly and Schroeder that Huck is not weak-willed or irrational: his sympathy for Jim is an intentional emotion containing implicit judgments and awareness of the genuine moral reasons to help Jim, so Huck acts on his strongest reasons and is courageous rather than akratic. Because Huck is rational yet not motivated by his explicit (corrupt) moral judgments, and his real motivation comes only through emotional attachment, Goldman concludes against Kant that moral motivation is not rationally required. He uses Huck's failure to extend concern to other slaves, and analogies to meat-eaters and arbitrary aesthetic taste, to show moral inconsistency is not practical irrationality."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Chapter 3 Sympathy, Principles, and Conscience.md",
+   "kind": "chapter",
+   "philosophers": ["adam-smith"],
+   "concepts": ["impartial-spectator", "moral-psychology"],
+   "relation": "Robert Fudge uses Adam Smith to reinterpret Huck's conscience and praiseworthiness. Against Bennett (conscience as accepted principles) and Arpaly-Schroeder (inverse akrasia via a whole-self theory), Fudge argues, following Smith, that conscience is the sentiment-based judgment of the 'man within the breast,' the impartial spectator, and that propriety rests on sympathetic 'feeling with' others rather than abstract principle. Huck's sympathy for Jim in the chapter 16 raft scene is a reason-bearing emotion, so he is not acting akratically or against his true conscience; instead he is growing morally, molding his conscience toward the loyalty and friendship that already constitute his core self."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Chapter 4 Huckleberry Finn\u2019s Struggle between Sympathy and Moral Principle Reconsidered.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["moral-psychology", "consequentialism"],
+   "relation": "Michael Lyons defends the 'pedestal' of moral principles against Bennett's chapter 16 reading. He accepts that sympathy rightly saved Jim and that Edwards's principled cruelty and Himmler's suppressed sympathy show principles must be revisable, but rejects the stronger claim that sympathy should override conduct while leaving conflicting principles intact. Reconstructing Bennett's argument into 'stronger' and 'adjusted' versions, Lyons argues principles remain the best primary guide once corrected by sympathy, and that Twain shows Huck retaining a natural, humanity-grounded morality even after rejecting society's 'deformed conscience.' He prizes incorruptibility, sticking to correct principles, as the mark of the highest heroism Huck could aspire to."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Chapter 5 Twain\u2019s Last Laugh.md",
+   "kind": "chapter",
+   "philosophers": ["aristotle", "socrates", "naess"],
+   "concepts": ["socratic-method", "aristotle-virtue-ethics", "double-consciousness"],
+   "relation": "Kristina Gehrman argues that reading Huck as a moral hero who overcomes racism is Twain's ironic trap. Using Arne Naess's idea of identification, Aristotle on habituation of character, and Iris Murdoch's 'just and loving attention,' she gives a developmentally attuned reading of Huck as a traumatized, morally immature, still-racist child whose regard for Jim never generalizes ('I knowed he was white inside'). Twain lures his white readers into identifying with Huck's supposed triumph, then exposes their own stunted moral growth about race; Jim is the only mature adult yet is barred from identification by the novel's racist caricature. The novel's greatness is Socratic and gadfly-like rather than triumphant."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Part II Twain on Religion.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Chapter 6 The Gospel According to Mark (Twain).md",
+   "kind": "chapter",
+   "philosophers": ["nietzsche", "socrates", "hume"],
+   "concepts": ["faith-vs-reason", "unexamined-life", "problem-of-evil"],
+   "relation": "Craig Vasey reads Twain's Letters from the Earth, narrated by a skeptical Satan, as a defense of critical thinking rather than the ranting of a bitter old man. He unpacks Satan's mockery of a self-understanding in which God obsesses over and demands worship from humans, a sexless harp-playing Heaven, and the punishment of curious, ignorant Adam and Eve, echoing Hume's catalogue of suffering (the fly as 'divine ambassador'). Invoking Nietzsche on life-after-death as vengeance dressed as love, and Socrates' 'unexamined life,' Vasey argues Twain's real target is human gullibility and willful childishness, calling humanity to grow up, think, and take responsibility instead of scapegoating a celestial fantasy."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Chapter 7 Mark Twain and the Problem of Evil.md",
+   "kind": "chapter",
+   "philosophers": ["camus", "augustine", "hume", "plotinus"],
+   "concepts": ["problem-of-evil", "camus-revolt", "fate-vs-free-will"],
+   "relation": "James McLachlan casts Twain (via The Mysterious Stranger, Letters from the Earth, and the Adam and Eve diaries) as Camus's 'metaphysical rebel': not simply an atheist but a blasphemer who indicts a Calvinist God who predestines, creates disease, and damns most of humanity, then is called 'Our Father.' He lays out the Epicurus/Hume statement of the problem of evil and Griffin's notion of 'genuine evil' (dysteleological surds), then the aesthetic defense from Plotinus and Augustine that all suffering serves the beauty of the whole. Twain rejects that defense with empirical facts of suffering (Eve's 'Fact' beats Adam's logic), and locates real love not in God but in Adam and Eve's earthly bond after the Fall."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Part III Moral Issues.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Chapter 8 The Noble Art of Lying.md",
+   "kind": "chapter",
+   "philosophers": ["mill", "bentham"],
+   "concepts": ["utilitarianism", "applied-ethics"],
+   "relation": "James Edwin Mahon reconstructs Twain's two essays on lying ('On the Decay of the Art of Lying' and 'My First Lie') into a philosophy of lying. Twain holds that everyone lies constantly, that lying need not be spoken or deceptive (the 'silent lie,' nondeceptive polite lies, acts as lies, and 'modified' lies/palters), and that the gravest lies are the 'silent National Lies' such as the collective silence that slavery was not unjust. Mahon shows Twain's ethics of lying is broadly utilitarian and Rossian: guided by nonmaleficence and beneficence, an injurious truth is no better than an injurious lie, and self-sacrificing lies that help others are virtuous, so lying should be practiced as a cultivated art."
+  }
+ ],
+ "holes": []
+}

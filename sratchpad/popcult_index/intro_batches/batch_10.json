@@ -1,0 +1,107 @@
+[
+ {
+  "key": "phil:william-james",
+  "name": "William James",
+  "kind": "philosopher",
+  "dates": "1842–1910",
+  "domain": "Pragmatism & American Philosophy"
+ },
+ {
+  "key": "phil:dewey",
+  "name": "John Dewey",
+  "kind": "philosopher",
+  "dates": "1859–1952",
+  "domain": "Pragmatism & American Philosophy"
+ },
+ {
+  "key": "phil:rorty",
+  "name": "Richard Rorty",
+  "kind": "philosopher",
+  "dates": "1931–2007",
+  "domain": "Pragmatism & American Philosophy"
+ },
+ {
+  "key": "phil:addams",
+  "name": "Jane Addams",
+  "kind": "philosopher",
+  "dates": "1860–1935",
+  "domain": "Pragmatism & American Philosophy"
+ },
+ {
+  "key": "phil:emerson",
+  "name": "Ralph Waldo Emerson",
+  "kind": "philosopher",
+  "dates": "1803–1882",
+  "domain": "Pragmatism & American Philosophy"
+ },
+ {
+  "key": "phil:thoreau",
+  "name": "Henry David Thoreau",
+  "kind": "philosopher",
+  "dates": "1817–1862",
+  "domain": "Pragmatism & American Philosophy"
+ },
+ {
+  "key": "phil:wollstonecraft",
+  "name": "Mary Wollstonecraft",
+  "kind": "philosopher",
+  "dates": "1759–1797",
+  "domain": "Feminist, Gender & Race Philosophy"
+ },
+ {
+  "key": "phil:friedan",
+  "name": "Betty Friedan",
+  "kind": "philosopher",
+  "dates": "1921–2006",
+  "domain": "Feminist, Gender & Race Philosophy"
+ },
+ {
+  "key": "phil:firestone",
+  "name": "Shulamith Firestone",
+  "kind": "philosopher",
+  "dates": "1945–2012",
+  "domain": "Feminist, Gender & Race Philosophy"
+ },
+ {
+  "key": "phil:butler",
+  "name": "Judith Butler",
+  "kind": "philosopher",
+  "dates": "b. 1956",
+  "domain": "Feminist, Gender & Race Philosophy"
+ },
+ {
+  "key": "phil:hooks",
+  "name": "bell hooks",
+  "kind": "philosopher",
+  "dates": "1952–2021",
+  "domain": "Feminist, Gender & Race Philosophy"
+ },
+ {
+  "key": "phil:mackinnon",
+  "name": "Catharine MacKinnon",
+  "kind": "philosopher",
+  "dates": "b. 1946",
+  "domain": "Feminist, Gender & Race Philosophy"
+ },
+ {
+  "key": "phil:frye",
+  "name": "Marilyn Frye",
+  "kind": "philosopher",
+  "dates": "b. 1941",
+  "domain": "Feminist, Gender & Race Philosophy"
+ },
+ {
+  "key": "phil:young",
+  "name": "Iris Marion Young",
+  "kind": "philosopher",
+  "dates": "1949–2006",
+  "domain": "Feminist, Gender & Race Philosophy"
+ },
+ {
+  "key": "phil:crenshaw",
+  "name": "Kimberlé Crenshaw",
+  "kind": "philosopher",
+  "dates": "b. 1959",
+  "domain": "Feminist, Gender & Race Philosophy"
+ }
+]

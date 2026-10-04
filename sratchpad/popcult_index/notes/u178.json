@@ -1,0 +1,306 @@
+{
+ "book": "115 - Iron Man vs. Captain America and Philosophy - Give Me Liberty or Keep Me Safe",
+ "unit": "u178",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Iron Man vs. Captain America and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - A House Divided . ..md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editors' introduction frames the whole book around one question: not just which hero would win, but who is right, Iron Man or Captain America. It argues the matchup terrifies and fascinates because both are our good guys - Stark the test of whether we can love a ragingly selfish capitalist, Rogers the wartime-propaganda patriot who punched Hitler - and their Civil War clash stages every American's internal war between safety and freedom."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - I. Iron Man Wins.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 1. How to Fail at Almost Everything and Still Be a Hero.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Malloy argues Iron Man is the better hero precisely because he fails constantly - Armor Wars, the Registration Act, alcoholism, a string of collapsed Stark companies - while Steve Rogers was born heroic and never stumbles. Using Aristotle's doctrine of the mean, he treats perseverance as a virtue between cowardly quitting and Cap's stubborn excess (his doomed stand against Thanos in Infinity Gauntlet), and separates Tony's virtuous perseverance from Dr. Doom's identical behavior by its motives: Tony honestly examines his failures to help people, while Doom only looks for someone to blame."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 2. Just Not the Hero Type (Not!).md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "problem-of-evil",
+    "supererogation"
+   ],
+   "relation": "McCrossin builds a six-part definition of heroism (moral, altruistic, atypical, supererogatory, replicable safeguarding) and tests it on Wesley Autrey versus Captain Sullenberger and a Super Autrey thought experiment: Iron Man's engineering-based feats are refinements of abilities we share and so inspire imitation, while there can only ever be one Captain America, making Tony the more heroic. The Sokovia Accords debate then contrasts two humilities, with Stark's willingness to accept oversight more heroic than Rogers' safest-hands-are-our-own confidence. The chapter closes by explaining why we invent super heroes at all through Susan Neiman's account of the problem of evil after twentieth-century atrocities, from the Stamford explosion to Charlie Spencer's death in Lagos."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 3. Will the Real American Hero Please Stand Up.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "adam-smith"
+   ],
+   "concepts": [
+    "locke-natural-rights",
+    "locke-labor-property",
+    "invisible-hand"
+   ],
+   "relation": "Samuelson argues Tony Stark is the real American hero because he embodies the Locke-to-Smith lineage of American values - natural rights, property from mixing labor, free trade and the invisible hand, plus Smithian sympathy - carried forward into twenty-first-century neoliberalism, from Stark Industries to backing the Registration Act. Steve, by contrast, keeps abandoning the Captain America identity (Nomad after the Secret Empire, The Captain under Nuke's government, handing the shield to Bucky and Sam Wilson) whenever America betrays the dream, and admits his true fight is against bullies and for human rights everywhere. Hence Cap is a great hero but not strictly an American one, while Tony lives American values practically, warts and all."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 4. He’s a Hero in a Bottle, Baby.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "master-slave-morality",
+    "ubermensch",
+    "ressentiment"
+   ],
+   "relation": "Insooks deploys Nietzsche to argue Iron Man is the better hero: Cap's prized humility and relatability are sheep morality, the resentful herd value that drags the excellent down to average (as when society savored the Olympic swimmer's fall), while Tony honestly owns his superiority and keeps self-overcoming, building ever-better suits rather than resting on a serum gifted in a bottle. On this view Cap's manufactured modesty insults people who genuinely struggle, and the true super hero inspires from the mountaintop - build yourself a suit and get up here - instead of pretending to be just like us."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 5. Why the Good Man Is a Great Leader.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-friendship",
+    "aristotle-practical-wisdom",
+    "aristotle-golden-mean"
+   ],
+   "relation": "Nisley reads Civil War through Aristotle's good man and good leader: Cap shows courage but lacks temperance and practical wisdom - his rash Lagos operation, his rage-borne beating of Tony, his choice of Bucky over the Avengers' common end - and his ceaseless struggle between passion and reason falls short of virtue. Applying Aristotle's account of philia, she argues the Avengers are a friendship of the virtuous that requires deliberation toward justice, which Cap dissolves by tearing the team apart, while Tony's reasoned acceptance of UN oversight, moderation after Ultron, and concern for the whole team make him the good man fit to lead."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 6. Who’s the Better Friend.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "derrida",
+    "nietzsche"
+   ],
+   "concepts": [
+    "aristotle-friendship",
+    "democracy-theory"
+   ],
+   "relation": "Bowman sorts Marvel relationships through Aristotle's three friendships: Ant-Man's starstruck alliance is friendship of pleasure, Obadiah Stane's partnership with Tony a toxic friendship of utility, and Steve's bond with Bucky a friendship of virtue that loves without reciprocity - making Cap better TO his friends, though saving Bucky endangers everyone else. Turning to Derrida's Politics of Friendship, where fraternity grounds democratic equality among all persons, he argues Tony's refusal to privilege any individual over mankind makes him better FOR his friends. The Civil War split thus replays the old tension between personal autonomy and responsibility to humanity, at the destructive scale only super-powered friends can achieve."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - II. Cap Wins.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 7. How Captain America and Iron Man Embody America.md",
+   "kind": "chapter",
+   "philosophers": [
+    "macintyre",
+    "nussbaum"
+   ],
+   "concepts": [
+    "cosmopolitanism-ethics",
+    "macintyre-tradition"
+   ],
+   "relation": "Altmann contrasts Tony's individualist cosmopolitanism - privatizing world peace, building Ultron alone - with Steve's community-rooted patriotism, the team player from war bonds through the Howling Commandos to Winter Soldier. Using Scruton's definition of patriotism as standing or falling together, MacIntyre's claim that morality grows only within a particular community, and Nussbaum's suggestion to be a patriot first and grow into a cosmopolitan, he concludes Cap's thoughtful patriotism is morally preferable while Tony's globe-saving individualism keeps backfiring. The best American would combine Tony's concern for the whole Earth with Steve's love of neighbor, so no civil war is needed."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 8. Believing the Impossible in a World of Compromise.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard"
+   ],
+   "concepts": [
+    "leap-of-faith",
+    "kierkegaard-stages",
+    "teleological-suspension"
+   ],
+   "relation": "Brake maps Kierkegaard's spheres onto the rivals: Tony inhabits the ethical sphere of universal reason and compromise (Ross's 'that's how the world works', the tragic hero choosing lesser evils), while Steve lives the religious sphere of faith in the impossible - 'my faith's in people'. Through Fear and Trembling's Abraham, the comic Civil War (Tony manipulating Spider-Man, Steve's Japanese-internment warning), and Hickman's incursions where Steve alone tells the calculating Illuminati to believe, he argues a hero is judged by how he begins in faith, not by results. Steve's trust that the world can be saved 'by the absurd' is vindicated when Secret Wars restores the multiverse, and his simple 'I believe you' rescues Tony in Avengers Disassembled."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 9. A Human Fighting the Gods.md",
+   "kind": "chapter",
+   "philosophers": [
+    "camus",
+    "nietzsche"
+   ],
+   "concepts": [
+    "the-absurd",
+    "sisyphus",
+    "camus-revolt"
+   ],
+   "relation": "Luzecky and Elsby argue gods cannot be heroes: Thor's strength, Hulk's rage and Tony's godlike intellect stand outside humanity, whereas Erskine's serum amplified Cap's nascent human goodness (as it exposed the Red Skull's badness), making him the best human rather than a superhuman. Reading Cap through Camus's absurd - the paradox of beings who strive for universality while stuck in particularity - they show him refusing both nihilistic reduction (Alexander Pierce's helicarriers in Winter Soldier) and Nietzsche's flight to 'other worlds' that hates this one. When Loki commands the crowd to kneel, the refusal Cap embodies is Sisyphus's defiant persistence, which is why he, and not the gods, is the Avengers' greatest hero."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 10. Trust Systems or People.md",
+   "kind": "chapter",
+   "philosophers": [
+    "adorno",
+    "kant"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "kant-respect"
+   ],
+   "relation": "Malloy locates the heroes' core disagreement in trust: Cap trusts people, recruiting reformed villains (Hawkeye, Scarlet Witch, Quicksilver, Deadpool) and inspiring the 'kooky quartet', while Tony trusts systems, running the Initiative with pay and the threat of Prison 42. Using Adorno and Horkheimer's critique of instrumental reason, he shows Tony losing sight of what and why he acts - the Armor Wars killing Titanium Man, Civil War destroying the safety it sought - and treating people as means rather than ends in themselves. Via Darwall's two respects (grounded in Kant), Cap's recognition respect for autonomous persons beats Tony's appraisal respect for qualities (he respects even Doom's intellect), so only Cap's trust preserves freedom - and wins."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 11. Fighting Ethical Relativism in Tales of Suspense.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "kant-humanity-formula",
+    "moral-relativism"
+   ],
+   "relation": "Reading Tales of Suspense, Pagnoni Berns and Veteri cast Iron Man as a man of every era - echoing LBJ's 'reason together', Cold War utilitarianism against Communism, playboy masculinity, and finally the Registration Act - which makes him a parrot of whatever relativism his age prefers. Captain America, literally frozen in time, holds Kant's categorical imperative: every life is an end in itself, so he saves Nazi prisoners in #71, trades his own life for a pilot in #61, and drinks possibly lethal serum without needing thanks, while Bucky's mediated, reward-seeking morality shows why ends corrupt moral worth. Because Cap's universal, ahistorical defense of human dignity holds from the 1940s to the 1960s and beyond, the authors rank him above the adaptable but context-bound Iron Man."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 12. Champion of the People vs. Technology.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "applied-ethics"
+   ],
+   "relation": "Staged as a Cap-versus-Iron Man dialogue, Van Pelt's chapter debates the Fourth Industrial Revolution: Tony's faith that AI and automation (Jarvis, Ultron, self-flying Hulkbuster parts, self-driving cars) will protect people against Cap's warning that flawed, biased humans always build flawed systems. Drawing on Martin Ford's Rise of the Robots, it develops technological unemployment and profit-driven displacement, weighs universal basic income as a response, and rejects blind techno-optimism that has no plan for the workers left behind. Cap - no Luddite, but the poor kid from Brooklyn - emerges as the true champion of the people for demanding answers about who suffers when machines replace jobs."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - 13. Iron Man Was Paradoxically Wrong!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "russell"
+   ],
+   "concepts": [],
+   "relation": "In a dialogue with a comic-book-obsessed fact-checker, Henderson argues the SHRA did not merely split the Marvel Universe, it imported a paradox structurally like Russell's: a superhero must register to protect citizens from unchecked power, yet must not, because revealing an identity endangers the very family a hero exists to protect - a no-win loop generated by the rules of the superhero genre itself. Walking through Russell's set of all sets that do not contain themselves, he shows both Iron Man's licensing logic and the heroes' refusal lead to contradiction, which is why 'Iron Man was paradoxically wrong' and Cap's secret-identity defense exposes a question the law of the superhero cannot answer."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "supererogation",
+   "name": "Supererogation (beyond the call of duty)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Acts that are morally praiseworthy and good yet not obligatory - done above and beyond duty, like the Good Samaritan.",
+   "why": "Chapter 11's fifth attribute of heroism defines heroes as Extraordinary Samaritans whose saving acts are supererogatory, the criterion separating Wesley Autrey from Captain Sullenberger."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "patriotism",
+   "name": "Patriotism (love of country vs nationalism)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Civic love and loyalty to one's own nation and community, distinguished from nationalism and debated against cosmopolitanism.",
+   "why": "Chapter 17 builds its entire Cap-versus-Iron Man contrast on Scruton's, MacIntyre's and Nussbaum's accounts of patriotism against cosmopolitanism, a concept taxonomy.json lacks."
+  },
+  {
+   "ch": 20,
+   "type": "philosopher",
+   "suggested_slug": "darwall",
+   "name": "Stephen Darwall",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Contemporary ethicist known for distinguishing recognition respect (owed to persons as rational agents) from appraisal respect (owed for qualifying merits).",
+   "why": "Chapter 20's central claim - Cap gives recognition respect and trust while Iron Man gives only appraisal respect - is built directly on Darwall's two faces of respect."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "instrumental-reason",
+   "name": "Instrumental Reason (means-end thinking)",
+   "philosopher": "adorno",
+   "domain": "political-social",
+   "what": "Fixation on how to achieve goals at the expense of what is being done and why it matters, diagnosed by Adorno and Horkheimer in Dialectic of Enlightenment.",
+   "why": "Chapter 20 explains Iron Man's failures in Armor Wars and Civil War as instrumental reason eclipsing moral reason, a framework taxonomy.json lacks."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "technological-unemployment",
+   "name": "Technological Unemployment",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Job loss caused by automation and AI replacing workers faster than new jobs appear, with universal basic income proposed as a remedy.",
+   "why": "Chapter 22's core sections, via Martin Ford's Rise of the Robots, argue about displacement under the Fourth Industrial Revolution and the basic-income debate."
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "russells-paradox",
+   "name": "Russell's Paradox",
+   "philosopher": "russell",
+   "domain": "mind-language-metaphysics",
+   "what": "The set of all sets that do not contain themselves must contain itself if it does not, and vice versa, exposing a contradiction in naive set theory.",
+   "why": "Chapter 23 models the SHRA's no-win registration dilemma on Russell's paradox, which is why it is titled Iron Man Was Paradoxically Wrong."
+  }
+ ]
+}

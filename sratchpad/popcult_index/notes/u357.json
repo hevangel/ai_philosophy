@@ -1,0 +1,61 @@
+{
+ "book": "242 - Joss Whedon as Philosopher",
+ "unit": "u357",
+ "chapters": [
+  {
+   "n": 8,
+   "file": "ch08 - Conclusion.md",
+   "kind": "chapter",
+   "philosophers": [
+    "noddings",
+    "parfit",
+    "socrates",
+    "sartre"
+   ],
+   "concepts": [
+    "care-ethics-noddings",
+    "existentialism",
+    "personal-identity",
+    "free-will-determinism",
+    "film-as-philosophy"
+   ],
+   "relation": "The concluding chapter argues that Joss Whedon 'does philosophy' through the Whedonverse, building on Mulhall, Wartenberg and Shaw's hierarchy of filmic philosophizing. It reads Angel's 'Deep Down' and 'Epiphany' speeches as endorsing that kindness is a self-standing good regardless of God, framing sacrifices by Simon (for River), Cordy (for Angel) and Buffy (for Dawn) as a cinematic thought experiment refuting the claim that ethics is incoherent without God. It reads Connor as exemplifying Kane's libertarian free will (Darla and faux-Cordelia 'stir up' quantum indeterminacy), Angel/Angelus as a years-long test of memory-continuity personal identity against Parfit's Neo-Lockean view, and 'The Cabin in the Woods' plus Dollhouse's 'Man on the Street' as endorsing a Noddings-style ethics of care and Whedon's religious non-realism, with Angel offered as a Socrates-like moral exemplar."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Bibliography.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - About the Author.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 8,
+   "type": "concept",
+   "suggested_slug": "film-as-philosophy",
+   "name": "Film (and Television) as Philosophy",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The debate over whether fictional narrative films/TV can themselves do philosophy rather than merely illustrate it, via thought experiments, complexity and epistemic endorsement.",
+   "why": "Chapter 8's central thesis is that Whedon's television successfully philosophizes on Mulhall/Wartenberg/Shaw's terms, a meta-aesthetic topic no existing taxonomy concept captures."
+  }
+ ]
+}

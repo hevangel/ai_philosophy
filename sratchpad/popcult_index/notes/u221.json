@@ -1,0 +1,326 @@
+{
+ "book": "152 - The Ultimate Daily Show and Philosophy - More Moments of Zen, More Indecision Theory",
+ "unit": "u221",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Globalization and Contemporary Art.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Editor Jason Holt's introduction explains the 'ultimate' title and stakes the book's claim that The Daily Show is philosophically engaging, not mere late-night entertainment. He unpacks the subtitle: 'moments of Zen' are poignant closing clips that encapsulate a speaker's hypocrisy or an unsaid truth, only loosely Zen in valuing gestured rather than stated insight; 'indecision theory' fuses the show's Indecision election coverage with decision theory's study of rational political choice, since a running concern of the show is critically evaluating information sources. He then maps the book's five segments, from fake news through Stewart as philosopher figure to religion, culture, and Colbert."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mcluhan"
+   ],
+   "concepts": [
+    "democracy-theory"
+   ],
+   "relation": "Erion reads The Daily Show's sharpest bits as jokes that only work if the audience already grasps Neil Postman's thesis in Amusing Ourselves to Death that television's entertainment bias renders news irrational, irrelevant and incoherent, from hurricane-reporter parodies and 'The Less You Know' to news-style graphics like 'Mess O' Potamia'. He treats Stewart's 2004 Crossfire confrontation ('stop hurting America', 'you're doing theater, when you should be doing debate'), the 2009 Jim Cramer CNBC 'Brawl Street' interview after the financial crisis, and the 2011 Chris Wallace exchange as explicit versions of the same critique that TV's real bias is toward sensationalism, conflict and laziness rather than partisanship. He closes with the Rally to Restore Sanity and/or Fear's 'conflictinator' speech, noting Stewart is ultimately more optimistic than Postman that television could clarify rather than obfuscate."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "truth-in-fiction"
+   ],
+   "relation": "Gettings asks how a self-described fake news show can inform viewers, and answers by defining fiction as non-deceptive make-believe, Stewart's 'hilarious make-'em-ups' (the Rick Santorum quiz), distinct from lies because truth-value and research do not settle the category, as when Colbert's 2003 projection of Bush's reelection accidentally came true but stayed fiction. He identifies the show's cues for separating real from fake: sheer outrageousness (Samantha Bee on North Korean soldiers), the convention of Stewart playing straight man to unreliable 'senior' correspondents (John Oliver's fabricated Truman history, Ed Helms on the John Roberts nomination), and obviously doctored graphics like Jason Jones's Clooney fundraiser photo. He then argues the show conveys general truths about government and media, using John Kyl's Planned Parenthood falsehood, CNN and Fox botching the Supreme Court's Obamacare ruling, and the Steve Cohen Nazi-comparison hypocrisy, before contrasting its news-rooted humor with The Onion's near-total invention."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "arendt"
+   ],
+   "concepts": [
+    "democracy-theory"
+   ],
+   "relation": "Sotos locates The Daily Show within an emergent 'Fifth Estate', a watchdog for the failing Fourth Estate press, and recruits Arendt's actor/spectator distinction to defend Stewart's refusal of activism: like judge, journalist or comedian, the spectator withdraws from action yet gives events their meaning and voice in public conversation. She traces an American fake-news lineage from James and Benjamin Franklin's colonial papers (Silence Dogood, Polly Baker, the Vindex Patriae hoax) through Twain to Stewart, contrasting honest satire with Glenn Beck and Rush Limbaugh's 'fake fake news' and the repeal of the Fairness Doctrine. Juvenalian indignatio ( Stewart's somber 'Fuck you' to CNBC in the Clusterf#@k to the Poor House) and Horatian playfulness (Colbert's Super PAC saga) supply the ethos, and she reads the Rally to Restore Sanity as Aristophanic Old Comedy, complete with agon, parabasis ('A Moment of Sincerity') and a reconciliatory ending that makes 'We the People' exist."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "plato"
+   ],
+   "concepts": [
+    "mill-liberty"
+   ],
+   "relation": "Littmann asks how a program built on mockery, falsehoods like Wyatt Cenac's Sarah Palin jokes and the 'santorum' coinage, can be a serious political voice, situating it in the tradition running from Aristophanes' roasting of Cleon and his distorting Clouds portrait of Socrates through Juvenal to Twain. He rejects Juvenal's hope that shame reforms the mocked (people do not listen to those who disrespect them) and argues mockery's real value is keeping issues like racism, war and Glenn Beck's rhetoric in public consciousness. Deploying Mill's On Liberty arguments against censorship, that silencing assumes infallibility and truth is sharpened by collision with error, he warns mockery works like censorship when audiences dismiss mocked views without consideration, the key difference being that Limbaugh demands to be taken seriously while Stewart bills himself as a comedian, and closes with Plato's Meno: opinions must be 'shackled' by understanding why they are true, not adopted because a comedy laughed at the alternative."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard"
+   ],
+   "concepts": [
+    "simulacra"
+   ],
+   "relation": "Bean reads both fake-news shows through Baudrillard's account of a media age with 'more and more information and less and less meaning': mainstream news is already simulation, and Colbert is 'a walking talking simulacrum', more O'Reilly than O'Reilly, whose five-deep receding portrait series and 'The Wørd' graphics (the abstinence-education 'Gateway Hug' bit) stage signs that refer only to themselves. Stewart, broadcasting from a simulacrum of a simulacrum, a television news studio, instead punctures the hyperreal: translating Obama's 'audacity of hope' convention speech into 'calibration of expectations' and rendering Laura Ingraham's dismissal of the party platform in Valley Girl vocal fry. Adapting Baudrillard's fake-holdup thought experiment into an 'organize a fake news broadcast' test, she argues the shows fall into the real precisely because they report on and stage simulation, anchoring audiences against media's 'communication without a response'."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "cornel-west",
+    "dewey",
+    "rorty"
+   ],
+   "concepts": [
+    "pragmatism",
+    "dewey-democracy"
+   ],
+   "relation": "MacMullan argues Stewart is America's most effective public intellectual working in the pragmatist tradition Cornel West describes, philosophy as continuous cultural commentary 'explaining America to itself' rather than academia's ingrown self-talk (the failure Rorty diagnosed). He shows The Daily Show performing this role through irony and critical cultural memory: the Colbert exchange rewarding Karl Rove's Plame leak with 'Chief Justice', 'Victory Lapse' on Republican outrage at Obama's bin Laden ad versus Bush's Mission Accomplished carrier landing, 'Gitmo's World', and the 'Meet the Depressed' Magic Bullet blender takedown of Obama's unkept promises. Stewart's Deweyan faith in democracy as a way of life appears in the Rally to Restore Sanity, his genuine debates with guests like David Barton and Marco Rubio, his anger at CNBC's Cramer for burning the house down with our money, and the 9/11 Zadroga Bill segments that shamed Congress into passing the law."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "plato",
+    "protagoras"
+   ],
+   "concepts": [
+    "socratic-method",
+    "socratic-ignorance",
+    "sophist-relativism"
+   ],
+   "relation": "Barad maps fifth-century Athens onto contemporary America to cast Stewart as a Socratic reformer confronting modern sophists, advertisers, pundits and media figures who make weaker arguments appear stronger without caring about truth, exemplified by Ed Helms admitting network stories are pre-written from 'conventional wisdom' and Ann Coulter's conformity-peddling. She details the shared method: flattering the 'expert', feigned ignorance, and layer-by-layer questioning that traps targets like Rumsfeld ('It may not seem like much, but for this administration it's a huge policy shift') in contradiction, with Socratic irony doing the work of Stewart's awestruck deadpan and mute astonished reactions to Bush clips. Against Bill O'Reilly's 'stoned slacker' charge she cites the Annenberg finding that the show's young audience is better informed, and weighs Ken Tucker's 'monkey' question through the Crossfire 'I'm not going to be your monkey' exchange, concluding that, like Socrates facing trial and execution, Stewart uses irony as means and truth as end."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "diogenes-cynic",
+    "aristotle"
+   ],
+   "concepts": [
+    "cynicism"
+   ],
+   "relation": "Bárcenas answers studies suggesting The Daily Show breeds youth cynicism by recovering the original 'dog philosophy': Cynics like Diogenes of Sinope lived shamelessly (the bathtub, the lamp in broad daylight, 'stand out of my light' to Alexander the Great) to expose the corrupt conventions of Athens's fragile direct democracy, where demagogues like Alcibiades seduced the assembly into debacles such as the Sicilian expedition. He reads Stewart as their modern heir, with 'Mess O' Potamia' and 'Crises in Israfghyianonanaq' against war demagoguery and the Cramer interview against financial-media dereliction, whose humor aims at Aristotle's anagnorisis, a sudden recognition of things as they really are behind flattering appearances (doxa). Cynical unpopularity (adoxia) is worn as a badge of truth-telling, and parrhesia, frank speech, becomes democratic shock therapy that awakens citizens' judgment rather than breeding apathy."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buber"
+   ],
+   "concepts": [
+    "i-thou"
+   ],
+   "relation": "Edelheit, a rabbi, reads Stewart's Jewish persona as an echo of Martin Buber: both disclaim the titles (philosopher, journalist) yet 'point out the window' at what they have seen, and both practice engagement, 'You shall not withhold yourself', with genuine responsibility as real responding, epitomized for him by the face-to-face Crossfire confrontation. He walks through the 'Matzorian Candidate' segment on the Republican Jewish Coalition (the 'Yarmulkometer' ratings, Michele Bachmann's kibbutz years and mispronounced 'chutzpah'), the 'Faith/Off' Passover-versus-Easter segment pitting a chocolate egg against the Seder plate ('Jews! Camera 3'), and Earth (The Book)'s satirically rewritten Binding of Isaac and Reform-Judaism prayer jokes. All of this is read as Buberian dialogue, mocking religion from within rather than at it, and refusing silence in the lineage of Rabbi Joachim Prinz's warning that the most tragic problem is silence."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "frankfurt"
+   ],
+   "concepts": [
+    "frankfurt-bullshit",
+    "socratic-method"
+   ],
+   "relation": "Blessing and Marren mine Stewart's two interviews with Harry Frankfurt to work out the lie/bullshit distinction: liars like Edwards, Weiner and Clinton know and care about the truth they distort, while bullshitters, from Travelodge PR stunts to subprime lenders, are indifferent to truth in service of selling, which is why Frankfurt calls bullshit the more corrosive force. They take up Stewart's Socratic questioning of whether political spin is a subset of bullshit, and answer that spinners, unlike bullshitters, must know the truth in order to color it, making spin closer to lying in attitude, tolerated because Spin Alley agrees not to call bullshit on it. Documenting the PR-ization of media (the Cardiff University study behind Flat Earth News, the Wall Street Journal press-release finding), they close with Frankfurt's On Truth sequel, that a society cannot survive without truth, with ridicule of the kind The Daily Show practices as the best defense."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "cornel-west"
+   ],
+   "concepts": [],
+   "relation": "Gray reads Larry Wilmore's Senior Black Correspondent segments as satire in Swift's 'A Modest Proposal' tradition that, following Joanne Gilbert, performs marginality from an insider/outsider border: the 'lazy racism' of Tony Snow's 'tar baby' and George Allen's 'macaca', Black History Month as '28 days of trivia' and 'a drag', the Jeremy Lin segment on stereotyped racial 'turf', and the Trayvon Martin 'racist timeout' calling for a court of reason rather than the Court of Public Opinion. He frames the point through Cornel West, the new cultural politics of difference, honest talk about the 'race card' (declined: 'Void during a black presidency'), and West's jazz mode of being suspicious of either/or viewpoints and dogmatic pronouncements. The upshot is Wilmore raising questions mainstream pundits cannot, about monolithic black voting ('hello 94%'), O.J. loyalty ('Habit, Jon'), and whether Obama should 'go blacker' in the credit downgrade."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "informal-fallacies"
+   ],
+   "relation": "Dempsey catalogs how The Daily Show and The Colbert Report expose political rhetoric by ridicule: ad hominem attacks on Judge Anna Diggs Taylor's wiretapping ruling, the straw man 'cut and run' distortion of John Murtha, Zell Miller's RNC outrage, false dilemmas ('with us or with the terrorists', Colbert's 'great president or the greatest president?'), slippery slopes from same-sex marriage to snake marriage, Tony Snow's equivocation on 'fit for duty', and Sam Brownback's question-begging snowflake-baby presentation against stem-cell research. He then treats emotional appeals (the 9/11-saturated 2004 RNC, Kerry's 'reporting for duty', Colbert's fear-mongering 'ThreatDown' and flag-wrapped patriotism) and spin as the systematic use of persuasive language: euphemism and dysphemism ('socialist', 'war on ______'), rhetorical definition of abortion as 'murder', 'Polish that Turd' jobs-number spinning, the GOP memo read aloud on Fox News, and Bush's Iraq-versus-North Korea double standard. Montages lay the talking-point machinery bare, and the chapter argues a critically informed citizenry is the democratic defense against elites who distrust the public with the truth."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 9,
+   "type": "philosopher",
+   "suggested_slug": "neil-postman",
+   "name": "Neil Postman",
+   "philosopher": "neil-postman",
+   "domain": "political-social",
+   "what": "Media ecologist and NYU professor whose Amusing Ourselves to Death argues television's entertainment bias turns news and public discourse into irrational, incoherent 'disinformation'.",
+   "why": "Chapter 9's entire reading of The Daily Show (Crossfire, Cramer, Fox News Sunday, the Rally) is built on Postman's entertainment-bias thesis, which the chapter treats as the show's implicit philosophical ground."
+  },
+  {
+   "ch": 9,
+   "type": "philosopher",
+   "suggested_slug": "marshall-mcluhan",
+   "name": "Marshall McLuhan",
+   "philosopher": "marshall-mcluhan",
+   "domain": "political-social",
+   "what": "Canadian communication theorist famous for 'the medium is the message', the claim that the form of a medium shapes what can be communicated, independently of its content.",
+   "why": "Chapter 9 presents Postman's thesis as a revision of McLuhan's slogan and illustrates it with his smoke-signals example, and the phrase recurs in chapters 13 and 20."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "truth-in-fiction",
+   "name": "Truth in Fiction",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The question of how deliberately made-up but non-deceptive narratives can convey both particular facts and general truths, and how audiences distinguish the made-up from the asserted.",
+   "why": "Chapter 10's whole argument defines The Daily Show as fiction ('hilarious make-'em-ups') and explains how fake news can nonetheless be a genuine news source."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "horatian-juvenalian-satire",
+   "name": "Horatian vs Juvenalian Satire",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The classical distinction between gentle, playful satire that treats vice as folly (Horace) and bitter, indignant invective that pays the world back with words (Juvenal).",
+   "why": "Chapter 11 assigns Colbert the Horatian and Stewart the Juvenalian ethos as the two poles of the Fifth Estate's satiric voice, and chapter 12 leans on Juvenal as well."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "fifth-estate",
+   "name": "The Fifth Estate",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "A watchdog institution beyond the press, 'a watcher for the watchdogs', of bloggers, activists, artists and satirists who monitor the failing Fourth Estate.",
+   "why": "Chapter 11 is organized around the claim that The Daily Show supplies this emergent institution with an ethos rooted in Franklin-era fake news."
+  },
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "aristophanes",
+   "name": "Aristophanes",
+   "philosopher": "aristophanes",
+   "domain": "ancient",
+   "what": "Athenian comic playwright (c. 446-386 BC) whose political comedies mocked demagogues like Cleon and whose Clouds caricatured Socrates as a charlatan.",
+   "why": "Chapter 12 uses Aristophanes as the founding case of political mockery and his Clouds as evidence of mockery's danger, and chapter 11 reads the Rally to Restore Sanity as Aristophanic comedy."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "parrhesia",
+   "name": "Parrhesia (fearless speech)",
+   "philosopher": "diogenes-cynic",
+   "domain": "ancient",
+   "what": "The Greek term for frank, truth-telling speech offered at personal risk, which Diogenes called the most beautiful thing in the world.",
+   "why": "Chapter 17 casts the Cynics' parrhesia, and Stewart's satire by extension, as democratic shock therapy and the key instrument for 'defacing the currency' of corrupted convention."
+  },
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "performing-marginality",
+   "name": "Performing Marginality",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Joanne Gilbert's notion that women and minority comics turn their insider/outsider position at the margins into a subversive critique of the hegemonic mainstream ('judo rhetoric').",
+   "why": "Chapter 21 uses this frame to explain how Larry Wilmore's Senior Black Correspondent segments can say about race what white or mainstream pundits cannot."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "informal-fallacies",
+   "name": "Informal Fallacies",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Recurring error patterns in reasoning that appear correct: ad hominem, straw man, false dilemma, slippery slope, equivocation, and begging the question.",
+   "why": "Chapter 22 catalogs exactly these fallacies in political rhetoric as the primary target of The Daily Show's satire, and taxonomy.json has no logic or critical-thinking concept for them."
+  }
+ ]
+}

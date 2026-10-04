@@ -1,0 +1,271 @@
+{
+  "book": "271 - Fatherhood \u2013 Philosophy for Everyone - The Dao of Daddy",
+  "unit": "u386",
+  "chapters": [
+    {
+      "n": 2,
+      "file": "ch02 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 3,
+      "file": "ch03 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 4,
+      "file": "ch04 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 5,
+      "file": "ch05 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 6,
+      "file": "ch06 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 7,
+      "file": "ch07 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 8,
+      "file": "ch08 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 9,
+      "file": "ch09 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 10,
+      "file": "ch10 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 11,
+      "file": "ch11 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 12,
+      "file": "ch12 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "chapter",
+      "philosophers": ["augustine"],
+      "concepts": ["augustine-time", "stoic-present-moment"],
+      "relation": "Davison uses St. Augustine's claim from the Confessions that only the present moment is real \u2013 past and future exist only as memory and anticipation \u2013 to argue that a father should stop missing his children's lives by fixating on past regrets or future worries. Drawing on Steindl-Rast and Thomas Sterner, he contrasts mechanical 'clock time' with quality-driven 'experienced time' and recommends process-focus over end-product focus, illustrated with lying beside his sleeping daughter Grace and dreading bedtime routines with his sons."
+    },
+    {
+      "n": 13,
+      "file": "ch13 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "chapter",
+      "philosophers": ["heidegger", "plato"],
+      "concepts": ["dasein", "being-toward-death", "immortality"],
+      "relation": "Allred applies Heidegger's Being and Time \u2013 the world as a meaningful context of projects, the hammer-as-tool example, and death as what makes projects meaningful \u2013 to contrast the father's world with the 'man-child' world of Seth Rogen's Judd Apatow characters (especially Knocked Up). He argues fatherhood reveals the fragility of all projects, using Plato's account of seeking immortality through children and Paul Celan's poem 'Epitaph for Fran\u00e7ois' about his stillborn son to show that after a child is born the parent's world is forever haunted by the possibility of its emptiness."
+    },
+    {
+      "n": 14,
+      "file": "ch14 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["personal-identity"],
+      "relation": "Fink-Jensen, an anthropologist, uses narrative analysis and rites-of-passage theory (Van Gennep's separation/liminal/reincorporation stages) to examine how men construct the internal identity of 'father.' Drawing on interviews with first-time dads (Marc, Jim, Craig, Steve), she argues that because men lack the biological markers of pregnancy they feel alienated from the transition, and that Western 'couvade' activities \u2013 attending prenatal classes and appointments, hearing the heartbeat \u2013 plus telling birth stories function as rituals that cement fatherhood as an identity."
+    },
+    {
+      "n": 15,
+      "file": "ch15 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "chapter",
+      "philosophers": ["camus", "sartre"],
+      "concepts": ["meaning-of-life", "sisyphus", "existence-precedes-essence"],
+      "relation": "Barnwell argues that fatherhood can constitute the ultimate meaning of a man's life, answering the paradox that a meaningful life 'all about the kids' seems not to be about the father by noting fatherly acts are still the father's own freely chosen activities. He confronts Camus's Myth of Sisyphus \u2013 the worry that childrearing is endless pointless rock-pushing across generations \u2013 by insisting children, unlike rocks, have intrinsic value, and invokes the Sartrean existentialist idea that choosing an activity confers value on it (illustrated by his buying oatmeal for 'Sally')."
+    },
+    {
+      "n": 16,
+      "file": "ch16 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 17,
+      "file": "ch17 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "kant", "nietzsche"],
+      "concepts": ["aristotle-virtue-ethics", "aristotle-golden-mean", "aristotle-practical-wisdom", "care-ethics"],
+      "relation": "Nease lays out a game plan for raising ethical children, using Aristotle's Nicomachean Ethics \u2013 eudaimonia as a flourishing life, virtue as the mean between extremes, and the master-skills of practical wisdom and self-control \u2013 as the core, mocking 'character counts' posters as no substitute for early habit-formation. He folds in Kant's motive of duty, Nietzsche's will-to-power (glossed via Janet Jackson's Control) as the drive to master oneself, and argues empathy (Theodor Lipps' inner imitation), self-awareness, concentration (Husserl's foreground/background), and a respect for justice must be cultivated to 'stack the deck' toward a good adult."
+    },
+    {
+      "n": 18,
+      "file": "ch18 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "chapter",
+      "philosophers": ["noddings", "gilligan"],
+      "concepts": ["care-ethics", "care-ethics-noddings"],
+      "relation": "Terjesen defends a distinctively paternal form of caring against care ethics' maternal bias. Reviewing Kohlberg's moral-development scale, Gilligan's justice-vs-care orientations, and Noddings' 'engrossment' model of caring, he argues these frameworks make it seem fathers like his own undemonstrative Norwegian dad don't care. He reconceives 'paternalism' (via Gerald Dworkin's soft paternalism and examples like Darth Vader and Bambi's father) as tough-love caring focused on the child's future self, complementary to maternal caring and distinct from the impersonal justice orientation."
+    },
+    {
+      "n": 19,
+      "file": "ch19 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "chapter",
+      "philosophers": ["locke", "rousseau"],
+      "concepts": ["tabula-rasa", "rousseau-natural-goodness", "moral-psychology"],
+      "relation": "Florell and Wilson, psychologists, survey parenting through the nature\u2013nurture debate, casting Locke's tabula rasa against Rousseau's noble-savage view of children, alongside Piaget and Kohlberg on moral development and Walter Mischel's marshmallow experiment on impulse control. They map the four parenting styles (authoritarian, permissive, uninvolved, authoritative) on responsiveness and control, argue authoritative parenting is optimal, and advise fathers to adjust discipline to each child's innate temperament rather than enforce rigid gender roles."
+    },
+    {
+      "n": 20,
+      "file": "ch20 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "aristotle"],
+      "concepts": ["kant-autonomy", "social-contract"],
+      "relation": "Swindler argues the ideal of fatherhood is to engender autonomy \u2013 a blend of independence and interdependence \u2013 in one's children. Treating fatherhood as an abstract social role (compared to a baseball pitcher) constituted by collective intentions, he uses Kant's 'ought implies can' to link accountability to autonomy and his constitutive-vs-regulative rules (the promise to take his son fishing) to show fathers must teach children to reflect on the concept of a rule, not merely follow it, modeling self-governance rather than authoritarian control."
+    },
+    {
+      "n": 21,
+      "file": "ch21 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 22,
+      "file": "ch22 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "chapter",
+      "philosophers": ["sartre"],
+      "concepts": ["authenticity", "bad-faith", "existence-precedes-essence"],
+      "relation": "Collins-Cavanaugh asks what makes a 'real' father, framing it as authenticity. He pairs Sartre's existentialist authenticity \u2013 free choice, anxiety, and the bad faith of adopting others' ready-made plans, with 'real cookie' and Derek Jeter examples \u2013 against Charles Taylor's dialogical authenticity, in which choices are made within a 'horizon of meaning' set by others. He argues authentic fatherhood combines both: a father must freely own his choices (provider dad vs nurturer dad) while grounding them in his child's needs, concluding he'll go bake cookies with his son Connor."
+    },
+    {
+      "n": 23,
+      "file": "ch23 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "chapter",
+      "philosophers": ["confucius", "plato"],
+      "concepts": ["confucian-li", "confucian-ren", "confucian-filiality", "virtue-ethics"],
+      "relation": "Komasinski explains Confucius's advice to fathers through three ideas: ritual (li, glossed as 'cultural grammar' \u2013 engagement rings, saying 'I love you'), excellence/virtue as excelling at relating to others (ren, 'co-humanity'), and wisdom. Using the Analects' 'Upright Gong' passage (fathers and sons cover for each other) beside Plato's Euthyphro, he shows Confucius prizes the father-son bond over law, and reads the parable of the prodigal son and Tu Wei-ming's 'personality ideal' to argue fathers should lead by virtuous example rather than punishment."
+    },
+    {
+      "n": 24,
+      "file": "ch24 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["authenticity", "confucian-filiality"],
+      "relation": "Balogun presents a traditional Yoruba-African conception of 'authentic' fatherhood as a holistic role \u2013 spiritual, moral, metaphysical, physical, and material \u2013 within an extended, collective family where paternal uncles and grandparents share fathering. He stresses moral education through alo apamo riddles, moonlight folktales (the tortoise, his wife Yonibo, and the priest), and proverbs, and argues contemporary fathers everywhere should learn from this model: total rather than piecemeal responsibility, storytelling over mere cartoon-watching, and treating children as 'ours' rather than 'mine.'"
+    },
+    {
+      "n": 25,
+      "file": "ch25 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "chapter",
+      "philosophers": ["aquinas", "buber"],
+      "concepts": ["aquinas-virtues", "i-thou", "care-ethics"],
+      "relation": "Mattern argues the heart of good fatherhood is mercy \u2013 'faithful, compassionate love' \u2013 as an attitude of the heart, not a technique. Drawing on Aquinas's account of habitus and his ranking of mercy among the greatest virtues, plus Gabriel Marcel's 'creative fidelity,' Solovyov, Jean Vanier, and Karol Wojtyla on love as affirming another's value, he contrasts remote, justice-oriented fathers with empathic ones. He illustrates with overlapping Venn-diagram circles of father and child and with responding to his 7-year-old son's shoplifting through listening and repair rather than spanking."
+    },
+    {
+      "n": 26,
+      "file": "ch26 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 27,
+      "file": "ch27 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "chapter",
+      "philosophers": ["plato", "aristotle"],
+      "concepts": ["applied-ethics", "sisyphus", "plato-cave"],
+      "relation": "Baron, a new father, weighs whether to let his son Maxwell consume violent popular media (from Halloween to SpongeBob, Grand Theft Auto, and Schindler's List) by testing three hypotheses. He uses Plato's Republic warning against exposing the young to stories they can't interpret for the 'causal hypothesis'; Aristotle's Poetics on learning pleasure from painful images for the 'edification hypothesis'; and Aristotle's account of tragic catharsis (homeopathic vs allopathic purging) for the 'catharsis hypothesis,' concluding that context matters more than ratings and that fathers watching alongside their children are the decisive influence."
+    },
+    {
+      "n": 28,
+      "file": "ch28 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "chapter",
+      "philosophers": ["sartre", "socrates"],
+      "concepts": ["bad-faith", "five-faces-oppression", "unexamined-life"],
+      "relation": "Owen argues that parenting is a political act and that fathers, especially privileged white heterosexual ones, should raise anti-oppressive children. Prompted by the question 'Daddy, why is her face brown?', he uses the social construction of racialized difference and the mutually constitutive culture\u2013individual relation (the Zulu maxim 'a person is a person through other persons') to reject color-blindness. He prescribes knowledge, practice, and character steps, invokes Socrates' 'unexamined life' for relentless self-reflection, and answers the worry about raising 'alienated' children via Sartre's bad faith \u2013 authentic existence means accepting responsibility for reproducing or resisting injustice."
+    },
+    {
+      "n": 29,
+      "file": "ch29 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle"],
+      "concepts": ["kant-autonomy", "aristotle-friendship", "personal-identity"],
+      "relation": "Carreras, writing as a son, examines the ethical tension in the father-son relationship between using a father's inevitable influence and fostering the son's autonomy. Opening with Aristotle on parents loving children as 'something of himself,' he uses the case of Jerry (a lawyer) pressuring his son Jose (who loves 18th-century English literature) to argue for a 'foundational view' of autonomy \u2013 that the best life is one embraced 'from the inside,' likened to seeing without a value-blindfold \u2013 and advises fathers to ask 'Is this what he truly wants, or what I want?'"
+    },
+    {
+      "n": 30,
+      "file": "ch30 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "chapter",
+      "philosophers": ["rawls"],
+      "concepts": ["kant-autonomy", "meaning-of-life", "faith-vs-reason"],
+      "relation": "Morgan asks when it is wrong for fathers to impose their ideals on children, arguing that forcing activities (like violin practice) risks alienation because meaningful pursuits must be embraced 'from the inside.' Using Robert Noggle's Rawls-derived hierarchy of goods (basic, pre-primary, primary, secondary, specialized), he grants fathers may guide toward universal goods but rejects Noggle's claim that parents may impose a full religious worldview, favoring David Archard's weaker right to 'guide family life' while respecting the child's growing capacity to choose \u2013 permitting compelled practice of talents only in light of the child's emerging identity."
+    },
+    {
+      "n": 31,
+      "file": "ch31 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "socrates"],
+      "concepts": ["aristotle-virtue-ethics", "unexamined-life", "wolf-meaning"],
+      "relation": "Austin offers practical wisdom for fathers of daughters, grounding fatherly obligations in daughters' fundamental interests and focusing on self-knowledge, moral development, and the common good. Invoking the Delphic 'know thyself,' Charles Taylor's 'strong evaluations,' and Aristotle's view that virtue grows through practice, he explains how to cultivate humility (including 'existential humility' before nature), courage (including self-sacrifice), and wisdom (curiosity, versatility, critical thinking) \u2013 e.g., analyzing advertising assumptions and limiting screen time \u2013 so a daughter can flourish and contribute to the common good."
+    },
+    {
+      "n": 32,
+      "file": "ch32 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 33,
+      "file": "ch33 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 34,
+      "file": "ch34 - FATHERHOOD PHILOSOPHY FOR EVERYONE.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": []
+}

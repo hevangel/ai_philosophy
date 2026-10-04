@@ -1,0 +1,418 @@
+{
+ "book": "007 - The Sopranos and Philosophy - I Kill Therefore I Am",
+ "unit": "u009",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - The Sopranos and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - The Sopranos and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - The Sopranos and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - The Sopranos and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - The Sopranos and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Sopranos and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Sopranos and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Sopranos and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Sopranos and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Sopranos and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "frankl"
+   ],
+   "concepts": [
+    "existentialism",
+    "the-absurd",
+    "meaning-of-life"
+   ],
+   "relation": "Argues The Sopranos is a morality play and existential drama, an X-rated Waiting for Godot about despair and man's search for meaning. Tony's crew are Gabbard's 'band of lost boys' fleeing Christopher's 'regularness of life' through violence: on Sartre's account they assert Being over Nothingness by acting, and on Ernest Becker's they deny death and insignificance through heroic crime. The chapter contrasts Tony's professed code of honor and family with his actual motive (the thrill of the hunt, unlike Vito Corleone's necessity) and frames the series' tension as his Janus-faced attempt to be a Machiavellian boss by day and a loving family man by night, a dichotomy he cannot sustain."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - The Sopranos and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - The Sopranos and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sun-tzu",
+    "plato"
+   ],
+   "concepts": [
+    "sun-tzu-strategy",
+    "yin-yang",
+    "the-tao"
+   ],
+   "relation": "Argues Tony misappropriates Sun Tzu's Art of War: he applies tactical precepts like deception, formlessness and 'Balk the enemy's power' (citing the book in 'He Is Risen' after Melfi's jab in 'Big Girls Don't Cry'), but ignores the philosophical core. The chapter contrasts Sun Tzu's monistic one-world view of yin-yang interdependence, harmony and winning without fighting with the Greek two-world dualism of Plato and with the Christianity that lets Tony tell Melfi 'soldiers don't go to hell' in 'From Where to Eternity'. Tony's sausage panic attacks in 'Fortunate Son' show his failure to see how his crimes ripple through his family, and because he lacks the commander's exemplary character and harmony, Tony is 'just a soldier', not a ruler."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Sopranos and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "epicurus"
+   ],
+   "concepts": [
+    "plato-tripartite-soul",
+    "aristotle-eudaimonia",
+    "epicurean-pleasure"
+   ],
+   "relation": "Argues ancient ethics explains why Tony, who has 'the world by the balls', still feels like a loser. Plato's Republic diagnoses him as a 'civil war' of unintegrated motivations (loving father and murderer at once, as in 'College'), a condition power over others only worsens; Aristotle teaches that happiness is activity with self-sufficient, integrated desires rather than a list of possessions, and Epicurus's 'sober reasoning' is the therapy Tony never gets. The Hawthorne quotation Tony reads in 'College' and his Gary Cooper ideal from 'The Happy Wanderer' frame the point: Cooper in High Noon is unmesswithable because he does not need vengeance, whereas Tony's compulsive revenge shows the world has the grip on him."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Sopranos and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "camus"
+   ],
+   "concepts": [
+    "ressentiment",
+    "existentialism",
+    "the-absurd"
+   ],
+   "relation": "Argues the show's underlying moral vision is Nietzschean passive nihilism filtered through film noir. Tony, unlike the active nihilist who converts value-collapse into self-overcoming, sinks into resentment and life-negation: he wants to rip the throat of the 'happy wanderer', therapy never redeems him, and he quits it with 'I'm a fat fucking crook from New Jersey' in 'Calling All Cars'. The chapter traces the noir lineage (Tony watching White Heat, the Godfather references, Bogart imagery at Satriale's) and reads A.J.'s 'D-Girl' existentialism (Camus's The Stranger, 'There is no God') and Livia's 'It's all a big nothing' as the family inheritance of meaninglessness and death-dread."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - The Sopranos and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "machiavelli"
+   ],
+   "concepts": [
+    "machiavelli-virtu",
+    "machiavelli-ends"
+   ],
+   "relation": "Argues Tony is at times a practitioner of The Prince and ignores Machiavelli at his peril. He plays the fox with Junior (the figurehead-boss arrangement of 'Meadowlands', the Augustus 'never ate alone' lesson of 'Pax Soprana') and his virtù makes Richie's coup unsellable, but with Richie he seeks love instead of fear, and with Ralph he violates the advice to abstain from subjects' property and women (taking over Pie-O-My and sleeping with his goomah), which ends in Ralph's murder. Fortune, Machiavelli's river, runs through Chris's double-parked car, Janice shooting Richie, Gigi's death on the pishtoon, and the Season Four economic downturn Tony failed to build dykes against."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Sopranos and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Sopranos and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine"
+   ],
+   "concepts": [
+    "moral-egoism"
+   ],
+   "relation": "Argues that bracketing his crimes, Tony is an 'ethical manager': against Junior's vanity-driven blunders and Christopher's Scarface-style impulsiveness in 'Meadowlands', Tony shows stakeholder judgment - holding the line on business through Annalisa's sexual provocation in the Naples cave ('Commendatori'), defusing war with Carmine over the Esplanade ('Whitecaps'), and following Melfi's Eldercare advice to give Junior 'the illusion of being in control'. The chapter concedes Tony acts within an egoistic horizon of self, family and crew rather than universal principle, but finds real moral self-restraint in him, invoking Augustine's dictum that 'even robbers take care to maintain peace with their comrades' and Tony's own 'I dunno about morals, but I do got rules'."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - The Sopranos and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "berkeley"
+   ],
+   "concepts": [
+    "hume-sentimentalism",
+    "moral-relativism"
+   ],
+   "relation": "Argues Simple Subjectivism ('right for Tony') fails as a reading of the show because it cannot make sense of genuine moral disagreement - Carmela and Tony's adultery battle in 'Whitecaps', Agent Ciccerone versus Tony on extortion - nor ground outrage at the killings of Pussy and the sobbing Matt Bevilaqua. Humean ethical subjectivism, grounded in a common human nature and the sentiment of sympathy (with Berkeley's pin example to explain vice as perception-dependent), fares better: it lets us condemn Tony while explaining his warped sympathy - grieving Pie-O-My more than his human victims - as the product of a mob upbringing that Melfi's alexithymia diagnosis in 'House Arrest' targets."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - The Sopranos and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sidgwick"
+   ],
+   "concepts": [
+    "consequentialism"
+   ],
+   "relation": "Argues Tony is a good man and a bad man for the same reason: a moral code of partiality toward family, crew and Italian-Americans ('This family comes before everything else' in 'Fortunate Son', avenging Janice, caring for Livia 'because she's my mother'), whereas morality must ultimately be justified from the impartial point of view (Sidgwick's 'point of view of the universe'). Using the drowning case - save Meadow or two strangers - the chapter shows partiality can receive an impartial justification, then applies this to Dr. Melfi's decision to treat Tony, defensible only while harms to others (her patient's suicide when she is driven into hiding) do not outweigh the good of his treatment."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Sopranos and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gilligan",
+    "noddings",
+    "kant"
+   ],
+   "concepts": [
+    "care-ethics",
+    "care-ethics-noddings",
+    "feminism"
+   ],
+   "relation": "Answers the title with 'fugheddaboutit' - Carmela is no feminist - but argues she reasons as a Gilligan-style care ethicist. Her moral voice evolves from Church-based justice arguments against Angie's divorce ('Commendatori'), through the justice-tradition confrontation with Dr. Krakower's refusal of 'blood money' ('Second Opinion'), to mature care ethics that balances self with others when she throws Tony out after the Svetlana revelation ('Whitecaps'). Using Noddings on reciprocity and 'total engrossment', the chapter reads the marriage's failure as failed caring, and the Furio romance and the Georgetown ricotta-pie intimidation as care reasoning that defies the submissive female stereotype feminists fear care ethics valorizes."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Sopranos and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "hobbes",
+    "locke"
+   ],
+   "concepts": [
+    "communitarianism",
+    "descartes-cogito",
+    "social-contract"
+   ],
+   "relation": "Argues Tony's self is communitarian - constituted by his roles as father, husband, don and executioner - against the Liberal metaphysics of individualism descending from Descartes's cogito (Livia's 'in the end you die in your own arms') and Hobbes's state of nature and social contract, with the mob boss miscast as a Hobbesian sovereign ('a supreme commander at the top, not the fuckin' Dave Clark Five'). The Naples trip in 'Commendatori' (Paulie discovering he is not really 'Napoletan''), the Columbus Day violence of 'Christopher', and the endless Godfather and Goodfellas mimicry (Christopher's bakery foot-shooting, Tony's Se7en-like murder of Ralphie) show identity as narrative, performed with and through others, not possessed by an isolated self."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - The Sopranos and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - The Sopranos and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Argues the 'sympathy for the Devil' puzzle - why law-abiding viewers bear a pro-attitude toward Tony while abhorring his real-world counterpart - is genuine, and dismantles three rival explanations: fascination (Richie Aprile is just as oxymoronic yet earns no sympathy), wish fulfillment (Ralph is as incontinent and is hated), and identification (imagining one shares Tony's desires yields absurdities like being jealous of his affair with Valentina). The solution is alliance: within the show's fallen moral world of corrupt cops, blackmailing FBI agents, hypocritical priests and monstrous Livia, Tony is relatively the most moral major character ('I knew his brother; he was worse'), so sympathy for the fictional Tony is consistent with loathing an actual one - and Chase uses our alliance to dramatize the danger of rationalization."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Sopranos and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [],
+   "relation": "Argues against Plato's and Tolstoy's worry that art corrupts by infecting audiences with a character's emotions: The Sopranos does get us to identify with a killer (feeling relief when Tony strangles Febby Petrulio in 'College'), and its serial length, psychological intimacy via Melfi's office, and verisimilitude make Tony unusually attractive. But the show supplies alternative moral centers - Melfi's own therapy, the 'House Arrest' shark-and-alexithymia scene, her restraint after her rape in 'Employee of the Month', the 'Funhouse' graduation-versus-crime montage - that let viewers see Tony from outside, so the series invites a complex, reflective moral response rather than imitation and may even be good for us."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Sopranos and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "catharsis"
+   ],
+   "relation": "Argues Season One is an Aristotelian tragedy: Tony is the 'man in-between' who earns pity and fear, and his tragic flaw is not his sins but his inability to bear his conflicting family roles, manifest in the panic attacks that drive him into therapy. Like Oedipus fleeing Corinth, the cure brings the catastrophe - Livia exposes the therapy to Junior and the hit follows ('Cunnilingus and psychiatry brought us to this') - while the plot maps onto Greek family tragedy, Livia as Medea trying to kill her son and Tony as a failed Orestes. The Green Grove FBI tapes are the recognition scene, the loss of mother and uncle is the reversal, and catharsis is the healthy outward purging of the viewer's own bottled emotion."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Sopranos and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The Sopranos and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "j-l-austin"
+   ],
+   "concepts": [],
+   "relation": "Applies Austin's speech-act theory (locution, illocution, perlocution; with Strawson's condition that a listener must recognize the speaker's intention) to the show's language. Analyses include Junior's 'high colonic' insult and 'come heavy' threat in 'Meadowlands', Tony's indirect hit order 'you get him under control?' answered by Gigi's 'with extreme fuckin' prejudice', Tony's conferral of the boss title on Junior, the made-man oath and Paulie's verbal transfer of the sports book in 'Fortunate Son', and Livia's deniable illocutions - advising Junior to tax Hesh, and on the FBI tape permitting (perhaps desiring) Tony's murder - which show how a woman with no power to order exercises power through warning, advising and persuading."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - The Sopranos and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "socrates"
+   ],
+   "concepts": [],
+   "relation": "Argues Tony is 'self-blind': against Descartes's claim of infallible self-access and pursuing Socrates's 'know thyself', and using Shoemaker's term, Tony rationally attends to his own mind and still fails to know it. He denies knowing Pussy is a rat despite all the evidence until the 'Funhouse' dead-fish dream tells him 'You knew'; he cannot say whether he foresaw that his 'friendly' loan to Artie would ruin him ('Everybody Hurts'); and he perceives only love for Livia while rage leaks out ('You fucking bitch, that's my mother' in 'I Dream of Jeannie Cusamano'). These cases - with Christopher's unrecognized desire to get caught and Melfi's unnoticed fear of Tony - support the perceptual inner-sense model of self-knowledge over the constitutive model, since brute error about one's own states is possible."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - The Sopranos and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - The Sopranos and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Takes Chase's claim that the show is 'all about people who have made a deal with the Devil' and tours Dante's Inferno to assign Sopranos characters their circles. The goomah arrangement convicts no one of lust because nobody thinks it sinful, but Carmela's knowing complicity ('I have forsaken what is right for what is easy' in 'College') makes her incontinent; the killers fill Circle Seven's boiling blood, with the suicides Vin Makazian and Gloria Trillo among the trees. Fraud is punished below violence, so Silvio the pimp, Janice the lead-cloaked hypocrite, and Hesh the song-thief sink into the Eighth Circle, Melfi faces the false-counselor question via Guido da Montefeltro (absolution does not absolve), Livia and Junior belong in the ninth circle for betraying the heads of the two families, and Tony's 'soldiers don't go to hell' is left for the reader to judge."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Sopranos and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "problem-of-evil",
+    "free-will-determinism"
+   ],
+   "relation": "Uses the show to argue the problem of evil is evidential rather than logical, and tests each theodicy against Sopranos cases: evil as natural-law by-product (Junior's and Jackie's cancers), punishment for sin (Carmela's cancer scare, Ralph telling Father Phil his hospitalized son is God's payback in 'Whoever Did This'), God's higher morality (rejected as meaningless as 'a triangle with four sides'), long-run goods (Artie's restaurant fire), and character-building (rejected with Melfi's 'How many people have to die for your personal growth?'). The free-will defense also fails - God could have given us Meadow-like dispositions - and Tony's 'You're born to this shit' versus Melfi's insistence on genuine choice dramatizes the debate. The chapter ends with Tony as the Old Testament Yahweh writ small: a jealous, vengeful, tribal ruler whose appeal is no more mysterious than His."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - The Sopranos and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - The Sopranos and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - The Sopranos and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "sympathy-for-the-devil",
+   "name": "Sympathy for the Devil (moral allegiance to fictional villains)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The puzzle in aesthetics of why audiences feel sympathy or pro-attitudes toward fictional characters whose real-world counterparts they would abhor, and whether that is morally dangerous.",
+   "why": "Chapter 25 is entirely structured around this puzzle - rejecting fascination, wish-fulfillment and identification explanations in favor of an 'alliance' theory - and no taxonomy concept covers audience response to immoral fiction."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "plato-critique-of-poetry",
+   "name": "Plato's Critique of Poetry (art, emotion and moral corruption)",
+   "philosopher": "plato",
+   "domain": "ancient",
+   "what": "Plato's Republic X charge that dramatic poetry nourishes unruly emotions by getting audiences to sympathize with characters, thereby corrupting character and justifying the poets' exile.",
+   "why": "Chapter 26 builds its whole argument on Republic 605c-606d (quoted at length) and pairs it with Tolstoy's What Is Art?, but taxonomy has no Plato-aesthetics concept, only his ethics and metaphysics."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "aristotle-poetics",
+   "name": "Tragedy and Catharsis (the Poetics)",
+   "philosopher": "aristotle",
+   "domain": "ancient",
+   "what": "Aristotle's theory of tragedy: pity and fear, the hero 'in-between', tragic flaw (hamartia), reversal and recognition, and the catharsis of emotions.",
+   "why": "Chapter 27 argues Tony Soprano is an Aristotelian tragic hero using these exact Poetics devices, and the taxonomy's Aristotle entries cover only his ethics, metaphysics and biology."
+  },
+  {
+   "ch": 29,
+   "type": "philosopher",
+   "suggested_slug": "j-l-austin",
+   "name": "J.L. Austin (speech act theory)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Oxford ordinary-language philosopher whose How to Do Things with Words founded speech act theory: performatives and the locution/illocution/perlocution distinction (developed on intention-recognition by P.F. Strawson).",
+   "why": "Chapter 29 is built entirely on Austin's framework, using it to decode mob orders, threats, oaths and Livia's manipulations, and taxonomy's philosophy-of-language entries (Frege, Russell, Wittgenstein, Quine, Kripke) do not include him."
+  },
+  {
+   "ch": 30,
+   "type": "concept",
+   "suggested_slug": "self-knowledge",
+   "name": "Self-Knowledge (perceptual vs constitutive models; self-blindness)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The epistemology of knowing one's own mind: whether self-knowledge works by inner sense (perceptual model) or is constitutive of mental states, whether it can be fallible, and Shoemaker's 'self-blindness' question.",
+   "why": "Chapter 30 ('Is Tony Soprano Self-Blind?') applies exactly this debate - Descartes's infallibility, the two models, brute error - to Tony's denial and self-misreading, and taxonomy lacks any self-knowledge slug."
+  },
+  {
+   "ch": 32,
+   "type": "philosopher",
+   "suggested_slug": "dante-alighieri",
+   "name": "Dante Alighieri",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "Medieval poet-philosopher whose Divine Comedy, especially the Inferno, organizes sin into circles (incontinence, violence, fraud) and supplies a Christian moral geography of Hell.",
+   "why": "Chapter 32 uses Dante's Inferno as its entire framework - ranking the Sopranos cast into the circles, contrasting fraud with violence, and invoking Guido da Montefeltro - and taxonomy has no entry for Dante."
+  }
+ ]
+}

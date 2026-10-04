@@ -1,0 +1,328 @@
+{
+ "book": "055 - Doctor Who and Philosophy - Bigger on the Inside",
+ "unit": "u089",
+ "chapters": [
+  {
+   "n": 28,
+   "file": "ch28 - Here They Are ... Ready to Outsit Eternity.md",
+   "kind": "chapter",
+   "philosophers": [
+    "vann-inwagen"
+   ],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity",
+    "immortality"
+   ],
+   "relation": "Argues that regeneration helps show life after death is logically possible: the successive Doctors (Fourth to Fifth in 'Logopolis') prove identity survives radical personality change, so a perfected heavenly Joe would still be Joe. Testing whether identity lies in body or memory, he contrasts John Smith in 'Human Nature' (same body, so same person) with the 'Journey's End' Doctor-clone whose replicated memories Rose rejects ('But he's not you'), favoring bodily continuity. This leaves the unavailability-of-atoms problem, which he solves with van Inwagen's theory that God removes and preserves our bodies at death like a divine cryonicist, echoing the Fourth Doctor's 'ready to outsit eternity' tribute in 'The Ark in Space'."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Love and Doctors.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "kripke",
+    "parfit",
+    "reid"
+   ],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity",
+    "kripke-naming",
+    "philosophy-of-love"
+   ],
+   "relation": "Asks whether 'the Doctor' is a Kripkean rigid designator naming one individual or a non-rigid role filled by different people, using the Ninth Doctor's deathbed doubts and the Time Crash memory loop to settle on the rigid reading. He then deploys Locke's body/organism/person distinctions, Parfit's overlapping psychological-connectedness fix to Reid's transitivity objection (Sarah Jane across 1983-1996-2006), and the amnesia-prone regenerations and the Valeyard to show the organism survives regeneration while the person might not. Finally he argues that because DoctorTwo in 'Journey's End' shares all the Doctor's psychologically connected memories of Rose, fission makes them two persons with equal claim, so Rose gets the person she actually loved."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - I Thought It Was Just the Doctor that We Needed, but It’s Both of You.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "ubermensch",
+    "death-of-god"
+   ],
+   "relation": "Reads the Doctor as a Christ-figure and savior (the 'Voyage of the Damned' ascension that drew Christian Voice protests, Martha's year of gospel-telling in 'The Last of the Time Lords'), applying Feuerbach's claim that humanity projects its ideals onto God. But the show under Russell T Davies also distrusts godlike power: Davros's 'you made this' accusation, the Racnoss massacre, and Joan Redfern's question in 'The Family of Blood' show the lonely god's devastation. Against this, companions like Donna embody Nietzsche's Übermensch ('There's no such thing as an ordinary human'), so the chapter concludes the Doctor and ordinary humans need each other, mutually overcoming their weaknesses."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Life A Celebration.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "deleuze"
+   ],
+   "concepts": [
+    "ressentiment",
+    "ubermensch",
+    "will-to-power",
+    "master-slave-morality",
+    "nihilism"
+   ],
+   "relation": "Reads John Simm's Master as Nietzsche's most advanced nihilist: having seen the universe die at Utopia, he judges life valueless and converts ressentiment into a joyful will to nothingness, dancing to the Scissor Sisters over his victims. The Ninth Doctor's arc in 'Dalek' mirrors this danger ('What are you changing into?') until he refuses to destroy the last Dalek, beginning his yes-saying to finite life. Following Deleuze's reading, the Doctor defeats the Master not with Martha's gun but with forgiveness ('I forgive you') and her storytelling network, embodying the Übermensch who carries his affirmation into the abyss of the end of the universe."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Escape to Doctor Who.md",
+   "kind": "chapter",
+   "philosophers": [
+    "schopenhauer",
+    "kant"
+   ],
+   "concepts": [
+    "schopenhauer-will",
+    "kant-phenomena-noumena",
+    "schopenhauer-pessimism"
+   ],
+   "relation": "Reads the Master as the personification of Schopenhauer's blind, pointless Will: the Doctor's line 'In many ways we have the same mind' is taken literally, so the Master is the dark noumenal side in everyone, seen in the hypnotized Farrel whose ambition the Master acts out and Colonel Trenchard whose patriotism becomes the Master's weapon in 'The Sea Devils'. Building from Kant's phenomena/noumena distinction, he explains the Will as the inaccessible force we glimpse through inner bodily awareness, evil because purposeless. Watching the Doctor's serial victories is then offered as a light, Schopenhauerian escape through art from the terror of the Will."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Master The Slave of the Time-Lord Cunning of Reason.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel"
+   ],
+   "concepts": [
+    "hegel-master-slave",
+    "hegel-recognition",
+    "hegel-history"
+   ],
+   "relation": "Uses Hegel's master-slave dialectic to diagnose the Master: his craving to be acknowledged as 'the Master' (Harold Saxon's dominion in 'The Sound of Drums', devouring humans in 'The End of Time') can only win the recognition of inferiors, which is worthless since genuine recognition must come from an equal. As a Hegelian world-historical individual driven by passion, he unknowingly serves the Time Lords' cunning of reason, the four drums being their implanted tool for escaping the time lock. The chapter ends with him finally attaining the slave-consciousness's independence by turning on and killing Rassilon, renouncing the recognition he can never get."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - I Am the Bad Wolf.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "heidegger"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-friendship",
+    "authenticity"
+   ],
+   "relation": "Answers Davros's charge that the Doctor fashions companions into weapons by examining his character through virtue ethics: his unifying virtue is Heideggerian 'authentic concern', always offering aggressors like the Nestene or the Sycorax a choice so they become genuinely responsible, as in the fly-swatting thought experiment. Companions instead act from compassion, which lacks impartiality and produces the 'Bad Wolf Syndrome' (Rose's Dalek genocide, Martha's Osterhagen Key, Jack's warp star). Since for Aristotle a friend is 'another himself', the companions' actions are in a sense the Doctor's own yet founded on a distorted disposition, which is why he runs from his past."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - EPISODE 5 - Brilliant! Fantastic! Molto Bene!.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - One More Thing, Don’t Blink!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "frankfurt",
+    "macintyre",
+    "williams"
+   ],
+   "concepts": [
+    "personal-identity",
+    "second-order-desires"
+   ],
+   "relation": "Uses Carroll's art-horror theory (monster = threat plus disgust) to ask why the Weeping Angels of 'Blink' terrify despite being beautiful, harmless-seeming statues. The answer: by dumping Kathy and Billy in the past they destroy identity itself, understood through Frankfurt's account of caring and MacIntyre's narrative identity, since everything a person cares about is tied to a time and place. Since the Angels provoke no disgust, the chapter revises Carroll: horror is fear plus impotence, and forcing victims to survive by not blinking makes viewers feel their powerlessness over their own bodies."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - A Beautiful Destiny.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "hegel",
+    "plato"
+   ],
+   "concepts": [
+    "kant-aesthetics",
+    "platonic-love",
+    "plato-forms"
+   ],
+   "relation": "Asks whether the Dalek casing can literally be beautiful, contrasting Kant's aesthetics (free beauty as the mind's fit with reality versus merely 'dependent' beauty of Davros-designed purpose) with Hegel's claim that beauty is thought embodied in matter, peaking in the human form, and Plato's view (via Nehamas's Phaedrus reading) that beauty begins the desire to care for a thing. Alexander of Hales's beauty-within-the-order and the Fourth Doctor's 'Genesis of the Daleks' echo, then Rosenkranz's aesthetic inferno where ugliness exists only as beauty's negation, show beauty and monstrosity need not be opposites. The conclusion is deliberately open: the puzzle forces us into metaphysics about mind and reality, not mere taste."
+  },
+  {
+   "n": 38,
+   "file": "ch38 - The Odd Thought of Doctor Who.md",
+   "kind": "chapter",
+   "philosophers": [
+    "leibniz",
+    "descartes"
+   ],
+   "concepts": [
+    "monadology",
+    "best-possible-world",
+    "sufficient-reason",
+    "cartesian-doubt"
+   ],
+   "relation": "Maps Leibniz's monadology onto the Whoniverse: the Doctor's individual concept survives each regeneration as a thinking monad while its bodily monads are replaced, parallel Liz Shaws in 'Inferno' show incompossible predicates, and the Time Lords play Leibniz's God permitting minimal evil, which the Doctor accepts in refusing to avert the Daleks' creation in 'Genesis of the Daleks'. The dimensionally transcendental TARDIS illustrates the principle of indiscernibles, the Matrix becomes a failed pre-established harmony haunted by confused perceptions, and the Master hallucinates against the Doctor like Descartes's evil demon. The Valeyard is modeled as an incompossible world on Leibniz's Sextus Tarquinius pyramid and Borges's forking paths, closing with Leibniz's own 'odd thought' academy of wonders."
+  },
+  {
+   "n": 39,
+   "file": "ch39 - EPISODE 6 - Lots of Planets Have a North!.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 40,
+   "file": "ch40 - Bunker Mentality or Love.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rorty",
+    "socrates"
+   ],
+   "concepts": [],
+   "relation": "Argues Terry Nation made the Daleks evil by inverting the Socrates-to-Kant tradition equating humanity with rationality: the Daleks of 'The Daleks' (1963) are hyper-rational but feelingless, unable to understand Susan's name or laughter, and Ian's verdict is simply 'They just aren't human'. The chapter situates them in the neutron-bomb panic of the Cuban Missile Crisis era (Skaro's undamaged city, stone trees) and a H.G. Wells lineage of evolution gone wrong (Martians, Morlocks), so the Daleks horrify as the emotionless future we might become after the bomb. Rorty's claim that moral progress comes through enlarged empathy, not reason, explains why Ian teaches the Thals goodness by appealing to love for their captured friend rather than argument."
+  },
+  {
+   "n": 41,
+   "file": "ch41 - The Doctor, Defender of British Dreams.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Argues the Doctor became Britain's national hero precisely at the moment of post-war imperial decline and decolonization: an anti-imperial Time Lord who still claims Time Lord identity, he personifies the country Britain hoped to be, in Fiske's phrase a mediator between god and man who wins by 'warm humane science' rather than superior force. The chapter traces this through Verity Lambert's anti-establishment design, Tom Baker's 'romantic wanderer', Romana as the ideal modern woman unfettered by gender roles, the Doctor's Big Brother-critiquing in 'The Sun-Makers' against Britain's own CCTV reality, and the spin-offs, concluding the show supplies a national mirror of hope and how Britain thinks it ought to be."
+  },
+  {
+   "n": 42,
+   "file": "ch42 - The Doctor Dances.md",
+   "kind": "chapter",
+   "philosophers": [
+    "adorno",
+    "horkheimer",
+    "vico"
+   ],
+   "concepts": [],
+   "relation": "Uses Vico's theory of myth (myths as communal rituals binding passion, decaying into the 'barbarism of reflection') to read the show's myth-versus-science serials: 'The Daemons' dismissively reduces myth to bad science, 'Meglos' shows the Deons' ritual nearly destroying Tigella, while 'Snakedance' shows ancient ritual wisdom, kept by Dojjen, defeating the Mara where decadent scholarship fails. Then Horkheimer and Adorno's Dialectic of Enlightenment grounds the deeper claim that science is itself a limiting myth, so the Doctor's 'laws of time' in 'The Waters of Mars' and 'The Fires of Pompeii' are self-imposed necessity that Donna can puncture. The show's counsel is balance: the Doctor keeps his science humane by respecting myth, dancing rather than shooting."
+  },
+  {
+   "n": 43,
+   "file": "ch43 - Ah, Doctor. We Know You by Reputation.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "plato"
+   ],
+   "concepts": [
+    "unexamined-life",
+    "socratic-method"
+   ],
+   "relation": "Argues Doctor Who is philosophy's ally by way of Plato's Gorgias distinction between teaching, which produces justified true belief, and rhetoric, which wins by persuasion: the Master is the master rhetorician whose hypnotic manipulation manufactures unreliable beliefs, while the Doctor is the Socratic teacher who gives information and lets companions decide. Socrates's descriptions of philosophy (the good life, sense of wonder, love of real knowledge) are matched to the show's career as an educational program that teaches viewers to reflect on how they reason, how they treat 'others' like Daleks and Silurians, and to revise their views, that is, to live the examined life."
+  },
+  {
+   "n": 44,
+   "file": "ch44 - Would You Like a Jelly Baby.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 45,
+   "file": "ch45 - The What, When, and Who of Doctor Who.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 46,
+   "file": "ch46 - The High Council of Gallifrey.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 47,
+   "file": "ch47 - The Matrix of Time Lord Bibliographic Sources.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 48,
+   "file": "ch48 - Logically Organized Index, for the Cyberman and Dalek in All of Us.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 49,
+   "file": "ch49 - Doctor Who and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 50,
+   "file": "ch50 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 30,
+   "type": "philosopher",
+   "suggested_slug": "feuerbach",
+   "name": "Ludwig Feuerbach",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Nineteenth-century philosopher who argued that God and Christ are projections of humanity's own ideals, so theology is really anthropology.",
+   "why": "Chapter 30's entire framing of the Doctor as a savior figure onto which Russell T Davies and viewers project human ideals explicitly rests on Feuerbach's projection theory, which taxonomy lacks."
+  },
+  {
+   "ch": 31,
+   "type": "concept",
+   "suggested_slug": "nihilism",
+   "name": "Nihilism",
+   "philosopher": "nietzsche",
+   "domain": "nineteenth-century",
+   "what": "The view that life has no value or meaning of its own because value must come from something beyond life; Nietzsche's name for the devaluation of life that culminates in the will to nothingness.",
+   "why": "Chapter 31's core thesis is that the Master is Nietzsche's most advanced nihilist, willing universal destruction after seeing the end of the universe, against the Doctor's life-affirmation; taxonomy has death-of-god but no nihilism concept."
+  },
+  {
+   "ch": 36,
+   "type": "philosopher",
+   "suggested_slug": "noel-carroll",
+   "name": "Noël Carroll",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Contemporary philosopher of art whose theory of art-horror defines monsters as scientifically inexplicable, category-violating beings that provoke both fear and disgust.",
+   "why": "Chapter 36 takes Carroll's fear-plus-disgust account of horror as its touchstone for explaining 'Blink' and revises it into fear plus impotence; he is central to the chapter and absent from taxonomy."
+  },
+  {
+   "ch": 42,
+   "type": "philosopher",
+   "suggested_slug": "vico",
+   "name": "Giambattista Vico",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "Early modern philosopher of history who held that myths originated as communal rituals channeling passion into social order, and that civilizations cycle into a 'barbarism of reflection' when reason dissolves those bonds.",
+   "why": "Chapter 42 uses Vico's philosophy of myth as its primary framework for reading 'The Daemons', 'Meglos' and 'Snakedance'; the author is a published Vico scholar and taxonomy has no Vico."
+  },
+  {
+   "ch": 42,
+   "type": "philosopher",
+   "suggested_slug": "horkheimer",
+   "name": "Max Horkheimer",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Frankfurt School critical theorist who co-authored Dialectic of Enlightenment, arguing that modern science is itself a myth in which mathematical procedure becomes the ritual of thought and enlightenment turns totalitarian.",
+   "why": "Chapter 42 leans on Horkheimer and Adorno's Dialectic of Enlightenment for its claim that the Doctor's scientific 'laws of time' are self-imposed myths; taxonomy has Adorno but not his co-author."
+  }
+ ]
+}

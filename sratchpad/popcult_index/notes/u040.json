@@ -1,0 +1,348 @@
+{
+ "book": "026 - South Park and Philosophy - Bigger, Longer, and More Penetrating",
+ "unit": "u040",
+ "chapters": [
+  {
+   "n": 30,
+   "file": "ch30 - Introduction.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Metallica, Nihilism, and Nostalgia.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "marx"
+   ],
+   "concepts": [
+    "death-of-god",
+    "master-slave-morality",
+    "ressentiment",
+    "marx-alienation"
+   ],
+   "relation": "Peter Fosl reads Metallica's lyrics (\"Leper Messiah,\" \"The God That Failed,\" \"One,\" \"To Live Is to Die,\" \"Escape\") as extending Nietzsche's and Marx's critiques of Christianity: religion as slave morality born of ressentiment and as opium deadening the oppressed, illustrated by the landmine veteran of \"One\" pleading with a silent God and Hetfield's abandoned-childhood grief. He argues the band often falls into the \"incomplete nihilism\" Nietzsche predicted, lamenting God's failure and longing nostalgically for the Christian meaning it can no longer believe in rather than transvaluating values. Yet the defiance of \"The Four Horsemen\" and \"Escape\" and the band's creative power show it also working toward an overcoming of Christian nihilism, confirmed for Fosl by Hetfield's post-rehab health."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - “They Have a Plan”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "master-slave-morality",
+    "ressentiment",
+    "immortality"
+   ],
+   "relation": "Robert Sharp reads the Cylon uprising in Battlestar Galactica as Nietzsche's slave revolt in morality: enslaved by humans, the Cylons react with resentment and overturn their masters' values, just as early Christians did under Rome. The humans keep a master morality (Colonial polytheism, warrior elites, call signs like Apollo and Athena), while Cylon monotheism, doctrines of the soul (Leoben's sermons to Starbuck, Gina's suicidal faith), equality, and consensus government reproduce slave morality's move from bodily weakness to spiritual superiority. The New Caprica occupation debate among the Cavils, Six, and Boomer, and D'Anna's boxing, show the former slaves seeking not just destruction but conversion of their masters to a religion that makes Cylons equal."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Viewer and the Look.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "foucault"
+   ],
+   "concepts": [
+    "the-look",
+    "bad-faith",
+    "panopticon"
+   ],
+   "relation": "Meyer and Schneider use the mockumentary camera of The Office (British and American versions) as Sartre's Look: Pam caught gazing at Jim and Karen in \"The Merger\" stages shame at being fixed as an object by the Other, while David Brent's bragging over his Inside Paper cover is pride as bad faith, an attempt to control the Other's gaze that requires denying the employee's freedom. Dwight and Angela's furtive affair and the Michael-Jan speakerphone call in \"Cocktails\" illustrate Foucault's panopticon: the mere possibility of the camera makes characters police themselves. The viewer, positioned behind the lens, becomes complicit in the objectifying Look that constitutes the show's comedy of embarrassment."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Determinism and the Dark Knight.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger"
+   ],
+   "concepts": [
+    "being-toward-death",
+    "thrownness",
+    "authenticity",
+    "free-will-determinism"
+   ],
+   "relation": "David Hart uses Heidegger's Being and Time to explain Batman's dedication without reducing it to trauma-determined compulsion: Alfred's butler's-world illustrates being-in-the-world and the thrown-project, and Bruce's confrontation with death, culminating in the bleeding alley scene of Miller's Batman: Year One, is Angst, the recognition of finitude that strips ordinary meanings away. Seen this way, \"I shall become a bat\" is an authentic, responsible choice of a whole life rather than a mechanical effect of childhood trauma. Hart concludes that Heidegger's analysis dissolves the free will versus determinism debate, since Batman neither blindly follows causes nor chooses from nowhere."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - You’re Basically “a Stuffed Animal Made by Grandma”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gilligan"
+   ],
+   "concepts": [
+    "care-ethics",
+    "feminism"
+   ],
+   "relation": "Renee Kyle sets House's detached \"doctor knows best\" medicine against Cameron's practice to argue for Carol Gilligan's feminist ethic of care: Cameron builds trust, refuses to deceive or bully (defending Ezra's control over his body in \"Informed Consent\"), and sees patients as embedded in relationships, arranging for parents to hold their newborn in \"Maternity,\" where House sees only abstract puzzles. The chapter also presses the standard feminist worry that valorizing care can backfire: Cameron's unresolved grief stops her from telling terminal patients the truth, and by \"Que Sera Sera\" she secretly injects a patient who wants to leave the hospital, so that caring too much turns her into House."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - The Price of Existence.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir"
+   ],
+   "concepts": [
+    "woman-as-other",
+    "male-gaze",
+    "becoming-woman",
+    "embodiment"
+   ],
+   "relation": "Bonnie Mann reads Twilight through Simone de Beauvoir's The Second Sex: Bella is the \"relative being\" whose existence has meaning only in orbit around Edward, clumsy, self-sacrificing, carried and watched, living the myth of the eternal feminine in which the masculine gaze confers being on a girl otherwise taught the world is defined without reference to her. She locates the fantasy's pull in the contradictory messages of twenty-first-century girlhood (Pipher, Phillips, Bordo), where being attractive to boys remains the first avenue to existing at all. Yet she also finds a feminist subtext: the vampire transformation returns Bella to the \"I can\" body, faster and stronger than Edward and saving the day herself, though Meyer ultimately re-sells the old promise that a woman wins existence through self-annihilation for others."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Family Guy Must Die! Long Live Family Guy!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lyotard",
+    "baudrillard",
+    "foucault"
+   ],
+   "concepts": [
+    "grand-narratives",
+    "simulacra",
+    "power-knowledge"
+   ],
+   "relation": "Jeremy Wisnewski's mock-manifesto uses Family Guy's cutaway gags and taboo jokes (Hitler sausage vendors, Petoria at the UN, Saddam and Khadafi bonding over Seinfeld) to stage postmodernism: Lyotard's \"incredulity toward meta-narratives\" and Baudrillard's claim that the real is no longer real, since our families are as televisual as the Griffins, who at least know they are cartoons. The danger is that joking about everything breeds cynical passivity, \"liberating us from our causes.\" But Foucault, the 1968 activist and prison reformer, shows through power/knowledge that one can be postmodern and still fight locally, so the Griffins, and the show's satire of religion and politics, get to live."
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Introduction.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 39,
+   "file": "ch39 - Gaining Trust from the Past.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "locke",
+    "rousseau",
+    "hume"
+   ],
+   "concepts": [
+    "state-of-nature",
+    "social-contract",
+    "punishment-theory",
+    "prisoners-dilemma"
+   ],
+   "relation": "Richard Davies treats the Oceanic 815 survivors' beach as a \"framed\" state of nature: the stolen water is a tragedy of the commons, Sawyer's \"finders keepers\" defense of Shannon's inhalers stages Hobbes's war of all against all against Locke's natural rights, and Jack and Sayid's torture of Sawyer marks the first step toward civil society, a claim to punish on another's behalf. He argues no theory of human nature (Rousseau's \"Innocence\" versus a \"Trust No. 1\" attitude) is needed to understand the castaways: cooperation grows through iterated prisoner's-dilemma tit-for-tat strategies, which also recasts the real difference between Hobbesian and Lockean states of nature."
+  },
+  {
+   "n": 40,
+   "file": "ch40 - Downsizing Dreams.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx",
+    "benjamin"
+   ],
+   "concepts": [
+    "marx-alienation",
+    "class-struggle",
+    "marx-ideology"
+   ],
+   "relation": "Michael Bray argues the American Office portrays the \"salaried masses,\" a class that exists in denying class: Jim, Pam, and Michael's rationalized, meaningless paper work realizes Marx's account of surplus value and degraded labor (the \"run-out-the-clock\" truck unloading, Pam's tepid watercolors), while their self-image survives by distinguishing itself from warehouse and prison labor. Episodes like Michael's condo purchase and Pam's \"dreams are just dreams\" show characters secretly longing for downsizing to force a different life. Against the New Yorker's claim that the show ignores class, Bray reads its comedy as standing on the edge of naming its economic conditions, with Michael's failure to inhabit management-speak making him, via Walter Benjamin, a last glimpse of \"authentic humanity.\""
+  },
+  {
+   "n": 41,
+   "file": "ch41 - It’s Not That Simple.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "utilitarianism",
+    "deontology",
+    "virtue-ethics",
+    "just-war-theory"
+   ],
+   "relation": "Donal O'Mathuna uses 24 to run the torture debate: the ticking bomb scenario (Syed Ali's nuclear bomb, Miles pressing to torture Audrey) dramatizes the utilitarian case for forward-looking interrogational torture, while Jack slicing off the Russian consul's finger and Morris's broken guilt show torture as a deontological violation that destroys character on both sides and usually fails to extract truth. Against the show's sanitized, banal presentation (Agent Burke as the \"kindly torturer\"), he sets Abu Ghraib, the systematic training of torturers, and the metastatic spread of torture programs once permitted. Fiction can open the ethical question, he concludes, but must not be mistaken for the reality of torture."
+  },
+  {
+   "n": 42,
+   "file": "ch42 - Mutants as Racelike.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Jeremy Pierce asks whether the X-Men's mutants are a race. Biologically they fail: the X-Gene occurs in non-mutants, mutants span every human ancestry (Storm, Banshee, Colossus, Jubilee), and human genetic variation is far too slight to ground racial essences. Socially they could count: like money or political labels, races can be social kinds, and Genosha's mutant slavery and the Days of Future Past camps would push mutants toward becoming one. He concludes mutants are only \"racelike,\" an analogy for real racial treatment rather than a new species (\"Homo superior\") or race."
+  },
+  {
+   "n": 43,
+   "file": "ch43 - Introduction.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 44,
+   "file": "ch44 - “How Could Anyone Fall in Love with a Toaster ” Cylons as Persons.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha",
+    "dogen"
+   ],
+   "concepts": [
+    "four-noble-truths",
+    "buddhist-karma",
+    "buddhist-impermanence",
+    "buddhist-non-self"
+   ],
+   "relation": "James McRae reads Battlestar Galactica through Zen Buddhism: the fleet's sleepless FTL jumps in \"33\" and Roslin's dwindling survivor counts enact the four noble truths, Leoben's interrogation scenes teach that suffering comes from ignorant attachment, and Dogen's no-self and impermanence frame the show's interdependent characters. Cylon resurrection, D'Anna's serial deaths, and the prophecy that \"all of this has happened before\" model karma and samsara, while Nishida's kenotic God of Absolute Nothingness makes sense of Six and Leoben's God of love. Because Cylons feel pain, fear death away from a resurrection ship, and act volitionally, McRae concludes they are persons in the Buddhist sense, owed the compassion of the Eightfold Path."
+  },
+  {
+   "n": 45,
+   "file": "ch45 - House Sitting.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "zen"
+   ],
+   "relation": "Ruff and Barris argue that House's rude, unjustified rhetoric works like Zen koan practice: by refusing to make ordinary sense (\"Everybody lies\"), he destabilizes everyone's assumptions, including his own, until the real problem reveals itself, as when his irreverent digging shows the faith-healing boy in \"House vs. God\" is ill because of a concealed affair. This Zen style is simultaneously an ethics of acting without knowing the end (not simple ends-justify-means), a way of stripping politeness to create genuine intimacy, and a method of healing, since on the nondualist view finding the truth of the situation just is healing it. House's equanimity over his fired team at the end of \"Human Error\" caps the reading."
+  },
+  {
+   "n": 46,
+   "file": "ch46 - Chapter 31 The Tao of the Bat.md",
+   "kind": "chapter",
+   "philosophers": [
+    "laozi",
+    "zhuangzi"
+   ],
+   "concepts": [
+    "yin-yang",
+    "wu-wei",
+    "taoism",
+    "the-tao"
+   ],
+   "relation": "In a fictional interview with the Taoist sage \"Bat-Tzu,\" Mark White explains Taoism through Batman's circle: Bruce's yang-dominated life of vengeance and paranoia needs the yin that Dick and Tim supply, shown by his forgiveness of Zatanna and tenderness toward Helena's baby, while Jason Todd illustrates the fate of the unbalanced who cannot accept death. Alfred emerges as the Taoist sage practicing wei-wu-wei, effortless service like Chuang Tzu's butcher, balancing right and wrong in Bruce, and the Batman-Joker duality shows yin and yang defining each other. Lao Tzu's sayings on balance, complementary opposites, and water-like yielding organize the whole reading."
+  },
+  {
+   "n": 47,
+   "file": "ch47 - Introduction.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 48,
+   "file": "ch48 - Reap a Destiny.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "william-james",
+    "aristotle",
+    "locke"
+   ],
+   "concepts": [
+    "being-toward-death",
+    "authenticity",
+    "immortality",
+    "free-will-determinism"
+   ],
+   "relation": "Jonathan and Jerry Walls read Deathly Hallows philosophically: Harry's willing march into the Forbidden Forest is Heideggerian authenticity, confronting being-toward-death, while Voldemort's horcruxes and the maimed King's Cross stowaway are the inauthentic flight from mortality that ruins the soul. The afterlife scene raises the stakes of this life: by James's \"sow a thought... reap a destiny,\" Aristotle's habituation, and Locke's memory-based identity, Voldemort's lifelong refusal of remorse fixes his character beyond repair, and Kant and Pascal supply reasons why belief in an afterlife transforms morality. Dumbledore's purgatory-like repentance, contrasted with Voldemort's fate, shows that our choices reap a destiny we must live with forever."
+  },
+  {
+   "n": 49,
+   "file": "ch49 - House and the Life of Reason.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "aristotle",
+    "plato",
+    "russell"
+   ],
+   "concepts": [
+    "meaning-of-life",
+    "unexamined-life",
+    "aristotle-eudaimonia",
+    "plato-euthyphro"
+   ],
+   "relation": "Henry Jacoby takes seriously House's nihilist sound bites (\"selfish, base animals,\" his baiting of Sister Augustine and Foreman's chapel prayer, his clinically dead experiment in \"97 Seconds\") but argues House actually lives the Socratic examined life and Aristotle's life of reason: his puzzle-solving saves lives, exercises humanity's distinctive function, and issues in eudaimonia. The Euthyphro dilemma shows meaning cannot be grounded in God's plan, and House's refusal of afterlife comfort leaves \"our actions here\" as all that matters. Against the unexamined life, House's \"What's the point in living without curiosity?\" makes him a Socratic figure who chooses meaning through reason rather than faith."
+  },
+  {
+   "n": 50,
+   "file": "ch50 - Glossary.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 51,
+   "file": "ch51 - Notes on Contributors.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 52,
+   "file": "ch52 - Sources.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 53,
+   "file": "ch53 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 39,
+   "type": "concept",
+   "suggested_slug": "prisoners-dilemma",
+   "name": "The Prisoner's Dilemma and Tit-for-Tat",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "A game-theory model in which each rational agent is better off defecting whatever the other does, though mutual cooperation beats mutual defection; the iterated version rewards the reciprocity strategy tit-for-tat.",
+   "why": "Chapter 39 uses the iterated prisoner's dilemma and tit-for-tat to explain how the survivors on Lost generate trust and to recast the Hobbes-Locke disagreement about the state of nature."
+  },
+  {
+   "ch": 41,
+   "type": "concept",
+   "suggested_slug": "ticking-bomb-scenario",
+   "name": "The Ticking Bomb Scenario",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "A thought experiment, classically formulated by Henry Shue, asking whether torturing a captured terrorist who knows where a soon-to-detonate bomb is hidden can be morally justified.",
+   "why": "Chapter 41 organizes 24's entire depiction of Jack Bauer around the ticking bomb argument, dramatizing its utilitarian appeal while cataloguing why it fails in reality."
+  },
+  {
+   "ch": 42,
+   "type": "concept",
+   "suggested_slug": "social-construction-of-race",
+   "name": "The Social Construction of Race",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "The view that races are not natural biological kinds but real social kinds, like money or political affiliations, constituted by collective classification and historical treatment.",
+   "why": "Chapter 42's core move is to reject biological race and argue that X-Men mutants could be racelike only as a socially constructed group, on the model of socially created kinds."
+  },
+  {
+   "ch": 44,
+   "type": "philosopher",
+   "suggested_slug": "nishida-kitaro",
+   "name": "Nishida Kitarō",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "Founder of the Kyoto School (1870-1945) whose Zen-based philosophy of religion conceives God as Absolute Nothingness and uses kenosis (self-emptying) to join Buddhist emptiness with a personal, immanent divinity.",
+   "why": "Chapter 44 invokes Nishida's kenosis theology to reconcile the Cylons' monotheistic God of love with Buddhist emptiness and interdependent arising."
+  }
+ ]
+}

@@ -1,0 +1,298 @@
+{
+ "book": "188 - The Ultimate South Park and Philosophy - Respect My Philosophah!",
+ "unit": "u272",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Globalization and Contemporary Art.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "peirce",
+    "derrida"
+   ],
+   "concepts": [
+    "skepticism",
+    "deconstruction"
+   ],
+   "relation": "The editors' introduction argues that South Park is one of TV's most important series because it lampoons the fanatical extremists of every social, ethical, economic, and religious position, modeling the fallibilist skepticism critical thinkers need (quoting Parker's line that the people screaming on both sides are the same and it is OK to laugh from the middle). It offers Peirce's account of thinking through incomplete signs and Derrida's 'play of differences' as case studies of this healthy skepticism, defends laughing at fanatics because their reasoning withers in sunlight, and previews the volume: Murtagh's 'sledgehammer' defense of blasphemous humor, Jacoby's Clifford-style case that belief without evidence is wrong, Dueck on rationally defensible faith, Gray on the 'Douche or Turd' election, and Held on gay marriage."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "arendt",
+    "plato",
+    "freud",
+    "aristotle"
+   ],
+   "concepts": [
+    "banality-of-evil",
+    "unexamined-life",
+    "aristotle-golden-mean",
+    "freud-unconscious"
+   ],
+   "relation": "Young argues that South Park is perceived as dangerous for exactly the reasons Socrates was tried and executed in Plato's Apology: both 'corrupt the youth' by mocking religion, questioning authority, and exposing that the supposed teachers (Mr. Garrison's flip-flopping creationism, Mrs. Broflovski's moral panics, the 'Death' boycott of Terrance and Phillip) do not know what they think they know. He diagnoses Cartman as an Eichmann figure whose banal, thoughtless evil—feeding Scott Tenorman his parents, torturing Muslims with farts—consists in the inability to think from another's standpoint, while Kyle and Stan's friendship embodies Arendt's dialogic thinking and Aristotle's mean between ideological extremes, as when they see both the merit and the smugness of hybrid drivers in 'Smug Alert'. Freud's theory that jokes break through repression explains why the show's vulgarity is essential rather than gratuitous: it verbalizes what culture silences so that it can be thought through, making South Park a Socratic gadfly rather than a corrupter."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "pascal",
+    "clifford"
+   ],
+   "concepts": [
+    "pascals-wager",
+    "skepticism",
+    "ethics-of-belief"
+   ],
+   "relation": "Jacoby defends W.K. Clifford's ethics of belief—it is wrong to believe on insufficient evidence and the burden of proof falls on the claimant—through Stan's exposures of TV psychic John Edward ('The Biggest Douche in the Universe'), the Scientology of 'Trapped in the Closet', and the faith-based story of Joseph Smith in 'All About Mormons'. The centerpiece is a South Park-illustrated demolition of Pascal's Wager: Kyle's hemorrhoid-driven despair in 'Cartmanland' shows a perfectly good God would not eternally reward evil Cartman or torture honest nonbelievers, and 'Do the Handicapped Go to Hell?' shows the wagerer cannot even know which religion pays out. Stan's closing speech to Edward's frightened audience carries the moral: comforting lies weaken the mind and slow the progress of finding the real, amazing answers."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates"
+   ],
+   "concepts": [
+    "terrorism-violence",
+    "socratic-ignorance",
+    "cosmopolitanism-ethics"
+   ],
+   "relation": "Kirby reads the 'Imaginationland' trilogy as a satire of post-9/11 America interpreted through Ulrich Beck's world risk society: the Pentagon generals, still thinking in Cold War categories like 'Project X' and Chinese imagination portals, embody Beck's denial response and end up voting to nuke Imaginationland, while Cartman's Rambo-style self-interest embodies the apathetic response. Socrates' practice of demanding definitions frames the chapter's question of what terrorism actually is (via Hoffman's five criteria), and Socratic ignorance about what one does not know is contrasted with the worse condition of not being able to know what you do not know. Kyle's courtroom speech that imaginary beings like Luke Skywalker and Santa are 'realer' than most real people, and Butters' creative power to imagine Santa back to life, point to Beck's cosmopolitan 'transformation': imagination and cross-border cooperation as the way out of risk panic."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "informal-fallacies"
+   ],
+   "relation": "Arp uses the show as a logic textbook: his own prejudice against Goth kids and Officer Barbrady's post-Atlas Shrugged ban on books illustrate hasty generalization, Cartman's 'if you do drugs, then you're a hippie' chain and the Tooth Fairy syllogism illustrate deductive argument, and Towelie's appearances illustrate inductive strength. A fallacy catalog follows: Johnny Cochran's 'If Chewbacca lives on Endor, you must acquit' in 'Chef Aid' as red herring, Mrs. Broflovski's 'Death' boycott of Terrance and Phillip as slippery slope, Mrs. Marsh's cookie outburst in 'Clubhouses' as hasty generalization plus slippery slope, Father Maxi's hell pronouncements as appeal to inappropriate authority, and cartoon Rob Reiner in 'Butt Out' as ad hominem. The chapter's claim is that Parker and Stone deliberately violate logical principles episode after episode to expose absurd beliefs, because how people reason shapes the laws they make and the beliefs they die for."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "william-james",
+    "kuhn",
+    "quine"
+   ],
+   "concepts": [
+    "faith-vs-reason",
+    "paradigm-shift",
+    "will-to-believe",
+    "abduction"
+   ],
+   "relation": "Johnson uses 'Go God Go's' future of 2546—where Dawkins-style atheism has become a warring religion and otter scientists intone 'Oh my Science!'—to ask whether science and religion genuinely conflict and whether New Atheism is itself a faith. Applying abduction and the four criteria of adequacy, he argues the embellished-story hypothesis beats miracle claims about Jesus (whose legend grew Gospel by Gospel), Sathya Sai Baba, Joseph Smith, and Xenu, that Mr(s). Garrison's 'you can't disprove God' and the show's sarcasm commit an appeal to ignorance, and that Stan's water-into-wine scene with Jesus shows how easily people are fooled. He allows Kuhnian theory change in science but rejects James's will-to-believe for existence claims—the moon whale Willzyx needs evidence—and concludes Parker and Stone are unfair to Dawkins: ending religion would not end violence, but it would remove the easiest justification for it, and some answers are simply true even when unknown."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "william-james",
+    "plantinga",
+    "popper"
+   ],
+   "concepts": [
+    "hume-miracles",
+    "will-to-believe",
+    "faith-vs-reason",
+    "falsification",
+    "religious-pluralism"
+   ],
+   "relation": "Dueck takes Stan's closing pluralism in 'Super Best Friends'—all religions have something valuable to teach, as the interfaith superheroes' combined powers defeat Blaine—and tests it against Hick's pluralism, exclusivism, and Rahner's inclusivist 'anonymous Christians', using 'Go God Go's warring atheist factions to show exclusivity is unavoidable even without God. Hume's miracle argument explains why Jesus's look-away water-into-wine trick convinces no one in the episode: testimony can never outweigh the laws of nature, so supernatural evidence resists natural evaluation. Popper's falsificationism warns that watering doctrines down to make religions compatible (the rabbit-pope of 'Fantastic Easter Special') leaves nothing to test, while James's will to believe and Plantinga's defense of exclusivism ground the conclusion that faith can be rationally justifiable where evidence runs out—beware the Blainetologists, but do not surrender ways of life that define us."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "pascal",
+    "plantinga"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "pascals-wager"
+   ],
+   "relation": "Johnson formalizes Kyle's crisis in 'Cartmanland'—evil Cartman inherits a million dollars and buys the amusement park while good Kyle suffers hemorrhoids and loses faith—as a valid argument from the logical problem of evil, then evaluates the town's theodicies against the philosophical ones. The Job story Kyle's parents read him fails like skeptical theism (it proves too much and ends in moral agnosticism), Chef's 'sweet milk of our tears' mirrors Calvin's and Edwards's God-glorifying account, Stan's restored faith via Cartman's perfect misery is a greater-goods response, Augustine's free will defense purchases goodness at the price of God's control of prayers and elections and cannot explain natural evils, and Hick's soul-making theodicy founders on fawns, tsunamis, and Kenny's deaths. Pascal's Wager and Plantinga's divine sense are dismissed in turn: evil does not disprove God, but proportioning belief to evidence makes non-belief the rational stance."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill"
+   ],
+   "concepts": [
+    "mill-liberty"
+   ],
+   "relation": "Koepsell surveys sixteen years of South Park blasphemy from 'Jesus vs. Santa' through 'Red Hot Catholic Love', 'Bloody Mary', the Scientology of 'Trapped in the Closet', and the censored Muhammad episodes 'Cartoon Wars' and '200'/'201', arguing that the show's equal-opportunity mockery is legitimate cultural criticism, not a sign of civilizational decline. Tracing the legal history from nineteenth-century blasphemy prosecutions through Cantwell v. Connecticut and Chaplinsky, he adopts Mill's On Liberty case that only free and open discussion of even the most sacred beliefs can shake out truth and keep opinion from becoming dead dogma. Comedy Central's black-screening of Muhammad while airing far coarser blasphemy was incoherent capitulation: nothing on the show is sacred, tolerance requires neither silence nor immunity from ridicule, and the Mormon Gary's 'suck my balls' sums the show's loving-but-mocking attitude."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "greatest-happiness",
+    "mill-liberty"
+   ],
+   "relation": "Murtagh asks whether the Virgin Mary statue spraying menstrual blood on a cardinal and the pope in 'Bloody Mary' is morally wrong, and answers with a utilitarian weighing of blasphemous humor's consequences. On the negative side, offense to believers (with Cartman's sudden piety about Family Guy's Muhammad in 'Cartoon Wars Part I' articulating the utilitarian worry that millions watching intensifies the harm) and a possible desensitizing erosion of tolerance; on the positive side, pleasure and the show's power to provoke thought, as when Randy learns from Stan that his five sober days came from his own willpower, not 'divine ass blood'. Drawing on Mill's greatest happiness principle and On Liberty's defense of open discussion, he concludes blasphemous humor is morally justified when it is an important part of a presentation with significant social value, and wrong when used merely to piss people off or for profit."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gadamer",
+    "peirce",
+    "locke",
+    "pascal"
+   ],
+   "concepts": [
+    "gadamer-hermeneutics"
+   ],
+   "relation": "Sirvent and Baker read The Book of Mormon alongside 'Cartman Sucks' and 'The Biggest Douche in the Universe' to expose religious fundamentalism—Elder Price's 'I Believe' creed, Elder McKinley's 'turn it off' cure for gay feelings, the conversion camp that is 'fixing' Bradley—as at once naive and arrogant. Peirce's 'fixation of belief' names the dogmatist's refusal to admit a belief could be wrong; Gadamer's hermeneutics shows that Elder Cunningham's Boba Fett additions to scripture are not corruption but an honest image of how all interpretation works, against the fundamentalist's naive realism that claims one pure meaning; and Locke on religious 'enthusiasm' plus Pascal on evil done from religious conviction explain how certainty of God's will always turns out to be a self-portrait, as in Cartman's revelation that God wants everyone to give him a dollar in 'Probably'. Genuine faith, they conclude with Elder Price's final conversion, only becomes fruitful once it accepts doubt."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 8,
+   "type": "philosopher",
+   "suggested_slug": "wk-clifford",
+   "name": "W.K. Clifford",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "English mathematician and philosopher (1845-1879) who argued it is 'wrong always, everywhere, and for anyone, to believe anything upon insufficient evidence'.",
+   "why": "Chapter 8 ('Stan Marsh and the Ethics of Belief') is built on Clifford's principle, quoting it and applying it to Stan's debunking of psychics, cults, and unevidenced faith."
+  },
+  {
+   "ch": 8,
+   "type": "concept",
+   "suggested_slug": "ethics-of-belief",
+   "name": "The Ethics of Belief (evidentialism)",
+   "philosopher": "wk-clifford",
+   "domain": "knowledge-science-reality",
+   "what": "The doctrine that believing on insufficient evidence is itself an ethical wrong that weakens the mind, and that the burden of proof always lies with the person making the claim.",
+   "why": "Chapter 8 evaluates Stan's battles with John Edward, Scientology, and Mormonism by this evidential standard; existing slugs like philosophical-skepticism cover doubting, not the moral duty governing belief itself."
+  },
+  {
+   "ch": 9,
+   "type": "philosopher",
+   "suggested_slug": "ulrich-beck",
+   "name": "Ulrich Beck",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "German sociologist-philosopher (1944-2015) of 'world risk society' and reflexive modernity: global, manufactured, unanticipatable risks that outstrip national concepts and control strategies.",
+   "why": "Chapter 9 reads 'Imaginationland' and the war on terror almost entirely through Beck's risk categories, citing him a dozen times as its theoretical backbone."
+  },
+  {
+   "ch": 9,
+   "type": "concept",
+   "suggested_slug": "world-risk-society",
+   "name": "World Risk Society",
+   "philosopher": "ulrich-beck",
+   "domain": "political-social",
+   "what": "Beck's thesis that modern risks are omnipresent, borderless, and 'not yet real', admitting only three responses—denial, apathy, and transformation into a 'cosmopolitan moment' of cooperation.",
+   "why": "Chapter 9 maps the Pentagon's 'nuke our imagination' panic onto denial, Cartman's Rambo individualism onto apathy, and Kyle and Butters' creativity onto Beck's transformative cosmopolitan response."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "informal-fallacies",
+   "name": "Informal Fallacies",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Named patterns of bad reasoning—hasty generalization, red herring, slippery slope, false dilemma, appeal to inappropriate authority, ad hominem—in which the conclusion is not supported by the premises.",
+   "why": "Chapter 10 is a catalog of exactly these fallacies illustrated by South Park episodes (the Chewbacca Defense, the 'Death' boycott, Barbrady's book ban), and the taxonomy lacks any logic or fallacy slug."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "inference-to-best-explanation",
+   "name": "Inference to the Best Explanation (abduction)",
+   "philosopher": "peirce",
+   "domain": "knowledge-science-reality",
+   "what": "Reasoning that compares rival hypotheses by criteria of adequacy—fruitfulness, simplicity, conservatism, and scope—and accepts the most adequate one.",
+   "why": "Chapter 12's whole method for judging miracle claims against the embellishment hypothesis (and Stan and Kyle's 9/11 'raging clue') is abduction; the taxonomy has Popper and Kuhn but no slug for this core scientific method."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "religious-pluralism",
+   "name": "Religious Pluralism (vs exclusivism and inclusivism)",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Hick's position that the great religions are roughly on par as transformative responses to the divine, set against exclusivism (one religion alone is true) and Rahner's inclusivism ('anonymous Christians').",
+   "why": "Chapter 13 structures its entire reading of 'Super Best Friends' and 'Go God Go' around the pluralism-exclusivism-inclusivism triad, and the taxonomy has no slug for theories of religious diversity."
+  }
+ ]
+}

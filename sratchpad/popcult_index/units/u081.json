@@ -1,0 +1,26 @@
+{
+ "unit": "u081",
+ "book": "050 - Facebook and Philosophy - What's on Your Mind_",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\050 - Facebook and Philosophy - What's on Your Mind_",
+ "range": [
+  2,
+  3
+ ],
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - index.md",
+   "words": 21755
+  },
+  {
+   "n": 3,
+   "file": "ch03 - index.md",
+   "words": 34242
+  }
+ ],
+ "content": [
+  2,
+  3
+ ]
+}

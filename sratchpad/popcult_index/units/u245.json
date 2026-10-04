@@ -1,0 +1,433 @@
+{
+ "unit": "u245",
+ "book": "167 - The Ultimate Harry Potter and Philosophy - Hogwarts for Muggles",
+ "part": "3/3",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\167 - The Ultimate Harry Potter and Philosophy - Hogwarts for Muggles",
+ "range": [
+  103,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 103,
+   "file": "ch103 - Unknown.md",
+   "words": 361
+  },
+  {
+   "n": 104,
+   "file": "ch104 - Tell Me One Last Thing.md",
+   "words": 128
+  },
+  {
+   "n": 105,
+   "file": "ch105 - What Is Real.md",
+   "words": 173
+  },
+  {
+   "n": 106,
+   "file": "ch106 - Going Mental.md",
+   "words": 487
+  },
+  {
+   "n": 107,
+   "file": "ch107 - Rowling as an Inkling.md",
+   "words": 796
+  },
+  {
+   "n": 108,
+   "file": "ch108 - Harry\u2019s Near-Death Experience.md",
+   "words": 1035
+  },
+  {
+   "n": 109,
+   "file": "ch109 - NOTES.md",
+   "words": 947
+  },
+  {
+   "n": 110,
+   "file": "ch110 - Unknown.md",
+   "words": 799
+  },
+  {
+   "n": 111,
+   "file": "ch111 - \u201cA Swirling, Silvery Mass\u201d.md",
+   "words": 377
+  },
+  {
+   "n": 112,
+   "file": "ch112 - The Hallows of the Mind.md",
+   "words": 740
+  },
+  {
+   "n": 113,
+   "file": "ch113 - Confundus!.md",
+   "words": 745
+  },
+  {
+   "n": 114,
+   "file": "ch114 - Mischief Managed.md",
+   "words": 678
+  },
+  {
+   "n": 115,
+   "file": "ch115 - Lumos!.md",
+   "words": 912
+  },
+  {
+   "n": 116,
+   "file": "ch116 - NOTES.md",
+   "words": 425
+  },
+  {
+   "n": 117,
+   "file": "ch117 - Unknown.md",
+   "words": 626
+  },
+  {
+   "n": 118,
+   "file": "ch118 - The Good.md",
+   "words": 257
+  },
+  {
+   "n": 119,
+   "file": "ch119 - Unknown.md",
+   "words": 100
+  },
+  {
+   "n": 120,
+   "file": "ch120 - Unknown.md",
+   "words": 222
+  },
+  {
+   "n": 121,
+   "file": "ch121 - Unknown.md",
+   "words": 157
+  },
+  {
+   "n": 122,
+   "file": "ch122 - Unknown.md",
+   "words": 224
+  },
+  {
+   "n": 123,
+   "file": "ch123 - Unknown.md",
+   "words": 86
+  },
+  {
+   "n": 124,
+   "file": "ch124 - Unknown.md",
+   "words": 295
+  },
+  {
+   "n": 125,
+   "file": "ch125 - Unknown.md",
+   "words": 336
+  },
+  {
+   "n": 126,
+   "file": "ch126 - The Ugly.md",
+   "words": 956
+  },
+  {
+   "n": 127,
+   "file": "ch127 - Like Bertie Bott\u2019s Every-Flavor Beans, a Mix.md",
+   "words": 610
+  },
+  {
+   "n": 128,
+   "file": "ch128 - NOTES.md",
+   "words": 146
+  },
+  {
+   "n": 129,
+   "file": "ch129 - Unknown.md",
+   "words": 852
+  },
+  {
+   "n": 130,
+   "file": "ch130 - PART FIVE - BEYOND THE VEIL DEATH, HOPE, AND MEANING.md",
+   "words": 9
+  },
+  {
+   "n": 131,
+   "file": "ch131 - Remorse and Death.md",
+   "words": 714
+  },
+  {
+   "n": 132,
+   "file": "ch132 - The Inversion of Voldemort.md",
+   "words": 1893
+  },
+  {
+   "n": 133,
+   "file": "ch133 - The Integrity Objection.md",
+   "words": 823
+  },
+  {
+   "n": 134,
+   "file": "ch134 - The Fantasy Objection.md",
+   "words": 778
+  },
+  {
+   "n": 135,
+   "file": "ch135 - Fawkes\u2019s Secret.md",
+   "words": 291
+  },
+  {
+   "n": 136,
+   "file": "ch136 - NOTES.md",
+   "words": 301
+  },
+  {
+   "n": 137,
+   "file": "ch137 - Unknown.md",
+   "words": 165
+  },
+  {
+   "n": 138,
+   "file": "ch138 - Death and Philosophy.md",
+   "words": 111
+  },
+  {
+   "n": 139,
+   "file": "ch139 - The Approaching Battle.md",
+   "words": 410
+  },
+  {
+   "n": 140,
+   "file": "ch140 - King\u2019s Cross Station.md",
+   "words": 642
+  },
+  {
+   "n": 141,
+   "file": "ch141 - Reap a Destiny.md",
+   "words": 773
+  },
+  {
+   "n": 142,
+   "file": "ch142 - NOTES.md",
+   "words": 1601
+  },
+  {
+   "n": 143,
+   "file": "ch143 - Unknown.md",
+   "words": 189
+  },
+  {
+   "n": 144,
+   "file": "ch144 - Fulfillment for Muggles and Wizards.md",
+   "words": 47
+  },
+  {
+   "n": 145,
+   "file": "ch145 - Voldemort and the Sophists.md",
+   "words": 214
+  },
+  {
+   "n": 146,
+   "file": "ch146 - The Common Good versus the Greater Good.md",
+   "words": 1486
+  },
+  {
+   "n": 147,
+   "file": "ch147 - Two Keys to the Good Life.md",
+   "words": 501
+  },
+  {
+   "n": 148,
+   "file": "ch148 - The End of the Story.md",
+   "words": 1383
+  },
+  {
+   "n": 149,
+   "file": "ch149 - NOTES.md",
+   "words": 155
+  },
+  {
+   "n": 150,
+   "file": "ch150 - Unknown.md",
+   "words": 448
+  },
+  {
+   "n": 151,
+   "file": "ch151 - CONTRIBUTORS.md",
+   "words": 1738
+  },
+  {
+   "n": 152,
+   "file": "ch152 - THE MARAUDER\u2019S INDEX.md",
+   "words": 4
+  },
+  {
+   "n": 153,
+   "file": "ch153 - Unknown.md",
+   "words": 63
+  },
+  {
+   "n": 154,
+   "file": "ch154 - Unknown.md",
+   "words": 67
+  },
+  {
+   "n": 155,
+   "file": "ch155 - Unknown.md",
+   "words": 101
+  },
+  {
+   "n": 156,
+   "file": "ch156 - Unknown.md",
+   "words": 127
+  },
+  {
+   "n": 157,
+   "file": "ch157 - Unknown.md",
+   "words": 48
+  },
+  {
+   "n": 158,
+   "file": "ch158 - Unknown.md",
+   "words": 48
+  },
+  {
+   "n": 159,
+   "file": "ch159 - Unknown.md",
+   "words": 123
+  },
+  {
+   "n": 160,
+   "file": "ch160 - Unknown.md",
+   "words": 122
+  },
+  {
+   "n": 161,
+   "file": "ch161 - Unknown.md",
+   "words": 58
+  },
+  {
+   "n": 162,
+   "file": "ch162 - Unknown.md",
+   "words": 9
+  },
+  {
+   "n": 163,
+   "file": "ch163 - Unknown.md",
+   "words": 31
+  },
+  {
+   "n": 164,
+   "file": "ch164 - Unknown.md",
+   "words": 124
+  },
+  {
+   "n": 165,
+   "file": "ch165 - Unknown.md",
+   "words": 151
+  },
+  {
+   "n": 166,
+   "file": "ch166 - Unknown.md",
+   "words": 15
+  },
+  {
+   "n": 167,
+   "file": "ch167 - Unknown.md",
+   "words": 13
+  },
+  {
+   "n": 168,
+   "file": "ch168 - Unknown.md",
+   "words": 244
+  },
+  {
+   "n": 169,
+   "file": "ch169 - Unknown.md",
+   "words": 6
+  },
+  {
+   "n": 170,
+   "file": "ch170 - Unknown.md",
+   "words": 149
+  },
+  {
+   "n": 171,
+   "file": "ch171 - Unknown.md",
+   "words": 182
+  },
+  {
+   "n": 172,
+   "file": "ch172 - Unknown.md",
+   "words": 62
+  },
+  {
+   "n": 173,
+   "file": "ch173 - Unknown.md",
+   "words": 14
+  },
+  {
+   "n": 174,
+   "file": "ch174 - Unknown.md",
+   "words": 63
+  },
+  {
+   "n": 175,
+   "file": "ch175 - Unknown.md",
+   "words": 96
+  },
+  {
+   "n": 176,
+   "file": "ch176 - Unknown.md",
+   "words": 2
+  },
+  {
+   "n": 177,
+   "file": "ch177 - Unknown.md",
+   "words": 2
+  },
+  {
+   "n": 178,
+   "file": "ch178 - Unknown.md",
+   "words": 534
+  }
+ ],
+ "content": [
+  103,
+  106,
+  107,
+  108,
+  109,
+  110,
+  111,
+  112,
+  113,
+  114,
+  115,
+  116,
+  117,
+  118,
+  120,
+  122,
+  124,
+  125,
+  126,
+  127,
+  129,
+  131,
+  132,
+  133,
+  134,
+  135,
+  136,
+  139,
+  140,
+  141,
+  142,
+  145,
+  146,
+  147,
+  148,
+  150,
+  151,
+  168,
+  178
+ ]
+}

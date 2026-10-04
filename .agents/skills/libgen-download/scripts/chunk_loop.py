@@ -37,7 +37,8 @@ def log(msg, log_file: Path):
 
 
 def docker_exec_stdin(container: str, script: str, args: str = "", timeout: int = 7200):
-    cmd = ["docker", "exec", "-i", container, "python", "-"] + ([args] if args else [])
+    cmd = (["docker", "exec", "-i", container, "python", "-"]
+           + (args.split() if args else []))
     return subprocess.run(cmd, input=script, capture_output=True, text=True,
                           timeout=timeout, shell=False)
 
@@ -119,7 +120,8 @@ def main():
             for line in out.splitlines():
                 if ("OK ->" in line or "no epub" in line or "no GET" in line
                         or "no mirror" in line or "invalid" in line
-                        or "rror" in line or "Traceback" in line):
+                        or "rror" in line or "Traceback" in line
+                        or "timeout" in line):
                     log("  " + line.strip(), log_file)
         except subprocess.TimeoutExpired:
             log("chunk timed out; continuing with what landed", log_file)
@@ -187,8 +189,9 @@ def main():
             cur = batch_state.get(k)
             # a no_result verdict outranks an earlier transient pending_retry,
             # so permanently-absent books stop being retried every chunk
-            if cur is None or (v.get("status") == "no_result"
-                               and cur.get("status") == "pending_retry"):
+            if cur is None or cur.get("status") == "pending" or (
+                    v.get("status") == "no_result"
+                    and cur.get("status") == "pending_retry"):
                 batch_state[k] = v
         state_path.write_text(
             json.dumps(batch_state, indent=2, ensure_ascii=False), encoding="utf-8")
@@ -200,8 +203,8 @@ def main():
         log(f"chunk done: {copied_out} new files", log_file)
 
         wait = rng.uniform(args.min_wait, args.max_wait)
-        log(f"sleeping {wait / 60:.0f} min before next chunk", log_file)
-        time.sleep(wait)
+        log(f"sleeping {wait:.0f} min before next chunk", log_file)
+        time.sleep(wait * 60)
     log("=== chunk loop end ===", log_file)
 
 

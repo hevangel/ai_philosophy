@@ -1,0 +1,100 @@
+{
+  "book": "251 - Punk Rock and Philosophy - Research and Destroy",
+  "unit": "u363",
+  "chapters": [
+    {
+      "n": 5,
+      "file": "ch05 - Screaming for Change.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 6,
+      "file": "ch06 - Screaming for Change.md",
+      "kind": "chapter",
+      "philosophers": ["gramsci", "marx"],
+      "concepts": ["hegemony", "culture-industry", "marx-alienation"],
+      "relation": "Opening chapter that reframes punk not as fashion, genre, or subculture but as a philosophy, using Gramsci's hegemony as the analytic lens. It traces punk's history (Sex Pistols, the Clash, hardcore, NOFX, Bad Religion) and argues the movement's real target is the hegemonic mainstream that co-opts and commodifies dissent (Green Day/Offspring signing to majors as 'selling out'). Marx's alienation of the industrial worker is invoked to explain the dole-queue discontent that birthed British punk, positioning punk style and sound as surface manifestations of an underlying oppositional ideology."
+    },
+    {
+      "n": 7,
+      "file": "ch07 - Screaming for Change.md",
+      "kind": "chapter",
+      "philosophers": ["gramsci", "baudrillard", "lyotard"],
+      "concepts": ["hegemony", "grand-narratives", "simulacra"],
+      "relation": "A literature review that critiques three prior scholarly frames for punk. It rejects Hebdige and the Birmingham CCCS reading of punk as mere subcultural 'resistance through style' (bricolage that only rearranges commodities and so is easily co-opted by the hegemony), then critiques postmodern 'authenticity' accounts drawing on Baudrillard and Lyotard, where the collapse of grand narratives leaves punks policing who is a 'real' punk versus a 'poseur.' Kristiansen argues all these approaches rob punk of complexity and proposes instead that punk is a philosophical/ideological system that produces the style, not the reverse."
+    },
+    {
+      "n": 8,
+      "file": "ch08 - Screaming for Change.md",
+      "kind": "chapter",
+      "philosophers": ["gramsci", "marx"],
+      "concepts": ["hegemony", "class-struggle"],
+      "relation": "The methods chapter, laying out ideological rhetorical criticism supplemented by Gramsci's theory of hegemony. It explains Gramsci's revision of Marx: society as a dynamic core/periphery equilibrium rather than a rigid base/superstructure, hegemony maintained by 'force plus consent,' and the 'organic intellectual' who pierces 'common sense' to offer 'good sense.' On this basis it justifies analyzing four albums (Sex Pistols' Never Mind the Bollocks, Bad Religion's Suffer, Refused's Shape of Punk to Come, NOFX's Wolves in Wolves' Clothing) as sites where the subaltern contest hegemonic culture."
+    },
+    {
+      "n": 9,
+      "file": "ch09 - Screaming for Change.md",
+      "kind": "chapter",
+      "philosophers": ["gramsci", "marx"],
+      "concepts": ["hegemony", "marx-alienation", "commodity-fetishism", "class-struggle"],
+      "relation": "The core analysis, reading all four albums track by track through Gramsci and Marx. The Sex Pistols' 'God Save the Queen' and 'Anarchy in the UK' attack the monarchy and consumerism as false consciousness; Bad Religion's 'Suffer' and 'You Are (The Government)' cast the state as gatekeeper of 'common sense' and religion as social-Darwinist superstition; Refused's 'New Noise' and 'The Deadly Rhythm' explicitly ventriloquize Marx on the production line, alienation, and organized revolt; NOFX's 'USA-Holes' and 'The Man I Killed' target Bush-era imperialism. Kristiansen extracts a shared subaltern rhetoric of nonconformity, anti-authoritarianism, and breaking 'the chains of false consciousness.'"
+    },
+    {
+      "n": 10,
+      "file": "ch10 - Screaming for Change.md",
+      "kind": "chapter",
+      "philosophers": ["gramsci"],
+      "concepts": ["hegemony", "marx-ideology"],
+      "relation": "The conclusion, which synthesizes the analysis into a tentative unifying 'punk philosophy of deviance': individualism, DIY practice, perpetual questioning of authority, self-education to escape false consciousness, and rejection of tradition and structures of power. Explicitly Gramscian, it frames the punk as an 'organic intellectual' who converts hegemonic 'common sense' into 'good sense,' argues the philosophy transcends age, style, and geography (Graffin looks nothing like a 'punk'), and flags the study's small four-album sample as its chief limitation while calling for future work on non-Western and religious punk."
+    },
+    {
+      "n": 11,
+      "file": "ch11 - Screaming for Change.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 12,
+      "file": "ch12 - Screaming for Change.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 13,
+      "file": "ch13 - Screaming for Change.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": [
+    {
+      "ch": 8,
+      "type": "concept",
+      "suggested_slug": "organic-intellectual",
+      "name": "The Organic Intellectual",
+      "philosopher": "gramsci",
+      "domain": "political-social",
+      "what": "Gramsci's idea that every social group generates its own intellectuals who articulate and organize its worldview and can contest hegemonic 'common sense' with 'good sense.'",
+      "why": "Chapter 8 (and 9-10) repeatedly cast the punk band as the Gramscian organic intellectual leading the subaltern; the taxonomy has 'hegemony' but no slug for this distinct, load-bearing concept."
+    },
+    {
+      "ch": 7,
+      "type": "philosopher",
+      "suggested_slug": "hebdige",
+      "name": "Dick Hebdige",
+      "philosopher": "",
+      "domain": "political-social",
+      "what": "Cultural theorist of the Birmingham CCCS whose Subculture: The Meaning of Style theorized subcultural resistance as semiotic style and bricolage.",
+      "why": "Chapter 7 engages Hebdige's subculture-as-style thesis at length as the primary account it argues against, but he has no slug in the taxonomy."
+    }
+  ]
+}

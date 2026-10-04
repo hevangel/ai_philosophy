@@ -1,0 +1,148 @@
+{
+  "book": "211 - Golf and Philosophy - Lessons from the Links",
+  "unit": "u302",
+  "chapters": [
+    {
+      "n": 23,
+      "file": "ch23 - Tenth Hole Life Lessons.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["wu-wei", "zen"],
+      "relation": "Tom Regan narrates his return to golf, playing hallowed Pebble Beach and then a humble nine-hole course at Pismo Beach, dogged throughout by a perfectionist inner 'doppelganger' who demands he hit his best shot every time and berates him when he fails. The lesson comes from Jason, an ex-convict at Pismo, who tells him it doesn't matter how good you are 'as long as you're there when you play' and to 'just let it go' rather than think about golfing. Regan then plays nine holes without a word from his doppelganger, dramatizing an effortless, present, ego-quieting acceptance close to wu wei and Zen letting-go rather than any doctrine he names."
+    },
+    {
+      "n": 24,
+      "file": "ch24 - VI. Golf, Mysticism, and Self-Understanding (Amen Corner).md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 25,
+      "file": "ch25 - Eleventh Hole Philosophy in the Kingdom Golf, Mysticism, and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["william-james", "russell", "sartre", "emerson"],
+      "concepts": ["zen", "sartre-freedom"],
+      "relation": "Mark Huston diagnoses why golf, more than baseball, gets mystical treatment in pop culture, using Michael Murphy's novel 'Golf in the Kingdom' (Shivas Irons, 'true gravity') and the film 'The Legend of Bagger Vance' (Junuh's 'authentic swing'). He plays William James's four marks of mysticism against Bertrand Russell's skeptical criteria, ties golf's appeal to individuality, contemplative time, nature (citing Emerson's 'transparent eye-ball') and Sartrean existential freedom, arguing that a golfer's freedom over whether to follow the rules mirrors Sartre's claim that in play man sets his own rules and must take responsibility. He reads Shivas Irons and Bagger Vance as Zen roshi figures using paradoxical, koan-like teaching to bring the student to a self-transforming 'authentic swing.'"
+    },
+    {
+      "n": 26,
+      "file": "ch26 - Twelfth Hole Midround and Midlife Defining Moments.md",
+      "kind": "chapter",
+      "philosophers": ["locke", "descartes", "buddha", "hume", "heraclitus"],
+      "concepts": ["locke-personal-identity", "personal-identity", "buddhist-non-self"],
+      "relation": "Andy Wible uses defining mid-round shots (the water ball on Augusta's twelfth, the shank that ruins a round) as a way into theories of personal identity, asking why some events make us who we are. He runs through body theory, Descartes's soul theory ('I think, therefore I am'), and Locke's memory theory (the prince-and-cobbler case), refining it with Shoemaker's quasi-memories, to argue that memory is central to identity and explains why a golfer cannot shake a bad shot. He then weighs the Buddhist/Humean/Heraclitean denial of a permanent self as a coping tool ('someone else hit the shank') and debates whether the beta-blocker Propranolol, which dulls adrenaline-fixed memories, could ethically erase the yips much as it treats PTSD."
+    },
+    {
+      "n": 27,
+      "file": "ch27 - Thirteenth Hole Free and Easy Wandering on the Golf Course Swing Like a Taoist.md",
+      "kind": "chapter",
+      "philosophers": ["zhuangzi", "laozi"],
+      "concepts": ["wu-wei", "the-tao", "taoism"],
+      "relation": "Scott F. Parker reads golf's paradox\u2014that you play your best shot when you stop trying so hard\u2014through the Taoism of the 'Tao Te Ching' and the 'Chuang Tzu.' Using the parable of the archer (skill is constant but attachment to the prize ruins the shot), Cook Ting carving the ox by spirit not force, and Master Yu accepting his deformity, he draws out nonattachment to results, 'doing without doing' (wei wu wei), and self-knowledge/self-acceptance, illustrated by Zach Johnson never going for a par 5 in two at the 2007 Masters and Tiger Woods rarely swinging all-out. The essay embodies the Taoist point that the Tao that can be told is not the eternal Tao: to try to not-try is self-defeating, so one must simply not try."
+    },
+    {
+      "n": 28,
+      "file": "ch28 - VII. Golf and Idealism.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 29,
+      "file": "ch29 - Fourteenth Hole Plato and Confucius on the Form of Golf From the Real to the Ideal.md",
+      "kind": "chapter",
+      "philosophers": ["plato", "confucius", "socrates"],
+      "concepts": ["plato-forms", "confucian-li", "confucian-ren"],
+      "relation": "Stephen Laumakis stages a thought experiment pitting Plato the Idealist against Confucius the Realist/Pragmatist on how to think about and play golf. On Plato's theory of Forms, every club, ball and swing is an imperfect copy of a timeless, unchanging Form\u2014there is a 'perfect' swing (Tiger Woods, Ernie Els) that par and the handicap system let us measure ourselves against, so golf is about striving toward the Ideal. Confucius, read through the 'Great Learning' and 'Analects' (li, ren, self-cultivation, unrelenting practice), instead prizes the situation-sensitive sage who negotiates each bad lie (Phil Mickelson's flop shots). Laumakis concludes the good golfer must integrate both: pursue perfection while wielding practical wisdom about when to go for it and when to lay up."
+    },
+    {
+      "n": 30,
+      "file": "ch30 - Fifteenth Hole The \u201cIdeal\u201d Swing, the \u201cIdeal\u201d Body Myths of Optimization.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["kant-aesthetics"],
+      "relation": "Jason and Laurence Holt attack two 'optimization' myths in golf culture via a philosophy of kinesiology: the averaging model (that the ideal swing is the statistical mean of elite swings) and the athlete model (that more general fitness makes a better golfer). Against the first they invoke multiple realizability from philosophy of mind\u2014there is no single perfect swing, since Bobby Jones's over-parallel backswing, Hagen's short fast swing, and the quirky swings of Trevino and Furyk all succeed on different bodies. Against the second they note golf's modest physical demands and argue Tiger Woods's heavy conditioning caused injury without improving results. They diagnose the false ideal as an aesthetic bias favoring 'beautiful' swings and athletic-looking bodies, using Suits's definition of games to defend golf as a genuine sport of gross physical skill."
+    },
+    {
+      "n": 31,
+      "file": "ch31 - VIII. Golf and Meaning.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 32,
+      "file": "ch32 - Sixteenth Hole Golf and the Meaning of Life.md",
+      "kind": "chapter",
+      "philosophers": ["nozick", "epicurus", "schopenhauer", "camus", "mill"],
+      "concepts": ["meaning-of-life", "experience-machine", "schopenhauer-pessimism", "sisyphus"],
+      "relation": "Randy Lunsford uses Annika Sorenstam's early retirement to ask what makes golf\u2014and life\u2014meaningful, surveying religious versus scientific accounts of purpose and E. J. Bond's claim that meaning comes from pursuing objectively valuable ends, not just satisfying desire. He tests Epicurean hedonism and Nozick's experience machine (we want to really shoot the course record, not merely feel we did), Taylor's reworking of the Sisyphus myth (meaning via injected desire), and Schopenhauer's pessimism that satisfied desire only yields boredom. He argues golf's very finitude\u2014eighteen holes, like a mortal life\u2014gives it meaning, so excellence, relationships, playing by the rules, and taking responsibility for each shot are what make both golf and life worthwhile."
+    },
+    {
+      "n": 33,
+      "file": "ch33 - Seventeenth Hole More Than a Playing Partner Golf and Friendship.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle"],
+      "concepts": ["aristotle-friendship", "philosophy-of-love"],
+      "relation": "Andy Wible argues that although golf looks like the ultimate solitary sport, it is unusually good at fostering friendship, and analyzes friendship through Aristotle's three kinds (utility, pleasure, and the highest, based on the friend's good character), supplemented by Laurence Thomas (choice, equality, mutual trust) and Blum on care as a moral phenomenon. Golf's long unhurried rounds, self-called penalties, handicap system, shared memorable shots, and retirement communities build the intimacy, trust and equality Aristotle prizes, and Robert Simon's 'mutual quest for excellence' reconciles competition with goodwill. Wible then confronts friendship's partiality\u2014exclusionary country clubs and the sex-segregated LPGA\u2014using Marilyn Friedman's voluntary friendship communities to argue clubs should drop discrimination on race, sex, religion and orientation while keeping friendship's care and loyalty."
+    },
+    {
+      "n": 34,
+      "file": "ch34 - IX. Parting Shots.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 35,
+      "file": "ch35 - Eighteenth Hole Swing Thoughts Tough Questions for a Tough Game.md",
+      "kind": "chapter",
+      "philosophers": ["plato", "berkeley", "augustine"],
+      "concepts": ["plato-ring-of-gyges", "berkeley-idealism"],
+      "relation": "Andy Wible closes the volume with fourteen open-ended 'swing thoughts'\u2014short provocations applying philosophy to golf rather than arguing a thesis. He asks whether golf's subdued, rational fans make it morally superior (Plato and Aristotle on reason ruling emotion), whether Tiger Woods effectively wielded Plato's Ring of Gyges by sinning while invisible, whether Berkeley's idealism means your clubs and playing partners are mere perceptions (and whether that would matter), and invokes Augustine's 'an unjust law is no law at all' to license civil disobedience against unfair rules like spike marks. Further questions probe environmental harm, prayer as cheating, Casey Martin's cart, and whether perfect virtual golf would count as 'real' golf."
+    },
+    {
+      "n": 36,
+      "file": "ch36 - The Field.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 37,
+      "file": "ch37 - Index.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": [
+    {
+      "ch": 25,
+      "type": "concept",
+      "suggested_slug": "mysticism",
+      "name": "Mysticism",
+      "philosopher": "",
+      "domain": "religion-meaning",
+      "what": "The doctrine and study of direct, ineffable, unitive transcendent experience, marked by noetic quality, loss of ego, and timelessness (William James, Russell).",
+      "why": "Chapter 25 is centrally about mysticism as a category\u2014defining its criteria via James and Russell and asking why golf attracts mystical representation\u2014and the taxonomy has no concept for mysticism itself, only adjacent slugs like zen and neoplatonism."
+    },
+    {
+      "ch": 30,
+      "type": "concept",
+      "suggested_slug": "multiple-realizability",
+      "name": "Multiple Realizability",
+      "philosopher": "",
+      "domain": "mind-language-metaphysics",
+      "what": "The thesis (from philosophy of mind) that one functional kind can be realized by many different physical substrates, so no single physical form is privileged.",
+      "why": "Chapter 30's core argument is that the optimal golf swing is 'multiply realizable'\u2014the authors name and lean on the philosophy-of-mind concept directly\u2014and the taxonomy has no concept slug for multiple realizability."
+    }
+  ]
+}

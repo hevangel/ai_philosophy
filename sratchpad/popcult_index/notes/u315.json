@@ -1,0 +1,211 @@
+{
+ "book": "218 - The Philosophy of the Coen Brothers",
+ "unit": "u315",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Preface.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Acknowledgments.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Introduction.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Part - 1 The Coen Brand of Comedy and Tragedy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Raising Arizona as an American Comedy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "emerson",
+    "plato",
+    "heidegger",
+    "nietzsche",
+    "sartre"
+   ],
+   "concepts": [
+    "emerson-self-reliance",
+    "plato-cave",
+    "authenticity"
+   ],
+   "relation": "Gilmore reads Raising Arizona as a classical comedy (bad-beginning-to-good-ending) about the American 'optative mood' of self-creation, using Hi McDunnough's outlaw-to-family arc and his name-as-height-metaphor to figure Emerson's aspirational American self. He deploys Plato's two kinds of cave-laughter to distinguish the film's 'tender,' welcoming comedy (Hi and Ed, Gale and Evelle) from mocking ridicule, and frames Hi's need to abandon outlaw identity via Heidegger's Augenblick and Badiou's 'event' sparked in Ed's mug-shot flash. Nietzsche on dreams-as-origin-of-metaphysics grounds the film's dream/reality tension, and Hi's over-identification with the outlaw universal is glossed as Sartrean bad faith."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Human Comedy Perpetuates Itself Nihilism and Comedy in Coen Neo-Noir.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "arendt"
+   ],
+   "concepts": [
+    "death-of-god",
+    "last-man",
+    "will-to-power"
+   ],
+   "relation": "Hibbs argues that neo-noir turns classic noir's grim fatalism comic by making nihilism a working assumption, and that Nietzsche supplies the diagnosis: the 'death of God,' the passive 'last man,' and the aristocratic 'pathos of distance' of will-to-power super-antiheroes (Hannibal Lecter, the villains of Cape Fear/Basic Instinct). He reads The Big Lebowski as the Coens' comic leveling of nihilism, with Walter insisting the Germans are 'nihilists' and 'cowards' and the Dude 'abiding,' showing that full nihilism cannot be lived. In Fargo and Raising Arizona, Marge's 'banality of virtue' (a comic counterpoint to Arendt's banality of evil) and the resilience of familial/procreative instinct reassert a comic order over the noir trap."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Philosophies of Comedy in O Brother, Where Art Thou.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bergson",
+    "kierkegaard"
+   ],
+   "concepts": [
+    "bergson-laughter",
+    "kierkegaard-stages"
+   ],
+   "relation": "McFarland explains the comedy of O Brother through Bergson's 'mechanical encrusted on the living' (the chain-gang pratfall where McGill forgets he is shackled, the toon-like plasticity of the escapees) and Kierkegaard's account of the comic as unresolved contradiction, like men bustling on a sinking ship. He argues the Klan-rally set piece refuses Jamesonian 'pastiche' by grounding its Wizard-of-Oz and Odyssey allusions in real historical guilt, forcing the postmodern aesthete-viewer, as in Kierkegaard's Either/Or, from the aesthetic to the ethical stage. The subverted ending—Penny rejecting the non-bona-fide ring—enacts Kierkegaard's view that marriage is comic because it 'binds' time and acknowledges contradiction rather than resolving it."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - No Country for Old Men The Coens’ Tragic Western.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "aristotle",
+    "heraclitus",
+    "camus",
+    "thoreau"
+   ],
+   "concepts": [
+    "apollonian-dionysian",
+    "heraclitean-flux",
+    "the-absurd",
+    "fate-vs-free-will"
+   ],
+   "relation": "Gilmore reads No Country for Old Men as the Coens' tragic Western, casting Llewelyn Moss as an Oedipus-like hero whose competence-plus-hubris (wounding the antelope, going back to the dying man) triggers his ruin, per Aristotle's Nicomachean Ethics and the Delphic 'know thyself.' Anton Chigurh is a Nietzschean force beyond good and evil whose coin-toss rule preserves invulnerability by subordinating desire to chance, an amoral Dionysian wildness the essay ties to Thoreau's 'in Wildness is the preservation of the world' and Nietzsche's Apollonian/Dionysian balance from The Birth of Tragedy. Heraclitus's 'geometrical mean' models the hunter-to-prey structure (Chigurh:humans::Moss:antelope), and Bell's fatalism and closing dream of carrying fire voice a Greek-tragic 'you reap what you sow.'"
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Deceit, Desire, and Dark Comedy Postmodern Dead Ends in Blood Simple.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lyotard",
+    "girard"
+   ],
+   "concepts": [
+    "grand-narratives",
+    "simulacra"
+   ],
+   "relation": "Woolfolk argues that Blood Simple is 'resolutely postmodern': it recycles noir motifs as Jamesonian pastiche but, unlike classic noir (Double Indemnity, Detour), offers no modernist critique of capitalist civilization and no saving metanarrative, leaving only a profane comic present. He reads the three men who go 'simple'—Ray, Marty, Visser—through Girard's triangular desire, driven by unchecked, mutually imitated passions with no external mediating authority, while Visser's sidewalk individualism supplies a minimal social philosophy. Crucially the film's world is ruled by chance, not fate (the pistol's three bullets, Abby's lucky single shot), so Abby's clueless 'health' and survival affirm postmodern contingency rather than any critique of late modernity."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Part - 2 Ethics Shame, Justice, and Virtue.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - “And It’s Such a Beautiful Day!” shame and Fargo.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-friendship",
+    "moral-psychology",
+    "virtue-ethics"
+   ],
+   "relation": "Hanrahan and Stearns read Fargo through Aristotle's theory of shame and its link to friendship, sorting the characters into his moral hierarchy: Gaear is the shameless self-indulgent man, Jerry is the morally incontinent one whose flickers of shame (before Scotty, before the swindled customer) stay inert against his greed, and Marge is the exemplar of excellence. They argue that a capacity for shame requires valuing others non-instrumentally, which the co-conspirators cannot do because they relate only through friendships of utility (Carl and the prostitute, Jerry using his son). Marge's friendship-of-the-good with Norm grounds both her decency and her ability to mediate others' shame, and her 'it's such a beautiful day' expresses the same noninstrumental valuing that makes moral concern possible."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Justice, Power, and Love The Political Philosophy of Intolerable Cruelty.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rawls",
+    "hobbes",
+    "plato",
+    "machiavelli"
+   ],
+   "concepts": [
+    "justice-as-fairness",
+    "veil-of-ignorance",
+    "social-contract"
+   ],
+   "relation": "Biderman and Devlin trace Intolerable Cruelty through three theories of justice enacted by divorce attorney Miles Massey and femme fatale Marylin. 'Justice as power' is Thrasymachus's 'advantage of the stronger' and Machiavelli's might-makes-right, seen in Miles's courtroom war-room rhetoric and teeth imagery and in Marylin's plan to 'nail his ass' via marriage. 'Justice as compromise' is Hobbes's social contract escaping the state of nature, but the film shows the Massey pre-nup's signing and tearing to be merely a mask for power. When Miles and Marylin genuinely fall in love, their indifference to each other's wealth becomes a Rawlsian veil of ignorance and difference principle—justice as fairness—though the cynical Funniest Divorce Videos ending leaves that victory unguaranteed."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Ethics, Heart, and Violence in Miller’s Crossing.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "plato",
+    "hobbes",
+    "aristotle",
+    "kant"
+   ],
+   "concepts": [
+    "hume-sentimentalism",
+    "social-contract",
+    "plato-justice"
+   ],
+   "relation": "Herling reads Miller's Crossing through Hume's moral psychology of passion versus reason, arguing the film's dominant 'ethics' (voiced by Johnny Caspar) is Hobbes's social contract plus Thrasymachus's advantage-of-the-stronger and Plato's 'do good to friends, harm to enemies'—a relativism of power that Tom Reagan navigates by cool calculation. 'Heart,' the capacity for sympathetic attachment Hume makes the real basis of morality, keeps breaking through: Tom spares the pleading Bernie ('Look in your heart') at Miller's Crossing, and his loyalty to Leo secretly drives his 'plays.' But Bernie's betrayal, the surreal sympathy-crushing violence (the beatings, Leo's tommy-gun ballet, Caspar shooting the faceless Dane), and Leo and Verna's reunion steel Tom into lonely noir stoicism—'What heart?'—when he finally executes Bernie without mercy."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "girard",
+   "name": "René Girard",
+   "philosopher": "girard",
+   "domain": "mind-language-metaphysics",
+   "what": "20th-century French theorist of mimetic (triangular) desire and the scapegoat mechanism, whose Deceit, Desire, and the Novel argues desire is copied from a mediating rival rather than spontaneous.",
+   "why": "Chapter 12 makes Girard's 'triangular desire' and the absent 'external mediating authority' the explicit engine of how Ray, Marty, and Visser go 'simple,' and no taxonomy philosopher or concept covers mimetic desire."
+  }
+ ]
+}

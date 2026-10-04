@@ -1,0 +1,231 @@
+{
+  "book": "264 - Jane Austen and Philosophy",
+  "unit": "u382",
+  "chapters": [
+    {
+      "n": 5,
+      "file": "ch05 - Jane Austen and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 6,
+      "file": "ch06 - Jane Austen and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 7,
+      "file": "ch07 - Jane Austen and Philosophy.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 8,
+      "file": "ch08 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "nietzsche", "fricker", "marx"],
+      "concepts": ["epistemic-injustice", "aristotle-friendship", "aristotle-eudaimonia"],
+      "relation": "Marinucci's editorial introduction surveys the volume, framing Austen's six novels as a body of work with philosophical value across love/marriage, morality/virtue, wealth/class, concepts, and zombie mashups. It previews each contributor's thesis: Bufacchi reading Anne Elliot and the Bennets through Fricker's epistemic injustice, Dougherty aligning Austen's ideal marriage with Aristotelian complete friendship, Lindenmuth pairing Austen with Nietzsche on marital happiness, and Bane's Marxist reading of the 1940 Pride and Prejudice film. It argues Austen is an 'accidental philosopher' whose insight into social relations, especially women's vulnerability, carries philosophical weight."
+    },
+    {
+      "n": 9,
+      "file": "ch09 - Jane Austen and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 10,
+      "file": "ch10 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["fricker", "young"],
+      "concepts": ["epistemic-injustice", "five-faces-oppression"],
+      "relation": "Bufacchi applies Fricker's testimonial and hermeneutical epistemic injustice to Austen's heroines, arguing women like Anne Elliot ('only Anne,' her word carrying no weight) and Elizabeth Bennet are denied credibility as knowers, while Mr. Collins's certainty that a woman's 'no' means 'yes' shows men's epistemic arrogance. He layers in Young's structural injustice to explain the Bennet women's economic vulnerability under entailment, then extends Fricker with his own 'Perpetuating Force of Epistemic Injustice': Emma Woodhouse, herself a victim, becomes a perpetrator by silencing Harriet Smith's love for the farmer Robert Martin, showing how the oppressed reproduce the injustice on those below them."
+    },
+    {
+      "n": 11,
+      "file": "ch11 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["wollstonecraft", "hooks"],
+      "concepts": ["vindication-women", "feminism", "philosophy-of-love"],
+      "relation": "Winkle reads Sense and Sensibility as steering a 'middle road' between cold rational calculation and sentimental self-indulgence, and casts Austen as proto-feminist. She uses Wollstonecraft's Vindication to explain why Austen's silly wives (Mrs. Bennet, Lucy Steele) are products of a deficient female education that trains women to please rather than reason. She then reads Elinor Dashwood's measured love for Edward, and Marianne's near-fatal collapse over Willoughby, through bell hooks's claim that 'falling in love' surrenders agency, arguing Elinor chooses love as an act of will while Marianne must learn sense before finding lasting love with Colonel Brandon."
+    },
+    {
+      "n": 12,
+      "file": "ch12 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["plato", "hegel", "derrida"],
+      "concepts": ["hegel-dialectic", "philosophy-of-love"],
+      "relation": "Gibson argues Austen's novels are propelled by dialectical forces (signaled by titles like Pride and Prejudice and Sense and Sensibility) that are reconciled through the marriage bond, invoking the Platonic origin of dialectic and drawing on Harold Bloom's reading of Darcy and Elizabeth as sharing a common will. Love functions as the transcendent principle that resolves opposition, but Gibson stresses (citing Derrida on the gift) that in Austen love never fully escapes the economic and social 'prisons' of marriage: Charlotte Lucas's loveless match, Fanny Price's poverty, and Anne Elliot's coerced broken engagement all show love succeeding only alongside wealth and status."
+    },
+    {
+      "n": 13,
+      "file": "ch13 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche", "aristotle"],
+      "concepts": ["aristotle-eudaimonia", "philosophy-of-love"],
+      "relation": "Lindenmuth pairs Austen with Nietzsche on what makes a happy marriage, reading Pride and Prejudice's clashes over Lizzy's refusals of Mr. Collins and Darcy, and Lady Catherine's and Sir Thomas Bertram's aristocratic insistence that superiors should choose for inferiors. He uses Nietzsche's 'philosophizing with a hammer' to cast Austen as smashing the dead traditions of entailment and arranged marriage, and Nietzsche's aphorisms (a good marriage rests on a talent for friendship and good conversation; sensuality makes love grow too fast) to judge the couples, concluding Austen holds an Aristotelian, objective view of happiness as a reward for getting life right rather than mere desire-satisfaction."
+    },
+    {
+      "n": 14,
+      "file": "ch14 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle"],
+      "concepts": ["aristotle-friendship", "aristotle-virtue-ethics", "unexamined-life"],
+      "relation": "Dougherty argues Austen's ideal marriage mirrors Aristotle's complete friendship, where the friend is loved for who they are and becomes a 'second self.' She sorts Austen's relationships into Aristotle's three kinds: utility (Emma and Mrs. Elton, Charlotte and Mr. Collins), pleasure (Lydia and Wickham, the fading Emma-Harriet bond), and complete friendship grounded in mutual good character (Jane and Bingley, Elizabeth and Darcy, Emma and Knightley). Central is the 'second self' as mirror: Darcy's letter and Knightley's rebukes let Elizabeth and Emma see themselves ('Till this moment I never knew myself'), so marriage-as-friendship improves self-knowledge and virtue and must not be left to chance as Charlotte urges."
+    },
+    {
+      "n": 15,
+      "file": "ch15 - Jane Austen and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 16,
+      "file": "ch16 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "plato"],
+      "concepts": ["aristotle-eudaimonia", "aristotle-virtue-ethics", "moral-psychology"],
+      "relation": "Potzsch reads Emma as an Aristotelian study of eudaimonia, arguing Emma's self-deception and the flattery of those around her block her from true happiness, which for Aristotle is activity of the soul in accordance with reason and virtue. She diagnoses Emma's cruelty to Miss Bates at Box Hill as Aristotelian akrasia (moral weakness): Emma knows better but is overpowered by the desire to shine, showing virtue has not yet become her second nature. She contrasts Emma and Mrs. Elton's pursuit of honor (which Aristotle deems superficial, illustrated via Plato's Euthyphro) with Knightley's genuine virtue, and closes on Aristotle's ranking of the contemplative over the political life."
+    },
+    {
+      "n": 17,
+      "file": "ch17 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["macintyre", "aristotle", "ryle"],
+      "concepts": ["macintyre-tradition", "virtue-ethics", "aristotle-practical-wisdom"],
+      "relation": "LaRocca unpacks MacIntyre's After Virtue claim that Austen is 'the last great representative of the classical tradition of the virtues.' He traces MacIntyre's argument that Austen synthesizes Homeric social roles, Aristotelian practical wisdom (phronesis), and Christian humility, making constancy her master virtue (analogous to phronesis) and distinguishing genuine amiability from mere agreeableness (Knightley on Frank Churchill: 'amiable only in French'). He contrasts Austen's internal, teleological virtue with Franklin's utilitarian ledger, cites Ryle's 'gradal' Aristotelian reading of Austen's character vocabulary and C.S. Lewis on her Christian 'undeception,' and reads Fanny Price's charmless constancy as exemplary of virtue over charm."
+    },
+    {
+      "n": 18,
+      "file": "ch18 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["williams", "nagel", "hume", "nussbaum"],
+      "concepts": ["moral-luck"],
+      "relation": "Dadlez argues Austen gives a formative account of circumstantial moral luck (Nagel and Williams) via counterfactual character pairs. In Mansfield Park, the indolent sisters Lady Bertram and Mrs. Price share a character but differ only in fortune: wealth lets Lady Bertram appear respectable while poverty exposes Mrs. Price as a slattern, suggesting Hume's 'virtue in rags' has a counterpart, 'vice in dishabille.' In Sense and Sensibility, Marianne and Colonel Brandon's Eliza share a warm, unguarded nature, but a forced marriage ruins Eliza while family support saves Marianne. Austen deploys counterfactuals in both directions, showing respectability can hinge on luck and thereby mitigating blame as well as assigning it."
+    },
+    {
+      "n": 19,
+      "file": "ch19 - Jane Austen and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 20,
+      "file": "ch20 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["wollstonecraft"],
+      "concepts": ["vindication-women", "feminism"],
+      "relation": "Dashwood examines women owning property in Austen, arguing the 'great ladies' (Lady Catherine, Mrs. Ferrars, Lady Denham) are drawn as despotic, avaricious, and negligent managers not because they are women but because a deficient female education left them unfit, echoing Wollstonecraft's Vindication that female failings are constructed by upbringing. She contrasts them with propertyless heroines who show the reason and moral principle to manage estates well. Emma is the pivotal case: as the one female proprietor at a novel's center, she risks becoming a tyrannical great lady but, guided by her superior education and Knightley's example at Donwell, develops the social conscience needed for ethical ownership."
+    },
+    {
+      "n": 21,
+      "file": "ch21 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["locke"],
+      "concepts": ["locke-labor-property", "locke-natural-rights"],
+      "relation": "Ketcham 'deconstructs' the entailment that threatens the Bennets in Pride and Prejudice, explaining the legal history of fee tail and primogeniture and noting Austen likely erred, since by her time entailment could be barred by a simple legal procedure. He uses this to trace competing theories of property, from an occupation theory (first possession, tied to inherited estates) toward an emerging economic theory of productive wealth, and finally to Jeremy Waldron's view that property is a relationship between people. Elizabeth's careful assessment of Darcy's estate as a community rather than a mere possession dramatizes this shift, and love plus responsibility replaces entailment as the story's true concern."
+    },
+    {
+      "n": 22,
+      "file": "ch22 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["moral-psychology", "virtue-ethics"],
+      "relation": "Cantwell reads Emma through 'perfectionism' and parody, arguing that Cassandra and later readers turned Jane Austen into a 'picture of perfection' while Emma herself is a flawed paragon. Drawing on Andrew Miller's Burdens of Perfection, she treats moral improvement as socially constructed and responsive to exemplars, set against Highbury's upward mobility (the Westons, Coles, Martins destabilizing class lines). Emma's attempt to remake Harriet Smith in her own image is a parody of the gentlewoman (Bakhtin on parody) that exposes Emma's own vanity; the crisis of imagining Harriet marrying Knightley forces the self-knowledge that lets Emma finally pursue genuine, socially situated perfection."
+    },
+    {
+      "n": 23,
+      "file": "ch23 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["marx"],
+      "concepts": ["class-struggle", "historical-materialism"],
+      "relation": "Bane surveys fidelity criticism of film adaptation (McFarlane, and especially George Bluestone's Novels into Film) and applies a Marxist reading to the 1940 Pride and Prejudice. He shows how Bluestone praises the film as faithfully capturing Austen's 'aristocratic dance,' then argues a single altered line, Darcy's 'the middle classes at play,' injects a post-Marx notion of class struggle absent from Austen's Regency world of gentry versus nobility. Reading the Bennet-Lucas competition as proletarian striving and set against the 1940s Red Scare and HUAC blacklist, Bane concludes that adaptation lets Austen's ironic critique of class speak to new times, marking her a great author across eras."
+    },
+    {
+      "n": 24,
+      "file": "ch24 - Jane Austen and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 25,
+      "file": "ch25 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["moral-psychology", "applied-ethics"],
+      "relation": "Olson and Taliaferro examine the ethics of secrets in Austen, refining Sissela Bok's definition so that a secret conceals what convention would normally make public. They argue secrets in Austen are usually corrosive (Wickham and Lydia's elopement endangering the Bennets, Brandon's silence about Willoughby harming Marianne, Lucy Steele's engagement binding Elinor) yet can be virtuous, as when Darcy secretly funds Lydia's marriage to avoid self-aggrandizement. They propose an 'ideal observer' standpoint (an all-knowing, impartial, affective narrator) for judging when a secret is honorable, and argue the Emma-Miss Bates incident is not a failure to keep a secret but a genuine vice of contempt Austen condemns."
+    },
+    {
+      "n": 26,
+      "file": "ch26 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["mill"],
+      "concepts": ["mill-liberty", "harm-principle", "free-will-determinism"],
+      "relation": "Dromm and Salter analyze Persuasion by distinguishing persuasion (rational, argument-based belief change), influence (nonrational, resting on a person's charisma or status, as Lady Russell has over the Elliots), and 'overpersuasion.' Against Captain Wentworth's view that persuadability is a vice and firmness of mind a virtue (his hazelnut analogy, Louisa Musgrove's fatal fall from the Cobb), they adapt Mill's On Liberty: just as free discussion lets a society exchange error for truth and gain confidence in true beliefs, a persuadable person is happier and epistemically better off. They add that Anne broke the engagement from a sense of duty, not fickleness, and it is her own persuasion that finally reunites her with Wentworth."
+    },
+    {
+      "n": 27,
+      "file": "ch27 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["wittgenstein", "plato"],
+      "concepts": ["language-games", "socratic-method"],
+      "relation": "Gilmore reads Persuasion as itself a rumination on persuasion, arguing the word means different things in different contexts. He uses Plato's Gorgias to split persuasion into Persuasion I (mere conviction without knowledge, based on appearance and social prudence, which led Anne to break with Wentworth) and Persuasion II (persuasion with knowledge that changes one's whole schema of value). He grounds this in Wittgenstein's later view that meaning is use within a language game and a form of life, so 'persuasion,' 'constancy,' and 'only Anne' shift sense across the novel. Reading the plot via Cavell's 'comedy of remarriage,' he argues Anne and Wentworth's separation yields the self-knowledge that legitimates their reunion."
+    },
+    {
+      "n": 28,
+      "file": "ch28 - Jane Austen and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 29,
+      "file": "ch29 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["deconstruction", "applied-ethics"],
+      "relation": "Riter analyzes Pride and Prejudice and Zombies as mashup literature, arguing the form requires readers to know the source while denying its prestige, so Austen must be both 'dead' and 'alive.' She uses Roland Barthes's 'The Death of the Author' to explain how the loss of Austen's authorial authority opens her text to reinterpretation and legally permits Grahame-Smith's rewriting. But she argues Grahame-Smith actually attacks a caricatured 'living Jane' of popular culture (the saintly, class-obsessed romance writer) rather than the historically complex Austen, noting his inconsistency in celebrating the class-conscious zombie-slayer Lady Catherine while mocking Mrs. Bennet for the same class focus."
+    },
+    {
+      "n": 30,
+      "file": "ch30 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["freud", "levinas", "butler", "aristotle"],
+      "concepts": ["freud-unconscious", "levinas-face", "gender-performativity"],
+      "relation": "Zanin reads Pride and Prejudice and Zombies through Freud, Aristotle, and Levinas. She argues Regency propriety over-represses natural impulses, so Freud's id/ego/superego and the aggression drive explain why Elizabeth's zombie-slaying is sublimated aggression and cathartic release (Aristotle's catharsis), her ritual 'seven cuts of shame' a displacement of guilt over misjudging Darcy. She reads Charlotte's zombie decay as an allegory of self lost to a marriage of convenience. Using Levinas on the Other (the 'unmentionable' zombie against which Elizabeth's identity is formed) and Judith Butler's claim that the Other dwells within the self, she argues the zombie Other enables rather than overwhelms Elizabeth's identity."
+    },
+    {
+      "n": 31,
+      "file": "ch31 - Jane Austen and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["lewis", "descartes"],
+      "concepts": ["possible-worlds", "personal-identity", "descartes-cogito"],
+      "relation": "Holdier asks how the many rival Elizabeth Bennets (Austen's, P.D. James's Death Comes to Pemberley, Grahame-Smith's zombie killer) can share an identity. He rejects the Cartesian cogito for ignoring circumstance and adopts Paul Ricoeur's ipse/idem distinction: the three Elizabeths may share the same ipse (moment-to-moment self and personality) while their different worlds produce distinct idem (narrative) identities. He then applies David Lewis's possible-world semantics and modal realism, arguing each Elizabeth is 'world-bound' and the others are her equally real 'counterparts,' sufficiently similar to be compared across worlds without being identical, so 'Elizabeth Bennet' can name both a single ipse and many idem narratives."
+    },
+    {
+      "n": 32,
+      "file": "ch32 - Jane Austen and Philosophy.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": []
+}

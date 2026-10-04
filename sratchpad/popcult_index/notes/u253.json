@@ -1,0 +1,315 @@
+{
+ "book": "172 - The Hunger Games and Philosophy - A Critique of Pure Treason",
+ "unit": "u253",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - The Hunger Games and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - The Hunger Games and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - The Hunger Games and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - The Hunger Games and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - The Hunger Games and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "unexamined-life",
+    "utopia-dystopia",
+    "skepticism"
+   ],
+   "relation": "The editors' introduction frames the trilogy as Katniss's quest to peel away Panem's layers of lies, likening her self-examination and self-control to the Delphic 'Know Thyself' and 'Nothing in Excess' and calling her skeptical spirit the engine of her wisdom. It poses the book's driving questions: why we enjoy watching others suffer, whether ordinary morality survives the arena, and how easily our own reality-TV-shaped world could slide into Panem's, noting that Collins modeled the Games on the Roman Colosseum. It presents dystopian exaggeration (children slaughtered for entertainment, tyrants, starving workers) as a cautionary mirror of trends already present in our society, and casts the contributors' chapters as a therapeutic game of 'Real or Not Real' played with the reader."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Hunger Games and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "augustine"
+   ],
+   "concepts": [
+    "utopia-dystopia"
+   ],
+   "relation": "Brian McDonald opposes two arts in Panem: Peeta's Aristotelian mimesis, which delights and instructs (his camouflage station skill and the 'right shade for sunlight on white fur' speech that eases the dying morphling's last moments), and the Capitol's 'perverse imitation' of tragedy in the arena and Caesar Flickerman's interviews, where the audience feels catharsis's pity and fear with none of its insight because they are complicit in inflicting the tragedy. Drawing on Phillip Rieff's notion of 'de-creation,' he links the Remake Center's freakish body modifications to the arena's cruelties as one abandonment of aesthetic and ethical limits, and uses Augustine's 'deceptive sense of omnipotence' from the Confessions plus Ernest Becker's causa-sui project to explain the Capitol's flight from any fixed identity ('You almost look like a real person'). The chapter closes with Katniss's recognition scene in Mockingjay: choosing the artist Peeta over the hunter Gale is how she survives having become a monster herself."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates"
+   ],
+   "concepts": [
+    "plato-justice",
+    "philosopher-king"
+   ],
+   "relation": "Anne Torkelson reads Panem through the Republic and the Laws: because mousike imitates states of soul and slowly molds character, Socrates polices music and poetry in the just city and fears innovation in musical modes, and the Capitol's own outlawing of songs quietly confirms music's power. She shows 'The Meadow Song' replacing Katniss's grief with hope and inspiring the flowers for Rue, the forbidden 'Hanging Tree' planting the Socratic question of whether an unjust life is a fate worse than death (paralleling Socrates's own unjust execution, the hemlock, and the nightlock pact Katniss, Gale, and Peeta make), and Rue's four notes mutating from an orchard work-signal into a salute of defiance when the District 11 man whistles them on the Victory Tour, at the cost of his life. Music, which Katniss dismisses as 'somewhere between hair ribbons and rainbows,' turns out to be the force that shapes her character and carries the revolution."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gadamer"
+   ],
+   "concepts": [
+    "gadamer-hermeneutics"
+   ],
+   "relation": "Jill Olthouse applies hermeneutics, crediting Gadamer as its key philosophical developer, to Panem's ideological battle of words and images: paradoxical metaphors like 'the girl on fire,' 'tribute,' and 'mockingjay' carry contestable associations, so interpreting them is a creative act through which Katniss is either defined by her enemies or defines herself. She traces Katniss's reinterpretations, from squirrel-prey to hunter after Peeta saves her, from staged 'star-crossed lovers' to a bond that becomes literal, to the berry suicide ploy that denies the Capitol its victory, and reads the hijacked Peeta's 'she's some kind of mutt' as the Capitol winning an interpretive round by stealing her metaphor. The chapter culminates in Katniss's creative reading of Snow's confession and her assassination of Coin, the moment she finally claims the mockingjay identity on her own terms as a fighter and messenger rather than a weapon used by others."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Hunger Games and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "nagel",
+    "seneca"
+   ],
+   "concepts": [
+    "moral-luck",
+    "wheel-of-fortune",
+    "stoicism"
+   ],
+   "relation": "George Dunn tests Katniss's luck-saturated life against Kant's claim that the good will shines 'like a jewel' regardless of fortune, with Peeta's vow to 'die as myself' as the stronghold the Gamemakers cannot touch, and with Seneca's dictum that what Fortune has not given she cannot take away. He then runs Nagel's four kinds of moral luck through the trilogy: Haymitch's reaping-made alcoholism as constitutive luck, Rue's death sparing Katniss an impossible final choice as circumstantial luck, Peeta's rooftop words echoing unconsciously behind the flowers for Rue as causal luck, and the revolution's success as resultant luck without which Katniss would have been the destroyer of District 12 rather than its torchbearer. Framing the Gamemakers as Fortuna on her wheel, he ends with the berries: since Katniss can never untangle whether she held them out from love, defiance, or self-protection, even moral worth proves hostage to luck and to the opacity of our own motives."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "schopenhauer",
+    "kant",
+    "nietzsche"
+   ],
+   "concepts": [
+    "moral-psychology"
+   ],
+   "relation": "Andrew Shaffer imagines Capitol patrons at Caesar's Bar & Grill cheering the Quarter Quell bloodbath and asks what makes their enjoyment possible, answering with Schopenhauer's 'devilish' verdict on Schadenfreude as the mark of a worthless heart, Kant's calling it a 'diabolical' vice, and Nietzsche's account of another's misfortune as the social equalizer that appeases envy. He argues the spectators need dehumanization, from Effie's 'savages' rhetoric and the prep team's scrubbing to the wolf mutts wearing Glimmer's eyes, to enjoy innocent children dying, and that the star-crossed-lovers story humanizes the tributes enough to force the unprecedented double-victor rule change. The chapter closes by turning the diagnosis on us: readers thrill to the arena too, the whole trilogy arguably runs on Schadenfreude, and even Snow's execution is staged as a spectacle of righteous pleasure in a villain's death."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Jennifer Culver explains Katniss's 'I hate owing people' through Marcel Mauss's gift-exchange theory, extended to modern private gifts by Lewis Hyde: Peeta's bread creates an unpayable burden because gifts carry invisible strings of reciprocity, which is why Thresh's 'we're even then. No more owed' makes instant sense to her, and why in Catching Fire she contemplates shooting Finnick before she can owe him more. She contrasts debts handled gracefully, quietly patronizing the Hob sponsors, thanking District 11 in words rather than cash equivalents, and treating loyalty as a gift in District 13's uniform economy, with Katniss's initial resentment of any bond that constrains her self-sufficiency. The chapter ends with the gift of memory, the mourning book and Peeta's small gestures after the war, by which Katniss finally accepts that the point of gifts is the bond they forge, not the debt they impose."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Hunger Games and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "kant",
+    "hume",
+    "darwin"
+   ],
+   "concepts": [
+    "social-darwinism",
+    "moral-egoism",
+    "moral-psychology"
+   ],
+   "relation": "Abigail Mann argues that the Games only look like 'survival of the fittest': Darwinian natural selection runs on chance ('one slip in thousands') and explicitly rejects the social-Darwinist use of 'unfit' against the poor, while Darwin's Descent of Man explains the tributes' kindness through kin and group selection and an evolved moral sense, so Katniss's unhesitating volunteering for Prim is kin selection and Thresh's conflicted sparing of her shows conscience overriding self-preservation. She tests this against Kant, for whom only duty-motivated action is truly moral, which would make Thresh's inner struggle the more moral act and Katniss's instinctive sacrifice mere animal impulse, and against the egoism of Hobbes (giving to a beggar to relieve one's own distress) and Dawkins's selfish gene, answering with Hume and psychologist Daniel Batson that genuine altruism is real. Her coda: Katniss ultimately rejects Gale not only because his firebomb killed Prim but because it was engineered to trap and kill altruists, and her closing habit of listing 'every act of goodness' is the trilogy's verdict that simple kindness is not an illusion."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "boethius",
+    "locke"
+   ],
+   "concepts": [
+    "applied-ethics",
+    "animal-rights",
+    "personhood"
+   ],
+   "relation": "Jason Eberl treats the muttations, jabberjays that mimic speech without understanding, tracker jackers, the wolf-mutts with Glimmer's eyes that torment Cato, and the lizard-mutts hissing Katniss's name, alongside real chimeras (geeps, the SCID-hu mouse, Balaban's quail-chick brain transplants, Weissman's human-neural mouse) to ask whether biotechnology could create a person. Working through Boethius's definition of a person as an 'individual substance of a rational nature' and Locke's 'thinking intelligent Being' that can consider itself the same over time, he argues that human DNA alone confers no personhood, while a chimera genuinely capable of self-conscious rational thought would be a person whose weaponized creation and lab captivity would violate its rights, which is why ethicists allow mouse chimeras but hesitate with primates. He notes that the Gamemakers' refusal to see tributes as persons is exactly the move that made slavery and Nazi dehumanization possible, and that Katniss's suspicion about whether the mutts remember their deaths is the right ethical question to keep open."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Hunger Games and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marcus-aurelius",
+    "epictetus",
+    "seneca",
+    "zeno-citium"
+   ],
+   "concepts": [
+    "stoicism",
+    "stoic-indifferents",
+    "dichotomy-of-control",
+    "stoic-present-moment"
+   ],
+   "relation": "Abigail Myers runs Stoic doctrine against Katniss's biography: Zeno's thesis that only moral goodness is good (with Plutarch Heavensbee's renunciation of Capitol privilege as indifference to wealth and status), Seneca's 'On the Shortness of Life' against deferring living, Epictetus's dichotomy of control including the uncomfortable advice to kiss wife and child as mortals, and Marcus Aurelius's practical Meditations as the gentler 'Stoic for beginners' who would be president of Panem. Katniss comes out Stoic in her frugality, her mortality-shadowed appreciation of small joys, and her firm moral code, but decidedly un-Stoic in her fierce attachments to Rue, Peeta, and Prim. Yet her final choice of Peeta over Gale is itself Stoic, Myers argues: she forgives what Peeta's hijacking made him do since it was never in his control, refuses a noble friendship that would endorse Gale and Coin's slaughter of innocents, and chooses in accordance with nature and reason so as to survive as herself with her values intact."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir",
+    "butler"
+   ],
+   "concepts": [
+    "becoming-woman",
+    "gender-performativity",
+    "woman-as-other",
+    "heteronormativity"
+   ],
+   "relation": "Jessica Miller shows Katniss coded masculine, since Collins built her from Theseus and Spartacus and her breadwinning, hunting, and defiance fit masculine norms, while Prim embodies everything Beauvoir says civilization 'produces' as feminine, and Panem itself proves oddly gender-neutral: women work the mines, Finnick is the sex symbol sold by Snow, and Coin is as ruthless as any man. She then reads Katniss's romance performance through Judith Butler: the kisses, caresses, and televised wedding gowns do not express a preexisting femininity but constitute one, down to Butler's radical claim that sex itself is a cultural norm, which reframes even the Games' reaping of one boy and one girl as a gendered ritual rather than a presocial biological fact. Cinna's burning bridal gown that transforms Katniss into the mockingjay makes the political payoff explicit: gender performed strategically becomes the rebellion's power, and the hunter-and-baker partnership offers an alternative to the dominant romance script."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 9,
+   "type": "concept",
+   "suggested_slug": "aristotle-mimesis",
+   "name": "Mimesis and Catharsis (art as imitation)",
+   "philosopher": "aristotle",
+   "domain": "ancient",
+   "what": "Aristotle's Poetics doctrine that all art is imitation of human action, pleasurable because contemplating representations teaches us universal truths, with tragedy purging pity and fear (catharsis).",
+   "why": "Chapter 9's whole argument contrasts Peeta's life-affirming mimesis with the Capitol's perverse, catharsis-free spectacle, making mimesis the chapter's central concept and taxonomy has no slug for it."
+  },
+  {
+   "ch": 9,
+   "type": "concept",
+   "suggested_slug": "de-creation",
+   "name": "De-creation (Rieff's deathworks)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Phillip Rieff's diagnosis of modern art as 'de-creation': an anticulture's drive to violate and desecrate a society's sacred commanding truths instead of re-presenting them.",
+   "why": "Chapter 9 uses Rieff's de-creation to name what the Capitol's Remake Center and arena do to bodies and to the districts, linking freakish aesthetics to ethical abandon."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "schadenfreude",
+   "name": "Schadenfreude (joy in another's suffering)",
+   "philosopher": "schopenhauer",
+   "domain": "ethics-moral-psychology",
+   "what": "Pleasure taken at another person's misfortune, condemned by Schopenhauer as the surest sign of a bad heart and by Kant as a diabolical vice, yet explained by Nietzsche through envy and status leveling.",
+   "why": "Chapter 14 is built entirely on Schadenfreude as the emotion that lets the Capitol audience enjoy children dying in the arena, and the taxonomy lacks any slug for it."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "dehumanization",
+   "name": "Dehumanization",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The process by which oppressors deny a group personhood or full humanity so that ordinary moral restraint against enjoying or inflicting their suffering is dissolved.",
+   "why": "Chapter 14's 'Savages' section makes dehumanization (Nazi propaganda, Capitol 'barbarian' rhetoric, the tribute-turned-mutt) the enabling mechanism of pleasurable cruelty."
+  },
+  {
+   "ch": 15,
+   "type": "philosopher",
+   "suggested_slug": "marcel-mauss",
+   "name": "Marcel Mauss",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "French sociologist-anthropologist (1872-1950) whose The Gift argued that gift exchange in archaic societies creates binding obligations of reciprocity that hold communities together.",
+   "why": "Chapter 15 reads Katniss's entire debt anxiety over Peeta's bread, Thresh's 'we're even,' and the Hob sponsors through Mauss's gift-exchange theory, and Mauss is absent from the taxonomy."
+  },
+  {
+   "ch": 15,
+   "type": "concept",
+   "suggested_slug": "gift-economy",
+   "name": "The Gift Economy (reciprocity and invisible strings)",
+   "philosopher": "marcel-mauss",
+   "domain": "political-social",
+   "what": "The theory that gifts, unlike commodities, are never free: accepting one creates a social bond and an obligation to reciprocate, in goods, service, or loyalty.",
+   "why": "Chapter 15 applies this concept to nearly every relationship in the trilogy, from the bread that 'gave me hope' to loyalty in District 13, and no taxonomy slug covers it."
+  },
+  {
+   "ch": 17,
+   "type": "philosopher",
+   "suggested_slug": "darwin",
+   "name": "Charles Darwin",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Naturalist (1809-1882) whose theory of evolution by natural selection, and whose Descent of Man account of the moral sense evolving from animal social instincts, anchor the chapter.",
+   "why": "Chapter 17 is essentially an essay on Darwin: natural selection, fitness, group and kin selection, and the evolution of conscience explain the tributes' altruism, yet Darwin is missing from the taxonomy."
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "personhood",
+   "name": "Personhood (criteria for moral personhood)",
+   "philosopher": "locke",
+   "domain": "mind-language-metaphysics",
+   "what": "The debate over which capacities, rationality, self-consciousness, autonomy, make a being a person and full member of the moral community, from Boethius's 'individual substance of a rational nature' to Locke's reflective thinking being.",
+   "why": "Chapter 18 applies personhood criteria to wolf-mutts with tribute DNA and to real human-animal chimeras to decide whether creating or weaponizing them violates moral rights, and taxonomy has no personhood slug."
+  }
+ ]
+}

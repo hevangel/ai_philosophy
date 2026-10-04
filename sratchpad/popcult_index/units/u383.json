@@ -1,0 +1,83 @@
+{
+ "unit": "u383",
+ "book": "265 - Mark Twain and Philosophy",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\265 - Mark Twain and Philosophy",
+ "range": [
+  8,
+  19
+ ],
+ "chapters": [
+  {
+   "n": 8,
+   "file": "ch08 - Introduction.md",
+   "words": 1675
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Part I Morality in Huckleberry Finn.md",
+   "words": 6
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Chapter 1 The Conscience of Huckleberry Finn.md",
+   "words": 5544
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Chapter 2 Huckleberry Finn and Moral Motivation.md",
+   "words": 6896
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Chapter 3 Sympathy, Principles, and Conscience.md",
+   "words": 4240
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Chapter 4 Huckleberry Finn\u2019s Struggle between Sympathy and Moral Principle Reconsidered.md",
+   "words": 5373
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Chapter 5 Twain\u2019s Last Laugh.md",
+   "words": 5923
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Part II Twain on Religion.md",
+   "words": 5
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Chapter 6 The Gospel According to Mark (Twain).md",
+   "words": 5678
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Chapter 7 Mark Twain and the Problem of Evil.md",
+   "words": 5135
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Part III Moral Issues.md",
+   "words": 4
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Chapter 8 The Noble Art of Lying.md",
+   "words": 7979
+  }
+ ],
+ "content": [
+  8,
+  10,
+  11,
+  12,
+  13,
+  14,
+  16,
+  17,
+  19
+ ]
+}

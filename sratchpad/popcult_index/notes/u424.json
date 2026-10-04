@@ -1,0 +1,156 @@
+{
+ "book": "308 - The Palgrave Handbook of Popular Culture as Philosophy",
+ "unit": "u424",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Front Matter.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Part I. Television and Streaming.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - 1. The Good Place as Philosophy Moral Adventures in the Afterlife.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aristotle",
+    "rawls",
+    "beauvoir",
+    "plato",
+    "williams"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "veil-of-ignorance",
+    "categorical-imperative",
+    "immortality"
+   ],
+   "relation": "Engels argues that NBC's The Good Place, though premised on a merit-based afterlife, actually argues morality should not be grounded in afterlife reward. When Eleanor, Chidi, Jason, and Tahani learn the point system and can no longer earn points, they form the 'Soul Squad' to be virtuous for virtue's sake, echoing Aristotle's telos and Kant's claim that acting from fear of hell is a heteronomous, non-moral motive. She reads the unfair points system (no human admitted in 521 years) through Rawls's Veil of Ignorance and shifts the show toward rehabilitative justice, and treats the Good Place residents' boredom via Bernard Williams's tedium-of-immortality argument, with Chidi's 'wave returns to the ocean' speech mapped onto Hindu atman/Brahman and moksha."
+  },
+  {
+   "n": 4,
+   "file": "ch04 - 2. Twilight Zone as Philosophy 101.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein",
+    "socrates",
+    "plato",
+    "descartes",
+    "nagel",
+    "macintyre"
+   ],
+   "concepts": [
+    "language-games",
+    "plato-cave",
+    "cartesian-doubt",
+    "moral-egoism"
+   ],
+   "relation": "Marinucci uses The Twilight Zone as a triple introduction to philosophy, the show, and the handbook, arguing that philosophy is defined not by necessary-and-sufficient conditions but by Wittgensteinian family resemblance and salient features (curiosity, depth, abstraction, controversy) learned through MacIntyre-style immersion in a practice. She reads episodes as thought experiments: the amnesiac astronaut in 'Where Is Everybody?' and living-doll/robot episodes echo Plato's cave and Descartes's Method of Doubt about appearance versus reality, Nagel's 'what is it like to be a bat?' frames the problem of other minds, and episodes like 'The Shelter' and 'It's a Good Life' dramatize the tension between egoism and altruism and social conformity, including feminist gaslighting in 'Twenty Two.'"
+  },
+  {
+   "n": 5,
+   "file": "ch05 - 3. Star Trek as Philosophy Spock as Stoic Sage.md",
+   "kind": "chapter",
+   "philosophers": [
+    "epictetus",
+    "marcus-aurelius",
+    "seneca",
+    "zeno-citium"
+   ],
+   "concepts": [
+    "stoicism",
+    "dichotomy-of-control",
+    "stoic-cosmopolitanism",
+    "virtue-ethics"
+   ],
+   "relation": "Pigliucci argues that Gene Roddenberry built an implicit argument for Stoicism into Star Trek's Spock, contra both the 'suppressed emotion / stiff upper lip' caricature and Farren's claim that Kirk is the truer Stoic. Reading Spock's talk of 'emotion' as the disruptive pathe and his 'logic' as the broad Stoic study of reason, he shows Spock embodying the dichotomy of control ('my legs, they're broken'), the four cardinal virtues, and Stoic cosmopolitanism aboard the Enterprise. Drawing on Brouwer's account of the sage, he tracks Spock's development from prokopton toward sagehood, cultivating eupatheiai like love and friendship (the Wrath of Khan sacrifice) and declaring 'logic is the beginning of wisdom, not the end.'"
+  },
+  {
+   "n": 6,
+   "file": "ch06 - 4. Star Trek The Next Generation as Philosophy Gene Roddenberry’s Argument for Humanism.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "bacon",
+    "socrates",
+    "aristotle",
+    "foucault"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "aristotle-virtue-ethics",
+    "plato-euthyphro",
+    "meaning-of-life"
+   ],
+   "relation": "Decker reads Star Trek: The Next Generation as Roddenberry's argument for secular humanism, using Corliss Lamont's ten propositions to frame a naturalistic, this-worldly ethic embodied by a militantly secular Enterprise crew. The recurring antagonist Q dramatizes tests of virtue and the Ring-of-Gyges question of power without consequences, while 'Who Watches the Watchers' and 'Devil's Due' stage humanist critiques of religion: Picard refuses to become a god to the Mintakans and dismantles Ardra's 'god of the gaps' con by showing the Ventaxians saved themselves. Decker invokes Hume's proportioning belief to evidence, Bacon's idols of the mind, and the Euthyphro to argue morality needs no divine command, framing Roddenberry's 'agonism' and the professional social ethics behind the Federation."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - 5. Battlestar Galactica as Philosophy Breaking the Biopolitical Cycle.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "arendt",
+    "hobbes",
+    "parfit",
+    "buber"
+   ],
+   "concepts": [
+    "personal-identity",
+    "banality-of-evil",
+    "arendt-totalitarianism",
+    "state-of-nature"
+   ],
+   "relation": "Eberl and Bishop read the reimagined Battlestar Galactica and Caprica through the biopolitics of Foucault and Agamben, tracing 'biopower' across four phases from Zoe Graystone's avatar to the arrival at Earth. They argue the show asks whether artificial Cylons are persons (Zoe's avatar exhibits Baker's first-person perspective and Buber's I-Thou recognition), and use Agamben's zoe/bios/'bare life' and Homo sacer plus Roslin's population control and abortion ban to show sovereign power over life. The Cylon occupation of New Caprica is read through Arendt's three stages of totalitarian dehumanization, and Lee Adama's plea to 'break the cycle' offers a fragile hope undercut by the finale's flash-forward to present-day robotics, showing humanity forgetting the lesson."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - 6. Black Sails as Philosophy Pirates and Political Discourse.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "locke",
+    "rousseau",
+    "rawls"
+   ],
+   "concepts": [
+    "social-contract",
+    "veil-of-ignorance",
+    "democracy-theory",
+    "state-of-nature"
+   ],
+   "relation": "Jones argues that Starz's Black Sails, a Treasure Island prequel set in the Golden Age of Piracy, dramatizes social contract theory as non-hypothetical practice. Captain Flint's drive to make Nassau a sovereign pirate commonwealth ('I am your king') channels Hobbes's state of nature and irrepressible sovereign, while his choice to settle Nassau and belief that people can thrive if left free channels Locke; his eventual plan to install Silver and Madi as liked-and-feared leaders synthesizes the two. Jones maps the pirates' familial bonds onto Rousseau and their responses to injustice (Vane's gallows speech, the maroon alliance) onto Rawls's Veil of Ignorance, and reads pirate 'articles' and deposable captains as radical democracy and equality, complicated by manipulation, slavery, and tolerance."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - 7. Doctor Who as Philosophy Four-Dimensionalism and Time Travel.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis",
+    "mctaggart",
+    "aristotle",
+    "hume",
+    "augustine"
+   ],
+   "concepts": [
+    "time-travel",
+    "free-will-determinism",
+    "compatibilism",
+    "a-series-time"
+   ],
+   "relation": "Decker asks what the universe must be like if Doctor Who's time travel were real, using David Lewis's distinction between personal and external time and the TARDIS as a Wellsian (not Thornian) time machine traversing a 'hypertime' vortex. After surveying the arrows of time and paradoxes like the bootstrap paradox ('Day of the Daleks') and the grandfather paradox (imagined via Tegan's grandfather), and rejecting Deutsch-Lockwood's Many-Worlds and growing-block solutions, he argues the Whoniverse fits 'Four-Dimensional Realism'/eternalism, quoting the Twelfth Doctor that time's passage is an illusion of 'still pictures.' He then confronts 4DR's threat to free will and moral responsibility, finding compatibilism and 'fixed points' inadequate given eternalism's succession-not-production of events."
+  }
+ ],
+ "holes": []
+}

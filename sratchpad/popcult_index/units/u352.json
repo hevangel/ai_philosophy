@@ -1,0 +1,56 @@
+{
+ "unit": "u352",
+ "book": "241 - The Philosophy of Documentary Film",
+ "part": "1/4",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\241 - The Philosophy of Documentary Film",
+ "range": [
+  2,
+  8
+ ],
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - 00_LaRocca_Prelims.html.md",
+   "words": 1967
+  },
+  {
+   "n": 3,
+   "file": "ch03 - 01_LaRocca_Chapter_000.html.md",
+   "words": 25168
+  },
+  {
+   "n": 4,
+   "file": "ch04 - 02_LaRocca_Chapter_001.html.md",
+   "words": 8834
+  },
+  {
+   "n": 5,
+   "file": "ch05 - 03_LaRocca_Chapter_002.html.md",
+   "words": 9408
+  },
+  {
+   "n": 6,
+   "file": "ch06 - 04_LaRocca_Chapter_003.html.md",
+   "words": 8599
+  },
+  {
+   "n": 7,
+   "file": "ch07 - 05_LaRocca_Chapter_004.html.md",
+   "words": 5130
+  },
+  {
+   "n": 8,
+   "file": "ch08 - 06_LaRocca_Chapter_005.html.md",
+   "words": 15614
+  }
+ ],
+ "content": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ]
+}

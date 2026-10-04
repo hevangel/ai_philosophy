@@ -1,0 +1,109 @@
+{
+ "unit": "u336",
+ "book": "231 - The Philosophy of Stanley Kubrick",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\231 - The Philosophy of Stanley Kubrick",
+ "range": [
+  1,
+  17
+ ],
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - The Philosophy of Stanley Kubrick.md",
+   "words": 206
+  },
+  {
+   "n": 2,
+   "file": "ch02 - The Philosophy of Stanley Kubrick.md",
+   "words": 10
+  },
+  {
+   "n": 3,
+   "file": "ch03 - The Philosophy of Stanley Kubrick.md",
+   "words": 175
+  },
+  {
+   "n": 4,
+   "file": "ch04 - The Philosophy of Stanley Kubrick.md",
+   "words": 46
+  },
+  {
+   "n": 5,
+   "file": "ch05 - The Philosophy of Stanley Kubrick.md",
+   "words": 220
+  },
+  {
+   "n": 6,
+   "file": "ch06 - The Philosophy of Stanley Kubrick.md",
+   "words": 120
+  },
+  {
+   "n": 7,
+   "file": "ch07 - The Philosophy of Stanley Kubrick.md",
+   "words": 2601
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Philosophy of Stanley Kubrick.md",
+   "words": 8
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Philosophy of Stanley Kubrick.md",
+   "words": 10013
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Philosophy of Stanley Kubrick.md",
+   "words": 6240
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Philosophy of Stanley Kubrick.md",
+   "words": 2979
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Philosophy of Stanley Kubrick.md",
+   "words": 8
+  },
+  {
+   "n": 13,
+   "file": "ch13 - The Philosophy of Stanley Kubrick.md",
+   "words": 11414
+  },
+  {
+   "n": 14,
+   "file": "ch14 - The Philosophy of Stanley Kubrick.md",
+   "words": 10361
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Philosophy of Stanley Kubrick.md",
+   "words": 8611
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Philosophy of Stanley Kubrick.md",
+   "words": 11
+  },
+  {
+   "n": 17,
+   "file": "ch17 - The Philosophy of Stanley Kubrick.md",
+   "words": 6296
+  }
+ ],
+ "content": [
+  1,
+  5,
+  7,
+  9,
+  10,
+  11,
+  13,
+  14,
+  15,
+  17
+ ]
+}

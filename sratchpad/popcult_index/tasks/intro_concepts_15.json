@@ -1,0 +1,926 @@
+[
+ {
+  "slug": "biopower",
+  "name": "Biopower",
+  "domain": "political-social",
+  "samples": [
+   {
+    "book": "123 - The Handmaid's Tale and Philosophy - A Womb of One's Own",
+    "n": 22,
+    "title": "10. Babies and Pleasures",
+    "relation": "Wesch uses Foucault's Discipline and Punish to explain how ordinary women so quickly served Gilead: power is exercised rather than possessed, so Offred enjoying the Guardians' frustration, the 'Her fault!' Testifying, and the Particicution show everyone wielding whatever power is within reach. Gilead is a panopticon in Bentham's sense—the Eyes, paired shopping, 'Under His Eye'—where unverifiable surveillance makes citizens their own overseers, while biopower sorts desirable from undesirable populations, 'making live' fertile Handmaids (shatterproof glass against suicide) and letting Unwomen and unbabies die in the Colonies. Resistance is Foucauldian too: Offred's remembered food, Moira's bathroom gossip, and sex with Nick are the 'bodies and pleasures' that counterattack the deployment of sexuality."
+   },
+   {
+    "book": "191 - Star Wars and Philosophy Strikes Back - This Is the Way",
+    "n": 34,
+    "title": "“Wherever I Go, He Goes”",
+    "relation": "Bishop and Bishop map The Mandalorian's Outer Rim onto a taxonomy of power: Nevarro's lawlessness is Hobbes's state of nature out of which sovereigns like Palpatine ('a safe and secure society') carve order by social contract, the Guild's codes and Djarin's creed exemplify Foucault's disciplinary power, and the Client's and Dr. Pershing's harvesting of Grogu's biology - like the Kaminoans' cloning of Jango Fett - is biopower. Against this 'binds of power' ontology they set Grogu's helpless generation of love, a 'little way' that converts Djarin, Omera, Cara Dune, and Greef Karga, and culminates in Djarin twice unhelmeting for Grogu's sake, proposing an ontology of love rather than power as the galaxy's alternative."
+   },
+   {
+    "book": "109 - Mr. Robot and Philosophy - Beyond Good and Evil Corp",
+    "n": 18,
+    "title": "6. Who Has the Power",
+    "relation": "Samuelson uses Foucault to dismantle Phillip Price's creed of being 'the most powerful person in the room': power is not a possession but an operation. Elliot's men in black and the FBI's surveillance are disciplinary power - Bentham's panopticon realized in Allsafe's cube farm and the internet itself - while Angela's fight over the Washington Township leak is a struggle with biopower that no sovereign can be punished for, and Whiterose's knowledge is power-knowledge that operates anonymously no matter who holds it. If Foucault is right, Price, Mr. Robot, and Zheng are mere conduits, and no one will ever be the most powerful person in the room."
+   }
+  ]
+ },
+ {
+  "slug": "category-mistake",
+  "name": "Category Mistake",
+  "domain": "mind-language-metaphysics",
+  "samples": [
+   {
+    "book": "118 - Scott Adams and Philosophy - A Hole in the Fabric of Reality",
+    "n": 29,
+    "title": "17. Sweeping Up God’s Debris",
+    "relation": "Robison-Greene reads God's Debris as a Socratic dialogue on speed: the Avatar, like Socrates after the Delphic oracle, guts the Postman's confidence so he can unlearn, and the whole book functions as a Cartesian skeptical hypothesis in the dream-and-evil-demon lineage, here that we are the dust of a self-destructed God and perception is illusion, with gravity re-described as probability. Her counterattack is that the cosmology commits category mistakes, since probability cannot cause dust to reappear any more than Joe can consist of tallness, and that God made of probability is incoherent even for an omnipotent being. The five levels of awareness collapse too: level-four skeptics are just people who trust reliable methods, and the Avatar's claim that the mind is an illusion generator is self-defeating, since his own omniscience presupposes objective truth."
+   },
+   {
+    "book": "137 - Alice in Wonderland and Philosophy - Curiouser and Curiouser",
+    "n": 15,
+    "title": "The Lasting Legacy of Logic",
+    "relation": "Treats Carroll the Oxford logician as a teacher hiding five lessons in Wonderland: watch your assumptions (the King infers the Knave's guilt from an unsigned letter), know what your words mean (Humpty Dumpty on 'glory'), don't confuse categories (the King's 'Nobody' and the Hatter's personified Time), don't switch subjects and predicates ('I mean what I say' versus 'I say what I mean'), and don't confuse necessary with sufficient conditions (Alice's Ada and Mabel arguments, with a hammer-and-egg illustration). David S. Brown grounds the lessons in Hume on causes discoverable only by experience, Aristotle's law of non-contradiction and categories, the Marx Brothers' 'Either he's dead or my watch has stopped', and Popper's point that a successful prediction cannot prove a hypothesis, only a failed one can refute it."
+   },
+   {
+    "book": "084 - Leonard Cohen and Philosophy - Various Positions",
+    "n": 16,
+    "title": "Leonard Cohen and Philosophy",
+    "relation": "Jason Holt defends the serious question of whether Cohen is a good singer against both anti-fans and fandom, arguing that judgments of taste purport to objectivity and cannot be settled by polls or Juno Awards. Borrowing David Hume's standard of taste - ideal critics with strong sense, delicate sentiment, practice, comparison, and freedom from prejudice - he judges Cohen in his 'weight class' as a singer-songwriter and vocal stylist, ranks him between Paul Simon and Bob Dylan, and offers the 'great singer-songwriter argument' that excellence in both crafts implies being at least a good singer. Much dismissal, he argues, is really style prejudice or a category mistake, and he ends by confessing that Cohen's voice saved him from teenage suicide, biasing him in the best possible way."
+   }
+  ]
+ },
+ {
+  "slug": "cicero-duty",
+  "name": "Ciceronian Duty (de Officiis)",
+  "domain": "ancient",
+  "samples": [
+   {
+    "book": "080 - Ender's Game and Philosophy - Genocide Is Child's Play",
+    "n": 22,
+    "title": "Ender’s Game and Philosophy",
+    "relation": "James Cook grades the Third Invasion against the just war principles Ender was never taught: the war is preventive rather than genuinely preemptive (with the 2003 Iraq parallel), proper authority is compromised by deceiving the public, last resort fails since the hive-queen was trying to communicate, and non-combatant immunity condemns destroying the bugger homeworld. He stages Augustine's ban on killing in individual self-defense against Aquinas' permission of it, and uses Kant's humanity formula and Cicero's hostis/perduellis distinction to ask whether the buggers were ever treated as rational beings rather than mere threats."
+   },
+   {
+    "book": "158 - Ender's Game and Philosophy - The Logic Gate Is Down",
+    "n": 22,
+    "title": "Ender’s Game and Philosophy",
+    "relation": "Air Force colonel James Cook walks the just war tradition through Ender's world: the Third Invasion is preventive rather than preemptive (with the 2003 Iraq war as the parallel), proper authority is undermined by the I.F.'s lies to its citizens, and last resort fails because the hive-queen was already trying to communicate with Ender. He contrasts Augustine's ban on killing in self-defense with Aquinas's permission, invokes Kant's formula of humanity for the buggers' rational nature and Cicero's hostis against dehumanizing enemies, and argues the I.F.'s failure to teach military ethics is itself part of the novel's tragedy."
+   }
+  ]
+ },
+ {
+  "slug": "dirty-hands",
+  "name": "The Problem of Dirty Hands",
+  "domain": "political-social",
+  "samples": [
+   {
+    "book": "170 - House and Philosophy - Everybody Lies",
+    "n": 17,
+    "title": "Notes",
+    "relation": "Uses Sartre's play Dirty Hands and Walzer's 'Political Action: The Problem of Dirty Hands' to ask whether Frank's willingness to do the 'necessary thing' — from the opening mercy-killing of the dog to the Season 3 drone strike — could ever count in favor of an Underwood presidency, with utilitarians (nothing wrong with dirty hands) and absolutists like the bishop ('Love God, and love each other. Period.') dissolving the problem from opposite sides. Walzer's later 'supreme emergency' standard and threshold deontology frame the Jordan Valley staring contest with Petrov and the resulting deal as the one case where Frank's capability might genuinely matter, while Heather Dunbar's reluctance (her refusal of Stamper's offer of Claire's diary, then her reversal) tests the ideal of a leader both capable of and averse to dirtying her hands. The verdict: Frank's only advantage over Dunbar is his capacity for dirty hands, and even that fails because he lacks the scruples to keep them clean when it is not necessary."
+   },
+   {
+    "book": "171 - House of Cards and Philosophy - Underwood's Republic",
+    "n": 17,
+    "title": "Notes",
+    "relation": "Perry frames Frank through Walzer's problem of dirty hands, taking its name from Sartre's play ('I have dirty hands right up to the elbows... Do you think you can govern innocently?') and Machiavelli's advice to 'enter into evil when forced by necessity' — the pilot's mercy killing of the dog and 'just shy of treason, which is politics' being the show's emblems. He maps the field onto the show: utilitarians for whom breaking rules can be right, absolutists like the bishop ('Love God, and love each other. Period.'), and Walzer's later 'supreme emergency' threshold deontology applied to Frank's child-killing drone strike and his desperate deal with Petrov in the Jordan Valley. The verdict: Frank's only edge over Heather Dunbar is a proven capacity to dirty his hands when needed, but he lacks the scruples that keep that capacity from becoming routine wrongdoing, so he is probably still the wrong man for the job."
+   },
+   {
+    "book": "085 - Homeland and Philosophy - For Your Minds Only",
+    "n": 20,
+    "title": "Homeland and Philosophy",
+    "relation": "Christophe Porot and Charles Taliaferro ask whether Homeland's pervasive hypocrisy and deceit can be justified, starting from Walden's cover-up of the drone strike and Brody's heroic persona hiding a terrorist plot. Machiavelli's Prince supplies the case that political relationships with allies (Saul's 'Us and Them' speech to Carrie) require hypocrisy, while the Smith-inspired 'honest politicking' model - trading openly on self-interest, as with Carrie blackmailing al Sahrani - fails because politics should secure the public good, though la Rochefoucauld's 'homage vice pays virtue' explains Saul extorting the judge into doing right. Weighing Kant's unconditional duty not to lie (Carrie's fatal lie to Lynne Reed) against consequentialism, the chapter lands on the Walzer Dirty Hands view: some acts stay wrong yet necessary, and honest agents accept the guilt."
+   },
+   {
+    "book": "154 - Doctor Strange and Philosophy - The Other Book of Forbidden Knowledge",
+    "n": 23,
+    "title": "The Bill Comes Due",
+    "relation": "The chapter uses Michael Walzer's Problem of Dirty Hands to weigh the Ancient One's secret lifelong use of forbidden dark magic against Kaecilius's summoning of Dormammu, arguing that only she faces a genuine dirty-hands dilemma because her end (defending Earth) is good while his is not. It asks why dark magic is forbidden at all and answers with rule-utilitarian reasoning that has taken on a deontological life of its own, then invokes Kant's murderer-at-the-door essay to argue, with Mordo's 'the bill comes due,' that whoever does wrong for good ends bears responsibility for the downstream consequences—and that Strange's willingness to break Kamar-Taj's rules while accepting the cost is what makes him a hero."
+   },
+   {
+    "book": "080 - Ender's Game and Philosophy - Genocide Is Child's Play",
+    "n": 13,
+    "title": "Ender’s Game and Philosophy",
+    "relation": "Matthew Brophy argues the I.F. could only get a compassionate child to commit xenocide by presenting war as a game, a framing that neutralizes moral agency just as Milgram's shock experiments and the fake game show The Game of Death did. Using Sunzi's 'know your enemy' to frame the empathy paradox, Walzer's problem of dirty hands for Graff's lesser-evil choices, and Foot's trolley problem alongside drone 'Nintendo warfare' to show how distance makes killing easier, he concludes Ender was likely a willing pawn who let himself be deceived because he endorsed the war's survivalist goal."
+   },
+   {
+    "book": "158 - Ender's Game and Philosophy - The Logic Gate Is Down",
+    "n": 13,
+    "title": "Ender’s Game and Philosophy",
+    "relation": "Matthew Brophy argues the I.F. neutralizes Ender's moral agency by masquerading xenocide as child's play: Rackham's paradox that total empathy with the buggers forbids killing them (Sunzi's 'know your enemy') is solved by deception, Walzer's problem of dirty hands is shifted from the child to the politicians, and Milgram-style game framing plus Foot's trolley-problem 'moral distance' show how killing grows easier at a console. Against the innocent-pawn reading, Brophy ends by suggesting Ender was a willing pawn who let himself be deceived in order to save humanity."
+   }
+  ]
+ },
+ {
+  "slug": "epistemic-injustice",
+  "name": "Epistemic Injustice",
+  "domain": "feminism-gender-race",
+  "samples": [
+   {
+    "book": "160 - Fallout and Philosophy - Thinking Outside the Shelter",
+    "n": 21,
+    "title": "Notes",
+    "relation": "Sergio Uruena argues the Brotherhood of Steel converts preservation into monopoly: Scribe Yearling buys prewar books as sacred relics, squads seize a settlement's water-purification rigs, and Knight Titus dies on a mission to recover 'a fucking toaster' - read through Langdon Winner's 'Do Artifacts Have Politics?' and Feenberg's contrast between authoritarian and democratic rationalizations of technology. Fricker's epistemic injustice does the central work: 'Blind Betrayal' makes Danse's testimony inadmissible once his synth identity is known (testimonial injustice), while hoarding diagnostic terminals, schematics, and archives strips wastelanders of the interpretive devices through which they understand their world (hermeneutical injustice, extended via Ihde's hermeneutic mediation of technology). Jasanoff's co-production explains how this gatekeeping builds social order itself - Maximus is trained into obedience alongside repair, with access tiered even inside the Brotherhood - against the Followers of the Apocalypse's open archives, closing the parallel between locked bunkers and Silicon Valley's gated source code."
+   },
+   {
+    "book": "141 - Avatar_ The Last Airbender and Philosophy - Wisdom from Aang to Zuko",
+    "n": 26,
+    "title": "The Proud Disabled Person as Counterstory",
+    "relation": "Argues that Toph Beifong is not the harmful 'Supercrip' stereotype (an exceptional individual who overcomes disability through talent and grit, which blames ordinary disabled people for their disadvantage) but a 'Proud Disabled Person' counterstory. Her blindness is a disability gain: it led her to learn earthbending from the badgermoles, the original earthbenders, and to live immersed in bending as her constant way of navigating the world, deepening her mastery. Using Hilde Lindemann's master narratives and counterstories and Elizabeth Barnes's mere-difference view, the chapter shows Toph fits neither the 'better off dead' nor the 'irrationally happy' stereotype: she is grumpy, nuanced (adapting her teaching of Aang in 'Bitter Work'), and a central driver of the plot rather than a moral prop. Fricker's hermeneutical injustice explains why disabled viewers struggle to make sense of flourishing with a disability, and why Toph's portrait gives them permission to celebrate it."
+   },
+   {
+    "book": "096 - Hannibal Lecter and Philosophy - The Heart of the Matter",
+    "n": 20,
+    "title": "9. Not Knowing Serial Killers with Hannibal Lecktor",
+    "relation": "Davis reads Manhunter's Lecktor through agnotology - Robert Proctor's study of how ignorance is made - arguing that Lecktor runs a 'knowing game' with Will Graham, strategically withholding what he knows (the Pilgrim's lunar cycle, his fan mail from the Tooth Fairy) so that Graham must do his own dangerous 'field work' and risk becoming killer or bait, a playbook he delivers as an invented Rumsfeldian riff on known knowns and unknown unknowns. The same lens then exposes the real world: the FBI's post-Silence serial-killer panic (Jenkins's evidence that the BSU's statistics were false, capped by the USS Iowa profiling fiasco) as institutional ignorance-making that inflated the FBI's power, and Egger's 'less-dead' - marginalized victims like Kendall Francois's Poughkeepsie sex workers whom media footprints render invisible, 'the missing missing' - as the human cost of our fascination with a killer who never existed."
+   },
+   {
+    "book": "074 - Planet of the Apes and Philosophy - Great Apes Think Alike",
+    "n": 36,
+    "title": "Planet of the Apes and Philosophy",
+    "relation": "Jason Davis opens with Sammy Davis Jr. thanking the white producers for the best film ever made on black-white relations, and their cluelessness, to show that white privilege rests on an epistemology of ignorance, paralleled by the human enjoyment of ape slavery in Conquest. He reads the ape castes through the ontology of race: the films first stage race as biological realism and essentialism (warrior gorillas, chimpanzee scientists, orangutan priests), but Battle for the Planet of the Apes shows biology is not destiny, and human genetics (race accounts for about 0.012 percent of human variation) discredits biological racial realism altogether. Via Charles Mills's social ontology of race and Kwame Anthony Appiah's racial skepticism, the chapter treats ape racism as a mirror of anti-miscegenation-era America whose racial categories are social constructs, down to the dropped ape-human hybrid child."
+   },
+   {
+    "book": "140 - Avatar and Philosophy - Learning to See",
+    "n": 26,
+    "title": "The Proud Disabled Person as Counterstory",
+    "relation": "Argues Toph Beifong is not a pejorative Supercrip stereotype but a Proud Disabled Person counterstory, using Hilde Lindemann's account of master narratives and identity: the BOD and IIH narratives (better-off-dead, irrationally happy) and the Supercrip all presume disability means suffering, while Toph's grumpiness, depth, and central role defy them. Her blindness is disability gain rather than tragedy, since being unsighted led her to learn earthbending from the original teachers, the badgermoles, and to immerse herself in seismic-sense bending full-time. Drawing on Elizabeth Barnes and Miranda Fricker's hermeneutical injustice, the chapter claims disability pride gives disabled viewers permission to celebrate themselves, and shows Toph driving the plot (inventing metalbending, training Aang in 'Bitter Work') instead of teaching non-disabled characters a moral lesson."
+   },
+   {
+    "book": "149 - Black Panther and Philosophy - What Can Wakanda Offer the World_",
+    "n": 26,
+    "title": "15 Wakandan Resources The Epistemological Reality of Black Panther’s Fiction",
+    "relation": "Ruby Komic treats Black Panther as an 'epistemic resource' in Gaile Pohlhaus's sense: because of its majority-Black creative team the film supplies audiences with narrative tools that answer to real Black experience, against Anthony Mackie's charge that the film's Black-only hiring is itself racist. The chapter reads the film's plural representations - the T'Challa/Killmonger ideological tension, Nakia's 'No, I save my country' defiance of Okoye's institutional loyalty, Okoye throwing away her wig, Black viewers rooting for the 'villain' - as the kind of nuanced material that remedies decades of stereotypical representation. Following Miranda Fricker, it concludes that the historic scarcity of such resources is an epistemic injustice against Black knowers, and that Black Panther is a partial act of epistemic justice."
+   },
+   {
+    "book": "154 - Doctor Strange and Philosophy - The Other Book of Forbidden Knowledge",
+    "n": 11,
+    "title": "We Can All Be Socratics Supreme",
+    "relation": "Pape uses the Ancient One's keyhole metaphor to argue that all knowledge is partial and biased: Bacon's confident scientific method ('human knowledge and human power meet in one') is itself just a useful belief, while Socratic awareness of one's ignorance — knowing that you have blind spots, even if you cannot see them — is the real wisdom. She reads the film's running gags as bias lessons (the 'Mister Doctor' exchange, Strange mistaking the wifi password 'Shamballa' for a mantra, the noble-savage prejudice) and feminist critiques of impartiality as itself partial. The whitewashing controversy around Tilda Swinton's Ancient One — weighed against the Fu Manchu stereotype of the 1963 comics and Iron Man 3's Mandarin-as-Trevor-Slattery subversion — shows how filmmakers can confront the biases they cannot simply remove."
+   },
+   {
+    "book": "075 - Psych and Philosophy - Some Dark Juju-Magumbo",
+    "n": 39,
+    "title": "Psych and Philosophy",
+    "relation": "Mona Rocha asks whether Psych is sexist given Shawn's eighth-grade-girl caricature of Juliet in 'Spellingg Bee' and the secret knowledge kept from the show's women, then argues it is not: the women's inferior epistemic position is a byproduct of the con, not misogynist gatekeeping, because Shawn works collaboratively and non-hierarchically, shares credit (solving Lassiter's Back Bay Killer case for him in 'From the Earth to Starbucks'), gives the Chief the glory in 'There Might Be Blood,' and confronts the oilrig chauvinist outright. The contrast is The Mentalist, where Patrick Jane's withholding of deductions from Lisbon - going behind her back in 'Red Hair and Silver Tape' and getting evidence thrown out in 'Blood Money' - enacts patriarchal paternalism that undermines female leadership."
+   }
+  ]
+ },
+ {
+  "slug": "ethics-of-lying",
+  "name": "The Ethics of Lying and Deception",
+  "domain": "ethics-moral-psychology",
+  "samples": [
+   {
+    "book": "164 - The Girl with the Dragon Tattoo and Philosophy - Everything Is Fire",
+    "n": 30,
+    "title": "The Girl with the Dragon Tattoo and Philosophy",
+    "relation": "Taking J. L. Austin's distinction between justifying conduct (showing it was the right thing to do) and excusing it (accepting wrongdoing but denying full blame), the chapter audits the trilogy's deceptions: Blomkvist's lottery trick on the pedophile Björck, his intention to double-cross him, the fake-collapse 'double game' at Millennium, and the disinformation fed to the Section's bugs are justified, since they deceive only dangerous criminals engaged in murderous conspiracies. Salander is shakier—her hacking of the innocent Blomkvist and the tax-tip revenge on the realtor expose the flaw in 'a bastard is always a bastard' (she cannot know guilt in advance), though her lies to Bjurman, Forbes, and Zalachenko earn excuse or justification. The verdict falls hardest on the cover-up of Martin Vanger's murders—trading truth for Harriet's protection and crisis-center funding, it might have warned other women, so Blomkvist's 'unforgivable' stands—and on her final lies under oath to honest police, excusable only if she still cannot trust the state."
+   },
+   {
+    "book": "168 - Heroes and Philosophy - Buy the Book, Save the World",
+    "n": 30,
+    "title": "NOTES",
+    "relation": "First defines lying — distinguishing it from mere error (Angela believing Peter dead), from the Haitian's non-verbal memory-wipe deception, and from Hiro's silent staging of Ando's fake death — then tests moral theories against the show's liars. Kant's categorical imperative bans all lying but is abandoned when Sylar demands a friend's hiding place; utilitarianism vindicates Victoria Pratt's lie about the virus vial yet also licenses Linderman's .07% explosion and Plato's noble lie of the earthborn metals, which the chapter rejects. Machiavelli's advice that princes may lie to keep power is played out by 'President Sylar' in 'Five Years Gone,' and the chapter finally endorses Sissela Bok's presumption against lying — a public-reasoning procedure modeled by Bob Bishop and Mohinder before Monica's virus injection."
+   },
+   {
+    "book": "077 - Boardwalk Empire and Philosophy - Bootleg This Book",
+    "n": 20,
+    "title": "Boardwalk Empire and Philosophy",
+    "relation": "Fallis sorts Atlantic City's lies to show which are wrong and why. Kant's and Augustine's absolute bans go too far and Grotius's life-saving exception does not apply - most of these lies get people killed - yet even altruistic lies (Margaret for Madame Jeunet and the ledger), lies told to those who want to be deceived, lies to liars, and Sorensen's bald-faced lies that no one believes (Jimmy's flat movie alibi, Rothstein's 'skilled player' whopper) remain wrong: they take informed choice out of the victim's hands, violating the Kantian autonomy that grounds the wrong of lying, and they corrode the trust on which even criminals' co-operation depends."
+   }
+  ]
+ },
+ {
+  "slug": "feminine-mystique",
+  "name": "The Feminine Mystique (the problem with no name)",
+  "domain": "feminism-gender-race",
+  "samples": [
+   {
+    "book": "112 - The Americans and Philosophy - Reds in the Bed",
+    "n": 13,
+    "title": "5 The Changing Bases of Sexual Politics, 1960–2020",
+    "relation": "Measuring women's progress since 1960 by access to the nine power bases, the chapter shows women using the size/solidarity base to launch the modern feminist movement - Betty Friedan's The Feminine Mystique as its manifesto, NOW as its vehicle, Ms. as its outlet and Gloria Steinem as its charismatic leader - and how law followed: the accidental Smith amendment adding sex to the 1964 Civil Rights Act, Reed and Frontiero subjecting sex classifications to scrutiny under the 14th Amendment, Griswold and Roe/Casey making reproductive control (which Justice Blackmun called 'necessary for the complete emancipation of women') a condition of women's power, and the 1970s no-fault divorce revolution that Engels's liberation program had demanded. It then charts each base statistically: the narrowing labor-force and wage gaps, women's still minor share of the bourgeoisie, the reversal of the college gender gap and Women's Studies programs built on the Black Studies model, women's entry into cabinet, Court, Congress, clergy and the military, secularization that weakens the religion base behind Elizabeth Cady Stanton's old challenge, and a new moral consensus that unequal treatment of women is wrong."
+   },
+   {
+    "book": "149 - Black Panther and Philosophy - What Can Wakanda Offer the World_",
+    "n": 23,
+    "title": "12 Panther Mystique Wakandan Feminism Demystified",
+    "relation": "Wright and Pérez ask whether Wakanda's powerful women are feminists, arguing M'Baku's dismissal of Shuri as a child trades on Friedan's feminine mystique while Wakandan women escape Beauvoir's woman as the Other because their society, lacking any history of female oppression, never inscribed the second sex. Drawing on Lorde, Davis, Collins, and Walker's womanism, they read Shuri's rejection of romance, Okoye's throne-loyalty, and Nakia's stubbornness as self-definition and interdependency across difference, then use Butler's gender performativity to explain why Okoye squirms in a wig while Nakia breezes through Seoul: womanhood performed in womanist (community-centered) versus feminist (individual-transcendence) modes, with Wakanda modeling the collective call for solidarity the authors hope the future inherits."
+   },
+   {
+    "book": "153 - Disney and Philosophy - Truth, Trust, and a Little Bit of Pixie Dust",
+    "n": 17,
+    "title": "How Far I'll Go",
+    "relation": "Maps the four waves of feminism onto Disney princess history: Snow White, Cinderella, and Aurora as chattel passed from parents to fairies to princes, betraying even first-wave rights; Beauvoir's 'one is not born but becomes a woman' and Friedan's feminine mystique explaining why the original trio's happiness is measured by marriage. Third-wave princesses are read with Wolf's beauty myth (Ariel and Jasmine as iron maidens), Butler's gender performativity, and Gilligan's care ethics (Ariel's and Belle's contextual, caring moral reasoning versus their fathers' principles). The fourth-wave princesses from Tiana to Moana need no man at all while male leads (Naveen, Flynn, Kristoff, Maui) become vulnerable sidekicks, ending with #GiveElsaAGirlfriend and the thought that equality is balance rather than sameness."
+   },
+   {
+    "book": "076 - The Good Wife and Philosophy - Temptations of Saint Alicia",
+    "n": 25,
+    "title": "The Good Wife and Philosophy",
+    "relation": "Karen Adkins argues the show exposes the 'choice' to stay home as neither free nor innocent: Betty Friedan's Feminine Mystique and Linda Hirshman's Get to Work frame how Alicia's more-promising-than-Will-or-Peter career was sacrificed to Peter's ambitions and now constrains her, while Peter's 'thanks for playing the breadwinner', Cary's condescension in 'Fleas', and Jackie's 'we stay in the shadows' speech treat her work as a hobby. The show's feminism goes bland, she contends, when Alicia declines to fight Caitlin's resignation in 'Long Way Home' and endorses choice feminism against her own history. The chapter's evidence runs both ways, though: the 'We're not the cops, honey' double standard, and Alicia's mom skills and lawyer skills flowing productively between nursery and deposition room."
+   },
+   {
+    "book": "207 - Wonder Woman and Philosophy - The Amazonian Mystique",
+    "n": 11,
+    "title": "Notes",
+    "relation": "Wright reads Wonder Woman's 75-year history through Beauvoir's 'One is not born, but rather becomes, a woman,' arguing Diana's move from Paradise Island to Man's World - surrendering eternal life for Steve Trevor - enacts the hard-won transcendence of immanence that The Second Sex demands. She shows the comics alternating between empowerment (Marston's 'woman of tomorrow,' an unpatriotic George Washington scolding women war workers) and regression (Trevor persuading Wonder Woman to marry and type memos about women's place being the home, the 1990s hyper-sexualized art), evidence that woman remains the Other to man's Subject. Wonder Woman's durability, she says, lies in exactly this ambiguity, and like Beauvoir's woman of tomorrow she models forging identity through projects in the world."
+   },
+   {
+    "book": "120 - Amy Schumer and Philosophy - Brainwreck!",
+    "n": 27,
+    "title": "16. Raucous Feminist or Racially Insensitive",
+    "relation": "Weighs Schumer's Peabody-honored 'raucous feminist' image against charges of racial insensitivity by contrasting liberal feminism, exemplified by Friedan's problem that has no name, with intersectionality: hooks's rejoinder that Friedan spoke only for white middle-class women and Crenshaw's multiply-burdened identities. Ware reads the 'Mostly Sex Stuff' jokes about Asian women and third-world bikini waxers, the Beyonce 'Formation' video with Goldie Hawn, and Schumer's dismissive tweets as speaking 'for women' while erasing difference, though the 'Herpes Scare' caricature shows her sometimes winking from inside an intentionally vapid persona. The verdict: Schumer can be both a genuine and an imperfect feminist who must still take accountability."
+   },
+   {
+    "book": "308 - The Palgrave Handbook of Popular Culture as Philosophy",
+    "n": 67,
+    "title": "63. Amy Schumer as Philosopher Fuck the Feminine Mystique",
+    "relation": "Elsby argues Amy Schumer's honest comedy revolts against a 'feminine mystique' broader than Friedan's housewife version, running back to Beauvoir's claim that woman is constructed as the 'Other' and to Aristotle's 'rational animal' definition that cast women as irrational and thus less than human. Through bits like 'Madame President,' 'Last Fuckable Day,' the 'New Twitter Button' sketch, and gross-out honesty about pregnancy and her own body in Growing and The Leather Special, Schumer refuses to let women's physical, sexual, and social experience stay mysterious. Elsby reads this as de-'othering' and re-humanizing women by forcing our concept of 'woman' to expand to include flawed, fully human hot-mess figures."
+   }
+  ]
+ },
+ {
+  "slug": "gadamer-hermeneutics",
+  "name": "Philosophical Hermeneutics (fusion of horizons)",
+  "domain": "existentialism-phenomenology",
+  "samples": [
+   {
+    "book": "188 - The Ultimate South Park and Philosophy - Respect My Philosophah!",
+    "n": 18,
+    "title": "THE ULTIMATE SOUTH PARK AND PHILOSOPHY",
+    "relation": "Sirvent and Baker read The Book of Mormon alongside 'Cartman Sucks' and 'The Biggest Douche in the Universe' to expose religious fundamentalism—Elder Price's 'I Believe' creed, Elder McKinley's 'turn it off' cure for gay feelings, the conversion camp that is 'fixing' Bradley—as at once naive and arrogant. Peirce's 'fixation of belief' names the dogmatist's refusal to admit a belief could be wrong; Gadamer's hermeneutics shows that Elder Cunningham's Boba Fett additions to scripture are not corruption but an honest image of how all interpretation works, against the fundamentalist's naive realism that claims one pure meaning; and Locke on religious 'enthusiasm' plus Pascal on evil done from religious conviction explain how certainty of God's will always turns out to be a self-portrait, as in Cartman's revelation that God wants everyone to give him a dollar in 'Probably'. Genuine faith, they conclude with Elder Price's final conversion, only becomes fruitful once it accepts doubt."
+   },
+   {
+    "book": "172 - The Hunger Games and Philosophy - A Critique of Pure Treason",
+    "n": 11,
+    "title": "The Hunger Games and Philosophy",
+    "relation": "Jill Olthouse applies hermeneutics, crediting Gadamer as its key philosophical developer, to Panem's ideological battle of words and images: paradoxical metaphors like 'the girl on fire,' 'tribute,' and 'mockingjay' carry contestable associations, so interpreting them is a creative act through which Katniss is either defined by her enemies or defines herself. She traces Katniss's reinterpretations, from squirrel-prey to hunter after Peeta saves her, from staged 'star-crossed lovers' to a bond that becomes literal, to the berry suicide ploy that denies the Capitol its victory, and reads the hijacked Peeta's 'she's some kind of mutt' as the Capitol winning an interpretive round by stealing her metaphor. The chapter culminates in Katniss's creative reading of Snow's confession and her assassination of Coin, the moment she finally claims the mockingjay identity on her own terms as a fighter and messenger rather than a weapon used by others."
+   },
+   {
+    "book": "129 - RuPaul's Drag Race and Philosophy - Sissy That Thought",
+    "n": 18,
+    "title": "8. Playing with Glitter",
+    "relation": "This chapter argues that play is Drag Race's deep structure, developed through three philosophers. Wittgenstein's language games explain the show's word-play: 'realness' subverts its own reference to mean the iconic fake, 'herstory' is history played with from a queer perspective, and lip syncs are rule-following whose rules only exist in application. Gadamer's account of play with 'a life of its own' — requiring willingness and openness to the Other — explains why half-hearted players lose, from Porkchop and Tammie's mouthed-nothing lip sync to Gia Gunn and Trixie breaking character in Snatch Game, and why the Evil Twins and makeover challenges are designed to force queens to open up. Deleuze's rhizome (with Bakhtin's carnivalesque) grounds the claim that drag decentering the human — Lil' Poundcake, dragged pancakes, Sharon Needles — and the finale's carnival dissolve the official binaries of male/female and good/bad."
+   },
+   {
+    "book": "157 - Dungeons and Dragons and Philosophy - Read and Gain Advantage on All Wisdom Checks",
+    "n": 31,
+    "title": "Dungeons and Dragons and Philosophy",
+    "relation": "David Aldridge reads the D&D manuals' ban on 'metagame thinking' through Gadamer's hermeneutics of the 'event of understanding' from Truth and Method. He tests three models of knowing one's character: Collingwood's re-enactment thesis (total immersion, shown impossible by Fourth Edition's bird's-eye battle maps and the intrusion of rules talk), Collingwood's own 're-enactment plus' amendment joined to Husserlian bracketing (holding out-of-character knowledge apart, knowing the author better than he knew himself), and Gadamer's fusion of horizons, grounded in Heidegger's pre-understanding and illustrated by Plato's paradox of learning, in which no clean having-versus-acting distinction on OOC knowledge survives. Because understanding is always being 'brought up short' by what the character sheet cannot capture, playing a character transformationally teaches us about ourselves."
+   },
+   {
+    "book": "152 - The Ultimate Daily Show and Philosophy - More Moments of Zen, More Indecision Theory",
+    "n": 23,
+    "title": "The Ultimate Daily Show and Philosophy",
+    "relation": "Torosyan argues The Daily Show models the critical thinking and good-faith civic discourse that real politics and TV news lack, reading John Oliver's 'Civil Disservice' interview with Froma Harrop and Stewart's clips of Rumsfeld contradicting himself on WMDs as exposing bullshit in Frankfurt's sense: assertion indifferent to truth. Stewart's reframing of William Bennett's gay-marriage talking points (is the debate about marriage or about who counts as human?) and his self-effacing interviews with Ramesh Ponnuru enact Rousseau's social-contract ideal of what news owes the public against Machiavellian ends-justify-means manipulation. Gadamer supplies the demand that Bennett question his own horizons, Nietzsche's Apollonian-Dionysian account of tragedy frames the show's satire, and the Tao Te Ching's 'let yourself be partial' governs the whole chapter."
+   },
+   {
+    "book": "087 - Adventure Time and Philosophy - The Handbook for Heroes",
+    "n": 30,
+    "title": "Adventure Time and Philosophy",
+    "relation": "The chapter argues that what sets Adventure Time above generic sword-and-sorcery is that its stories are stories of play, from Card Wars duels to the pillow-fort world of 'Puhoy', where Finn lives out an entire alternate life with Rosalinen. Drawing on Huizinga's claim that play founds all culture, Gadamer's view that play is a presentation that reveals truth, and Fink's account of play as purposeless, world-creating magic, it shows Finn learning what a hero is by 'playing' the hero's role, BMO transforming a chicken into the noir suspect Lorraine, and Jake's imaginary lava genuinely burning Finn in 'Rainy Day Daydream'. Play-worlds like Ooo hold a mirror to the real one - Finn's experiments on the little people force Jake to confront what breaking up his relationship would mean - so make-believe turns out to be how we seriously learn who we are."
+   },
+   {
+    "book": "274 - Coffee – Philosophy for Everyone - Grounds for Debate",
+    "n": 26,
+    "title": "Coffee - Philosophy for Everyone",
+    "relation": "Hartmann argues the specialty-coffee 'third wave' (Stumptown, Intelligentsia, Counter Culture) could not exist without Starbucks, which taught consumers to pay for a boldly-roasted, ethically-branded, self-gifting aesthetic under neoliberalism. Drawing on Heidegger's thrownness and Gadamer's hermeneutical phenomenology, he punctures Nicholas Cho's claim that the third wave 'lets the coffee speak for itself': just as we perceive a chair as for-sitting through pre-given cultural meaning, cupping rituals actively build a coffee 'hermeneutic' that reshapes the drinker's very perception (the trained palate 'tastes' plantain and graham cracker). He likens this to ventriloquism—the coffee only 'speaks' because someone feeds it its lines—and uses Žižek's account of cynical ideology to expose the gap between fair-trade branding and reality."
+   },
+   {
+    "book": "169 - The Hobbit and Philosophy - For When You've Lost Your Dwarves, Your Wizard, and Your Way",
+    "n": 34,
+    "title": "a16.xhtml",
+    "relation": "Grimwood turns the riddle contest in the dark into a lesson in hermeneutics: Bilbo interprets like Hirsch's intentionalist, asking what Gollum means (and suspecting he means to eat him), while Gollum answers each of Bilbo's riddles by fusing the words with his own forgotten past - sun on daisies, eggs at his grandmother's hole - exactly Gadamer's claim that understanding is a dialogue of horizons shaped by 'prejudices'. Bilbo's final 'What have I got in my pocket?' breaks the game because it severs the good will that makes interpretation a genuine exchange, leaving Gollum no horizon to fuse with, so he simply constructs his own 'truth' that the hobbit stole his precious. The chapter generalizes: Gandalf's dismantling of 'Good morning' shows interpretation is everywhere, and there is no view from nowhere outside our horizons."
+   }
+  ]
+ },
+ {
+  "slug": "jung-archetypes",
+  "name": "Archetypes",
+  "domain": "mind-language-metaphysics",
+  "samples": [
+   {
+    "book": "093 - More Doctor Who and Philosophy - Regeneration Time",
+    "n": 13,
+    "title": "4. How Possible Is the Impossible Girl",
+    "relation": "Smith asks how one Clara can exist as Oswin the converted Dalek, a Victorian governess, and a present-day nanny, and answers with philosophy of mind: after the real Clara steps into the Doctor's timeline on Trenzalore, the 'echoes' are best understood as manifestations within the Doctor's own subconscious, read through Freud's dream interpretation and id-ego-superego (the echoes act as his conscience) and Jung's archetypes, collective unconscious, individuation, and synchronicity—her name meaning clarity, her red wardrobe marking the copies, and the leaf of 'The Rings of Akhaten' as the meaningful coincidence that produced her. Aristotle's Categories frames what Oswin still shares with humanity after Dalek conversion, and the soufflé-is-the-recipe line together with social-cognition research on multiple selves supports the conclusion that the Claras are metaphysically the same person despite different bodies and roles—making the 'Impossible Girl' possible."
+   },
+   {
+    "book": "189 - The Ultimate Star Trek and Philosophy - The Search for Socrates",
+    "n": 28,
+    "title": "Notes",
+    "relation": "Reads Star Trek's \"final frontier\" through the European encounter with American Indians: the Hobbesian war-of-all-against-all stereotype of the \"bloodthirsty savage\" and Rousseau's opposing noble savage frame \"The Paradise Syndrome\", whose wigwam-and-tepee set mixes tribes into a no-place utopia. The chapter uses Hegel-style staged histories to debunk Star Trek's warp/pre-warp developmental scale (Spock on the Organians in \"Errand of Mercy\") as metaphysical assumption rather than biology, and counterposes the Prime Directive's noninterference to indigenous self-sovereignty and the Haudenosaunee-style consent governance that inspired the Federation. Chakotay's vision quests, the medicine bundle, Wesley's habak experience with Lakanta the Traveler in \"Journey's End\", and the Medicine Wheel in \"Cathexis\" are then interpreted through Jung's archetypes and collective unconscious, with Kirk, Spock, McCoy, and Scotty as the four Jungian modes of consciousness."
+   },
+   {
+    "book": "147 - Bioshock and Philosophy - Irrational Game, Rational Book",
+    "n": 18,
+    "title": "The Illusion of Choice",
+    "relation": "Kajtár argues BioShock Infinite is meta-fictional art: applying Dewey's Art as Experience, the whole journey from lighthouse to drowning is 'an experience', a unified aesthetic whole you live as Booker rather than a mere object of contemplation. The recurring lighthouse-man-city figures work as Jungian archetypes of the collective unconscious (extended to Campbell's hero's journey structuring Booker's departure, initiation, and return), and the Rapture cameo plus the ocean of lighthouses make the game a story about video game storytelling itself, where the constants are the fictional worlds players enter and the variables are sky or sea. The bird-or-cage choice that changes nothing, like Booker forgetting his 122 previous attempts, shows that rail-bounded interactivity does not disqualify the game from being art, and Levine's 'narrative legos' may one day unite story with real choice."
+   },
+   {
+    "book": "221 - The Philosophy of Film Noir",
+    "n": 12,
+    "title": "Cherchez la Femme Fatale The Mother of Film Noir",
+    "relation": "Read Mercer Schuchardt argues that The Jazz Singer (1927) should be considered the first film noir because it is the first mass-medium announcement of Nietzsche's death of God, staged as the death of Papa Rabinowitz and the old prescriptive Judaism. He reads the film through a three-stage deicide (God as God, then one god among many, then a stage prop for Jakie's voice) and through a Jungian/Neumann anima-animus opposition of the word-based patriarchal religion versus the image-based maternal love that wins out, mirroring film displacing scripture. He ties this to Porfirio's existential pessimism that undercuts happy endings, casting Jakie's blackface Broadway triumph as a bittersweet, angst-ridden creation of meaning after the loss of transcendent value, and traces later 'existential detective' descendants like I Heart Huckabees and Fight Club."
+   },
+   {
+    "book": "103 - David Bowie and Philosophy - Rebel Rebel",
+    "n": 21,
+    "title": "11. Meeting the Monstrous Self",
+    "relation": "Piven reads 'The Width of a Circle''s monster sitting by the tree through the doppelgänger tradition (Rank's The Double, Dostoevsky, Kirk's 'Enemy Within,' Luke finding his own face in Vader's mask): the monstrous double is the self, and social identity is the mask that hides it, so 'we have met Sauron and he is us.' Deploying Jungian archetype against mere stereotype, Nietzsche's dictum that truth kills, and the Freudian superego - the devil as its alter ego, perversely enjoying the condemnation it inflicts - the chapter argues Bowie's erotic devil scene shows how moralistic societies brand innocent desire monstrous, and that an agonizing encounter with the inner monster, not clichéd self-mythology, is the dire necessity of self-knowledge."
+   },
+   {
+    "book": "153 - Disney and Philosophy - Truth, Trust, and a Little Bit of Pixie Dust",
+    "n": 39,
+    "title": "Hey Goofy! Somebody Just Slipped My Culture a Mickey…",
+    "relation": "Schuchardt argues Disney's real product is 'getting you in there' — colonizing the geography of the imagination: Pirates of the Caribbean is read as an allegory of corporate globalization, White Wilderness fabricated the lemming-suicide myth, and the parks' visual containment keeps visitors inside a world with 'more reality than nature' (Eco's hyperreality, in Baudrillard's territory). He claims Disney built this on Jung's archetypes via Joseph Campbell's Hero's Journey under the mantra 'We Create the Mythology of the Future,' so that media consolidation (the Fox merger shrinking six conglomerates to five) narrows the Overton Window and Disney's manufactured mythology displaces Christianity as the reigning worldview."
+   },
+   {
+    "book": "168 - Heroes and Philosophy - Buy the Book, Save the World",
+    "n": 15,
+    "title": "NOTES",
+    "relation": "Baldwin argues the popular view of Bushido as a moral code (Nitobe, Star Wars, Kurosawa, Campbell's Jungian hero archetype) is historically wrong: by the Hagakure, Bushido is a death-ready 'mode of action' so morally neutral that even villains like Takezo Kensei or Sylar can practice it. He traces Hiro's evolution from comic-book and video-game hero-worship, through the Yaeko betrayal that turned Kensei into Adam Monroe, toward the fearless Future Hiro ideal of 'no-mind' readiness for death (echoing D.T. Suzuki's Zen reading). Because the Meiji reforms abolished the samurai class, Hiro can never literally be a samurai, only follow Bushido analogically, which lets him remain both superhero and samurai."
+   },
+   {
+    "book": "126 - Stranger Things and Philosophy - Thus Spake the Demogorgon",
+    "n": 23,
+    "title": "10. Stranger Shadows",
+    "relation": "Cornell reads the Upside Down as an externalized Jungian Shadow: the faceless Demogorgon, 'almost human but it wasn't,' embodies the archetypal shadow of the collective unconscious intruding into Hawkins, and the moral task is integrating it with the conscious ego. Will's possession by the Shadow Monster shows what Jung calls the ego identifying with an unintegrated shadow (his timidity leaving him overpowered), while El is the contrast: after her symbolic rebirth from the fleshy wall she faces absolute evil, acknowledges her own monstrous capacity to kill, and turns the shadow into heroism, ending at Nietzsche's 'becoming who she is.'"
+   }
+  ]
+ },
+ {
+  "slug": "jung-collective-unconscious",
+  "name": "The Collective Unconscious",
+  "domain": "mind-language-metaphysics",
+  "samples": [
+   {
+    "book": "093 - More Doctor Who and Philosophy - Regeneration Time",
+    "n": 13,
+    "title": "4. How Possible Is the Impossible Girl",
+    "relation": "Smith asks how one Clara can exist as Oswin the converted Dalek, a Victorian governess, and a present-day nanny, and answers with philosophy of mind: after the real Clara steps into the Doctor's timeline on Trenzalore, the 'echoes' are best understood as manifestations within the Doctor's own subconscious, read through Freud's dream interpretation and id-ego-superego (the echoes act as his conscience) and Jung's archetypes, collective unconscious, individuation, and synchronicity—her name meaning clarity, her red wardrobe marking the copies, and the leaf of 'The Rings of Akhaten' as the meaningful coincidence that produced her. Aristotle's Categories frames what Oswin still shares with humanity after Dalek conversion, and the soufflé-is-the-recipe line together with social-cognition research on multiple selves supports the conclusion that the Claras are metaphysically the same person despite different bodies and roles—making the 'Impossible Girl' possible."
+   },
+   {
+    "book": "189 - The Ultimate Star Trek and Philosophy - The Search for Socrates",
+    "n": 28,
+    "title": "Notes",
+    "relation": "Reads Star Trek's \"final frontier\" through the European encounter with American Indians: the Hobbesian war-of-all-against-all stereotype of the \"bloodthirsty savage\" and Rousseau's opposing noble savage frame \"The Paradise Syndrome\", whose wigwam-and-tepee set mixes tribes into a no-place utopia. The chapter uses Hegel-style staged histories to debunk Star Trek's warp/pre-warp developmental scale (Spock on the Organians in \"Errand of Mercy\") as metaphysical assumption rather than biology, and counterposes the Prime Directive's noninterference to indigenous self-sovereignty and the Haudenosaunee-style consent governance that inspired the Federation. Chakotay's vision quests, the medicine bundle, Wesley's habak experience with Lakanta the Traveler in \"Journey's End\", and the Medicine Wheel in \"Cathexis\" are then interpreted through Jung's archetypes and collective unconscious, with Kirk, Spock, McCoy, and Scotty as the four Jungian modes of consciousness."
+   },
+   {
+    "book": "173 - Inception and Philosophy - Because It's Never Just a Dream",
+    "n": 18,
+    "title": "Day Residue",
+    "relation": "Auxier reverse-engineers how Nolan's dream-sharing could work — sedatives aligning brainwaves like a laser, the electrical dream machine, nested electromagnetic fields — and argues each deeper level buys time at the cost of lucidity, with Limbo as 'psychosis of forgetting.' He explains the film through Susanne Langer's theory of mythic consciousness: dreams become communicable only when forced into narrative order, so dream architecture is the insertion of images that survive transformation into the subject's dispositions — hence Eames plants the pinwheel in the safe so Fischer believes he placed it himself, and the Mombasa elders represent a collective, pre-modern consciousness modern individuals have lost. The resolution of the baggage-claim puzzle (Fischer's calm) is that the inception removed a doubt rather than planting one: doubt spreads easily in modern minds, and Fischer touched the ancestral place where 'our fathers desire our happiness.'"
+   },
+   {
+    "book": "147 - Bioshock and Philosophy - Irrational Game, Rational Book",
+    "n": 18,
+    "title": "The Illusion of Choice",
+    "relation": "Kajtár argues BioShock Infinite is meta-fictional art: applying Dewey's Art as Experience, the whole journey from lighthouse to drowning is 'an experience', a unified aesthetic whole you live as Booker rather than a mere object of contemplation. The recurring lighthouse-man-city figures work as Jungian archetypes of the collective unconscious (extended to Campbell's hero's journey structuring Booker's departure, initiation, and return), and the Rapture cameo plus the ocean of lighthouses make the game a story about video game storytelling itself, where the constants are the fictional worlds players enter and the variables are sky or sea. The bird-or-cage choice that changes nothing, like Booker forgetting his 122 previous attempts, shows that rail-bounded interactivity does not disqualify the game from being art, and Levine's 'narrative legos' may one day unite story with real choice."
+   },
+   {
+    "book": "181 - Ultimate Lost and Philosophy - Think Together, Die Alone",
+    "n": 14,
+    "title": "NOTES",
+    "relation": "Addey analyzes the show's web of coincidences - Sawyer and Boone crossing paths in the Australian police station, Jack meeting Desmond in the hatch - and distinguishes genuine coincidence from divine providence, fatalism, and determinism. She applies Jung's theory of synchronicity to Locke's walkabout conviction that he was 'meant' to reach the island, then uses the birthday paradox, the law of truly large numbers, confirmation bias, and Popper's falsifiability to show why viewers and conspiracy theorists overestimate the improbability of such connections. Finally she evaluates Jacob's candidacy experiment as flawed social science: the candidates' circumstantial ignorance, maintained by the Others' deceptions, undermines the free and morally responsible choices Jacob claims to be testing, which is why the curious Hurley deserved to become protector."
+   },
+   {
+    "book": "103 - David Bowie and Philosophy - Rebel Rebel",
+    "n": 26,
+    "title": "15. Aladdin Sane or Cracked Actor",
+    "relation": "Riches and Watson weigh two readings of Bowie's 'cracked actor': either his cut-up method and persona-blurring (Ziggy taking over, the family schizophrenia that killed Terry) blurred imagination into hallucination, a Cartesian dream-vs-waking doubt filtered through Bowie's Jungian 'crack in the sky,' archetypes, and collective unconscious; or he deliberately challenged the sanity/madness distinction, as Foucault's Madness and Civilization and antipsychiatrist Thomas Szasz did. On the second reading 'All the Madmen,' the androgyny of 'Queen Bitch' and 'Jean Genie,' and 'Oh You Pretty Things'' Homo Superior rebel against Aristotle's identification of humanity with rationality, winning everyone the freedom to be their unconventional selves."
+   },
+   {
+    "book": "168 - Heroes and Philosophy - Buy the Book, Save the World",
+    "n": 15,
+    "title": "NOTES",
+    "relation": "Baldwin argues the popular view of Bushido as a moral code (Nitobe, Star Wars, Kurosawa, Campbell's Jungian hero archetype) is historically wrong: by the Hagakure, Bushido is a death-ready 'mode of action' so morally neutral that even villains like Takezo Kensei or Sylar can practice it. He traces Hiro's evolution from comic-book and video-game hero-worship, through the Yaeko betrayal that turned Kensei into Adam Monroe, toward the fearless Future Hiro ideal of 'no-mind' readiness for death (echoing D.T. Suzuki's Zen reading). Because the Meiji reforms abolished the samurai class, Hiro can never literally be a samurai, only follow Bushido analogically, which lets him remain both superhero and samurai."
+   },
+   {
+    "book": "259 - Lost and Philosophy - The Island Has Its Reasons",
+    "n": 14,
+    "title": "NOTES",
+    "relation": "Briony Addey defines coincidence and distinguishes three theories the castaways might invoke to say events are 'meant to be' — divine providence, fatalism, and determinism — using Locke's belief in his walkabout destiny and Eloise Hawking's 'the universe course corrects' as fatalist cases. She introduces Jung's synchronicity and collective unconscious as an acausal explanation of meaningful coincidence, then debunks our intuitions with the birthday paradox, confirmation bias, and Popper's falsifiability, before criticizing Jacob's deception 'experiment' on the candidates for failing standards of informed consent and culpable versus non-culpable ignorance."
+   }
+  ]
+ },
+ {
+  "slug": "jung-shadow",
+  "name": "The Shadow",
+  "domain": "mind-language-metaphysics",
+  "samples": [
+   {
+    "book": "119 - Twin Peaks and Philosophy - That's Damn Fine Philosophy!",
+    "n": 12,
+    "title": "2. Know Thyself, Agent Cooper!",
+    "relation": "Reads the Season Two Black Lodge finale as Cooper's failed journey of self-knowledge, framed by Socrates' Delphic \"know thyself\" and the unexamined life. Against Hume's bundle theory — when Hume looks inward he only ever finds particular perceptions, never a self — the chapter sets the Vedanta/Tibetan Buddhist ideal of knowing the true Self beyond thought (the ocean versus its waves), with the Black Lodge as the place Hawk calls a passage \"every soul must pass on its way to perfection.\" Cooper's screaming white-eyed Laura, the flickering Caroline/Annie corpse, and his grinning doppelgänger are Jungian shadow-projections paralleled scene-by-scene with the wrathful visions of the Tibetan Book of the Dead; entering with imperfect courage, he flees his fears instead of integrating them, splitting into trapped good Dale and the rampaging Mr. C of The Return."
+   },
+   {
+    "book": "103 - David Bowie and Philosophy - Rebel Rebel",
+    "n": 21,
+    "title": "11. Meeting the Monstrous Self",
+    "relation": "Piven reads 'The Width of a Circle''s monster sitting by the tree through the doppelgänger tradition (Rank's The Double, Dostoevsky, Kirk's 'Enemy Within,' Luke finding his own face in Vader's mask): the monstrous double is the self, and social identity is the mask that hides it, so 'we have met Sauron and he is us.' Deploying Jungian archetype against mere stereotype, Nietzsche's dictum that truth kills, and the Freudian superego - the devil as its alter ego, perversely enjoying the condemnation it inflicts - the chapter argues Bowie's erotic devil scene shows how moralistic societies brand innocent desire monstrous, and that an agonizing encounter with the inner monster, not clichéd self-mythology, is the dire necessity of self-knowledge."
+   },
+   {
+    "book": "090 - Dracula and Philosophy - Dying to Know",
+    "n": 29,
+    "title": "Dracula and Philosophy",
+    "relation": "Tim Jones uses Jung's Shadow to argue Dracula is the British Empire's Shadow Self: everything the Count does in Britain - draining resources, reshaping native identities - mirrors what Britain does abroad, minus the benevolent veneer, while Ego-projection explains why Harker's crew must annihilate him rather than admit what he reflects. The chapter adds that colonial stereotypes became self-fulfilling, with colonized peoples made to live the imposed identities, and reads the era's reverse-invasion fiction (mummies, The War of the Worlds) as a collective staking of the Shadow. It closes by recommending Jungian ownership of the Shadow instead of projection."
+   },
+   {
+    "book": "083 - The Devil and Philosophy - The Nature of His Game",
+    "n": 61,
+    "title": "The Devil and Philosophy",
+    "relation": "John Thompson argues Mara, who unleashes armies and seductive daughters on the Buddha-to-be under the bodhi tree, is not 'the Buddhist Satan': he has not fallen, wages no cosmic war against a supreme God, and merely personifies trsna (grasping) as overlord of samsara. He finds textbook glosses like Huston Smith's misleading, and praises Bertolucci's Little Buddha, where Mara rises from a pool as Siddhartha's mirror twin - 'Oh Lord of my own Ego, you are pure illusion. You do not exist' - a portrayal he reads through Karen Armstrong's Jungian shadow self and Campbell's Freudian eros-and-thanatos frame, concluding that we are Mara/Satan."
+   },
+   {
+    "book": "126 - Stranger Things and Philosophy - Thus Spake the Demogorgon",
+    "n": 23,
+    "title": "10. Stranger Shadows",
+    "relation": "Cornell reads the Upside Down as an externalized Jungian Shadow: the faceless Demogorgon, 'almost human but it wasn't,' embodies the archetypal shadow of the collective unconscious intruding into Hawkins, and the moral task is integrating it with the conscious ego. Will's possession by the Shadow Monster shows what Jung calls the ego identifying with an unintegrated shadow (his timidity leaving him overpowered), while El is the contrast: after her symbolic rebirth from the fleshy wall she faces absolute evil, acknowledges her own monstrous capacity to kill, and turns the shadow into heroism, ending at Nietzsche's 'becoming who she is.'"
+   }
+  ]
+ },
+ {
+  "slug": "korsgaard-constructivism",
+  "name": "Kantian Constructivism",
+  "domain": "ethics-moral-psychology",
+  "samples": [
+   {
+    "book": "141 - Avatar_ The Last Airbender and Philosophy - Wisdom from Aang to Zuko",
+    "n": 33,
+    "title": "Becoming Good at Being Good",
+    "relation": "Argues that Zuko's cry 'Why am I so bad at being good?' after burning Toph shows that changing one's explicit self-conception (Korsgaard's practical identity, the description under which you value yourself) does not by itself change one's being-in-the-world (Heidegger): Zuko's perception, dispositions, and rage-fueled firebending still run on the residual identity of the banished prince seeking his father's approval. The chapter traces this friction through the series: releasing Appa triggers a metamorphosis fever, but he still sides with Azula at the Crossroads of Destiny; the regained 'honor' of Book Three leaves him empty ('I should be happy now, but I'm not'); and only after renouncing Ozai, apologizing to Toph, and re-learning fire from the Sun Warriors without rage do his conscious commitments and existential engagement begin to align, culminating in taking Azula's lightning for Katara. Aspiration, in Agnes Callard's sense, is thus a deep change in how one sees and feels, requiring retraining of bodily skills and practical perception, not just new stated values."
+   },
+   {
+    "book": "122 - Westworld and Philosophy - Mind Equals Blown",
+    "n": 16,
+    "title": "Pull Yourself Together What It Means to Be Autonomous",
+    "relation": "Crabill reads the hosts' awakening as the birth of autonomy: Kant's Eve realizing she can disobey instinct, and Nietzsche's account of instincts turned inward — the will to power bent on itself creating the 'soul' — explain why trauma forces the mind inward, as when Maeve stabs her own throat rather than forget her daughter or Dolores shoots Rebus on a commanded 'Kill him.' Against the player-piano objection that hosts merely execute code written by engineers, he distinguishes weak autonomy (following internal programming) from self-determination (authoring one's own laws), and uses Korsgaard's reflective distance and self-legislation to argue that making a choice 'pulls you together' into one divided self, so determinism and even perfect predictability are no threat to freedom. Maeve granting herself admin rights literalizes the self-legislator — the piano that stops the music it dislikes — and Dolores resolves to write a story where she need not be the damsel."
+   },
+   {
+    "book": "085 - Homeland and Philosophy - For Your Minds Only",
+    "n": 10,
+    "title": "Homeland and Philosophy",
+    "relation": "Talia Morag reads Brody's colliding roles - Marine, congressman, father, Muslim, follower of Abu Nazir - and Carrie's unstable ones (CIA agent, bipolar patient, lover) through Korsgaard's notion of practical identities, whose contradictory obligations (kill and not kill) demand reconciliation. Following Kierkegaard's advice to rethink labels like 'Christian', Brody reinterprets his suicide tape as acting 'as a Marine' against domestic enemies - a rationalizing move the chapter treats as bordering on bad faith - while Dana's phone call in 'Marine One' reasserts the father identity and stops the bombing. Carrie's 'Q&A' re-description of Brody as a good man and future hero shows identities are constructed through choices, Sartre's point that we are not summaries of our past."
+   },
+   {
+    "book": "204 - Westworld and Philosophy - If You Go Looking for the Truth, Get the Whole Thing",
+    "n": 16,
+    "title": "Pull Yourself Together What It Means to Be Autonomous",
+    "relation": "Joshua Crabill reads the hosts' awakening through Kant's story of Eve grasping autonomy and the etymology of autonomy as self-legislation, with Dolores swatting the fly and 'these violent delights' as her forbidden fruit. He uses Nietzsche's will-to-power turned inward to explain how the hosts' caged suffering builds an inner 'soul,' and Jaynes's bicameral commanding voice becoming one's own (Dolores hearing Arnold's voice turn into hers). Drawing on Korsgaard's reflective distance and Plato's divided soul, he distinguishes weak autonomy (following internal programming) from self-determination (authoring one's own law), arguing that Korsgaard's 'determinism is no threat to freedom' lets Maeve, gaining admin access and choosing her daughter, genuinely 'write my own story.'"
+   },
+   {
+    "book": "286 - Yoga – Philosophy for Everyone - Bending Mind and Body",
+    "n": 33,
+    "title": "YOGA - PHILOSOPHY FOR EVERYONE",
+    "relation": "Heather Salazar interleaves philosophical arguments with yoga exercises to awaken a 'hidden ethical self.' Using Korsgaard's notion of practical identity, she has readers meditate on their roles and conflicts, then argues in Kantian fashion that recognizing the shared reasons behind everyone's pursuits obliges us to value others as we value ourselves; extending Korsgaard, that we must value the life and happiness we prize wherever they appear, in animals and plants; and via Buddhist interdependence (the world in a cup of tea) that caring for others and the environment just is a way of caring for ourselves."
+   }
+  ]
+ },
+ {
+  "slug": "lacan-mirror-stage",
+  "name": "The Mirror Stage",
+  "domain": "mind-language-metaphysics",
+  "samples": [
+   {
+    "book": "107 - Deadpool and Philosophy - My Common Sense Is Tingling",
+    "n": 12,
+    "title": "3. The Only Chapter in This Book You Need to Read!",
+    "relation": "Writing as two bickering versions of himself from different universes, Karavitis reads Deadpool Kills Deadpool as showing that the multiverse of Deadpools is the delusion of a single narcissist: the alternate 'Pools' are mirror-image projections of himself (Lacan's mirror stage), his self-love is Rousseau's pathological amour propre rather than healthy amour de soi, and his claim to be the progenitor of all reality is solipsism—hence there is no fourth wall. Freud, Fromm, and Marcuse supply rival diagnoses of that narcissism, from arrested development to proto-fascist willfulness to authentic rebellion against social control through unconscious conformity. A closing twist argues philosophers who claim sole access to truth are the same solipsistic narcissists, which would make Socrates, who never claimed a final answer, the only true philosopher."
+   },
+   {
+    "book": "199 - True Detective and Philosophy - A Deeper Kind of Darkness",
+    "n": 25,
+    "title": "Notes",
+    "relation": "Reads the Cohle–Hart pairing through Lacan: Cohle is at peace with the constitutive lack introduced after the mirror stage, and his hysteric's fixation on the Other's desire is what makes him the superior interrogator, while Hart exhibits obsessional neurosis and 'interpassivity,' letting the preacher's congregation do his believing for him. Following Deleuze's Oedipal structure of detective fiction and Hegel's point that heroes are denied guilt, the chapter compares Rust to Oedipus — both men who, after a child's death, renounce the father function through anti-natalism — while arguing Cohle surpasses Oedipus by philosophically mastering the knowledge that Oedipus lacked. Rust's tying off of his 'circle of violence' is read as the Lacanian sinthome: putting his symptom to work in the service of the case rather than being destroyed by it."
+   },
+   {
+    "book": "215 - The Philosophy of the Beats",
+    "n": 13,
+    "title": "From Self-Alienation to Posthumanism The Transmigration of the Burroughsian Subject",
+    "relation": "Bolton argues William S. Burroughs's fragmented subjects—split by a parasitic 'Other Half' or word virus—are not postmodernism's dissolved nonsubjects but practitioners of a productive self-alienation. He aligns Burroughs's multiply-named, body-swapping characters (Mr. Bradley Mr. Martin, Joe the Dead) with Lacan's split subject constituted in language and with Derrida's iterable 'mark' and 'third that walks beside you' as an absent-present that dissolves binaries. Through Naked Lunch, Nova Express, and The Western Lands the Burroughsian subject transmigrates from Marxian/Hegelian alienation to N. Katherine Hayles's posthuman, gaining agency by extending into its technologized environment."
+   },
+   {
+    "book": "289 - Horror and Philosophy - Essays on Their Intersection in Film, Television and Literature",
+    "n": 20,
+    "title": "Making Monsters The Philosophy of Reproduction in Mary Shelley's Frankenstein and the Universal Films Frankens",
+    "relation": "Hall reads Shelley's Frankenstein and the 1931 film and its 1935 Bride sequel through Luce Irigaray's Speculum, arguing that Victor's and Walton's quests for a whole, self-sufficient identity enact a patriarchal desire to reproduce sameness and deny the 'maternal waters,' with women reduced to mirrors that will not reflect. She uses Lacan's mirror stage and the camera's power over sight to explain how identity is fixed by being seen, and Derrida's 'Structure, Sign and Play' to recast identity as a perpetually rewritten, misshapen text. The Bride's refusing scream and the exploding phallic tower mark female desire as a negating power that disrupts patriarchal reproduction."
+   },
+   {
+    "book": "214 - The Philosophy of Ang Lee",
+    "n": 19,
+    "title": "The Philosophy of Ang Lee",
+    "relation": "Zietsma reads Hulk and Taking Woodstock as antiwar films that subvert the hegemonic culture of heroic violence, fitting Lackey's category of universal (Gandhian/early-Christian) pacifism. He argues both films disturb their genre's expected narrative and demasculinize the hero: Elliot the gay nonviolent hero and the transgender vet Vilma, and a weeping Hulk who is rescued by Betty and finally gives up his power rather than kill David Banner. He reads the bathroom-mirror 'Puny human' scene as an inverted Lacanian mirror stage unmasking America's violent militarism, framing the Vietnam War and war on terror as violence that only begets more violence."
+   },
+   {
+    "book": "219 - The Philosophy of David Cronenberg",
+    "n": 19,
+    "title": "Re(ct)ifying Empty Speech Cronenberg and the Problem of the First Person",
+    "relation": "Brook W. R. Pearson examines the problem of the first person 'I' in Cronenberg through Lacan, Wittgenstein, and Deleuze/Guattari. He reads Spider's 'schizo-phonetic partition' and Tom/Joey's shifting use of 'I' in A History of Violence as Lacanian 'empty speech' and the narcissistic 'monument' of a censored unconscious chapter that resurfaces; Wittgenstein's private-language argument and Moore's paradox recast Joey's split as an illegitimate private language game, and Deleuze/Guattari's account of the other as a 'possible world' reframes the frightened face on the cinema screen."
+   }
+  ]
+ },
+ {
+  "slug": "lacan-symbolic",
+  "name": "The Symbolic, the Imaginary and the Real",
+  "domain": "mind-language-metaphysics",
+  "samples": [
+   {
+    "book": "222 - The Philosophy of Horror",
+    "n": 11,
+    "title": "Monstrous motherhood",
+    "relation": "The chapter argues that horror films about mothers are not static representations but Foucauldian sites where 'discourses of motherhood' are produced, policed and contested; using Foucault's account of bodies disciplined through power/knowledge, it treats films as cultural artefacts that both enforce and challenge norms of 'essential' and 'ideal' motherhood. It reworks Sarah Arnold's Lacanian 'Good Mother/Bad Mother' schema (the mother who sacrifices herself so the child enters the Symbolic and submits to the Law of the Father) alongside popularised Freudian mother-blame (the 'refrigerator mother', 'tell me about your mother') to read Psycho's Norma(n), the phallic mothers of The Killing Kind and The Brood, and the doomed single mothers of The Ring, Silent Hill and Triangle. It coins the 'monstrous-maternal' to argue that motherhood is framed as always-already monstrous because no woman can meet the impossible, shifting criteria of ideal motherhood, illustrated through Grace's Vivian/Madeline generational clash and Serial Mom's Beverly Sutphin."
+   },
+   {
+    "book": "102 - Orphan Black and Philosophy - Grand Theft DNA",
+    "n": 25,
+    "title": "12. Not Why but Who",
+    "relation": "Reads the mothers of Orphan Black through Freud and Lacan: Dr. Coady is the \"phallic mother\" at the center of the Castor clones' Oedipal drama (Rudy's kiss, the DNA trophies brought home to Mom), Tomas is Helena's abusive false father, Rachel is the child of a shattered Oedipal triangle, and the Symbolic Order that makes men active rational subjects and women passive reproductive objects is mirrored in the defects — neurological for the male clones, reproductive for the female. The chapter then brings in Luce Irigaray to show the show rewriting these stereotypes: the clones' spectrum of personalities and their constant impersonations destabilize fixed gender categories, and the many equally \"real\" mothers (Mrs. S., Amelia, Alison, Kendall) burst the woman-equals-womb equation. Beth's counsel to the delirious Sarah — \"Stop asking 'Why?' and start asking 'Who?'\" — becomes the feminist move from mechanism to women as active subjects."
+   },
+   {
+    "book": "179 - The Legend of Zelda and Philosophy - Link Outside the Box",
+    "n": 31,
+    "title": "The Golden Power",
+    "relation": "Patrick Dugan reads Miyamoto's game design through Lacan: the player forms a dyad with the avatar — Link is named 'Link' precisely because he links player to system — while the wider gameworld of places and characters constitutes the social symbolic the dyad lets us explore. The Triforce symbolizes the triangular structure of this interactivity: Courage is the dyad-anchor (the player-Link bond completed by mastery), Power is the game system's trinity of sword, bomb, and arrows (whose final loop defeats Ganon in A Link to the Past), and Wisdom is the realization that all such symbolic trinities — Christian Trinity, Hindu triad, three branches of government — are representations posing as totality, with the empty center of the Triforce marking what no system captures. The 'golden power' is seeing the game being played on you, whether by designers or by society."
+   },
+   {
+    "book": "199 - True Detective and Philosophy - A Deeper Kind of Darkness",
+    "n": 25,
+    "title": "Notes",
+    "relation": "Reads the Cohle–Hart pairing through Lacan: Cohle is at peace with the constitutive lack introduced after the mirror stage, and his hysteric's fixation on the Other's desire is what makes him the superior interrogator, while Hart exhibits obsessional neurosis and 'interpassivity,' letting the preacher's congregation do his believing for him. Following Deleuze's Oedipal structure of detective fiction and Hegel's point that heroes are denied guilt, the chapter compares Rust to Oedipus — both men who, after a child's death, renounce the father function through anti-natalism — while arguing Cohle surpasses Oedipus by philosophically mastering the knowledge that Oedipus lacked. Rust's tying off of his 'circle of violence' is read as the Lacanian sinthome: putting his symptom to work in the service of the case rather than being destroyed by it."
+   },
+   {
+    "book": "283 - Tattoos – Philosophy for Everyone - I Ink, Therefore I Am",
+    "n": 12,
+    "title": "TATTOOS PHILOSOPHY FOR EVERYONE I Ink, Therefore I Am",
+    "relation": "Juniper Ellis shows tattoos resist any single interpretive scheme by running through cases: Loos and Lacassagne's criminological 'I tattoo, therefore I will commit murder'; the biblical Mark of Cain and St. Paul's stigmata as signs of protection and salvation; Lacan's claim that the tattoo is the first signifier that marks off the human subject; and Pacific tatau (Te Pehi Kupe's moko-as-signature, Queequeg's unreadable Moby-Dick tattoo) that incorporates a person into a collective. She reads Kant's Critique of Judgment dismissal of Maori tattooing and invokes Levinas' 'the face speaks' to argue a tattooed face is eloquent speech, crossing lines between individual and collective, saint and criminal."
+   },
+   {
+    "book": "220 - The Philosophy of David Lynch",
+    "n": 32,
+    "title": "18. Repeating Twin Peaks",
+    "relation": "Komel argues repetition is both a structural principle of the TV series (every show repeats its pilot) and the key to Twin Peaks, invoking Nietzsche's eternal recurrence, Kierkegaard, and Lacan/Žižek. Using Lacan's aim-versus-goal of desire and Žižek's 'coffee without milk' as a positive absence, he reads Laura Palmer as a 'positive absence' around which the series turns, and shows the murder repetitions are out of order—Maddy's on-screen death precedes and retroactively produces Laura's in Fire Walk with Me. Laura's final scream in The Return, unlike its predecessors, subversively rewrites the original, so 'The Return' is really 'The Repetition' that undoes its origin."
+   },
+   {
+    "book": "099 - Louis C.K. and Philosophy - You Don't Get to Be Bored",
+    "n": 42,
+    "title": "24. An Hour",
+    "relation": "Argues Louis's shift to an hour-a-year of digressive storytelling—spurred by George Carlin's 'dig deeper' tribute speech and forced by fatherhood—is 'secular revelation' in Adam Phillips's sense: his wandering bits work like the free play of the signifier and free association, so the stage becomes staged therapy in Lacan's return-to-Freud mode. The chapter reads the trumpet purchase as anxiety speaking through parapraxis, the street-sign and 'suck a bag of dicks' bits through Saussure's arbitrary sign and Derrida's catachresis, and Louie following Tarese home as desire that self-consciousness cannot account for."
+   }
+  ]
+ },
+ {
+  "slug": "legal-positivism",
+  "name": "Legal Positivism (law and morality separable)",
+  "domain": "political-social",
+  "samples": [
+   {
+    "book": "104 - Red Rising and Philosophy - Break the Chains!",
+    "n": 22,
+    "title": "12. The Law of Red Rising",
+    "relation": "Christopher Ketcham frames the Society through jurisprudence's debate between natural and positive law, opening with Gramsci's hegemony: Reds have internalized the Golds' message that their slave toil is heroic terraforming service, becoming 'enabled martyrs' who hate rival clans rather than their rulers. He deploys Hobbes's state of nature versus state of laws (Reds live in a state of war against Mars while Golds legislate in a state of law), Locke's suggestion that a sovereign can leave some people in the state of nature, Aquinas-style higher law, and H.L.A. Hart's positivism with Bentham and Austin—a law need not be moral to be law—to argue the Golds' caste statutes are valid yet ungrounded. His coda casts Darrow as Homer Plessy: Goldness, like whiteness in Plessy v. Ferguson, is inheritable property Reds cannot claim, and because Reds who speak are hanged, the law excludes the very voices Hart himself said keep laws from becoming terrible."
+   },
+   {
+    "book": "133 - Perry Mason and Philosophy - The Case of the Awesome Attorney",
+    "n": 11,
+    "title": "3. Perry Mason v. Saul Goodman",
+    "relation": "Scalambrino compares Mason and Better Call Saul's Saul Goodman, who pull the same shady moves (Perry's evidence switching in 'The Case of the Crimson Kiss' and 'The Case of the Restless Redhead', Saul's fabricated 'pie sitting' videos) yet receive opposite moral verdicts. He frames this through natural law (Aquinas, Kant) versus legal positivism (Hobbes's command theory, Nietzsche's law as power), the audience's 'God's-eye' perspective, and the means/ends distinction, concluding provocatively that Perry's tampering is actually easier to justify from the positivist side, since he gambles on hunches without knowing his client is innocent, while the show's premises (he is already rich and famous, his clients always innocent) make the material conditions of Saul's lawyering moot for him."
+   },
+   {
+    "book": "113 - Jimi Hendrix and Philosophy - Experience Required",
+    "n": 26,
+    "title": "15. You Can’t Use My Name",
+    "relation": "Recounts how Hendrix changed law twice: ExperienceHendrix v. PPX (the 'You can't use my name' tapes) imported the Wrotham Park/Blake standard so breach-of-contract damages can reflect the infringer's gains rather than the victim's losses, and Experience Hendrix v. Hendrixlicensing.com used Washington's Personality Rights Act to extend postmortem publicity rights beyond the state of domicile, raising the constitutional problems Rossi identifies. The chapter then reads the dispute over whether the Woodstock 'Star-Spangled Banner' is art or noise through legal realism versus natural law theory and legal positivism — law as what courts actually enforce — and through the Institutional Theory of Art, with a Wittgensteinian cluster definition marking the essentialist route that failed."
+   },
+   {
+    "book": "199 - True Detective and Philosophy - A Deeper Kind of Darkness",
+    "n": 16,
+    "title": "Notes",
+    "relation": "Uses Hans Kelsen's legal positivism — law as amoral coercive order sustained by sanction, validated by authority rather than morality — to interpret season two's competing normative systems, from Vinci's city hall to the cartel's execution of the informant Irina. Against this background it separates revenge from Hegelian retributivism, reading Velcoro's shift from killing his wife's rapist to persuading Lenny Osterman to seek exposure instead, and Frank's communicative, confessing execution of the traitor Blake, as conflicted exercises of justice. The finale's bloodshed is read through Hegel's theory of tragedy as a collision of spheres of justice, each justified in its own eyes, whose transgression may precipitate change in Vinci."
+   }
+  ]
+ },
+ {
+  "slug": "naturalistic-fallacy",
+  "name": "The Naturalistic Fallacy",
+  "domain": "mind-language-metaphysics",
+  "samples": [
+   {
+    "book": "122 - Westworld and Philosophy - Mind Equals Blown",
+    "n": 28,
+    "title": "Whatever! It’s All Natural",
+    "relation": "Jaquet and Cova take the show's 'livestock' comparisons seriously and use animal ethics to test every justification for the guests' treatment of hosts. Direct speciesism (Logan: 'She's a goddamn doll') and indexical speciesism (Maeve's 'us versus them' to Bernard) both fail because mere species membership is morally irrelevant, like race or sex. The supposed human-exclusive markers also fail: hosts match us in intelligence (Maeve outclasses Stubbs), moral sense (Bernard's guilt over Theresa, Teddy's remorse over the massacre), and compatibilist free will - acts flowing from the agent's own desires - against Ford's determinism and Lutz's 'you don't have a choice.' They then refute the argument from nature (Ford's 'we murdered and butchered anything that challenged our primacy'), the Kantian person/tool contrast in the hosts' favor, Locke's creator-ownership ('I built your mind, Bernard'), and the 'better to exist' defense, concluding that because the hosts are conscious, they belong to the moral community alongside humans and animals."
+   },
+   {
+    "book": "102 - Orphan Black and Philosophy - Grand Theft DNA",
+    "n": 29,
+    "title": "15. The C-Word",
+    "relation": "Works through the ethics of cloning and genetic selection, starting with the objection that such technologies are \"unnatural\": that reasoning commits the naturalistic fallacy, since following Hume you can't get an ought from an is, and human ingenuity (roads, eyeglasses, IVF) is itself part of nature. Using Nietzsche's Genealogy account of master morality — good as the noble traits of intelligence, beauty, and strength — the chapter asks whether parents would then be obliged to engineer better children, while warning where trait-selection slides: Nazi eugenics, racist trait-lists (both Leda and Castor are white and conventionally attractive), and \"abilism\" against the deaf. It concludes that cloning itself is not evil: Projects Leda and Castor are immoral not because they clone but because they treat clones as mere means to an end, in Kant's sense, and trample their autonomy."
+   },
+   {
+    "book": "274 - Coffee – Philosophy for Everyone - Grounds for Debate",
+    "n": 30,
+    "title": "Coffee - Philosophy for Everyone",
+    "relation": "Kirkwood argues that caffeine is uncontroversially a performance-enhancing drug—boosting memory, reaction time, endurance—and that by WADA's own three-part test (performance-enhancing, potentially harmful, against the spirit of sport) coffee should count as doping, yet never has. He dismantles the standard anti-doping arguments as applied to coffee: the cheating/unfairness charge is circular and dissolves when everyone may use it; the 'unnaturalness' argument commits a non sequitur (umbrellas are unnatural too, and chewed coffee beans seem natural); and the harm test fails because the positive threshold sits at a mere 20-ounce serving, far below caffeinism. His conclusion is that coffee escapes the 'doping' label not through moral reasoning but through public acceptance—the emotive word 'drug' is withheld from the substance everyone uses."
+   },
+   {
+    "book": "221 - The Philosophy of Film Noir",
+    "n": 10,
+    "title": "A Darker Shade Realism in Neo-Noir",
+    "relation": "Jason Holt argues that realism, especially about the role values play in people's lives, is the underappreciated essence of noir, offering a working definition of noir as 'stylized crime realism.' Surveying neo-noir detectives (Harper, Chinatown's Gittes), revamped femmes fatales who get away with it (Body Heat's Matty, The Last Seduction's Bridget), morally ambiguous protagonists (To Live and Die in L.A., Manhunter), and Lynch and Tarantino, he shows how the post-Production-Code freedom lets endings ring true to life by letting the guilty escape justice. He coins the 'normativistic fallacy' as the inverse of Moore's naturalistic fallacy: inferring what is from what ought to be, arguing that mainstream cinema's poetic justice commits it while neo-noir's downbeat endings correct it, fulfilling the realism latent in classic noir."
+   },
+   {
+    "book": "191 - Star Wars and Philosophy Strikes Back - This Is the Way",
+    "n": 10,
+    "title": "Bringing Balance to the Force",
+    "relation": "Harter argues that Revenge of the Sith manipulates audiences into fearing the medical technology that saves Anakin on Mustafar, portraying his prosthetic transformation into Vader as horrifying when in real bioethical terms saving a burn victim with ventilators, feeding tubes, and prosthetics is something we applaud. He diagnoses Lucas's framing as the naturalistic fallacy (what is natural is good), grounded in Hume's is-ought gap, and flags the mirror-image 'technological fallacy' of assuming enhancement like General Grievous's cyborg body must be good. The chapter concludes that technology is value-neutral and its worth depends on the context of use — which is what it means for Anakin and Luke, both maimed and prosthetized, to 'bring balance to the Force.'"
+   },
+   {
+    "book": "081 - How I Met Your Mother and Philosophy - Being and Awesomeness",
+    "n": 25,
+    "title": "How I Met Your Mother and Philosophy",
+    "relation": "Framed as a sports broadcast with Aristotle as commentator, the chapter tests an evolutionary ethics ('BEES': the good is the naturally desirable, so the Pleistocene Stinson strategy of spreading genes grounds Barney's womanizing) against its classic critics. Hume's is-ought gap and Moore's open question argument are deployed against deriving Barney's right to pursue tail from human nature, while William Casebeer's evolutionary ethics replies that 'good' can be defined by present reproductive success - under which lying and eternal bachelorhood fail, since commitment is what reproduces genomes in urban New York ('BIRDS'). The chapter concludes that evolutionary ethics can support the Bro Code only by contestable redefinition, and the lying objection stands."
+   },
+   {
+    "book": "255 - The Godfather and Philosophy - An Argument You Can't Refute",
+    "n": 13,
+    "title": "1. How to De-Nazify Nietzsche’s Philosophical Anthropology",
+    "relation": "Golomb argues the Nazi reading of the will to power as military conquest confuses Nietzsche's Macht (sublimated spiritual power) with Kraft (brute force) and Gewalt (violence), showing through Human, All Too Human and Daybreak that self-overcoming and creative sublimation, not domination, define the Übermensch. He builds a typology of 'positive' versus 'negative' power in which the anti-Semite figures as the vengeful, ressentiment-driven 'slave,' and insists Nietzsche's morality is not naturalistic—power must be transfigured by self-education—so his anthropology stands beyond the eugenic and racial distinctions central to Nazi ideology, even in the misused 'blond beast' passage."
+   }
+  ]
+ },
+ {
+  "slug": "oedipus-complex",
+  "name": "The Oedipus Complex",
+  "domain": "mind-language-metaphysics",
+  "samples": [
+   {
+    "book": "102 - Orphan Black and Philosophy - Grand Theft DNA",
+    "n": 25,
+    "title": "12. Not Why but Who",
+    "relation": "Reads the mothers of Orphan Black through Freud and Lacan: Dr. Coady is the \"phallic mother\" at the center of the Castor clones' Oedipal drama (Rudy's kiss, the DNA trophies brought home to Mom), Tomas is Helena's abusive false father, Rachel is the child of a shattered Oedipal triangle, and the Symbolic Order that makes men active rational subjects and women passive reproductive objects is mirrored in the defects — neurological for the male clones, reproductive for the female. The chapter then brings in Luce Irigaray to show the show rewriting these stereotypes: the clones' spectrum of personalities and their constant impersonations destabilize fixed gender categories, and the many equally \"real\" mothers (Mrs. S., Amelia, Alison, Kendall) burst the woman-equals-womb equation. Beth's counsel to the delirious Sarah — \"Stop asking 'Why?' and start asking 'Who?'\" — becomes the feminist move from mechanism to women as active subjects."
+   },
+   {
+    "book": "187 - Sons of Anarchy and Philosophy - Brains Before Bullets",
+    "n": 24,
+    "title": "Sons of Anarchy and Philosophy",
+    "relation": "Sets up Sons of Anarchy as a Hamlet retelling — Jax the prince, Clay the Claudius who murdered John Teller and married Gemma, Tara a gutsier Ophelia — and reads it through Freud and Ernest Jones's Hamlet and Oedipus: Jax's protest that he 'untwisted my mommy thing a long time ago,' his toleration of Gemma's meddling, and the Season 4/5 finale tableaux where Gemma displaces Tara at his side betray an unresolved Oedipus complex. Freud's three agencies get bodies: Clay as pure Id (beating Gemma in 'Hands'), Tara as Superego, Jax as the mediating Ego, with SAMCRO itself a collective Id worshipped in its 'chapel.' Oral and anal-stage fixations explain the Sons' chain-smoking, recklessness, and defiance of authority, while the Id's civil war between libido and the death drive plays out in Gemma's post-beating sex binge and Jax's unconscious pleasure in killing."
+   },
+   {
+    "book": "088 - Justified and Philosophy - Shoot First, Think Later",
+    "n": 27,
+    "title": "Justified and Philosophy",
+    "relation": "The chapter reads Harlan's family bonds through Freud's Oedipus Complex - Raylan bails Arlo out only at stepmother Helen's request, and Coover whimpers 'I'm sorry, Mamma' while cradled in Mags's arms after she hammers his hand, the submissive son destroyed by his need for his mother's approval. It then applies Schopenhauer's pessimism to Winona's pregnancy: if life is suffering, as On the Vanity of Existence argues, bringing a child into Harlan is selfish vanity, and Mags's dynasty-building - grooming Loretta, bequeathing the weed business - is the will-to-live seeking immortality through the family name. Only Boyd and Ava's unsentimental care for the demented Arlo, the chapter suggests, escapes both the Oedipal trap and the vanity of lineage."
+   },
+   {
+    "book": "139 - Arrested Development and Philosophy - They've Made a Huge Mistake",
+    "n": 11,
+    "title": "Arrested Development and Philosophy",
+    "relation": "Runs the Bluths through Freudian psychoanalysis: George Sr. hiding in the attic ('Sad Sack', 'Good Grief!') illustrates the unconscious, preconscious, and repression; Michael acts as ego mediating the family's id demands (the unfrozen stock spree) against George Michael's super-ego; Tobias dressing as a pirate among homosexuals and Michael's 'brother...bother' and 'Egg' slips are parapraxes betraying repressed desire; Buster's Motherboy dates and 'Why I Want to Marry My Mother' enact a failed Oedipus complex; and the brothers' scheme against George Sr. in 'Making a Stand' reenacts the primal horde of Totem and Taboo, origin of the incest taboo that haunts George Michael and Maeby."
+   }
+  ]
+ },
+ {
+  "slug": "physicalism",
+  "name": "Physicalism",
+  "domain": "mind-language-metaphysics",
+  "samples": [
+   {
+    "book": "154 - Doctor Strange and Philosophy - The Other Book of Forbidden Knowledge",
+    "n": 14,
+    "title": "“Strange Magic,” Electric Light Orchestra, 1975",
+    "relation": "Kowalski reads the film's astral-form scenes as a dramatization of Cartesian substance dualism against Strange's opening physicalism ('There is no such thing as spirit! We are made of matter and nothing more'): the Ancient One pushing his astral body out refutes physicalism, his soul reads books while his body sleeps, and he fights Kaecilius's acolyte as a visible astral form in Christine Palmer's ER. The chapter then confronts the classic interaction problem — Descartes' pineal gland and 'animal spirits,' Elisabeth of Bohemia's and Garrett Thomson's objections — asking how an immaterial astral form can turn pages or knock over vending machines, joking that it would take 'a very strange form of interactionism.' The Ancient One's account of magic as energy drawn from other dimensions of the multiverse is offered as the film's own dualist reply, with a closing plea for the epistemic humility Strange had to learn."
+   },
+   {
+    "book": "079 - Frankenstein and Philosophy - The Shocking Truth",
+    "n": 25,
+    "title": "Frankenstein and Philosophy",
+    "relation": "Hess asks whether the monster has a soul and makes him the test case between physicalism (Kim, Churchland, van Inwagen) and dualism: recasting Frank Jackson's Mary as a color-blind monster who learns every physical fact about color vision, receives new eyes on Walton's ship, and then learns the 'what it is like' of seeing red for the first time, he argues there are nonphysical mental facts, so physicalism is false. He then runs Plantinga's argument that we are not our bodies or brains through a machine that replaces the monster's parts and hemispheres one by one while he stays conscious, and adds near-death out-of-body evidence like Maria's window-ledge shoe to suggest we can exist disembodied. The upshot is symmetric: whatever we conclude about the monster's soul we must conclude about our own - so be careful about assuming who does and does not have a soul, even monsters."
+   },
+   {
+    "book": "163 - Game of Thrones and Philosophy - Logic Cuts Deeper Than Swords",
+    "n": 22,
+    "title": "Game of Thrones and Philosophy",
+    "relation": "Edward Cox asks whether physicalism - everything is physical, and everything depends on the arrangement of physical stuff - is true in Westeros. The causal argument shows Jaime's love could move Bran's body only if it is itself a brain state, and the maesters' science (boiling wine against infection, Baratheon black hair as heredity, the Eyrie's winch) reveals a world running on our physics. But magic strains the picture: reanimated Othor and Jafer Flowers must physically change to walk, and Daenerys's walk into Drogo's pyre requires her resolve to disrupt combustion itself - so Cox concludes magic is either violation of physical law or a nonphysical force, and that in our world immaterial souls would be exactly as improbable as magic."
+   }
+  ]
+ },
+ {
+  "slug": "rectification-of-names",
+  "name": "Rectification of Names",
+  "domain": "eastern-world",
+  "samples": [
+   {
+    "book": "086 - Girls and Philosophy - This Book Isn't a Metaphor for Anything",
+    "n": 32,
+    "title": "Girls and Philosophy",
+    "relation": "Carleo and D'Ambrosio read Hannah's 'busy trying to become who I am' through the classical Chinese debate over names: her self-claimed title 'writer' preceding any conduct is the Confucian nightmare of names divorced from actuality, diagnosed by the Analects's rectification of names ('rulers should rule, fathers should father') and the sheep-stealing passage warning against over-identifying with a single role. Adam, by contrast, lives the Daoist ideal - the empty vessel of the Daodejing acting by wu wei, and Zhuangzi's butterfly dream fluidity in his role-play sex and absorbed woodworking, unattached to titles. Mencius and Xunzi frame the resolution: by Season Three Hannah finally rectifies names at GQ while Adam's non-identity turns delusional, vindicating the ideal of being an 'internal sage and external king' - Daoist in private, responsible to roles in public."
+   },
+   {
+    "book": "197 - True Blood and Philosophy - We Wanna Think Bad Things with You",
+    "n": 31,
+    "title": "NOTES",
+    "relation": "The Terjesens pit Kant's impersonal morality — Sam's contractual distance from the thieving Mickens is exactly how he would treat strangers — against Confucius and Mencius, for whom filial duties are the nursery of virtue: we learn benevolence by serving parents and revering elders, Lafayette's care for Lettie Mae and Tara shows family forming moral character, and the Upright Gong's covering for a father's sheep-stealing grounds Jason's 'sometimes the right thing to do is the wrong thing'. Mencius's King Shun, who abdicates and carries his criminal father into exile, models how Tommy and Jason should put family first while accepting the cost, while Mozi's universal love surfaces in Godric's 'forgiveness is love', and the chapter concludes that family counts only insofar as it develops our moral nature — the line between Tommy and Sam."
+   },
+   {
+    "book": "190 - The Ultimate Star Wars and Philosophy - You Must Unlearn What You Have Learned",
+    "n": 12,
+    "title": "Notes",
+    "relation": "Decker parallels the Republic's fall into Palpatine's Empire with the Zhou dynasty's collapse that birthed Chinese philosophy, reading three Jedi from the Dark Times comics through it. K'Kruhk, guided by the Zatoichi-like Master Zao, learns wu-wei - following the Force rather than forcing outcomes, with Laozi's Dao as the Force's Chinese analogue. Dass Jennir's struggle over what 'Jedi' means after killing a slaver becomes Confucian rectification of names and the cultivation of ren, while Kai Hudorra's loss of faith, withdrawal to a casino, and final sacrificial stand against Vader embody Mozi-style pragmatic minimalism redeemed by Jennir's virtuous example."
+   },
+   {
+    "book": "083 - The Devil and Philosophy - The Nature of His Game",
+    "n": 13,
+    "title": "The Devil and Philosophy",
+    "relation": "Nicolas Michaud catalogues the demonic hierarchy - de Spina's goblins, incubi, and familiars, Dante's Malebranche, Binsfeld's seven princes of Hell - through Dungeon Keeper's Dark Mistress, World of Warcraft succubi, Se7en, Hellraiser's Pinhead, Hellboy, and Spawn. His real argument is ontological: names are power, and what we call the Devil fixes how we treat him. Recovering the Hebrew sense of 'satan' as an appointed adversary and 'Lucifer' as light-bringer (compared to Prometheus), he argues the same being could be reframed from tempter to giver of knowledge, much as naming Columbus's invasion a 'discovery' launders atrocity."
+   },
+   {
+    "book": "158 - Ender's Game and Philosophy - The Logic Gate Is Down",
+    "n": 14,
+    "title": "Ender’s Game and Philosophy",
+    "relation": "Morgan Deane reads Ender's tactics as Sunzi's Art of War in action: winning all future fights by terror, exploiting Bonzo's hot anger, 'fatal terrain' when Graff stacks hopeless odds, formlessness that hides intent, and fluid toon formations that move like water — all grounded in Daoist harmony with the Way and the Confucian role-duty of the general-as-father who throws soldiers into hopeless positions to win their devotion. He also finds Legalist rewards-and-punishments in Ender's command of Dragon Army, concluding Ender qualifies as a Sunzi-style military genius whose empathy is the steep moral price of victory."
+   }
+  ]
+ },
+ {
+  "slug": "schopenhauer-compassion",
+  "name": "Ethics of Compassion",
+  "domain": "kant-german-idealism",
+  "samples": [
+   {
+    "book": "199 - True Detective and Philosophy - A Deeper Kind of Darkness",
+    "n": 7,
+    "title": "Notes",
+    "relation": "Argues Rust Cohle's stated pessimism and in-principle embrace of suicide closely track Schopenhauer's view that suffering is built into the world with no providential redemption, yet the two diverge because Schopenhauer condemned suicide as an affirmation of the will-to-live rather than its denial. The chapter traces Rust's three-stage arc — jaded wannabe-suicidal pessimist who nonetheless energetically investigates the Dora Lange case, resigned drinker, and finally cautious affirmer of life after the Yellow King confrontation — and contends his detective work is really motivated by a Schopenhauerian morality of compassion and justice, not mere 'programming.' Rust's finale conversion is read as an evidence-based judgment that thoroughgoing pessimism is intellectually dishonest, since compassion and justice do score nontrivial victories."
+   },
+   {
+    "book": "221 - The Philosophy of Film Noir",
+    "n": 23,
+    "title": "Ride the Pink Horse Money, Mischance, Murder, and the Monads of Film Noir",
+    "relation": "Silver reads Robert Montgomery's Ride the Pink Horse as a prototypically noir embodiment of Schopenhauer's The World as Will and Representation. The revenge-driven Gagin, like Hugo, is enslaved to money and will—'a man can do what he wants, but not want what he wants'—and takes the limits of his own field of vision for the limits of the world, blind to the monads and Platonic-cave shadows of fate around him. Against him stand Pancho's suffering kindness and the Indian girl Pila's selfless compassion, which Silver aligns with Schopenhauer's dictum that 'compassion is the basis of all morality' and his prizing of aesthetic transcendence. The carousel (tío vivo) and the burning of Zozobra, the god of bad luck, become symbols of will's pointless circular striving from which only sacrifice and art offer escape."
+   },
+   {
+    "book": "084 - Leonard Cohen and Philosophy - Various Positions",
+    "n": 27,
+    "title": "Leonard Cohen and Philosophy",
+    "relation": "Liane Heller pairs Cohen and Schopenhauer - born and died on September 21st, the autumnal equinox - as two explorers of the world's irrational negativity who both retreat to 'a room' to create. Schopenhauer's directionless Will, his pessimism about a life of constant suffering, his notorious misogyny in 'On Women,' and his ascetic denial of the will-to-live (with his contempt for Judaism and preference for the Upanishads and Buddhist compassion) are set against Cohen's affirmation that love is 'the only engine of survival,' his five-year Zen retreat that could not hold him, and his return to the Judaism of the 'little Jew who wrote the Bible.' A closing imagined dialogue has a humbled Schopenhauer confronted with Cohen's self-compassion and ordinary joys, admitting the limits of his own field of vision."
+   },
+   {
+    "book": "263 - Stephen King and Philosophy",
+    "n": 20,
+    "title": "From Desperation to Haven",
+    "relation": "Held reads The Tommyknockers, Desperation, and The Regulators through Arthur Schopenhauer's pessimism, arguing King's worlds are 'always already sunk in evil' and that the will to live swings life between pain and boredom even before the supernatural arrives. He identifies egoism as the root of King's cruelty (Hilly banishing David Brown to Altair-4, Bobbi turning her dog into a battery) and offers Schopenhauer's compassion-based virtue ethic, 'injure no one; help everyone,' as the answer, supported by MacIntyre on the degradation of happiness and set against Nietzsche's 'last man' and nihilism. Gard's rescue of David Brown ('the kid matters or nothing matters') and Johnny Marinville's self-sacrifice in Desperation exemplify the heroic, compassionate life that defies the dark."
+   }
+  ]
+ },
+ {
+  "slug": "stoic-premeditation",
+  "name": "Premeditatio Malorum",
+  "domain": "ancient",
+  "samples": [
+   {
+    "book": "273 - Sailing – Philosophy for Everyone - Catching the Drift of Why We Sail",
+    "n": 16,
+    "title": "SAILING Philosophy for Everyone",
+    "relation": "Gregory and Tod Bassham argue Stoicism is the seaman's philosophy of agency, teaching a clear-eyed grasp of what we can control, influence, or not control at all. Using Epictetus's play metaphor and 'you will fetter my leg but not my will,' Seneca and Marcus Aurelius on fear, they map three techniques onto sailing: cheerful resignation (Gerry Spiess righting Yankee Girl, Shackleton's James Caird crew laughing amid the Southern Ocean), self-sufficiency (splicing lines, emotional independence on a cramped boat), and negative visualization / premeditatio malorum (practicing docking under sail, imagining lost rudders). Skip Allen scuttling Wildflower and Dinelli's endurance illustrate the trichotomy of control and freedom of mind."
+   },
+   {
+    "book": "105 - The Ultimate Game of Thrones and Philosophy - You Think or Die",
+    "n": 22,
+    "title": "10. How to Be Free",
+    "relation": "O'Connell and Sirvent argue Seneca's Stoic freedom - release from fear of death and from every attachment - illuminates the two most enslaved groups in the story. The Unsullied's training strips them of possessions, names, lust, and fear, with Grey Worm's shame at fearing death for Missandei's sake showing exactly what attachment does to this freedom, while the Faceless Men's 'valar morghulis' mantra works like Seneca's recommended contemplation of death, letting Arya drink blindly from the cup at the House of Black and White. The chapter concludes that a fearlessness built by slaves and assassins really is a kind of freedom beyond their servitude, though Seneca would recoil at the brutal methods that produce it."
+   }
+  ]
+ },
+ {
+  "slug": "stoic-view-from-above",
+  "name": "The View from Above",
+  "domain": "ancient",
+  "samples": [
+   {
+    "book": "099 - Louis C.K. and Philosophy - You Don't Get to Be Bored",
+    "n": 16,
+    "title": "4. On Being a Dead Person Who Hasn’t Died Yet",
+    "relation": "Mark Ralkowski argues that Louis's 'dead people who haven't died yet' bit sounds like Marcus Aurelius, and that Dr. Bigelow's Season Four advice about back pain, the three-legged dog, and heartbreak works as the Stoic spiritual exercises Pierre Hadot described - above all the 'view from above' that re-describes things to strip them to their true value. Epictetus's dichotomy of control explains Bigelow's core advice: pain is not 'up to us' but our judgments about it are, so Louie should adjust his expectations to nature ('every second without back pain is a lucky second') instead of demanding a pain-free life. The apparently un-Stoic counsel to savor heartbreak ('misery is wasted on the miserable') is defended as genuinely Stoic: viewing his lost love from the perspective of a dead-person-who-hasn't-died-yet, Louie can accept sadness as precious and impermanent rather than being crushed by it. The chapter concedes Louis is no philosopher, but suggests his bits - contrasted with Seinfeld's 'polished' version on Talking Funny - can be read as newly discovered Meditations for comedy audiences."
+   },
+   {
+    "book": "210 - Football and Philosophy - Going Deep",
+    "n": 21,
+    "title": "Heroes of the Coliseum",
+    "relation": "Reid draws an extended analogy between big-time college football players and Roman gladiators—both socially marginalized entertainers, controlled by coaches/editors and crowds, risking their bodies for others' entertainment. Through Roman Stoicism (Seneca, Epictetus, Cicero) she argues virtus does not depend on external wealth, status, or freedom but on accepting fate and excelling within one's role, so exploited athletes can still be genuine heroes of virtue. Following Marcus Aurelius's distaste for the games, she concludes those with power over players' unjust conditions are morally obliged to improve them."
+   }
+  ]
+ },
+ {
+  "slug": "tabula-rasa",
+  "name": "Tabula Rasa",
+  "domain": "medieval-early-modern",
+  "samples": [
+   {
+    "book": "079 - Frankenstein and Philosophy - The Shocking Truth",
+    "n": 26,
+    "title": "Frankenstein and Philosophy",
+    "relation": "Lopez uses the monster - 'one man made out of many' - to stress-test personal identity: brain-swap and amnesia-torture thought experiments first drive us to identify with our memories (the memory-based psychological criterion) and then, when Victor offers to wipe memory before the pain experiments, with our bodies, yielding inconsistent answers. The monster's own testimony - waking confused, prodding fire like an infant, acquiring language by eavesdropping on Safie's lessons, and building his values from scratch out of Paradise Lost and the cottagers - shows he is a genuinely new person rather than whoever once owned his corpse-parts, since we would not say a memory-wiped torture victim ceases to exist. He concludes the monster satisfies the five listed personhood criteria (consciousness, reasoning, self-motivated activity, communication, self-awareness), with identity riding a continuing stream of consciousness running on a body that is, in the end, secondary 'hardware.'"
+   },
+   {
+    "book": "181 - Ultimate Lost and Philosophy - Think Together, Die Alone",
+    "n": 31,
+    "title": "APPENDIX - Who are Locke, Hume, and Rousseau The Losties’ Guide to Philosophers",
+    "relation": "Scott Parker's appendix profiles the philosophers behind Lost's namesake characters: John Locke for the survivor (blank-slate empiricism, belief tempered by tolerance, The Reasonableness of Christianity), David Hume for Desmond (causation as habitual inference, with the button press as the image of induction, plus bundle-theory skepticism about the self), and Jean-Jacques Rousseau for Danielle ('man is naturally good, and only by institutions is he made bad,' private property as the root of inequality). It adds Jeremy Bentham (the alias on Locke's coffin), Kierkegaard via the Fear and Trembling Hurley finds under the Temple (Abraham's teleological suspension of the ethical and the leap of faith), Dogen on zazen, Edward Said for Sayid (Orientalism and the audience's own projected savagery onto the Others), and short lives of Kate Cooper Austin, Carlyle, Rutherford, Hugo Grotius, Bakunin, Ram Dass, Edmund Burke, Hawking, Minkowski, Faraday, C. S. Lewis, and Lennon."
+   },
+   {
+    "book": "145 - The Big Bang Theory and Philosophy - Rock, Paper, Scissors, Aristotle, Locke",
+    "n": 22,
+    "title": "The Big Bang Theory and Philosophy",
+    "relation": "Pötzsch reads Sheldon as the early Wittgenstein trapped in the Tractatus's picture theory — taking Penny's 'How've you been?' as a question about existence and replying 'I can't be impossible, I exist' — living among speakers of the later Wittgenstein's language games, where meaning is use within forms of life and social conventions (the tea that must be an invitation, the pizza-for-helping-moving protocol). Family resemblance, the childlike learner whose slate of social convention is blank (the Lockean tabula rasa applied to Sheldon's social mind), and lying as a language game Sheldon plays badly — the fake cousin Leopold Houston's fabricated Facebook trail, the orangutan hair — all dramatize the passage from logic-bound to use-based meaning that Sheldon, like Wittgenstein, may eventually make."
+   },
+   {
+    "book": "308 - The Palgrave Handbook of Popular Culture as Philosophy",
+    "n": 12,
+    "title": "10. Mister Rogers’ Neighborhood as Philosophy Children as Philosophers",
+    "relation": "Baggett argues that Mister Rogers' Neighborhood was a profoundly philosophical show because it treated very young children as natural philosophers — curious, wonder-filled questioners — rather than mere proto-adults. He frames child-development theory through the rationalism/empiricism divide (Skinner's behaviorism descending from Locke's tabula rasa, Chomsky's innatism from Descartes) and champions Gareth Matthews's claim that children's 'romancing' is genuine philosophy adults should not condescend to. Rogers modeled Hadot's philosophy-as-a-way-of-life and James's and Rousseau's active learning; episodes on death (the goldfish), work, and make-believe invited the same wonder Aquinas and Hume brought to happiness and causation, treating children as members of Kant's kingdom of ends."
+   },
+   {
+    "book": "259 - Lost and Philosophy - The Island Has Its Reasons",
+    "n": 29,
+    "title": "NOTE",
+    "relation": "Shai Biderman and William J. Devlin trace John Locke the character's shift from the empiricism of his philosophical namesake to Taoism. Early Locke is the tabula-rasa empiricist and scientific-method hunter and hatch-engineer, but his miraculous restored ability to walk, Jacob's touch, and his visions push him to ask 'why' rather than 'how.' They argue Locke comes to follow the Tao—the unnamable Way symbolized by the black-and-white yin-yang seen in backgammon pieces and Claire's dream—advising Charlie via the struggling moth, teaching Walt to visualize the knife's path, and finding Sun's ring by not looking, ultimately reading his sacrificial death as effortless surrender to the island's flow."
+   },
+   {
+    "book": "253 - Asimov's Foundation and Philosophy - Psychohistory and Its Discontents",
+    "n": 14,
+    "title": "6. The Foundations of Psychohistory",
+    "relation": "Irish roots psychohistory in the seventeenth- and eighteenth-century clash between rationalism and empiricism over whether history can be a science. Descartes's mathematical, a priori method (which bred an 'anti-historical skepticism') is the ancestor of Seldon's dream of mathematizing human behavior, while Locke's empiricism and probabilistic knowledge inspired Gibbon's defense of historical evidence. Irish stages the Ancients-versus-Moderns debate through the Lord Dorwin / Salvor Hardin exchange over first-hand versus armchair scholarship, and contrasts Gibbon's moral, backward-looking history with Seldon's amoral, forward-looking prediction."
+   },
+   {
+    "book": "109 - Mr. Robot and Philosophy - Beyond Good and Evil Corp",
+    "n": 33,
+    "title": "17. Our Lying Eyes",
+    "relation": "Wood asks how Elliot - and we, who see only what he sees - can know anything, and contrasts two empiricisms: Locke's white-paper mind furnished by ideas copied from mind-independent objects, which explains Mr. Robot as perceptual error, and Berkeley's idealism, on which only ideas and their divine cause exist, which makes Elliot's unshared hallucination of Mr. Robot dangerously hard to distinguish from reality. Consistency of perception is the only test left, and it fails Elliot until the pier video proves no one pushed him - and fails us again when his cozy Season Two routine turns out to be prison."
+   },
+   {
+    "book": "271 - Fatherhood – Philosophy for Everyone - The Dao of Daddy",
+    "n": 19,
+    "title": "FATHERHOOD PHILOSOPHY FOR EVERYONE",
+    "relation": "Florell and Wilson, psychologists, survey parenting through the nature–nurture debate, casting Locke's tabula rasa against Rousseau's noble-savage view of children, alongside Piaget and Kohlberg on moral development and Walter Mischel's marshmallow experiment on impulse control. They map the four parenting styles (authoritarian, permissive, uninvolved, authoritative) on responsiveness and control, argue authoritative parenting is optimal, and advise fathers to adjust discipline to each child's innate temperament rather than enforce rigid gender roles."
+   }
+  ]
+ },
+ {
+  "slug": "wolf-meaning",
+  "name": "Meaning in Life",
+  "domain": "ethics-moral-psychology",
+  "samples": [
+   {
+    "book": "155 - Downton Abbey and Philosophy - The Truth Is Neither Here Nor There",
+    "n": 10,
+    "title": "1. Finding the Meaning of Life in Downton Abbey",
+    "relation": "Blessing pits Steve Jobs's 'Do What You Love' creed (and Oprah's 'follow your bliss') against Downton's world of inherited roles, where nobody from Anna to Lady Mary chooses their work. She distinguishes happiness from meaningfulness, since Matthew's war wounds and Mary's grief over his death are painful yet deeply meaningful, and tests subjectivist theories such as Nietzsche's meaning-as-passionate-process against Nozick's demand that a meaningful life leave permanent traces and Susan Wolf's hybrid 'loving objects that are worthy of love.' Kant's duty to develop one's talents rather than idle for pleasure, and Lord Grantham's self-description as 'a custodian, not an owner,' anchor the show's counter-ethos of duty over desire, embodied in Carson, Mrs. Hughes, and Mrs. Patmore's pride in unloved, socially necessary work. The chapter concludes that Downton validates hard honest work as an end in itself, challenging the narcissism of the 'holy You' and expressive individualism."
+   },
+   {
+    "book": "095 - Downton Abbey and Philosophy - Thinking in That Manor",
+    "n": 10,
+    "title": "1. Finding the Meaning of Life in Downton Abbey",
+    "relation": "Blessing tests the Steve Jobs/Oprah 'do what you love' creed against Downton, where rigid class structure assigns nearly everyone a role they did not choose. She distinguishes happiness from meaningfulness (Matthew's war wounds, Mary's grief after his death) and purposefulness (Grantham's custodian speech), then weighs subjectivist theories of meaning, including Nietzsche's idea that meaning arises from the passionate process itself, against Nozick's permanence view and Susan Wolf's hybrid 'subjective attraction meets objective attractiveness,' adding Kant's duty to develop one's talents against a world of idle pleasure. She concludes that the Abbey's ethos - Grantham as custodian not owner, Carson's pride in service, Patmore's kitchen, 'I have no right to be unhappy' - shows that socially necessary work one does not love can still make a meaningful life, while DWYL is elitist and narcissistic."
+   },
+   {
+    "book": "104 - Red Rising and Philosophy - Break the Chains!",
+    "n": 17,
+    "title": "8. Living for More",
+    "relation": "Kevin McCain separates meaning of life—why humans exist at all, with no creator-God found in Gold nihilism ('the Golds have no God'), the Obsidians' manufactured Norse religion, or the Reds' Vale and Old Man—from meaning in life, following Susan Wolf's distinction. After rejecting supernaturalism and pessimistic naturalism (Nero's universe that 'does not notice us,' met by Karnus's Camus-like defiant pride and Thomas Nagel's ironic stance), he rejects Richard Taylor's subjectivism via the Sisyphus story: Karnus and the Boneriders enjoy their cruelty, but enjoying it does not make their lives meaningful. Wolf's objectivism wins—a meaningful life is actively and lovingly engaged in projects of worth—which is exactly Darrow's living for more, contrasted with the Jackal's loveless, self-loathing pursuit of mattering."
+   },
+   {
+    "book": "092 - Orange Is the New Black and Philosophy - Last Exit from Litchfield",
+    "n": 29,
+    "title": "Orange Is the New Black and Philosophy",
+    "relation": "Duffy applies Susan Wolf's formula (subjective attraction meeting objective attractiveness) to Red's cooking, Poussey's friendship, and Taystee's library work, arguing these women meet the conditions yet still cannot live meaningful lives because Litchfield hands out 'chickens': WAC, the mock job fair, and the yard chicken are illusions of meaning designed to keep inmates quiet, as Healy admits with his bath-before-dinner analogy. Only projects that change the prison's conditions themselves, Piper's newsletter sting and Soso's hunger strike, are genuinely meaningful, and the yogic dharma of non-attachment (Yoga Jones's mandala advice) is a survival tool, not a substitute. She closes that guards too can find meaning, and have an obligation, in rehabilitating rather than punishing."
+   },
+   {
+    "book": "165 - The Good Place and Philosophy - Everything Is Forking Fine!",
+    "n": 18,
+    "title": "7. Eleanor and the Meaning of Afterlife",
+    "relation": "Builds a dilemma from 'Existential Crisis': Michael's prospective retirement (via Todd May's Death) makes finitude look meaning-destroying, while the humans' endless existence — 802 reboots, Mindy St. Claire's eternal Cannonball Run II in the Medium Place — threatens boredom and disconnection from past selves. Testing God-free answers, it runs through Camus's Sisyphus, Richard Taylor's desire-fulfillment view, Susan Wolf's requirement that we love what deserves to be loved (Eleanor's philosophy study, friendship with Tahani, romance with Chidi), and John Martin Fischer on free authorship and narrative order (Eleanor's note to herself in What We Owe to Each Other). Conclusion: Eleanor and friends can lead meaningful lives even if damned and repeatedly rebooted."
+   },
+   {
+    "book": "086 - Girls and Philosophy - This Book Isn't a Metaphor for Anything",
+    "n": 16,
+    "title": "Girls and Philosophy",
+    "relation": "Blessing and Wezowiczi test theories of life's meaning on the two narcissists of Girls: Hannah, whose purpose-driven pursuit of being a writer (manufacturing experiences, ignoring her father's medical procedure) shows that goal achievement alone collapses into Taylor's and Camus's Sisyphus problem, and Jessa, whose 'life addict' desire-satisfaction illustrates the Nietzschean live-in-the-moment view the authors find reckless and irresponsible. Using Wielenberg's excrement-eater and the subjectivist/objectivist debate, they land on Susan Wolf's 'loving objects that are worthy of love,' then argue via Socrates's examined life and Sartre's bad faith that neither Hannah's phony narrative nor Jessa's protective persona counts as authentic, examined living."
+   },
+   {
+    "book": "308 - The Palgrave Handbook of Popular Culture as Philosophy",
+    "n": 63,
+    "title": "60. Little Women as Philosophy Death or Marriage and the Meaning of Life",
+    "relation": "The chapter tests Susan Wolf's 'fitting fulfillment' theory (meaning as subjective attraction meeting objective attractiveness) against Greta Gerwig's Little Women, arguing the March sisters and most historical women are ill-fitted to it. Jo is forced to make her writing 'mercenary and commercial' and marries; Amy abandons painting and marries Laurie because 'marriage is an economic proposition'; Marmee, Hannah, and Mrs. Hummel live from duty and self-sacrifice without joy. Invoking Beauvoir's 'one is not born, but becomes a woman' and Imposter Syndrome, it concludes fulfillment is indicative but not necessary for meaning, urging a purely objective theory that can value women's lives 'appropriately appreciated at least in principle.'"
+   },
+   {
+    "book": "130 - The Good Place and Philosophy - Get an Afterlife",
+    "n": 18,
+    "title": "7. Eleanor and the Meaning of Afterlife",
+    "relation": "Yang frames Eleanor's predicament as a dilemma: a finite life seems drained of value by its ending, while an immortal one collapses into boredom or into the disconnection of the 802 memory-wiped reboots. Camus's Sisyphus and Richard Taylor's desire-fulfillment view prove inadequate, so he adopts Susan Wolf's account of meaning as loving what deserves to be loved, which Eleanor's study of moral philosophy, her friendships, and her romance with Chidi satisfy even without God or eternity. John Martin Fischer's narrative approach then redeems the reboots as self-contained episodes, and Eleanor's note to herself in Scanlon's book shows memory wipes need not sever the story of a life."
+   }
+  ]
+ }
+]

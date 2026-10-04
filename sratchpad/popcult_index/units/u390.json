@@ -1,0 +1,85 @@
+{
+ "unit": "u390",
+ "book": "274 - Coffee \u2013 Philosophy for Everyone - Grounds for Debate",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\274 - Coffee \u2013 Philosophy for Everyone - Grounds for Debate",
+ "range": [
+  23,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 23,
+   "file": "ch23 - Coffee - Philosophy for Everyone.md",
+   "words": 4873
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Coffee - Philosophy for Everyone.md",
+   "words": 5266
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Coffee - Philosophy for Everyone.md",
+   "words": 5232
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Coffee - Philosophy for Everyone.md",
+   "words": 7104
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Coffee - Philosophy for Everyone.md",
+   "words": 3866
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Coffee - Philosophy for Everyone.md",
+   "words": 11
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Coffee - Philosophy for Everyone.md",
+   "words": 3524
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Coffee - Philosophy for Everyone.md",
+   "words": 4377
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Coffee - Philosophy for Everyone.md",
+   "words": 3867
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Coffee - Philosophy for Everyone.md",
+   "words": 4587
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Coffee - Philosophy for Everyone.md",
+   "words": 990
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Coffee - Philosophy for Everyone.md",
+   "words": 2071
+  }
+ ],
+ "content": [
+  23,
+  24,
+  25,
+  26,
+  27,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34
+ ]
+}

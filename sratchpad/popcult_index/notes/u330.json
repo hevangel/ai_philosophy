@@ -1,0 +1,95 @@
+{
+  "book": "226 - The Philosophy of Michael Mann",
+  "unit": "u330",
+  "chapters": [
+    {
+      "n": 14,
+      "file": "ch14 - The Philosophy of Michael Mann.md",
+      "kind": "chapter",
+      "philosophers": ["deleuze", "baudrillard", "nietzsche"],
+      "concepts": ["simulacra", "benjamin-aura"],
+      "relation": "Paulus and Adriaensens argue that Mann's 'stylized realism' is best understood not as neobaroque spectacle but as mannerism: a self-conscious, image-conscious cinema in tension between classicism and anti-classicism. Reading Mann's green-screen shooting on Heat, the hyperreal night look of Collateral and the ultra-sharp digital of Public Enemies through Deleuze's letter to Daney on cinematic mannerism, they cast Mann as a Coppola-like 'bridge-builder' who offers a pedagogy of the image and gains Nietzsche's 'powers of the false.' Baudrillard's account of Apocalypse Now as excess of means and simulation frames the immersive spectacle Mann resists in favor of realism."
+    },
+    {
+      "n": 15,
+      "file": "ch15 - The Philosophy of Michael Mann.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "aristotle", "bentham", "mill"],
+      "concepts": ["categorical-imperative", "aristotle-golden-mean", "utilitarianism"],
+      "relation": "LaRocca reads The Insider as a study of contracts, conscience and courage. He argues that when Jeffrey Wigand stops calculating consequences ('Fuck it. Let's go to court.') he becomes a Kantian: his testimony has moral worth because it is done from duty and the categorical imperative, not from the utilitarian hedonic calculus of Bentham and Mill that Bergman, Wallace and Scruggs press on him. Wigand's whistleblowing is then framed through Aristotle's account of courage as a mean between recklessness and cowardice, with Wigand as the 'citizen soldier' who acts from conscience while Mike Wallace exemplifies the coward who exceeds in fear."
+    },
+    {
+      "n": 16,
+      "file": "ch16 - The Philosophy of Michael Mann.md",
+      "kind": "chapter",
+      "philosophers": ["baudrillard", "marx", "hobbes"],
+      "concepts": ["simulacra", "social-contract", "commodity-fetishism"],
+      "relation": "Wildermuth argues that Mann dramatizes a postmodern critique of law in which justice itself becomes a commodity, drawing on Baudrillard's hyperreal and simulation, Marxist legal theory (Pashukanis's 'organized class terror'), and critical legal studies. In The Last of the Mohicans the British social contract with the colonial militia is exposed as a cover for imperial hierarchy; in Crime Story's 'Abrams for the Defense' and Miami Vice's Lao Li, and in Collateral's hit man Vincent, contracts and legalism deconstruct into simulated justice that serves the top of the economic order, so resistance is possible only locally and temporarily."
+    },
+    {
+      "n": 17,
+      "file": "ch17 - The Philosophy of Michael Mann.md",
+      "kind": "chapter",
+      "philosophers": ["levinas", "marx"],
+      "concepts": ["levinas-face", "existentialism"],
+      "relation": "Skrodzka reads Thief and Collateral as exercises in deontology grounded in Levinas's ethics of responsibility to the Other. Frank's violent courtship of Jessie and his final destruction of his possessions, and Max's crashing of the cab after Vincent's interpellation, are staged as the self's annihilating opening to the face of the Other (glimpsed in the rearview mirror as Max's doppelganger). Using Bauman's account of liquid-modern disconnection and a leftist critique of late capitalism, she argues Mann grounds Levinasian ethics in physical labor, and defines Vincent's evil as that which is 'knowing but unknowable,' deaf to the Other's call."
+    },
+    {
+      "n": 18,
+      "file": "ch18 - The Philosophy of Michael Mann.md",
+      "kind": "chapter",
+      "philosophers": ["locke", "rousseau", "hobbes", "camus"],
+      "concepts": ["locke-natural-rights", "state-of-nature", "rousseau-natural-goodness"],
+      "relation": "Woolfolk reads The Last of the Mohicans as staging a conflict between nature and civilization. The opening hunt is neither Hobbes's brutish state of nature nor quite Rousseau's amoral noble savage, since the Mohicans are full moral agents; Woolfolk uses Locke's Second Treatise to cast Hawkeye and the colonists as enforcing natural law and natural rights against English 'tyranny,' with Chingachgook's killing of Magua a justified execution. Rousseau's First and Second Discourses illuminate the hypocrisy and greed of Montcalm and the Europeans, and Camus's Meursault is invoked as a truer image of amoral natural man; Tocqueville frames Cora's democratic awakening as individualism."
+    },
+    {
+      "n": 19,
+      "file": "ch19 - The Philosophy of Michael Mann.md",
+      "kind": "chapter",
+      "philosophers": ["frankfurt", "hegel", "baudrillard"],
+      "concepts": ["frankfurt-bullshit", "simulacra", "authenticity"],
+      "relation": "Corne unpacks Vincent Hanna's tirade in Heat against his wife's ex-husband's 'dead-tech, postmodernistic, bullshit house.' He reads the smashing of the television and the headless sculpture through Bataille's Against Architecture (buildings as latent prisons of authority) and Jameson's diagnosis of postmodern depthlessness and the silence of affect. Using Hegel, Hugo and Ruskin on architecture's obligation to tell the truth, and especially Frankfurt's On Bullshit, Corne argues the house is 'bullshit' because it is indifferent to truth; Vincent's workaholism becomes a Frankfurtian discipline, and the film reflexively treats truth, authenticity and space as a problem."
+    },
+    {
+      "n": 20,
+      "file": "ch20 - The Philosophy of Michael Mann.md",
+      "kind": "chapter",
+      "philosophers": ["rachels", "jackson", "goldman"],
+      "concepts": ["moral-relativism", "applied-ethics"],
+      "relation": "Rodriguez-Ruiz treats Ali and The Insider as dramatizing the methodology of philosophy, especially conceptual analysis and the politics of defining social concepts. Ali's challenges to 'patriotism,' 'freedom' and his slave name, and the manipulation of 'confidential,' 'addictive' and 'tortious interference' in The Insider, show how much rides on contested definitions. Against cultural relativism, he deploys James Rachels's Elements of Moral Philosophy (there are moral facts; some rules are needed for any society to exist) and discusses conceptual analysis (Jackson, Goldman) and Schiappa's 'how ought we use X,' leaving both heroes committed to independent thinking over consensus."
+    },
+    {
+      "n": 21,
+      "file": "ch21 - The Philosophy of Michael Mann.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 22,
+      "file": "ch22 - The Philosophy of Michael Mann.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 23,
+      "file": "ch23 - The Philosophy of Michael Mann.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 24,
+      "file": "ch24 - The Philosophy of Michael Mann.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": []
+}

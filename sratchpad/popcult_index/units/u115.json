@@ -1,0 +1,85 @@
+{
+ "unit": "u115",
+ "book": "068 - The Walking Dead and Philosophy - Zombie Apocalypse Now",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\068 - The Walking Dead and Philosophy - Zombie Apocalypse Now",
+ "range": [
+  25,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 25,
+   "file": "ch25 - The Walking Dead and Philosophy.md",
+   "words": 5117
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Walking Dead and Philosophy.md",
+   "words": 4619
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Walking Dead and Philosophy.md",
+   "words": 3860
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Walking Dead and Philosophy.md",
+   "words": 4
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The Walking Dead and Philosophy.md",
+   "words": 4816
+  },
+  {
+   "n": 30,
+   "file": "ch30 - The Walking Dead and Philosophy.md",
+   "words": 4177
+  },
+  {
+   "n": 31,
+   "file": "ch31 - The Walking Dead and Philosophy.md",
+   "words": 3952
+  },
+  {
+   "n": 32,
+   "file": "ch32 - The Walking Dead and Philosophy.md",
+   "words": 5620
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Walking Dead and Philosophy.md",
+   "words": 4773
+  },
+  {
+   "n": 34,
+   "file": "ch34 - The Walking Dead and Philosophy.md",
+   "words": 3589
+  },
+  {
+   "n": 35,
+   "file": "ch35 - The Walking Dead and Philosophy.md",
+   "words": 2037
+  },
+  {
+   "n": 36,
+   "file": "ch36 - The Walking Dead and Philosophy.md",
+   "words": 526
+  }
+ ],
+ "content": [
+  25,
+  26,
+  27,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36
+ ]
+}

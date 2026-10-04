@@ -1,0 +1,170 @@
+{
+ "book": "212 - The Olympics and Philosophy",
+ "unit": "u304",
+ "chapters": [
+  {
+   "n": 21,
+   "file": "ch21 - The Olympics and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Lewandowski argues Olympic boxing suffers from suboptimal 'constitutive rules' and applies Jon Elster's constraint theory, using Odysseus lashing himself to the mast to hear the Sirens as the model of 'constrained maximization' where a self-chosen constraint enables an otherwise impossible action. He contrasts the near-ruleless ancient pyx (the fatal Kreugas/Damoxenos bout) with modern boxing's over-tight constraints (short rounds, mandatory headgear, computerized scoring), showing both extremes fail to produce skilled, safe, creative competition. He proposes replacing headgear and button-scoring with safety monitors tracking headshots and holistic round-based judging of punches and ring generalship."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Olympics and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bentham",
+    "mill",
+    "aristotle"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "aristotle-practical-wisdom",
+    "hedonic-calculus"
+   ],
+   "relation": "Reitsma defends keeping the 'second-rate' Olympic men's football tournament against Bob Harig's 'Simply the best' litmus test, which would de-roster any event that is not the pinnacle of its sport. He likens Harig's proposed 'Olympic calculus' (scoring sports on tradition, parity, marketability) to Bentham and Mill's utilitarian maximization of a single value, and rejects both as oversimplifying an irreducibly plural decision. He argues the IOC instead rightly practices casuistry, case-by-case judgment that requires Aristotelian practical wisdom, and that dropping men's football (an under-23, FIFA-hampered tournament) would sacrifice the Olympics' global breadth for a false ideal of excellence."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Olympics and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - The Olympics and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "cornel-west",
+    "dubois"
+   ],
+   "concepts": [
+    "ressentiment",
+    "double-consciousness"
+   ],
+   "relation": "McDaniels reads Tommie Smith and John Carlos's 1968 Mexico City raised-fist protest as an expression of an 'oppositional consciousness' rooted in the memory of slavery and Jim Crow. He deploys Nietzsche's notion of ressentiment, the oppressed sufferer's rebellion against a dominant slave-making morality and need to release rage, and Cornel West's 'prophetic pragmatism', which frames struggle as tragic yet guided by integrity and justice, to interpret the sprinters' silent gesture. He also invokes the athletes' Du Boisian 'twoness' as black athletes and citizens, casting Smith and Carlos in a Douglass-to-Edwards lineage of public dissent as a vehicle of black liberation."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - The Olympics and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "butler"
+   ],
+   "concepts": [
+    "gender-performativity",
+    "feminism",
+    "objectification"
+   ],
+   "relation": "Jonsson argues that modern sport enforces masculine norms and that the East German 'wonder girls' (Koch, Ender, Krabbe), along with Stella Walsh, Jarmila Kratochvilova and Caster Semenya, were 'gender radical' Amazons who challenged the link between masculinity and maleness by winning with 'masculine' bodies. Drawing on Judith Butler's claim that gender ideals are not static and women's sport can rearticulate them, he treats the doping-built Eastern Bloc athletes as progressive because they contradicted how female athletes are 'supposed' to look. He critiques Jane English's appeal to 'permanent biological differences' and laments that after 1989 commercialized sport (symbolized by Flo Jo's marketed femininity) hardened conservative gender norms again."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Olympics and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nussbaum"
+   ],
+   "concepts": [
+    "objectification",
+    "feminism",
+    "male-gaze"
+   ],
+   "relation": "Weaving argues from a liberal-feminist standpoint that the FIVB's mandatory bikini-bottom rule for women's Olympic beach volleyball sexualizes and objectifies the athletes, contradicting Coubertin's ideals of universal humanity. Using Paul Davis's distinction between acceptable sexuality and objectionable sexualization (deliberate focus on body parts, freezing postures, punning captions like 'Buns of Gold'), and citing Nussbaum, Baker and Bartky on when treating someone as a sexual object becomes wrong, she shows the rule detaches athletes' bodies from their athletic agency. She traces harms including physical risk, the APA-documented effects of sexualization, a 'trickle-down' to school volleyball short-shorts, and exclusion of Islamic women."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Olympics and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Olympics and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gandhi"
+   ],
+   "concepts": [
+    "applied-ethics",
+    "just-war-theory"
+   ],
+   "relation": "Taliaferro and Le Gall examine when a nation or athlete may justifiably boycott the Olympics, distinguishing 'material' from 'formal' contribution and weighing available alternatives and the stringency of values (e.g., Gandhi's boycott of British goods, apartheid boycotts, the Lysistrata sex strike). They argue attending is not itself endorsement of the host regime, so the heavy, often irrecoverable cost to individual athletes places a strong burden of proof on any boycott. Surveying the 1956, 1980 and 1984 boycotts (which changed little) and the 1936 Berlin Games (where Jesse Owens's participation did real good), they conclude only a credible threat of serious bodily harm clearly justifies boycotting."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The Olympics and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rawls"
+   ],
+   "concepts": [
+    "cosmopolitanism-ethics",
+    "justice-as-fairness"
+   ],
+   "relation": "Hardman and Iorwerth argue that Olympic 'nation-swapping' should be judged by Coubertin's 'sincere internationalism' and Stephen Nathanson's 'moderate patriotism' (grounded, they note, in Rawls's justice as fairness), which permits a special but non-aggressive concern for one's country. They contrast the 'reflective national', whose national attachment evolves genuinely over time (the runner Wilson Kipketer settling in Denmark), with 'enlightened' and 'nomadic' cosmopolitans (Kenyan-born Qatari Saif Saaeed Shaheen bought for money, Jamaican-born Slovenian Merlene Ottey), whose transfers are economic and thin. They propose using Olympic Solidarity funding to offset the poverty that drives talent transfers rather than merely tightening Rule 42."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - The Olympics and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "benjamin",
+    "hegel",
+    "baudrillard",
+    "marx"
+   ],
+   "concepts": [
+    "kant-aesthetics",
+    "benjamin-aura",
+    "simulacra",
+    "commodity-fetishism"
+   ],
+   "relation": "Sharpe analyzes the Olympics as an aestheticized 'spectacle' (Debord, after Marx's commodity analysis) whose real product is the shareable 'Olympic moment.' Reading Kant's Critique of Judgment through Terry Eagleton, he argues the games trade on the sensus communis Kant finds in the judgment 'this is beautiful', an intimated universal harmony among humans that mirrors the ancient Olympic ekecheiria (truce). He links Beijing 2008's simulated fireworks and lip-synced girl to Baudrillard's simulacra, and uses Benjamin's 'Work of Art' essay, Riefenstahl's Olympia and Hegel's account of Greek sculpture to show how the Nazis' 1936 Games weaponized this aesthetic power, warning the spectacle serves both good and evil."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - The Olympics and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - The Olympics and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Olympics and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "elster-constrained-maximization",
+   "name": "Constrained Maximization (constraint theory)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Jon Elster's theory (from Ulysses and the Sirens) that self-imposed constraints, like Odysseus lashed to the mast, can enable and maximize otherwise impossible rational action.",
+   "why": "Chapter 21's entire analysis of why Olympic boxing's constitutive rules succeed or fail is built on Elster's constrained maximization, and no taxonomy philosopher or concept captures it."
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "book": "095 - Downton Abbey and Philosophy - Thinking in That Manor",
+ "unit": "u152",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - i.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - iii.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - iv.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Of the Simple and Complex.md",
+   "kind": "chapter",
+   "philosophers": [
+    "confucius",
+    "aristotle",
+    "hume",
+    "plato",
+    "kant"
+   ],
+   "concepts": [
+    "confucian-li",
+    "plato-forms"
+   ],
+   "relation": "The book's introduction argues that Downton Abbey's genius is letting universal moral and social realities burst forth in particular incidents: the snuffbox affair makes Thomas a classic villain (stealing, defaming Bates) and Bates a Christ-, Socrates-, or Confucius-type innocent, showing that moral clarity is beautiful rather than superficial. It reads the Thomas-Bates-Grantham hierarchy as an invitation to think about 'greater and lesser,' tying propriety (Confucius), dharma, and justice (Aristotle) to paying attention to social difference, which Western viewers raised on equality find foreign yet intriguing. It closes by insisting the characters are more complex than their types - Thomas takes a beating to spare Jimmy, Bates may have killed outside the law - and previews the volume's themes of Humean 'small morals' (etiquette), women's rights, work, place, and war."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - I. Finding Your Place.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 1. Finding the Meaning of Life in Downton Abbey.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wolf",
+    "nozick",
+    "nietzsche",
+    "kant"
+   ],
+   "concepts": [
+    "wolf-meaning",
+    "meaning-of-life",
+    "categorical-imperative"
+   ],
+   "relation": "Blessing tests the Steve Jobs/Oprah 'do what you love' creed against Downton, where rigid class structure assigns nearly everyone a role they did not choose. She distinguishes happiness from meaningfulness (Matthew's war wounds, Mary's grief after his death) and purposefulness (Grantham's custodian speech), then weighs subjectivist theories of meaning, including Nietzsche's idea that meaning arises from the passionate process itself, against Nozick's permanence view and Susan Wolf's hybrid 'subjective attraction meets objective attractiveness,' adding Kant's duty to develop one's talents against a world of idle pleasure. She concludes that the Abbey's ethos - Grantham as custodian not owner, Carson's pride in service, Patmore's kitchen, 'I have no right to be unhappy' - shows that socially necessary work one does not love can still make a meaningful life, while DWYL is elitist and narcissistic."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 2. I May Be a Socialist, But I’m Not a Lunatic.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "class-struggle"
+   ],
+   "relation": "Walderczak stages the Branson-Robert-Matthew triangle as socialism, aristocratic conservatism, and capitalism colliding over the estate's duty to its people. He tracks how Tom's Marx-flavored socialism - really closer to Owen's and Fourier's utopian cooperatism - evaporates once he marries Sybil and co-manages the land, the chauffeur 'Branson' becoming family-member 'Tom,' a case of David Harvey's capitalist pacification. Meanwhile Robert's noblesse oblige - secretly paying a tenant's overdue rent from private funds, ranting 'profits, profits, profits,' treating ownership as custodianship of the tenants - leaves the author asking who the real socialist is, and answering that Robert's conservatism has far more in common with socialist ideals than Tom's self-confessed politics ever did."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 3. Matthew’s Dark Side.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "philosophy-of-love"
+   ],
+   "relation": "Wills uses Georg Simmel's The Philosophy of Money to argue Matthew's two-season arc is a corruption story rather than a romance: the principled middle-class lawyer who vows Downton will not change him, calls valeting 'a very silly occupation,' and wants to dress himself gradually lets wealth enchant him, dodges reviewing the entail, and returns for Mary. He reads the Mary-Matthew match as an economic transaction that neatly solves the succession problem - money as the aristocracy's toy, Mary becoming part of the deal - against Anna and Bates's money-free courtship as the show's only genuinely loving relationship. The chapter ends by turning Simmel's warning on the audience: we root for the couple because we are as powerless before wealth's charm, and as greedy for it, as Matthew is."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 4. Finding One’s Place and Being Useful.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "russell",
+    "adam-smith",
+    "marx",
+    "rousseau"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia",
+    "marx-ideology",
+    "class-struggle"
+   ],
+   "relation": "Karavitis argues that work, not social class, is Downton's real theme, sorting characters in a two-by-two matrix of class membership against acceptance or rejection of the existing social order. Those who accept their place stagnate - Violet ('We don't work,' 'What is a weekend?'), Robert the mismanaging custodian, the perpetually jobless Molesley - while those who reject it flourish: Isobel's drive to be 'useful,' Sybil's nursing ('I feel useful for the first time in my life'), Gwen's hidden typewriter, Alfred's Ritz training. He surveys Rousseau on work's role in inequality, Smith on the division of labor, and Marx on labor and ideology on the negative side, and Aristotle, Russell's 'In Praise of Idleness,' and Pieper on leisure and personal projects on the positive side, ending with the prediction that automation will soon give everyone the Crawley daughters' problem of what to do with a life without work."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - II. Minding Manners and Making Do.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 5. The Morality of Manners.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "moral-psychology"
+   ],
+   "relation": "Dougherty argues that at Downton manners are not incidental etiquette but a central means of demonstrating moral character and respect. Matthew's shift from calling valeting 'a very silly occupation for a grown man' to valuing Molesley's role shows decorum tracking his growing respect; Branson's tweed suit at white-tie dinners and 'uniforms of oppression' display disrespect even where his politics are sound; Sir Richard's parting boorishness betrays a lack of moral character; and the Dowager Countess's polished barbs prove manners can serve as a mask for self-interest rather than virtue. The framework combines Nancy Sherman's 'aesthetic of character,' Aristotle's person of extraordinary virtue whose goodness must appear in particular ways, and Sarah Buss's idea that good manners constantly remind us that others are worthy of respect."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 6. Keeping It under Control.md",
+   "kind": "chapter",
+   "philosophers": [
+    "epictetus",
+    "hierocles"
+   ],
+   "concepts": [
+    "dichotomy-of-control",
+    "stoic-indifferents",
+    "stoic-cosmopolitanism"
+   ],
+   "relation": "Mills presents Bates - lame leg, repeated prison spells, the public fall when O'Brien kicks his cane - as an Epictetan Stoic who 'manages' misfortune by confining his concern to what he controls, echoing the Dowager's 'I hope we're in control of something, if only ourselves.' The chapter explains the dichotomy of control and preferred indifferents through Thomas's enslaved pursuit of the valet post, O'Brien's soap-on-the-floor scheme, Mary's panicked engagement to Richard Carlisle, and Mrs. Hughes's proportioning of her cancer scare, and treats death as the great rejected indifferent via Pamuk, Sybil, and Matthew. It closes with Hierocles' concentric circles: the household's best moments (Sybil helping Gwen, the staff rallying to free Bates) collapse upstairs and downstairs into one family, while Thomas's closed inner circle marks his failure of Stoic virtue."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 7. Disabled at Downton.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "disability-philosophy"
+   ],
+   "relation": "Richmond weighs Downton's disability portrayals against disability-studies standards, citing Paul Longmore on media images and the 'super-crip' stereotype. Bates is the positive case: he endures Thomas's and O'Brien's ability-based discrimination, throws away the painful leg brace and rejects the idea that disability demands a medical cure, accepts disability as identity ('We all carry scars, Mr. Bates'), and marries Anna, refuting the era's stereotype that disabled people cannot be employees or lovers. Matthew is the harmful case: his paraplegia ends in Dr. Clarkson's 'spinal shock' misdiagnosis - a miracle cure - and talk of a 'normal life,' reinforcing the medical model and teaching real disabled viewers that their lives are over, so the author wants 'more Bateses, and fewer Matthews.'"
+  },
+  {
+   "n": 18,
+   "file": "ch18 - III. What Can We Know.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 8. Lie Is So Unmusical a Word.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "deontology"
+   ],
+   "relation": "Neal pits Kant's absolute prohibition on lying against Violet's scheme after Sybil's death: the Dowager pressures Dr. Clarkson to 'review the evidence' until he tells Cora and Robert that surgery could not have saved their daughter, reuniting the marriage his honest second opinion had broken. Working through the Categorical Imperative, the murderer-at-the-door case, and Kant's essay 'On a Supposed Right to Lie Because of Philanthropic Concerns,' the chapter asks whether Clarkson actually lied ('Lie is so unmusical a word'). It concludes that his rational, carefully planned, dignity-respecting lie to save the family meets the criteria for a Kantian exception, so the rule against lying still holds while this particular lie is morally permitted."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 9. Why Did Lady Sybil Die.md",
+   "kind": "chapter",
+   "philosophers": [
+    "peirce"
+   ],
+   "concepts": [],
+   "relation": "Egg uses the fatal Clarkson-Tapsell conflict over Sybil's death to teach Peirce's abduction - inference to the best explanation - organized around Peter Lipton's twin criteria of likeliness and loveliness. He illustrates with Anna eliminating the burglar story of Vera Bates's death, Daisy's too-lovely coincidence theory linking the house's deaths, Violet correctly inferring that Edith's Swiss trip must hide a pregnancy because it alone explains all the facts, and the two doctors' contested readings of pre-eclampsia. The chapter ends with Violet levering the statistics so that 'eclampsia alone' defeats 'eclampsia plus Robert's misjudgment' as the best explanation of Sybil's death - a managed inference that lets Cora and Robert grieve together."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 10. Does Bates Know Who Raped Anna.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "gettier-problem",
+    "reliabilism"
+   ],
+   "relation": "The Nisleys ask whether Bates's belief that Green raped Anna counts as knowledge. His belief is true, and Plato's Theaetetus defines knowledge as justified true belief, but Mrs. Hughes's false testimony, Anna's denials, and mere observed flirting mean Bates's reasons are defective: his belief could be true by coincidence, a Gettier-style failure in which truth is not earned by justification. The chapter also examines testimony - a reliable testifier like Mrs. Hughes would normally confer justification, but she deliberately lies - and concludes with Anna's own verdict that Bates 'might have suspected, but he did not know.'"
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 11. What Mary Didn’t Know.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dennett"
+   ],
+   "concepts": [
+    "intentional-stance",
+    "skepticism"
+   ],
+   "relation": "Demeter reconstructs five rival explanations of Mary's hesitation to accept Matthew - emotional uncertainty, greed, fear of social exclusion over Pamuk, bad conscience, and conflicting family pressures - and argues none can be singled out as true. Via Frayn's Copenhagen, Dennett's 'Real Patterns,' and Henry James's The Golden Bowl as read by Robert Pippin, he defends the indeterminacy of psychological interpretation: motives are accessed only through behavior filtered through the interpreter's own psychological apparatus, and on the stronger view there are no motivation-facts prior to interpretation at all. What Mary did not know about her own hesitation may therefore not be knowable in principle, by her or by us."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - IV. Change and Memory.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 12. Should We Really Care about the Crawleys.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-luck",
+    "care-ethics",
+    "class-struggle"
+   ],
+   "relation": "Jones takes up the charge that loving Downton seduces viewers into admiring inequality, and answers that the Crawleys deserve our care because birth, not choice, gave them their position, so they should be judged only by what they do with it: Grantham paying for Mrs. Patmore's eye surgery, Violet throwing the flower contest after Isobel's challenge, the family gradually embracing Branson. He reads the show as a manifesto for social change through sympathetic contact between classes rather than Irish-style revolt - befriend the rich and their good nature will start to level the playing field. His own objection is that this makes change partly the responsibility of the less privileged, from Thomas being asked to soften Carson's homophobia to the poor being asked to be nice to the rich today."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 13. Topophilia; or, How We Got Hooked on Downton.md",
+   "kind": "chapter",
+   "philosophers": [
+    "deleuze",
+    "jung",
+    "gaston-bachelard"
+   ],
+   "concepts": [
+    "phenomenology",
+    "freud-unconscious"
+   ],
+   "relation": "Elvis reads the show's opening credits shot by shot - Isis on the lawn, the opening shutter, the servant bell, the letter rack, the watched pot, the measured table setting, the falling rose petal, the lamplight, the feather duster - to explain our addiction to Downton through Bachelard's The Poetics of Space. Topophilia (love of place), daydream, and the unconscious mind's bank of unnoticed experience make the intimate small spaces of the credits invitations to feel at home in the Abbey, while Deleuze's 'haptic' explains how vision and sound trigger touch-like immersion. The show's improbable global appeal, she concludes, lies not in pompous grandeur but in small intimate moments that bring viewers home."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "utopian-socialism",
+   "name": "Utopian Socialism (Owen and Fourier)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Early nineteenth-century socialism (Robert Owen, Charles Fourier) holding that circumstances form character and that cooperation and fair contribution, not revolution, reform society.",
+   "why": "Chapter 11 identifies Branson's actual politics as Owen/Fourier-style utopian socialism and argues Robert's stewardship of the tenants approximates it, but taxonomy has only Marx and class struggle."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "noblesse-oblige",
+   "name": "Noblesse Oblige",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The aristocratic doctrine that noble status carries binding obligations of service, protection, and care toward those of lower rank rather than mere entitlement.",
+   "why": "Chapter 11's central claim is that Robert's noblesse oblige - treating ownership as custodianship of tenants - is closer to socialism than Branson's professed politics, and no existing slug names the concept."
+  },
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "georg-simmel",
+   "name": "Georg Simmel",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "German philosopher-sociologist (1858-1918) whose The Philosophy of Money argues that as money's role in a life grows, individuality and personal ties erode.",
+   "why": "Chapter 12's entire reading of Matthew Crawley's corruption - principled lawyer turned money-driven suitor - rests on Simmel's thesis, and he is absent from taxonomy."
+  },
+  {
+   "ch": 15,
+   "type": "philosopher",
+   "suggested_slug": "nancy-sherman",
+   "name": "Nancy Sherman",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Contemporary virtue ethicist who argues manners give virtue its 'look and feel' - an 'aesthetic of character' that is part of virtue's substance, not mere adornment.",
+   "why": "Chapter 15 builds its claim that Downton's manners demonstrate and manifest moral character directly on Sherman's account, which taxonomy lacks."
+  },
+  {
+   "ch": 16,
+   "type": "philosopher",
+   "suggested_slug": "hierocles",
+   "name": "Hierocles",
+   "philosopher": "",
+   "domain": "ancient",
+   "what": "Stoic philosopher whose surviving fragment describes concentric circles of affinity, urging us to draw the outer circles inward and treat strangers as family.",
+   "why": "Chapter 16 uses Hierocles' circles as its Stoic account of how to treat others, set against Epictetus' role-based duties, and taxonomy has no entry for him."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "inference-best-explanation",
+   "name": "Inference to the Best Explanation (abduction)",
+   "philosopher": "peirce",
+   "domain": "knowledge-science-reality",
+   "what": "Peirce's third mode of inference, 'abduction': reasoning from a surprising fact to the hypothesis that would best explain it, evaluated for likeliness and loveliness (Lipton).",
+   "why": "Chapter 20 is wholly organized around this inference type, applying it to Vera's death, Edith's Swiss trip, and the Clarkson-Tapsell dispute, but taxonomy contains no slug for it."
+  },
+  {
+   "ch": 25,
+   "type": "philosopher",
+   "suggested_slug": "gaston-bachelard",
+   "name": "Gaston Bachelard",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "French philosopher (1884-1962) whose The Poetics of Space develops 'topophilia' - the intense love of place - through topoanalysis of intimate spaces, daydream, and the imagination.",
+   "why": "Chapter 25 is built entirely on Bachelard's topophilia, topoanalysis, and daydream theory to explain the show's appeal, and taxonomy has no entry for him."
+  }
+ ]
+}

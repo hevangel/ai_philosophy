@@ -1,0 +1,503 @@
+{
+ "book": "102 - Orphan Black and Philosophy - Grand Theft DNA",
+ "unit": "u166",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - ii.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Thanks.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Leda Thinkin’ to Us . ..md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editors' introduction retells Sarah Manning's situation: a broke grifter on the run from her drug-dealing ex, she watches her double Beth kill herself on the train platform and steals her identity, which earns her shootings, kidnapping, torture, and the loss of her daughter. It jokes that Sarah's real mistake was not reading this book first, listing its topics — the metaphysics of cloning, personal identity, sisterhood, family, the absurd, Buddhism, feminism, epistemology — as the Mill-style \"higher pleasures\" that would have prepared her, and ushers the reader on to Chapter 1."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Part I “How many of us are there ”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 1. Fearfully and Wonderfully Made.md",
+   "kind": "chapter",
+   "philosophers": [
+    "parfit"
+   ],
+   "concepts": [
+    "applied-ethics"
+   ],
+   "relation": "Argues that Project Leda and Castor are a textbook case of Parfit's non-identity problem and its \"Implausible Conclusion\": Neolution knowingly built the clones barren by design and doomed to fatal illness, yet since none of them could have existed otherwise, and their lives remain worth living, it appears the clones were not harmed — the same paradox as Sarah conceiving Kira young and disadvantaged. After surveying Boonin's conclusion that every escape route from the paradox fails and Benatar's antinatalist extreme, the chapter adopts Rivka Weinberg's solution that existence is a condition rather than a conferred good, so the wrong lies in knowingly making a person a means to eugenic ends. The Leda dance party at the end of Season Two, where each clone dances in her own style, shows the book's verdict: the clones' lives are worth living on their own terms, exactly as they fight to live them."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 2. Go Ask Alison.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "max-weber"
+   ],
+   "concepts": [
+    "applied-ethics"
+   ],
+   "relation": "Treats Project Leda's monitors as data gatherers in a botched social-scientific experiment, contrasting the Mill/Durkheim prediction paradigm (social science modeled on physics, seeking causes and regularities) with Max Weber's interpretive paradigm that seeks motives and understanding from the inside. Donnie's ignorance of the experiment and deep involvement in Alison's life skew his reports; Daniel and the clone-raised Rachel, who thinks of clones as property, ruin Rachel's role as the experiment's control group; and Delphine's love for Cosima makes her report selectively. The chapter concludes that Leda fails as science under both paradigms while trampling the informed-consent ethics owed to human subjects — the same project that got Alison's neighbor Aynsley killed."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 3. When Clone Club Looks for Answers.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "epicurus"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia",
+    "epicurean-pleasure"
+   ],
+   "relation": "Maps two ancient accounts of happiness onto the two clones we meet first. Cosima is the Aristotelian: like her fellow biologist Aristotle she holds that knowing truth for its own sake is essential to human flourishing, so she demands Sarah's briefcase (\"the answers are in the briefcase\"), studies a murdered sister's autopsy, and accepts Leekie's offer of unfettered research even inside Dyad. Alison is the Epicurean: happiness is the removal of pain and protection from threat, so she wants nothing to do with the C-word, hunts her monitor only to restore her safety, and signs Leekie's contract for the promise that her family will be left alone."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 4. Who Owns Clones.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "applied-ethics",
+    "locke-natural-rights"
+   ],
+   "relation": "Takes the message Cosima decodes in the clones' DNA — \"This organism and derivative genetic material is restricted intellectual property\" — and asks whether Dyad can legally and morally own the Clone Club. The chapter walks through US patent law and the Supreme Court's Myriad Genetics decision (naturally occurring DNA unpatentable, synthetic cDNA patentable) and argues that because the Leda and Castor clones were genetically engineered, their modified sequences could fall under the synthetic exception, making ownership legally possible. Morally, though, it sides with self-ownership: people own the products of their labor but not people, so patenting clones would recreate the wrongs of slavery, down to who controls clone marriages and clone offspring."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Part II “If we’re genetically identical, do you get that little patch of dry skin between your eyebrows ”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 5. The Human Being in the Age of Mechanical Reproduction.md",
+   "kind": "chapter",
+   "philosophers": [
+    "benjamin",
+    "arendt"
+   ],
+   "concepts": [
+    "benjamin-aura",
+    "authenticity"
+   ],
+   "relation": "Extends Walter Benjamin's analysis of art under mechanical reproduction to human cloning: as photography and film stripped artworks of their \"aura\" (their unique link to an origin) while democratizing art, cloning strips human beings of Hannah Arendt's \"natality\" — our connection to a unique beginning — while democratizing human nature itself. The chapter argues this is liberation, not loss: Sarah is as human as Felix or Kira, denying the clones' humanity would strip the naturally born of their own freedom (\"Either Sarah and her sisters are human, or no one is\"), and Tony Sawicki's chosen trans identity shows that once natality stops being destiny, authenticity and autonomy become possible for the first time. The only truly immoral path is Leda and Castor's — treating the bioengineered as property, as Rachel was raised to treat herself."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 6. One Clone from Another.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "buddha",
+    "hume",
+    "aristotle",
+    "descartes"
+   ],
+   "concepts": [
+    "personal-identity",
+    "buddhist-non-self",
+    "locke-personal-identity"
+   ],
+   "relation": "Asks what metaphysically individuates one Leda clone from another, surveying the tradition: Aristotelian substances bearing properties, Plato's and Descartes's non-repeatable individual essences, Berkeley's and Hegel's soul-substances, Aquinas's matter-based view, Locke's memory-based personal identity (with its sleeping-copy and consciousness-download objections), and Hume's argument that substance is a meaningless idea. It then turns to the Buddhist framework — the Four Noble Truths, anatman (no eternal self), the five skandhas, and dependent origination, illustrated by Alison's soap-and-drug crates — before closing with Nishida Kitaro's logic of contradictory self-identity. Read through that lens, the clone dance party in Felix's loft shows each clone's moves are truly her own precisely because they incorporate and mirror her sisters': identity is relational, not intrinsic."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 7. I Am and Am Not You.md",
+   "kind": "chapter",
+   "philosophers": [
+    "husserl",
+    "kierkegaard"
+   ],
+   "concepts": [
+    "phenomenology",
+    "embodiment",
+    "personal-identity"
+   ],
+   "relation": "Reads the opening scene phenomenologically: when Sarah sees her face on Beth, her identity does not merely change genetically but unravels generatively, since her birth, ancestry, and place in world-history are all thrown into question. Using Husserl's lived-body (the absolute \"here\" of experience), his static/genetic/generative levels of analysis, the homeworld/alienworld distinction (Clone Club solidifies its identity against the Castor \"brothers,\" until Helena cradles the dying Rudy), and Husserl's co-originality of I and world, the chapter presents identity as intersubjective, constituted by shared projects like Sarah's fight for Kira and the Clone Club's tribe-rituals. Kierkegaard's \"life must be lived forwards but understood backwards\" is broadened: to understand identity we must look before our own birth and beyond our death, into the lifeworld we inherit and pass on."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Part III “You want to grow a tail, that’s your business.”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 8. Laughing in the Face of the Absurd.md",
+   "kind": "chapter",
+   "philosophers": [
+    "camus",
+    "beauvoir",
+    "sartre"
+   ],
+   "concepts": [
+    "the-absurd",
+    "sisyphus",
+    "ethics-of-ambiguity",
+    "sartre-freedom"
+   ],
+   "relation": "Argues that watching Beth die on the platform is Sarah's existential awakening — the absurd realization that \"it is no longer true that everyone has their own face\" — analyzed through Camus's absurd (the impossible and the contradictory), Sartre's nausea at inhuman humans, and Beauvoir's \"subman\" who never wakes from the mechanical life. Sarah must repeatedly witness \"her own\" death (Beth, Katja, Jennifer, the Helsinki clones), which robs death and life of settled meaning, yet she refuses nihilism: exercising the radical freedom Sartre says grounds all values, she fights Dyad on behalf of everyone's freedom, implicitly choosing it for all humanity. Like Camus's Sisyphus, whose rock is his thing, her struggle is her thing — and the Season Two clone dance party is her laughing in the face of the absurd."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 9. Variation under Ethics.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "harm-principle",
+    "applied-ethics"
+   ],
+   "relation": "Weighs the clones' bodily autonomy against the special obligations they owe one another, since genetic sisters can harm each other as no strangers can: Helena's murder of Katja nearly pins a killing on Sarah, and Vic's drug-world drags danger into Alison's suburb. The chapter builds a clone-specific cousin of Kant's categorical imperative — \"act only and always in a way that you would want your clone to act\" — to argue that the clones' liberty may be legitimately more restricted than ours: Alison's public drunkenness endangers sisters who can be mistaken for her, clones arguably must stay in Clone Club and share medical information like Cosima's illness, and hard cases (Beth's suicide leaving cases dangling, the brain-cut-open Castor clone begging Helena to kill him) all turn on balancing autonomy against what we owe others."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 10. How Can Clones Disagree.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Uses the clones to test whether rational disagreement between epistemic peers with identical evidence is possible. Helena's convent indoctrination places her beyond peerhood, and Rachel's vastly superior inside information voids shared evidence, so neither of those clashes counts — but the Sarah–Cosima argument over approaching Delphine does: they are peers on the monitor question, they share all the relevant evidence about Paul and Delphine, and the unshareable \"private evidence\" (Sarah's knowledge of what fooling Paul felt like) turns out to be mere feeling, not evidence, as the blindfolded free-throw example shows. The clones therefore vindicate the possibility of rational disagreement."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Part IV “You know I never would’ve got in if you’d said we were going to suburbia.”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 11. Leda, Castor, and Their Families.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "heteronormativity",
+    "feminism",
+    "objectification"
+   ],
+   "relation": "Shows how the clones queer the normative family: clones as such are \"biological outlaws\" (via Stephanie Turner's reading of Ripley in Alien), Siobhan turns out to be the genetic half-sister of the clones cloned from her own mother Kendall, and the chosen family — Felix the \"brother sestra,\" Kira's aunties, Helena's dream baby shower — repeatedly rebuilds kinship outside blood and marriage. Against this stands the stripping of reproductive agency: the infertility sequence written into the Leda clones, Coady's weaponized sterilizing virus, and above all Helena, whose eggs are harvested and implanted by Henrik and Gracie's father without consent. The chapter's conclusion is that Orphan Black's blood families are abusive and controlling while the non-normative chosen families of Clone Club are where love and consent actually live."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 12. Not Why but Who.md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud",
+    "lacan"
+   ],
+   "concepts": [
+    "lacan-symbolic",
+    "feminism",
+    "oedipus-complex"
+   ],
+   "relation": "Reads the mothers of Orphan Black through Freud and Lacan: Dr. Coady is the \"phallic mother\" at the center of the Castor clones' Oedipal drama (Rudy's kiss, the DNA trophies brought home to Mom), Tomas is Helena's abusive false father, Rachel is the child of a shattered Oedipal triangle, and the Symbolic Order that makes men active rational subjects and women passive reproductive objects is mirrored in the defects — neurological for the male clones, reproductive for the female. The chapter then brings in Luce Irigaray to show the show rewriting these stereotypes: the clones' spectrum of personalities and their constant impersonations destabilize fixed gender categories, and the many equally \"real\" mothers (Mrs. S., Amelia, Alison, Kendall) burst the woman-equals-womb equation. Beth's counsel to the delirious Sarah — \"Stop asking 'Why?' and start asking 'Who?'\" — becomes the feminist move from mechanism to women as active subjects."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 13. Sisterhood’s Back in Orphan Black.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "feminism",
+    "intersectionality",
+    "posthumanism"
+   ],
+   "relation": "Recounts the rise and fall of second-wave sisterhood — the dream of a unified female voice that erased differences of race, class, sexuality, and nation until the 1980s backlash killed it — and argues Orphan Black resurrects a corrected version through Rosi Braidotti's posthumanism. The clones, disposable bodies of biogenetic capitalism, build a sisterhood that celebrates difference (grunge Sarah, dreads-and-lab-coat Cosima, suburban Alison, savage Helena) rather than enforcing sameness, and that welcomes the Others the Seventies excluded — gay Felix, Black Art, Hindu Raj — while white Western men like Paul remain the surveillance agents of the backlash. Through posthumanism's dissolution of fixed human identity, the chapter claims, feminism's old ideal returns both transformed and inclusive."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 14. Re Production.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "beauvoir"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia",
+    "woman-as-other",
+    "aristotle-practical-wisdom",
+    "becoming-woman"
+   ],
+   "relation": "Framed as leaked Project memoranda, the chapter argues Projects Leda and Castor embody philosophy's male-rational/female-reproductive dichotomy: Aristotle's function argument defined the human good (eudaimonia) through rationality while relegating women to reproduction, and the clones' engineered diseases literalize the split — fatal illness of the reproductive organs in the Leda clones, of the brain in the Castor. Simone de Beauvoir's Second Sex supplies the critique: \"woman\" treated as synonymous with womb, the Other denied the rich self-definition granted men, visible in Leda's passive unmonitored clones versus Castor's self-aware, active brothers. Combining a redeemed Aristotle (practical wisdom shows virtuous potential is not set by biological sex) with Beauvoir's free, independent woman, the chapter concludes both reproductive and rational autonomy must be restored to the clones of both sexes."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Part V “You just broke the first rule of Clone Club.”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 15. The C-Word.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "nietzsche",
+    "kant"
+   ],
+   "concepts": [
+    "naturalistic-fallacy",
+    "hume-is-ought",
+    "master-slave-morality",
+    "applied-ethics"
+   ],
+   "relation": "Works through the ethics of cloning and genetic selection, starting with the objection that such technologies are \"unnatural\": that reasoning commits the naturalistic fallacy, since following Hume you can't get an ought from an is, and human ingenuity (roads, eyeglasses, IVF) is itself part of nature. Using Nietzsche's Genealogy account of master morality — good as the noble traits of intelligence, beauty, and strength — the chapter asks whether parents would then be obliged to engineer better children, while warning where trait-selection slides: Nazi eugenics, racist trait-lists (both Leda and Castor are white and conventionally attractive), and \"abilism\" against the deaf. It concludes that cloning itself is not evil: Projects Leda and Castor are immoral not because they clone but because they treat clones as mere means to an end, in Kant's sense, and trample their autonomy."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 16. Is Sarah Manning Responsible for What She Does.md",
+   "kind": "chapter",
+   "philosophers": [
+    "galen-strawson"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "compatibilism",
+    "moral-psychology"
+   ],
+   "relation": "Uses the genetically identical Leda clones against genetic determinism: Helena seems excused and Cosima responsible despite identical genes, so upbringing must explain the difference. But appealing to background triggers Galen Strawson's Basic Argument — no one is ultimately responsible for who they are, so no one is ultimately responsible for what they do — which the authors escape through Peter Strawson's reactive attitudes (our disgust at Helena softening to pity once her abuse is known, our judgment of Donnie shifting from malice to gullibility) and John Martin Fischer's two conditions: an agent is responsible when she is responsive to reasons that would move well-adjusted rational people and takes ownership of the psychology that produces her action. Helena's Prolethean programming exempts her; Cosima, Alison, and a marginally reformed Sarah remain responsible for what they do."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 17. Dialog with the Buddha.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha"
+   ],
+   "concepts": [
+    "buddhist-karma",
+    "buddhist-non-self",
+    "four-noble-truths",
+    "buddhist-impermanence"
+   ],
+   "relation": "A Platonic-style fictional dialogue in which a newly enlightened \"Canadian Buddha\" walks out of the northern Ontario bush to the Prolethean farm and debates Tomas, Henry, and Bonnie over whether clones are abominations. Using karma, rebirth, the gandhabba that carries consciousness-flux to a new embryo, the no-soul doctrine, and the eightfold path, the Buddha argues clones are ordinary beings of the karmic flux — like the split bacterium, nothing unnatural — but that cloning multiplies clinging: hosts crave immortality through copies, each clone inherits the host's whole accumulated karma, and Henry's dream of training an army of Helena-clones would only deepen the unsatisfactoriness the Buddha's mustard-seed lesson says clinging to the dead always brings. Only ending the cycle through enlightenment releases anyone; the clone, like the lost child, is not the one you lost."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - A Brief History of Cloning.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "personal-identity"
+   ],
+   "relation": "A history of cloning in science and popular culture, from Driesch's 1885 sea-urchin split and the tadpole nuclear-transfer work of Briggs, King, and Gurdon, through Rorvik's In His Image hoax, to Dolly, Polly, Ditto and Neti, and Mitalipov's human embryonic stem cells. On the fiction side it tracks how early stories (Sleeper, Four Sided Triangle, The World of Null-A, Invasion of the Body Snatchers) assumed a clone is literally the same person as the original, with the same age, memories, and desires — a metaphysical mistake, since a clone is a new person whose own experiences make her someone else — while later work (The Boys from Brazil, Jurassic Park, The Island, Never Let Me Go, Moon) got the science roughly right and moved on to the ethics, exactly where Orphan Black, with its careful Leda and Castor biology, lands."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - References.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - The Clone Club.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - 231.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "non-identity-problem",
+   "name": "The Non-Identity Problem (paradox of future individuals)",
+   "philosopher": "parfit",
+   "domain": "ethics-moral-psychology",
+   "what": "Parfit's puzzle that an action shaping the exact conditions of someone's conception (like Sarah conceiving Kira young, or Neolution engineering doomed clones) cannot harm the person it produces, since a different choice would have produced a different person, even though it intuitively wrongs them.",
+   "why": "Chapter 11 is built entirely on this problem and its Implausible Conclusion, which no existing taxonomy slug covers."
+  },
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "max-weber",
+   "name": "Max Weber",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "German sociologist who held that the social sciences must interpret and understand human action from the inside (through motives) rather than predict it from the outside like natural science.",
+   "why": "Chapter 12 contrasts Mill's predictive model of the monitor experiment with Weber's interpretive paradigm, which frames the chapter's whole argument but is absent from the taxonomy."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "arendt-natality",
+   "name": "Natality",
+   "philosopher": "arendt",
+   "domain": "political-social",
+   "what": "Arendt's notion that every human begins as a unique newcomer whose birth into a particular time, place, and circumstance grounds the capacity for new beginnings and authentic selfhood.",
+   "why": "Chapter 16's central claim is that cloning strips humans of natality the way mechanical reproduction stripped art of its aura, and the taxonomy lacks any slug for the concept."
+  },
+  {
+   "ch": 17,
+   "type": "philosopher",
+   "suggested_slug": "nishida-kitaro",
+   "name": "Nishida Kitaro",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "Japanese founder of the Kyoto School whose logic of basho and 'contradictory self-identity' (A is A only by being related to not-A) fuses Zen nothingness with Western metaphysics.",
+   "why": "Chapter 17's positive answer to what individuates one clone from another is Nishida's principle of contradictory self-identity applied to the clone dance party, and he is absent from the taxonomy."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "peer-disagreement",
+   "name": "The Epistemology of Peer Disagreement",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Contemporary epistemological debate over whether two epistemic peers who share all their evidence can rationally reach different conclusions, and what private evidence or starting points do to the puzzle.",
+   "why": "Chapter 22 exists to test exactly this debate — epistemic peers, shared evidence, private evidence — on the clones, and no taxonomy slug covers it."
+  },
+  {
+   "ch": 25,
+   "type": "philosopher",
+   "suggested_slug": "luce-irigaray",
+   "name": "Luce Irigaray",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "French feminist psychoanalytic philosopher who argues the Symbolic Order excludes women, and who rewrites the male philosophical canon through mimicry to open active roles for women as women.",
+   "why": "Chapter 25's positive framework is Irigaray's critique of the Symbolic/Imaginary divide and her rereading of motherhood in Orphan Black, but she is missing from the taxonomy."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "oedipus-complex",
+   "name": "The Oedipus Complex",
+   "philosopher": "freud",
+   "domain": "mind-language-metaphysics",
+   "what": "Freud's account of the child's libidinal attachment to the mother and rivalry with the father (transformed by Lacan into symbolic castration and entry into the Symbolic Order), central to psychosexual development.",
+   "why": "Half of chapter 25 analyzes Coady, Tomas, Rachel, and the Castor clones through the Oedipus complex, in Freud's and Lacan's versions, and no taxonomy slug names it."
+  },
+  {
+   "ch": 26,
+   "type": "philosopher",
+   "suggested_slug": "rosi-braidotti",
+   "name": "Rosi Braidotti",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Contemporary posthumanist feminist philosopher whose work on nomadic subjects and the posthuman condition rethinks the human subject beyond the white male universal of European thought.",
+   "why": "Chapter 26 leans on Braidotti's The Posthuman and Nomadic Subjects to argue that only posthumanism lets a new, inclusive sisterhood return, and she is absent from the taxonomy."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "posthumanism",
+   "name": "Posthumanism",
+   "philosopher": "rosi-braidotti",
+   "domain": "feminism-gender-race",
+   "what": "The view that biotechnology and biogenetic capitalism dissolve the fixed boundaries of the human, turning the body into a mix of organism and technoscience and freeing identity from given nature.",
+   "why": "Chapter 26 frames the clones as posthuman bodies whose condition enables the new sisterhood, and the taxonomy contains no posthumanism slug."
+  },
+  {
+   "ch": 30,
+   "type": "philosopher",
+   "suggested_slug": "galen-strawson",
+   "name": "Galen Strawson",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Philosopher whose Basic Argument holds that because we act from a psychology we did not ultimately choose, no one can be ultimately responsible for what they do.",
+   "why": "Chapter 30's middle section is built on Galen Strawson's Basic Argument, applied to why background-based excuses threaten all clone responsibility, and he is missing from the taxonomy."
+  },
+  {
+   "ch": 30,
+   "type": "philosopher",
+   "suggested_slug": "peter-strawson",
+   "name": "P.F. Strawson",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Philosopher who reframed moral responsibility around the reactive attitudes (resentment, gratitude, pity) we appropriately take toward one another rather than around metaphysical desert.",
+   "why": "Chapter 30's escape from the Basic Argument runs through P.F. Strawson's reactive attitudes — our shifting responses to Helena and Donnie — and he is absent from the taxonomy."
+  },
+  {
+   "ch": 30,
+   "type": "philosopher",
+   "suggested_slug": "john-martin-fischer",
+   "name": "John Martin Fischer",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Leading compatibilist whose account grounds moral responsibility in reasons-responsiveness and guidance control — acting through mechanisms that are responsive to reasons and one's own.",
+   "why": "Chapter 30's final answer to why Helena is exempt while Cosima is responsible is Fischer's two-condition account of reasons-responsiveness and ownership, and he is not in the taxonomy."
+  }
+ ]
+}

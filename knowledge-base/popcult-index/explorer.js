@@ -267,7 +267,7 @@
     }).join('');
     return '<article class="pc-panel">' + crumbs(['Book']) + '<div class="pc-book-head">' + cover(book, false) +
       '<header class="pc-detail-head"><div class="pc-kicker">Book</div><h2>' + e(book.title) + '</h2>' +
-      '<p class="pc-intro">Read the book through its philosophical map. Each chapter links outward to every concept and philosopher it substantively uses.</p>' +
+      '<p class="pc-intro">' + e(book.intro || 'This volume uses its subject as a way into philosophical questions raised by its stories, characters, conflicts, or cultural role.') + '</p>' +
       '<div class="pc-meta">' + book.chapters.length + ' sections · ' + mapped + ' indexed chapters' + (domains.length ? ' · ' + e(domains.join(' · ')) : '') + '</div></header></div>' +
       '<h3 class="pc-section-title">Chapters</h3>' + chapters + '</article>';
   }

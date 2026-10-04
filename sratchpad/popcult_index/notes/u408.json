@@ -1,0 +1,388 @@
+{
+ "book": "285 - Serial Killers – Philosophy for Everyone - Being and Killing",
+ "unit": "u408",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - SERIAL KILLERS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - SERIAL KILLERS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - SERIAL KILLERS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - SERIAL KILLERS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - SERIAL KILLERS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - SERIAL KILLERS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - SERIAL KILLERS.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - SERIAL KILLERS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - SERIAL KILLERS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - SERIAL KILLERS.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre"
+   ],
+   "concepts": [
+    "the-look",
+    "phenomenology",
+    "bad-faith"
+   ],
+   "relation": "Winters reads the Zodiac Killer's taunting letters through Sartre's account of 'the look' from Being and Nothingness. He argues Zodiac's letters function like a snapped twig or a lit window: they make Northern Californians experience themselves as seen objects, hunted 'slaves' and pawns in Zodiac's game rather than free subjects. A phenomenological (first-person) analysis of the fear Zodiac induces, and of how his letters restrict the choices available within our facticity, is offered as superior to psychological or analytic accounts for explaining our fascination with the macabre."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - SERIAL KILLERS.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "will-to-power",
+    "moral-relativism",
+    "ubermensch"
+   ],
+   "relation": "Schmid examines Moors Murderer Ian Brady's book The Gates of Janus, arguing that Brady built a genuine philosophy of serial murder from Sade and Nietzsche rather than merely name-dropping them. He corrects popular caricatures of the ubermensch and will to power, then shows Brady grounds his self-account in moral relativism and reframes serial killing as fundamentally about 'power and the will to power.' Brady's admiration for Carl Panzram and his likeness to the self-justifying, punishment-transcending Sadean hero illustrate how Nietzschean and Sadean ideas actually shape a killer's self-understanding."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - SERIAL KILLERS.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nozick"
+   ],
+   "concepts": [
+    "moral-psychology",
+    "situationism"
+   ],
+   "relation": "Alfano uses the trial of 'Sunset Strip Killer' Doug Clark to argue that situational forces and attribution biases may have swayed his jury regardless of the actual evidence. Drawing on Milgram's obedience study, Zimbardo's prison simulation, Knobe's intentionality vignettes, and Haidt's disgust experiments, he shows how gender bias, pretrial media, and revulsion at Clark's necrophilia could distort judgments of guilt. He closes with Nozick's truth-tracking account of knowledge to press whether a juror who would have convicted anyway can be said to know Clark is guilty."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - SERIAL KILLERS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - SERIAL KILLERS.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-psychology",
+    "moral-relativism"
+   ],
+   "relation": "Howard surveys serial killers from Liu Pengli and Locusta through Gilles de Rais, Bathory, Bichel, Panzram, and modern killers she interviewed (Bobby Joe Long, Shawcross, Milat, Birnie) to illustrate 'practical moral skepticism': the thesis that one can know right from wrong yet feel no motivation to be good. She distinguishes this from epistemic moral skepticism and argues that many killers, often privileged or unconstrained, understood moral codes but were driven instead by power, sadism, fatigue, or anger, showing that a failure of moral motivation is ancient rather than modern."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - SERIAL KILLERS.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-psychology",
+    "free-will-determinism"
+   ],
+   "relation": "Vargas argues that a psychopathic serial killer can be profoundly evil yet not morally responsible. Reviewing the clinical literature (Hare, the moral/conventional rule distinction, the 'mrah'/harm thought experiment), he holds that psychopaths are blind to moral rules and so, since blame requires understanding wrongdoing, cannot be blamed — the appropriate response is quarantine rather than resentment. He then separates evil from responsibility: to be evil is to desire others' harm for its own sake, and such evil, like being a jerk, need not be something one is responsible for, which is why psychopathic killers can be genuinely evil though not blameworthy."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - SERIAL KILLERS.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aristotle",
+    "rawls"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "categorical-imperative",
+    "virtue-ethics",
+    "veil-of-ignorance"
+   ],
+   "relation": "Brophy puts Showtime's Dexter Morgan on 'ethical trial' before the reader-as-jury, applying four tests. Utilitarianism approves because killing killers maximizes happiness (the Ticking Time Bomb analogy); Kant's categorical imperative and even Kant's own endorsement of executing murderers cast Dexter as a 'just executioner' applying a dark golden rule; virtue theory finds Dexter progressing toward moderation and flourishing as a 'warrior' in his social role; and Rawls's veil of ignorance suggests one would consent to Dexter patrolling one's neighborhood. Brophy concludes Dexter is morally excusable, perhaps praiseworthy."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - SERIAL KILLERS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - SERIAL KILLERS.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-psychology",
+    "sartre-freedom"
+   ],
+   "relation": "Dietrich and Hall explain why fictional serial killers (Hannibal, the Joker, Dexter, Grendel) allure us. Curiosity drives us to seek explanations for the mysterious, but the deeper pull comes from 'co-activation' of fear and pleasure inside a 'protective frame' (the screen or page) that strips away empathy for victims. They argue humans are rule-following creatures who must assert selfhood through rule-breaking to secure freedom, so the serial killer becomes an alluring avatar of ultimate freedom — the idea of the killer, safely framed, lets us test how thin the veneer of morality really is, as the Joker taunts."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - SERIAL KILLERS.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "freud",
+    "kant",
+    "mill"
+   ],
+   "concepts": [
+    "bad-faith",
+    "freud-civilization",
+    "utilitarianism",
+    "categorical-imperative"
+   ],
+   "relation": "Amper reads Dexter as a comic-book superhero (orphan origin, secret identity, alien nature, dark side) whose first-person narration makes viewers identify with him. She uses Sartre's waiter and bad faith to analyze Dexter's self-ironic role-playing and denial of his true self, and Freud's id/superego conflict (with Harry's Code channeling the id) to frame his murderous drive as basic human nature. She then tests his killing against Mill's utilitarianism and Kant's categorical imperative, finding the verdict genuinely ambivalent, and concludes the show's 'try your best' ethic reflects a dark view of human nature we cannot feel at peace with."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - SERIAL KILLERS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - SERIAL KILLERS.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "moral-psychology"
+   ],
+   "relation": "The Schechters contrast John Wayne Gacy with Jane Toppan and other female killers (Lydia Sherman, Carol Bundy) to ask what female serial murder reveals about human nature and the nativism/empiricism (nature/nurture) debate. They argue women tend to kill through poisoning and 'lethal nurturing' of intimates rather than phallic-aggressive stranger-murder, so female killers form a 'natural kind' that both violates and grotesquely exaggerates stereotypes of femininity. They conclude that serial killers, male and female, are also a single kind whose ruthlessness and egotism are a monstrous but recognizably human — and partly innate — reflection of our common nature."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - SERIAL KILLERS.md",
+   "kind": "chapter",
+   "philosophers": [
+    "habermas"
+   ],
+   "concepts": [
+    "moral-psychology"
+   ],
+   "relation": "Keegan analyzes Buffalo Bill's line from Silence of the Lambs ('It puts the lotion in the basket') to ask why it repulses us. He argues clinical labels like antisocial personality disorder smuggle in unexamined norms and focus only on behaviors, missing the deep-seated traits behind them, so psychopathy should be distinguished from ASPD. Using Habermas's communicative rationality — grounded in perspective-taking and reciprocity and, via de Waal, in our evolved primate sociality — he contends that psychopaths like Buffalo Bill, Ramirez, and Kemper have lost the communicative capacity underlying empathy, and our revulsion is our own communicative rationality registering that violation."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - SERIAL KILLERS.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-psychology",
+    "trolley-problem"
+   ],
+   "relation": "Terjesen critiques the 'lack of empathy' explanation of serial killing by disentangling empathy into understanding, vicarious feeling, and connection, and showing each either is possessed by killers or leads to circular reasoning (citing Deigh's 'mature empathy' and autism as a counterexample). Real killers like Dahmer, Rader, and 'Angels of Death' such as Cullen and Harvey act from sexual desire, rage, or even excessive empathy, so empathy shapes how they kill (intimate vs. distancing methods, echoing Greene's trolley/footbridge study) rather than whether they kill. He favors Kennett's lack-of-impulse-control and poor risk-assessment account instead."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - SERIAL KILLERS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 26,
+   "file": "ch26 - SERIAL KILLERS.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dennett"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "compatibilism"
+   ],
+   "relation": "Deal compares fictional Dexter Morgan with real killer John Wayne Gacy to explore whether serial killers are morally responsible, working through moral agency, free will, determinism, and Dennett's compatibilism (from Freedom Evolves). He argues moral responsibility requires intentional choice and the capacity to know right from wrong, which the delusional self-narratives of Dexter (the 'Dark Passenger') and the denying Gacy call into question. Drawing on experimental philosophy (Knobe and Nichols) and cognitive 'frames,' he shows our verdicts hinge on emotion: the 'abused child' frame makes Dexter sympathetic while the 'murderous psychopath' frame condemns Gacy, so how a killer's story is framed drives our attribution of responsibility."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - SERIAL KILLERS.md",
+   "kind": "chapter",
+   "philosophers": [
+    "frege",
+    "russell",
+    "nietzsche"
+   ],
+   "concepts": [
+    "sense-reference"
+   ],
+   "relation": "Zirngibl asks why we rename killers with nicknames like 'White Wolf' (a literal predatory wolf) and 'Black Widow' (poisoner Lydia Trueblood), using the philosophy of language. She applies the Fregean/Russellian descriptivist theory of names and the notions of reference, denotation, and a 'second baptism' to show how a nickname distills a person into a short, pejorative set of descriptors that displaces their full identity. Through the substitution and Black's interactionist theories of metaphor, plus Nietzschean anthropomorphism and zoomorphism, she argues serial-killer animal metaphors do reciprocal violence to both the maligned animal and the human, humanizing beasts and dehumanizing killers to assert mastery over them."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - SERIAL KILLERS.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "mill"
+   ],
+   "concepts": [
+    "harm-principle"
+   ],
+   "relation": "Waller interviews two retired California officers (Amarillas and Kos), framing their front-line experience through Aristotle's 'natural philosophy' of theorizing from observation. The conversation raises the killing-versus-letting-die distinction over a neglect case, uses a harm principle to weigh whether rape can be worse than murder, and sets early-twentieth-century verificationism against later philosophy of mind in debating whether serial-killer 'types' (thrill-seeker, mission, power/comfort killers) are meaningful if only behaviors are observable. Kos recounts her own multiple-murderer grandfather, and both officers close by warning how media fiction distorts the public's grasp of real, charming, camouflaged killers."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - SERIAL KILLERS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - SERIAL KILLERS.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "arendt"
+   ],
+   "concepts": [
+    "will-to-power",
+    "banality-of-evil",
+    "ubermensch"
+   ],
+   "relation": "Gray gives a psychological account of Ted Bundy and Dennis Rader (BTK), stressing that serial killers are ordinary-seeming — Arendt's banality of evil — and are psychopaths, not psychotics: rational, remorseless, genetically shaped, unable to learn conditioned fear, and guided by scripted fantasies of domination. He reads their pursuit of control as Nietzsche's will to power, citing Bundy's manipulation of preacher James Dobson and Rader's cold courtroom allocution. But he argues the psychopath is a failed, unnatural predator, not Nietzsche's ubermensch: lacking vision and moral self-discipline, he only masters deceit in service of petty, narrow fantasies."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - SERIAL KILLERS.md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud",
+    "nietzsche",
+    "hume"
+   ],
+   "concepts": [
+    "freud-death-drive",
+    "banality-of-evil"
+   ],
+   "relation": "Piven mounts an 'epistemology of murder,' invoking Hume and Nietzsche to argue that most of what we 'know' about serial killers and terrorists is projected fantasy and prejudice, amplified by fear (Terror Management Theory). Rereading Lord of the Flies and the Milgram studies, he claims violence follows from shame, humiliation, and abuse (Athens's 'violentization') rather than innate evil, and uses Freud's fort-da game and repetition compulsion to argue killers displace their own woundedness and 'soul murder' onto surrogate victims. He controversially links serial killers, who sexualize death and merge with victims, to terrorists who sanctify displaced sexual rage as God's will — a 'serial killer in sheik's clothing.'"
+  },
+  {
+   "n": 32,
+   "file": "ch32 - SERIAL KILLERS.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - SERIAL KILLERS.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - SERIAL KILLERS.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "situationism",
+   "name": "Situationism (attribution bias)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The view from social psychology and philosophy that seemingly trivial situational variables, not stable character, drive human judgment and behavior.",
+   "why": "Alfano's whole argument that Doug Clark's jury was swayed by disgust, gender bias, and media rests on situationism, which the taxonomy's 'moral-psychology' captures only loosely."
+  },
+  {
+   "ch": 15,
+   "type": "concept",
+   "suggested_slug": "practical-moral-skepticism",
+   "name": "Practical Moral Skepticism",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The doctrine that one may fully know what is good yet have no motivating reason to do it, distinct from epistemic doubt about moral knowledge.",
+   "why": "Howard explicitly organizes her historical survey of killers around 'practical moral skepticism' as a thesis about moral motivation, a specific position the taxonomy lacks."
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "communicative-rationality",
+   "name": "Communicative Rationality",
+   "philosopher": "habermas",
+   "domain": "political-social",
+   "what": "Habermas's notion of a reasoning oriented to mutual understanding through perspective-taking and reciprocity, contrasted with instrumental rationality.",
+   "why": "Keegan's entire diagnosis of Buffalo Bill's psychopathy is built on Habermas's communicative rationality as the deep-seated human trait whose loss produces psychopathy, and no taxonomy concept names it."
+  }
+ ]
+}

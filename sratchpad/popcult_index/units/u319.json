@@ -1,0 +1,83 @@
+{
+ "unit": "u319",
+ "book": "221 - The Philosophy of Film Noir",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\221 - The Philosophy of Film Noir",
+ "range": [
+  5,
+  16
+ ],
+ "chapters": [
+  {
+   "n": 5,
+   "file": "ch05 - Foreword.md",
+   "words": 1760
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Acknowledgments.md",
+   "words": 98
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Introduction.md",
+   "words": 1380
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Part 1 The Essence and Elements of Noir.md",
+   "words": 12
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Nietzsche and the Meaning and Definition of Noir.md",
+   "words": 6745
+  },
+  {
+   "n": 10,
+   "file": "ch10 - A Darker Shade Realism in Neo-Noir.md",
+   "words": 7493
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Moral Clarity and Practical Reason in Film Noir.md",
+   "words": 3154
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Cherchez la Femme Fatale The Mother of Film Noir.md",
+   "words": 7800
+  },
+  {
+   "n": 13,
+   "file": "ch13 - From Sherlock Holmes to the Hard-Boiled Detective in Film Noir.md",
+   "words": 7965
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Part 2 Existentialism and Nihilism in Film Noir.md",
+   "words": 12
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Film Noir and the Meaning of Life.md",
+   "words": 5929
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Horizon of Disenchantment Film Noir, Camus, and the Vicissitudes of Descent.md",
+   "words": 6822
+  }
+ ],
+ "content": [
+  5,
+  7,
+  9,
+  10,
+  11,
+  12,
+  13,
+  15,
+  16
+ ]
+}

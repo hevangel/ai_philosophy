@@ -1,0 +1,61 @@
+{
+ "unit": "u420",
+ "book": "303 - Philosophy and the Interpretation of Pop Culture",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\303 - Philosophy and the Interpretation of Pop Culture",
+ "range": [
+  6,
+  13
+ ],
+ "chapters": [
+  {
+   "n": 6,
+   "file": "ch06 - NOTES.md",
+   "words": 6996
+  },
+  {
+   "n": 7,
+   "file": "ch07 - I - PHILOSOPHY AND POPULAR CULTURE.md",
+   "words": 5
+  },
+  {
+   "n": 8,
+   "file": "ch08 - NOTES.md",
+   "words": 8065
+  },
+  {
+   "n": 9,
+   "file": "ch09 - NOTES.md",
+   "words": 8553
+  },
+  {
+   "n": 10,
+   "file": "ch10 - NOTES.md",
+   "words": 9266
+  },
+  {
+   "n": 11,
+   "file": "ch11 - NOTES.md",
+   "words": 11806
+  },
+  {
+   "n": 12,
+   "file": "ch12 - NOTES.md",
+   "words": 5923
+  },
+  {
+   "n": 13,
+   "file": "ch13 - NOTES.md",
+   "words": 10698
+  }
+ ],
+ "content": [
+  6,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ]
+}

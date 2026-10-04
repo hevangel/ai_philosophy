@@ -1,0 +1,143 @@
+{
+ "unit": "u160",
+ "book": "099 - Louis C.K. and Philosophy - You Don't Get to Be Bored",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\099 - Louis C.K. and Philosophy - You Don't Get to Be Bored",
+ "range": [
+  3,
+  25
+ ],
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - ii.md",
+   "words": 978
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "words": 0
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "words": 120
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Dedication.md",
+   "words": 2
+  },
+  {
+   "n": 7,
+   "file": "ch07 - vi.md",
+   "words": 139
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Contents.md",
+   "words": 345
+  },
+  {
+   "n": 9,
+   "file": "ch09 - A Note on \u201cLouis\u201d and \u201cLouie\u201d.md",
+   "words": 135
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The \u201cOther Shit\u201d that Louis C.K. Wanted to Talk About.md",
+   "words": 3004
+  },
+  {
+   "n": 11,
+   "file": "ch11 - I. Everybody Has a Competition in Their Brain.md",
+   "words": 8
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 1. Everything\u2019s Amazing and Nobody\u2019s Happy.md",
+   "words": 2993
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 2. Sex Has Something Behind It.md",
+   "words": 4142
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 3. When to Hate and When to Be Irate.md",
+   "words": 5378
+  },
+  {
+   "n": 15,
+   "file": "ch15 - II. Misery Is Wasted on the Miserable.md",
+   "words": 7
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 4. On Being a Dead Person Who Hasn\u2019t Died Yet.md",
+   "words": 7459
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 5. Just Want a Shitty Body.md",
+   "words": 3767
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 6. You\u2019re Gonna Die.md",
+   "words": 3657
+  },
+  {
+   "n": 19,
+   "file": "ch19 - III. Raising the Grown Up They\u2019re Going to Be.md",
+   "words": 10
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 7. Because Nothing Can\u2019t Be!.md",
+   "words": 4128
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 8. Should Jane Get to Be Bored.md",
+   "words": 4952
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 9. What Fuckin\u2019 Chance Does a Kid Have.md",
+   "words": 4757
+  },
+  {
+   "n": 23,
+   "file": "ch23 - IV. That Knowledge that It\u2019s All for Nothing and You\u2019re Alone.md",
+   "words": 13
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 10. On \u201cCrying Like a Bitch\u201d.md",
+   "words": 3608
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 11. Louis C.K.\u2019s No-Bullshit Philosophy.md",
+   "words": 4719
+  }
+ ],
+ "content": [
+  3,
+  8,
+  10,
+  12,
+  13,
+  14,
+  16,
+  17,
+  18,
+  20,
+  21,
+  22,
+  24,
+  25
+ ]
+}

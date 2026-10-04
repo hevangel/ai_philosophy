@@ -1,0 +1,108 @@
+{
+ "unit": "u181",
+ "book": "116 - 1984 and Philosophy - Is Resistance Futile",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\116 - 1984 and Philosophy - Is Resistance Futile",
+ "range": [
+  25,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 25,
+   "file": "ch25 - 14. The Seduction of Winston Smith.md",
+   "words": 3264
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 15. Happy in Oceania.md",
+   "words": 3437
+  },
+  {
+   "n": 27,
+   "file": "ch27 - III Ignorance Is Strength.md",
+   "words": 4
+  },
+  {
+   "n": 28,
+   "file": "ch28 - 16. Bad Faith and Make-Believe.md",
+   "words": 4533
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 17. Through a Telescreen Darkly.md",
+   "words": 4385
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 18. Thoughtcrime or Feelingcrime.md",
+   "words": 4096
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 19. Nineteen Eighty-Four\u2019s Religion.md",
+   "words": 2471
+  },
+  {
+   "n": 32,
+   "file": "ch32 - 20. Wheat Can Become Rye!.md",
+   "words": 4843
+  },
+  {
+   "n": 33,
+   "file": "ch33 - 21. Controlling Thought through Tweets.md",
+   "words": 3674
+  },
+  {
+   "n": 34,
+   "file": "ch34 - 22. The Irrelevance of Truth.md",
+   "words": 4271
+  },
+  {
+   "n": 35,
+   "file": "ch35 - 23. oldthinkful duckspeak refs opposites rewrite fullwise upsub antefiling.md",
+   "words": 3966
+  },
+  {
+   "n": 36,
+   "file": "ch36 - IV Epilogue.md",
+   "words": 2
+  },
+  {
+   "n": 37,
+   "file": "ch37 - 24. Post-Factual Democracy.md",
+   "words": 4747
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Bibliography.md",
+   "words": 3440
+  },
+  {
+   "n": 39,
+   "file": "ch39 - Unpersons.md",
+   "words": 2317
+  },
+  {
+   "n": 40,
+   "file": "ch40 - Destroy These Words.md",
+   "words": 281
+  }
+ ],
+ "content": [
+  25,
+  26,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  37,
+  38,
+  39,
+  40
+ ]
+}

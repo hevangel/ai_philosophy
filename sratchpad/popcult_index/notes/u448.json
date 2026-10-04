@@ -1,0 +1,166 @@
+{
+ "book": "235 - The Philosophy of TV Noir",
+ "unit": "u448",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Front matter.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Preface and Acknowledgments.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - An Introduction to the Philosophy of TV Noir.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "camus",
+    "kierkegaard",
+    "foucault"
+   ],
+   "concepts": [
+    "existentialism",
+    "moral-relativism",
+    "nihilism",
+    "film-as-philosophy"
+   ],
+   "relation": "Sanders's introduction argues that TV noir is an autonomous art form in which film noir's themes are aufgehoben (Hegel's term: preserved and transcended, not negated), and that noir television dramatizes philosophical questions about alienation, relativism, freedom, and meaning. He surveys the volume's arguments: Fitzgibbons on Naked City's conflation of the normal with the moral, Skoble's counterexample of moral clarity in The Fugitive (Richard Kimble), Lee's morally ambiguous John Drake in Secret Agent, and his own readings of Miami Vice's 'sunshine noir' and Crockett's merger with his undercover persona Sonny Burnett. He frames Part 2 through Sartre and Camus, contrasting their call for engagement and defiance with classic noir's passive doomed protagonists (D.O.A.'s Frank Bigelow, The Prisoner's Number 6), and applies Camus's man of revolt to Jack Bauer in 24. He also raises standing objections: Nagel's ironic alternative to Camus's scorn, the incoherence of 'nothing matters' applied to Tony Soprano, and the Foucault/Lyotard-style postmodern critique of institutional power he finds in Crime Story."
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Part 1 Realism, Relativism, and Moral Ambiguity.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dragnet, Film Noir, and Postwar Realism.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "mimesis"
+   ],
+   "relation": "Palmer argues that Dragnet's famous realism was forged from the noir semidocumentary (The House on 92nd Street, He Walked by Night, with its diabolical killer Roy Martin hunted through the LA sewers) and from the era's taste for Italian neorealism (Open City, The Bicycle Thief, The Men), but that Jack Webb deliberately inverted the noir formula. Where the semidocumentaries split their focus between dedicated police and charismatic monsters, Webb eliminated expressionist stylization and hard-boiled wisecracks to center 'a quiet, dedicated policeman... one little cog in a great enforcement machine.' The chapter details Dragnet's imitative realism as a fidelity to real things: actual case files, LAPD technical advisors, plaster casts of police-station doorknobs, Friday's date-and-time narration, the 'The story you are about to see is true' preamble, and mug-shot endings with sentences read aloud. This yields not noir's fascination with the perverse but a social realism that rhetorically affirms law, institutions, and inevitable conviction, complicating the standard story of 1950s television's aesthetic decline."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Naked City The Relativist Turn in TV Noir.md",
+   "kind": "chapter",
+   "philosophers": [
+    "protagoras",
+    "ruth-benedict"
+   ],
+   "concepts": [
+    "moral-relativism",
+    "sophist-relativism"
+   ],
+   "relation": "Fitzgibbons argues that when The Naked City became the hour-long Naked City in 1960, TV noir underwent a 'relativist turn': episodes like 'Ooftus Goofus,' 'To Walk Like a Lion' (Arnold Platt's sympathetic embezzlement), and 'Memory of a Red Trolley Car' (Professor Johns, who refuses to save his own life) conflate the normal with the moral and leave viewers wondering whether conventionally wrong choices 'might not have been right in some way.' He traces this message to Ruth Benedict's cultural relativism, reconstructs her difference argument (from varying moral codes, as with Protagoras's 'man is the measure') and her conceptual argument (morality as socially approved habits), and shows both are invalid, the latter resting on the false assumption that 'morality' has one real definition. He then presses three objections to cultural relativism, including that its anti-ethnocentrism claim is a disguised absolute moral claim, making the position inconsistent, and that determining cultural membership collapses it into individual relativism, which licenses absurd conclusions like a moral right to rob and kill on Tuesdays."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - John Drake in Greeneland Noir Themes in Secret Agent.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "sartre",
+    "kierkegaard",
+    "graham-greene"
+   ],
+   "concepts": [
+    "bad-faith",
+    "state-of-nature",
+    "nihilism"
+   ],
+   "relation": "Lee argues that Secret Agent belongs to the Graham Greene noir tradition of The Ministry of Fear and The Third Man, not Bond escapism: Drake never kills, carries no gun, and refuses romantic entanglement, because McGoohan prized realism and ethical seriousness. Readings of Greene's Stephen Neale (who killed his wife out of pity) and Harry Lime's Ferris-wheel nihilism establish a world 'void of meaning, haphazard, and morally indifferent,' which Drake's episodes then dramatize: in 'It's Up to the Lady' his superior Hobbs (named, Lee contends, for Thomas Hobbes, whose Leviathan and war of all against all the essay explicates) betrays Drake's promised word and has the defector Charles arrested; in 'That's Two of Us Sorry' Drake unwittingly plays the villain, ruining an innocent Scottish village; in 'Judgement Day' he cannot say what justice for the Nazi scientist Garriga requires. Lee concludes that Drake, like Neale and Martins, acts in Sartrean bad faith by continuing to serve morally bankrupt masters, and that Greene's only exits are a Kierkegaardian leap of faith Drake never makes, or fantasized retirement and death."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Action and Integrity in The Fugitive.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "kant",
+    "plato",
+    "aquinas"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "categorical-imperative",
+    "plato-tripartite-soul"
+   ],
+   "relation": "Skoble challenges the standard view of noir as morally ambiguous, arguing each episode of The Fugitive is a self-contained morality play in which Richard Kimble makes tough decisions by clearly defined standards of right and wrong. He tests ethical frameworks against the episodes: Kant's categorical imperative cannot capture Kimble, who lies in every episode to survive, whereas Aristotle's virtue ethics explains his trained emotional responses, as when he tells the migrant workers in 'Ill Wind' 'For a doctor, every life is worth saving' while saving Lieutenant Gerard from a pitchfork, and again in 'Corner of Hell' from moonshiners. Kimble's integrity, understood as fidelity in action to principles reached through reflection, reconciles his lawbreaking with his morality and, via Plato's account in the Republic of the just person who 'harmonizes the three parts of himself,' constitutes the psychological wholeness that sustains his four-year quest. The essay closes with the finale, where Kimble clears his name, Gerard kills the one-armed man, and Kimble finally walks in sunlight."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Part 2 Existentialism, Nihilism, and the Meaning of Life.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Noir et Blanc in Color Existentialism and Miami Vice.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "kierkegaard",
+    "beauvoir"
+   ],
+   "concepts": [
+    "authenticity",
+    "bad-faith",
+    "the-look",
+    "sartre-freedom"
+   ],
+   "relation": "Sanders reads Miami Vice as existentialist 'sunshine noir,' where color and pastel locations carry noir alienation, and Crockett and Tubbs live rootless lives with shambles of romances and a culturally impoverished compass (Bolt, Buddy Holly, Buffett, Beckett, Betts). The episode 'No Exit' (Bruce Willis as arms dealer Tony Amato, whose wife Rita shoots him at the courthouse steps) is analyzed through Sartre's being-in-itself/being-for-itself conflict and 'hell is other people,' from which Danto says 'there is no exit.' 'Heart of Darkness' presents Ed O'Neill's undercover FBI agent Arthur Lawson, who prefers his Artie Rollins persona and hangs himself after debriefing, as a failure of authenticity and flight into bad faith that Crockett recognizes as his own peril as Sonny Burnett. Crockett's amnesia arc ('Mirror Image' through 'Redemption in Blood' and 'Bad Timing'), where he believes he is Burnett working for the Manolo organization, is resolved through Sartrean existential recognition and a freely chosen dangerous mission that restores his identity, since the Kierkegaardian leap of faith is unavailable in the show's secular world; Sanders also attacks Sartre's sanction of revolutionary violence in his preface to Fanon and Beauvoir's defense of Sade."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 24 and the Existential Man of Revolt.md",
+   "kind": "chapter",
+   "philosophers": [
+    "camus"
+   ],
+   "concepts": [
+    "camus-revolt",
+    "the-absurd"
+   ],
+   "relation": "McMahon argues that 24 is genuine TV noir (crime focus, cynical tone, split screens, the femmes fatale Nina Myers and Sherry Palmer, Jack's heroin addiction as his internal demon) and that Jack Bauer is Camus's man of revolt. She lays out Camus's account of the absurd as the confrontation between our appetite for clarity and the world's unreasonable silence, rejects actual and 'philosophical suicide' as evasions, and maps Jack onto the man of revolt's defining traits: lucidity (his refusal to trust appearances, as when only he suspects President Logan of corruption and murder) and courage (risking nerve-gas exposure at CTU and entering the gas-plant fire). The terrorist threats Jack fights symbolize the absurd because their success, from Palmer's assassination to citywide nerve gas, would annihilate order and meaning themselves; as Camus's 'conqueror,' Jack employs violence reluctantly, without appetite for it, to establish non-violence, accepting a crushing fate without resignation."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 7,
+   "type": "philosopher",
+   "suggested_slug": "graham-greene",
+   "name": "Graham Greene",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "British Catholic novelist whose 'Greeneland' of pity, betrayal, and morally indifferent secular worlds shaped noir fiction and espionage literature, including The Ministry of Fear and The Third Man.",
+   "why": "Chapter 7's entire argument reads Secret Agent through Greene's films and his 'Greeneland' worldview, contrasting Drake with Bond and treating Greene's Catholic escape via a Kierkegaardian leap of faith."
+  },
+  {
+   "ch": 6,
+   "type": "philosopher",
+   "suggested_slug": "ruth-benedict",
+   "name": "Ruth Benedict",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Anthropologist whose 'Anthropology and the Abnormal' (1934) argues that normality and morality are culturally defined, the classic statement of cultural relativism.",
+   "why": "Chapter 6's critique of Naked City's relativist turn is built around reconstructing and refuting Benedict's difference argument and conceptual argument for cultural relativism."
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "unit": "u066",
+ "book": "041 - Stephen Colbert and Philosophy - I Am Philosophy (And So Can You!)",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\041 - Stephen Colbert and Philosophy - I Am Philosophy (And So Can You!)",
+ "range": [
+  2,
+  18
+ ],
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Stephen Colbert and Philosophy.md",
+   "words": 796
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Popular Culture and Philosophy Series Editor George A. Reisch.md",
+   "words": 662
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "words": 0
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "words": 8
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Acknowledgements.md",
+   "words": 202
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Philosophy for Heroes.md",
+   "words": 550
+  },
+  {
+   "n": 8,
+   "file": "ch08 - FIRST SEGMENT - The W\u00d8RD First Principles of Colbertian Philosophy.md",
+   "words": 9
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Where Do We Go from Here.md",
+   "words": 6162
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Explaining Moral Doubt.md",
+   "words": 4020
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Under-Confidence in Reason Once It\u2019s Easier Said, then It\u2019s Done.md",
+   "words": 6499
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Sin, Play, and the \u201cSynagogues of Satan\u201d.md",
+   "words": 4014
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Conclestions.md",
+   "words": 3827
+  },
+  {
+   "n": 14,
+   "file": "ch14 - SECOND SEGMENT - The ThreatDown Truthiness.md",
+   "words": 5
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Wishing and Dogmatism.md",
+   "words": 7546
+  },
+  {
+   "n": 16,
+   "file": "ch16 - It-Getting The Truth about Truthiness.md",
+   "words": 7010
+  },
+  {
+   "n": 17,
+   "file": "ch17 - But Does Political Satire Promote Democratic Values.md",
+   "words": 5319
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Philosophy in the Age of Truthiness.md",
+   "words": 4522
+  }
+ ],
+ "content": [
+  2,
+  3,
+  6,
+  7,
+  9,
+  10,
+  11,
+  12,
+  13,
+  15,
+  16,
+  17,
+  18
+ ]
+}

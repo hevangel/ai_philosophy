@@ -1,0 +1,379 @@
+{
+ "book": "023 - James Bond and Philosophy - Questions Are Forever",
+ "unit": "u033",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - James Bond and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - James Bond and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - James Bond and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - James Bond and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - James Bond and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - James Bond and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - James Bond and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Jacob Held's introduction recounts growing up obsessed with Bond films and contrasts Fleming's Bond (frail, cruel, depressed, an addict who takes stimulants) with the superhuman womanizer of the screen. He argues fans attach to Bond because he embodies our desire for a world where good and evil are clearly defined and good always triumphs, which is why the films flatten the moral ambiguity of the novels. He then maps the book's terrain: misogyny and objectification, Cold War politics and nuclear proliferation, the license to kill and the rule of law, technology, the good life, and existentialism, presenting Bond as an ideal vehicle for provoking reflection on what we believe and why."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - James Bond and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - James Bond and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "kierkegaard",
+    "nietzsche",
+    "camus"
+   ],
+   "concepts": [
+    "being-toward-death",
+    "kierkegaard-stages",
+    "death-of-god",
+    "the-absurd"
+   ],
+   "relation": "Butterfield takes Bond's answer to Elektra in The World Is Not Enough - he survives by 'tak[ing] pleasure in great beauty' - and asks whether hedonism can answer the problem of suffering and death. She reads Bond through Heidegger's being-towards-death (quoting Live and Let Die's 'You start to die the moment you are born'), then diagnoses him as Kierkegaard's aesthetic 'seducer', an immature escapist who dreads boredom and flees commitment, before rehabilitating him with Nietzsche and Camus: Bond flushing the cyanide pill down the toilet in From Russia with Love and Mathis's advice in Casino Royale to make evil 'personal' show Bond creating his own values beyond good and evil, surviving the absurd through style and personal vendetta. Bond emerges as an existentialist role model for courage and creativity, though we should not copy his hedonism or lawlessness."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - James Bond and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "heidegger"
+   ],
+   "concepts": [
+    "plato-tripartite-soul",
+    "philosopher-king",
+    "plato-forms",
+    "being-toward-death"
+   ],
+   "relation": "Getachew maps Plato's Republic archetypes onto the Bond universe: the appetite-ruled Tyrant is Goldfinger, Zorin, Stromberg and the SPECTRE megalomaniacs; the spirit-ruled Guardian is 007, compared to Alcibiades and to Medea's vengeful fury (Bond letting Trevelyan fall 'For me'); and the reason-ruled Philosopher-King is M, whose ideal republic of common children and expendable numbers mirrors MI6's recruitment of orphans and its treatment of Bond as '007', never a person. She then challenges Plato's preference for the eternal Forms and immortality, using Freud on transience and Heidegger's being-toward-death (via Tolstoy's Ivan Ilych) to argue that mortality and risk are what make life worth living. Bond's stylish risk-taking, like the cello-case downhill escape, shows we need a balance between the Guardian and the man of thought."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - James Bond and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "williams",
+    "adorno"
+   ],
+   "concepts": [
+    "meaning-of-life",
+    "moral-psychology"
+   ],
+   "relation": "South reads the famous opening of Thunderball - life as 'a heap of six to four against' - as Fleming's challenge to Western philosophy's promise of a harmonious fit between reason, personal good, and social good. Bond's shame at his hangover and bad bridge (analyzed through Bernard Williams's account of shame as grounding identity) drives him to the Shrublands spa and a new healthy, patient self, but SPECTRE's atomic blackmail and an assassination attempt push him back to scrambled eggs, bacon, and bourbon: 'life's too short.' With Adorno's bleak view that modern societies are implicated in evil (SPECTRE's bureaucratically worded ransom memo, gas chambers built by the same ingenuity as medicine) and Williams's thick ethical concepts, South argues Fleming's Bond shows there is no universal pattern making life meaningful; the spy's work lies outside conventional morality, and the odds of a happy, philosophically vindicated life are six to four against."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - James Bond and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - James Bond and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "merleau-ponty",
+    "husserl",
+    "descartes"
+   ],
+   "concepts": [
+    "embodiment",
+    "phenomenology"
+   ],
+   "relation": "Gibson argues that Bond's meticulous sensory attention - the three-and-a-third-minute boiled egg, the Mouton Rothschild '53, 'shaken, not stirred' - makes him a phenomenologist in Maurice Merleau-Ponty's sense, a thinker whose fleshly style of perception is the very means of his spycraft and his access to the invisible world of plots and dangers. She reads the Casino Royale mirror scene as Merleau-Ponty's 'flesh' and the reversibility of vision, and casts Goldfinger (who shrinks from 'the touch') and Dr. No with his steel pincers as villains doomed by their flight from the carnal world Bond embraces. Against Descartes's mind-body split and Plato's distrust of appearance, Bond's gun is an organic extension of his body rather than a symbol, and his sensual immersion in the world is what lets him see what others cannot."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - James Bond and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "spencer"
+   ],
+   "concepts": [
+    "ubermensch",
+    "will-to-power",
+    "master-slave-morality",
+    "social-darwinism"
+   ],
+   "relation": "Matheson examines the 'master animal' imagery saturating Fleming's novels - Donovan Grant's reptilian physique in From Russia with Love, Blofeld's animal magnetism, villains feeding victims to sharks and crocodiles - as an exercise in Social Darwinism where, as Mr. Big puts it, wolves live by wolf's laws and sheep call them criminals. Using Nietzsche's Übermensch, the blond beast of the Genealogy, and Zarathustra's self-overcoming, she distinguishes Apollonian eaters like M (who curb appetite) from doomed Dionysian gluttons like Giuseppe Petacchi, arguing that Fleming makes dining and will power the test of who counts as an Overman. Bond differs from his megalomaniac foes only in keeping his own will to power and stomach under control, and the chapter closes by warning that Hollywood's romanticizing of the master animal keeps us valuing a brutally primitive masculinity Fleming himself mocked as a 'cardboard booby'."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - James Bond and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "ubermensch",
+    "master-slave-morality",
+    "will-to-power"
+   ],
+   "relation": "Landa argues that Bond's apparent defense of democracy against Übermensch villains is itself profoundly Nietzschean: Bond's exquisite, disciplined hedonism (the Minton-china breakfast, disgust at Mr. Du Pont's 'eating like a pig'), his obsessive competitiveness at baccarat and golf, and his contempt for mass democracy mark him as an aristocratic bourgeois hero in Nietzsche's mold. The gambling scenes enact a Calvinist logic of predestination in which losing at Casino Royale devastates Bond because his very worth depends on winning, and the 'human muck' he defends at Blades turns out to be the exclusive elite. Dr. No, Mr. Big, Drax, and Blofeld are cast as evil, explicit Nietzscheans while Bond serves a good, unspoken Western Nietzscheanism - so the Cold War showdown with Blofeld, who invokes Nietzsche by name, is elitism fighting counterfeit elitism, making Bond 'a secret agent in the service of Nietzscheanism'."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - James Bond and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "socrates",
+    "plato"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "philosophy-of-love",
+    "aristotle-practical-wisdom"
+   ],
+   "relation": "Taliaferro and Le Gall rebut Paul Johnson's 1958 charge that Doctor No combines 'the sadism of a schoolboy bully', adolescent sex longings, and suburban snobbery. They show Bond kills for justice rather than spite (his reluctant assignment against von Hammerstein in 'For Your Eyes Only'), that Colonel Sun repudiates de Sadean torture before dying, and that the disturbing 'semi-rape' passage of The Spy Who Loved Me reflects Vivienne Michel's voice, not Bond's conduct. They read Bond's eros as an ironic use of the medieval courtly-love and Mariology tradition in which sex redeems 'lost women' like Pussy Galore, defend his dress and manners through the ancient heroic tradition (Theseus's fatal neglect of the white sails, Leonidas combing his beard at Thermopylae), and conclude Bond is a chivalric, comic hero - a 'delightful impossibility' in Aristotle's Poetics' sense who embodies Socratic soldierly virtue and Platonic optimism."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - James Bond and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - James Bond and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "deontology",
+    "consequentialism",
+    "applied-ethics"
+   ],
+   "relation": "Tedesco dissects what the double-0 'license to kill' could actually mean, ruling out self-defense and mere on-the-job killing and concluding that Bond is a state-sanctioned assassin who earned his status through two assassinations in Casino Royale. He tests that status against Kant's categorical imperative - persons as ends in themselves, though Kant also defended capital punishment as respecting the murderer's choice - and against consequentialism, which vindicates Bond's elimination of Kananga but stumbles on the surgeon's organ-harvesting dilemma. Because ordinary morality mixes duty-based and consequence-based intuitions, the chapter leaves Bond's moral status genuinely open and links it to live policy debates on assassination and torture after 9/11, including Britain's Intelligence Services Act that leaves room for a real-life double-0 agent."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - James Bond and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke"
+   ],
+   "concepts": [
+    "locke-natural-rights",
+    "social-contract"
+   ],
+   "relation": "Forster stages the dispute between Dr. No ('just a stupid policeman') and Scaramanga ('we are the same') over whether Bond's license to kill betrays the liberal rule of law it protects, connecting it to post-9/11 debates about executive power. He gives the rule of law a substantive ground in Locke's Two Treatises - prerogative power may suspend particular laws for the public good of preserving the community ('salus populi suprema lex'), illustrated by Locke's own career conspiring with Lord Ashley's spy network - and a procedural check in the separation of powers, mirrored in MI6's real parliamentary and judicial oversight. Both elements together, he concludes, let Bond's extra-legal work remain consistent with the rule of law: power exercised for the public good under institutional supervision, without which M's vendetta in 'For Your Eyes Only' would be indistinguishable from Scaramanga's contracts."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - James Bond and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel"
+   ],
+   "concepts": [
+    "punishment-theory",
+    "hegel-recognition",
+    "consequentialism",
+    "kant-respect"
+   ],
+   "relation": "Held argues that our pleasure in Bond's kill-then-quip routine - 'Shocking' after electrocuting a henchman in Goldfinger, tossing Killifer to the sharks that ate Felix with 'You earned it, you keep it' - reveals tacit retributive and deterrent theories of punishment that place villains outside the moral community. Using the distinction between mere humiliation (deflating Dr. No's pretense: 'Minnows pretending they're whales') and Humiliation that denies common humanity, he shows Bond dehumanizes disfigured, 'othered' villains, even as the novels present them as disenfranchised figures - Dr. No rejecting his father's name, Mr. Big demanding recognition as the first great black criminal - whose rage is a warped demand for Hegelian mutual recognition. He proposes instead Jean Hampton's moral education theory, which treats criminals as moral agents capable of reform, concluding with Jaws's redemption in Moonraker as proof that no one is beyond it."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - James Bond and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - James Bond and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "peirce"
+   ],
+   "concepts": [
+    "pragmatism",
+    "abduction"
+   ],
+   "relation": "Abrams explains Peirce's three modes of inference (deduction proves, induction shows, abduction merely suggests) and reconstructs, abduction by abduction, Bond's rapid chain of guesses in The World Is Not Enough: from the odd smell and foam on his fingers to the urea-coated fertilizer bomb he unknowingly delivered, the shared motto 'there's no point living if you can't feel alive' exposing Elektra's alliance with Renard, and her guilty subject-changing. He also covers the negative art: Bond plants false clues with Q's gadgets (the fingerprint re-printer, the cloaked Vanquish) while villains like Carver recode reality by sinking the Devonshire to frame the Chinese, and both sides try to force each other into false abductions. Bond wins because his mind is more playful - Peirce's 'musement', Eco's creative abduction, and an encyclopedic education - making 007 the superior player in what is ultimately a game of chance and strategy."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - James Bond and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger"
+   ],
+   "concepts": [
+    "heidegger-technology"
+   ],
+   "relation": "Zani reads the Q-branch scene through Heidegger's 'The Question Concerning Technology': technology as technê, a revealing and bringing-forth that turns dangerous when it reduces the world to standing-reserve and turns people into stockpilists, as with Goldfinger, who kills Jill Masterson over gold and cannot let anything he does not own exist. Bond's villains (Drax declaring 'What he doesn't own he doesn't want' before shooting pheasants for sport; Grant's garrote watch) use technology as domination and amusement, whereas Bond uses it defensively and refuses to be owned by it - hurling the ATAC off the cliff with 'That's détente' and preferring the lighter to the match 'until they go wrong'. The repeated match-and-lighter password exchange in From Russia with Love encapsulates the films' Heideggerian moral: a free relation to technology that uses tools when needed and lets them recede, rather than becoming what one controls."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - James Bond and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "dewey",
+    "kant"
+   ],
+   "concepts": [
+    "heidegger-technology",
+    "kant-humanity-formula"
+   ],
+   "relation": "McKinney argues that '007' is a technological construction distinct from the human James Bond: drawing on Dewey's broad view of technology as technique (the shaken martini as technological artifact), Heidegger's account of naming as revealing and enframing, and Don Ihde's technological embodiment (the party-game hand axe that is art, paperweight, or tool depending on perception). Film dialogue shows the naming at work: Moneypenny calls him 'James' but announces '007 is here' to M; Goldfinger greets '007' and is corrected with 'My name is James Bond'; M threatens '008 can replace you' and, in Die Another Day, declares 'You are no use to anyone now' while rescinding his status. The chapter closes with the Kantian point that persons must be treated as ends in themselves, yet the designation '007' constitutes Bond as precisely a replaceable means to MI6's ends."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - James Bond and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - James Bond and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "mill",
+    "aristotle",
+    "mackinnon"
+   ],
+   "concepts": [
+    "objectification",
+    "kant-humanity-formula",
+    "male-gaze",
+    "aristotle-golden-mean"
+   ],
+   "relation": "Arp and Decker examine Bond's objectification of women - using a dancing girl as a human shield in the Goldfinger pre-credits sequence, M ordering Bond to 'pump her for information' - through three moral theories. Kant's humanity formula condemns treating women as sexual tools, but Kantian autonomy generates a stalemate since consensual, reciprocal liaisons like Bond and Anya Amasova's might qualify as permissible; Millian utilitarianism condemns the male gaze by its long-term social costs yet stalls against pro-sex feminist counterarguments. They settle on Aristotelian virtue ethics - the mean between extremes, with respect as the key virtue against the power-centered virtue of Machiavelli, Hobbes, and Nietzsche - to argue objectification is vicious, and they trace Bond's moral progress from skipping the young Bibi in For Your Eyes Only to the reciprocal relationships with Kara Milovy, Pam Bouvier, Wai Lin, and Jinx."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - James Bond and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume"
+   ],
+   "concepts": [
+    "yin-yang",
+    "hume-is-ought"
+   ],
+   "relation": "Kowalski explains yin-yang cosmology through the Yi Ching and Shu Ching - opposing forces in dynamic harmony, each containing the seed of its opposite, with excess of either bringing destruction - and applies it to the Brosnan-era films, reading Bond himself as the yang force of action. The films improved, he argues, by strengthening yin: Wai Lin as Bond's equal partner in the handcuffed motorcycle chase of Tomorrow Never Dies (each watching the road the other cannot see), Judi Dench's M as the corrective to Admiral Roebuck's hawkish yang ('the advantage is that I don't always have to think with them'), and Elektra King as a genuine yin villainess rather than a damsel. He ends with a Humean caveat that deriving moral conclusions from the natural order is logically suspect, yet endorses the cosmology's practical advice - balance and harmony between opposing forces - as the reason the new millennium Bond films are better."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - James Bond and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - James Bond and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - James Bond and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - James Bond and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 21,
+   "type": "philosopher",
+   "suggested_slug": "montesquieu",
+   "name": "Baron de Montesquieu",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "French Enlightenment political philosopher whose The Spirit of the Laws (1748) argues that political liberty requires separating legislative, executive, and judicial powers so that power checks power.",
+   "why": "Chapter 21's entire procedural answer to Bond's license to kill rests on Montesquieu's separation-of-powers doctrine as the check against abuse of executive power, and he is absent from the taxonomy."
+  },
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "abduction",
+   "name": "Abduction (inference to the best explanation)",
+   "philosopher": "peirce",
+   "domain": "pragmatism-american",
+   "what": "Peirce's third mode of inference, alongside deduction and induction: reasoning from a surprising observation to the hypothesis that would best explain it - the logic of guessing and of detective work.",
+   "why": "Chapter 24's whole argument is that Bond's detective genius is Peirce's logic of abduction (including false and creative abductions and musement), and no existing taxonomy slug names the concept."
+  }
+ ]
+}

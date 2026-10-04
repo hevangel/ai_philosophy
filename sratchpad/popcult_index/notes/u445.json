@@ -1,0 +1,333 @@
+{
+ "book": "194 - Taylor Swift and Philosophy - Essays from the Tortured Philosophers Department",
+ "unit": "u445",
+ "chapters": [
+  {
+   "n": 18,
+   "file": "ch18 - I Remember It All Too Well Memory, Nostalgia, and the Archival Art of Taylor Swift.md",
+   "kind": "chapter",
+   "philosophers": [
+    "derrida",
+    "foucault"
+   ],
+   "concepts": [
+    "power-knowledge",
+    "narrative-identity",
+    "archive-fever"
+   ],
+   "relation": "Reads Swift's songwriting as 'archival art' through Derrida's Archive Fever and Ricoeur's archival trace: songs like 'marjorie' (with her grandmother's actual backing vocals), 'august', and 'All Too Well (10 Minute Version)' preserve traces of what is gone while re-creating, not merely capturing, memory. With Foucault's power/knowledge it argues that controlling the archive means controlling the stories told about oneself, citing 'Dear John (Taylor's Version)' and the Speak Now rerecording as acts of reclaiming power through speech. Stuart Hall's 'living archive' frames the rerecordings as memory continually remade, and Derrida/Halbwachs ground the claim that her music is a public site of collective memory where fans archive their own lives, as in 'mirrorball' and the Eras Tour."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Taylor's Version Rerecording, Narrative, and Self-Interpretation.md",
+   "kind": "chapter",
+   "philosophers": [
+    "charles-taylor",
+    "paul-ricoeur"
+   ],
+   "concepts": [
+    "narrative-identity"
+   ],
+   "relation": "Argues that the rerecording project succeeded because Swift masters narrative identity: using Ricoeur's tension between sameness and otherness (taxonomy lacks Ricoeur), it shows how the mountain of old Taylors in the 'Look What You Made Me Do' video and the near-identical rerecordings keep past selves in one coherent story. Charles Taylor's self-interpreting animals explains why hearing her songs is self-interpretation for fans, while Cavarero's 'narratable self' and the vault tracks show her story is never complete. Deliberate changes like the rewritten 'Better Than Revenge (Taylor's Version)' and the lost shaky breath in 'Last Kiss (Taylor's Version)' illustrate Velleman's point that narrative is felt, and that retelling can mark moral growth without erasing the past."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Part IV With My Calamitous Love and Insurmountable Grief.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Taylor Swift on the Values and Vulnerability of Love.md",
+   "kind": "chapter",
+   "philosophers": [
+    "frankfurt",
+    "iris-murdoch"
+   ],
+   "concepts": [
+    "philosophy-of-love"
+   ],
+   "relation": "Uses 'hoax' to ask why we cling to love even when it harms us, answering with three values of love drawn from Swift's catalogue: Frankfurt's selfless devotion in 'I'm Only Me When I'm With You' and 'illicit affairs' ('For you, I would ruin myself'), Velleman and Iris Murdoch's loving attention that sees value in a lover's gap-toothed smile in 'Ours', and Vida Yao's escape from alienation in 'Sweet Nothing' and 'Dress'. Benjamin Bagley's 'mutual improvisation' explains why losing a lover means losing a secret language and color palette in 'illicit affairs' and 'Question...?', and why 'cardigan' needs Dessner while 'mirrorball' needs Antonoff. The chapter concludes that what makes love valuable also makes us vulnerable to the lover who 'knew the password', which is why 'hoax' is haunting yet hopeful."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Every Scrap of You Would Be Taken from Me Taylor Swift on Grief.md",
+   "kind": "chapter",
+   "philosophers": [
+    "michael-cholbi"
+   ],
+   "concepts": [
+    "philosophy-of-grief"
+   ],
+   "relation": "Applies Michael Cholbi's philosophy of grief to 'marjorie', 'Bigger Than the Whole Sky', and 'epiphany': grieving transforms rather than ends our relationship with the dead, rebuilding a practical identity rocked by loss, and yields self-knowledge about who mattered to us. It reads 'marjorie' as a successful post-grief song, treats 'Bigger Than the Whole Sky' (widely heard as about miscarriage) via Bortolotti on the value of delusions and confabulatory 'mythmaking' in early grief, and weighs the risk that false beliefs undermine grief's self-knowledge. 'epiphany' models collective grief, linking WWII and COVID-19, and the chapter extends Cholbi's framework to a shared 'collective practical identity' shattered by pandemic loss."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - What a Shame She Went Mad Anger, Affective Injustice, and Taylor Swift.md",
+   "kind": "chapter",
+   "philosophers": [
+    "frye"
+   ],
+   "concepts": [
+    "epistemic-injustice",
+    "affective-injustice"
+   ],
+   "relation": "Argues that 'mad woman' dramatizes 'affective injustice' (Whitney and Srinivasan): a woman's righteous anger is misread as Madness with a capital M, so her emotions get the wrong reception, snowballing into toxicity as she 'gets more crazy' each time she is called crazy. Srinivasan's version supplies the double bind of swallowing anger or being dismissed, while Macalester Bell grounds the claim that she 'should be mad' and Dotson's silencing explains why 'no one likes a mad woman'. Against treating affective injustice as a mere symptom of sexism, the chapter uses Marilyn Frye's structural account of sex-marking to argue the Mad woman stereotype is constitutive of sexism itself, with Swift reclaiming the slur like disability activists reclaiming 'crip'."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - I'm Fine with My Spite The Philosophy of Female Anger in the Work of Taylor Swift.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "audre-lorde",
+    "mill"
+   ],
+   "concepts": [
+    "moral-psychology",
+    "intersectionality",
+    "philosophy-of-anger"
+   ],
+   "relation": "Builds a philosophy of female anger from Aristotle's definition of anger (response to perceived injustice, desire for payback, pleasure in pain), applied to the 2016 Grammy call-out of Kanye and 'Vigilante Shit', and Agnes Callard's problem of eternal anger, which Swift answers in 'I Forgot That You Existed' by moving on without forgiving. Mill's Subjection of Women frames why femininity is constructed as incompatible with anger, and the chapter inventories Swift's 'Glitter Gel Pen Anger' ('Karma', 'Bejeweled') as walking away that renders the wrongdoer beneath contempt. Audre Lorde's 'Uses of Anger' closes the chapter: anger has conative and epistemic value against racist and sexist oppression, which also measures Swift's own limits around race."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Part V I Should've Known - Taylor Swift's Philosophy of Knowledge.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Summer Love or Just a Summer Thing Feminist Standpoint Epistemology.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "epistemic-injustice",
+    "standpoint-epistemology"
+   ],
+   "relation": "Uses the folklore love triangle ('betty', 'cardigan', 'august') to argue for feminist standpoint epistemology against Ernest Nagel's 'view from nowhere': only by inhabiting each character's emotionally charged standpoint, above all Augustine's in 'august', do we escape the biased 'other woman' script and reach a fuller objectivity. Susan Stebbing and Michael Brady support the claim that emotion aids rather than corrupts knowledge, and the 'mad woman' lyric shows how women's emotion-laden beliefs get dismissed as hysteria. The chapter answers the 'barriers to knowledge' objection by arguing empathy expands, but never escapes, the limits of one's social location, so 'when you are young they assume you know nothing' is a bias to be unlearned."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Trouble with Knowing You Were Trouble.md",
+   "kind": "chapter",
+   "philosophers": [
+    "fricker"
+   ],
+   "concepts": [
+    "epistemic-injustice"
+   ],
+   "relation": "Tests three readings of 'I knew you were trouble when you walked in': a stereotyping first-impression claim that fails as knowledge (via the racist-barista thought experiment and Finnis's 'achievement-word' point), a self-knowledge claim that risks Srinivasan's 'faux-feminism' in 'Blank Space' and 'The Man', and finally a justified claim of socially trained 'women's intuition' based on body language. Using Tommie Shelby's account of when beliefs are oppressive, it distinguishes Swift's inference from racist profiling, and Miranda Fricker's epistemic injustice explains how 'mad woman' and 'Nothing New' show women's testimony discounted. The upshot: knowledge is context-specific, and dismissing what marginalized people 'know when you walk in' gaslights their experience."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - I Knew Everything When I Was Young Examining the Wisdom of Youth.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "plato",
+    "nozick",
+    "socrates"
+   ],
+   "concepts": [
+    "aristotle-practical-wisdom",
+    "socratic-ignorance",
+    "epistemic-injustice"
+   ],
+   "relation": "Weighs Betty's 'I knew everything when I was young' against James's 'I don't know anything' using Aristotle's theoretical versus practical wisdom and Nozick's criteria, finding Betty wise: she knows what matters ('To kiss in cars and downtown bars'), the means ('Chase two girls lose the one'), the long view, and how to handle the dilemma of forgiving James. Plato's Meno recollection doctrine and 'seven' ('Before I learned civility I used to scream ferociously') support the claim that the young can possess moral clarity adults lose. James's apology shows wisdom in action (Kekes) and Socratic intellectual humility, while 'tolerate it', 'Dear John', and All Too Well's dinner-party scene illustrate Spear on gaslighting via presumed epistemic superiority of older men."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - How Do We Know What Taylor Swift Is Feeling.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "husserl",
+    "edith-stein"
+   ],
+   "concepts": [
+    "problem-of-other-minds",
+    "phenomenology"
+   ],
+   "relation": "Asks how Swifties can know what Taylor feels, starting from Descartes' methodic doubt and answering with Edith Stein's phenomenology of empathy (taxonomy lacks Stein): we perceive others' emotions in blushing faces and stormy glares as in 'Would've, Could've, Should've', 'Afterglow', and 'You're Losing Me'. Against Lipps's inner-imitation account, Stein distinguishes empathy from sympathy and oneness, read through 'Long Live (Taylor's Version)' and the Speak Now Tour. R.K. Elliott's expression theory extends this to 'artistic empathy' for songs like 'Ronan' and 'Clean', while conceding limits: since 'betty' is written from a seventeen-year-old boy's perspective, fans know Taylor's expressed feelings, not her biography."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Part VI Back to December - Fate, Memory, and Imagination.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - A Real Lasting Legacy Memory, Imagination, and Taylor Swift.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "narrative-identity",
+    "personal-identity"
+   ],
+   "relation": "Uses Swift's songs to sort episodic, procedural, and semantic memory ('Christmas Tree Farm', guitar-playing, her December 13 birthday) and argues episodic memory underwrites both narrative identity (Schechtman), heard in 'The Moment I Knew' and being 'paralyzed' in 'All Too Well', and Lockean personal identity, where 'Hold on to the memories / They will hold on to you' makes memories constitutive of the person who survives over time. Locke's forensic person is invoked to connect memory with responsibility, so 'Would've, Could've, Should've' makes memories 'weapons' that force us to own past actions. The chapter then tests 'continuism' (memory as a kind of imagination, observer vs field memories) against the fact that Swift remembers a particular Christmas tree farm that caused her memory."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Stained Glass Windows in My Mind Modality in the Imagery of Taylor Swift.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis",
+    "kripke",
+    "kierkegaard",
+    "heidegger",
+    "aristotle"
+   ],
+   "concepts": [
+    "possible-worlds",
+    "kierkegaard-anxiety",
+    "authenticity",
+    "catharsis"
+   ],
+   "relation": "Reads Swift's imagery as modal logic: David Lewis's counterfactuals distinguish indicative from counterfactual conditionals in 'the 1', Kripke's rigid designators show that 'If I was a man / Then I'd be the man' posits an impossible world (a man could not be Taylor Swift), while 'Would've, Could've, Should've' assigns the counterfactual's antecedent to the perpetrator, not the young narrator. Kierkegaard's 'dizziness of freedom' and despair, with Heidegger's authenticity and das Man, frame counterfactual dwelling as both celebrity performance ('mirrorball') and a route to ownedness, with 'right where you left me' as the delusional extreme and 'it's time to go' as the release. Aristotle's catharsis explains how engaging these might-have-beens in song purges regret for listeners."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Take Me to the Lakes Transcendentalism and Ecology in Taylor Swift's folklore.md",
+   "kind": "chapter",
+   "philosophers": [
+    "thoreau",
+    "emerson"
+   ],
+   "concepts": [
+    "transcendentalism",
+    "thoreau-walden",
+    "wilderness-ethics"
+   ],
+   "relation": "Reads folklore as American Transcendentalist: like Thoreau at Walden and on Mt. Katahdin, Swift's escape into the woods of 'the lakes', 'seven', and 'the last great american dynasty' dissolves the divide between body and nature and reveals a fundamental oneness linking Rebekah Harkness, her grandfather in 'epiphany', and the High Line. Against the anti-social reading of Thoreau, the chapter argues, with Emerson's return to society after 'Nature', that Swift's escapism is not selfish retreat: she hands the stories back ('Now it's up to you to pass them down'), so leaving society heals alienation and rebuilds connection, including her anxiety that fame makes her 'nothing new' answered by the endurance of folk songs."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Wildest Dreams Stoic Fate and Acceptance (Taylor's Version).md",
+   "kind": "chapter",
+   "philosophers": [
+    "epictetus",
+    "cicero",
+    "seneca"
+   ],
+   "concepts": [
+    "stoicism",
+    "dichotomy-of-control",
+    "free-will-determinism"
+   ],
+   "relation": "Argues Swift is a Stoic about fate: Epictetus's warning against handing your mind to anyone who attacks you explains 'I Forgot That You Existed' as reaching the Stoic ideal of indifference, and Cicero's physical, non-supernatural causation makes the 'Getaway Car' meeting fated by the couple's pasts rather than by stars. The determinism of 'Treacherous' ('I can't decide if it's a choice / Getting swept away') is balanced by the open future of 'Blank Space', while the responsibility objection to Stoic fate is met by Epictetus's 'it is not things that disturb men but their judgments', enacted in 'Shake It Off' and the cleansing acceptance of 'Clean' and 'Wildest Dreams'."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Mythic Motifs in The Tortured Poets Department The Story Isn't Mine Anymore.md",
+   "kind": "chapter",
+   "philosophers": [
+    "roland-barthes"
+   ],
+   "concepts": [
+    "death-of-the-author"
+   ],
+   "relation": "Traces how The Tortured Poets Department modernizes folkloric motifs: 'The Black Dog' recasts the English/Celtic spectral hound (Black Shuck, Moddey Dhoo) and its depression metaphor, 'Cassandra' retells the disbelieved prophetess for someone vilified for telling the truth early, 'The Albatross' reverses Coleridge's Rime of the Ancient Mariner from curse back to good omen, and 'The Prophecy' plays the folklore trope of inescapable fate against Eve's inherited curse. Barthes's death of the author names the upshot: by switching narrative person and ending on 'the story isn't mine anymore', Swift becomes a modern Homer who hands her autobiography to fans as collectively owned folklore, sincere even alongside her fight to own her masters."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Indexes.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "archive-fever",
+   "name": "Archive Fever (le mal d'archive)",
+   "philosopher": "derrida",
+   "domain": "political-social",
+   "what": "Derrida's account of the compulsive desire to collect, organize, and conserve records against forgetting, with the archive as a living, never-finished site where remembering always entails forgetting.",
+   "why": "Chapter 18's entire framework is the 'archival art' of Swift's songwriting, read through Derrida's Archive Fever, Ricoeur's archival trace, Stuart Hall's living archive, and Halbwachs's collective memory, none of which taxonomy's existing slugs cover."
+  },
+  {
+   "ch": 19,
+   "type": "philosopher",
+   "suggested_slug": "paul-ricoeur",
+   "name": "Paul Ricoeur",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "French philosopher whose Oneself as Another grounds narrative identity in the tension between sameness (idem) and selfhood (ipse), making self-understanding interpretive.",
+   "why": "Chapter 19's core argument that Swift's rerecordings succeed through narrative identity is built directly on Ricoeur, and chapter 18 also uses his 'archival trace', yet he is absent from the taxonomy."
+  },
+  {
+   "ch": 22,
+   "type": "philosopher",
+   "suggested_slug": "michael-cholbi",
+   "name": "Michael Cholbi",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Contemporary philosopher of grief who argues grieving transforms rather than ends our relationship with the dead, as reconstruction of the griever's practical identity yielding self-knowledge.",
+   "why": "Chapter 22's analysis of 'marjorie', 'Bigger Than the Whole Sky', and 'epiphany' is explicitly organized around Cholbi's Grief: A Philosophical Guide, including the collective-grief extension."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "philosophy-of-grief",
+   "name": "Philosophy of Grief",
+   "philosopher": "michael-cholbi",
+   "domain": "ethics-moral-psychology",
+   "what": "The philosophical study of grief as a transformed continuing relation to the deceased, a process of rebuilding practical identity, and a source of self-knowledge, extended to collective grief.",
+   "why": "Chapter 22 is devoted to grief, and taxonomy has no grief concept (its emotion entries cover anger, humor, and love but not mourning)."
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "affective-injustice",
+   "name": "Affective Injustice",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Injustice done to someone in their capacity as an affective being (Whitney, Srinivasan): emotions denied proper uptake, or a forced choice between apt emotional responses to injustice and bettering one's situation.",
+   "why": "Chapter 23 argues 'mad woman' depicts the transformation of women's anger into Madness as affective injustice, a concept adjacent to but distinct from Fricker's epistemic injustice."
+  },
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "philosophy-of-anger",
+   "name": "Philosophy of Anger",
+   "philosopher": "aristotle",
+   "domain": "ethics-moral-psychology",
+   "what": "The theory of anger as a painful, pleasure-bearing response to perceived injustice carrying a desire for revenge (Aristotle's Rhetoric), including problems like Callard's eternal anger and the gendered politics of whose anger is permitted.",
+   "why": "Chapter 24 builds its account of female anger and 'Glitter Gel Pen Anger' on Aristotle's definition of anger and Agnes Callard's problem of eternal anger, which taxonomy lacks (ressentiment is a different concept)."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "standpoint-epistemology",
+   "name": "Feminist Standpoint Epistemology",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "The view that knowledge is socially situated: one's social location shapes what one can know, and perspectives of marginalized groups can reveal truths masked by supposedly neutral 'objective' standpoints (Harding, Haslanger).",
+   "why": "Chapter 26's title and entire framework apply standpoint epistemology to the folklore love triangle, and no existing taxonomy slug covers situated knowledge or standpoint theory."
+  },
+  {
+   "ch": 29,
+   "type": "philosopher",
+   "suggested_slug": "edith-stein",
+   "name": "Edith Stein",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "Husserl's student and phenomenologist whose On the Problem of Empathy defines empathy as the perception of foreign subjects' experience, distinct from sympathy and inner imitation.",
+   "why": "Chapter 29's answer to how we know what Taylor Swift feels is built on Stein's empathy (against Lipps), making her the chapter's central philosopher though she is absent from the taxonomy."
+  }
+ ]
+}

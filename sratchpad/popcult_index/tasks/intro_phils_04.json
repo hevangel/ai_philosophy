@@ -1,0 +1,1408 @@
+[
+ {
+  "slug": "anscombe",
+  "name": "Elizabeth Anscombe",
+  "dates": "1919–2001",
+  "domain": "ethics-moral-psychology",
+  "concepts": [
+   {
+    "n": "Moral Psychology (character, vice, weakness of will)",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "The Argument from Reason",
+    "p": "cs-lewis",
+    "dom": "religion-meaning"
+   },
+   {
+    "n": "Fate and Foreknowledge",
+    "p": "",
+    "dom": "religion-meaning"
+   },
+   {
+    "n": "The Consolation of Philosophy",
+    "p": "boethius",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Free Will vs Determinism",
+    "p": "",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Doctrine of Double Effect",
+    "p": "aquinas",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Second-Order Desires (personhood)",
+    "p": "frankfurt",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Faith and Reason",
+    "p": "",
+    "dom": "religion-meaning"
+   },
+   {
+    "n": "The Absurd",
+    "p": "camus",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "Amor Fati (love of fate)",
+    "p": "nietzsche",
+    "dom": "nineteenth-century"
+   }
+  ],
+  "n_chapters": 9
+ },
+ {
+  "slug": "bacon",
+  "name": "Francis Bacon",
+  "dates": "1561–1626",
+  "domain": "knowledge-science-reality",
+  "concepts": [
+   {
+    "n": "The Four Causes",
+    "p": "aristotle",
+    "dom": "ancient"
+   },
+   {
+    "n": "The Aura of the Artwork",
+    "p": "benjamin",
+    "dom": "political-social"
+   },
+   {
+    "n": "Aristotle on the Soul",
+    "p": "aristotle",
+    "dom": "ancient"
+   },
+   {
+    "n": "The Open Society",
+    "p": "popper",
+    "dom": "knowledge-science-reality"
+   },
+   {
+    "n": "On Bullshit",
+    "p": "frankfurt",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Existential Risk",
+    "p": "bostrom",
+    "dom": "knowledge-science-reality"
+   },
+   {
+    "n": "Applied Ethics (bioethics, technology, AI)",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Ockham's Razor",
+    "p": "ockham",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "The Question Concerning Technology",
+    "p": "heidegger",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "The Face of the Other",
+    "p": "levinas",
+    "dom": "existentialism-phenomenology"
+   }
+  ],
+  "n_chapters": 15
+ },
+ {
+  "slug": "benjamin",
+  "name": "Walter Benjamin",
+  "dates": "1892–1940",
+  "domain": "political-social",
+  "concepts": [
+   {
+    "n": "The Aura of the Artwork",
+    "p": "benjamin",
+    "dom": "political-social"
+   },
+   {
+    "n": "The Culture Industry",
+    "p": "adorno",
+    "dom": "political-social"
+   },
+   {
+    "n": "Class Struggle",
+    "p": "marx",
+    "dom": "nineteenth-century"
+   },
+   {
+    "n": "Simulacra and Simulation (the hyperreal)",
+    "p": "baudrillard",
+    "dom": "political-social"
+   },
+   {
+    "n": "Alienation",
+    "p": "marx",
+    "dom": "nineteenth-century"
+   },
+   {
+    "n": "Authenticity",
+    "p": "heidegger",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "Commodity Fetishism",
+    "p": "marx",
+    "dom": "nineteenth-century"
+   },
+   {
+    "n": "The Apollonian and the Dionysian",
+    "p": "nietzsche",
+    "dom": "nineteenth-century"
+   },
+   {
+    "n": "Allegory of the Cave",
+    "p": "plato",
+    "dom": "ancient"
+   },
+   {
+    "n": "Atomism",
+    "p": "democritus",
+    "dom": "ancient"
+   }
+  ],
+  "n_chapters": 40
+ },
+ {
+  "slug": "bourdieu",
+  "name": "Pierre Bourdieu",
+  "dates": "",
+  "domain": "political-social",
+  "concepts": [
+   {
+    "n": "Feminism",
+    "p": "",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Humanity as an End in Itself",
+    "p": "kant",
+    "dom": "kant-german-idealism"
+   },
+   {
+    "n": "Commodity Fetishism",
+    "p": "marx",
+    "dom": "nineteenth-century"
+   },
+   {
+    "n": "Moral Relativism",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Cultural Hegemony",
+    "p": "gramsci",
+    "dom": "political-social"
+   },
+   {
+    "n": "Ideology and False Consciousness",
+    "p": "marx",
+    "dom": "nineteenth-century"
+   },
+   {
+    "n": "Binary Oppositions",
+    "p": "derrida",
+    "dom": "political-social"
+   },
+   {
+    "n": "Woman as the Other",
+    "p": "beauvoir",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "Allegory of the Cave",
+    "p": "plato",
+    "dom": "ancient"
+   },
+   {
+    "n": "Man Is the Measure (sophistic relativism)",
+    "p": "protagoras",
+    "dom": "ancient"
+   }
+  ],
+  "n_chapters": 5
+ },
+ {
+  "slug": "buber",
+  "name": "Martin Buber",
+  "dates": "1878–1965",
+  "domain": "religion-meaning",
+  "concepts": [
+   {
+    "n": "I–Thou Relation",
+    "p": "buber",
+    "dom": "religion-meaning"
+   },
+   {
+    "n": "Bad Faith",
+    "p": "sartre",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "Personal Identity",
+    "p": "",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Authenticity",
+    "p": "heidegger",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "Caring as the Ground of Ethics",
+    "p": "noddings",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Philosophy of Love",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "The Banality of Evil",
+    "p": "arendt",
+    "dom": "political-social"
+   },
+   {
+    "n": "The Leap of Faith",
+    "p": "kierkegaard",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "The Ethics of Care",
+    "p": "gilligan",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "The Look (hell is other people)",
+    "p": "sartre",
+    "dom": "existentialism-phenomenology"
+   }
+  ],
+  "n_chapters": 22
+ },
+ {
+  "slug": "butler",
+  "name": "Judith Butler",
+  "dates": "b. 1956",
+  "domain": "feminism-gender-race",
+  "concepts": [
+   {
+    "n": "Gender Performativity",
+    "p": "butler",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Heteronormativity",
+    "p": "butler",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Feminism",
+    "p": "",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Objectification",
+    "p": "",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "One Is Not Born a Woman",
+    "p": "beauvoir",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "Woman as the Other",
+    "p": "beauvoir",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "Simulacra and Simulation (the hyperreal)",
+    "p": "baudrillard",
+    "dom": "political-social"
+   },
+   {
+    "n": "The Look (hell is other people)",
+    "p": "sartre",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "Authenticity",
+    "p": "heidegger",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "The Cogito",
+    "p": "descartes",
+    "dom": "medieval-early-modern"
+   }
+  ],
+  "n_chapters": 50
+ },
+ {
+  "slug": "clifford",
+  "name": "W.K. Clifford",
+  "dates": "",
+  "domain": "knowledge-science-reality",
+  "concepts": [
+   {
+    "n": "The Will to Believe",
+    "p": "william-james",
+    "dom": "pragmatism-american"
+   },
+   {
+    "n": "Pascal's Wager",
+    "p": "pascal",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Faith and Reason",
+    "p": "",
+    "dom": "religion-meaning"
+   },
+   {
+    "n": "The Ethics of Belief (evidentialism)",
+    "p": "clifford",
+    "dom": "knowledge-science-reality"
+   },
+   {
+    "n": "Philosophical Skepticism",
+    "p": "",
+    "dom": "knowledge-science-reality"
+   },
+   {
+    "n": "Truth as What Works",
+    "p": "william-james",
+    "dom": "pragmatism-american"
+   },
+   {
+    "n": "Pragmatism",
+    "p": "",
+    "dom": "pragmatism-american"
+   },
+   {
+    "n": "Applied Ethics (bioethics, technology, AI)",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   }
+  ],
+  "n_chapters": 8
+ },
+ {
+  "slug": "democritus",
+  "name": "Democritus",
+  "dates": "c. 460–370 BC",
+  "domain": "ancient",
+  "concepts": [
+   {
+    "n": "Atomism",
+    "p": "democritus",
+    "dom": "ancient"
+   },
+   {
+    "n": "Possible Worlds",
+    "p": "lewis",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Simulacra and Simulation (the hyperreal)",
+    "p": "baudrillard",
+    "dom": "political-social"
+   },
+   {
+    "n": "The Aura of the Artwork",
+    "p": "benjamin",
+    "dom": "political-social"
+   },
+   {
+    "n": "Memetics (cultural evolution)",
+    "p": "",
+    "dom": "knowledge-science-reality"
+   },
+   {
+    "n": "The Extended Mind",
+    "p": "clark",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Li (ritual propriety)",
+    "p": "confucius",
+    "dom": "eastern-world"
+   },
+   {
+    "n": "Natural Goodness and Corruption by Society",
+    "p": "rousseau",
+    "dom": "political-social"
+   },
+   {
+    "n": "The General Will",
+    "p": "rousseau",
+    "dom": "political-social"
+   },
+   {
+    "n": "The Unexamined Life",
+    "p": "socrates",
+    "dom": "ancient"
+   }
+  ],
+  "n_chapters": 10
+ },
+ {
+  "slug": "derrida",
+  "name": "Jacques Derrida",
+  "dates": "1930–2004",
+  "domain": "political-social",
+  "concepts": [
+   {
+    "n": "Deconstruction",
+    "p": "derrida",
+    "dom": "political-social"
+   },
+   {
+    "n": "Binary Oppositions",
+    "p": "derrida",
+    "dom": "political-social"
+   },
+   {
+    "n": "The End of Grand Narratives",
+    "p": "lyotard",
+    "dom": "political-social"
+   },
+   {
+    "n": "Being-Toward-Death",
+    "p": "heidegger",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "The Face of the Other",
+    "p": "levinas",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "Forgiveness",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Bad Faith",
+    "p": "sartre",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "Perspectivism",
+    "p": "nietzsche",
+    "dom": "nineteenth-century"
+   },
+   {
+    "n": "The Unexamined Life",
+    "p": "socrates",
+    "dom": "ancient"
+   },
+   {
+    "n": "Alienation",
+    "p": "marx",
+    "dom": "nineteenth-century"
+   }
+  ],
+  "n_chapters": 59
+ },
+ {
+  "slug": "dubois",
+  "name": "W.E.B. Du Bois",
+  "dates": "1868–1963",
+  "domain": "feminism-gender-race",
+  "concepts": [
+   {
+    "n": "Double Consciousness",
+    "p": "dubois",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Class Struggle",
+    "p": "marx",
+    "dom": "nineteenth-century"
+   },
+   {
+    "n": "Intersectionality",
+    "p": "crenshaw",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "The Racial Contract",
+    "p": "mills",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Struggle for Recognition",
+    "p": "hegel",
+    "dom": "kant-german-idealism"
+   },
+   {
+    "n": "Pragmatism",
+    "p": "",
+    "dom": "pragmatism-american"
+   },
+   {
+    "n": "Allegory of the Cave",
+    "p": "plato",
+    "dom": "ancient"
+   },
+   {
+    "n": "Deconstruction",
+    "p": "derrida",
+    "dom": "political-social"
+   },
+   {
+    "n": "Master–Slave Dialectic",
+    "p": "hegel",
+    "dom": "kant-german-idealism"
+   },
+   {
+    "n": "The Dialectic",
+    "p": "hegel",
+    "dom": "kant-german-idealism"
+   }
+  ],
+  "n_chapters": 26
+ },
+ {
+  "slug": "emerson",
+  "name": "Ralph Waldo Emerson",
+  "dates": "1803–1882",
+  "domain": "pragmatism-american",
+  "concepts": [
+   {
+    "n": "Self-Reliance",
+    "p": "emerson",
+    "dom": "pragmatism-american"
+   },
+   {
+    "n": "Transcendentalism",
+    "p": "",
+    "dom": "pragmatism-american"
+   },
+   {
+    "n": "Pragmatism",
+    "p": "",
+    "dom": "pragmatism-american"
+   },
+   {
+    "n": "Philosophical Skepticism",
+    "p": "",
+    "dom": "knowledge-science-reality"
+   },
+   {
+    "n": "Authenticity",
+    "p": "heidegger",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "Existentialism",
+    "p": "",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "The Will to Believe",
+    "p": "william-james",
+    "dom": "pragmatism-american"
+   },
+   {
+    "n": "Walden (deliberate living)",
+    "p": "thoreau",
+    "dom": "pragmatism-american"
+   },
+   {
+    "n": "Eudaimonia (flourishing)",
+    "p": "aristotle",
+    "dom": "ancient"
+   },
+   {
+    "n": "Personal Identity",
+    "p": "",
+    "dom": "mind-language-metaphysics"
+   }
+  ],
+  "n_chapters": 36
+ },
+ {
+  "slug": "fanon",
+  "name": "Frantz Fanon",
+  "dates": "1925–1961",
+  "domain": "feminism-gender-race",
+  "concepts": [
+   {
+    "n": "Black Skin, White Masks",
+    "p": "fanon",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "The Ethics of Political Violence",
+    "p": "",
+    "dom": "political-social"
+   },
+   {
+    "n": "The Racial Contract",
+    "p": "mills",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Master–Slave Dialectic",
+    "p": "hegel",
+    "dom": "kant-german-idealism"
+   },
+   {
+    "n": "Struggle for Recognition",
+    "p": "hegel",
+    "dom": "kant-german-idealism"
+   },
+   {
+    "n": "Totalitarianism",
+    "p": "arendt",
+    "dom": "political-social"
+   },
+   {
+    "n": "Objectification",
+    "p": "",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Moral Relativism",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "I–Thou Relation",
+    "p": "buber",
+    "dom": "religion-meaning"
+   },
+   {
+    "n": "Natural Goodness and Corruption by Society",
+    "p": "rousseau",
+    "dom": "political-social"
+   }
+  ],
+  "n_chapters": 18
+ },
+ {
+  "slug": "frye",
+  "name": "Marilyn Frye",
+  "dates": "b. 1941",
+  "domain": "feminism-gender-race",
+  "concepts": [
+   {
+    "n": "Objectification",
+    "p": "",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Feminism",
+    "p": "",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Mind–Body Dualism",
+    "p": "descartes",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "The Panopticon (surveillance)",
+    "p": "foucault",
+    "dom": "political-social"
+   },
+   {
+    "n": "Embodiment (the lived body)",
+    "p": "merleau-ponty",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "One Is Not Born a Woman",
+    "p": "beauvoir",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "Animal Liberation",
+    "p": "singer",
+    "dom": "utilitarian-consequentialist"
+   },
+   {
+    "n": "Ecofeminism",
+    "p": "plumwood",
+    "dom": "environment-animal"
+   },
+   {
+    "n": "Phenomenology",
+    "p": "",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "Oppression as a Birdcage",
+    "p": "frye",
+    "dom": "feminism-gender-race"
+   }
+  ],
+  "n_chapters": 6
+ },
+ {
+  "slug": "isaiah-berlin",
+  "name": "Isaiah Berlin",
+  "dates": "1909–1997",
+  "domain": "political-social",
+  "concepts": [
+   {
+    "n": "Two Concepts of Liberty",
+    "p": "isaiah-berlin",
+    "dom": "political-social"
+   },
+   {
+    "n": "On Liberty",
+    "p": "mill",
+    "dom": "utilitarian-consequentialist"
+   },
+   {
+    "n": "Eternal Recurrence",
+    "p": "nietzsche",
+    "dom": "nineteenth-century"
+   },
+   {
+    "n": "Amor Fati (love of fate)",
+    "p": "nietzsche",
+    "dom": "nineteenth-century"
+   },
+   {
+    "n": "Dharma",
+    "p": "",
+    "dom": "eastern-world"
+   },
+   {
+    "n": "Second-Order Desires (personhood)",
+    "p": "frankfurt",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Compatibilism",
+    "p": "",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Free Will vs Determinism",
+    "p": "",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Self-Reliance",
+    "p": "emerson",
+    "dom": "pragmatism-american"
+   },
+   {
+    "n": "Authenticity",
+    "p": "heidegger",
+    "dom": "existentialism-phenomenology"
+   }
+  ],
+  "n_chapters": 12
+ },
+ {
+  "slug": "leibniz",
+  "name": "Gottfried Leibniz",
+  "dates": "1646–1716",
+  "domain": "medieval-early-modern",
+  "concepts": [
+   {
+    "n": "The Best of All Possible Worlds",
+    "p": "leibniz",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Possible Worlds",
+    "p": "lewis",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "The Problem of Evil",
+    "p": "",
+    "dom": "religion-meaning"
+   },
+   {
+    "n": "Monadology",
+    "p": "leibniz",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Principle of Sufficient Reason",
+    "p": "leibniz",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Personal Identity",
+    "p": "",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "The Metaphysics of Time Travel",
+    "p": "",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Free Will vs Determinism",
+    "p": "",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "The Meaning of Life",
+    "p": "",
+    "dom": "religion-meaning"
+   },
+   {
+    "n": "Personal Identity (memory theory)",
+    "p": "locke",
+    "dom": "medieval-early-modern"
+   }
+  ],
+  "n_chapters": 45
+ },
+ {
+  "slug": "lyotard",
+  "name": "Jean-François Lyotard",
+  "dates": "1924–1998",
+  "domain": "political-social",
+  "concepts": [
+   {
+    "n": "The End of Grand Narratives",
+    "p": "lyotard",
+    "dom": "political-social"
+   },
+   {
+    "n": "Simulacra and Simulation (the hyperreal)",
+    "p": "baudrillard",
+    "dom": "political-social"
+   },
+   {
+    "n": "Power/Knowledge",
+    "p": "foucault",
+    "dom": "political-social"
+   },
+   {
+    "n": "Language Games",
+    "p": "wittgenstein",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Moral Relativism",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Judgment of Taste and the Sublime",
+    "p": "kant",
+    "dom": "kant-german-idealism"
+   },
+   {
+    "n": "The Problem of Evil",
+    "p": "",
+    "dom": "religion-meaning"
+   },
+   {
+    "n": "Autonomy of the Will",
+    "p": "kant",
+    "dom": "kant-german-idealism"
+   },
+   {
+    "n": "Deconstruction",
+    "p": "derrida",
+    "dom": "political-social"
+   },
+   {
+    "n": "Authenticity",
+    "p": "heidegger",
+    "dom": "existentialism-phenomenology"
+   }
+  ],
+  "n_chapters": 21
+ },
+ {
+  "slug": "mills",
+  "name": "Charles W. Mills",
+  "dates": "1951–2021",
+  "domain": "feminism-gender-race",
+  "concepts": [
+   {
+    "n": "The Racial Contract",
+    "p": "mills",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "The Social Contract",
+    "p": "hobbes",
+    "dom": "political-social"
+   },
+   {
+    "n": "Epistemic Injustice",
+    "p": "fricker",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Feminism",
+    "p": "",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Natural Rights",
+    "p": "locke",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Class Struggle",
+    "p": "marx",
+    "dom": "nineteenth-century"
+   },
+   {
+    "n": "Power/Knowledge",
+    "p": "foucault",
+    "dom": "political-social"
+   },
+   {
+    "n": "Justice as Fairness",
+    "p": "rawls",
+    "dom": "political-social"
+   },
+   {
+    "n": "The Veil of Ignorance",
+    "p": "rawls",
+    "dom": "political-social"
+   },
+   {
+    "n": "Punishment: Retribution vs Rehabilitation",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   }
+  ],
+  "n_chapters": 13
+ },
+ {
+  "slug": "paley",
+  "name": "William Paley",
+  "dates": "1743–1805",
+  "domain": "religion-meaning",
+  "concepts": [
+   {
+    "n": "The Watchmaker Argument (design)",
+    "p": "paley",
+    "dom": "religion-meaning"
+   },
+   {
+    "n": "The Five Ways",
+    "p": "aquinas",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "The Problem of Evil",
+    "p": "",
+    "dom": "religion-meaning"
+   },
+   {
+    "n": "Philosophical Skepticism",
+    "p": "",
+    "dom": "knowledge-science-reality"
+   },
+   {
+    "n": "Faith and Reason",
+    "p": "",
+    "dom": "religion-meaning"
+   },
+   {
+    "n": "Ockham's Razor",
+    "p": "ockham",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Subjective Idealism (esse est percipi)",
+    "p": "berkeley",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Scientific Realism vs Anti-Realism",
+    "p": "",
+    "dom": "knowledge-science-reality"
+   },
+   {
+    "n": "Ethical Egoism",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Philosophy of Love",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   }
+  ],
+  "n_chapters": 12
+ },
+ {
+  "slug": "parfit",
+  "name": "Derek Parfit",
+  "dates": "1942–2017",
+  "domain": "mind-language-metaphysics",
+  "concepts": [
+   {
+    "n": "Personal Identity",
+    "p": "",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Personal Identity (memory theory)",
+    "p": "locke",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Teleporter Paradox (personal fission)",
+    "p": "parfit",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Ship of Theseus",
+    "p": "plutarch",
+    "dom": "ancient"
+   },
+   {
+    "n": "Mind–Body Dualism",
+    "p": "descartes",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Utilitarianism",
+    "p": "",
+    "dom": "utilitarian-consequentialist"
+   },
+   {
+    "n": "Bundle Theory of Self",
+    "p": "hume",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Philosophy of Love",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "The Extended Mind",
+    "p": "clark",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "The Categorical Imperative",
+    "p": "kant",
+    "dom": "kant-german-idealism"
+   }
+  ],
+  "n_chapters": 66
+ },
+ {
+  "slug": "rawls",
+  "name": "John Rawls",
+  "dates": "1921–2002",
+  "domain": "political-social",
+  "concepts": [
+   {
+    "n": "The Veil of Ignorance",
+    "p": "rawls",
+    "dom": "political-social"
+   },
+   {
+    "n": "Justice as Fairness",
+    "p": "rawls",
+    "dom": "political-social"
+   },
+   {
+    "n": "The Social Contract",
+    "p": "hobbes",
+    "dom": "political-social"
+   },
+   {
+    "n": "The Difference Principle",
+    "p": "rawls",
+    "dom": "political-social"
+   },
+   {
+    "n": "Utilitarianism",
+    "p": "",
+    "dom": "utilitarian-consequentialist"
+   },
+   {
+    "n": "The State of Nature",
+    "p": "hobbes",
+    "dom": "political-social"
+   },
+   {
+    "n": "The Categorical Imperative",
+    "p": "kant",
+    "dom": "kant-german-idealism"
+   },
+   {
+    "n": "The Minimal State",
+    "p": "nozick",
+    "dom": "political-social"
+   },
+   {
+    "n": "The Harm Principle",
+    "p": "mill",
+    "dom": "utilitarian-consequentialist"
+   },
+   {
+    "n": "Punishment: Retribution vs Rehabilitation",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   }
+  ],
+  "n_chapters": 62
+ },
+ {
+  "slug": "reid",
+  "name": "Thomas Reid",
+  "dates": "1710–1796",
+  "domain": "medieval-early-modern",
+  "concepts": [
+   {
+    "n": "Personal Identity",
+    "p": "",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Personal Identity (memory theory)",
+    "p": "locke",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Teleporter Paradox (personal fission)",
+    "p": "parfit",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Common Sense Philosophy",
+    "p": "reid",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Ship of Theseus",
+    "p": "plutarch",
+    "dom": "ancient"
+   },
+   {
+    "n": "Bundle Theory of Self",
+    "p": "hume",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Philosophical Skepticism",
+    "p": "",
+    "dom": "knowledge-science-reality"
+   },
+   {
+    "n": "Naming and Necessity (rigid designators)",
+    "p": "kripke",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Mind–Body Dualism",
+    "p": "descartes",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "The Cogito",
+    "p": "descartes",
+    "dom": "medieval-early-modern"
+   }
+  ],
+  "n_chapters": 30
+ },
+ {
+  "slug": "russell",
+  "name": "Bertrand Russell",
+  "dates": "1872–1970",
+  "domain": "mind-language-metaphysics",
+  "concepts": [
+   {
+    "n": "Philosophical Skepticism",
+    "p": "",
+    "dom": "knowledge-science-reality"
+   },
+   {
+    "n": "The Meaning of Life",
+    "p": "",
+    "dom": "religion-meaning"
+   },
+   {
+    "n": "Language Games",
+    "p": "wittgenstein",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "The Problem of Evil",
+    "p": "",
+    "dom": "religion-meaning"
+   },
+   {
+    "n": "Faith and Reason",
+    "p": "",
+    "dom": "religion-meaning"
+   },
+   {
+    "n": "Methodological Doubt (evil demon)",
+    "p": "descartes",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Eudaimonia (flourishing)",
+    "p": "aristotle",
+    "dom": "ancient"
+   },
+   {
+    "n": "Sense and Reference",
+    "p": "frege",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Problem of Induction",
+    "p": "hume",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "The Absurd",
+    "p": "camus",
+    "dom": "existentialism-phenomenology"
+   }
+  ],
+  "n_chapters": 69
+ },
+ {
+  "slug": "sextus-empiricus",
+  "name": "Sextus Empiricus",
+  "dates": "c. 160–210 AD",
+  "domain": "ancient",
+  "concepts": [
+   {
+    "n": "Pyrrhonian Skepticism (suspension of judgment)",
+    "p": "pyrrho",
+    "dom": "ancient"
+   },
+   {
+    "n": "Philosophical Skepticism",
+    "p": "",
+    "dom": "knowledge-science-reality"
+   },
+   {
+    "n": "Man Is the Measure (sophistic relativism)",
+    "p": "protagoras",
+    "dom": "ancient"
+   },
+   {
+    "n": "Methodological Doubt (evil demon)",
+    "p": "descartes",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Moral Relativism",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "The Unexamined Life",
+    "p": "socrates",
+    "dom": "ancient"
+   },
+   {
+    "n": "Stoicism",
+    "p": "",
+    "dom": "ancient"
+   },
+   {
+    "n": "Death Is Nothing to Us",
+    "p": "epicurus",
+    "dom": "ancient"
+   },
+   {
+    "n": "The Cogito",
+    "p": "descartes",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "The Look (hell is other people)",
+    "p": "sartre",
+    "dom": "existentialism-phenomenology"
+   }
+  ],
+  "n_chapters": 8
+ },
+ {
+  "slug": "spinoza",
+  "name": "Baruch Spinoza",
+  "dates": "1632–1677",
+  "domain": "medieval-early-modern",
+  "concepts": [
+   {
+    "n": "Substance Monism (Deus sive Natura)",
+    "p": "spinoza",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Free Will vs Determinism",
+    "p": "",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Spinozist Necessity",
+    "p": "spinoza",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Conatus (striving to persist)",
+    "p": "spinoza",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "Compatibilism",
+    "p": "",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Mind–Body Dualism",
+    "p": "descartes",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "The Übermensch",
+    "p": "nietzsche",
+    "dom": "nineteenth-century"
+   },
+   {
+    "n": "The Unconscious",
+    "p": "freud",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Forgiveness",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Faith and Reason",
+    "p": "",
+    "dom": "religion-meaning"
+   }
+  ],
+  "n_chapters": 45
+ }
+]

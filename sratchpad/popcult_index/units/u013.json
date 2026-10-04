@@ -1,0 +1,292 @@
+{
+ "unit": "u013",
+ "book": "009 - Harry Potter and Philosophy - If Aristotle Ran Hogwarts",
+ "part": "2/3",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\009 - Harry Potter and Philosophy - If Aristotle Ran Hogwarts",
+ "range": [
+  56,
+  102
+ ],
+ "chapters": [
+  {
+   "n": 56,
+   "file": "ch56 - Unknown.md",
+   "words": 533
+  },
+  {
+   "n": 57,
+   "file": "ch57 - PART THREE - POTTERWATCH FREEDOM AND POLITICS.md",
+   "words": 6
+  },
+  {
+   "n": 58,
+   "file": "ch58 - The Dangers of Patriotism.md",
+   "words": 374
+  },
+  {
+   "n": 59,
+   "file": "ch59 - Death Eaters and Discrimination.md",
+   "words": 433
+  },
+  {
+   "n": 60,
+   "file": "ch60 - The Sorting Hat Speaks Division and Divisiveness.md",
+   "words": 661
+  },
+  {
+   "n": 61,
+   "file": "ch61 - Patriotism and Global Conflict.md",
+   "words": 608
+  },
+  {
+   "n": 62,
+   "file": "ch62 - Patriotism Restored.md",
+   "words": 529
+  },
+  {
+   "n": 63,
+   "file": "ch63 - The Importance of Community.md",
+   "words": 729
+  },
+  {
+   "n": 64,
+   "file": "ch64 - Human Flourishing and the Preservation of Dying Cultures.md",
+   "words": 733
+  },
+  {
+   "n": 65,
+   "file": "ch65 - NOTES.md",
+   "words": 743
+  },
+  {
+   "n": 66,
+   "file": "ch66 - Unknown.md",
+   "words": 154
+  },
+  {
+   "n": 67,
+   "file": "ch67 - Is Dumbledore a Libertarian.md",
+   "words": 418
+  },
+  {
+   "n": 68,
+   "file": "ch68 - Barton\u2019s Libertarian Interpretation of the Potter Series.md",
+   "words": 2429
+  },
+  {
+   "n": 69,
+   "file": "ch69 - NOTES.md",
+   "words": 1150
+  },
+  {
+   "n": 70,
+   "file": "ch70 - Unknown.md",
+   "words": 1191
+  },
+  {
+   "n": 71,
+   "file": "ch71 - Plato and Dumbledore Separated at Birth.md",
+   "words": 249
+  },
+  {
+   "n": 72,
+   "file": "ch72 - Fudge and Umbridge The Lessons of Obviously Unfit Power-Brokers.md",
+   "words": 1627
+  },
+  {
+   "n": 73,
+   "file": "ch73 - Voldemort and Dumbledore Two Tempted by Power.md",
+   "words": 718
+  },
+  {
+   "n": 74,
+   "file": "ch74 - Harry\u2019s Cloak, the Ring of Gyges, and the Temptations of Power.md",
+   "words": 757
+  },
+  {
+   "n": 75,
+   "file": "ch75 - NOTES.md",
+   "words": 363
+  },
+  {
+   "n": 76,
+   "file": "ch76 - Unknown.md",
+   "words": 314
+  },
+  {
+   "n": 77,
+   "file": "ch77 - PART FOUR - THE ROOM OF REQUIREMENT A POTTER POTPOURRI.md",
+   "words": 9
+  },
+  {
+   "n": 78,
+   "file": "ch78 - Truth in Fiction.md",
+   "words": 532
+  },
+  {
+   "n": 79,
+   "file": "ch79 - So, Is Dumbledore Gay.md",
+   "words": 1846
+  },
+  {
+   "n": 80,
+   "file": "ch80 - Closing Speculations Genre.md",
+   "words": 1081
+  },
+  {
+   "n": 81,
+   "file": "ch81 - NOTES.md",
+   "words": 687
+  },
+  {
+   "n": 82,
+   "file": "ch82 - Unknown.md",
+   "words": 425
+  },
+  {
+   "n": 83,
+   "file": "ch83 - Choices.md",
+   "words": 334
+  },
+  {
+   "n": 84,
+   "file": "ch84 - How Revealing Are Our Choices.md",
+   "words": 394
+  },
+  {
+   "n": 85,
+   "file": "ch85 - Abilities.md",
+   "words": 1162
+  },
+  {
+   "n": 86,
+   "file": "ch86 - How Revealing Are Our Abilities.md",
+   "words": 300
+  },
+  {
+   "n": 87,
+   "file": "ch87 - Beyond Choices Toward a Deeper Self-Understanding.md",
+   "words": 412
+  },
+  {
+   "n": 88,
+   "file": "ch88 - Unknown.md",
+   "words": 247
+  },
+  {
+   "n": 89,
+   "file": "ch89 - Unknown.md",
+   "words": 450
+  },
+  {
+   "n": 90,
+   "file": "ch90 - Unknown.md",
+   "words": 406
+  },
+  {
+   "n": 91,
+   "file": "ch91 - Unknown.md",
+   "words": 244
+  },
+  {
+   "n": 92,
+   "file": "ch92 - The Ultimate Measure of a Person.md",
+   "words": 207
+  },
+  {
+   "n": 93,
+   "file": "ch93 - NOTES.md",
+   "words": 128
+  },
+  {
+   "n": 94,
+   "file": "ch94 - Unknown.md",
+   "words": 394
+  },
+  {
+   "n": 95,
+   "file": "ch95 - Positioning Our Prejudgments.md",
+   "words": 343
+  },
+  {
+   "n": 96,
+   "file": "ch96 - The Ignorance of Ickle Dudleykins.md",
+   "words": 278
+  },
+  {
+   "n": 97,
+   "file": "ch97 - Betrayed by Biases.md",
+   "words": 469
+  },
+  {
+   "n": 98,
+   "file": "ch98 - Dangerous Dreams.md",
+   "words": 370
+  },
+  {
+   "n": 99,
+   "file": "ch99 - The Cost of Overconfidence.md",
+   "words": 283
+  },
+  {
+   "n": 100,
+   "file": "ch100 - Memories Help Make Meaning.md",
+   "words": 447
+  },
+  {
+   "n": 101,
+   "file": "ch101 - Moving Past Misdirection.md",
+   "words": 940
+  },
+  {
+   "n": 102,
+   "file": "ch102 - NOTES.md",
+   "words": 571
+  }
+ ],
+ "content": [
+  56,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64,
+  65,
+  67,
+  68,
+  69,
+  70,
+  71,
+  72,
+  73,
+  74,
+  75,
+  76,
+  78,
+  79,
+  80,
+  81,
+  82,
+  83,
+  84,
+  85,
+  86,
+  87,
+  88,
+  89,
+  90,
+  91,
+  92,
+  94,
+  95,
+  96,
+  97,
+  98,
+  99,
+  100,
+  101,
+  102
+ ]
+}

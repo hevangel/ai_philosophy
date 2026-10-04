@@ -1,0 +1,192 @@
+{
+ "book": "028 - The Grateful Dead and Philosophy - Getting High Minded about Love and Haight",
+ "unit": "u044",
+ "chapters": [
+  {
+   "n": 21,
+   "file": "ch21 - Analyzing Emptiness.md",
+   "kind": "chapter",
+   "philosophers": ["buddha", "nagarjuna"],
+   "concepts": ["nagarjuna-emptiness", "buddhist-non-self", "four-noble-truths", "buddhist-impermanence"],
+   "relation": "Paul Gass reads the Dead's hippie milieu (the Beats, the Acid Tests, Buddhist-monk lyricist Peter Monk) as a conduit for Buddhist doctrine, taking the 'Eyes of the World' chorus as an invitation to awaken to Buddha-nature. He explains the Four Noble Truths, karma, and the five aggregates to argue the self is an illusion, using the image of a flame passed between lighters at a Dead show to picture rebirth without a persisting soul. The chapter then presents Nagarjuna's Madhyamaka middle way — emptiness itself must not be clutched as an absolute truth — and reads the 'redeemer... wagon loaded with clay' verse of 'Eyes of the World' as the Mahayana bodhisattva liberating all beings, with emptiness finally discarded like the boat after crossing the river."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - I’ve Got Time to Hear His Story.md",
+   "kind": "chapter",
+   "philosophers": ["levinas"],
+   "concepts": ["levinas-face"],
+   "relation": "Stephen Stern reads the 'Wharf Rat' narrator's decision to give August West not a dime but time to hear his story as an enactment of Levinas's ethics: hearing the other's call ipso facto obligates us, and listening restores the face that the label 'wharf rat' stripped away, just as Levinas was stripped of his 'human skin' as vermin in a Nazi POW camp. He parallels West's hope that the absent Pearly Baker 'been true to me' with Levinas's hope in his absent wife and daughter, locating traces of God not in a friendly maker but in human commitment and responsibility for the other. The chapter closes on the narrator walking downtown to his own Bonny Lee, suggesting that responding to August West liberates both parties from isolation."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Santayana, the Grateful Dead, and Self-Knowledge.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Jessica Wahman argues that 'Eyes of the World' restates George Santayana's ontology: the chorus's 'you are the eyes of the world, but the heart has its beaches' captures Santayana's distinction between consciousness (spirit) and the organism's blind, material psyche. She reads the second verse's redeemer fading away with his clay and the seeds bursting into bloom and decay as Santayana's acceptance of natural cycles and mortality — life as a carnival to be danced rather than escaped. The chapter treats the Dead show itself, from Drums and Space to the parking lot, as Santayana's 'spiritual life': a holiday of the mind in which spirit contemplates the play of essences, ending with the self-knowledge the author gained by comparing the two."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Set Two—What Shall We Say Shall We Call It by a Name - The Nature of Nature.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Dizzy with the Possibilities.md",
+   "kind": "chapter",
+   "philosophers": ["thoreau"],
+   "concepts": ["deep-ecology", "climate-ethics", "wilderness-ethics"],
+   "relation": "Allen Thompson treats 'Throwing Stones' — 'the future's here, we are it, we are on our own' — as voicing the existential dread of anthropogenic global warming and the felt 'end of nature' Bill McKibben named, defending the song as the band's a-political polemic against heartless powers. He argues via Steven Vogel that humans cannot literally end nature unless we are supernatural, and recasts the crisis with Thoreau and Gary Snyder as civilization's assault on the wild, the self-willed order we too belong to. Deep ecology then supplies the response: re-identify the self as wild — as Deadheads do by dancing wildly to the music — and build a civilization wildness can endure, with the band's 1988 rainforest-benefit press conference as evidence of the Dead's own ecological consciousness."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - “Just Like Mary Shelley, Just Like Frankenstein”.md",
+   "kind": "chapter",
+   "philosophers": ["aristotle", "plato"],
+   "concepts": ["free-will-determinism", "compatibilism", "aristotle-virtue-ethics"],
+   "relation": "Chuck Ward uses 'Mama Tried' (the meek family's rebel son doing life without parole) and the mysterious birthmark in 'Mississippi Half-Step Uptown Toodleloo' to ask whether character is fixed from birth, setting the songs' fatalism against Aristotle's account of character as habituated choice and Plato's claim that traits tend to be inherited. He surveys behavioral genetics, twin studies, The Bell Curve, and the supposed 'criminality gene' before arguing that genetic determinism is a mistaken reductionism: like the groovy atmosphere of a Dead show, which shapes the very individuals who produce it, complex systems admit top-down causation, so genes never act alone. The chapter's payoff is that the songs' studied ambiguity — mama tried, yet 'that leaves no one but me to blame' — shows art expressing, rather than resolving, the tension between free will and determinism."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - So There’s No Accounting for Taste.md",
+   "kind": "chapter",
+   "philosophers": ["mackie", "hume"],
+   "concepts": ["moral-relativism"],
+   "relation": "Mary MacLeod stages her quarrel with her husband over the musical value of the Dead's Space jams as a problem in metaethics: she claims Space objectively lacks merit, Eric claims it has value, and the chapter asks whether either 'should' claim can be true. She lays out Value Realism (value as intrinsic, detectable properties), Subjectivism ('no accounting for taste'), Mackie's Humean error theory (we project feelings onto the world as we do with color), and the 'oughts by agreement' view that expert or social consensus makes things right the way traffic conventions make right-side driving correct. The Dahmer and torture cases show why subjectivism fails for ethics, and the chapter concludes that 'beauty by agreement' quietly collapses back into Realism — so Deadheads' fierce debates about Space are legitimate disagreements after all."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Storyteller Makes No Choice.md",
+   "kind": "chapter",
+   "philosophers": ["pascal"],
+   "concepts": [],
+   "relation": "Stephen Dillingham takes at face value the storyteller's challenge in the Terrapin Station parable 'Lady with a Fan,' where a lady throws her fan into the lion's den and demands a sailor and a soldier risk 'uncertain pains of hell' to win her. Using decision theory rooted in Pascal and Fermat's probability and the subjectivist (Bayesian) reading of probability as degree of belief, he runs five expected-value cases in 'roses,' varying the soldier's and sailor's estimates of success and the values of winning the lady, being eaten, or refusing. The upshot is that 'you decide if he was wise' is a genuine question: the soldier's refusal and the sailor's dare can each be rational or foolhardy depending on probabilities and utilities no listener can observe."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Encore—Mysteries Dark and Vast - Metaphysical Quandaries.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Sometimes We Live No Particular Way but Our Own.md",
+   "kind": "chapter",
+   "philosophers": ["epictetus", "spinoza", "zhuangzi"],
+   "concepts": ["dichotomy-of-control", "wu-wei", "spinoza-monism", "compatibilism"],
+   "relation": "Matthew Turner argues that a 'Playin' in the Band' jam — the band drifting from the tune into long collective improvisation and back — models a Stoic solution to free will shared by Epictetus, Spinoza, and Chuang Tzu: freedom is not uncaused choosing but responding well within constraints, so by the dichotomy of control there is no point resenting the band when it flubs a climax. Spinoza's definition of the free thing as one determined by its own nature, and Chuang Tzu's butcher who cuts oxen by spirit beyond skill, show the band letting the music 'play them' — Jerry's 'Tennessee Jed' riff never played the same way twice — as learned skill becomes second nature. Because the Dead jam within banks (keys, mutual listening, ability) yet generate something genuinely new and transcended every genre of 1960s music where the Monkees merely copied the Beatles, the Stoic attitude proves creative rather than quietist, an analogue for living freely within our own constraints."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - I’ll Get Up and Fly Away.md",
+   "kind": "chapter",
+   "philosophers": ["heidegger", "epicurus", "socrates"],
+   "concepts": ["epicurean-death", "being-toward-death", "authenticity", "immortality"],
+   "relation": "Ian Duckles and Eric Rubenstein use the community's losses of Pigpen and Jerry Garcia to ask whether death is bad, running Epicurus's argument that being dead is no experience and hence no harm, the tedium-of-immortality argument that eternal life would eventually exhaust every fundamental desire, and Socrates's Phaedo claim that death frees the soul to philosophize — which disturbingly implies Pigpen's early 'burn out' was the better fate. Their resolution is Heidegger: authentically confronting death as the end of all possibilities strips socially imposed values (consumerist 'keeping up with the Joneses') and frees us to create our own projects, so mortality itself is something to be grateful for. On this reading the Deadhead counterculture — rejecting 1950s suburban scripts for free love, psychedelics, and life on tour — lived Heideggerian authenticity, and it is better to fade away (like Garcia) than to burn out (like Pigpen)."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Goin’ Down the Road The Grateful Dead Discography.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Playin’ in the Band.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - The ABCs We All Must Face.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - The Grateful Dead and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - ALSO FROM OPEN COURT.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 37,
+   "file": "ch37 - The Grateful Dead and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 23,
+   "type": "philosopher",
+   "suggested_slug": "george-santayana",
+   "name": "George Santayana",
+   "philosopher": "",
+   "domain": "pragmatism-american",
+   "what": "Spanish-American naturalist philosopher (1863–1952) who divided the one natural world into four realms of being — matter, essence, truth, and spirit.",
+   "why": "Chapter 23 argues that 'Eyes of the World' is a direct lyrical statement of Santayana's ontology of psyche, spirit, and the spiritual life."
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "santayana-realms-of-being",
+   "name": "The Four Realms of Being",
+   "philosopher": "george-santayana",
+   "domain": "pragmatism-american",
+   "what": "Santayana's division of reality into matter (inaccessible substance), essence (the forms and appearances consciousness directly knows), truth (the subset of true essences), and spirit (the light of awareness).",
+   "why": "Chapter 23 uses the psyche–spirit distinction and spirit's contemplation of essences to interpret the 'Eyes of the World' chorus and the Dead show as Santayana's spiritual life."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "mackie-error-theory",
+   "name": "Error Theory (argument from queerness)",
+   "philosopher": "mackie",
+   "domain": "ethics-moral-psychology",
+   "what": "Mackie's view that ordinary value judgments presuppose irreducible, objective value properties (queer entities) that do not exist, so all such judgments are systematically false projections of feeling.",
+   "why": "Chapter 27 tests Mackie's error theory, projection, and 'oughts by agreement' against Deadheads' disputes over whether the band's Space jams have real musical value."
+  },
+  {
+   "ch": 28,
+   "type": "concept",
+   "suggested_slug": "decision-theory",
+   "name": "Decision Theory and Expected Value",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The framework for rational choice under uncertainty: assign probabilities and utilities to each outcome, compute every option's expected value, and choose the highest.",
+   "why": "Chapter 28 evaluates whether the sailor or soldier in 'Lady with a Fan' was wise through five expected-value calculations."
+  }
+ ]
+}

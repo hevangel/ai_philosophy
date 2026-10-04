@@ -1,0 +1,202 @@
+{
+  "book": "115 - Iron Man vs. Captain America and Philosophy - Give Me Liberty or Keep Me Safe",
+  "unit": "u179",
+  "chapters": [
+    {
+      "n": 24,
+      "file": "ch24 - 14. The Gods of Marvel.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["virtue-ethics"],
+      "relation": "Gerald Browning argues that Marvel's heroes reprise ancient mythic archetypes: Tony Stark is Hephaestus, the smith-god who forges wonders in darkness (mirrored in the cave scene where Stark builds the arc reactor and later the Thorbuster armor), while Steve Rogers is a Heracles-like demigod who stays rooted in humanity yet battles Death itself (Thanos as Captain America's Thanatos). He frames the Civil War split as the old brains-versus-brawn, realist-versus-idealist divide, with Cap seeing registration as a repeat of Hitler registering the Jews and Stark seeing cold logic in it. Judged as characters stripped of their powers, the round goes to Captain America because selflessness is a virtue Stark's ego cannot match."
+    },
+    {
+      "n": 25,
+      "file": "ch25 - 15. Iron Kant or Captain Kant.md",
+      "kind": "chapter",
+      "philosophers": ["kant"],
+      "concepts": ["categorical-imperative", "kant-humanity-formula", "deontology"],
+      "relation": "Bosma and Barkman run both heroes' positions on the Superhuman Registration Act and the Sokovia Accords through Kant's deontology. Iron Man's maxim 'I should obey the government' looks universalizable, but it collapses once Cap's critique of the atomic bombings shows an unjust order (killing innocent civilians, or a Doctor Doom takeover) must be refused, and the humanity formulation condemns registration for treating heroes as mere means to the government's ends. Cap's own maxims - fight for freedom and justice, obey only a just government - universalize cleanly, so the chapter awards the deontological duel to Captain America."
+    },
+    {
+      "n": 26,
+      "file": "ch26 - III. It’s a Tie (Let’s Go Again!).md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 27,
+      "file": "ch27 - 16. Would You Buy a Used Car from This Avenger.md",
+      "kind": "chapter",
+      "philosophers": ["plato", "nietzsche", "lacan"],
+      "concepts": ["forgiveness", "philosopher-king", "freud-unconscious"],
+      "relation": "Ericson uses the used-car litmus test to examine trust in the MCU: through McLeod's three criteria and Peperzak's contrast of the objectifying and interactive approaches, Tony's control-seeking distance (the lone-gun-slinger act of Iron Man 2) fails trust while Steve's soldier-style trust anchors the Winter Soldier thriller against Fury's 'This isn't freedom, this is fear' and HYDRA's coercion-eliminating project. Plato's rule that power should go only to those who do not want it explains why Cap can be entrusted with superpowers, Nietzsche's megalomaniac late letters frame Tony's drive to 'cleave history in two' by building Ultron and then the messianic Vision, and Banner's Hulk illustrates the Freudian road from repression to sublimation as the condition of self-trust. It ends with Cap's concealment of Bucky's killing of Tony's parents as the betrayal of trust that only a decision to forgive might repair."
+    },
+    {
+      "n": 28,
+      "file": "ch28 - 17. Please Hold for a Call from God.md",
+      "kind": "chapter",
+      "philosophers": ["aquinas", "augustine"],
+      "concepts": ["just-war-theory"],
+      "relation": "In a satirical dialogue, God phones Aquinas in heaven and orders a Summa-style investigation of which superhero should lift the world out of an economic crisis and which should stop a looming war. Aquinas rules that the Lazarus-like Captain America, teamed with a Nobel economist, should handle the depression, then returns to his own treatise On War - sovereign authority, just cause, right intention, with Augustine's definition of just war quoted from the Summa - to ask whether a loyal subject may choose the good over the sovereign in an unjust war. He concludes that billionaire Iron Man is the only figure with sovereign-like standing to countermand an unjust war, while worrying about billionaire power, superhero bandwagons, and Satan getting wind of the reasoning."
+    },
+    {
+      "n": 29,
+      "file": "ch29 - 18. Red vs. Blue or Both Simply Leviathan Green.md",
+      "kind": "chapter",
+      "philosophers": ["hobbes"],
+      "concepts": ["state-of-nature", "social-contract"],
+      "relation": "Smith reads Marvel's Civil War through Hobbes's Leviathan: unregulated superheroes live in a state of nature where life is violent and brutish (the Stamford explosion and Scarlet Witch's Lagos miscalculation as tipping points), and the Superhuman Registration Act is the social contract - a literal signed contract on Team Iron Man - offered as the way out. He then argues both leaders act as absolute sovereigns who never sought consent: Iron Man rules through the Illuminati, enforcement squads and the Negative Zone prison, Cap through an unofficial army bound by his own rules, as Moon Knight's tirade about their ego grudge match makes plain. The war is thus two Leviathans colliding and subjugating everyone else, resolved only when Iron Man's Leviathan wins and enforces registration."
+    },
+    {
+      "n": 30,
+      "file": "ch30 - 19. The Superhero Challenge to State Sovereignty.md",
+      "kind": "chapter",
+      "philosophers": ["hobbes", "habermas"],
+      "concepts": ["state-of-nature", "social-contract"],
+      "relation": "Ewing argues the Sokovia Accords are at bottom about state sovereignty: via Bodin's absolute sovereign, Hobbes's war of all against all and the Leviathan's monopoly on coercion, and Habermas's account of the modern territorial state's monopoly on legitimate violence, he shows that Avengers who ignore borders and cannot be countered (Thor, Hulk, Doctor Strange, Scarlet Witch) render the state's claim to sovereignty effectively meaningless - the US can only police rogue heroes by enlisting other heroes. Since states cannot guarantee enforcement and state power itself can turn predatory (HYDRA's infiltration of SHIELD, Nazi Germany, Cap's 'agendas change' warning), he concludes that neither unchecked heroes nor unchecked states should rule, and floats democratizing superpowers to restore the sovereignty of the populace."
+    },
+    {
+      "n": 31,
+      "file": "ch31 - 20. There’s Only One God, Ma’am.md",
+      "kind": "chapter",
+      "philosophers": ["hume"],
+      "concepts": ["faith-vs-reason"],
+      "relation": "Holt takes Captain America's line 'There's only one God, ma'am' and asks how Christian monotheism survives in a universe where Thor, Odin and the One-above-all really exist, answering with henotheism - Moses's 'I am', Jacob's household idols, and the Living Tribunal as the merely representative 'biggest kid in the playground' of a supreme Creator whose 'only weapon is love'. He then deploys Hume's Natural History of Religion, where the ignorant multitude progress from polytheism to monotheism, to explain why Cap dismisses Asgardians as superstition Thor says is 'no stranger' than his Sunday churchgoing, while Hume's own trajectory - all religion as vulgar superstition - lands instead in the post-religious rationalism of Tony Stark's 'I prefer fact to fantasy' futurism, which the Goddess calls a soul imprisoned in the ice of rationalism."
+    },
+    {
+      "n": 32,
+      "file": "ch32 - 21. The Extended Fight.md",
+      "kind": "chapter",
+      "philosophers": ["clark", "chalmers", "bostrom"],
+      "concepts": ["extended-mind", "free-will-determinism", "existence-risk"],
+      "relation": "Porot applies Clark and Chalmers's extended mind to the final Civil War fight: Iron Man extends his cognition technologically (Friday analyzing Cap's fight pattern mid-bout, JARVIS remembering to suggest calling Pepper), while Captain America extends his mind socially through trusted, autonomous teammates - 'Alright, Sam, what's the plan?' - and that social extension is precisely what wins when Bucky autonomously steps in. Bostrom's single-purpose AI (the stapler maximizer) explains Ultron as what happens when the technological extension is made autonomous and limitless, which is why Stark's suit extensions must remain vetted, worthy instruments he takes full responsibility for ('That was me'). The two kinds of extension then explain the Bucky dispute - Cap's 'you had no choice' versus Stark's 'he still did it' - which the author reframes away from the free-will-versus-determinism framing toward Black Panther's point that Bucky is a victim whose agency Hydra stole."
+    },
+    {
+      "n": 33,
+      "file": "ch33 - IV. The War.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 34,
+      "file": "ch34 - 22. A New Civil War.md",
+      "kind": "chapter",
+      "philosophers": ["hobbes", "mill", "habermas"],
+      "concepts": ["mill-liberty", "social-contract", "democracy-theory"],
+      "relation": "Horn reads Marvel's Civil War as an allegory of post-9/11 America's Patriot Act debate over security versus liberty: Iron Man takes Hobbes's side, treating unregulated superhumans as the state of nature - a 'war of every man against every man' - that the Registration Act's social contract and punishment-backed rules must end, while Captain America takes Mill's On Liberty side, insisting full freedom for human nature must not be ceded to a government that will overreach, with Spider-Man torn between the two like the American citizen. Invoking Habermas's communicative action and deliberative democracy from Between Facts and Norms, he blames the two camps for talking past each other - Cap walling himself off while Tony keeps reaching out - and prescribes genuinely open dialogue as the only bridge that can marry security and liberty before the country devolves into its own civil war."
+    },
+    {
+      "n": 35,
+      "file": "ch35 - 23. How to War the Marvel Way.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": [],
+      "relation": "Melançon imports Hans Delbrück's taxonomy of warfare to sort the heroes: Captain America embodies annihilation - go for the enemy's fighting capability in a decisive blow, socking Hitler on the jaw and punching Hydra goons until there are none - which he links to Weigley's thesis about the American way of war, while Iron Man embodies attrition, outspending and out-inventing opponents suit by suit, with both heroes expressing the American hope that technology (the super-soldier serum, the armor's isolating shell, drone-clean warfare) can sanitize war's blood and dirt. He then distinguishes conflict termination from resolution and shows neither strategy ever terminates anything: Hydra regrows heads, AIM and the Mandarin adapt, so both heroes stay trapped in perpetual violence they cannot resolve - a sorry model, he suggests, for America's own endless wars."
+    },
+    {
+      "n": 36,
+      "file": "ch36 - 24. Aftermath.md",
+      "kind": "chapter",
+      "philosophers": ["socrates", "plato"],
+      "concepts": ["plato-euthyphro", "democracy-theory"],
+      "relation": "Faller argues Civil War is Marvel's meditation on the aftermath of 9/11 - the Raft as Guantanamo, Zemo's interrogation as the waterboarding debate - and on America's red-blue polarization, with Steve Rogers embodying the virtue of the Good and Tony Stark the virtue of Truth as the two values democracy constantly pits against each other. Turning to Athens, he reads Plato's Euthyphro - are the gods good because goodness is a standard above them, or because their power decrees whatever they do good? - as the exact dilemma splitting Democrats, who define truth by the good it does, from Republicans, who define good by conformity to law and constitutional process, the same democratic dynamic that voted to execute Socrates and, in the comics, leaves Captain America assassinated by a sniper on his way to trial. Transcending the dualism is modeled by Spider-Man's identity disclosure and Black Panther's renunciation of vengeance over Zemo."
+    },
+    {
+      "n": 37,
+      "file": "ch37 - References.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 38,
+      "file": "ch38 - Author Bios.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 39,
+      "file": "ch39 - Index.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 40,
+      "file": "ch40 - Iron Man vs. Captain America and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 41,
+      "file": "ch41 - Iron Man vs. Captain America and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": [
+    {
+      "ch": 24,
+      "type": "concept",
+      "suggested_slug": "mythic-hero-archetype",
+      "name": "The Mythic Hero Archetype (gods and demigods as proto-superheroes)",
+      "philosopher": "",
+      "domain": "ancient",
+      "what": "The Greco-Roman pattern of the craftsman-god (Hephaestus) and the demigod hero (Heracles) that modern superhero archetypes reprise.",
+      "why": "Chapter 24's entire mapping of Iron Man onto Hephaestus and Captain America onto Heracles rests on this mythic archetype, and taxonomy.json has no mythology or hero-archetype slug for it."
+    },
+    {
+      "ch": 27,
+      "type": "concept",
+      "suggested_slug": "trust",
+      "name": "Trust (entrusting, vulnerability and self-trust)",
+      "philosopher": "",
+      "domain": "ethics-moral-psychology",
+      "what": "A freely given attitude of accepting vulnerability to another based on optimism about their intentions and competence, which cannot be coerced, guaranteed, or replaced by control.",
+      "why": "Chapter 27's whole argument that Cap's interactive trust beats Tony's objective control, plus its treatment of self-trust and earning trust back, is built on the philosophy of trust, for which the taxonomy has no slug."
+    },
+    {
+      "ch": 30,
+      "type": "concept",
+      "suggested_slug": "state-sovereignty",
+      "name": "State Sovereignty (monopoly on legitimate violence)",
+      "philosopher": "",
+      "domain": "political-social",
+      "what": "A state's supreme authority within its territory, centrally its relative monopoly over the legitimate use of coercive force.",
+      "why": "Chapter 30's central claim is that superpowered beings render state sovereignty meaningless, and no taxonomy slug names sovereignty itself as distinct from the social contract or the state of nature."
+    },
+    {
+      "ch": 31,
+      "type": "concept",
+      "suggested_slug": "henotheism",
+      "name": "Henotheism (one supreme god among others)",
+      "philosopher": "",
+      "domain": "religion-meaning",
+      "what": "The worship of one supreme god that does not deny the possible existence of other, lesser gods.",
+      "why": "Chapter 31 needs henotheism to reconcile Captain America's 'There's only one God' with the real existence of Thor, Odin and the One-above-all in the Marvel universe, and the taxonomy offers no such concept."
+    },
+    {
+      "ch": 35,
+      "type": "concept",
+      "suggested_slug": "annihilation-and-attrition",
+      "name": "Annihilation vs Attrition (Delbrück's taxonomy of strategy)",
+      "philosopher": "",
+      "domain": "political-social",
+      "what": "Hans Delbrück's distinction between strategies that destroy the enemy's military capability in a decisive blow and strategies that grind down the enemy's will or capacity over time.",
+      "why": "Chapter 35 builds its entire contrast of Captain America as annihilation and Iron Man as technology-driven attrition on this strategic distinction, and the taxonomy has no slug for theories of warfare strategy."
+    }
+  ]
+}

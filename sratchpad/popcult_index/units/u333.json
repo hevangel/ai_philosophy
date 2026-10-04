@@ -1,0 +1,125 @@
+{
+ "unit": "u333",
+ "book": "229 - The Philosophy of Sherlock Holmes",
+ "part": "1/1",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\229 - The Philosophy of Sherlock Holmes",
+ "range": null,
+ "chapters": [
+  {
+   "n": 4,
+   "file": "ch04 - Introduction.md",
+   "words": 1920
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Sherlock Holmes as Epistemologist.md",
+   "words": 6174
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Not the Crime, but the Man Sherlock Holmes and Charles Augustus Milverton.md",
+   "words": 5631
+  },
+  {
+   "n": 7,
+   "file": "ch07 - A Case of Insincerity What does it Mean to Deceive Someone.md",
+   "words": 4400
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Sherlock's Reasoning Toolbox.md",
+   "words": 4966
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Watsons, Adlers, Lestrades, and Moriarties On the Nature of Friends and Enemies.md",
+   "words": 6413
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Eliminating the Impossible Sherlock Holmes and the Supernatural.md",
+   "words": 6488
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Was it Morally Wrong to Kill Off Sherlock Holmes.md",
+   "words": 7167
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Sherlock Holmes Artist of Reason.md",
+   "words": 4603
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Sherlock Holmes and the Ethics of Hyperspecialization.md",
+   "words": 4213
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Passionate Objectivity in Sherlock Holmes.md",
+   "words": 3690
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Industrious Sherlock Holmes.md",
+   "words": 3140
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Dog that did not Bark Learning how to Read \u201cThe Book of Life\u201d.md",
+   "words": 5242
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Aristotle on Detective Fiction.md",
+   "words": 5335
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Grim Reaper on Baker Street.md",
+   "words": 5644
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Acknowledgments.md",
+   "words": 211
+  },
+  {
+   "n": 20,
+   "file": "ch20 - List of Contributors.md",
+   "words": 899
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Index.md",
+   "words": 572
+  },
+  {
+   "n": 22,
+   "file": "ch22 - List.md",
+   "words": 412
+  }
+ ],
+ "content": [
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22
+ ]
+}

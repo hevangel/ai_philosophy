@@ -1,0 +1,107 @@
+[
+ {
+  "key": "freud-civilization",
+  "name": "Civilization and Its Discontents",
+  "kind": "concept",
+  "philosopher": "Sigmund Freud",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "jung-archetypes",
+  "name": "Archetypes",
+  "kind": "concept",
+  "philosopher": "Carl Jung",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "jung-collective-unconscious",
+  "name": "The Collective Unconscious",
+  "kind": "concept",
+  "philosopher": "Carl Jung",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "jung-shadow",
+  "name": "The Shadow",
+  "kind": "concept",
+  "philosopher": "Carl Jung",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "lacan-mirror-stage",
+  "name": "The Mirror Stage",
+  "kind": "concept",
+  "philosopher": "Jacques Lacan",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "lacan-symbolic",
+  "name": "The Symbolic, the Imaginary and the Real",
+  "kind": "concept",
+  "philosopher": "Jacques Lacan",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "berlin-two-liberties",
+  "name": "Two Concepts of Liberty",
+  "kind": "concept",
+  "philosopher": "Isaiah Berlin",
+  "domain": "Political & Social Philosophy"
+ },
+ {
+  "key": "gadamer-hermeneutics",
+  "name": "Philosophical Hermeneutics (fusion of horizons)",
+  "kind": "concept",
+  "philosopher": "Hans-Georg Gadamer",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "gettier-problem",
+  "name": "The Gettier Problem",
+  "kind": "concept",
+  "philosopher": "Edmund Gettier",
+  "domain": "Knowledge, Science & Reality"
+ },
+ {
+  "key": "reliabilism",
+  "name": "Reliabilism",
+  "kind": "concept",
+  "philosopher": "Alvin Goldman",
+  "domain": "Knowledge, Science & Reality"
+ },
+ {
+  "key": "paradigm-shift",
+  "name": "Paradigm Shifts",
+  "kind": "concept",
+  "philosopher": "Thomas Kuhn",
+  "domain": "Knowledge, Science & Reality"
+ },
+ {
+  "key": "falsification",
+  "name": "Falsificationism",
+  "kind": "concept",
+  "philosopher": "Karl Popper",
+  "domain": "Knowledge, Science & Reality"
+ },
+ {
+  "key": "open-society",
+  "name": "The Open Society",
+  "kind": "concept",
+  "philosopher": "Karl Popper",
+  "domain": "Knowledge, Science & Reality"
+ },
+ {
+  "key": "epistemological-anarchism",
+  "name": "Anything Goes (epistemological anarchism)",
+  "kind": "concept",
+  "philosopher": "Paul Feyerabend",
+  "domain": "Knowledge, Science & Reality"
+ },
+ {
+  "key": "bacon-idols",
+  "name": "The Idols of the Mind",
+  "kind": "concept",
+  "philosopher": "Francis Bacon",
+  "domain": "Knowledge, Science & Reality"
+ }
+]

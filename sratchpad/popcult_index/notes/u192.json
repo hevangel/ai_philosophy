@@ -1,0 +1,661 @@
+{
+ "book": "127 - Blade Runner 2049 and Philosophy - This Breaks the World",
+ "unit": "u192",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Blade Runner 2049 and Philosophy This Breaks the World.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Thanks.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Philosophy and Reality in Blade Runner 2049.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard"
+   ],
+   "concepts": [
+    "simulacra"
+   ],
+   "relation": "Robin Bunce's introduction shows that the word 'real' is used in at least six different senses in 2049: Joshi's authentic, K's genuine (unimplanted) memories, Joi's natural-born 'real boy', Stelline's naturalistic 'real human responses', Mariette's physical, and Deckard's true. It argues the film makes reality an essentially contested concept, then maps how each contributor deploys a different sense of 'real', from Baudrillard's simulacra in the chapter on women and birth to socialist realism in the Wallace chapter."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - I What Makes Us Human.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 1. Do You Long for Having Your Heart Interlinked.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "plato",
+    "kant"
+   ],
+   "concepts": [
+    "philosophy-of-love",
+    "free-will-determinism",
+    "locke-personal-identity"
+   ],
+   "relation": "Timothy Shanahan asks whether K and Joi's relationship counts as romance, sex, and love, using Locke's definition of a person as a thinking, reflective being to ask whether a programmed AI can love, and weighing Joi's programming against the determinism that may bind human lovers too. He reads the Joi-Mariette-K sex scene through Plato's Symposium myth of severed halves seeking union, substance dualism, and a Kant-inspired 'controlled hallucination' view of perception, concluding all sex is a person-to-person conscious connection through bodily intermediaries. Deckard's rejection of Wallace's replica Rachael is explained with a Mona Lisa forgery analogy: an indistinguishable copy still lacks the irreplaceable original person. The baseline question 'Do you long for having your heart interlinked?' frames love as the longing of lonely cells of awareness to connect."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 2. Is Joi a Person.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "searle",
+    "descartes"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "chinese-room",
+    "cartesian-dualism"
+   ],
+   "relation": "Chris Lay argues Joi is a person. He raises Searle's objection that programs only simulate understanding and need the right biological 'stuff', then answers it: Joi apparently violates her 'everything you want her to be' programming, so her affection for K is authentic either way. Testing Joi against Locke's personhood criteria — rationality, sentience, and self-consciousness grounded in memory and in her self-sacrifice before Luv — he adds a Cartesian reading in which her transfers between console and emanator make her a disembodied soul, closer to Descartes's essence of the human than embodied replicants are. If a digital person like Joi would also fail the baseline, the wall separating kind would need a full societal reset."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 3. Are You for Real.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "being-toward-death",
+    "meaning-of-life"
+   ],
+   "relation": "Aron Ericson reads being 'real' in 2049 as being special: having an existence that is your own. Borrowing Stephen Mulhall's reading of the first film — life gets its meaning in relation to death, so what matters is burning brightly, like Tyrell's 'he who burns twice as brightly burns half as long' — he argues Joi becomes real by deleting her backup to live unguarded, 'like a real girl', and Deckard's 'I know what's real' names the responsibility and love for the daughter he has never met. K's arc, from Sapper's 'you've never seen a miracle' through Freysa's miracle birth to his mortal rescue of Deckard, shows realness is adopted through what one loves and dies for rather than conferred by origin."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 4. The Aesthetics of Being a Person.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aristotle",
+    "plato"
+   ],
+   "concepts": [
+    "kant-aesthetics"
+   ],
+   "relation": "S. Evan Kreider argues that aesthetic capacity evidences personhood in replicants: Kant's beautiful and the mathematically and dynamically sublime explain both K's cowed passage through Los Angeles and his storm-soaked defeat of Luv through strength of will and moral conviction. After Plato's and Aristotle's arousal and catharsis theories of art, he turns to Croce, Collingwood, and Suzanne Langer's expression theory and the 'virtual', reading Sapper's home-grown garlic, Joi's holographic dinner and rain scene, the Mariette-proxy sex as expressive symbol, and Stelline's memory-making ('we recall with our feelings') as aesthetic-emotional communication only persons can sustain. Even K's baseline judges personhood by the aesthetics of how he responds, not what he says."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 5. A Replicant’s Guide to Becoming Human.md",
+   "kind": "chapter",
+   "philosophers": [
+    "seneca",
+    "hierocles"
+   ],
+   "concepts": [
+    "stoic-cosmopolitanism",
+    "stoicism"
+   ],
+   "relation": "Justin Kitchen uses the Stoic 'cradle argument' — Chrysippus on self-preservation, echoed in Wallace's 'the first thought tends to fear, to preserve the clay' — to deny that replicant slavery is natural, noting Seneca's point that rage like Batty's derails reason. Mapping the Stoic process of oikeiosis through Hierocles's concentric circles onto the films, he traces four stages: the Nexus-6's fight for survival, Rachael identifying with Deckard in love, the Nexus-8s' revolutionary community under Freysa, and finally K, who disobeys Freysa's order and sacrifices himself for Deckard as a Stoic cosmopolitan, a fellow citizen of the world. Replicants can become human because they develop through the same expanding circles of concern."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 6. You Don’t Need to Be Human to Have a Human Hand.md",
+   "kind": "chapter",
+   "philosophers": [
+    "schopenhauer",
+    "aristotle",
+    "arendt",
+    "descartes"
+   ],
+   "concepts": [
+    "schopenhauer-will",
+    "embodiment"
+   ],
+   "relation": "Sue Zemka contrasts the film's opening eye — reason and consciousness, in a tradition Arendt summarizes as thinking figured as seeing — with its closing image of Deckard's hand reaching toward Ana's through glass, the sense of touch leading out toward others. Schopenhauer explains K's wondering gaze at his own hands in the snow as the human predicament of being both will and representation, subject and object at once, while Condillac's and Maine de Biran's statue thought experiments ('I feel, therefore I am' against Descartes's cogito) are charged with imagining humanness in isolated figures. The film's answer is relational and political: humanness is made in relationships and resistance, from the Joi-Mariette hand-synced sex scene to the final father-daughter touch."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 7. More Human than Humans.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "personal-identity",
+    "posthumanism"
+   ],
+   "relation": "Rob O'Connor reads replicants through N. Katherine Hayles's posthumanism — persons as amalgams of biological and informational-technological systems — arguing Rachael's procreation shows the posthuman body bypassing its designed limits, while Joi is a posthuman of the opposite construction, a hologram transcending her limits through emotion. Memory and experience, even implanted ones (Batty's 'tears in rain', Deckard's unicorn dream, K's wooden horse, 'all the best memories are hers'), supply the existential context that defines the posthuman self. K's epiphany before the giant Joi advertisement reveals he is a tool of the capitalist system, and his choice to die for the right cause is how he takes charge of his own identity."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 8. Ode to Joi.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha",
+    "nagarjuna"
+   ],
+   "concepts": [
+    "buddhist-non-self",
+    "buddhist-karma",
+    "nagarjuna-emptiness"
+   ],
+   "relation": "Steve Bein first tests Joi against Mary Anne Warren's five functionalist personhood criteria — consciousness, reason, self-motivated activity, communication, self-awareness — and finds she passes, which makes Luv's stomping of the emanator a murder. The Buddha's no-self doctrine then denies that anyone, Joi included, is an enduring person: we are bundles of fleeting psychophysical processes, 'like tears in rain', which threatens to let Luv plead that the Luv who killed Joi no longer exists. Nagarjuna's two truths resolve the courtroom problem: ultimately there are no persons, but conventionally 'Luv killed Joi' is perfectly true, and the karma ripples through the whole network."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - II A Miracle Delivered.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 9. Replicant Birth, Moral Miscarriage.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "bentham"
+   ],
+   "concepts": [
+    "anthropocentrism",
+    "applied-ethics"
+   ],
+   "relation": "L. Brooke Rudow argues 2049's 'biological turn' — the miracle of Rachael giving birth — quietly reverses the first film's ethical innovation that artificial beings matter whether or not they are natural. She assembles the classic grounds for replicant moral status: Kant on cruelty to animals breeding cruelty to humans, Bentham's 'can they suffer?', and the rationality criterion of Aristotle, Descartes, and Kant. Because the resistance and the plot now treat the born child as the only proof replicants are persons, she contends the sequel becomes anthropocentric where its predecessor was liberating, shutting the door it had opened for animals, machines, and anything that thinks and feels."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 10. Should Humans Dream of Designer Babies.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "applied-ethics"
+   ],
+   "relation": "Samantha Noll and Laci Hubbard-Mattix treat replicants as designer babies and grade the Wallace Corporation against the Belmont Report's four principles of biomedical ethics: autonomy, beneficence, non-maleficence, and justice. Wallace's killing of the 'barren' newborn and Luv's advice not to 'waste' money on attachment or intelligence violate non-maleficence and beneficence; replicants' engineered lack of choice ('I wasn't aware that was an option, Madam') violates autonomy; and Joshi's wall that 'separates kind' institutionalizes distributive injustice, with replicants bearing all society's risk for none of its reward. The film serves as a cautionary foil for our own approaching genetic-engineering choices."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 11. Conceiving AI.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "turing-test"
+   ],
+   "relation": "Beth Singler reads 2049 as a creation story, tracing the born/made tension from Frankenstein and Pinocchio through Genesis: Wallace speaks in Abrahamic language of angels, Eden, and 'God remembered Rachael', yet fails where Tyrell succeeded, his blades slipping into the newborns he calls barren. She widens the lens to the 'concept of the child' — Ariès's socially constructed childhood, chosen children from Joseph and Jesus to the Indigo Children, and the orphanage where Mister Cotton molds children 'worth buying' — to show the mystery child reopening what children are for. The baseline's 'interlinked', she argues, names the healthy separateness-with-connection Deckard models by becoming a stranger to protect his daughter; the Voight-Kampff is described as a Turing test for this neon world."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - III Cells Interlinked.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 23,
+   "file": "ch23 - 12. The Riddle of Niander Wallace.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein"
+   ],
+   "concepts": [],
+   "relation": "Four contributors unravel Wallace: his name honors Alfred Russel Wallace of speciation and the 'Wallace effect', while 'Niander' echoes Neanderthal — the 'new man' he is trying to breed through artificial speciation. He is read through the Old Testament God whose angels do the dirty work, the Tower of Babel, and the devil sweetly tempting Christ, and his technobabble-free, poetic speech is explained by Wittgenstein's Tractatus picture theory: his ideas are so far beyond us that language can only paint possibilities like 'storm Eden and retake her'. Joi's Prokofiev chime finally links him to Socialist Realism's 'engineers of the human soul' — Tyrell engineered bodies, Wallace engineers souls — making him a false god who saves without redeeming."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 13. Flow My Tears, Rick Deckard Said.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bentham"
+   ],
+   "concepts": [
+    "speciesism"
+   ],
+   "relation": "M. Blake Wilson, a criminal-justice scholar, reads K as the latest of Philip K. Dick's humanized policemen, whose grief and empathy — beginning with Rachael's corpse and peaking when he believes he is the child he was ordered to kill — qualify him for the moral community. Applying Bentham's 'can they suffer?' test, he notes Dick's novelistic androids fail it while the films' replicants pass, so the movies make empathy, not birth or reason, the entrance criterion. He then presses the allegory: 'skinjob' slurs, shoot-on-sight orders, slave patrols and fugitive-slave laws, and the Replicant Freedom Movement as a replicant Black Lives Matter fighting police violence and the 'new Jim Crow' of constructed illegality."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 14. After the Blackout.md",
+   "kind": "chapter",
+   "philosophers": [
+    "macintyre",
+    "buddha",
+    "kant"
+   ],
+   "concepts": [
+    "macintyre-tradition",
+    "buddhist-non-self",
+    "death-of-god",
+    "buddhist-impermanence"
+   ],
+   "relation": "Martin Muchall treats the offscreen Blackout as an emblem of the moral catastrophe diagnosed in MacIntyre's After Virtue: our moral vocabulary has shattered into emotivist hissing and clapping, with Roy's murder of Tyrell, his 'God of biomechanics', staging the death of God and the 'everything is permitted' that follows. Utilitarian pleasure and Kantian cold reason (Spock, who must tell the truth to the murderer at the door) have both failed, leaving neoliberal hypercapitalism — corporate psychopathy, the orphanage sweatshop, the Baseline as workplace performance review — as the real villain. Against this, K's ending models the Buddha: everything is impermanent, there is no self to defend, and his selfless, empathetic death points to a morality grounded in evolved and cultivable altruism."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 15. The Phenomenology of Replicant Life and Death.md",
+   "kind": "chapter",
+   "philosophers": [
+    "merleau-ponty"
+   ],
+   "concepts": [
+    "phenomenology",
+    "embodiment"
+   ],
+   "relation": "Zachary Sheldon analyzes 2049's style of violence through Merleau-Ponty's account of film as perceived conduct that shows consciousness thrown into the world, plus the defamiliarizing power of camera choices. In the killings of Sapper and Joshi and the underwater K-Luv fight, the fatal blows are elided, glimpsed only in reaction shots, or distanced through high angles and blurred bodies, so the audience's embodied, empathetic response makes a replicant's death feel exactly as real as a human's. If we feel Sapper die as we would feel a man die, the film's stylistic answer goes, the divide between kinds was never really there; K dies on the stairs because he has truly lived."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 16. Who Am I to You.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "noddings",
+    "gilligan"
+   ],
+   "concepts": [
+    "care-ethics-noddings",
+    "kant-autonomy",
+    "categorical-imperative"
+   ],
+   "relation": "James Okapal sets up the Kantian view — moral agency, shown by passing the contradiction-in-conception test (which Wallace's 'all should be masters of slaves' fails), is the precondition of moral status, so non-agents like replicants, on Tibor Machan's extension of Kant to animals, matter no more than toasters — against the ethics of care of Nel Noddings and Carol Gilligan. On the care reading, K's and Batty's final acts of ethical caring, like Joi's risky choices for K, confer moral status on another and thereby constitute moral agency, reversing the Kantian order. Empathy, not universalizable reason, is what removes bricks from Joshi's wall."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - IV The Kingdom of God.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 17. You’ve Never Seen a Miracle.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "paradigm-shift"
+   ],
+   "relation": "Andrew Kuzma reads the film's religious texture from Sapper's Graham Greene novel to Wallace as a Gnostic Demiurge — a lesser creator-god — whose 'angels', like biblical ones, possess the free will to rebel, which is exactly what Luv does when she lies to Wallace about Joshi's death. The mystery child imports the whole miraculous-birth and chosen-one tradition, from Rachel's opened womb to Joi's 'born, not made' echoing the Nicene Creed's 'begotten'. But K is not the chosen one, and via 'Galatians Syndrome' the chapter applies Paul's paradigm shift in Galatians — faith, not flesh, makes one Abraham's heir; 'no longer Jew or Greek, slave or free' — to show birth never mattered: K, Joi, and Sapper become human by believing, choosing, and dying for the right cause."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 18. K’s Most Excellent Kierkegaardian Pilgrimage.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard"
+   ],
+   "concepts": [
+    "teleological-suspension",
+    "kierkegaard-stages"
+   ],
+   "relation": "Ben Franz runs K and Luv through Kierkegaard's Either/Or and Fear and Trembling. Luv is the Knight of Faith, an Abraham whose total devotion to her god Wallace involves the teleological suspension of the ethical — killing the Rachael copy, torturing Joshi — and who dies, film-noir fashion, for failing her creator's command. K is the Knight of Infinite Resignation, repeatedly raised to believe he is special and repeatedly deflated — the wooden horse date, the nursemaid's denial, Joi's death — until he resigns himself to faking Deckard's death and reuniting father and daughter; in the noir inversion, the villain has perfect faith and the hero never attains it."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 19. And God Created Replicants in His Own Image.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "banality-of-evil"
+   ],
+   "relation": "Jerry Piven argues both films are dark mirrors of human inhumanity: we create beings who feel, then declare them soulless 'skin jobs' so we can enslave and slaughter them without guilt, disavowing and projecting our own evil onto our creations. Roy's nail-pierced hand, his saving of Deckard, and his 'tears in rain' lament make him a Christlike figure whose grace shames the humans, while 2049 replays Exodus — Rachael with the matriarch Rachel, K renamed Joe the liberator — only to reveal the true messiah is the concealed daughter Ana. Beneath it all lies the banality of evil and an existential dread of death that drives men like Wallace to play God and murder what they cannot gestate."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - 20. Sympathy for the Existential Devils.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre"
+   ],
+   "concepts": [
+    "existence-precedes-essence",
+    "sartre-freedom",
+    "great-chain-of-being"
+   ],
+   "relation": "James McLachlan reads the films through Sartre: replicants are made like penknives, with an essence before existence, and their drama is going 'off baseline' — the freedom of nothingness by which Batty murders his maker-gods (Tyrell the Father, Chew and Sebastian the trinity) and K disobeys everyone. Sartre's Satan from his Baudelaire biography, Blake's Orc and the Marriage of Heaven and Hell's contraries, and the Great Chain of Being's contradiction between filling one's place and moral freedom frame Luv as a perfect penknife, a 'good angel' who fulfills her vocation, while Batty and K are redeemed by the love that breaks their programming. 'More human than human' turns out to mean: existence precedes essence."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - V A Real Girl Now.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - 21. The Trouble with Joi.md",
+   "kind": "chapter",
+   "philosophers": [
+    "butler"
+   ],
+   "concepts": [
+    "gender-performativity",
+    "feminism"
+   ],
+   "relation": "M.J. Ryder uses Judith Butler's Gender Trouble to argue that Joi's womanhood is a performance, and so is her humanity: an 'it' playing a woman playing a human, in nested layers from Ana de Armas through the hologram to the 1950s housewife act. The chapter situates this in the real economy of female-voiced assistants (Siri, Cortana) scripted by human writers to seem real and trustworthy, and rereads the awkward Mariette threesome as Joi acting out what she believes human sex is, the two bodies never quite coinciding. Joi's final choice of mortal peril — 'like a real girl' — completes the performance, which is why the film leaves us unsure whether performing humanity differs from having it."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - 22. Rachael, Weeping for Her Children.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard"
+   ],
+   "concepts": [
+    "simulacra",
+    "objectification",
+    "feminism"
+   ],
+   "relation": "Bonnie McLean maps Baudrillard's four-stage precession of simulacra onto the women of 2049: Joshi anchors reality, implanted memories distort it, Joi is representation masking the absence of reality, and the eye-color-wrong reconstructed Rachael is a simulacrum of a simulacrum bearing no relation to reality. Read this way, the film lionizes birth — Wallace kissing the replicant he has just disemboweled, her blood running down her legs — while stripping every woman of agency in service of K's quest, a dynamic the chapter links to pro-life politics and DACA-era savior narratives. Only by removing K from the narrative, she shows, does the women's erasure become visible."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - 23. The Future Is Female … Robots!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "deleuze"
+   ],
+   "concepts": [
+    "woman-as-other",
+    "male-gaze",
+    "objectification"
+   ],
+   "relation": "Emily Cox-Palmer-White applies Deleuze and Guattari's 'becoming-woman' to the mechanical women of both films: the girl as universal other, a vacuum or absence at the center of femininity, is exactly what lets Rachael, Pris, Luv, and Joi destabilize the patriarchal world that manufactured them. Wallace's drones undressing the barren replicant with their gaze before he slashes her womb gives the male gaze a literal, lethal form, while the Joi-Mariette sync scene stages the frightening interchangeability of women under that gaze. Deckard's 'Her eyes were green' — a lie, since Rachael's eyes were brown — refuses the premise that women are replaceable products."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - VI The World Is Built on a Wall.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 38,
+   "file": "ch38 - 24. A Modern utopia.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nozick",
+    "isaiah-berlin"
+   ],
+   "concepts": [
+    "minimal-state",
+    "berlin-two-liberties",
+    "utopia-dystopia"
+   ],
+   "relation": "Robin Bunce reads 2049 as a libertarian utopia realized: a Los Angeles without welfare, planning, or federal power, where Hayek's market knowledge and Nozick's minimal state have won and everything from water to children to replicants is voluntarily bought and sold. Yet the result is a slave state, and Nozick's freedom-as-non-coercion — the negative liberty Berlin also held — cannot explain Luv, the film's most privileged character, who is nonetheless a slave because her existence hangs wholly on Wallace's will. Quentin Skinner's and Algernon Sidney's neo-Roman liberty, independence from another's will, explains her fear, and the Baseline, like Orwell's 'Thou Art', reveals an ambition to enslave not actions but souls; Freysa's 'we are our own masters' is a republican declaration of independence."
+  },
+  {
+   "n": 39,
+   "file": "ch39 - 25. Less Human than Human.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "objectification",
+    "applied-ethics"
+   ],
+   "relation": "Leah Schade and Emily Askew read replicants as undocumented Latinx immigrants: Sapper's grub farm parallels an ICE raid on a meatpacking plant and the deportation cell of 'Justo', blade runners mirror enforcement agents hunting 'illegals', and the miracle child maps onto DACA Dreamers whom well-meaning liberals recast as superhuman saviors at the cost of their ordinary personhood. Using Mary Midgley's personhood criteria — the ability to suffer, emotional fellowship, minding what happens to one — they argue replicants, like migrants, plainly qualify, and that 'illegality' is a constructed status, not a moral fact. The chapter warns that messianic sacrifice narratives, however sympathetic, re-objectify the very people they mean to defend."
+  },
+  {
+   "n": 40,
+   "file": "ch40 - 26. Do Replicants Have Nightmares of Ethnic Discrimination.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Dominic Nardi asks whether replicants constitute an ethnic group and answers with social-identity theory: they self-identify as distinct ('I've seen things you people wouldn't believe'), inherit their traits through manufacture rather than birth, and treat the Tyrell tower as their homeland. He sets primordialist 'ancient hatreds' against constructivist accounts in which demagogues activate identity — Milosevic's Serbia, post-1979 Sunni-Shia polarization — and shows Blade Runner is purely constructivist while 2049 first insists on biological difference (the eye scan, barrenness), then makes the wall porous as Rachael's birth reinterprets replicant biology. K's journey from accepting his designations to dying for what is right, not because of whose son he is, delivers the constructivist moral: identity follows belief, not blood."
+  },
+  {
+   "n": 41,
+   "file": "ch41 - 27. Who Keeps a Dead Tree.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "utopia-dystopia"
+   ],
+   "relation": "Alî Riza Taşkale and Reşat Volkan Günel argue 2049 is trapped in Mark Fisher's capitalist realism: it can dystopianize the present but cannot imagine a future beyond corporate capitalism, with Joshi as the hollowed-out state unable to protect even herself and Wallace as capitalism without limits, monopolizing the food supply. Wallace figures capitalism's fantasy of creative destruction and technological determinism — the future belongs to billionaire engineers — while K's lone sacrifice, however moving, never becomes collective resistance and so mirrors the neoliberal individualism he defies. The chapter closes by demanding new emancipatory future narratives that can make post-capitalist worlds thinkable again."
+  },
+  {
+   "n": 42,
+   "file": "ch42 - 28. Replicants of California, Unite!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "class-struggle",
+    "historical-materialism",
+    "marx-alienation"
+   ],
+   "relation": "Christopher Innes gives 2049 a Marxist class analysis: the replicants are an enslaved working class, the Wallace Corporation the ruling class owning the means of production, and the LAPD a state apparatus with 'relative autonomy' that really upholds the system — K is a slave who kills his own kind without seeing his class position. Applying the materialist (not idealist) dialectic and the Eighteenth Brumaire's lesson about conflicting ruling-class interests, he reads Wallace, Atari, and even Ana as factions with divergent interests. Freysa's 'we are our own masters' and 'we are building our own army' mark the replicants as class conscious, aware of their Marxian 'species being', with nothing to lose but their chains."
+  },
+  {
+   "n": 43,
+   "file": "ch43 - I Know What’s Real.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "problem-of-evil"
+   ],
+   "relation": "Trip McCrossin's afterword works out what Deckard can mean by 'I know what's real': given the green eyes in the Voight-Kampff playback versus the brown eyes in Wallace's staged memory, Deckard is claiming the overwhelming authority of his own lived experience — of Rachael's eye color, their love, her personhood — over any recording or replica. He folds this into the book's larger move from the problem of personhood to the problem of evil, why bad things happen to good people, and the secular task of justifying the ways of Wallace, Tyrell, and the other ersatz gods. With Mr. Cotton's 'raining fire' echoing the Book of Job, the afterword presents the volume as an invitation to save ourselves by saving one another."
+  },
+  {
+   "n": 44,
+   "file": "ch44 - References.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 45,
+   "file": "ch45 - Those Who Hunt Them Still Go by the Name ….md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 46,
+   "file": "ch46 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 47,
+   "file": "ch47 - Blade Runner 2049 and Philosophy This Breaks the World.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "aesthetic-expression",
+   "name": "Art as Expression of Emotion (expression theory)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The Croce-Collingwood-Langer view that art expresses and communicates emotion (creating a 'virtual' of space or time) rather than merely arousing it, enabling person-to-person understanding.",
+   "why": "Chapter 13's middle section rests on expression theory and Langer's 'virtual' to argue replicants' aesthetic-emotional acts prove personhood, which taxonomy's kant-aesthetics does not cover."
+  },
+  {
+   "ch": 14,
+   "type": "philosopher",
+   "suggested_slug": "hierocles",
+   "name": "Hierocles",
+   "philosopher": "",
+   "domain": "ancient",
+   "what": "Stoic philosopher (c. 2nd century AD) whose concentric circles describe oikeiosis, the expansion of self-concern from one's own body outward to family, community, and all rational beings.",
+   "why": "Chapter 14 structures its four-stage account of K becoming human entirely around Hierocles's circles and the Stoic doctrine of oikeiosis."
+  },
+  {
+   "ch": 15,
+   "type": "philosopher",
+   "suggested_slug": "condillac",
+   "name": "Étienne Bonnot de Condillac",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "Enlightenment empiricist whose living-statue thought experiment traces how touch alone generates awareness of one's body, external objects, and the self.",
+   "why": "Chapter 15 uses Condillac's statue (and Maine de Biran's revision of it) as the isolated-subject account of humanness that the film's relational, hands-and-touch answer refutes."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "posthumanism",
+   "name": "Posthumanism",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The view (associated with N. Katherine Hayles) that persons are amalgams of biological and informational-technological components, so the human is not tied to the natural human body.",
+   "why": "Chapter 16's entire argument that replicants and Joi are 'posthuman' — bodies and identities built from bioengineering, artificial memory, and technology — rests on Hayles's posthumanist theory, absent from taxonomy."
+  },
+  {
+   "ch": 17,
+   "type": "philosopher",
+   "suggested_slug": "mary-anne-warren",
+   "name": "Mary Anne Warren",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Philosopher whose five-criteria functionalist test (consciousness, reason, self-motivated activity, communication, self-awareness) defines personhood independently of species membership.",
+   "why": "Chapter 17 measures Joi against Warren's five personhood criteria before mounting the Buddhist no-self challenge against them."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "two-truths",
+   "name": "Doctrine of the Two Truths",
+   "philosopher": "nagarjuna",
+   "domain": "eastern-world",
+   "what": "Nagarjuna's distinction between conventional truth (persons and objects usefully exist) and ultimate truth (nothing exists independently), allowing both levels to be true at once.",
+   "why": "Chapter 17 resolves whether Luv murdered Joi and who can be punished through the two truths, the chapter's explicitly named solution concept."
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "picture-theory",
+   "name": "Picture Theory of Language",
+   "philosopher": "wittgenstein",
+   "domain": "mind-language-metaphysics",
+   "what": "The Tractatus view that language works by picturing possible states of affairs, which need not describe how things actually are.",
+   "why": "Chapter 23 explains Wallace's poetic, possibility-painting speech ('storm Eden and retake her') through Wittgenstein's picture theory, a different doctrine from taxonomy's later-Wittgenstein language-games."
+  },
+  {
+   "ch": 32,
+   "type": "philosopher",
+   "suggested_slug": "william-blake",
+   "name": "William Blake",
+   "philosopher": "",
+   "domain": "nineteenth-century",
+   "what": "Poet-artist whose mythology of Orc, Lucifer, and the contraries pictures rebellion against God as the energetic source of freedom and creativity.",
+   "why": "Chapter 32 opens with Batty's misquoted Blake, reads Roy as Blake's Orc, and quotes The Marriage of Heaven and Hell to frame the films' angelic rebellion."
+  },
+  {
+   "ch": 32,
+   "type": "concept",
+   "suggested_slug": "great-chain-of-being",
+   "name": "The Great Chain of Being",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "Hierarchical Christian cosmology ranking every being from God down to inert matter, each fulfilling the place and purpose assigned by its maker.",
+   "why": "Chapter 32 uses the Great Chain of Being's contradiction between ontological place and moral freedom to explain Wallace's angels and what it means to go off baseline."
+  },
+  {
+   "ch": 36,
+   "type": "concept",
+   "suggested_slug": "becoming-woman-deleuze",
+   "name": "Becoming-Woman (Deleuze and Guattari)",
+   "philosopher": "deleuze",
+   "domain": "political-social",
+   "what": "Deleuze and Guattari's concept of the girl/woman as a destabilizing vacancy or universal other that transforms masculine binary structures — distinct from Beauvoir's account of becoming a woman.",
+   "why": "Chapter 36's whole reading of Joi, Luv, and Rachael is built on Deleuze and Guattari's becoming-woman; taxonomy's becoming-woman slug is Beauvoir's different feminist concept."
+  },
+  {
+   "ch": 38,
+   "type": "philosopher",
+   "suggested_slug": "hayek",
+   "name": "Friedrich Hayek",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Austrian liberal economist who argued markets aggregate dispersed knowledge better than planners and that state economic control slides into totalitarianism (The Road to Serfdom).",
+   "why": "Chapter 38 uses Hayek's three Road to Serfdom arguments to read stateless, corporate-dominated Los Angeles as the realized libertarian utopia."
+  },
+  {
+   "ch": 38,
+   "type": "concept",
+   "suggested_slug": "neo-roman-liberty",
+   "name": "Neo-Roman Liberty (freedom as non-dependence)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The republican tradition (Roman law, Sidney, Machiavelli, recovered by Quentin Skinner) defining freedom as independence from another's will, not mere absence of interference.",
+   "why": "Chapter 38 needs neo-Roman liberty to explain Luv as a slave despite never being coerced — the blind spot it exposes in Nozick's and Berlin's negative liberty."
+  },
+  {
+   "ch": 39,
+   "type": "philosopher",
+   "suggested_slug": "mary-midgley",
+   "name": "Mary Midgley",
+   "philosopher": "",
+   "domain": "environment-animal",
+   "what": "Philosopher who grounded moral considerability in suffering, emotional fellowship, and minding what happens to one, rather than in species membership.",
+   "why": "Chapter 39 uses Midgley's three 'Persons and Nonpersons' criteria to argue that replicants and undocumented immigrants plainly qualify as persons."
+  },
+  {
+   "ch": 40,
+   "type": "concept",
+   "suggested_slug": "ethnic-identity-constructivism",
+   "name": "Primordialism vs Constructivism (ethnic identity)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Social-science debate over whether ethnic identity is a fixed inheritance by birth and nature or a fluid construct activated by social and political context.",
+   "why": "Chapter 40's analysis of replicants as an ethnic group and of K's identity shift rests entirely on the primordialism-constructivism framework."
+  },
+  {
+   "ch": 41,
+   "type": "concept",
+   "suggested_slug": "capitalist-realism",
+   "name": "Capitalist Realism",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Mark Fisher's claim that capitalism is widely held to be the only viable political-economic system, foreclosing the imagination of coherent alternatives.",
+   "why": "Chapter 41 argues 2049's dystopia cannot picture a post-capitalist future because capitalist realism has captured its imagination."
+  }
+ ]
+}

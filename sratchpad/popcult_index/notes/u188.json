@@ -1,0 +1,524 @@
+{
+ "book": "123 - The Handmaid's Tale and Philosophy - A Womb of One's Own",
+ "unit": "u188",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - The Handmaid’s Tale and Philosophy A Womb of One’s Own.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Thanks.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Resisting Dystopia.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "utopia-dystopia",
+    "objectification",
+    "feminism"
+   ],
+   "relation": "The editor's introduction argues that The Handmaid's Tale disturbs us because it shows how tenuous our civil liberties are, so we must actively watch political events for warning signs. It insists that a woman's value is not fixed by her body, fertility, or attractiveness—Handmaids are treated as incubators and commodities—and that the caring work women do is a power, not a weakness. It closes on the lesson that facts, not politicians, control the narrative, ending with 'Nolite te bastardes carborundorum.'"
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Part I But They Were Godless.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 1. A Great Darkness Filled with Echoes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "utopia-dystopia",
+    "arendt-totalitarianism",
+    "feminism"
+   ],
+   "relation": "De Vaul argues Gilead terrifies because social cycle theory structures it: every detail, from the Puritan wedding-night sheet to Stalin-style purges and the Nazi and residential-school seizure of children, already happened, so Gilead reads as speculative rather than science fiction. Atwood's three stated influences—Puritan New England, the 1980s religious right, and Orwell's Nineteen Eighty-Four—show history cycling back, with June as the apolitical 'backlash' daughter her second-wave mother Holly and the activist Moira both predicted. The pattern repeats at small scale (June relives the former Offred's Scrabble-and-affair story, Omar's family suffers June's own fate) and in the Historical Notes, where Pieixoto strips Offred of authorship, proving 'the past is a great darkness, filled with echoes.'"
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 2. Dystopia from a Woman’s Point of View.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "kierkegaard",
+    "beauvoir",
+    "aristotle",
+    "marx"
+   ],
+   "concepts": [
+    "utopia-dystopia",
+    "leap-of-faith"
+   ],
+   "relation": "Robison-Greene reads The Handmaid's Tale as Atwood's answer to Nineteen Eighty-Four—a dystopia 'from the female point of view'—comparing how both regimes suppress critical thought by banning women's reading, rewriting texts (the Marx slogan 'from each according to her ability' passed off as St. Paul), and manufacturing perpetual war. She deploys Nietzsche's 'monumental' abuse of history, Kierkegaard's leap of faith (Offred's three contradictory versions of Luke's fate), and doublethink to show that believing contradictions becomes both the regime's tool and the victim's survival strategy. The woman's lens adds that reducing women to reproductive function (Marthas, Aunts, Jezebels) thrives where thinking is suppressed, that Beauvoir's point about women's complicity in their oppression is embodied by the Aunts, and that Offred and Nick's affair, like Winston and Julia's, is the act of freedom the Party can never quite own."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 3. Gestational Totalitarianism.md",
+   "kind": "chapter",
+   "philosophers": [
+    "arendt",
+    "aristotle",
+    "plato",
+    "marx"
+   ],
+   "concepts": [
+    "arendt-totalitarianism",
+    "feminism",
+    "plato-cave"
+   ],
+   "relation": "Kolb reads Gilead through Arendt's The Human Condition and The Origins of Totalitarianism: when reproduction becomes the means of production, women's labor is targeted, forcing fertile women into Animal laborans status as 'national resources' while denying them the creative freedom of Homo faber. She traces the polis/oikos split from Aristotle through Puritan capitalism to show Gilead overcorrecting into Aunt Lydia's 'freedom from'—totalitarian control of birth legitimized by the Rachel and Bilhah story and a Pauline creation story. The chapter ends with the transitional generation's forgetting (Offred's cave-delusion with Nick evoking Plato's Allegory of the Cave, the Holocaust documentarian 'thinking about how not to think') and Ofglen's bomb, arguing that thoughtfulness and literacy, not violence, are the only hopes against totalitarianism."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 4. The United States of Gilead.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "arendt-totalitarianism",
+    "feminism",
+    "utopia-dystopia",
+    "correspondence-theory-of-truth"
+   ],
+   "relation": "Greene argues that the contemporary United States under Trump exhibits early Gilead-like symptoms, detailing five shared techniques: othering (the Aunts' stereotypes of pre-Gilead women vs. Trump on Mexicans and Muslims), separating children from parents (Handmaid births and seizure of Hannah vs. immigrant detention camps), gaslighting (Janine's 'her fault' Testifying vs. inauguration-crowd and Mueller claims), discrediting dissent (Gilead's ban on reading vs. 'fake news'), and lying (Gilead's founding promise of elections vs. thousands of false claims and 'alternative facts'). He grounds the danger in the correspondence theory of truth: once leaders detach belief from how the world actually is, society is a small step from Atwood's dystopia."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Part II Faith Is Only a Word, Embroidered.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 5. Inside Gilead’s Misogynist Parlors.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rorty",
+    "nietzsche",
+    "freud",
+    "camus"
+   ],
+   "concepts": [
+    "just-war-theory",
+    "moral-relativism",
+    "utopia-dystopia"
+   ],
+   "relation": "Hirschbein unravels the Genesis story of Abraham, Sarah, and Hagar as the script Gilead rereads to rationalize its 'misogynist parlors,' arguing that Gilead's exegesis is propaganda rather than scholarship—cherry-picking scripture that Nietzsche joked would appall the actual Jesus. He then spins the reader's moral compass: with Rorty's ironist he asks whether anyone initiated into Abraham's tribe or raised in Gilead can be blamed—are even Hitler and Commander Waterford products of their time?—and weighs Ofglen's suicide bombing of the Rachel and Leah Center against just war criteria of proportion, innocence, and chance of success. Finally, with Freud and Niebuhr, he suggests the Sons of Jacob built their surveillance state on a depraved view of human nature, so utopian schemes—Gilead included—are doomed from the founding."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 6. Serena Joy, Miserable, Despicable.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "beauvoir",
+    "aristotle",
+    "boethius"
+   ],
+   "concepts": [
+    "bad-faith",
+    "ethics-of-ambiguity",
+    "moral-psychology"
+   ],
+   "relation": "Elsby refuses to see Serena Joy as a self-determined villain, arguing she annihilates her own freedom—negating her humanity in Beauvoir's sense—to become an empty vessel for Gilead's will. Working through Aristotle on coerced and 'mixed' actions and the bad-upbringing excuse, Sartre on freedom and responsibility in Being and Nothingness, and Beauvoir's Ethics of Ambiguity, she asks how much blame an oppressed woman deserves who nonetheless helped build her own subjugation and holds June down during the Ceremony. The answer runs through bad faith: Serena deceives herself until raping June is no longer a necessary wrong but a good in itself, and the 'unwomen' logic echoes Boethius's claim that evildoers cease to be human—comprehensible, but still abhorrent."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 7. Remix in Gilead.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard",
+    "deleuze",
+    "marx"
+   ],
+   "concepts": [
+    "simulacra"
+   ],
+   "relation": "Walker frames Gilead as a remix: the Sons of Jacob sample scripture under restrictive rules (the Bilhah Ceremony, the doctored Beatitudes, Marx's slogan misattributed to St. Paul), like Danger Mouse's Grey Album, while Offred herself remixes the Lord's Prayer and 'Amazing Grace.' Using Pieixoto's line that Gilead's 'genius was synthesis,' he argues via Baudrillard that no original Christianity exists against which to judge Gilead—we live among simulacra, so Gilead is 'presented as unique in order to hide that it is Christianity'—and via Deleuze that Pieixoto and Wade's assembly of Offred's cassettes is a new original rather than a degraded copy. The payoff is that the question of authenticity is misguided, and gradual, unnoticed change is what lets regimes like Gilead assemble themselves."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 8. From the Handmaid’s Tale to the Handmaids’ Tale.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rousseau"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "rousseau-social-contract",
+    "rousseau-natural-goodness"
+   ],
+   "relation": "McCrossin reads Offred's silent prayers ('I want to know what I did to deserve this') as channeling the Book of Job, using Susan Neiman's distinction between the theological and secular problem of evil: even if we stop demanding explanations from God, we must still make evil intelligible, as Janine's Testifying cruelly refuses to do. He sets Rousseau against Voltaire on whether morality requires making evil intelligible, finding June Rousseauian for piecing together Gilead's hidden prehistory at the Boston Globe and for acting from compassion, as with the bread-truck driver's secret Quran. The Salvaging refusal—Ofglen first, then Offred, then sixty-five stones dropped with 'I'm sorry, Aunt Lydia'—shows compassion becoming solidarity and solidarity becoming a general will, transforming The Handmaid's Tale into The Handmaids' Tale."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Part III Dying of Too Much Choice.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 9. A Rose by Any Other Brand.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heraclitus",
+    "aristotle",
+    "socrates",
+    "plato"
+   ],
+   "concepts": [
+    "heraclitean-flux",
+    "aristotle-four-causes",
+    "socratic-ignorance"
+   ],
+   "relation": "Callis treats Gilead's rise as a marketing campaign, reading it through Thom Braun's philosophy of branding built on Heraclitus (brands as false stability amid flux, the 'hidden connection' of the 'Balm in Gilead' hymn), Socratic questioning that Gilead forbids its citizens, Plato's brand-as-becoming, and Aristotle's four causes (the Sons of Jacob as efficient cause, the subjugation of women as the brand's function). She argues the brand was doomed because its core premise—that women exist to breed—is false, so Waterford's quip that love is 'lust with a good marketing campaign' foreshadows its Shakespearean collapse. The resistance works the other way: handmaids reclaiming their real names ('My name is June—and I will survive') is what breaks the brand."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 10. Babies and Pleasures.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "bentham"
+   ],
+   "concepts": [
+    "panopticon",
+    "discipline",
+    "power-knowledge",
+    "biopower"
+   ],
+   "relation": "Wesch uses Foucault's Discipline and Punish to explain how ordinary women so quickly served Gilead: power is exercised rather than possessed, so Offred enjoying the Guardians' frustration, the 'Her fault!' Testifying, and the Particicution show everyone wielding whatever power is within reach. Gilead is a panopticon in Bentham's sense—the Eyes, paired shopping, 'Under His Eye'—where unverifiable surveillance makes citizens their own overseers, while biopower sorts desirable from undesirable populations, 'making live' fertile Handmaids (shatterproof glass against suicide) and letting Unwomen and unbabies die in the Colonies. Resistance is Foucauldian too: Offred's remembered food, Moira's bathroom gossip, and sex with Nick are the 'bodies and pleasures' that counterattack the deployment of sexuality."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - 11. What about the Men.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "feminism",
+    "epistemic-injustice"
+   ],
+   "relation": "Jones argues that Nick is coerced as surely as June—ordered by Serena, married off to Eden, unable to refuse without Gilead's punishments—so calling his unwilling sex rape should be uncontroversial. Yet he then argues the 'what about the men?' question itself is inappropriate: because politics and film are male-dominated (19 percent women in Congress, 4.1 percent of top films directed by women), women's lived experience rarely gets center stage, and male readers instinctively bend such rare texts back toward themselves. Pieixoto's flirty, fact-obsessed keynote is the model of this failure, and the challenge for male viewers is to listen to what the show says about women's experience—including #MeToo-era sexual violence—without making it about men."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 12. Gilead as Palimpsest.md",
+   "kind": "chapter",
+   "philosophers": [
+    "levinas",
+    "derrida",
+    "dubois"
+   ],
+   "concepts": [
+    "deconstruction",
+    "levinas-face",
+    "double-consciousness"
+   ],
+   "relation": "Ketcham likens Offred's existence to holocaust by degree: her name is overwritten as the Nazis tattooed forearms, and her past survives like ink bleeding through a palimpsest. Using Derrida's sous rature (via Spivak's introduction and Heidegger's crossed-out words)—the word crossed out yet necessary—he reads her memories as 'under erasure,' and through Levinas's 'useless suffering' shows how her cocooned passivity severs her from the responsibility-for-the-other in which Levinas locates freedom, which is exactly what the he-theonomy needs to rule. With Du Bois's double consciousness and the Hitler parallel, the chapter warns that ideologues promising to cure suffering—Hitler, the Sons of Jacob—only write a new, more oppressive text over the erased old one."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Part IV How Easy It Is to Invent a Humanity, for Anyone at All.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 13. Gilead vs. the Self.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aristotle"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "kant-respect",
+    "feminism"
+   ],
+   "relation": "Holberg argues that on Kantian grounds Gilead is morally incoherent—Handmaids are treated as mere means, vessels without agency—and that it sustains itself by attacking self-respect through two temporal modes: the quick onset of fear (Aristotle's account in the Rhetoric applied to the machine-gun arrests of women at their jobs) and the slow grind of shame (empty time that turns women into 'objects not in use' and manufactures a veneer of consent: 'nothing is going on here that I haven't signed up for'). Agency needs recognition from others—love as the most basic acknowledgment, or invoking Moira ('Moira would never stand for this shit')—so June's 'I tell, therefore you are' and the reader's duty to affirm her judgment carry the feminist-Kantian point: dependency on others does not negate the self, it is what constitutes it."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 14. The Value of a Handmaid.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "marx",
+    "bourdieu"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "commodity-fetishism",
+    "moral-relativism"
+   ],
+   "relation": "Pérez assesses a Handmaid's value through Kant—Gilead gives women a price, not a dignity, so the Gilead–Mexico trade deal is human trafficking dressed as diplomacy—and through Marx's use value and exchange value, with fertility the commodity and Jezebels carrying both market and affective price. He adds Bourdieu's forms of capital to show Offred's social and resistant cultural capital against Janine's collapse, then weighs cultural relativism (via Renteln and Herodotus) before rejecting it for Gilead: its values were improvised and forced rather than naturally evolved, so the culture itself earns no pass. The Handmaids' refusal to stone Janine shows their collective worth: 'They should've never given us uniforms if they didn't want us to be an army.'"
+  },
+  {
+   "n": 28,
+   "file": "ch28 - 15. June the Stoic.md",
+   "kind": "chapter",
+   "philosophers": [
+    "epictetus",
+    "camus",
+    "bentham"
+   ],
+   "concepts": [
+    "stoicism",
+    "dichotomy-of-control",
+    "care-ethics"
+   ],
+   "relation": "Lequien asks how June might endure Gilead and answers with Epictetus: like the slave-philosopher, she can locate freedom in what is 'up to her'—detaching from her body during the Ceremony ('What he is fucking is the lower part of my body'), relinquishing property, and learning not to call husband or daughter her own. He tests alternatives—Camus's question of suicide (the shatterproof glass), utilitarianism (the coerced 'We are very happy'), Tronto's care ethics (Gilead smothers the sorority that could make care meaningful), and the Particicution as a licensed Two Minutes Hate—before concluding that 'Nolite te bastardes carborundorum' functions as June's Stoic mantra: mastery of her own responses is the one victory the Sons of Jacob cannot take."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 16. Who Is the Meanest of Them All.md",
+   "kind": "chapter",
+   "philosophers": [
+    "arendt",
+    "kant"
+   ],
+   "concepts": [
+    "banality-of-evil",
+    "arendt-totalitarianism",
+    "kant-humanity-formula"
+   ],
+   "relation": "Frunză and Grad apply Arendt's banality of evil to Gilead: the Commander is 'not Iago, not Macbeth' but an Eichmann—sheepish, Scrabble-playing, 'thinking about how not to think'—and no character holds a monopoly on evil because everyone is 'too banal' for demonic profundity. They test his 'just doing my duty' against Kant (duty requires universalizing what reason can will and never treating persons as means, so the Aunts' reeducation camps fail the test) and use The Origins of Totalitarianism to read Handmaids as rightless people whose 'two-legged wombs' status mirrors statelessness. Arendt's web of guilty complicities explains why resistance is scarce, and the chapter ends with banality eroding all criteria for judging—leaving Offred's 'the darkness within; or else the light' as the final choice."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Part V I Tell, Therefore You Are.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 17. The Red and the Black.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein",
+    "aristotle",
+    "benjamin",
+    "adorno"
+   ],
+   "concepts": [
+    "language-games"
+   ],
+   "relation": "The chapter reads Gilead's color system philosophically: Aristotle's On Colors already treated color as a signifier of something beyond itself, and Goethe's red-as-dignity-and-awakening sits ironically against the Handmaids' sexual servitude, a meaning the show deliberately 'mutilates' and reassigns. Wittgenstein supplies the core apparatus—colors mean by use within a language game—so red signifies sexual servitude only inside Gilead's rigid classificatory system, and when June burns her dress in 'June' red flips to blood and freedom. Walter Benjamin's child's view of color (the subversive blending crushed when a mix gets fixed as a name, like the Wives' teal) and Adorno's claim that radical contemporary art is black close the argument: Gilead's violence is to impose one univocal, authorized meaning on what should stay open to play."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - 18. Smoke and Mirrors in Gilead.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates"
+   ],
+   "concepts": [
+    "plato-justice",
+    "plato-cave",
+    "plato-ring-of-gyges"
+   ],
+   "relation": "St. Martin structures Gilead with Plato's Republic: Thrasymachus's 'justice is the advantage of the stronger' is the Sons of Jacob's operating principle (the Wall, the cattle prods, 'removing the damaged ones' from the ambassador's reception), and Glaucon's claim that it is best to do injustice without paying the penalty describes Commanders, while Handmaids suffer injustice with no revenge. She maps Socrates's division of labor onto Gilead's color-coded castes (Handmaids, Marthas, Aunts, Wives), then uses Glaucon's mocking 'city of sows' to show Gilead betraying even that model, since the regime exists to keep men powerful rather than babies alive—baby Charlotte recovers only when reunited with Janine. Serena's awakening after Eden's execution is an emergence from the cave, and the chapter closes that justice must be chosen for its own sake, with biases checked."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - 19. How Language Shapes Reality in Gilead.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein"
+   ],
+   "concepts": [
+    "language-games"
+   ],
+   "relation": "Guerra and Barkman use Wittgenstein's Philosophical Investigations—words have no precise boundaries, family resemblance replaces strict definitions, meaning is use—to explain how Gilead engineers reality. Its two maneuvers are coining negations ('unwoman,' 'unbaby') that turn feminists, lesbians, and disabled infants into disposable non-persons, and assigning role-titles ('Commander,' 'Handmaid,' 'Angels') whose inherited connotations slot people into social positions before they can speak. Offred's riff on the word 'chair' (the leader of a meeting, a mode of execution, the French word for flesh) shows she intuits the lesson: because meaning lives in use, whoever controls use controls what counts as real."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - 20. Under a Watchful Eye.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "bentham"
+   ],
+   "concepts": [
+    "power-knowledge",
+    "discipline",
+    "panopticon"
+   ],
+   "relation": "Timm gives a full Foucauldian reading: the Sons of Jacob's biblical 'knowledge' is a regime of truth produced by power (via the genealogical method Foucault took from Nietzsche), and Gilead rules less by sovereign violence (particicutions, the Wall) than by disciplinary power that defines, sorts, confines, and retrains—precisely the asylum-prison-school trajectory of Foucault's History of Madness and Discipline and Punish. The Red Center is that institution in miniature (Janine's 'Her fault, her fault'), the black vans with painted Eyes enact Bentham's Panopticon—power 'visible and unverifiable'—and biopower's medicalized control of women's reproductive bodies ties Gilead to Iowa's 2018 fetal heartbeat law. Offred's small refusals—her hidden name, the night that is 'mine,' the act of telling her tale—are the resistance Foucault always found inside disciplinary power."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Part VI Gilead in the Rearview Mirror.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - 21. A Response to Professor Pieixoto.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "beauvoir"
+   ],
+   "concepts": [
+    "aristotle-practical-wisdom",
+    "aristotle-eudaimonia",
+    "becoming-woman",
+    "aristotle-golden-mean"
+   ],
+   "relation": "Doll writes a fictional keynote by 'Professor Anadicrad' answering Pieixoto's 'our job is not to censure but to understand': the fact that we view the past through an anachronistic lens does not forbid normative judgment, since Aristotle's practical wisdom—honed by hindsight, aiming at the golden mean and eudaimonia—gives historians a standard for judging whether a society cultivated virtue or vice. Gilead fails that standard spectacularly: it banned the reading that shapes values, reduced women to reproductive function, and required heteronormative forced procreation, blocking the relationships and habits flourishing needs. Beauvoir corrects even Aristotle's own biology-based view of women, and the chapter closes that a purely descriptive history would doom us to repeat Gilead's atrocities."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - References.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Mayday Members.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 39,
+   "file": "ch39 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 40,
+   "file": "ch40 - The Handmaid’s Tale and Philosophy A Womb of One’s Own.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "social-cycle-theory",
+   "name": "Social Cycle Theory",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The view, traced from Plato, Aristotle, and Sima Qian to modern sociologists, that political history repeats in cycles rather than progressing linearly.",
+   "why": "Chapter 11's entire reading of Gilead as a credible near future rests on social cycles—Puritanism, purges, and child-seizures recur, and June repeats the former Offred's story."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "monumental-history",
+   "name": "Monumental History (use and abuse of history)",
+   "philosopher": "nietzsche",
+   "domain": "nineteenth-century",
+   "what": "Nietzsche's account of the dangerous, mythologizing use of the past to glorify a regime, contrasted with a critical use of history in the service of life.",
+   "why": "Chapter 12 reads Gilead's and Ingsoc's rewritten Bibles and records as precisely Nietzschean monumentalism and contrasts it with the critical approach to history."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "correspondence-theory-of-truth",
+   "name": "Correspondence Theory of Truth",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The theory that a belief or statement is true if and only if it corresponds to the way the world actually is.",
+   "why": "Chapter 14's case that Trump-era 'alternative facts' echo Gilead rests wholly on this theory: an alternative fact is a proposition that fails to correspond with reality."
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "remix-culture",
+   "name": "Remix Culture (sampling and transformation)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The theory, from remix studies, that all cultural production samples and transforms prior material, so no work is a pure original and no original exists to copy.",
+   "why": "Chapter 18 frames Gilead as a restrictive remix of scripture and reads Offred's tale as an always-already-reconstructed remix, dissolving the question of Gilead's authenticity."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "biopower",
+   "name": "Biopower (making live and letting die)",
+   "philosopher": "foucault",
+   "domain": "political-social",
+   "what": "Foucault's notion of modern power over life: managing populations through birth, death, health, and reproduction, fostering some groups and letting others die.",
+   "why": "Chapter 22's core reading of Gilead—sorting desirable from undesirable populations, keeping fertile Handmaids alive, letting Unwomen and unbabies die—is biopower, which chapter 34 also applies to the medicalized control of women's bodies."
+  },
+  {
+   "ch": 27,
+   "type": "philosopher",
+   "suggested_slug": "bourdieu",
+   "name": "Pierre Bourdieu",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "French sociologist and philosopher who analyzed power through forms of capital—economic, social, cultural, and resistant—rather than money alone.",
+   "why": "Chapter 27 uses Bourdieu's capitals to explain what value and power a Handmaid like Offred can hold when money is worthless and relationships and know-how are everything."
+  }
+ ]
+}

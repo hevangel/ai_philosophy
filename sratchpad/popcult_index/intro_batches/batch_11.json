@@ -1,0 +1,107 @@
+[
+ {
+  "key": "phil:dubois",
+  "name": "W.E.B. Du Bois",
+  "kind": "philosopher",
+  "dates": "1868–1963",
+  "domain": "Feminist, Gender & Race Philosophy"
+ },
+ {
+  "key": "phil:mills",
+  "name": "Charles W. Mills",
+  "kind": "philosopher",
+  "dates": "1951–2021",
+  "domain": "Feminist, Gender & Race Philosophy"
+ },
+ {
+  "key": "phil:fanon",
+  "name": "Frantz Fanon",
+  "kind": "philosopher",
+  "dates": "1925–1961",
+  "domain": "Feminist, Gender & Race Philosophy"
+ },
+ {
+  "key": "phil:appiah",
+  "name": "Kwame Anthony Appiah",
+  "kind": "philosopher",
+  "dates": "b. 1954",
+  "domain": "Feminist, Gender & Race Philosophy"
+ },
+ {
+  "key": "phil:fricker",
+  "name": "Miranda Fricker",
+  "kind": "philosopher",
+  "dates": "b. 1966",
+  "domain": "Feminist, Gender & Race Philosophy"
+ },
+ {
+  "key": "phil:cornel-west",
+  "name": "Cornel West",
+  "kind": "philosopher",
+  "dates": "b. 1953",
+  "domain": "Feminist, Gender & Race Philosophy"
+ },
+ {
+  "key": "phil:leopold",
+  "name": "Aldo Leopold",
+  "kind": "philosopher",
+  "dates": "1887–1948",
+  "domain": "Environmental & Animal Ethics"
+ },
+ {
+  "key": "phil:naess",
+  "name": "Arne Naess",
+  "kind": "philosopher",
+  "dates": "1912–2009",
+  "domain": "Environmental & Animal Ethics"
+ },
+ {
+  "key": "phil:plumwood",
+  "name": "Val Plumwood",
+  "kind": "philosopher",
+  "dates": "1939–2008",
+  "domain": "Environmental & Animal Ethics"
+ },
+ {
+  "key": "phil:warren",
+  "name": "Karen J. Warren",
+  "kind": "philosopher",
+  "dates": "b. 1947",
+  "domain": "Environmental & Animal Ethics"
+ },
+ {
+  "key": "phil:regan",
+  "name": "Tom Regan",
+  "kind": "philosopher",
+  "dates": "1938–2017",
+  "domain": "Environmental & Animal Ethics"
+ },
+ {
+  "key": "phil:paley",
+  "name": "William Paley",
+  "kind": "philosopher",
+  "dates": "1743–1805",
+  "domain": "God, Faith & the Meaning of Life"
+ },
+ {
+  "key": "phil:plantinga",
+  "name": "Alvin Plantinga",
+  "kind": "philosopher",
+  "dates": "b. 1932",
+  "domain": "God, Faith & the Meaning of Life"
+ },
+ {
+  "key": "phil:tillich",
+  "name": "Paul Tillich",
+  "kind": "philosopher",
+  "dates": "1886–1965",
+  "domain": "God, Faith & the Meaning of Life"
+ },
+ {
+  "key": "phil:buber",
+  "name": "Martin Buber",
+  "kind": "philosopher",
+  "dates": "1878–1965",
+  "domain": "God, Faith & the Meaning of Life"
+ }
+]

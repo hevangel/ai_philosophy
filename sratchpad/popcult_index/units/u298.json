@@ -1,0 +1,135 @@
+{
+ "unit": "u298",
+ "book": "209 - Basketball and Philosophy - Thinking Outside the Paint",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\209 - Basketball and Philosophy - Thinking Outside the Paint",
+ "range": [
+  1,
+  21
+ ],
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - The Philosophy of Popular Culture.md",
+   "words": 248
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Title Page.md",
+   "words": 26
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Copyright Page.md",
+   "words": 185
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Dedication Page.md",
+   "words": 44
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Contents.md",
+   "words": 308
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Power Foreword.md",
+   "words": 393
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Acknowledgments.md",
+   "words": 283
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Tip-Off.md",
+   "words": 981
+  },
+  {
+   "n": 9,
+   "file": "ch09 - First Quarter Baseline Values, Enduring Lessons.md",
+   "words": 6
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Building Communities One Gym at a Time.md",
+   "words": 4414
+  },
+  {
+   "n": 11,
+   "file": "ch11 - To Hack or Not to Hack.md",
+   "words": 5021
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Basketball Purists.md",
+   "words": 4741
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Hardwood Dojos.md",
+   "words": 4564
+  },
+  {
+   "n": 14,
+   "file": "ch14 - What Would Machiavelli Do.md",
+   "words": 5265
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Basketball, Violence, Forgiveness, and Healing.md",
+   "words": 4891
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Breaks of the Game.md",
+   "words": 4706
+  },
+  {
+   "n": 17,
+   "file": "ch17 - The Beauty of the Game.md",
+   "words": 3665
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Second Quarter Prime-Time Players, Coaches, and Sages.md",
+   "words": 8
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Zen Master and the Big Aristotle.md",
+   "words": 3484
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Wilt Versus Russell.md",
+   "words": 5232
+  },
+  {
+   "n": 21,
+   "file": "ch21 - The Wizard versus the General.md",
+   "words": 6430
+  }
+ ],
+ "content": [
+  1,
+  5,
+  6,
+  7,
+  8,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  19,
+  20,
+  21
+ ]
+}

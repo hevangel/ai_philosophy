@@ -1,0 +1,598 @@
+{
+ "book": "167 - The Ultimate Harry Potter and Philosophy - Hogwarts for Muggles",
+ "unit": "u244",
+ "chapters": [
+  {
+   "n": 56,
+   "file": "ch56 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 57,
+   "file": "ch57 - PART THREE - POTTERWATCH FREEDOM AND POLITICS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 58,
+   "file": "ch58 - The Dangers of Patriotism.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "communitarianism",
+    "cosmopolitanism-ethics"
+   ],
+   "relation": "Andrew Mills opens the essay 'Patriotism, House Loyalty, and the Obligations of Belonging' by treating Hogwarts House membership as a model of patriotism: Hermione should back the Gryffindor Quidditch team and help Ron and Harry earn House points, and would be a traitor if she helped Crabbe and Goyle or sabotaged Harry's Nimbus 2000 so Hufflepuff won. He asks whether this loyalty is a virtue, as our admiration for patriotic leaders and soldiers suggests, or a vice that would make patriots resemble Voldemort and the Death Eaters."
+  },
+  {
+   "n": 59,
+   "file": "ch59 - Death Eaters and Discrimination.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "cosmopolitanism-ethics"
+   ],
+   "relation": "The chapter takes up the case that patriotism is a vice, quoting Tolstoy's definition of patriotism as 'the desire for the exclusive good of one's own nation' and Emma Goldman's charge that patriotism rests on conceit, arrogance, and egotism about the accident of birthplace. Mills argues this gives patriots a Voldemort-like sense of superiority, forcing other nations to serve one's interests 'at the tip of a wand or at the barrel of a gun,' since preferring compatriots for something unchosen mirrors preferring people by blood status."
+  },
+  {
+   "n": 60,
+   "file": "ch60 - The Sorting Hat Speaks Division and Divisiveness.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bentham",
+    "kant",
+    "mill"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "utilitarianism"
+   ],
+   "relation": "Against Death Eater blood-purity, the chapter sets the ethical tradition of equal moral worth: Bentham's 'each to count for one, and none for more than one' (the Minister of Magic's pain matters no more than a house-elf's or a Blast-Ended Skrewt's) and Kant's demand to treat humanity never merely as a means. It applies this to Potterwatch's 'every human life is worth the same, and worth saving' and to Hermione's S.P.E.W. campaign against house-elf 'slave labor,' then asks how patriotic preference for compatriots differs in kind from racism and sexism."
+  },
+  {
+   "n": 61,
+   "file": "ch61 - Patriotism and Global Conflict.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "cosmopolitanism-ethics"
+   ],
+   "relation": "The chapter argues that patriotism divides us when unity is needed: the Sorting Hat's fifth-year song fears Hogwarts will 'crumble from within' before external foes, and Ron's Triwizard jealousy of Hermione's friendship with Durmstrang champion Viktor Krum ('It's about winning!') shows national rivalry poisoning international goodwill. Dumbledore's lesson that 'we are only as strong as we are united' is extended to global crises like global warming and oil wars, with Dumbledore's Army as proof that House divisions dissolve when a common threat affects everyone equally."
+  },
+  {
+   "n": 62,
+   "file": "ch62 - Patriotism Restored.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "cosmopolitanism-ethics"
+   ],
+   "relation": "The chapter adds a resource-consumption objection: if loving your country means securing the middle-class 'good life' for your countrymen, that requires cheap labor abroad and more than a fair share of scarce resources, just as Hogwarts students' comfort rests on enslaved house-elves. Mills concludes that defending patriotism requires recasting it so that it never conflicts with the equal moral standing of all people."
+  },
+  {
+   "n": 63,
+   "file": "ch63 - The Importance of Community.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nussbaum"
+   ],
+   "concepts": [
+    "cosmopolitanism-ethics",
+    "communitarianism"
+   ],
+   "relation": "The chapter rehabilitates patriotism through Martha Nussbaum's cosmopolitanism: just as small Houses, House Cup competition, and family-like loyalty are the most effective means of giving every Hogwarts student the education she equally deserves, special care for compatriots can be justified 'in universalist terms,' as with parents who give their own children more love without thinking them morally more important. Patriotism is a virtue when it serves the interests of all countries' citizens and a vice when it fosters injustice and inequality, with Ron's Triwizard struggles showing how hard the line is to draw."
+  },
+  {
+   "n": 64,
+   "file": "ch64 - Human Flourishing and the Preservation of Dying Cultures.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "communitarianism",
+    "political-animal",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "The chapter defines communitarianism, the view that flourishing requires membership in a tradition-bound community, and reads the Death Eaters' blood-purity mantra as its violent extreme, noting Voldemort kills the Muggle Studies teacher for advocating cultural mixing and 'the dwindling of the purebloods.' Aristotle's claim that humans are 'political animals' grounds the idea that identity is community-constructed, illustrated by Harry's 'Boy Who Lived' identity and his misery 'under the stairs' cut off from the wizarding world; the chapter ends by weighing cultural preservation against individual liberty, as in debates over the oppression of women in traditional cultures."
+  },
+  {
+   "n": 65,
+   "file": "ch65 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "cosmopolitanism-ethics",
+    "communitarianism",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "The chapter stages Jeremy Waldron's challenge, whether people need rootedness in an ancestral culture the way they need food, clothing, and shelter, through the question of whether centaurs like Firenze should stay in the Forbidden Forest or assimilate into the wizarding world. It answers with a cosmopolitan reading of Harry's victory: his fluency in both Muggle and wizard worlds and his fellowship with Ron, Muggle-born Hermione, half-giant Hagrid, werewolf Lupin, part-veela Fleur, and centaur Firenze show that flourishing in the modern world requires moving among cultures rather than preserving purity."
+  },
+  {
+   "n": 66,
+   "file": "ch66 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 67,
+   "file": "ch67 - Is Dumbledore a Libertarian.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "minimal-state"
+   ],
+   "relation": "Admiraal and Reitsma open 'Dumbledore's Politics' by defining political libertarianism, a minimal state whose only legitimate task is protecting citizens from force, fraud, and theft, and report the claims of Travis Prinzi and law professor Benjamin Barton that Dumbledore is a small-government libertarian and the series 'an impregnable invective against government.' They object that the books contain no free-market or antiwelfare themes, Dumbledore never advocates any general political philosophy despite holding posts as Headmaster, Supreme Mugwump, and Chief Warlock, and he never utters stock libertarian slogans about self-ownership or the government that governs least."
+  },
+  {
+   "n": 68,
+   "file": "ch68 - Barton’s Libertarian Interpretation of the Potter Series.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke"
+   ],
+   "concepts": [
+    "minimal-state"
+   ],
+   "relation": "The chapter rebuts Prinzi's three arguments one by one: Dumbledore's distrust of power (cauldron-thickness regulations, Buckbeak's condemnation, Harry's underage-magic trial) does not make him libertarian, since Lord Acton's 'power corrupts' is accepted across political theories including America's checks and balances; his gradual, consent-respecting approach to freeing house-elves and his defense of despised minorities (the last giants, Hagrid, Lupin, Firenze) value liberty but not the distinctively robust libertarian right, which, as Locke's point about the civil magistrate and the 'care of souls' shows, also forbids paternalism and punishing victimless vices. Finally, Dumbledore's hands-off headmastership, letting Snape humiliate Neville and staying distant from Harry's battles, is not libertarian policy at all: even a libertarian official must protect people under his authority from abuse, schools are not states, and the state has no business inculcating the self-reliance Dumbledore wants his students to develop."
+  },
+  {
+   "n": 69,
+   "file": "ch69 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "minimal-state"
+   ],
+   "relation": "The chapter answers Barton's indictment of the Ministry, a prison designed to 'suck all life and hope' from inmates, trials without defense counsel, truth serum, constant surveillance, no elections, and a controlled press, by insisting that exasperation with bad governance is not an argument for the nightwatchman state: the Ministry also employs honest officials like Arthur Weasley, and corrupt Supreme Court justices should be replaced, not the court downsized. It adds that Rowling, who wrote the books on welfare and donated to Labour, is an unlikely libertarian, so the series at most demands better government rather than minimal government."
+  },
+  {
+   "n": 70,
+   "file": "ch70 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 71,
+   "file": "ch71 - Plato and Dumbledore Separated at Birth.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "philosopher-king"
+   ],
+   "relation": "Opening 'Dumbledore, Plato, and the Lust for Power,' the chapter pairs Dumbledore's 'those who are best suited to power are those who have never sought it' with Plato's 'a city in which those who are going to rule are least eager to rule is necessarily best.' Against Lord Acton's resigned 'power corrupts,' it presents Plato's remedy, reserving power for the reluctant rather than the power-hungry, as the lesson of the entire series' climax."
+  },
+  {
+   "n": 72,
+   "file": "ch72 - Fudge and Umbridge The Lessons of Obviously Unfit Power-Brokers.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "philosopher-king",
+    "plato-ring-of-gyges"
+   ],
+   "relation": "The chapter draws tight parallels between Plato's political life and Dumbledore's: both watched gifted, power-hungry pupils betray their cities (Alcibiades and Tom Riddle), both recoiled from tyrannical regimes (the Thirty under Critias; the duel with Grindelwald that killed his sister), and both turned from politics to education, founding the Academy and leading Hogwarts. It explains the Republic's philosopher-rulers, their four cardinal virtues, and the decades of training meant to 'distinguish the Potters from the Malfoys,' then introduces Glaucon's Ring of Gyges as Plato's test of who can resist invisible power, the legend Rowling mirrors in the Deathly Hallows and Harry's invisibility cloak, with Voldemort's unicorn-blood survival showing how the tyrant's life burns short."
+  },
+  {
+   "n": 73,
+   "file": "ch73 - Voldemort and Dumbledore Two Tempted by Power.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "philosopher-king",
+    "virtue-ethics"
+   ],
+   "relation": "The chapter grades would-be Ministers of Magic on Plato's ruler criteria: Dolores Umbridge fails utterly, her 'I must not tell lies' blood-quill detentions and multiplying Educational Decrees exposing a lust for power that grows with her authority and a total lack of courage, wisdom, justice, and self-control. Cornelius Fudge's insecurity breeds dictatorial damage control, trashing Harry in the press and rigging his hearing over the dementor attack on Dudley, so that craving power, he loses it; both are Platonic object lessons in how not to rule."
+  },
+  {
+   "n": 74,
+   "file": "ch74 - Harry’s Cloak, the Ring of Gyges, and the Temptations of Power.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "kant",
+    "socrates"
+   ],
+   "concepts": [
+    "philosopher-king",
+    "kant-humanity-formula",
+    "socratic-ignorance"
+   ],
+   "relation": "The chapter reads Tom Riddle as Plato's unfit ruler: from the orphanage ('I can make them hurt if I want to') he violates Kant's dictum never to use persons merely as means, treating even his 'friends' as followers, killing Lily despite Snape's devotion, and splitting his soul for Horcruxes. Dumbledore, offered the Ministry repeatedly yet refusing because 'power was my weakness and my temptation,' has the Socratic self-knowledge that he cannot be trusted with power, and that self-awareness, not flawless virtue, is what keeps him from Grindelwald's and Voldemort's path and makes him the series' nearest philosopher-ruler."
+  },
+  {
+   "n": 75,
+   "file": "ch75 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-ring-of-gyges",
+    "philosopher-king"
+   ],
+   "relation": "The chapter argues Harry passes the Ring of Gyges test that Voldemort fails: despite years of invisible freedom under the Cloak he never exploits it, refuses Scrimgeour's offer of his dream job to serve the whole wizarding community, hunts Horcruxes instead of making them, and at eleven alone retrieves the Sorcerer's Stone from the Mirror of Erised precisely because he does not want to use it. This indifference to the lure of power is exactly the Platonic qualification Dumbledore and Plato both demand of those fit to rule."
+  },
+  {
+   "n": 76,
+   "file": "ch76 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 77,
+   "file": "ch77 - PART FOUR - THE ROOM OF REQUIREMENT A POTTER POTPOURRI.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 78,
+   "file": "ch78 - Truth in Fiction.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "truth-in-fiction"
+   ],
+   "relation": "Tamar Szabo Gendler opens with Rowling's Carnegie Hall announcement that Dumbledore is gay and the third kind of fan response, challenging her authority to add facts to a finished series ('the author no longer possesses the authority to create new thoughts, feelings, and realities'). She reframes the dispute as the philosophical problem of truth in fiction, asking what determines the facts of a story world, the canonically expressed text, the readers, the author's thoughts, or the genre's conventions, and notes that nobody disputed Rowling's other interview-only revelations about Neville marrying Hannah Abbott, Lupin's impoverished life, or Petunia's almost farewell."
+  },
+  {
+   "n": 79,
+   "file": "ch79 - So, Is Dumbledore Gay.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis",
+    "aristotle"
+   ],
+   "concepts": [
+    "possible-worlds"
+   ],
+   "relation": "The chapter argues the historian's model fails for fiction: by David Lewis's point that 'every way that a world could possibly be is a way that some world is,' there are endlessly many Harry Schmotter and Harry Plotter worlds, so the storyteller must decide rather than discover which one is the world of Harry Potter. Gendler distinguishes primary truths (the 4,100 pages, minus inconsistencies like the silver versus scarlet prefect badge and the S-bend versus U-bend) from secondary truths (Hermione has ten fingers; Cedric Diggory does not play for the Red Sox), shows the 'maximal inclusiveness principle' proves too much, and closes with Aristotle's Nicomachean Ethics advice that exactness must fit the subject matter, so secondary truths need only rules of thumb."
+  },
+  {
+   "n": 80,
+   "file": "ch80 - Closing Speculations Genre.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gadamer",
+    "derrida",
+    "foucault"
+   ],
+   "concepts": [
+    "gadamer-hermeneutics",
+    "possible-worlds",
+    "death-of-the-author"
+   ],
+   "relation": "Weighing the four criteria against 'Dumbledore is gay,' the chapter finds it no primary truth but arguably suggested by the text, Dumbledore's confession that Grindelwald's ideas 'inflamed' him and the absence of any heterosexual interest. It sets the anti-intentionalist view held by Wimsatt, Beardsley, Gadamer, Barthes, Foucault, and Derrida, that language is a social creation so texts must speak for themselves and there are as many Potter worlds as readers, against E. D. Hirsch's intentionalism and Rowling's own claim 'He is my character,' concluding that most fans rightly accept her announcement as an oral appendix alongside all her interview backstories."
+  },
+  {
+   "n": 81,
+   "file": "ch81 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "heteronormativity"
+   ],
+   "relation": "The chapter tests the genre constraint: one might argue Dumbledore's sexuality cannot be true because children's-genre worlds like Goodnight Moon exclude adult sexuality, but Potter's book-length Hagrid and Madame Maxime flirtation and Snape's unrequited love for Lily defeat that, and the young-adult convention that adults' desires stay invisible to youthful protagonists instead explains the canon's silence. Gendler reads the books' metaphorical treatment of minority identity, Tonks marrying werewolf Lupin, Hermione's house-elf campaign, the Mudblood and pureblood talk, as catching readers in an act of unwitting toleration, while Dumbledore's love for his intellectual equal Grindelwald does real plot work in blinding him."
+  },
+  {
+   "n": 82,
+   "file": "ch82 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 83,
+   "file": "ch83 - Choices.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates"
+   ],
+   "concepts": [
+    "unexamined-life",
+    "personal-identity"
+   ],
+   "relation": "Opening 'Choices vs. Abilities: Dumbledore on Self-Understanding' with Socrates' 'know thyself,' Bassham frames the books as Harry's progress from appearance to reality: the boy under the stairs who thinks himself ordinary gradually learns who he is. The pivot is the end of Chamber of Secrets, where Harry, alarmed that he shares Parseltongue and Slytherin potential with Voldemort, receives Dumbledore's dictum 'It is our choices, Harry, that show us what we truly are, far more than our abilities,' which Bassham sets out to test."
+  },
+  {
+   "n": 84,
+   "file": "ch84 - How Revealing Are Our Choices.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "kant"
+   ],
+   "concepts": [
+    "moral-psychology",
+    "aristotle-practical-wisdom",
+    "deontology"
+   ],
+   "relation": "The chapter builds on Aristotle's Nicomachean Ethics account of choice (prohairesis) as 'deliberative desire' for things within our power and a better test of character than actions, then distinguishes three senses of choice. Internal-choice is Draco deciding but failing to kill Dumbledore; act-choice is Dumbledore's poor youthful choices; and motive-choice is captured by Kant's two shopkeepers who both refuse to cheat customers, one from fear of jail and one from honesty, so that only knowing the motive reveals the choice's moral worth."
+  },
+  {
+   "n": 85,
+   "file": "ch85 - Abilities.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "kant"
+   ],
+   "concepts": [
+    "moral-psychology",
+    "personal-identity"
+   ],
+   "relation": "The chapter argues motive-choices reveal character best: Hermione's rule-breaking for Dumbledore's Army does not make her a habitual rebel since character is habit, as Aristotle says, and Snape's apparently loyal Death Eater acts concealed his fidelity to Dumbledore and Lily, so bare acts mislead; Harry's decision to enter the Chamber to save Ginny, acted on despite the dangers, is genuinely revealing. But the wizarding world complicates self-knowledge: Harry's vision as Voldemort attacked Arthur Weasley, the implanted memory framing Morfin Gaunt for the Riddle murders, and the firewhiskey scenario of Imperius Curse, Polyjuice Potion, and memory charms can make it undecidable whether it was really you who chose, since the boundaries between self and other are thinner there."
+  },
+  {
+   "n": 86,
+   "file": "ch86 - How Revealing Are Our Abilities.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-psychology",
+    "aristotle-potentiality"
+   ],
+   "relation": "The chapter analyzes ability as a 'fuzzy concept': abilities are powers or capacities that come in degrees and vary with circumstance, like speaking seventy versus three hundred words of Mermish or conjuring a chipmunk Patronus only when relaxed. Choices, by contrast, are definite acts, Pettigrew's betrayal of Harry's parents and Harry's breakup with Ginny to protect her admit of no question, and this act-versus-capacity contrast explains why choices are the clearer self-revealers."
+  },
+  {
+   "n": 87,
+   "file": "ch87 - Beyond Choices Toward a Deeper Self-Understanding.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-psychology",
+    "virtue-ethics"
+   ],
+   "relation": "The chapter concedes Dumbledore's claim with qualifications: trivial, universal, unconscious, innate, or unrecognized abilities (Harry's Parseltongue before Sorcerer's Stone) reveal nothing, and the qualities Slytherin prized in Harry, resourcefulness, determination, and a certain disregard for rules, are morally neutral, since Voldemort's resourcefulness serves domination and immortality while Harry's saves his friends and fights tyranny. Yet abilities won only through hard work and self-sacrifice, and ethical capacities like empathy, prudence, and resilience do disclose character, so honest self-reflection about abilities matters too."
+  },
+  {
+   "n": 88,
+   "file": "ch88 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "unexamined-life",
+    "moral-psychology"
+   ],
+   "relation": "The chapter uses Gilderoy Lockhart as the failure case of self-knowledge by introspection: convinced he is a great Defense teacher and duelist, he cannot manage a cage of Cornish pixies, is floored by Snape's Expelliarmus, and removes all the bones from Harry's arm, because his rose-colored 'cognitive blinders' mean he looks but does not see. Bassham then previews four remedies for self-knowledge, each illustrated in the books: cultivate habitual self-examination, stay alert to irrational tendencies, get help from friends, and challenge yourself."
+  },
+  {
+   "n": 89,
+   "file": "ch89 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates"
+   ],
+   "concepts": [
+    "unexamined-life"
+   ],
+   "relation": "The chapter urges the Socratic examined life as a standing habit rather than a crisis response, since, as Thomas Pangle observes, most of us reflect seriously only when in trouble. Dumbledore is the model: knowing his besetting weakness was love of power, he refused the Ministry repeatedly, and after losing his 'moral compass completely' over Grindelwald he chose a celibate scholarly life, using the Pensieve's third-person view of his own memories, which makes it 'easier to spot patterns and links,' as an instrument of self-examination."
+  },
+  {
+   "n": 90,
+   "file": "ch90 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "moral-psychology",
+    "speciesism"
+   ],
+   "relation": "Against Aristotle's definition of humans as the 'rational animal,' the chapter catalogues wizarding irrationality, Percy's rule fetish, Malfoy's racism and classism, Ron's jealousy, Hagrid's blind affection for dangerous creatures, Fudge's closed-mindedness, and Luna's credulity, culminating in the wizards' blindness to house-elf slavery, excused because elves like Winky have been conditioned to find freedom shameful. Hermione's point that internalized oppression justifies nothing is one Harry finally absorbs, digging Dobby's grave with his own hands and writing 'Here lies Dobby, a Free Elf.'"
+  },
+  {
+   "n": 91,
+   "file": "ch91 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "aristotle-friendship",
+    "moral-psychology"
+   ],
+   "relation": "Because we each view life from our own 'personal mini-cam,' we can be too close to ourselves to see truly, so friends serve as honest mirrors in which we see ourselves as we really are. Hermione shows Harry his insensitivity to Cho, the trio helps Neville overcome his painful shyness, and Hagrid teaches Ron that friendship should not be wrecked by petty jealousy, while the friendless Dursleys, Lockhart, and Slughorn never progress in self-understanding."
+  },
+  {
+   "n": 92,
+   "file": "ch92 - The Ultimate Measure of a Person.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lucretius"
+   ],
+   "concepts": [
+    "moral-psychology",
+    "virtue-ethics"
+   ],
+   "relation": "Quoting Lucretius, that in danger and peril 'the mask is torn off, the reality remains,' the chapter argues that ordinary behavior is stereotypical and only situations of challenge and adversity reveal what kind of person someone truly is. Harry and his friends pass repeated tests of courage, loyalty, intelligence, and resourcefulness and emerge humble but battle-tested heroes like Frodo's fellowship, with Ron's temporary abandonment in Deathly Hallows the instructive exception."
+  },
+  {
+   "n": 93,
+   "file": "ch93 - NOTES.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 94,
+   "file": "ch94 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 95,
+   "file": "ch95 - Positioning Our Prejudgments.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Garver opens 'The Magic of Personal Transformation' by contrasting the Dudley who treats Harry 'like a dog that had rolled in something smelly' with the Deathly Hallows Dudley who leaves a cup of tea outside Harry's room, defies his parents, and shakes Harry's hand so that Harry sees a 'different personality.' He treats this as an epistemological puzzle about how the two boys came to know themselves and each other better, setting up the essay's account of knowing as a process of personal transformation in which encountering ourselves and others makes us better knowers."
+  },
+  {
+   "n": 96,
+   "file": "ch96 - The Ignorance of Ickle Dudleykins.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gadamer"
+   ],
+   "concepts": [
+    "gadamer-hermeneutics"
+   ],
+   "relation": "The chapter presents Gadamer's claim that we can only interpret the world by coming to it with 'prejudgments,' the borrowed toolbox of questions, biases, and expectations without which anything we try to understand stays 'like a container sealed shut.' Whether prejudgments help or hinder depends on holding them loosely enough to let the situation reshape them, setting down the hammer and finding the screwdriver when the world resists."
+  },
+  {
+   "n": 97,
+   "file": "ch97 - Betrayed by Biases.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gadamer"
+   ],
+   "concepts": [
+    "gadamer-hermeneutics"
+   ],
+   "relation": "Applying Gadamer to Dudley, the chapter shows how Petunia and Vernon's doting ('no finer boy anywhere,' 'big-boned' rather than dieting, 'wouldn't hurt a fly') armor Dudley's prejudgments against every challenge. His close encounter with the dementors, forcing him to relive his worst moments, strips those rationalizations away so he finally sees himself as 'spoiled, pampered, bullying,' a radical readjustment that lets him recognize Harry's courage and feel gratitude and even affection."
+  },
+  {
+   "n": 98,
+   "file": "ch98 - Dangerous Dreams.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gadamer"
+   ],
+   "concepts": [
+    "gadamer-hermeneutics"
+   ],
+   "relation": "The chapter generalizes the pattern across the series: Harry's anti-Snape prejudice, misplaced trust in the fake Mad-Eye Moody and the Half-Blood Prince's potions book, Dumbledore's 'for the greater good' dreams with Grindelwald, Merope Gaunt's love-potion fantasy of Tom Riddle, the locket Horcrux magnifying the trio's suspicions until Ron storms off, and the Malfoys' underestimation of Voldemort all show prejudgments misreading reality until the pain of banging into it forces a rethink. Truth matters, Garver concludes, because false beliefs are an unreliable map for navigating the world."
+  },
+  {
+   "n": 99,
+   "file": "ch99 - The Cost of Overconfidence.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "gadamer-hermeneutics"
+   ],
+   "relation": "The chapter details Harry's overconfidence about his dream-connection to Voldemort's mind: cocky that he uniquely understands Voldemort, he dismisses Dumbledore's warning that the link runs both ways, neglects his Occlumency lessons out of distrust for Snape and irritation with Hermione, and never sees why the training matters. Snape's taunt, 'Maybe they make you feel special, important,' suggests Harry's prejudgment that his visions are a privileged window is also a temptation feeding his sense of mission."
+  },
+  {
+   "n": 100,
+   "file": "ch100 - Memories Help Make Meaning.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "gadamer-hermeneutics"
+   ],
+   "relation": "The chapter traces the fatal cost of Harry's unchecked prejudgments: trusting his O.W.L. dream-vision of Sirius being tortured, twisting Dumbledore's Occlumency warnings into confirmation that his dreams are real, and accepting Kreacher's cackling, self-interested testimony at Grimmauld Place without telling his friends the source, Harry launches the Department of Mysteries 'rescue' that gets Sirius killed. Garver softens the verdict, a fifteen-year-old with noble intentions, but the lesson stands: we see what we want to see through blinders we do not know we wear."
+  },
+  {
+   "n": 101,
+   "file": "ch101 - Moving Past Misdirection.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "gadamer"
+   ],
+   "concepts": [
+    "augustine-time",
+    "gadamer-hermeneutics"
+   ],
+   "relation": "The chapter joins Augustine's Confessions analysis of time, where only in human experience does memory of the past meet anticipation of the future in the present, to Gadamer's view of prejudgments as tradition, memory 'passed down' that shapes how we approach the present. The Pensieve symbolizes this double, personal and social memory: Dumbledore's third-person viewing spots patterns, and the extracted memories of Riddle's orphanage sadism and the reconstructed testimonies of Hokey and Morfin Gaunt give Harry the knowledge of Voldemort's history, character, and vulnerabilities he needs to defeat him."
+  },
+  {
+   "n": 102,
+   "file": "ch102 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gadamer"
+   ],
+   "concepts": [
+    "gadamer-hermeneutics",
+    "virtue-ethics"
+   ],
+   "relation": "The essay's conclusion shows reality correcting every character's prejudgments: Dumbledore's wizard-supremacy dreams die with his sister, Merope's with the end of the love potion, Ron's with distance from the Horcrux, the Malfoys' when Voldemort threatens Draco, and Harry matures from naive boy to cocky teen to discerning young man. Garver draws the thesis that epistemology is inseparable from ethics, bravery and loyalty require true belief about danger and about Dumbledore's real faults, and Rowling's narrative misdirection makes readers undergo the same correction, so that following Harry's transformation we become better people, with even Dudley's change giving hope to the most resistant reader."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 58,
+   "type": "concept",
+   "suggested_slug": "patriotism",
+   "name": "Patriotism (special obligations to compatriots)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The disposition to give preference to one's own country and compatriots, debated in political philosophy as a virtue, a vice, or a conditionally justified partiality.",
+   "why": "Chapter 58 opens a multi-chapter essay asking whether Gryffindor-style loyalty and civic patriotism are virtues or morally equivalent to Death Eater supremacy, a question no existing slug names directly."
+  },
+  {
+   "ch": 59,
+   "type": "philosopher",
+   "suggested_slug": "emma-goldman",
+   "name": "Emma Goldman",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Lithuanian-born American anarchist activist and writer (1869-1940) who attacked patriotism as conceit and arrogance rooted in the accident of birthplace.",
+   "why": "Chapter 59 builds its case that patriotism is a vice chiefly on Goldman's argument that patriotism divides the globe into gated spots whose natives deem themselves superior."
+  },
+  {
+   "ch": 59,
+   "type": "philosopher",
+   "suggested_slug": "leo-tolstoy",
+   "name": "Leo Tolstoy",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Russian novelist and Christian anarchist thinker (1828-1910) who defined patriotism as 'the desire for the exclusive good of one's own nation' and blamed it for producing war.",
+   "why": "Chapter 59 uses Tolstoy's definition of patriotism as the springboard for comparing patriotic preference to Voldemort's pureblood supremacy."
+  },
+  {
+   "ch": 65,
+   "type": "philosopher",
+   "suggested_slug": "jeremy-waldron",
+   "name": "Jeremy Waldron",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Contemporary political philosopher who argues that cosmopolitan cultural hybridity, not rootedness in an ancestral community, is the appropriate response to the modern world.",
+   "why": "Chapter 65 quotes Waldron at length to set the cosmopolitan alternative to communitarianism and to read Harry's cross-cultural fluency as the books' model of flourishing."
+  },
+  {
+   "ch": 78,
+   "type": "concept",
+   "suggested_slug": "truth-in-fiction",
+   "name": "Truth in Fiction",
+   "philosopher": "lewis",
+   "domain": "mind-language-metaphysics",
+   "what": "The problem of what facts hold in a fictional world and what principles (explicit text, imports from reality, authorial intent, reader response, genre) generate truths beyond the sentences on the page.",
+   "why": "Chapter 78 introduces this problem to frame the dispute over whether Rowling's announcement makes 'Dumbledore is gay' true in the world of Harry Potter, and chapter 79 builds its primary-versus-secondary truth machinery on it."
+  },
+  {
+   "ch": 80,
+   "type": "concept",
+   "suggested_slug": "death-of-the-author",
+   "name": "The Death of the Author (intentional fallacy)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The anti-intentionalist thesis that an author cannot fix a text's meaning by declaration, because language is a social creation and readers' interpretations are not bound by post-hoc authorial statements.",
+   "why": "Chapter 80 stages this debate (Wimsatt, Beardsley, Gadamer, Barthes, Foucault, and Derrida against Hirsch's intentionalism) over whether Rowling can settle Dumbledore's sexuality by authorial fiat."
+  }
+ ]
+}

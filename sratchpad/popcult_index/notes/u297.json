@@ -1,0 +1,87 @@
+{
+  "book": "208 - X-Men and Philosophy - Astonishing Insight and Uncanny Argument in the Mutant X-Verse",
+  "unit": "u297",
+  "chapters": [
+    {
+      "n": 2,
+      "file": "ch02 - X-Men and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 3,
+      "file": "ch03 - X-Men and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 4,
+      "file": "ch04 - X-Men and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 5,
+      "file": "ch05 - X-Men and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["locke", "parfit", "nietzsche", "foucault"],
+      "concepts": ["personal-identity", "locke-personal-identity", "parfit-teleportation"],
+      "relation": "After the acknowledgments and an introduction, this block runs two essays. Hopkins's 'The Lure of the Normal' uses Storm, Rogue, Beast, and the Morlocks plus the mutant 'cure' to dissect descriptive vs. prescriptive 'normality,' citing Foucault on the monster/individual-to-be-corrected and Nietzsche's Zarathustra to frame transhumanist vs. bioconservative attitudes to enhancement. Southworth's Wolverine essay argues personal identity via Locke's memory theory (the Xavier/Cassandra Nova body-swap) and Parfit's fission (Madrox's duplicates, Wolverine's repeated brain trauma), concluding that many distinct 'persons' have inhabited Wolverine's body."
+    },
+    {
+      "n": 6,
+      "file": "ch06 - X-Men and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "sartre", "camus", "bacon", "aristotle", "spencer"],
+      "concepts": ["categorical-imperative", "deontology", "the-absurd", "sisyphus", "social-darwinism"],
+      "relation": "Four-plus essays. White defends Jean Grey's altruistic suicide in the Dark Phoenix Saga through Kant's categorical imperative (both formulas) and the confl icting-duty case of the rabid-dog letter, ranking deontology over utilitarian and virtue readings. Kavadlo reads the X-Men as existential literature, tying Sartre's bad faith and anti-Semitism and Camus's Sisyphus to the mutants' Jewish/Holocaust roots and never-ending serial struggle. Burnett uses Mister Sinister, Sentinels, and eugenics to trace bioethics through Spencer's evolutionary ethics and Galton. Dunn casts Layla Miller as Bacon's 'knowledge is power' against Aristotle's contemplative ideal. The Davis 'Magneto, Mutation, and Morality' essay begins here, opening the evolutionary-ethics question of Xavier vs. Magneto."
+    },
+    {
+      "n": 7,
+      "file": "ch07 - X-Men and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["sartre", "nozick", "singer", "hobbes", "dennett", "camus", "plato"],
+      "concepts": ["experience-machine", "existence-precedes-essence", "bad-faith", "speciesism", "plato-cave", "civil-disobedience"],
+      "relation": "This block finishes Davis's essay (Xavier's 'good nonsense' rules vs. Magneto/Dennett/Hobbes evolutionary morality) then runs several more. Robichaud's 'Professor X Wants You' weighs whether Storm should join the X-Men or Brotherhood using Nozick's experience machine (Rogue vs. 'Eugor') for well-being and Dworkin's civil-disobedience tiers for when violent resistance is permissible. Housel's 'X-Women' reads Jean Grey, Rachel Summers, Scarlet Witch, Storm, Mystique, Rogue, and Kitty through Sartre's 'existence precedes essence,' bad faith, Ortega's project, and Baudrillard. McWilliams uses Singer's speciesism and human-rights declarations to ask if mutants deserve moral consideration and whether torture/experimentation on them can be justified. Darowski reads Deadpool's fourth-wall breaks as postmodern metafiction raising Plato's-cave ontological questions."
+    },
+    {
+      "n": 8,
+      "file": "ch08 - X-Men and Philosophy.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 9,
+      "file": "ch09 - X-Men and Philosophy.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 10,
+      "file": "ch10 - X-Men and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 11,
+      "file": "ch11 - X-Men and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": []
+}

@@ -1,0 +1,432 @@
+{
+ "book": "197 - True Blood and Philosophy - We Wanna Think Bad Things with You",
+ "unit": "u286",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - True Blood and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - The Blackwell Philosophy and Pop Culture Series.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Acknowledgments.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editors frame the book with Jason Stackhouse's 'lick your mind' line and the claim that Bon Temps is a banquet of philosophical morsels: Reverend Newlin's charge that vampires are 'unnatural' opens the question of whether they are inherently evil, and vampires coming out of the coffin test whether humans and super-powered predators can share a political community as equals. It name-checks the book's guiding parallels — the gay-rights analogy of 'God hates fangs', the scapegoating around Maryann the maenad — and ends by inviting the reader across the threshold to 'think bad things', valuing the questioning itself over conclusive answers."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - PART ONE - “I USED TO HATE VAMPIRES, UNTIL I GOT TO KNOW ONE” VAMPIRE-HUMAN ETHICS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "kant-humanity-formula",
+    "kant-respect"
+   ],
+   "relation": "Robichaud asks whether Bill may turn Sookie into a vampire and answers with Kant's Formula of Humanity: consent matters because turning someone without letting them take up your end as their own treats them as a mere means. He argues the consent must be explicit (marriage is not tacit permission, as flirting is not consent to sex), informed (Fangtasia wannabes consent in the dark about unlife), and noncoerced (glamouring is like hypnotism, and Lafayette's begging under duress from Eric has no moral force). Even though Bill's forced turning improved Jessica's life, respecting her autonomy outweighed benefit, though Godric's turning of mortally wounded Eric may be excused by hypothetical consent."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Culver reads vampire 'mainstreaming' through play theory: using Huizinga's Homo Ludens (and Caillois), she argues Bill 'plays human' — ordering wine his first night at Merlotte's — within bounded spaces (the threshold requiring invitation), fixed rules ('she's mine', courtesy between vampires), and goals, and that play changes both species by building bonds across the boundary. Nest vampires like Malcolm and Diane who refuse to 'dress up and play human', and humans like the Fellowship of the Sun, are Huizinga's spoilsports who shatter the play-world, while Eric's incognito surveillance of Sookie in other sheriffs' territories is cheating rather than spoilsporting."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer",
+    "bentham",
+    "aristotle",
+    "kant",
+    "descartes",
+    "aquinas"
+   ],
+   "concepts": [
+    "speciesism",
+    "animal-liberation",
+    "anthropocentrism"
+   ],
+   "relation": "Blayde and Dunn use True Blood to expose speciesism from both directions: the philosophical tradition (Aristotle's rational animals, Aquinas's divine image, Kant's dignity versus price, Descartes's denials of animal pain) justified human exploitation of nonhumans, and the show's vampires invert the ladder by treating humans as 'pets and cattle' — the magister's 'humans exist to serve us' and his verdict that Bill 'murdered a higher life form' for a pet mirror how we talk about animals. Amy's torture of Eddie Gauthier is read against factory farming, and the chapter closes with Bentham's 'Can they suffer?' and Singer's sentience criterion as Sookie's 'civic duty' grounds for extending moral consideration beyond our species."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - PART TWO - “LIFE-CHALLENGED INDIVIDUALS” THE POLITICS OF BEING DEAD.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rawls",
+    "locke"
+   ],
+   "concepts": [
+    "veil-of-ignorance",
+    "social-contract",
+    "locke-natural-rights",
+    "justice-as-fairness"
+   ],
+   "relation": "Foy reads the Great Revelation and the Vampire Rights Amendment as a test of social contract theory: Nan Flanagan's 'we pay taxes, we deserve civil rights' invokes the Lockean bargain of obedience for protection, but Locke's God-given natural rights falter when the Fellowship denies vampires souls, and Locke excludes atheists and never imagined vampires. The chapter's resolution is Rawls: behind a veil of ignorance where deliberators might wake up vampire or human, anti-vampire bigots like the Newlins and supremacist nests alike would choose equal basic liberties plus distributive justice — including limits on vampires' centuries of accumulated wealth — so Sookie's 'let the law do it' to Rene marks a pluralist peace no theistic contract could deliver."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rawls",
+    "nagel",
+    "aristotle"
+   ],
+   "concepts": [
+    "what-is-it-like"
+   ],
+   "relation": "Curtis argues liberal society should be wary of integrating True Blood's vampires: their feudal system of kings, sheriffs, and the magister, enforced through maker bonds and punishment, violates even Kukathas's maximally tolerant liberalism because members cannot freely exit and humans are mistreated with impunity. Adapting Nagel's 'What Is It Like to Be a Bat?' to the question 'What is it like to be a vampire?', he contends that glamouring, blood bonds, and an eroticized hunger different in kind from ours leave humans unable to verify vampire trustworthiness — echoing Aristotle's claim that one who cannot live in the polis is a beast or a god — so mainstreaming demands the AVL first expose and reform vampire institutions."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "commodity-fetishism"
+   ],
+   "relation": "McClelland traces the vampire's drift from demonic scapegoat — Marx's figure for capital draining the proletariat — to sympathetic protagonist, then reads TruBlood itself as a political device: the synthetic substitute is a trap that lures the ancient enemy out of opposition and into consumption-based communion, creating the 'ideal consumer' who is eternal, much as globalization absorbs adversaries into the marketplace. Godric's exhaustion with undead power struggles and the maenad Maryann's induced hedonism show, respectively, the hollowness of quasi-immortal consumer life and the human community's own susceptibility to buying bliss at the price of its principles."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - PART THREE - “THEIR VERY BLOOD IS SEDUCTIVE” EROS, SEXUALITY, AND GENDER.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "aquinas-natural-law",
+    "objectification"
+   ],
+   "relation": "Brace and Arp systematically map the coffin-to-closet analogy: 'God hates fangs' echoes Fred Phelps, Eddie's leap from closeted family man to vampire lover parallels coming out, and vampire media normalization (Fang magazine, teen soaps) mirrors Ellen and Dawson's Creek. They distinguish orientation from action, rebut the natural-law argument that nonprocreative sex is unnatural (it would condemn infertile and contracepting heterosexuals too), and fix the moral line at consent — Bill asking before fang and penis penetrate is healthy, while Lorena's forced turning of Bill and the Rattrays' draining of him, 'objectified and crucified' for his blood, are violations; on that basis they argue vampires deserve equal rights under the VRA."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "feminism",
+    "intersectionality",
+    "mackinnon-dominance",
+    "objectification"
+   ],
+   "relation": "Craton and Jonell read Sookie as an emblem of contemporary feminist ambivalence: her 'I am woman, hear me roar' independence coexists with sexual caution, and the show stages feminism's sex wars — Lafayette's sex work and webcam pornography versus Maryann, whose 'pro-sex' liberation collapses into self-annihilating worship of Dionysus and whose death suggests unregulated sexuality is dangerous. Tara's plotline shows how race and class layer onto gender (her 'baby-daddy' scene, Maryann as failed white savior), exposing the limits of a united feminist front, while the 'kept woman' quarrel with Bill and Sookie's barmaid-versus-telepathic-detective career choice leave more questions about female empowerment than answers."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud",
+    "marcuse"
+   ],
+   "concepts": [
+    "freud-unconscious",
+    "freud-death-drive",
+    "freud-civilization"
+   ],
+   "relation": "Hirschbein presents True Blood as a Freudian fable: vampires live the unrepressed id's Eros and Thanatos that civilization forces the rest of us to renounce, which is why they defeat all three sources of suffering (mortal bodies, nature, hostile neighbors) and why the show's convulsive sex and violence thrill us. Glamouring reproduces the posthypnotic suggestion that proved the unconscious to Freud, Sookie's mind-reading confirms his dark discoveries about our sexualized aggression, vampire myths work as projection screens for desires we disown, and Marcuse's complaint about 'genital tyranny' and sublimation frames Sookie's love as a near-realization of Freud's St. Francis ideal."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - PART FOUR - “I AM ACTUALLY OLDER THAN YOUR JESUS” NATURAL, SUPERNATURAL, AND DIVINE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 21,
+   "file": "ch21 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "plato"
+   ],
+   "concepts": [
+    "apollonian-dionysian",
+    "forgiveness"
+   ],
+   "relation": "Corn and Dunn read Maryann's takeover of Bon Temps through René Girard's scapegoat theory: mimetic desire breeds the resentments Sookie hears all day, the crowd's 'wild energy' dissolves the Apollonian individual into Dionysian self-forgetfulness (Nietzsche's Birth of Tragedy, Plato's assembly that echoes blame until judgment drowns), and the town and the Fellowship of the Sun alike restore solidarity by uniting against vampires — or against Sam on the sacrificial oak. Godric's self-delivery to the Newlins is a failed Christlike sacrifice, so the chapter ends with Sookie's 'God doesn't punish, God forgives' as Girard's alternative to founding community on sacrificial violence."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "aquinas",
+    "descartes"
+   ],
+   "concepts": [
+    "aristotle-four-causes",
+    "hume-is-ought"
+   ],
+   "relation": "The Terjesens dissect what 'unnatural' could mean for vampires: on modern evolutionary biology they are simply effective predators, so no unfairness or odd predation style (sleeping with one's food) makes them unnatural. Aristotle's four causes and Aquinas's God-ordered extrinsic finality would let 'unnatural' mean 'against the plan', but purposes cannot be observed — the source of bad medieval science — and Descartes's banishment of final causes from physics shows why; Godric's 'our existence is insanity' therefore commits the is–ought fallacy, and what remains to judge is not vampire nature but vampire choice, as Bill's mainstreaming and Godric's final 'I told a lie' about survival versus right and wrong show."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aquinas"
+   ],
+   "concepts": [
+    "problem-of-evil"
+   ],
+   "relation": "Barkman answers 'God hates fangs' with Aquinas: evil is no-thing, so God creates nothing inherently evil — fangs, sex, and free will are good gifts whose misuse explains fallen angels, witches (via the Malleus Maleficarum and Allatius's demon-animated vampires), and human sinners like Rene and the Rattrays. Since True Blood's vampires stand unmoved before crosses, hold church meetings, and can choose as Bill does, they are not soulless minions of the devil but created beings who, like humans, go wrong only by misusing free will — which is why Harris's inclusive Episcopalianism lets Gran say there is a purpose for everything God makes, even a vampire."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - PART FIVE - “OUR EXISTENCE IS INSANITY” THE METAPHYSICS OF SUPERNATURAL BEINGS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "searle",
+    "nagel",
+    "descartes",
+    "max-weber"
+   ],
+   "concepts": [
+    "existence-precedes-essence",
+    "bad-faith",
+    "what-is-it-like",
+    "cartesian-dualism"
+   ],
+   "relation": "Peppers-Bates and Rust stage Weber's disenchantment of the world in Sookie's relationship with Bill: her scientific-naturalist demand to know what animates him meets his 'magic', and although Searle and Nagel show consciousness resists scientific reduction (so 'miracle' is not absurd for the mind), Bill's vitalist, quasi-Cartesian dodge is a bait-and-switch about digestion. Sookie's real question is Sartrean — whether vampires, seemingly driven by blood bonds, hierarchy, and appetite, can freely choose their projects — and the chapter answers yes: Malcolm's cruelty presupposes he could do otherwise, Sookie's 'blood tie thing' excuse is bad faith in Eric's eyes, and Eric's wooing of her after regaining his memory is a freely chosen project that re-enchants her world."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nagel",
+    "locke",
+    "dennett"
+   ],
+   "concepts": [
+    "what-is-it-like"
+   ],
+   "relation": "Curry asks whether even Sookie's telepathy can breach the privacy of mind: a third-person account of shifter Sam hearing a dog-whistle leaves out the quale — the homage to Nagel's bat — and Locke's inverted spectrum (Jason and Tara both say 'green' while living different experiences) shows qualia are incommunicable. Reading the astrology-believing Maxine's mind traps Sookie in a dilemma: if she fully becomes Maxine she is no longer the Sookie who knows, and if she keeps her skeptical psychology she never experiences what it is like to believe — so, drawing on Dennett's coffee example for one's own past qualia, even the show's most powerful mind reader can never know what it is like to experience things as you."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "personal-identity"
+   ],
+   "relation": "Grubb tests theories of personal identity on the supes: the bodily theory fails because Bill's and Jessica's bodies died and refunctioned at transformation, Locke's memory theory stumbles on amnesiac Eric (who stays Eric despite remembering nothing), and psychological continuity fails because vampirism inflated Bill's aggression and collie-Sam's mind when Andy draws a gun is anyone's guess. She closes with Theodore Sider's four-dimensionalism — lives as long stories of temporal parts — which lets the rambunctious vampire Jessica count as the same person as the demure human girl because both are episodes in one continuing story."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - PART SIX - “TALKING ABOUT YOUR FEELINGS IS A MANLY THING TO DO” SUPERNATURAL LIFE LESSONS FROM SEASON THREE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "disability-philosophy",
+    "objectification"
+   ],
+   "relation": "Craton reads Sookie's arc through disability theory: her telepathy, treated by Bon Temps as a disability that barred her from college and respect, is reframed once vampires and Weres prize it — and finally her faerie 'light' — into an ability she controls for money, crime-solving, and saving a child. The chapter parallels the eugenics-era fears Sookie and Alcide share about passing on difference, and the freak-show histories of Joseph Merrick, Saartjie Baartman, and Julia Pastrana illuminate how vampires like Eric and Sophie-Anne value Sookie's blood as a possession to be consumed rather than a person to be respected, until she rescinds Bill's invitation and defends her light."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bentham"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "greatest-happiness",
+    "applied-ethics"
+   ],
+   "relation": "Grubb stages Arlene's decision to abort the baby fathered by serial killer Rene as a case study in Bentham's act utilitarianism: her prayer that ending the pregnancy will keep 'Rene's sickness' from Coby, Lisa, and Terry weighs pleasure and pain — the two sovereign masters — for the greatest number, from family to all of Bon Temps. The chapter shows why the calculus fails her: consequences cannot be known in advance (a crystal ball or Lafayette's visions would be needed), it is indeterminate whose happiness counts, and her premise that evil is biologically inheritable sits badly with the free-will account of sin, making the dilemma genuinely undecidable from inside the show."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "confucius",
+    "mencius",
+    "kant",
+    "plato"
+   ],
+   "concepts": [
+    "confucian-filiality",
+    "confucian-ren",
+    "mencius-good-nature",
+    "rectification-of-names"
+   ],
+   "relation": "The Terjesens pit Kant's impersonal morality — Sam's contractual distance from the thieving Mickens is exactly how he would treat strangers — against Confucius and Mencius, for whom filial duties are the nursery of virtue: we learn benevolence by serving parents and revering elders, Lafayette's care for Lettie Mae and Tara shows family forming moral character, and the Upright Gong's covering for a father's sheep-stealing grounds Jason's 'sometimes the right thing to do is the wrong thing'. Mencius's King Shun, who abdicates and carries his criminal father into exile, models how Tommy and Jason should put family first while accepting the cost, while Mozi's universal love surfaces in Godric's 'forgiveness is love', and the chapter concludes that family counts only insofar as it develops our moral nature — the line between Tommy and Sam."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - CONTRIBUTORS.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - INDEX.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 10,
+   "type": "philosopher",
+   "suggested_slug": "johan-huizinga",
+   "name": "Johan Huizinga",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Cultural historian whose Homo Ludens argues that play — voluntary, rule-bound activity within bounded spaces outside ordinary life — generates law, ritual, poetry, and social order itself.",
+   "why": "Chapter 10 builds its entire account of vampire mainstreaming as 'playing human' on Huizinga's play theory (boundaries like thresholds, rules like 'she's mine', goals, and the spoilsport who shatters the play-world), with Roger Caillois expanding the framework."
+  },
+  {
+   "ch": 14,
+   "type": "philosopher",
+   "suggested_slug": "chandran-kukathas",
+   "name": "Chandran Kukathas",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Liberal theorist of the 'liberal archipelago' who holds that the liberal state should tolerate even illiberal, authoritarian subcommunities so long as membership remains exitable and no physical coercion is used.",
+   "why": "Chapter 14 tests vampire mainstreaming against Kukathas's toleration-based liberalism as the most permissive standard the feudal vampire hierarchy could hope to meet, and concludes the magister's coercive system fails even that test."
+  },
+  {
+   "ch": 21,
+   "type": "philosopher",
+   "suggested_slug": "rene-girard",
+   "name": "René Girard",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Theorist of mimetic desire and the scapegoat mechanism, who argues that communities avert escalating internal violence by uniting against an innocent victim and that sacrificial religion grew out of this process.",
+   "why": "Chapter 21 reads Maryann's Bon Temps, the Fellowship of the Sun's recruitment, and Godric's self-sacrifice almost entirely through Girard's mimetic rivalry, scapegoating, and sacrificial-religion theory, against Sookie's 'God forgives' alternative."
+  },
+  {
+   "ch": 25,
+   "type": "philosopher",
+   "suggested_slug": "max-weber",
+   "name": "Max Weber",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Sociologist who diagnosed modernity as the 'disenchantment of the world' — the replacement of magical, religious, and purposive explanations by rationalized science and impersonal causation.",
+   "why": "Chapter 25 opens with Weber's disenchantment thesis to frame Sookie's scientific-naturalist discomfort with Bill's undead 'magic', and the chapter's arc is her existential re-enchantment through the heart's reasons."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "four-dimensionalism",
+   "name": "Four-Dimensionalism (temporal parts)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Theodore Sider's metaphysics of persistence on which persons are four-dimensional wholes composed of temporal parts, so the successive stages of a life compose one individual rather than being strictly identical.",
+   "why": "Chapter 27 ends by invoking Sider's 'life as a long story' of temporal parts to explain how Bill, Jessica, Sam, and Alcide remain the same individuals through drastic supernatural transformations that defeat bodily, memory, and psychological-continuity criteria."
+  },
+  {
+   "ch": 31,
+   "type": "philosopher",
+   "suggested_slug": "mozi",
+   "name": "Mozi",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "Warring States critic of Confucianism who taught jian ai — impartial 'universal love' extended equally to all — against the graded, family-first affections the Confucians cultivate.",
+   "why": "Chapter 31 uses Mozi's universal love as the counterpoint to Confucian family priority, reading Godric's all-embracing 'forgiveness is love' as universal care that must nevertheless first be learned through filial love."
+  }
+ ]
+}

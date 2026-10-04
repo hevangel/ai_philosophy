@@ -1,0 +1,508 @@
+{
+ "book": "199 - True Detective and Philosophy - A Deeper Kind of Darkness",
+ "unit": "u287",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - True Detective and Philosophy A Deeper Kind of Darkness.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - True Detective and Philosophy A Deeper Kind of Darkness.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Introduction Welcome to the Psychosphere.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates"
+   ],
+   "concepts": [
+    "unexamined-life",
+    "meaning-of-life"
+   ],
+   "relation": "The editors' introduction asks why viewers willingly linger in True Detective's bleak Louisiana bayou and season two's Vinci, suggesting we may recognize something of ourselves in those worlds. It argues detectives and philosophers share the pursuit of truth, framing Rust Cohle and Marty Hart (and Velcoro and Bezzerides) as morally compromised lawmen who open the door to philosophy, invoking Socrates' 'unexamined life is not worth living.' It previews the book's coverage of pessimism, good and evil, tragedy, personal identity, and time via Socrates, Schopenhauer, Nietzsche, Lacan, and Zizek."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Part I “IT'S ALL ONE GHETTO, MAN … A GIANT GUTTER IN OUTER SPACE” Pessimism and Anti-natalism.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "schopenhauer"
+   ],
+   "concepts": [
+    "schopenhauer-pessimism",
+    "schopenhauer-will",
+    "schopenhauer-compassion"
+   ],
+   "relation": "Argues Rust Cohle's stated pessimism and in-principle embrace of suicide closely track Schopenhauer's view that suffering is built into the world with no providential redemption, yet the two diverge because Schopenhauer condemned suicide as an affirmation of the will-to-live rather than its denial. The chapter traces Rust's three-stage arc — jaded wannabe-suicidal pessimist who nonetheless energetically investigates the Dora Lange case, resigned drinker, and finally cautious affirmer of life after the Yellow King confrontation — and contends his detective work is really motivated by a Schopenhauerian morality of compassion and justice, not mere 'programming.' Rust's finale conversion is read as an evidence-based judgment that thoroughgoing pessimism is intellectually dishonest, since compassion and justice do score nontrivial victories."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "schopenhauer",
+    "nietzsche"
+   ],
+   "concepts": [
+    "schopenhauer-pessimism",
+    "eternal-recurrence",
+    "schopenhauer-will"
+   ],
+   "relation": "Reads Carcosa, the Yellow King, and Ledoux's 'time is a flat circle' as cosmic horror in the lineage of Lovecraft and Ligotti, arguing that the genre's dread — that monsters exist and the fixed laws of nature may fail — is a metaphor for realizing Schopenhauer's blind will, with Rust's car monologues in 'The Long Bright Dark' presented as a beginner's guide to Schopenhauer. It notes Rust inverts the usual Lovecraft protagonist by starting the story already horrified, and that eternal recurrence framed through Schopenhauer's sphere-of-time makes even the rescued children's torment maddeningly endless. The chapter closes by complaining that the finale 'Form and Void' betrays both genres: the occult becomes ordinary crime and Rust's 'light is winning' star-field reverses Schopenhauer's pessimistic cosmology."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "schopenhauer",
+    "kant"
+   ],
+   "concepts": [
+    "schopenhauer-pessimism",
+    "eternal-recurrence"
+   ],
+   "relation": "Distinguishes philosophical pessimism (Schopenhauer, Nietzsche, Camus, Unamuno) — the denial that the universe is an ordered place whose laws human reason can grasp — from mere gloominess, and reads Rust's 'time is a flat circle' as Nietzschean anti-metaphysics of a world going nowhere. It argues pessimism makes Rust the better detective because, expecting no rational order, he sees what is actually there, while optimist Marty's illusions about family and career multiply his losses and end with him losing both. Against conflating pessimism with despair, the chapter splits ideas (pessimism) from attitudes (hope), showing how Hart's heart and Cohle's clear sight combine into the show's ideal of hopeful pessimism."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "hume"
+   ],
+   "concepts": [
+    "cartesian-doubt"
+   ],
+   "relation": "Tests whether Rust's pessimism is a principled rationalist philosophy (Dienstag's view, versus Ligotti's temperament view) by mapping the Descartes-style rationalist and Hume-style empiricist opposition onto the partners: principled, deductive Rust versus impulse-driven Marty, including Rust's religion debate at the tent revival. It then reads the death of Sophia — Greek for wisdom, root of 'philosophy' — as symbolism suggesting Rust's pessimism stems from the death of wisdom rather than rational reflection, especially since Rust holds that the suffering of growing up is needed to become a pessimist. The finale's experience of Sophia's love is taken as a pure philosophical experience that collapses the reason/emotion distinction, so that pessimism belongs to both sides of the opposition at once."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Part II “We Get the World We Deserve” Cruelty, Violence, Evil, and Justice.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "schopenhauer",
+    "hobbes",
+    "benatar"
+   ],
+   "concepts": [
+    "schopenhauer-pessimism",
+    "schopenhauer-pendulum",
+    "anti-natalism"
+   ],
+   "relation": "Reconstructs Rust's scattered remarks — the world as 'one giant gutter,' procreation as the hubris of yanking a soul out of nonexistence into the thresher — into an explicit anti-natalist argument, testing each premise and conceding procreation is selfish while questioning whether every life nets more harm than good. It presents David Benatar's asymmetry between the absence of pain (always good) and the absence of pleasure (bad only for someone deprived), illustrating it with the show: contraception as procreative duty, the wrongness of conceiving in Tuttle's Louisiana, and the emptiness of Childress' temple as a good in itself. The chapter concludes that Rust's 'opt out of a raw deal' is philosophically defensible, with Schopenhauer's desire-pendulum and Hobbes' 'nasty, brutish, and short' backing the claim that most lives are bad."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "buddha"
+   ],
+   "concepts": [
+    "eternal-recurrence",
+    "apollonian-dionysian",
+    "master-slave-morality"
+   ],
+   "relation": "Takes Nietzsche's 'man is the cruelest animal' and argues the show's real exploration of cruelty lies not in the cult's crimes, which stay mysterious, but in the Cohle–Hart relationship, whose private cruelties are closer to the human condition. It explains human cruelty through theory of mind — knowing we make others suffer — and through the moral vocabulary of desert, karma, and Schadenfreude (Nietzsche's slave morality inventing hell) that hides our pleasure in suffering, which Nietzsche sees as the key to life-affirmation against Buddhist and Christian world-denial. The chapter maps Hart as Dionysian energy and Cohle as Apollonian form, and reads Rust's 2012 talk of eternal recurrence as a ruse concealing his search for a Nietzschean moment of ecstatic affirmation of all the cruelty he has caused and endured."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx",
+    "zizek"
+   ],
+   "concepts": [
+    "marx-ideology"
+   ],
+   "relation": "Applies Slavoj Zizek's distinction between subjective violence (murders, assaults, what makes the news) and objective violence — symbolic and systemic, the catastrophic consequences of the smooth functioning of capitalism — to season two's Vinci, modeled on the really corrupt city of Vernon, California. It reads Velcoro's 'we get the world we deserve' line and Frank Semyon's 'papier-mache' water-stain monologue as revelations of systemic violence, with the stain marking how the past stares back at Bezzerides, Velcoro, and Woodrugh. Through Zizek's 'cynical ideology' (a West Side Story reading) and his account of fantasy, the chapter argues the show demands we target the system producing violence rather than treat its visible symptoms."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "moral-psychology"
+   ],
+   "relation": "Confronts a puzzle in Rust's naturalism: he dismisses the occult, yet talks freely of monsters and evil, concepts often thought irredeemably supernatural. The chapter distinguishes natural from supernatural senses of 'monster' (Aristotle's explicable hybrids versus Carroll's order-violating beings) to argue Errol Childress is a monster consistent with naturalism, then defends a 'modest proposal' — the evil person just is the morally worst sort of person, whose vices are extreme in both intensity and object. Betty's line that Childress is 'worse than anybody' and his extreme cruelty and callousness fit this account, teaching that recognizing creatures like us can be evil, not positing inhuman monsters, is the first step to combating evil."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel"
+   ],
+   "concepts": [
+    "punishment-theory",
+    "hegel-dialectic",
+    "legal-positivism"
+   ],
+   "relation": "Uses Hans Kelsen's legal positivism — law as amoral coercive order sustained by sanction, validated by authority rather than morality — to interpret season two's competing normative systems, from Vinci's city hall to the cartel's execution of the informant Irina. Against this background it separates revenge from Hegelian retributivism, reading Velcoro's shift from killing his wife's rapist to persuading Lenny Osterman to seek exposure instead, and Frank's communicative, confessing execution of the traitor Blake, as conflicted exercises of justice. The finale's bloodshed is read through Hegel's theory of tragedy as a collision of spheres of justice, each justified in its own eyes, whose transgression may precipitate change in Vinci."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Part III “Everybody's Nobody” Consciousness, Existence, and Identity.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "shankara",
+    "zhuangzi",
+    "descartes"
+   ],
+   "concepts": [
+    "buddhist-non-self",
+    "atman-brahman",
+    "zhuangzi-perspectivism",
+    "cartesian-doubt"
+   ],
+   "relation": "Reads Rust's 'dream inside a locked room' and 'everybody is nobody' monologues through the dream-argument and illusion-of-self traditions: the Upanishads and Advaita's atman/brahman, Vasubandhu's Buddhist non-self, Zhuangzi's butterfly dream, Plato's Theaetetus, and Descartes' dream doubt, plus Metzinger's self-model neuroscience. It diagnoses Rust as a neuro-nihilist in Metzinger's sense and defines his predicament with Nietzsche's nihilist, who judges the world as it is that it ought not to be, while noting Schopenhauer misread India's religions as pessimistic. Thompson argues nihilism is a deep insight gone awry — the self is not a thing but an enacted process like dancing — and reads Rust's final near-death experience of love as proof that transcendence of the dream of being a person is possible."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "nietzsche",
+    "williams"
+   ],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity",
+    "eternal-recurrence",
+    "narrative-identity"
+   ],
+   "relation": "Divides Rust's season-one personae into Taxman (anti-natalist rule-follower), Belligerent (vigilante drunk paralyzed by Nietzsche's Gay Science demon of eternal recurrence), and Patient (the mystic who wakes from his coma feeling his daughter's love, compared to the Persian mystic al-Hallaj), asking what makes them one person. It tests the brute physicalist account (Williams and Ayer — the same bird-tattooed body), the Lockean psychological-continuity account, and the narrative account, arguing only the narrative theory explains how Rust changes without either ignoring change or multiplying selves in one body. The chapter ends by making Rust an exemplar for the viewer: we are narrators who choose who to become, so 'I know who I am' is a victory."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "sartre",
+    "beauvoir"
+   ],
+   "concepts": [
+    "bad-faith",
+    "eternal-recurrence",
+    "woman-as-other",
+    "existence-precedes-essence"
+   ],
+   "relation": "Reads Cohle's arc as an existentialist passage toward authenticity, using Sartre's being-for-itself to explain why Hart's 'family man' identity is bad faith — a clinging to social roles that denies the freedom of a consciousness that is an activity, not a thing. Beauvoir's analysis of women as the passive, objectified Other illuminates why Rust, despite his nihilism, persistently protects vulnerable women and children such as Sophia, Dora Lange, and Marie Fontenot: threats to others' freedom threaten our own. Nietzsche's Silenus wisdom, the spirit of gravity on the tightrope, and the shepherd who bites the head off the snake frame Ledoux's and Childress' warped eternal return as the poison Cohle must overcome before he can will life eternally and declare 'the light is winning.'"
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "frankfurt",
+    "schopenhauer",
+    "spinoza"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "second-order-desires",
+    "compatibilism",
+    "philosophical-zombies"
+   ],
+   "relation": "Interrogates the tension in Cohle's 'deny our programming' line: if we are programmed biological puppets, how could we deny the program? It contrasts Sartre's radical free will and its crushing responsibility with Frankfurt cases and second-order desires — Marty as the 'wanton' who never acts on his desire not to desire affairs — and with Schopenhauer's will and Spinoza's causal determinism, both of which locate a kind of freedom in increased consciousness of our causes. The chapter concludes that self-consciousness, Rust's 'tragic misstep,' is in fact the only tool for reprogramming ourselves, imagined through a world of philosophical zombies who could neither suffer nor choose."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Part IV “This Is My Least Favorite Life” Noir, Tragedy, and Philosopher-Detectives.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "lacan",
+    "plato",
+    "kant",
+    "freud"
+   ],
+   "concepts": [
+    "apollonian-dionysian",
+    "ressentiment",
+    "plato-forms",
+    "kant-humanity-formula"
+   ],
+   "relation": "Uses Nietzsche's Birth of Tragedy and Lacan's ethics of psychoanalysis to argue season two failed as tragedy because feminist morality became the inflated 'Good' that blocks the transgression of limits through which Dionysian wisdom is won. Season one works because Rust's philosophy filters the Carcosa horrors without moralizing, whereas season two — failing Aristotle's catharsis model and repeating Euripides' mistake — represses the sexual knowledge troubling Velcoro, Bezzerides, and Woodrugh, so Dionysus returns only as money and violence, as in The Bacchae. Ani's arc is read through Nietzschean ressentiment toward her father and Freud's return of the repressed, with Kantian sexual dignity ('maybe you were put on earth for more than fucking') and the male gaze as the contemporary Good the show never crosses."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "deleuze"
+   ],
+   "concepts": [
+    "plato-justice",
+    "plato-tripartite-soul",
+    "unexamined-life"
+   ],
+   "relation": "Compares the noir detective's relation to Vinci with Socrates' gadfly role in Athens from the Apology, arguing both operate at the city's center and its margins as instruments of collective self-examination. Via Deleuze's 'Philosophy of Crime Novels' it contrasts the classic detective as an agent of truth (Poe, Christie) with the hard-boiled detective as an agent of action who stirs the system — Ani's undercover infiltration of the businessmen's party — forcing what Deleuze calls the 'power of falsehood' to reveal and conceal. Plato's Republic city–soul analogy then frames Velcoro, Bezzerides, and Woodrugh as disordered souls mirroring Vinci's corrupt class structure, whose cases restore equilibrium without achieving Platonic justice."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lacan",
+    "freud",
+    "deleuze",
+    "hegel"
+   ],
+   "concepts": [
+    "lacan-mirror-stage",
+    "lacan-symbolic",
+    "freud-unconscious"
+   ],
+   "relation": "Reads the Cohle–Hart pairing through Lacan: Cohle is at peace with the constitutive lack introduced after the mirror stage, and his hysteric's fixation on the Other's desire is what makes him the superior interrogator, while Hart exhibits obsessional neurosis and 'interpassivity,' letting the preacher's congregation do his believing for him. Following Deleuze's Oedipal structure of detective fiction and Hegel's point that heroes are denied guilt, the chapter compares Rust to Oedipus — both men who, after a child's death, renounce the father function through anti-natalism — while arguing Cohle surpasses Oedipus by philosophically mastering the knowledge that Oedipus lacked. Rust's tying off of his 'circle of violence' is read as the Lacanian sinthome: putting his symptom to work in the service of the case rather than being destroyed by it."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Part V “Time Is a Flat Circle” Time in True Detective.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "schopenhauer"
+   ],
+   "concepts": [
+    "eternal-recurrence",
+    "schopenhauer-will",
+    "will-to-power",
+    "schopenhauer-pessimism"
+   ],
+   "relation": "Traces Cohle's opening monologue directly to Schopenhauer — reality as a purposeless will whose satisfied desires breed only boredom, answered by ascetic denial of the will-to-live rather than suicide. It then explains Nietzsche's eternal recurrence as the true test of life-affirmation, via the Gay Science demon and Zarathustra's ordeal with the Small Man, and interprets will to power as finding meaning in overcoming resisting conditions, so that affirmation does not mean approving everything that happens. Hatab argues the show's horrified version of the flat circle is Schopenhauerian rather than Nietzschean, and that Cohle's 'light is winning' ending is ambiguous — if it rests on a supernatural reunion with Sophia, it would betray Nietzsche's this-worldly affirmation."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "schopenhauer",
+    "heidegger"
+   ],
+   "concepts": [
+    "eternal-recurrence",
+    "amor-fati",
+    "schopenhauer-will",
+    "being-toward-death"
+   ],
+   "relation": "Argues 'time is a flat circle' means neither a metaphysical cosmology nor M-theory physics nor reincarnation, but is Nietzsche's eternal recurrence as a thought experiment about how to live. Tracing Rust's pessimism and his lack of the 'constitution for suicide' (echoing Schopenhauer's claim that suicide affirms the will-to-live, with starvation as its only true denial), it shows the flat circle operating as both trap and cure: obsessing over it keeps Rust on the Yellow King case until his near-death experience becomes the 'tremendous moment' of amor fati. Heidegger's view in Being and Time that anxiety before death can empower meaningful existence frames Rust's final affirmation — escaping the flat circle by faithfully acknowledging it, through sacrifice."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Known Associates.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - EULA.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 8,
+   "type": "concept",
+   "suggested_slug": "cosmic-horror",
+   "name": "Cosmic Horror (Lovecraftian weird fiction)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "A horror mode associated with H. P. Lovecraft and Thomas Ligotti in which dread comes from discovering humanity's insignificance before indifferent forces that defeat the fixed laws of nature.",
+   "why": "Chapter 8 reads Carcosa, the Yellow King, and Rust's pessimism as cosmic horror, and faults the finale for deflating the genre into ordinary crime."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "rationalism-vs-empiricism",
+   "name": "Rationalism vs Empiricism",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The early-modern debate over whether knowledge and truth derive from reason alone (Descartes) or from sense experience (Hume).",
+   "why": "Chapter 10 frames Rust's pessimism as rationalist observation and deduction against Marty's emotion-driven worldview, and uses this debate to test whether pessimism is philosophy or personal temperament."
+  },
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "benatar",
+   "name": "David Benatar",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Contemporary philosopher whose Better Never to Have Been argues, via an asymmetry between pleasure and pain, that coming into existence is always a harm.",
+   "why": "Chapter 12 uses Benatar's asymmetry argument to reconstruct and defend Rust's anti-natalism, which series creator Nic Pizzolatto acknowledged as a source for the character."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "anti-natalism",
+   "name": "Anti-natalism",
+   "philosopher": "benatar",
+   "domain": "ethics-moral-psychology",
+   "what": "The view that procreation is morally wrong because bringing a sentient being into existence necessarily harms it.",
+   "why": "Chapter 12 reconstructs Rust's 'walk hand in hand into extinction' as a Benatar-style anti-natalist argument and asks whether it morally compels everyone to stop reproducing."
+  },
+  {
+   "ch": 14,
+   "type": "philosopher",
+   "suggested_slug": "zizek",
+   "name": "Slavoj Zizek",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Slovenian philosopher and Lacanian psychoanalyst known for ideology critique, analyses of capitalism and violence, and popular-culture films such as The Pervert's Guide to Ideology.",
+   "why": "Chapter 14 is built almost entirely on Zizek's Violence: Six Sideways Reflections, reading Vinci and season two through his account of ideology and systemic violence."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "subjective-objective-violence",
+   "name": "Subjective and Objective Violence",
+   "philosopher": "zizek",
+   "domain": "political-social",
+   "what": "Zizek's distinction between visible subjective violence (crime, terror, assault) and invisible objective violence — symbolic (language, domination) and systemic (the catastrophic side-effects of economic and political systems).",
+   "why": "Chapter 14 applies this typology to Vinci's corruption, Frank Semyon's collapse, and the 'we get the world we deserve' motif, arguing the show's visible violence is a symptom of systemic capitalist violence."
+  },
+  {
+   "ch": 16,
+   "type": "philosopher",
+   "suggested_slug": "hans-kelsen",
+   "name": "Hans Kelsen",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Austrian legal theorist whose Pure Theory of Law treats law as an amoral coercive order validated by authority and sustained by sanctions, divorcing law from justice.",
+   "why": "Chapter 16 uses Kelsen's concepts of delict, sanction, and indirect motivation to interpret season two's competing legal orders, from Vinci's city hall to the cartel."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "legal-positivism",
+   "name": "Legal Positivism (law without morality)",
+   "philosopher": "hans-kelsen",
+   "domain": "political-social",
+   "what": "The theory that the validity of law rests on its enactment by a recognized authority, not on its moral merits.",
+   "why": "Chapter 16 reads Vinci's corrupt police, city administration, and organized crime as Kelsenian coercive orders to show why the protagonists must seek justice outside the law."
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "self-model-theory",
+   "name": "Self-Model Theory (neuro-nihilism)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Thomas Metzinger's claim that the brain generates a conscious self-model, so no selves exist — only self-models that cannot be recognized as models — which Evan Thompson calls 'neuro-nihilism' and counters with an enactive view of the self as process.",
+   "why": "Chapter 18 identifies Rust's 'everybody is nobody' monologue with Metzinger's position and argues against this neuro-nihilism in favor of transcendence through love."
+  },
+  {
+   "ch": 19,
+   "type": "concept",
+   "suggested_slug": "narrative-identity",
+   "name": "Narrative Identity",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The view (associated with Marya Schechtman) that personal identity is constituted by a person's self-narrated life story rather than by bodily or psychological continuity alone.",
+   "why": "Chapter 19 defends the narrative account as the only theory that explains how the three Rusts (Taxman, Belligerent, Patient) can be phases of one person."
+  },
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "noir-detective",
+   "name": "The Noir Detective (hard-boiled fiction)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The hard-boiled/noir tradition of detective fiction in which an investigator embedded in a corrupt city is an agent of action and equilibrium rather than of truth and ideal justice.",
+   "why": "Chapters 24 and 25 define True Detective as urban noir, contrasting the genre's cynical city with Plato's philosophy of the city and reading Cohle as the return of the noir hero."
+  }
+ ]
+}

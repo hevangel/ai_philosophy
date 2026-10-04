@@ -1,0 +1,452 @@
+{
+ "book": "178 - LEGO and Philosophy - Constructing Reality Brick by Brick",
+ "unit": "u260",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Series.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Title page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Table of Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Notes on Contributors.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Introduction Play Well, Philosophize Well!.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Editors Bacharach and Cook argue that LEGO is not really a toy but a building medium, closer to bricks and paint than to toy-aisle items, from which toys, practical artifacts, and gallery art (Sean Kenney, Nathan Sawaya, Ai Weiwei) are all made — and that this open-endedness is what makes LEGO philosophical. They frame the volume with Aristophanes' Cloud Cuckoo Land from The Birds, noting that Unikitty's rule-free kingdom in The LEGO Movie inherits the same pointed satire of social life. The introduction asks why LEGO in particular (Serious Play, Mindstorms, Friends, the Greenpeace video) invites hard questions about how we construct ourselves and our world, closing with the Danish motto 'leg godt' — play well, and philosophize well."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Part I LEGO® AND CREATIVITY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "plato",
+    "kant",
+    "zhuangzi"
+   ],
+   "concepts": [
+    "wu-wei",
+    "kant-aesthetics"
+   ],
+   "relation": "Willard poses the paradox of creativity: how can a toy that promises creativity come with rigid instructions and a purist fan culture that polices what counts as legitimate building? She reads The LEGO Movie as staging three rival models — the Master Builders' unfettered recombination (Plato's Ion on poetic madness and Kant's mysterious free-playing genius), Emmet's 'thinking outside the box' that yields the mocked double-decker couch, and Finn's father's meticulous vision. Following Aristotle against Plato that poetic skill is a teachable craft, plus psychology of jazz-improvisation studies, flow states, and Zhuangzi's butcher Cook Ding, she argues creativity is the joyful mastery of a process, so following instructions is the etude-stage that builds the database of moves from which free creation grows."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "freud",
+    "locke",
+    "rousseau",
+    "democritus"
+   ],
+   "concepts": [
+    "atomism"
+   ],
+   "relation": "Shores opens with Sophie's World comparing LEGO bricks to Democritus' indivisible, endlessly recombinable atoms, and argues LEGO is a system of play and an 'object to think with' that models how ideas and worldviews are assembled, disassembled, and rebuilt. He contrasts Plato's Republic-era suspicion that children's play must be regulated with the Socratic playfulness that treats philosophy itself as serious play, and enlists Locke and Rousseau on play-based learning and Freud on the child at play as a creative writer rearranging its world. Lord Business' Kragle shows play taken too seriously becoming inert, while Caillois' ludus/paidia distinction frames the difference between themed narrative sets, free building, and the goal-directed rigidity of the LEGO video games."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Using three scenarios — describing the Eiffel Tower by shape alone, Frank Lloyd Wright's Fallingwater welded to its site, and original-brick houses imagined on Mykonos versus Milwaukee — Fisher defends a moderate formalism about architectural aesthetics: in the pre-1976 'original LEGO world' of standardized, uniform bricks, aesthetic properties like beauty arise from the forms themselves and their hallmark features of versatility, backwards compatibility, and ease of disassembly. Contextualist and functional-beauty accounts of the anti-formalists fail for LEGO architecture because any original-brick design can be built anywhere, at any time, for any function or none, so context cannot fix the structure's aesthetic identity. He extends the point to real-world architectural models, which likewise bear no actual functional loads and are appreciated outside context."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "locke",
+    "hobbes"
+   ],
+   "concepts": [
+    "ship-of-theseus",
+    "locke-labor-property",
+    "personal-identity"
+   ],
+   "relation": "Gettings asks whether LEGO set #21103, the Cuusoo DeLorean Time Machine, is numerically identical to Team BTTF's original fan design — and why the fans deserve credit and royalties. Neither matter (his 1982 attic spaceship with bricks replaced one by one) nor form (a license plate added here or there) settles identity, as the Ship of Theseus puzzle and Hobbes' reassembly variation show, analyzed through Aristotle's matter/form distinction for substances. He adopts the causal/historical view: the released set continuously descends from the fans' submission just as the adult author descends from the boy who built the spaceship, and this same historical origin, in Lockean fashion, is what grounds the designers' labor-mixing property right — the musician-and-producer analogy explaining why Team BTTF keeps the larger share of credit."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Part II LEGO®, ETHICS, AND RULES.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "deontology",
+    "categorical-imperative"
+   ],
+   "relation": "Robson argues that The Man Upstairs' real moral flaw is neither stinginess toward Finn nor mere instruction-following, both of which he defends, but 'rule worship': treating LEGO construction instructions — rules with at best conventional status like chess or etiquette rules — as sacrosanct commandments to be followed for their own sake. The contrast is with Kant, who does claim absolute status for central moral rules such as the prohibition on lying, and with the moral/conventional distinction from psychologists like Kelly and Stich that The Man cannot grasp. Emmet's rule-following differs because it serves goals like fitting in, and the flaw scales from office Micromanagers and Velma Staplebot to Inspector Javert and the mafioso, showing how misdirected rule worship becomes genuinely vicious."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "frankfurt"
+   ],
+   "concepts": [
+    "kant-humanity-formula"
+   ],
+   "relation": "Quanbeck reads The LEGO Movie as a battle between two theories of the value of persons. President Business rules Bricksburg through extrinsic accounts — Harry Frankfurt's view in The Reasons of Love that caring and loving confer value, plus an economic model on which worth equals social contribution — which make Emmet's self-worth swing wildly with others' judgments, from Bad Cop's 'blank slate' recording to Wyldstyle's flattery and dismissal. The philosophical turning point comes with Vitruvius' ghost: Emmet's Kantian enlightenment that rational persons are ends in themselves with intrinsic, mind-independent value, so that 'The prophecy is made up, but it's also true. It's about all of us' — a belief that empowers his self-sacrifice and Wyldstyle's broadcast to the citizens."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "beauvoir",
+    "sartre",
+    "korsgaard"
+   ],
+   "concepts": [
+    "kant-autonomy",
+    "woman-as-other",
+    "the-look"
+   ],
+   "relation": "Chelstrom uses the progression from guided DUPLO builds to free design to argue that autonomy develops in degrees and is relational rather than purely individualist. Kant's self-thinking agent — for whom precepts and formulas are the 'ball and chain' of immaturity — explains Emmet's dependence on Octan's instruction booklets and Lord Business's profit from deference, and Korsgaard's definition frames the individualist autonomy the Master Builders embody. Yet their lone-wolf autonomy fails, and Sartre's look plus Beauvoir's account of woman forced to assume herself as Other explain Wyldstyle/Lucy's deference to others' expectations; Catriona Mackenzie's relational autonomy recasts 'Everything is Awesome' as peers supporting each other's self-development, with Emmet's friendship letting Lucy accept herself."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger"
+   ],
+   "concepts": [
+    "authenticity",
+    "das-man",
+    "heidegger-technology"
+   ],
+   "relation": "Miller reads Emmet's arc from 'Tell me what to do, and I'll do it!' conformity toward Vitruvius' 'embrace what is special about you' as a Heideggerian journey from das Man — the anonymous 'one does not do that' of the they-self, named in her notes — toward authenticity. LEGO play exemplifies the ready-to-hand engaged dealing with equipment that is more primordial than detached present-at-hand analysis, moods like boredom disclose the exhaustion of Lord Business's 'calculative thinking', the technological enframing that treats everything as standing-reserve, and art (Heidegger's Van Gogh shoes, a #KeepBuilding ad) reveals hidden cultural truths. Heidegger's 'Only if we are capable of dwelling, only then can we build' grounds her claim that LEGO's 'new toy everyday' recyclability sustains the meditative, sustainable building the book's ethos demands — even while admitting the movie is itself a masterful advertisement."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Part III LEGO® AND IDENTITY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "appiah"
+   ],
+   "concepts": [],
+   "relation": "Cook traces how LEGO's 1978 all-yellow 'smiley' minifigure — intended as racially neutral — broke down after the 1999 Star Wars license forced the question of how to mold Lando Calrissian, answered in 2003 with flesh-toned NBA and licensed figures. Using Tak Toyoshima's Secret Asian Man comic (a brown Kobe Bryant minifig confronting a yellow castle soldier and yellow ninjas) and his own Brickworld 'Seven Smiley Samurai' vignette experiment, he shows that introducing racially specific figures retroactively racialized the yellow ones, so the same plastic reads differently by context. The chapter argues for racial constructivism over biological essentialism and over the eliminativist views of Appiah and Naomi Zach: categories like 'black in New Orleans, white in Brazil' are built from conventions and attitudes — we don't treat people differently because of race; they are racialized because we treat them differently."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir",
+    "wollstonecraft",
+    "mill",
+    "plato"
+   ],
+   "concepts": [
+    "becoming-woman",
+    "feminism",
+    "mill-subjection-women",
+    "vindication-women"
+   ],
+   "relation": "Gutwald takes seven-year-old Charlotte Benjamin's viral letter ('all the girls did was sit at home, go to the beach, and shop... but the boys went on adventures, worked, saved people') to argue the LEGO Friends theme is Wollstonecraftian 'friendly sexism' — revering girls as pretty play-things in a house-bound Heartlake City rather than oppressing them outright. Following Beauvoir's 'One is not born, but rather becomes a woman' and her point that men describe the world from their own perspective, plus Mill's Subjection of Women observation that argument alone cannot beat a 'mass of feeling', she explains how pinkified toy segregation feeds implicit bias, schemas, and stereotype threat in both girls and boys. Her fix is structural: make Friends bricks and mini-dolls compatible with the rest of the system ('Let the Friends go to Space!') and return to the gender-neutral 1981 'What it is is beautiful' ad."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "feminism"
+   ],
+   "relation": "Grant and Wainman assess the fan-designed Research Institute set (#21110, with its paleontologist, astronomer, and chemist) — created by geoscientist Ellen Kooijman and the first LEGO set with women scientists — as a genuine step for women in STEM that still markets girls' play as passive role play with lipstick-wearing figures. Drawing on gender socialization research (parents describing babies differently from birth, the draw-a-scientist test, Emily Martin's analysis of gendered egg-and-sperm descriptions in biology texts), they argue that LEGO's gendered coding of minifigures and themes — masculine-coded City police and astronauts, salon-and-bakery Friends — is one brick in the wall steering girls away from science and engineering. They call for sets that embed real science and engineering skill rather than narratives, and for boys to extend their range to the Heartlake Hair Salon too."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "kierkegaard",
+    "parfit",
+    "reid"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "ship-of-theseus",
+    "personal-identity",
+    "personalism"
+   ],
+   "relation": "Mentyka uses minifigure puzzles — can 'Eliza' and 'Beth' be distinct characters when built from identical pieces, and is Eliza the same character after every piece is swapped out, a minifig Ship of Theseus — to introduce the philosophy of the human person. He runs through supervenience on physical parts, Locke's memory theory and its Butler–Reid controversy (Reid in the taxonomy), the Christian Resurrection-of-the-Body background, and Parfit's despairing deflation that identity matters less than what survives us. Against these he defends personalism, citing Max Scheler and Kierkegaard's call in The Single Individual to become one rather than a crowd: a person is both the sigfig and the AFOL building it, constituted by free choices and actions — which is also why the LEGO Movie's 'Where Are My Pants?' mass society is the enemy."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Part IV LEGO®, CONSUMPTION, AND CULTURE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "climate-ethics"
+   ],
+   "relation": "Bacharach and Das use Greenpeace's 2014 'Everything is NOT awesome' video — a pristine LEGO Arctic slowly drowning in Shell oil until only a polar bear on a Shell-flagged iceberg remains — to ask what exactly was wrong with LEGO's Shell partnership, and whether a company trading on a wholesome image incurs stricter moral duties. They audit the reality behind the brand: Shell's complicity in Nigeria's repression of the Ogoni and the hanging of Ken Saro-Wiwa, LEGO's outsourcing layoffs in Denmark and the US, and the fact that only about 10 percent of LEGO's carbon emissions come from its own plants, the rest along the supply chain. Their verdict: LEGO is ethically better than most for-profit companies and its fictional Octan satirizes the very consumerism it profits from, but image itself is a fair ground for holding it to a higher standard."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "food-ethics"
+   ],
+   "relation": "Van Pelt argues the LEGO Farm theme depicts an agricultural utopia — sparkling tractors, no concentrated animal feeding operations, no manure lagoons, and animals raised only for eggs, wool, and milk, never meat — in line with the vegetarian, small-is-beautiful ideals of activists Michael Pollan and Bill McKibben. The troubling side is the farm-to-fork gap: no butcher shop, no slaughter, pigs whose purpose goes conveniently unexplained — a silence that, he argues, reflects consumers' own refusal to know where food comes from rather than a LEGO conspiracy, though food's everyday urgency means toy farms should be held to a different standard than Hot Wheels. The redeeming idealism is not in the sets but in the Master-Builder freedom to build better realities, like solar-powered crop drones and trains delivering unsellable food to the city."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard"
+   ],
+   "concepts": [
+    "simulacra"
+   ],
+   "relation": "Lueth maps Baudrillard's four stages of the image from Simulacra and Simulation onto LEGO history. Early basic-brick town sets reflect a profound reality; the late-1980s shift to cops-and-robbers conflict play masks and denatures it — prison-striped convicts presuppose a justice system that never appears in the sets; sky-fi MOCs like the Savoia S.21 from Porco Rosso, which borrows a real WWII-era designation for a fictional plane, mask the absence of reality; and ApocaLEGO — MOCs riffing endlessly on Metro 2033, Fallout, The Walking Dead, and each other — is the pure simulacrum, images referring only to images with no real-world counterpart to check against (via Borges' 'Tlon, Uqbar, Orbis Tertius'). If Baudrillard is right that images now precede reality, ApocaLEGO is, culturally, literally building the apocalypse."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard"
+   ],
+   "concepts": [
+    "simulacra"
+   ],
+   "relation": "Boardman reads Miniland USA at LEGOLAND California and Florida as the nation itself rendered a 'Fan Developed Theme': an archipelago of tourist destinations — NYC, Washington DC, Las Vegas, New Orleans, 'New England' — connected not by geography but by the visitor's body performing a simulated cross-country tour that skips the flyover states entirely, with Bachelard's Poetics of Space on miniaturization and Debord's spectacle (footnoted) framing the effect. The California Freedom Tower reproduces a rejected architectural design, a literal Baudrillardian simulacrum, a copy for which no original exists, while Florida's version simply deletes Lower Manhattan and swaps Coke for Pepsi per sponsorship deals. Comparing the two parks' itineraries shows that 'America' here is constructed from circulating tourist imagery and corporate logistics — Carlsbad itself erased from its own park's map."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Part V LEGO®, METAPHYSICS, AND MATH.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "laozi",
+    "plato",
+    "socrates",
+    "aristotle"
+   ],
+   "concepts": [
+    "the-tao",
+    "wu-wei",
+    "yin-yang"
+   ],
+   "relation": "Bein reads the LEGO brick as the Daodejing's 'uncarved block': a single brick is an invitation rather than a toy, and precisely because it is empty of meaning (and mostly empty of plastic — the stud-and-tube marriage of yin and yang) it can become anything, whereas printed, specialized pieces 'are diminished by being added to'. Against the Greek obsession with definition — Socrates refusing sophistry while insisting one cannot rule justly without defining justice, Plato's definition dialogues, Aristotle's inheritance of the precision ideal, and William James's 'think clearly' — Daoist imprecision is defended as a philosophical stance: dao is a way, an activity, not a thing. Wei wu wei ('doing without doing') explains Emmet's winning plan of building the utterly ordinary Octan spaceship, why Lord Business's penny-throw is genius without sagacity (coercive, not water-like), and why governing should be like cooking a small fish — minimal, attentive intervention."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha"
+   ],
+   "concepts": [
+    "buddhist-impermanence",
+    "buddhist-non-self",
+    "buddhism"
+   ],
+   "relation": "Kahn argues LEGO play embodies the Buddhist teaching of impermanence that the Buddha states in the Digha Nikaya ('Impermanent are all component things...'): his childhood urge to superglue creations and Finn's father's Kragle dramatize the clinging that produces anxiety when things change, from brick formulations to discontinued sets and even funerals' wilting flowers. The LEGO Star Wars Death Star illustrates non-self — no Death Star exists apart from its 3,803 pieces, and no self apart from shifting aggregates — and the five aggregates (form, sensation, perception, formations, consciousness) are unpacked through building experiences like discovering a daughter has opened the mint Taj Mahal set. Tibetan sand mandalas, painstakingly built then ritually dissolved, model the ceremonial demolition of LEGO creations, teaching acceptance of change without sliding into a nihilistic 'why bother building at all'."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis",
+    "hume",
+    "ockham"
+   ],
+   "concepts": [
+    "possible-worlds",
+    "ockham-razor"
+   ],
+   "relation": "Leuenberger argues that a LEGO MOC is a surprisingly faithful model of David Lewis's Humean supervenience: the world is just a vast mosaic of local matters of particular fact — homogeneous, arbitrarily recombinable atomic bricks (fundamental properties at space-time points) with no necessary connections, Hume's 'greater denier', versus gunky Play-Doh or jigsaw pieces. Ockham's Razor motivates the view (while also able to cut against a divine master builder, whom Lewis's world lacks, though LEGO-world builders likewise stand outside their creations), and Lewis's concrete possible worlds make every build a replica rather than a creation, answered to the 'incredulous stare' by quantitative parsimony. Four-dimensionally stacked creations model change as variation along temporal parts, while the causation objection — nothing in one LEGO creation brings about the next — marks the fundamental Humean/non-Humean divide."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Fischer stress-tests LEGO's slogan that 'you can build whatever you can imagine' as a piece of modal epistemology: the imaginable-but-unbuildable three-headed minifig shows imagination overgenerates, while the arch that seems sound in imagination but collapses in plastic shows it undergenerates, and tightening the slogan to complete brick-by-brick imagining leaves us knowing almost nothing. He replaces imagination with 'working knowledge' — the tinkerer's implicit feel for studs, balance, and lateral pressure — which becomes explicit theory when hard questions arise, as when engineers calculated a 3,591-meter maximum tower by combining brick-crushing force with material science: a theory-based epistemology of modality. Purism, oddly, is vindicated, because what AFOLs love is not just the possibilities but the specific impossibilities of the LEGO system, whose limits spark the determined engineer in every builder."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "wittgenstein",
+    "frege",
+    "russell"
+   ],
+   "concepts": [
+    "plato-forms"
+   ],
+   "relation": "Tanswell takes Plato's side against Plato: where Republic Book VII mocks geometers who talk of 'squaring' and 'applying' as if math were practical doing, and Platonist foundationalism (Frege and Russell, ever-revising) treats proofs as revealing the eternal abstract structure of unchanging mathematical objects — modeled as a mighty load-bearing LEGO tower built from the base up — picture proofs show the activity is the point. Two diagrammatic proofs (the infinite series of triangles yielding 1/3, and the Pythagorean theorem via inflated, rotated, recombined triangles) work exactly like LEGO instruction booklets: sequences of pictures guiding a series of actions we must perform. With Wittgenstein's 'The mathematical proposition says to me: Proceed like this!', he proposes a 'LEGO account of diagrammatic proofs' on which mathematics, like LEGO, is fundamentally about what we do — building, playing, proving — not just about objects."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Glossary.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - EULA.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "aesthetic-formalism",
+   "name": "Formalism in Aesthetics",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The view that an artwork's (especially architecture's) aesthetic properties such as beauty arise from its internal formal properties — shape, color, arrangement — rather than from context, history, or function.",
+   "why": "Chapter 10 is a sustained defense of LEGO-based architectural formalism against contextualist and functional-beauty accounts, and taxonomy has no entry for formalism or aesthetics of form."
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "racial-constructivism",
+   "name": "Racial Constructivism (race as socially constructed)",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "The view that race is a real but socially constructed category, constituted by social practices, conventions, and attitudes rather than by biology, and varying across contexts and times.",
+   "why": "Chapter 18 argues the yellow minifigure's failed racial neutrality shows race is built from context-dependent conventions (black in New Orleans, white in Brazil), against biological essentialism and Appiah-style eliminativism; taxonomy lacks any philosophy-of-race constructivism entry."
+  },
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "personalism",
+   "name": "Personalism",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "A philosophical movement (associated with Max Scheler, Emmanuel Mounier, and others) treating the human person — free, acting, and self-creating — as the central and measure-giving category of reality.",
+   "why": "Chapter 21's resolution of the minifig Ship-of-Theseus puzzle is explicitly personalist: identity rests on the agent's choices and actions, the person being both builder and built, and taxonomy has no personalism entry."
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "corporate-social-responsibility",
+   "name": "Corporate Social Responsibility",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The thesis that companies bear moral duties beyond profit — to workers, communities, and the environment — and may properly be held to higher standards when they trade on an ethically positive image.",
+   "why": "Chapter 23 evaluates LEGO's Shell partnership, outsourcing layoffs, and supply-chain emissions against its wholesome brand image, asking whether profiting from an ethical image generates stricter moral obligations; taxonomy has no CSR or business-ethics concept."
+  },
+  {
+   "ch": 31,
+   "type": "concept",
+   "suggested_slug": "modal-epistemology",
+   "name": "Modal Epistemology (knowledge of possibility and necessity)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The study of how we know what could and must be — whether via imagination, conceiving, or theory-based extrapolation — and how much modal knowledge we actually have.",
+   "why": "Chapter 31 is an extended exercise in modal epistemology, testing whether imagination tells us what is buildable with LEGO and defending a theory-based epistemology of modality; taxonomy's closest slug, possible-worlds, is Lewis's metaphysics, not this epistemology."
+  }
+ ]
+}

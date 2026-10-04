@@ -1,0 +1,344 @@
+{
+ "book": "153 - Disney and Philosophy - Truth, Trust, and a Little Bit of Pixie Dust",
+ "unit": "u223",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Table of Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - ii.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - iii.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - iv.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Contributors.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Acknowledgments.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates"
+   ],
+   "concepts": [],
+   "relation": "Editor Richard B. Davis frames the whole volume with Socrates' claim that philosophy begins in wonder, arguing that the Disney universe of films and theme parks is a fitting place to ask who we are, what our purpose is, and how we can live freely and happily. He previews the book's arcs: the feminist evolution of the princesses from Snow White to Moana, whether Hidden Mickeys tell us anything about God, and journeys through Inside Out's emotions and Finding Dory's disability stigmas."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Part I “THE SEAWEED IS ALWAYS GREENER IN SOMEBODY ELSE'S LAKE”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - A Hope for the Future.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir",
+    "sartre",
+    "aristotle"
+   ],
+   "concepts": [
+    "becoming-woman",
+    "male-gaze",
+    "the-look"
+   ],
+   "relation": "Reads The Little Mermaid as a step forward from the man-requiring damsels of Snow White and Sleeping Beauty: Ariel reverses the rescue by saving Eric, and Aristotle's 'all men by nature desire to know' is stretched to cover her curiosity about the human world. But Ursula's bargain trading Ariel's voice for legs dramatizes the long history of silenced women (Eve, Pandora, Cassandra, the scold's bridle), and the film's sexy, silent Ariel is exactly what Mulvey's male gaze, built on Sartre's 'the look,' criticizes. Applying Beauvoir's 'one is not born but becomes a woman,' the chapter argues Ariel shows biology is not destiny yet still regresses into needing a man, concluding she is a flawed but real advance toward better heroines."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - “Your Heart Knows”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "confucius"
+   ],
+   "concepts": [
+    "confucian-filiality",
+    "confucian-ren",
+    "authenticity",
+    "moral-luck"
+   ],
+   "relation": "Argues that Disney's Mulan transplants a distinctly modern Western ideal of the authentic self ('true to your heart,' 'Reflection') into a Confucian honor culture where the self is constituted by roles and relationships, filial piety (xiao), and ren as the virtue that binds people into larger wholes — which is why the film flopped in China. The matchmaker debacle, Fa Zhou's 'I will die doing what's right,' and the family's shame show a culture where dishonor stains the whole family and even luck (the cricket Cri-Kee) fixes moral standing, conflicting with Western assumptions about individual responsibility. The chapter ends by noting Mulan now resonates with young Chinese viewers, asking whether the Western individualist self is a truth about humanity or a cultural export that, like the Huns, has scaled the Great Wall."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Hakuna Matata, Bodhisattva.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dogen",
+    "buddha"
+   ],
+   "concepts": [
+    "buddhist-impermanence",
+    "buddhist-non-self",
+    "zen"
+   ],
+   "relation": "Sets up Disney's maxim 'Hey kid, you can be a hero' as the direct opposite of Zen's 'Hey kid, you can be a buddha': escapism versus liberation, told through the life of Dogen, whose monastic choice parallels Disney hero narratives. Mickey in Steamboat Willie — a bundle of still frames with no sound and no real 'he' — illustrates the Buddha's three marks of existence (emptiness, impermanence, frustration), and the chapter argues Disney products are calibrated distractions from these marks while Dogen counsels facing them, with Ariel's Andersen fate as the price of fantasy. It closes on Disney's merchandising machine (Yoda, Star Wars sequels, direct-to-video cash grabs) as everything the countercultural minimalist Yoda or Baloo's bare necessities stand against, concluding that real hakuna matata is accepting impermanence rather than escaping it."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Might God Be Hidden for Love's Sake.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "faith-vs-reason"
+   ],
+   "relation": "Uses Hidden Mickeys — like the ambiguous log-and-dump-truck at the Once Upon a Toy store — to attack the first premise of Schellenberg's argument from divine hiddenness: just as an arrangement of shapes can be a deliberate Hidden Mickey or a decorative accident, so God's traces in the world can be genuinely ambiguous, letting a non-resistant non-believer rationally fail to believe. Mother Teresa's decades of felt abandonment and C. S. Lewis's 'door slammed in the face' from A Grief Observed frame the experiential problem, and the authors concede the disanalogy that we independently know agents run Disney but not that God exists. As a partial response they offer Lewis's Screwtape suggestion that 'He cannot ravish, He can only woo': God hides precisely so that love can be freely given."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Part II “I'LL BE SHOOTING FOR MY OWN HAND”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - “Cogs that Fit, that Cooperate by Design”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "locke"
+   ],
+   "concepts": [
+    "harm-principle",
+    "mill-liberty"
+   ],
+   "relation": "Reads the government ban on Supers in The Incredibles through Locke's Letter Concerning Toleration and Mill's On Liberty, arguing the ban rests on the 'PREFER' principle — society's likings and dislikings as law — fed by perception management (Winston Deavor's suit-cameras PR campaign) rather than reasons, just as Locke diagnosed intolerance, not diversity of opinion, as the cause of civil strife. Mill's harm principle, illustrated by Elastigirl's 'drinking on duty' remark, should instead govern, so banning Supers' powers and pressuring Dash to suppress his speed ('Everyone's special, Dash' / 'Which is another way of saying no one is') is tyranny. Mr. Huph's 'cogs that fit, that cooperate by design' image of Insuricare shows the conformist cost: a society built on preference rather than reasons will never produce great thinkers."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - What We Have Learned, or “Always Let Your Conscience Be Your Guide!”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "mill",
+    "foucault"
+   ],
+   "concepts": [
+    "disability-philosophy",
+    "relational-autonomy"
+   ],
+   "relation": "Traces Disney disability from the medical model — Dopey as permanent childlike recipient of care, Gus-Gus, and LeFou, echoing Locke's claim that 'lunatics and idiots are never set free from the government of their parents' and Mill's restriction of liberty to those who can care for themselves — to the social model of disability in Finding Dory, where Charlie and Jenny's seashell trail makes the ocean an accommodating rather than disabling environment. Foucault's Birth of the Clinic explains how Gaston uses the asylum to control Maurice, medicine as power over lives. The chapter concludes that Pixar's Big Blue World embodies relational autonomy — Dory thriving 'in your own amazing Dory way' through supported interdependence — while nonverbal sidekicks Becky and Gerald show Dopey's disempowered comic-relief legacy survives."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - How Far I'll Go.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir",
+    "friedan",
+    "butler",
+    "gilligan"
+   ],
+   "concepts": [
+    "becoming-woman",
+    "feminine-mystique",
+    "gender-performativity",
+    "care-ethics"
+   ],
+   "relation": "Maps the four waves of feminism onto Disney princess history: Snow White, Cinderella, and Aurora as chattel passed from parents to fairies to princes, betraying even first-wave rights; Beauvoir's 'one is not born but becomes a woman' and Friedan's feminine mystique explaining why the original trio's happiness is measured by marriage. Third-wave princesses are read with Wolf's beauty myth (Ariel and Jasmine as iron maidens), Butler's gender performativity, and Gilligan's care ethics (Ariel's and Belle's contextual, caring moral reasoning versus their fathers' principles). The fourth-wave princesses from Tiana to Moana need no man at all while male leads (Naveen, Flynn, Kristoff, Maui) become vulnerable sidekicks, ending with #GiveElsaAGirlfriend and the thought that equality is balance rather than sameness."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Robots and Romance.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "beauvoir"
+   ],
+   "concepts": [
+    "philosophy-of-love"
+   ],
+   "relation": "Contrasts Disney's 'Irrational Matriarchy and Patriarchy' families (Triton destroying Ariel's grotto, Mother Gothel exploiting Rapunzel, Frollo imprisoning Quasimodo) with its Family Unity Model, using the Filmer–Locke debate: parents are stewards, not owners, and children have Locke's liberty to leave and choose marriage. The positive model is built on John Paul II's theology of the body — Quasimodo's 'Heaven's Light' versus Frollo's 'Hellfire' as gift-love versus using Esmeralda as an object of lust — with the Beast transformed into virtue by Belle's self-sacrificing love. It then answers Beauvoir's charge that housewifery is immanent drudgery with Elastigirl and Edna Mode's 'Done properly, parenting is heroic,' closing with WALL-E and EVE's hand-hold waking screen-addled humans back to family life."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Part III “YOUR IDENTITY IS YOUR MOST VALUABLE POSSESSION”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Happily Ever After.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "moore",
+    "zeno-elea",
+    "nozick"
+   ],
+   "concepts": [
+    "cartesian-doubt",
+    "skepticism",
+    "experience-machine",
+    "zeno-paradoxes"
+   ],
+   "relation": "Runs Descartes' dreaming argument and evil-genius doubt on Aurora, for whom the scenario is literal: Maleficent is an actually existing deceiver who could have enchanted her whole life in a dungeon. G. E. Moore's common-sense proof — 'here is a hand,' dubbed the Pinocchio test after the real boy — and the Moorean shift answer the skeptic, illustrated by Maleficent deploying Zeno's paradox to stop Prince Phillip's sword, where Phillip rightly clings to the more certain premise that motion is possible. Nozick's experience machine explains why Aurora should care: we want to actually be good and live real lives rather than merely experience them, so authentic 'happily ever after' requires knowing our experiences are backed by reality."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - “I Am Moana!”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "aristotle",
+    "nietzsche"
+   ],
+   "concepts": [
+    "existence-precedes-essence",
+    "bad-faith",
+    "authenticity",
+    "sartre-freedom"
+   ],
+   "relation": "Stages Moana's dilemma between her father's Aristotelian essentialism — everything on Motunui has a fixed function, so Moana's essence as chief precedes her birth — and Sartre's existence precedes essence, with Heihei the unchanging chicken as a being whose essence really does precede existence. Tui embodies bad faith and the crowd (his own aborted voyage left him enforcing 'no one goes beyond the reef'), while Tala and then Moana live authentically through anguish, forlornness, and despair, until 'I am Moana!' marks her self-defined identity. Nietzsche's 'become who you are' and 'what does not destroy me makes me stronger' frame her resilience, which lets her free Maui ('Hook. No hook. I'm Maui.') and unmask Te Ka as Te Fiti whose stolen heart 'does not define you.'"
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Let's Go Fly a Kite!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "leibniz"
+   ],
+   "concepts": [
+    "unexamined-life"
+   ],
+   "relation": "Argues Mary Poppins is really the redemption story of George Banks, who leads what Socrates called the unexamined life: his six-minute paternal schedule, shredded nursery advertisement, and blindness to the bird woman show a man who has 'forgotten who he is' and lost the child's wonder. G. K. Chesterton supplies the diagnosis and cure — fairyland as the 'sunny country of common sense,' imagination that 'makes settled things strange,' and astonishment that there is something rather than nothing (with Leibniz's question and a Russell quote) — so that Banks is saved when the bank run strips his ambition. The mended kite, built by the whole family, closes the argument that one can keep the heart of a child while keeping the mind of an adult."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Where Do We Go from Here.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aquinas",
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-four-causes",
+    "aristotle-soul",
+    "aristotle-potentiality"
+   ],
+   "relation": "Argues on Aristotelian–Thomist grounds that WALL-E and EVE cannot truly be intelligent: they are artificial because their formal cause lies outside them in the Buy n Large engineers' minds, whereas natural things like the captain, the cockroach, and the plant have intrinsic formal causes. Intelligence is the act of an intellectual soul — the formal cause of a living thing — so machines at best mimic WALL-E's grasp of spoon-ness, fork-ness, and spork-ness, as Kreeft's comparison of a computer to a library building that does not understand its books makes clear. The conclusion is that AI is qualitatively, not merely technologically, impossible, and Pixar's live-action cinematography is precisely what tricks us into taking the robots as real."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Inside the Lived Body.md",
+   "kind": "chapter",
+   "philosophers": [
+    "merleau-ponty",
+    "descartes"
+   ],
+   "concepts": [
+    "embodiment",
+    "cartesian-dualism",
+    "phenomenology"
+   ],
+   "relation": "Pits Merleau-Ponty's embodied self against Descartes' representationalism and mind-over-matter dualism to read Inside Out: Riley's five personified emotions look like homunculi inviting an infinite regress, but the film actually shows a holistic body-subject whose emotions arise in situations and with others. Joy's campaign to keep Riley 'okay' dramatizes the futility of constant happiness and the necessity of Sadness, while Riley's hockey stick becoming an extension of her body illustrates Merleau-Ponty's claim that skillful coping lives in the body rather than in Sadness's 'mind manuals.' The chapter ends on childhood's lived present and the film's power to hold loss before us instead of pushing past it."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 13,
+   "type": "philosopher",
+   "suggested_slug": "schellenberg",
+   "name": "J.L. Schellenberg",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Philosopher of religion whose argument from divine hiddenness claims a perfectly loving God would ensure that anyone open to a relationship could believe, so the existence of non-resistant non-believers is evidence there is no loving God.",
+   "why": "Chapter 13 is organized entirely as a rebuttal of Schellenberg's hiddenness argument, using Hidden Mickeys to challenge its first premise."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "divine-hiddenness",
+   "name": "Divine Hiddenness",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "The problem that God seems absent, silent, or non-existent even to willing believers, which Schellenberg turns into an argument against the existence of a perfectly loving God.",
+   "why": "Chapter 13's whole Hidden Mickeys analogy exists to show why God's traces can be ambiguous without contradicting perfect love."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "relational-autonomy",
+   "name": "Relational Autonomy",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "The feminist account that genuine autonomy is achieved only within networks of social relationship and dependence, not in spite of them.",
+   "why": "Chapter 16 contrasts traditional self-sufficiency with relational autonomy to explain why Dory thrives through supported interdependence while sidekicks like Dopey are defined by helpless dependence."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "beauty-myth",
+   "name": "The Beauty Myth",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Naomi Wolf's claim that socially constructed, media-driven beauty standards act as a punitive 'iron maiden' controlling women precisely as their social power grows.",
+   "why": "Chapter 17 applies Wolf's beauty myth to Ariel and Jasmine as princesses whose revealing design and unattainable body image police third-wave women."
+  },
+  {
+   "ch": 18,
+   "type": "philosopher",
+   "suggested_slug": "john-paul-ii",
+   "name": "Pope John Paul II",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Polish pope and phenomenologist whose 'theology of the body' and personalism defend marriage as a lifelong, exclusive mutual self-gift between persons made for communion.",
+   "why": "Chapter 18's Family Unity Model of marriage, parenthood, and the love-versus-use contrast (Quasimodo's 'Heaven's Light' against Frollo's 'Hellfire') is built directly on John Paul II's theology of the body."
+  },
+  {
+   "ch": 22,
+   "type": "philosopher",
+   "suggested_slug": "gk-chesterton",
+   "name": "G.K. Chesterton",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "English essayist and apologist whose philosophy of wonder, gratitude, and fairy tale treats astonishment at bare existence, and imagination that 'makes settled things strange,' as the heart of sanity.",
+   "why": "Chapter 22 diagnoses Mr. Banks entirely through Chesterton's Orthodoxy — the man who forgot who he is — and uses his nursery philosophy as the cure Mary Poppins delivers."
+  }
+ ]
+}

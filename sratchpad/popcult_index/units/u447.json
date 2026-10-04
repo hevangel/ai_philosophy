@@ -1,0 +1,119 @@
+{
+ "unit": "u447",
+ "book": "206 - The Witcher and Philosophy - Toss a Coin to Your Philosopher",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\206 - The Witcher and Philosophy - Toss a Coin to Your Philosopher",
+ "range": [
+  20,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 20,
+   "file": "ch20 - I'm Part Elf, I'm Part Human.md",
+   "words": 4362
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Part V Magic.md",
+   "words": 22
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Magic and the Elder Speech.md",
+   "words": 3118
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Worlds within Words.md",
+   "words": 4021
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Between Two Camps in the Witcher.md",
+   "words": 4157
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Witch Hunts Will Never Be Over.md",
+   "words": 3795
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Part VI Postmodernism.md",
+   "words": 22
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Witcher as Postmodern Fairy Tale.md",
+   "words": 4331
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Shocks of Destiny.md",
+   "words": 3065
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Post-Apocalyptic Perspectives.md",
+   "words": 4779
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Part VII Political Philosophy.md",
+   "words": 24
+  },
+  {
+   "n": 31,
+   "file": "ch31 - King Foltest, John Locke, and the Social Contract.md",
+   "words": 3383
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Stolen Mutagens.md",
+   "words": 3831
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Sometimes You Have to Fight.md",
+   "words": 3498
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Origin and Desires as Monster Makers in the Witcher.md",
+   "words": 5484
+  },
+  {
+   "n": 35,
+   "file": "ch35 - The Witcher and the Monstrous Feminine.md",
+   "words": 3233
+  },
+  {
+   "n": 36,
+   "file": "ch36 - The Dialectics of Monstrosity.md",
+   "words": 3848
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Index.md",
+   "words": 1910
+  }
+ ],
+ "content": [
+  20,
+  22,
+  23,
+  24,
+  25,
+  27,
+  28,
+  29,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37
+ ]
+}

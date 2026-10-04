@@ -1,0 +1,409 @@
+{
+ "book": "142 - The Avengers and Philosophy - Earth's Mightiest Thinkers",
+ "unit": "u209",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Avengers and Philosophy Earth's Mightiest Thinkers, The.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Avengers and Philosophy Earth's Mightiest Thinkers, The.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Avengers and Philosophy Earth's Mightiest Thinkers, The.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Avengers and Philosophy Earth's Mightiest Thinkers, The.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Introduction Earth’s Mightiest Philosophers.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Editor Mark D. White introduces the volume: the Avengers fascinate because they are equal parts superhero epic and soap opera, and the contributors' questions mirror that mix. He previews the book's guiding questions—whether Captain America, Iron Man, and Thor embody three different moral philosophies, whether the Kree-Skrull War bears on the ethics of war, why the team keeps admitting reformed criminals like Hawkeye, Quicksilver, and the Scarlet Witch, whether Kang can kill his past self, whether we secretly admire Norman Osborn's Dark Avengers, and whether the android Vision can truly love the Scarlet Witch. It frames the collection but applies no philosophical framework itself."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Part One What Would an Avenger Do.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Ethicists Assemble!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bentham"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "deontology",
+    "virtue-ethics"
+   ],
+   "relation": "White casts the 'Avengers Prime' as three living ethical systems: Tony Stark is the utilitarian who, during Civil War and the registration crisis, bets on outcomes he alone claims to foresee (stopping the Crimson Dynamo's heart, enlisting the Thunderbolts, exiling the Hulk); Captain America is the deontologist who refuses registration on principle ('we maintained the principles we swore to defend... you sold your principles') and rejects the Punisher and the Negative Zone prison regardless of consequences; Thor is the virtue ethicist who condemns Iron Man not by utility or duty but for violating loyalty, trust, and friendship in cloning him, and who refuses the Twilight Sword because using it would make him 'the same demon'. The chapter argues all three frameworks still demand judgment and conviction, which the heroes share."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Just How Dark are the Dark Avengers.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates"
+   ],
+   "concepts": [
+    "plato-ring-of-gyges",
+    "plato-justice",
+    "plato-cave",
+    "plato-forms"
+   ],
+   "relation": "Donovan and Richardson read Osborn's Dark Avengers through the Republic: Osborn is a modern Thrasymachus for whom justice is merely the advantage of the stronger, managing Bullseye's murder of Lindy and the team's image exactly as Glaucon's ring of Gyges predicts—villains like Moonstone, Daken, and Venom appearing good while doing injustice. Captain America, who tells Stark 'who made you the moral compass of us?', embodies the Socratic belief in a justice beyond human advantage, backed by the Forms and the allegory of the cave. Ms. Marvel, Noh-Varr, and Ares choose being just over appearing just, defecting or dying (Ares torn in half during the Siege) rather than serve Osborn's fraud."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Let there be an Ending!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "moral-psychology"
+   ],
+   "relation": "Southworth and Tallman ask why fans blame Hank Pym for Ultron's killings while never crediting Magneto for fathering two heroes, and answer with Aristotle's account of character formed by habitual imitation, renewed as 'moral exemplarism': praise and blame track exemplarship, not biology. Scott Lang earned credit because he actively taught Cassie right and wrong, making her the hero Stature; T'Chaka and stepmother Ramonda shaped T'Challa, while Heinrich Zemo's Nazi upbringing warped Helmut into the new Baron Zemo. The Avengers themselves—Cap's patient mentoring of Hawkeye, Stark hiring ex-con Scott Lang—function as moral exemplars for reformed villains, so the mentoring 'parents', not the siring ones, deserve the credit or blame."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Part Two Who is an Avenger.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Are you the Next Goliath.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke"
+   ],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity"
+   ],
+   "relation": "Nelson tests body theory and psychology theory of personal identity on Avengers cases—a Rogers/Pym body swap in the spirit of Locke's prince-and-cobbler experiment, and a Pym brain-hemisphere duplication puzzle—before proposing a distinct 'mantle theory' of superhero identity requiring an appropriate heroic role plus legitimate pedigree, like intellectual property. Legitimacy explains how John Walker (appointed by a government commission) and Bucky Barnes (endorsed by Stark and then Rogers) each really were Captain America. The same theory rules Pym can wear only one of Ant-Man, Giant-Man, Goliath, Yellowjacket, and the Wasp at a time—confirmed by Clint Barton snapping his bow in half when he shed Hawkeye to become the new Goliath."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Maybe Jen’s Reading this Chapter Right Now.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Cook analyzes John Byrne's and Dan Slott's She-Hulk runs as metacomics: Jen breaks the fourth wall to threaten readers into buying her book, deduces how long she was unconscious from comic-book time, steps across the gutter between panels to travel, and even attacks her own creator. Weezie's line 'We're inked and colored! Printed!' raises the problem that once published, the characters' actions are fixed, while her backstory (staying in print to stop aging) exploits comic conventions. The chapter ends by asking whether the Official Handbook's conflicting retcons make Jen's meta-awareness a delusion or a superpower, and what that uncertainty means for truth in metafiction and our understanding of comics storytelling itself."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Hoist by his Own Petard.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates"
+   ],
+   "concepts": [
+    "socratic-method"
+   ],
+   "relation": "Powell reads Norman Osborn's Dark Reign as a living lesson from Plato's Gorgias and Alcibiades: Osborn's media-staged killing of the Skrull Queen and his hollow rebranding of S.H.I.E.L.D. into H.A.M.M.E.R. are the sophistic 'knack' of persuasion substituting for the genuine craft of statecraft, just as Polus's ideal Sophist imagines power without self-control. Like Alcibiades, Osborn lacks the Socratic self-knowledge that comes only through critical self-reflection with honest friends, and instead surrounds himself with flatterers and villains while his own Goblin persona—mirrored in the Sentry's Void—grows stronger. Loki's goading of the unsanctioned Siege of Asgard completes the cautionary tale: the sophist who created fake institutions is destroyed by them, hoist by his own petard."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Part Three Should the Avengers Do More Than Avenge.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Avengers, Forgive!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "arendt",
+    "derrida"
+   ],
+   "concepts": [
+    "forgiveness",
+    "punishment-theory"
+   ],
+   "relation": "Malloy builds an account of forgiveness around the Avengers' habit of recruiting ex-villains: Arendt's 'predicament of irreversibility' explains why we cannot undo Wonder Man's revenge scheme against Stark, so resentment must be overcome; Derrida's claim that only the unforgivable is truly forgivable frames the House of M question, whether Quicksilver's manipulation of Wanda's reality-warping is a crime beyond forgiveness. Forgiveness means relinquishing resentment without excusing responsibility or condoning the wrong, so Iron Man has the 'moral power' to forgive Hawkeye, while the team's charter-based standing lets the Avengers forgive Quicksilver and the Scarlet Witch on the community's behalf. The chapter closes by separating avenging (justice) from revenge, and punishment (retribution that repays debts) from forgiveness, which is why expelled members like Iron Man and Hank Pym could be readmitted."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Neither Gods nor Beasts But Political Animals.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "political-animal",
+    "aristotle-eudaimonia",
+    "aristotle-friendship",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Spanakos denies the official line that the Avengers assemble from necessity—Thor beats Loki alone—arguing instead through Aristotle that the team is a polis: heroes join for safety but stay for the good life, since outside the polis one is either a god or a beast. Ms. Marvel's miserable solo run (unrecognized by Stilt-Man, a 'Where Are They Now?' has-been) ends only when she returns to lead the Mighty Avengers among friends who share her arete; the self-loathing Jessica Jones finds eudaimonia through philia with Carol, Luke Cage, and the team that delivers her baby; even the arrogant Hank Pym regains excellence by defending Tony and leading a new team. Even gods like Thor and near-beasts like the Hulk, the chapter concludes, need the Avengers to flourish."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Avengers Rehabilitate!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "punishment-theory",
+    "moral-psychology"
+   ],
+   "relation": "Terjesen asks whether Cap's Kooky Quartet-style rehabilitation really works, pitting Aristotle's fixed-character virtue ethics against John Doris's situationist 'local traits' (backed by Milgram's experiments): Hawkeye succeeded because his regional traits—hotheadedness and a need for approval—were redirected to heroism, not erased, as when he cheats the Grandmaster to save the universe. Aristotle's continence-versus-virtue and vice-versus-incontinence distinctions explain why Quicksilver and the Scarlet Witch keep backsliding, why Moonstone's true viciousness defeats rehabilitation while Songbird and MACH-1 reform. Against deterrence and retributivist theories of punishment, rehabilitation is defensible when applied early and to the unhardened—the Avengers Academy children and Young Avenger Patriot—so the Avengers can rehabilitate as well as avenge."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Part Four Do the Avengers Ever Go Too Far.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - And the war Rages on.md",
+   "kind": "chapter",
+   "philosophers": [
+    "walzer",
+    "kant"
+   ],
+   "concepts": [
+    "just-war-theory",
+    "kant-humanity-formula",
+    "consequentialism",
+    "deontology"
+   ],
+   "relation": "Robichaud runs the Kree-Skrull War (Avengers #89–97) through Michael Walzer's just war theory: the Avengers' defense of Earth against Ronan's Plan Atavus is justified self-defense meeting proportionality and last resort, while Ronan's preventive 'devolve humanity' war fails for lack of evidence and exhausted diplomacy. The Skrulls' shape-shifting trick that gets Mar-Vell to build the Omni-Wave Projector might squeak through on consequentialist grounds, but the emperor's threat to make Captain Marvel watch the Scarlet Witch and Quicksilver die counts as torture—and is impermissible on the Kantian ground that it treats a person merely as a means, whatever the consequences. The point is that even a cosmic comic war displays the real moral complexity of military ethics."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - “This is the Kind of Thing that is Going to Bite US in the Butt”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "walzer"
+   ],
+   "concepts": [
+    "deontology",
+    "just-war-theory",
+    "consequentialism"
+   ],
+   "relation": "Melançon pictures Avengers ethics as Hawkeye's arrow sliding along a line from deontological duty toward consequentialist results, focusing on secrets and lies: Doctor Strange's deception—disguising his Sanctum Sanctorum as a coffee shop to shelter the underground New Avengers after Civil War—is tested against Michael Walzer's 'supreme emergency', the wartime exception (Allied bombing of Germany, the ticking time bomb) that permits violating your own values so they can survive. Strange keeps sliding—possessed by a demon against the Hulk—until the Eye of Agamotto strips him of his title, showing emergencies must stay rare and the agent 'worthy of surviving'. Steve Rogers's secret black-ops Secret Avengers repeat the danger: unlike democratic intelligence agencies, they have zero oversight or accountability, so the WikiLeaks-style leak of their informant dealings threatens the reputation of the whole Avengers enterprise."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Captain America’s mighty S.H.I.E.L.D. . . . Well, Sort Of.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aquinas",
+    "foot"
+   ],
+   "concepts": [
+    "aquinas-double-effect"
+   ],
+   "relation": "Bogaerts asks why every proactive superhero comes to grief: Nick Fury's unauthorized Secret War in Latveria, Tony Stark's exile of the Hulk and registration crusade, and the Illuminati's blunder all backfire (World War Hulk, the Skrull invasion), and Aquinas's doctrine of double effect—elaborated by Foot and Anscombe—cannot absolve them, since the foreseen harms were massive and disproportionate to the intended goods. Comics theory supplies the deeper cause: Reynolds's status quo defense and Jewett and Lawrence's American monomyth (via Campbell's hero's journey) make the superhero genre intrinsically reactive, guarding a paradise rather than remaking it, so heroes who 'move up into governance'—Thor as Lord of Earth, the Squadron Supreme's utopia—slide into supervillainy. Foot's act/omission distinction and the priority of negative over positive duties explain the trap, and why even Steve Rogers, as the new top cop, retreats to being Captain America again."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Part Five What Kind of World do the Avengers Live In.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Time to End.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "time-travel"
+   ],
+   "relation": "Jones uses Kang to walk through the physics and metaphysics of time travel: Einstein's twin paradox (Quicksilver aging one year while Wanda's clock runs twenty), Gödel's spinning universe and van Stockum's cylinder yielding closed timelike curves, Thorne's wormhole time machine, and Hawking's Chronology Protection Conjecture against energy-stealing paradox loops. Applied to the comics, Prime Kang's purge of his flawed selves, Immortus's Forever Crystal, and Iron Lad's murder of his future self all confirm the fixed-timeline view: attempts to change the past only prune variants or create transient branches that snap back, so Kang can never un-become Kang. The Avengers end up as the Marvel Universe's Chronology Protection Agency, enforcing the rule that even where time travel exists, the past cannot be rewritten."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Equal Opportunity—for Deities.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "immortality",
+    "problem-of-evil",
+    "great-chain-of-being"
+   ],
+   "relation": "Barkman argues the Marvel Universe's 'One-Above-All'—depicted as Stan Lee and Jack Kirby—is the eternal Judeo-Christian Creator, and arranges its beings in a graded hierarchy: the Living Tribunal as God's judge, cosmic beings like Eternity and Galactus, elders, sky fathers Odin and Zeus, down to mortals, with only God eternal and everything else, gods included, able to die yet enduring by His decree. Ontological rank guarantees nothing morally—Mephisto, the Goddess, and Hera are powerful and wicked, and even Hercules can be beaten by the Wrecking Crew. A free-will theodicy answers where evil came from: 'no other gods before me' never denied other gods' existence but commands loving the Good above all, which mortal Avengers like Thor, loving justice perfected by sacrificial love, manage as well as any deity."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Love American Style.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer",
+    "peirce",
+    "cs-lewis"
+   ],
+   "concepts": [
+    "philosophy-of-love",
+    "speciesism",
+    "pragmatic-method"
+   ],
+   "relation": "Klayman asks whether the android Vision can love the human Scarlet Witch, working through C.S. Lewis's four loves to show affection, friendship, Eros, and charity are all open to human-android pairs, with their marriage best read as Eros—preoccupation with one irreplaceable self rather than sexual desire. Peter Singer's attack on speciesism is extended into 'organicism', the prejudice that dismisses synthetic beings: the Vision suffers, has interests, and laments that 'we artificial life-forms are still the least accepted', so denying androids love is arbitrary bias. Peirce's pragmatic maxim settles the question by practical effects—the Vision's care, kindness, attentiveness, and intimacy with Wanda just are loving—whether the lover is flesh or machine."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Way of the Archer.md",
+   "kind": "chapter",
+   "philosophers": [
+    "laozi",
+    "zhuangzi"
+   ],
+   "concepts": [
+    "wu-wei",
+    "taoism",
+    "the-tao",
+    "zhuangzi-perspectivism"
+   ],
+   "relation": "White reads Clint Barton through the Tao Te Ching and Chuang Tzu: Hawkeye's instinctive archery—'use your bow gently, naturally, instinctively'—is wei wu wei, while his bragging, his glory-chasing failure against Iron Man, and his attempt to become Goliath all violate it by striving against his own nature, until the Kree-Skrull War teaches him the bow is his way. Chuang Tzu's butcher carves the lesson that the effortless path (the straightforward shot) is the skilled one, and Lao Tzu's sage-leadership—lowering oneself, deflecting praise—is exactly how Captain America handles Clint's insurrections. Lao Tzu on sages putting themselves last illuminates Hawkeye's sacrificial death and his legacy passed to Kate Bishop, while the butterfly dream frames his resurrection and the House of M's rewritten reality: with no way to compare the states, life and death are both to be welcomed as parts of the Way."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Appendix Why are there Four Volumes of Avengers.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "A fan-guide appendix, not a philosophical essay: it untangles the Avengers' publication history to show which comics the book's chapters draw on—the original 1963–1996 volume, the thirteen-issue Heroes Reborn relaunch ('never cited in this book—for a reason'), the 1998 volume ending in Avengers Disassembled, then New Avengers, Young Avengers, the Civil War split, Mighty Avengers, Osborn's Dark Avengers, and the Heroic Age's fourth volume alongside Secret Avengers and Avengers Academy. It makes no philosophical argument; its point is navigational, mapping the canon that the essays' examples come from."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Contributors Avengers Academy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Index From Jarvis’s Secret Files.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "moral-exemplarism",
+   "name": "Moral Exemplarism",
+   "philosopher": "aristotle",
+   "domain": "ethics-moral-psychology",
+   "what": "The view, revived by Linda Zagzebski from Aristotle's account of habituation, that we become good by imitating live moral exemplars rather than by rules or calculation.",
+   "why": "Chapter 10's whole argument—that Scott Lang deserves credit for Stature, Pym no blame for Ultron, and the Avengers themselves are exemplars for reformed villains—rests on this named concept, which the chapter introduces as the modern development of Aristotle."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "metafiction",
+   "name": "Metafiction (the metacomic)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Fiction that self-consciously draws attention to its own status as artifact (Patricia Waugh), here extended to comics whose characters know they are drawn, printed, and read.",
+   "why": "Chapter 13 is built on this concept: She-Hulk's fourth-wall breaking, gutter-hopping, and the question whether her meta-awareness is delusion or superpower raise the problem of truth in metafiction, which taxonomy has no slug for."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "sophistry",
+   "name": "Sophistry (knack versus craft)",
+   "philosopher": "",
+   "domain": "ancient",
+   "what": "The sophistic school of persuasive rhetoric that Socrates criticized as a mere 'knack' of flattery substituting for truth-directed craft, corrupting both person and polis.",
+   "why": "Chapter 14 explains Norman Osborn's media-staged rise and hollow institutions as exactly this knack-versus-craft failure from Plato's Gorgias; taxonomy's sophistic-relativism slug targets relativism, not rhetoric against truth."
+  },
+  {
+   "ch": 16,
+   "type": "philosopher",
+   "suggested_slug": "joseph-butler",
+   "name": "Joseph Butler",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Anglican bishop whose Fifteen Sermons (1726) treat resentment as a natural, self-protective passion whose excess must be overcome by forgiveness.",
+   "why": "Chapter 16's entire definition of forgiveness—relinquishing resentment without excusing or condoning—is built on Butler's sermons, which the chapter calls the accepted basis of contemporary forgiveness theory."
+  },
+  {
+   "ch": 18,
+   "type": "philosopher",
+   "suggested_slug": "john-doris",
+   "name": "John M. Doris",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Contemporary philosopher whose situationist critique (Lack of Character, 2002) uses social psychology to deny robust global character traits, allowing only local ones.",
+   "why": "Chapter 18 needs Doris as Aristotle's modern opponent: his 'local/regional traits' framework is what lets the chapter explain Hawkeye's successful redirection from villainy versus Quicksilver's backsliding."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "american-monomyth",
+   "name": "The American Monomyth",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Jewett and Lawrence's reworking of Campbell's hero's journey for American pop culture: a threatened paradise, failing institutions, a selfless superhero who redemptively restores the status quo and recedes.",
+   "why": "Chapter 22 leans on this concept (plus Reynolds's status-quo defense) to argue the superhero genre is structurally reactive, which is why proactive heroes like Fury and Stark are punished by their own narratives."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "great-chain-of-being",
+   "name": "The Great Chain of Being",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "The hierarchical ordering of all beings from the eternal Creator down through increasingly contingent ranks, graded by power, longevity, and perfection.",
+   "why": "Chapter 25 explicitly builds a 'Marvel great chain of godhood'—One-Above-All, Living Tribunal, cosmic beings, elders, sky fathers, mortals—to reconcile Thor and Hercules with the Christian God, and taxonomy lacks this structural concept."
+  },
+  {
+   "ch": 26,
+   "type": "philosopher",
+   "suggested_slug": "cs-lewis",
+   "name": "C.S. Lewis",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Christian apologist whose The Four Loves distinguishes affection, friendship, Eros, and charity, each combining gift-love, need-love, and appreciative-love.",
+   "why": "Chapter 26 uses Lewis's four-loves framework as its primary analytical tool for deciding whether the Vision and the Scarlet Witch's marriage counts as love, and he appears nowhere in taxonomy."
+  }
+ ]
+}

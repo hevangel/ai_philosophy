@@ -1,0 +1,424 @@
+{
+ "book": "017 - Bob Dylan and Philosophy - It's Alright Ma (I'm Only Thinking)",
+ "unit": "u025",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Bob Dylan and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Bob Dylan and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Popular Culture and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Liner Notes.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Acknowledgements.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Side 1.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Love Minus Zero, No Limit or Going, Going Gone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates"
+   ],
+   "concepts": [
+    "platonic-love",
+    "philosophy-of-love"
+   ],
+   "relation": "Doug Anderson reads Dylan's Planet Waves as a modern Symposium: each song stages a rung on Diotima's ladder, from the puppy love of \"You Angel You\" through the physical eros of \"Tough Mama\" and \"Hazel,\" the agape of \"Forever Young,\" and the complementary true love of \"Wedding Song.\" Like Socrates refusing Alcibiades in \"Going, Going Gone,\" Dylan abandons finite beloveds because his highest eros is the creative act itself - poets achieve the immortality Diotima demands by giving birth to immortal works rather than children. The chapter argues both Plato and Dylan finally define love as desire for truth and beauty that outlasts any particular relationship."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Ends of Despair From “Things Have Changed” to “Love and Theft”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "camus",
+    "kierkegaard",
+    "heidegger"
+   ],
+   "concepts": [
+    "the-absurd",
+    "kierkegaard-despair",
+    "leap-of-faith",
+    "authenticity"
+   ],
+   "relation": "Rick Furtak traces an existential arc through Dylan's later albums, reading Blood on the Tracks (\"Tangled Up in Blue,\" \"You're a Big Girl Now\") as Camus's absurd divorce between a mind that cares and a world that has gone silent, and Heideggerian care as what the narrator loses in \"Simple Twist of Fate.\" \"Brownsville Girl\" and \"Most of the Time\" embody Kierkegaard's knight of infinite resignation - hope abandoned but the precious past never forgotten - while \"Not Dark Yet\" and \"Things Have Changed\" mark the nadir of despair. On Love and Theft (\"Mississippi,\" \"Sugar Baby\") the singer turns toward an absurd, Kierkegaardian faith that keeps caring and even loves without demanding that life make sense."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Mystery Solved.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "williams",
+    "hobbes"
+   ],
+   "concepts": [
+    "moral-luck",
+    "state-of-nature",
+    "moral-psychology"
+   ],
+   "relation": "Avery Kolers uses \"Only a Pawn in Their Game\" and its companion \"Who Killed Davey Moore?\" to argue that Dylan treats Byron de la Beckwith as a pawn: a poor white duped by divide-and-rule tactics, the psychological wage of whiteness, shame, and lynch-mob indoctrination into fearing a Hobbesian war of all against all. Against Aristotle's account of acting in ignorance, the chapter asks whether Beckwith's ignorance of his real enemies was culpable, concluding his bad moral luck (in Bernard Williams's sense) was manufactured by white supremacy and so reflects back on all white people. Dylan's refusal to name or voice Beckwith adopts Strawson-style objective attitudes, making blaming itself a political act aimed at the system rather than the shooter."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - So, What’s the Bottom Line.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "locke"
+   ],
+   "concepts": [
+    "locke-natural-rights",
+    "moral-relativism",
+    "sophist-relativism",
+    "civil-disobedience"
+   ],
+   "relation": "James Klagge, defining terms in Socratic fashion, distinguishes bootlegs like Great White Wonder from piracy and argues unreleased Dylan material (the New York Blood on the Tracks, \"Blind Willie McTell,\" the 1966 Live concert) has genuine musical and historical value. He rejects the Sophist view that morality is just self-interest and the relativist \"everybody's doing it\" defense, then weighs the artist's Lockean property and privacy rights against fans' rights of access, noting legal-but-immoral and illegal-but-moral cases in the spirit of Martin Luther King's civil disobedience. His verdict: bootlegging is morally acceptable when royalties are fair, stolen tapes are not used, and mainly public performances circulate."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Sick of Love.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "beauvoir",
+    "benjamin"
+   ],
+   "concepts": [
+    "bad-faith",
+    "woman-as-other",
+    "existence-precedes-essence",
+    "authenticity"
+   ],
+   "relation": "Krein and Levin read Dylan's portraits of fallen socialites in \"Like a Rolling Stone,\" \"Just Like a Woman,\" and \"To Ramona\" as critiques of bad faith - characters who hide from freedom and responsibility in consumerist status games, in Sartre's sense that existence precedes essence. But Beauvoir's Second Sex exposes the cost: the women Dylan praises (\"Girl from the North Country,\" \"One More Cup of Coffee\") are praised precisely for staying in immanent, pastoral passivity, denied the transcendence that for Beauvoir constitutes full humanity. Borrowing Benjamin's and Buck-Morss's notion of modern \"dreamworlds,\" they finally read Dylan's pastoral utopias as a counter-dreamworld spun after the collapse of the mass-utopian promise of consumer happiness."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Both Sides of Dylan and Politics.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "foucault",
+    "derrida",
+    "lyotard",
+    "mill"
+   ],
+   "concepts": [
+    "grand-narratives",
+    "kant-autonomy",
+    "power-knowledge",
+    "deconstruction"
+   ],
+   "relation": "Jordy Rocheleau reads Dylan's protest era (\"The Lonesome Death of Hattie Carroll,\" \"Hurricane,\" \"Chimes of Freedom\") as Enlightenment social criticism in Kant's and Mill's sense: reason can expose injustice and secure autonomy against majority tyranny. The post-protest Dylan (\"My Back Pages,\" \"Desolation Row,\" \"It's Alright, Ma\") turns postmodern - Lyotard's incredulity toward metanarratives, Derrida's ever-deferred meanings, and Foucault's power/knowledge, where ideals of freedom become instruments of domination. Yet Dylan keeps crying for justice (\"Political World,\" \"Dignity\"), so the chapter concludes postmodern skepticism can only serve as a cautionary check within, not a replacement of, Enlightenment politics - the thief's line in \"All Along the Watchtower\" as commitment amid confusion."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Synthesis.md",
+   "kind": "chapter",
+   "philosophers": [
+    "isaiah-berlin",
+    "hegel",
+    "emerson",
+    "mill",
+    "nietzsche"
+   ],
+   "concepts": [
+    "berlin-two-liberties",
+    "emerson-self-reliance",
+    "mill-liberty",
+    "authenticity"
+   ],
+   "relation": "Elizabeth Brake asks what freedom Dylan's outlaw persona - refusing Maggie's Farm, possessive love, and conformity - actually wins, framing the answer with Berlin's two concepts of liberty. Dylan's negations look like Berlin's negative freedom, but Hegel's critique of the \"freedom of the void\" shows mere refusal ends in emptiness, so she reconstructs a Millian and Emersonian ideal of self-realization for which negative liberty is only the condition. \"To live outside the law, you must be honest\" supplies the synthesis: outside social law the free person answers to the Emersonian law of his own nature and to undistorted honesty with others, a more severe morality Dylan shares with Emerson and Nietzsche."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Man Gave a Name to a Lake.md",
+   "kind": "chapter",
+   "philosophers": [
+    "benjamin"
+   ],
+   "concepts": [],
+   "relation": "Danieli and Biletzki read the abrupt ending of \"Man Gave Names to All the Animals\" - man never names the snake - through Walter Benjamin's essay \"On Language as Such and on the Language of Man,\" where man's naming completes God's creation and the knowledge of good and evil is precisely the nameless, the birth of judgment. Read biblically, the failed naming means man lacks dominion over the evil inclination; read with Benjamin, refusing to name the snake suspends the Fall and keeps man a namer rather than a questioner. The chapter argues Dylan is reclaiming the creative potency of the logos, while mourning the poet's inevitable failure to recapture the divine word."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Side 2.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Blessings of Tranquility.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sextus-empiricus",
+    "pyrrho",
+    "protagoras",
+    "marcus-aurelius",
+    "diogenes-cynic"
+   ],
+   "concepts": [
+    "pyrrhonian-skepticism",
+    "skepticism",
+    "moral-relativism",
+    "sophist-relativism"
+   ],
+   "relation": "Michael Chiariello takes Dylan's \"the truth is true whether you wanna believe it or not\" as a correspondence theory of truth, then rejects both the gospel-era absolutism of \"Precious Angel\" and the relativism (from Protagoras' man-the-measure to modern subjectivism) that would make Dylan's changes of course harmless. The alternative he defends is Pyrrhonian skepticism in Sextus Empiricus's sense: truth is objective but never fully assured, so suspending judgment yields tranquility. Dylan's career - from the ambiguous \"Blowin' in the Wind\" through \"Watching the River Flow\" and \"Things Have Changed\" to the two versions of \"Every Grain of Sand\" (\"the reality of man\" vs \"a perfect finished plan\") - embodies this balanced, non-dogmatic search the way of God designed it."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Moral Autonomy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "frankfurt"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "compatibilism",
+    "second-order-desires"
+   ],
+   "relation": "Martin van Hees reads \"Who Killed Davey Moore?\" and \"Ballad of Hollis Brown\" as arguments that shared consent generates shared responsibility for tragedy even when fate makes the events inevitable - the referee, crowd, manager, and gambler all endorsed the fight, and we who tolerate poverty consent to the next Hollis Brown. He distinguishes a \"limited optimistic view\" (twisting fate by preventing particular tragedies) from the proclaimed inevitability of \"The Times They Are A-Changin'\" and the pessimism of \"Blind Willie McTell,\" then defends compatibilism through Frankfurt's Jones/Black case: responsibility needs no alternative possibilities, only that one act from one's own will. Dylan's \"moral autonomy\" is taking a stance - singing the blues - inside a determined world."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - “Nobody’s Bob Dylan”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "hume",
+    "buddha",
+    "descartes",
+    "plato"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "personal-identity",
+    "hume-bundle",
+    "buddhist-non-self"
+   ],
+   "relation": "Vernezze and Lulewicz take Dylan's 1964 Halloween quip \"I got my Bob Dylan mask on\" as an entry into personal identity, testing each theory against his life: the bodily view (Zimmerman to Dylan) survives cell turnover but stumbles on brain-transplant cases; Locke's memory theory handles them but faces Reid's brave-officer regress and Alzheimer's cases, and Dylan's reincarnation lyrics (\"Shelter from the Storm,\" \"I and I\") ignore memory altogether. The Christian soul view of the gospel albums (\"When He Returns,\" \"Gotta Serve Somebody\") follows Descartes and Plato but cannot justify the swirl-to-filling inference that souls exist. The chapter ends sympathetic to Hume's bundle theory and the Buddhist no-self: Dylan's \"I is another,\" his name as fabrication, and the cover album Self Portrait all deny a fixed self-created essence."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Look Up, Look Up.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "socrates",
+    "kant",
+    "plantinga",
+    "aquinas"
+   ],
+   "concepts": [
+    "fate-vs-free-will",
+    "immortality",
+    "compatibilism"
+   ],
+   "relation": "James Spiegel reads Dylan's God-haunted songwriting through philosophy of religion, sorting strong Augustinian-Aquinian providence (\"Every Grain of Sand,\" \"When He Returns\") from the weak, risk-taking God of \"Highway 61 Revisited\" and \"Joey.\" Dylan's moral judgmentalism combined with theological determinism makes him a compatibilist in Augustine's mold, while \"Disease of Conceit\" and \"Pressing On\" (\"it run in my vein\") press the compatibilist puzzle that Plantinga's libertarian power of contrary choice is meant to solve. Original sin becomes the \"disease of conceit,\" and Socrates' Phaedo plus Kant's three postulates - God, freedom, immortality - ground Dylan's hope that \"death is not the end,\" closing with Love and Theft's \"Look up, look up.\""
+  },
+  {
+   "n": 23,
+   "file": "ch23 - A Call to Unchanging Truths.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-relativism",
+    "punishment-theory",
+    "virtue-ethics"
+   ],
+   "relation": "Francis Beckwith argues the 1979-81 Christian albums are no aberration: Dylan's whole career presupposes moral realism, an objective moral law built into the universe - \"Dignity never been photographed\" names an irreducible moral property, and the judgments in \"With God on Our Side\" and \"Blowin' in the Wind\" only make sense if right and wrong are unchanging across eras. The six-month sentence William Zanzinger receives in \"The Lonesome Death of Hattie Carroll\" is condemned on retributive, lex talionis grounds rather than any utilitarian calculus of consequences, and \"Forever Young\" and \"What Good Am I?\" urge virtue practiced for its own sake. The chapter thus reads Dylan's conversion as the surfacing of commitments - against relativism, for virtue and unchanging truths - always latent in songs like \"The Times They Are A-Changin'.\""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Tarantula’s End.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "plato",
+    "derrida",
+    "foucault"
+   ],
+   "concepts": [
+    "ressentiment",
+    "amor-fati",
+    "nietzsche-perspectivism"
+   ],
+   "relation": "Goldblatt and Necarsulmer pair Dylan's Tarantula with Nietzsche's \"The Tarantulas\" from Zarathustra: both are books of advice, renaming, and stream-of-consciousness flow whose sections cohere through signature and attitude rather than narrative (the same Foucauldian author function). Both embody the intuitive artist of Plato's Ion and Nietzsche's Ecce Homo - the poet as medium whose language arrives as inspiration, all language being fresh or stale metaphor. Tarantula's vengeful vignettes and \"Idiot Wind\" dramatize the ressentiment Zarathustra warns against, its impenetrable juxtapositions (\"harmonica battalions,\" \"funeral landlord\") work as Derridean catachresis - metaphor whose transfer fails yet exerts aesthetic force - and the book's dream of the burning tenement leaves Dylan unable, and absolved, to look back."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Last Thoughts.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-aesthetics"
+   ],
+   "relation": "Theodore Gracyk asks what makes Dylan an artist rather than a \"song and dance man,\" testing three theories of art. Expression theory (Collingwood's standard, applied by Greil Marcus to Self Portrait and by Heylin to the two Blood on the Tracks versions) explains Dylan's rasp and \"nasty\" remakes but cannot separate genuine from conjured emotion in live performance. Formalism praises the verbal patterning Ricks and Gray admire but undervalues Dylan's improvisatory aesthetics of imperfection; Kant's theory of genius - free play of imagination constrained by taste, from \"Slow Train\"'s metaphor to \"Knockin' on Heaven's Door\" - is judged the most satisfying account of the career."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - “The Foggy Ruins of Time”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "nietzsche",
+    "boethius",
+    "aristotle"
+   ],
+   "concepts": [
+    "boethius-consolation"
+   ],
+   "relation": "Kevin Stoehr stages Plato's ancient quarrel between philosophy and poetry over Dylan: from the Republic's banishment of the poets, through Boethius's Consolation where Lady Philosophy banishes the Muses yet the book stays a prose-poem satura, to Nietzsche, who attacks philosophy philosophically just as Dylan discounts thinking while waxing philosophical about it. Dylan's own remarks (\"the song wrote itself,\" \"trust my intuition\") side with poetic intuition against analysis, and Holderlin's question \"what are poets for in a destitute time\" frames Dylan as the smirking antiquary of a nihilistic age who makes us feel the darkness philosophy can only point at. The chapter concludes that the ambiguity of songs like \"Lay, Lady, Lay\" resists universalization yet occasions the wonder in which philosophy begins - poetry as the bridge to philosophy."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Bob Dylan Discography.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Mongrel Dogs.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Reciting the Alphabet.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - ALSO FROM OPEN COURT.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Bob Dylan and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "benjamin-pure-language",
+   "name": "Benjamin's Philosophy of Language (naming and the creative word)",
+   "philosopher": "benjamin",
+   "domain": "mind-language-metaphysics",
+   "what": "Walter Benjamin's 1916 account ('On Language as Such and on the Language of Man') of language as the mental being of man, in which man's naming of things completes God's creation and the Fall degrades name into judgment.",
+   "why": "Chapter 17's entire reading of \"Man Gave Names to All the Animals\" is built on this essay - naming as dominion and creation-completion, the snake and the nameless knowledge of good and evil - and taxonomy's only Benjamin concept (benjamin-aura) does not cover it."
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "moral-realism",
+   "name": "Moral Realism (objective moral law)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The view that there are mind-independent moral facts and properties that make moral judgments objectively true or false.",
+   "why": "Chapter 23's central claim is that Dylan's moral judgments across decades presuppose an unchanging, objective moral order (\"Dignity never been photographed\"), and taxonomy contains only moral-relativism, its denial."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "expression-theory-art",
+   "name": "Expression Theory of Art",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The theory (Wordsworth, Collingwood, Tolstoy) that artistry consists in expressing emotion, so that a work's value lies in the sincerity and depth of the feeling it makes conscious.",
+   "why": "Chapter 25 applies expression theory at length to Greil Marcus's Self Portrait review and the two versions of Blood on the Tracks before rejecting it, and taxonomy has no philosophy-of-art concept for it."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "formalism-art",
+   "name": "Formalism (classicist theory of art)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The theory that an artwork's merit resides in its design, form, and pattern rather than in the artist's emotions, biography, or message.",
+   "why": "Chapter 25 uses formalism (Ricks's and Gray's praise of Dylan's verbal patterning versus his aesthetics of improvisatory imperfection) as the second of its three candidate theories of Dylan's artistry, and no taxonomy slug covers it."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "philosophy-poetry-quarrel",
+   "name": "The Ancient Quarrel between Philosophy and Poetry",
+   "philosopher": "plato",
+   "domain": "ancient",
+   "what": "Plato's charge (Republic X) that poets trade in imitation and appetite rather than truth, and the running debate since over whether philosophy or poetry better discloses reality.",
+   "why": "Chapter 26's title argument - Plato's banishment of the poets, Boethius's Consolation, Nietzsche's ironism, and Dylan's anti-analytic remarks - is a direct engagement with this quarrel, which taxonomy lacks."
+  }
+ ]
+}

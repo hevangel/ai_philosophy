@@ -1,0 +1,44 @@
+{
+ "unit": "u359",
+ "book": "243 - The Philosophy of Christopher Nolan",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\243 - The Philosophy of Christopher Nolan",
+ "range": [
+  6,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 6,
+   "file": "ch06 - Spinning Tops and Brains in Vats.md",
+   "words": 22127
+  },
+  {
+   "n": 7,
+   "file": "ch07 - We Are the Change That We Seek.md",
+   "words": 23193
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Selected Bibliography.md",
+   "words": 1655
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Index.md",
+   "words": 658
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Contributors.md",
+   "words": 1480
+  }
+ ],
+ "content": [
+  6,
+  7,
+  8,
+  9,
+  10
+ ]
+}

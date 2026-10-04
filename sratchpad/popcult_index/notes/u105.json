@@ -1,0 +1,341 @@
+{
+ "book": "064 - The Rolling Stones and Philosophy - It's Just a Thought Away",
+ "unit": "u105",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - The Rolling Stones and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Popular Culture and Philosophy Series Editor George A. Reisch.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - It’s Only Philosophy but We Like It.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "meaning-of-life"
+   ],
+   "relation": "George A. Reisch's introduction argues that Keith Richards' autobiography Life is more philosophical than Keith's own slogan that rock and roll 'starts from the neck down' allows: its optimistic framing of addiction, arrests, and band feuds displays a distinctive perspective and mental discipline rather than a tale of greed and jealousy. He reads the band's 1990 Prague concert, where Czech fans outlasted Soviet occupation, as evidence that the Stones' music carried a liberating outlook that helped defeat communism or at least outlasted it. The piece sets up the volume's premise that a band proud of its anti-intellectual image nonetheless repays philosophical reading."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - The Rolling Stones and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Reisch continues the introduction by portraying Keith's devotion to music as a quasi-mystical, life-sustaining focus: his descriptions of guitars weaving with Ronnie Wood's read like a mystic struggling for words, and he would keep playing even without sex, cigarettes, or drink. The section argues the Stones' fifty-year endurance turned them from a youth band into an institution, a rock to lean on, noting that 'Lady Jane' had already punked the older generation and Henry VIII's wives long before the Sex Pistols. Their sheer longevity, surviving Brian Jones's death, Altamont, and heroin, is offered as a fact that should make the philosopher in all of us sit up and take notice."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - The Rolling Stones and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates"
+   ],
+   "concepts": [],
+   "relation": "Reisch recalls Jagger's 1969 reply that he was 'financially dissatisfied, sexually satisfied, and philosophically trying' to argue that the search for satisfaction is a life-long quest rather than a hit single, pointing to the politics of 'Street Fighting Man' and 'Sweet Neo Con', the existentialism of 'Paint it, Black', and 'Sympathy for the Devil' as a dead-serious challenge to the Christian metaphysics of evil. He then compares the band's 1990 Prague concert to Socrates condemned to death for teaching unpopular ideas: the Stones and their fans, like Socrates, outlasted the regime that suppressed them. Eduard Freisler's sobbing father, told by no one after that night how to think, supplies the chapter's closing satisfaction at last."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - I - One Thought (to the Body).md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Chapter 1 - The Glimmer Twins.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "fate-vs-free-will"
+   ],
+   "relation": "Randall E. Auxier opens his chapter on the Jagger-Richards collaboration by musing that certain pairs seem 'ordained by the gods' to stay entangled for life, calling Mick and Keith 'destiny's children' who grew up a Stone's throw apart in Dartford. He admits he cannot quite believe in destiny yet claims to have seen cosmic entanglement first hand, and he poses the counterfactual of the two boys taking different buses on the day their collaboration began — a world with no Rolling Stones. The section frames the chapter's question of whether their life-long creative entanglement was inevitable or, as he punningly insists, evitable."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Pretty Pairs.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "philosophy-of-love"
+   ],
+   "relation": "Auxier ranks the Glimmer Twins against other songwriting pairs — Lennon-McCartney as a corporation rather than a cooperation, the Gershwins and John-Taupin as split lyricist-composer teams, Page-Plant and Waters-Gilmour as fellow full collaborations — and argues Mick and Keith matter most philosophically because they 'actually always loved each other', like twin sons of different mothers and a bickering married couple. Citing Christopher Andersen's love-triangle story of the Edith Grove flat, he claims the creative process is inseparable from eros in the ancient sense, with jealousy and envy as its close companions. Two huge personalities locked in one room without blowing up the house is what makes their collaboration so philosophically interesting."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Picking a Fight.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Auxier 'picks a fight' with work-centered philosophy of art, arguing there is no single thing that is 'the' work of art because artworks are living processes tied to their origins, creators, and shifting contexts. 'Street Fighting Man' meant one thing in 1968 and another now, Keith's X-Pensive Winos performances made 'Gimme Shelter' something it previously was not, and Aretha rather than Carole King completed 'A Natural Woman'. He opposes philosophers who study artworks-as-things to those, like himself, who study the creative process, contending that some people — Mick and Keith — can achieve genius only together."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Only Rock’n’Roll.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The section enlists Susanne Langer's demand that any philosopher of art first try to make art and take working artists as teachers, since artists speak a metaphorical language that resists translation into literal philosophical vocabulary. Auxier then reads Keith's tangled remarks on rhythm — the body's seventy-two beats per minute, the rhythm of trains, Elvis's drumless 'Mystery Train', why the music is about roll rather than rock — as exactly the plastic, powerful, metaphorical speech Langer predicted. The methodological moral is that any account of the Stones' creativity must begin from what Mick and Keith say and show about what they do."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Genius.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-aesthetics"
+   ],
+   "relation": "Auxier traces the modern habit of calling individuals 'a genius' to Kant's Critique of Judgment, quoting the definition of genius as the innate talent through which nature gives the rule to art and noting Kant's view that geniuses cannot explain their own powers. He applies the concept to the Glimmer Twins, suggesting that the songs, shows, and videos are better called works of genius than either man taken alone. His amendment to Kant is that genius sometimes operates only when two people work together, which returns the discussion to what Mick and Keith achieve jointly."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Let It Bleed.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel"
+   ],
+   "concepts": [
+    "hegel-dialectic",
+    "hegel-geist"
+   ],
+   "relation": "Reconstructing the twins' songwriting mechanics — Keith re-voicing Mick's 'Brown Sugar' in open-G tuning, the producer Don Was shuttling between them during Bridges to Babylon as Keith sang wordless fragments that Mick turned into lyrics — Auxier argues their genius lives outside either man alone, in sparks between two interdependent, mutually wounded subjectivities. He names their destructive-yet-creative bond a classic case of what philosophers call dialectic, citing Hegel's view that cultural history is made through strife and that a Zeitgeist moves history with or without the cooperation of individuals. The Stones surfed the 1960s Zeitgeist all the way into the twenty-first century, and their willingness to 'let it bleed' kept the collaboration generative after they stopped being good mates around 1968."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Fifteen Minutes of Fame.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel"
+   ],
+   "concepts": [
+    "hegel-history",
+    "hegel-dialectic"
+   ],
+   "relation": "Auxier argues the twins were serious artists with a sense of the history they were living — true students and initiates of the blues whose aesthetic and spiritual value they recognized before Americans did. He mobilizes Hegel's claim that art gives sensuous appearance to the movement of history: Keith's guitar sound and Mick's stage strut are the clothes history wears between its stages, with geniuses hitting targets no one else sees, ahead of the slower-moving innards of politics and religion. The Stones used their fame to hoist the blues, the bottom rung of the cultural ladder, toward the center just as pop art and the beat poets lowered the wall between high and low, leaving high culture itself begging at the banquet."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Art for Art’s Sake.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "aestheticism"
+   ],
+   "relation": "Auxier defines aestheticism — people whose moral and even religious values are drawn from the aesthetic realm — and casts the pure bluesman (Hank Williams, Townes Van Zandt) and the Stones as aesthetes arriving in a decade when high and low culture were in dialectical tango. Through Andy Warhol and Robert Fraser he argues a postmodern role of 'the artist' as celebrated performer emerged, pushing the idea of genius to its limit: no longer does nature give the rule to art, but the genius-subject tells both nature and culture what art is. Mick took the Warhol-esque role of serial persona reinvention while Keith remained the grounded serious musician, each brilliant in support of the other."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Sweet Home Chicago.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Auxier argues the twins' genius required schooling by masters — Muddy Waters, Howlin' Wolf, Willie Dixon, Little Walter at Chess — and that Romanticism's decline after Byron, Keats, and Shelley shows what happens when artists think being cool replaces classical training, which is also why Nickelback sucks. He describes the Stones as having professed America's own music back to it before ethnomusicology existed, citing Joe Walsh's debt to them, and explains why fans like himself long could not hear the connection between the Stones' English-sounding records and the Chicago and Delta blues. Their relation to Chicago blues, he suggests, is that of Impressionist painting to Post-Impressionism."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Doomed to Repeat It.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "hegel-history"
+   ],
+   "relation": "Auxier argues the Glimmer Twins' genius cannot be separated from its historical setting: not that history made them, but that their genius depended on getting history right and being just ahead of the spirit of the times. He predicts future historians of art will remember the Stones as serious artists who created something of lasting aesthetic value that had not existed before — mentioned second after the Beatles like Mozart after Beethoven, both of whom were rock stars who inspired riots by breaking rules. He closes by claiming the Jagger-Richards team is the most important collaboration of any kind in the period, and the one raising the most philosophical questions."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - In The Shadows.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel"
+   ],
+   "concepts": [
+    "hegel-geist"
+   ],
+   "relation": "Auxier poses the puzzle that Mick and Keith give thoroughly contradictory accounts of their own collaboration, and asks how reliable anyone can be as an interpreter of their own creative experience. He sets Hegel against Susanne Langer as irreconcilable alternatives: for Hegel artists give sensuous expression to the objective spirit moving in history without understanding what they do, while Langer insists artists do understand but speak an untranslatable, discursively untrained language. The section ends with Mick's long shadow — the prancing frontman — having hidden Keith, the brooding semi-animal, from recognition as a creative force whose enigma now demands a theory."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Saviors of Rock’n’Roll.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Auxier describes how Keith emerged from Mick's shadow: Johnny Depp's modeling of Jack Sparrow on Keith revealed the pirate persona the public had always responded to, and Life surprised readers with how insightful, even intellectual, its author is. He argues the pair's public roles were interdependent — Mick the court jester smarter than the court, Keith with a 'talent for suffering' that kept the saviors of rock'n'roll real — so that together they could both get behind the gilded doors and rip the joint. His roommate's Steel Wheels crew report that the band is 'all business' leads him to conclude that the Stones' mystique, like the varnish on a Stradivarius, is itself part of the artwork: art is about creating illusions, and disguising the mundane business is as much a part of it as the finish on a violin."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - The Songs.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "hegel-dialectic"
+   ],
+   "relation": "Auxier argues that amid the manufactured illusions the songs are what is real: they are the primary illusions symbolizing how it feels to live in our times, and the appearance of the Jagger-Richards credit from Aftermath onward made the Stones creative forces rather than mere personas. Using Keith's Life account of writing Exile on Main Street on the fly — make the bare bones of a riff, snap the drums in, see what happens — he locates the creative secret in the tension of the dialectic between Mick and Keith, which builds until Charlie Watts kicks in. The genius finally lies beyond the twins in the group: they are the left and right ventricles of the heart of rock'n'roll, but the body that dances is the band."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Chapter 2 - My Dinner with Mick.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Jere Surber recounts an after-concert dinner in 1980s Denver where Mick, contradicting the bad-boy image, was a reserved, witty, London School of Economics-educated conversationalist genuinely interested in philosophy, with a tired Keith polite at the end of the table. The episode leaves him puzzling over the different Jaggers — dinner companion, rooster-like frontman, revered rock businessman — and over how a 'nice bloke' could be at home in a rock'n'roll culture so often black, blue, and bloody. The anecdote sets the chapter's guiding problem: the violence that, through Altamont, attached itself to the Stones' name."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Death of the Woodstock Nation.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Surber reconstructs the Altamont Speedway festival of December 6th, 1969: the twice-moved venue lacking basic amenities, Hell's Angels paid $500 of beer for stage security over Jerry Garcia's protest, the Grateful Dead refusing to play, and four deaths, culminating in eighteen-year-old Meredith Hunter being beaten and stabbed by Angels after pulling a gun during 'Under My Thumb' while the unaware band kept playing. He notes the Stones were not fairly to blame — the bad decisions were management's — yet the popular imagination, fed by Don McLean's 'American Pie' and Rolling Stone, cast them as devil-worshippers presiding over an orgy of violence. The section records how Altamont, four months after Woodstock, killed the credo of Peace and Love."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Before and After Altamont.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Surber argues rock enjoyed an innocence about physical violence before Altamont: even as Vietnam, the Civil Rights Movement, and assassinations escalated, Woodstock's 'back to the Garden' self-image cast rock as intrinsically peaceful and countercultural figures like the Hell's Angels as harmless 'barbarian brothers'. Altamont shattered that naive self-image by showing that the Counterculture harbored in its own midst the same potentials for violence it had projected onto the 'violent other' it rejected. After that revelation the door opened for rock to realize its own implication in violent institutions and to adopt increasingly violent themes, with punk, death metal, racist Southern rock, and gangsta rap among the offspring ultimately spawned at Altamont."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Violence and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "zizek"
+   ],
+   "concepts": [],
+   "relation": "Surber surveys three classic accounts of violence — Plato's view that violence results when reason fails to control passion, an older line through Homer, Goethe, Hegel, and Nietzsche treating violence as fundamental to the universe and history, and the Enlightenment hope (Locke's 'inconvenience') of legislating and educating it away — and finds all of them too naive for Altamont. He then introduces Žižek's book Violence and its Lacanian frame of three orders: the private Imaginary of images and memories (his dinner with Mick), the public Symbolic of codes that built 'Mick Jagger the Rock Star', and the unsayable Real encountered at traumatic ruptures like 9/11. For the Marxist Žižek the Real is chiefly economic — the global machinery of record companies that alone kept Jagger from retiring to a middle-class London suburb."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Violence, Rock, and the Rolling Stones.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "objectification"
+   ],
+   "relation": "Applying the three orders, Surber sorts the Stones' violences: Imaginary violence flows from frustrated desire — 'you can't ever get what you want' — heard in 'Play with Fire' and the unnervingly threatening last line of 'Dead Flowers', and in the frenzied fan mobs that nearly killed Keith once Decca made him a spectacle. Symbolic violence is carried by words and images, and he charges the lyrics with two standing varieties: the objectification of women in 'Under My Thumb' and racial stereotyping in 'Brown Sugar' and the N-word quoted in 'Sweet Black Angel'. Behind both, the Real's economics quietly enables the whole scene, since concert violence is unintelligible apart from the transfer of millions of fans' small cash payments into record-corporation accounts."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - So, Back to Altamont . ..md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Surber reads Altamont as an overlay of all the violences at once: economic desires staged the fiasco (the Stones' free-concert countercultural prestige, speedway owner Dick Carter's publicity grab, the film-rights dispute that pushed the venue from Sears Point), three hundred thousand frustrated fans were compressed down a hill into the Angels, and symbolic sparks — the toppled motorcycle, the racial symbolism around the black concertgoer Meredith Hunter — inflamed the night. On the Žižek-Lacan framework there is no single culprit, which dissolves the puzzle of how two polite dinner companions could headline the concert that killed the Sixties. His conclusion turns the accusation around: the Stones were high priests of excessive desire 'playin' with fire', we liked them that way, and who really killed the Sixties may just be you and me."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Chapter 3 - The Beggar’s Genius.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Keegan Goodman opens with a close reading of 'Parachute Woman' from Beggars Banquet: a cassette-recorded, double-tracked, deliberately rough track whose indecipherable mumble and stock blues riff do nothing but 'lay a solid rhythm down'. He uses the song against the popular view that art works by adding something new to its tradition, arguing the track is original only in a superficial sense — nothing in its chords, harmonica, or parachute-woman imagery diverges from its blues lineage, and he likes it precisely because it does not even try to add anything new. The Beatles, with their harmonic surprises, submarines, and fields of fruit, serve as the anti-Stones foil."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - As I Watch You Leaving Me, You Pack My Peace of Mind.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Goodman reads 'No Expectations' — Brian Jones's masterly slide-guitar farewell, its water-splashes-on-stone image eerily prescient of his drowning in a pool a year later — as a meditation on how repeating the past is never simple: 'our love is like our music: it's here and then it's gone'. He recounts how the Stones had to abandon their expectation of remaining a covers band, with Lennon and McCartney supplying the middle eight of 'I Wanna Be Your Man' and Andrew Oldham locking Mick and Keith in a kitchen until they wrote a song, concluding that history rewards those who do not expect to pass through again. Yet he argues the song also exposes the dominant view of art as meaningful variation on tradition, because it leaves us with no criterion for when a slight alteration — Jagger singing Otis Redding's lines — counts as genuinely new rather than imitation."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - What’s Puzzling You Is the Nature of My Game.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-aesthetics"
+   ],
+   "relation": "Goodman turns to Kant's Critique of Judgment to solve the problem of how rock'n'roll can be genuinely new yet intelligible: a work must be made according to rules that give it context — tuning-noise with a song's notes is not a song — yet a work following the rules too well, like the cover bands in Keith's 'shitty little suits', is no good. Kant's genius resolves this: nature gives the rule to art through the artist's inborn productive faculty, which is why artists say 'the thing just wrote itself' and cannot describe scientifically how their products come to be, unlike engineers or businessmen whose creativity is fully determined by an articulable plan. The section sets this machinery up to explain what could make a Stones song new."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - The Beggars at the Banquet.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-aesthetics"
+   ],
+   "relation": "Goodman presses Kant's theory against the obvious objection: the Stones were decidedly unoriginal, 'beggars at the banquet table of music history' who stole songs, singing styles, lyrics, and licks. His solution is that they altered the aesthetic object itself by making their bodies — Mick's maniacal dancing, Keith's slouch, Bill's statuesque motionlessness — a constitutive part of the music, so that 'Brown Sugar' and 'Jumpin' Jack Flash' summon the band's persons in a way 'Strawberry Fields Forever' never summons Lennon. Because the Stones know sincerity is the real enemy of rock'n'roll, Mick cannot get satisfaction while singing that he can't get no satisfaction: the work now includes the singer, a philosophical necessity rather than a psychological claim."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - What Can a Poor Boy Do.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Goodman closes his chapter with the 1965 Ready, Steady, Go! footage: when Keith strikes the first note of '(I Can't Get No) Satisfaction', a visible change comes over both the swooning studio audience and the band, whose usual ironic distance suddenly has to be overcome. He argues the closing credits superimposed over Jagger's face and the transfixed crowd broke the viewer's link to the frenzy and returned each teenager to their own humdrum black-and-white living room, dramatizing that the closeness everyone wanted was unreachable. That unbridgeable gap, he suggests, is both why we love the Stones and what puts them out of our reach."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Chapter 4 - You Probably Think This Chapter’s about You.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Charles Taliaferro and Therese Cotter open by asking when a person is vain, offering Jagger's self-promoted persona — sexed-up, macho-chauvinistic, street-fighting, Satanic, wanting a girl under his sticky thumb with cameras rolling — as the test case. They assemble the evidence of his egomania reputation: Sonny Barger's account of the Stones sitting in trailers like prima donnas while the Altamont crowd grew angry, Don McLean's image of Satan 'laughing with delight' as the flames climbed, and Mike Doughty watching Jagger sprint across Shea Stadium for no reason but to say look at me. The section ends with Carly Simon's 'You're So Vain', whose chorus Jagger sings even though Simon keeps the real target, apparently Warren Beatty, secret."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "susanne-langer",
+   "name": "Susanne Langer",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Twentieth-century American philosopher of mind and art (Feeling and Form) who held that philosophers must know the arts from the inside, take artists as their teachers, and accept art's creation of illusory forms of feeling as irreducibly metaphorical.",
+   "why": "Auxier's entire chapter builds its method on Langer — her dicta frame section 12, her debate with Hegel drives section 19, and her notion of art as created illusion anchors sections 20-21."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "aestheticism",
+   "name": "Aestheticism (art for art's sake)",
+   "philosopher": "",
+   "domain": "nineteenth-century",
+   "what": "The stance of drawing one's moral and religious values from the aesthetic realm, treating art and the artistic life as needing no justification beyond themselves.",
+   "why": "Section 16 explicitly defines the Stones and the pure bluesmen as 'aesthetes' whose values come from the aesthetic realm, the hinge between blues devotion and Warhol-era celebrity art."
+  },
+  {
+   "ch": 25,
+   "type": "philosopher",
+   "suggested_slug": "slavoj-zizek",
+   "name": "Slavoj Žižek",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Contemporary Slovenian Hegelian-Marxist philosopher whose book Violence (2008) distinguishes visible subjective violence from the objective violence embedded in language and economic systems.",
+   "why": "Surber's whole second chapter (sections 25-27) explains Altamont through Žižek's Violence, which he introduces as the modern breakthrough in the philosophy of violence."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "lacan-three-orders",
+   "name": "Lacan's Three Orders (Imaginary, Symbolic, Real)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Lacan's structural division of experience into the private Imaginary of images and memories, the public intersubjective Symbolic of language and codes, and the Real — the unsayable outside both that erupts at traumatic ruptures.",
+   "why": "Sections 25-27 classify the violences of fandom, Stones lyrics, and Altamont by mapping each onto the Imaginary, Symbolic, and Real, the chapter's central analytic tool."
+  }
+ ]
+}

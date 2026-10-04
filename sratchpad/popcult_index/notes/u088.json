@@ -1,0 +1,384 @@
+{
+ "book": "055 - Doctor Who and Philosophy - Bigger on the Inside",
+ "unit": "u088",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Doctor Who and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Popular Culture and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - We’ve Been Abducted by the Doctor, and We Love It!.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editors' introduction recounts the show's history from its 1963 premiere (the day after the Kennedy assassination) and the Daleks' first appearance through all eleven Doctors, and describes how companions from Ian and Barbara to Rose, Donna, and Amy were 'abducted' by the Doctor's sense of wonder. It argues that the curiosity and love of adventure the TARDIS inspires in viewer-companions is the very same impulse that drives the love of wisdom, and previews the book's six 'episodes' on personal identity, time travel, logic and science, the Doctor's ethics, existentialism and aesthetics, and the show's cultural meaning."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - EPISODE 1 - I’m the Doctor. Who.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - A Dead End.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "parfit",
+    "nozick",
+    "reid"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "parfit-teleportation",
+    "personal-identity"
+   ],
+   "relation": "Stokes uses regeneration and the multi-Doctor episodes ('The Three Doctors', 'The Five Doctors', 'The Trial of a Time Lord') to test theories of personal identity: Locke's memory criterion, Reid's transitivity objection, Parfit's teleporter and 'branch-line' cases, Nozick's closest-continuer theory, four-dimensional person-stages, animalism, and narrative identity. He argues that no objective-continuity account explains why the Fifth Doctor still cares whether he himself survives in 'The Caves of Androzani', and hints that being the Doctor may be a subjective stance in which each incarnation takes ownership of the others as itself."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Doctor Who and the Ultimate Answer.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity"
+   ],
+   "relation": "Littmann mines Who scenarios as hypotheticals that test identity theories: regeneration, natural doubles like Salamander, impersonating Zygons and Chameleons, bodiless beings like Omega and the Great Intelligence, TARDIS jumps that break spatiotemporal continuity, Cassandra possessing the Doctor and Rose, memory theft by Eldrad and the Daleks, and the Master's year as the unrecognizably good Professor Yana. He argues that sameness of body (including the four-dimensional 'worm' of spatiotemporal continuity), the memory criterion, and psychological similarity each fail, leaving the question of what makes the Doctor the Doctor — and you you — open."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - What’s Persistence Without Identity.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "nozick",
+    "parfit",
+    "lewis",
+    "reid"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "personal-identity",
+    "parfit-teleportation"
+   ],
+   "relation": "Hanley first fixes what is true in the Who canon (treating fiction as pretense), then asks how the Doctor persists when regeneration replaces 'every single cell' and when John Smith's amnesia severs memory in 'Human Nature'. Rejecting bodily continuity (the severed hand of 'The Christmas Invasion'), soul 'pellets', and simple memory (Reid's transitivity problem), he defends neo-Lockean mental continuity plus Nozick's closest-continuer schema to explain why Jackson Lake, the regrown Doctor, and DoctorDonna in 'Journey's End' are not the Doctor, and closes with Parfit's claim that psychological continuity rather than identity is what matters in survival, alongside Lewis's space-time-worm alternative."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - I Think, Therefore I Exist . . . I Think.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "parfit",
+    "plato",
+    "descartes",
+    "williams"
+   ],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity",
+    "cartesian-dualism"
+   ],
+   "relation": "Johnson argues that the Platonic-Cartesian soul is refuted by neuroscience (Phineas Gage, Penfield's stimulation studies), and that Locke's memory criterion fails on Reid-style transitivity cases like DoctorDonna and on Bernard-Williams-inspired worry about the amnesiac John Smith, who would still dread the Family of Blood's torture. Parfit's causal-continuity criterion then wrongly makes the meta-crisis Doctor of 'Journey's End' identical with the Tenth, so Johnson defends a four-dimensionalist 'time worm' view on which the Doctors are stages of one person — before a final sorites-style argument (heaps, spin-offs like Torchwood) suggests that 'persons' may not exist at all."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - EPISODE 2 - Wibbly-Wobbly, Timey-Wimey . . . Stuff.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - We Wouldn’t Be Here Without Time Travel.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis",
+    "leibniz",
+    "zeno-elea"
+   ],
+   "concepts": [
+    "time-travel",
+    "possible-worlds",
+    "zeno-paradoxes"
+   ],
+   "relation": "Worley distinguishes logical from empirical possibility (Leonardo's round-square in 'City of Death') and shows that time-travel paradoxes — Leela's self-caused antibodies, the unauthored 'Blink' Easter egg, the Master's Toclafane — can be handled with Zeno-style analysis of contradiction and David Lewis's distinction between external and personal time, under which travelers instantiate rather than rewrite history ('The Visitation', 'The Time Meddler'). He then reads 'Turn Left' and the Doctor's 'alternative time' in 'Pyramids of Mars' through Leibniz's possible worlds and Lewis's actualism about parallel universes, concluding that in 'City of Death' time travel is essential to life on Earth existing at all."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - The Daleks Can Stop the Pyramids from Being Built!.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "time-travel"
+   ],
+   "relation": "Goff asks whether the Daleks could genuinely change the past by exterminating the Egyptian pyramid builders, arguing that presentism leaves no past to travel to while eternalism fixes all facts of time so travelers can affect but never change history. He defends the growing block theory — past and present exist, the future does not — and works out that Dalek intervention would generate a new, pyramid-less history replacing the old one no faster than the absolute present advances, so the Doctor could always return to a present still causally continuous with the pyramids."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Prognosis.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis"
+   ],
+   "concepts": [
+    "time-travel"
+   ],
+   "relation": "Eaton reconstructs the Doctor's 'wibbly-wobbly, timey-wimey' speech in 'Blink' as David Lewis's four-dimensionalism: the universe is one spacetime manifold, time travelers are zig-zag or broken person-stages through it, and in external time effects can precede causes. Lewis's compossibility reading of 'can' dissolves the grandfather paradox and the bilking worry about Sally Sparrow's closed causal chain, and comparison with Horwich and Ismael shows the Doctor agreeing that closed causal loops are possible — indeed, unlike them, he holds they actually happen."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - This Is the Age of Steel.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "mill",
+    "hume"
+   ],
+   "concepts": [
+    "social-contract",
+    "greatest-happiness",
+    "higher-lower-pleasures",
+    "hume-sentimentalism"
+   ],
+   "relation": "Littmann asks what a genuinely logical creature would do and grades the Cybermen against three accounts of reason: Hobbes's self-preservation and social contract, which the survival-focused Cybermen of 'The Tenth Planet' roughly satisfy but their later wars of conquest betray; Mill's utilitarianism, whose greatest-happiness principle, higher pleasures, liberty, and individuality condemn emotion-stripping, forced 'upgrades', and uniformity; and Hume's claim that reason alone motivates nothing, under which perfectly logical but emotionless Cybermen would simply do nothing at all. The upshot is that Cyberman 'logic' is incoherent — no theory of reason makes them rational."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - They May Not Be Human, but Could Daleks Be People Too.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "locke",
+    "singer"
+   ],
+   "concepts": [
+    "speciesism"
+   ],
+   "relation": "The chapter reads the Daleks' hunt for the 'human factor' in 'The Evil of the Daleks' and for human DNA in 'Dalek' and 'Daleks in Manhattan' as species essentialism — an Aristotelian picture of a fixed human nature, resurrected as genetic essentialism — set against philosophical alternatives of species as individuals or sets and Mayr's reproductive-isolation criterion applied to Daleks and Thals. It then asks whether the human-Dalek Dalek Sec could count as a person, using Singer's speciesism to argue that rights should track personhood (capacities for pain, intelligence) rather than bare membership in Homo sapiens."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Doomed to Be Perceived.md",
+   "kind": "chapter",
+   "philosophers": [
+    "berkeley",
+    "locke",
+    "hume",
+    "paley"
+   ],
+   "concepts": [
+    "berkeley-idealism",
+    "scientific-realism",
+    "skepticism",
+    "watchmaker-argument"
+   ],
+   "relation": "Smithka tests Berkeley's 'to be is to be perceived' against two monsters: the Vashta Nerada, whose existence is inferred from indirect evidence (counting shadows, the 'ghosting' of Miss Evangelista) much like Neptune was inferred from Uranus's orbit, and the Weeping Angels, which act only when unperceived and so falsify Berkeley's principle. Working through Locke on substance, Hume's skepticism about unperceivable causes like God, Paley's watchmaker design argument, and scientific realism (Sellars, Churchland) versus van Fraassen's empirically adequate anti-realism, she concludes the Doctor is a realist about unobservables — for whom the Angels are real but 'doomed to be perceived'."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Aww, . . . Poor Monster. Should We Feel Sorry for the Carrionites.md",
+   "kind": "chapter",
+   "philosophers": [
+    "quine",
+    "plato"
+   ],
+   "concepts": [
+    "scientific-realism",
+    "plato-forms"
+   ],
+   "relation": "Hewitt treats the Carrionites — word-wielding beings of 'The Shakespeare Code' who do science without numbers — as a test of Hartry Field's Science Without Numbers and hence of the Quinean indispensability argument for Platonism about mathematics: if numbers are unavoidable in our best physics, they exist. Surveying Field's Newtonian case, Balaguer's mathematics-free quantum mechanics, and the objections to each, he concludes that even Carrionite physics would not refute numbers — the Carrionites would merely lack our knowledge of them, so the poor monsters are missing out."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - EPISODE 3 - It’s a Different Morality. Get Used to It, or Go Home!.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - “Howzat!” Prometheus Is a Fast Bowler.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "beauvoir",
+    "emerson"
+   ],
+   "concepts": [
+    "ethics-of-ambiguity",
+    "existentialism",
+    "bad-faith",
+    "romanticism"
+   ],
+   "relation": "Decker argues the Doctor's morality resists formula — his motives are private, his timey-wimey perspective complicates consequentialist calculation, and the 'Genesis of the Daleks' child hypothetical breaks rule theories like Kant's and Mill's — so he reads it as an 'ethics of ambiguity' fusing Romanticism (Shelley's imagination, the infinite glimpsed in cups of tea and small beautiful events, Romantic-Gothic divided consciousness) with Sartrean existentialism. Via Sartre's WWII student, bad faith, and Beauvoir's 'adventurer' contrasted with the sub-man and the serious man, he casts the Doctor as a Gallifreyan Prometheus whose gifts of freedom are both dreadful and delightful."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - A Better Way of Living Your Life.md",
+   "kind": "chapter",
+   "philosophers": [
+    "noddings",
+    "buber",
+    "nussbaum",
+    "kant"
+   ],
+   "concepts": [
+    "care-ethics-noddings",
+    "i-thou",
+    "kant-aesthetics"
+   ],
+   "relation": "Akers argues the Doctor follows neither rule deontology, utilitarian calculation, nor virtue ethics, but a relational ethics of care in Noddings's and Slote's sense, expressed as Buber's I-Thou stance — insisting an enslaved Ood is 'a \"he,\" not an \"it\"' and addressing Donna, Jack, and Rose each as individuals in 'Journey's End'. Linking this to Nussbaum's claim that wonder widens moral concern and to Kant's dynamic and mathematical sublime, she argues the Doctor needs human companions like Rose, Martha, and Donna as a human-scale reference point that renews his wonder — and with it his ethics — while his wiping of Donna's memory shows the care tradition's dangers of power imbalance."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Toward Caring.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gilligan",
+    "noddings"
+   ],
+   "concepts": [
+    "care-ethics",
+    "care-ethics-noddings",
+    "utilitarianism"
+   ],
+   "relation": "Sylvia models the Doctor on feminist care ethics: Gilligan's response to Kohlberg's justice-tinged scales and Noddings's distinction between natural caring (for Rose, Martha, Peri in 'The Caves of Androzani') and ethical caring, which explains his forgiveness of the Master and compassion for Dalek Caan after genocides. Against utilitarian impartiality — which cannot say why he should save his companion over a stranger — the relationship itself grounds the obligation, while his vengeful moment facing the lone Dalek in 'Dalek' shows what caring burnout looks like."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Allons-y into the Starry Heavens.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "deontology",
+    "kant-autonomy",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Smith reads the Doctor–Rose tragedy through Kantian deontology: shaped by Plato's four virtues and Aristotle's virtue ethics into a good will, both must still choose duty over inclination, so in 'Parting of the Ways' and the Battle of Canary Wharf in 'Doomsday' they each act from the categorical imperative — sacrificing their love to save humanity — because love, as Kant warns, impels partiality. Even in 'Journey's End' the Doctor sends Rose to Pete's World with the meta-crisis Doctor for the greater good, ending alone under Kant's starry heavens and the moral law within."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - The Dalek Within.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "arendt",
+    "adorno",
+    "foucault"
+   ],
+   "concepts": [
+    "banality-of-evil",
+    "state-of-nature",
+    "culture-industry",
+    "discipline"
+   ],
+   "relation": "Comparing the Doctor's hesitation at the Dalek hatchery in 'Genesis of the Daleks' with the half-human Doctor's instant genocide in 'Journey's End', the authors argue the Daleks are mirrors of us: their survival-driven wars enact Hobbes's state of nature, while their industrial 'extermination' embodies Arendt's banality of evil and Weber's iron cage of instrumental rationality. Drawing on Horkheimer and Adorno's culture industry and Foucault's disciplinary institutions — modern techniques that mold the inner life as Davros's genetic engineering molds the Kaleds — they conclude the Dalek tendency is a human possibility, so we cannot exterminate the Daleks without indicting ourselves."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Why the Doctor Is So Special.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer",
+    "aristotle",
+    "nussbaum"
+   ],
+   "concepts": [
+    "speciesism",
+    "animal-liberation",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Applying Singer's animal-liberation concept of speciesism — judging moral worth by capacity to feel pain rather than by intelligence or likeness — the authors argue the Daleks are 'super-speciesist' and that Lumic's emotional inhibitors make the Cybermen the same failure, unable to share a universe with unlike beings. Since emotions are judgments that can be educated into fitting responses (Nussbaum, Aristotle), and since Daleks infused with Rose's or Diagoras's DNA collapse into empathetic beings, the chapter concludes that emotion and empathy are why the Daleks will never win and why the Doctor, marked by his companions, is special among Time Lords."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Two New Cyber-Approaches Enlightenment and a Good Ad-Campaign.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "deontology",
+    "utilitarianism",
+    "kant-autonomy",
+    "applied-ethics"
+   ],
+   "relation": "Lewis defends the Cybermen: using the 'Genesis of the Daleks' dilemma he shows the Doctor reasons like a Kantian duty ethicist — refusing to kill innocent proto-Daleks whatever the consequences — rather than a utilitarian, and that performing bad actions does not make an agent evil. After the Mondas, Lumic, and Morrison origins establish that Cybermen seek to cure pain and death, he argues the Doctor's 'good to strive for but bad to achieve' argument in 'Age of Steel' is invalid, and that upgrading would be morally acceptable — an applied-ethics fix — if the Cybermen obtained informed consent and respected human autonomy instead of forcing conversions."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "growing-block-theory",
+   "name": "The Growing Block Theory of Time",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The view that the past and present exist while the future does not, with reality growing as new events come into being.",
+   "why": "Chapter 13 argues that only the growing block view (between presentism and eternalism) makes coherent sense of the Daleks traveling back and genuinely stopping the pyramids from being built."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "species-problem",
+   "name": "The Species Problem (essentialism, natural kinds)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The philosophy-of-biology debate over what species are — essentialist natural kinds, individuals, or sets — and how their members are identified.",
+   "why": "Chapter 16 reads the Daleks' human-factor and DNA experiments as species essentialism and weighs rival views of species before reaching its personhood and speciesism conclusion."
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "indispensability-argument",
+   "name": "The Indispensability Argument for Mathematical Platonism",
+   "philosopher": "quine",
+   "domain": "knowledge-science-reality",
+   "what": "The Quinean argument that we should believe in whatever entities are indispensable to our best scientific theories, numbers included.",
+   "why": "Chapter 18 frames the Carrionites, who do science with words instead of numbers, as a test of whether mathematics is dispensable to science and hence whether numbers exist."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "romanticism",
+   "name": "Romanticism (imagination and the infinite in the finite)",
+   "philosopher": "",
+   "domain": "nineteenth-century",
+   "what": "The movement holding that imagination, individual uniqueness, and the yearning for the infinite through small finite experiences matter more to a flourishing life than reason alone.",
+   "why": "Chapter 20 argues the Doctor's ethics is half Romantic — Shelleyan imagination, Romantic-Gothic divided consciousness, finding the infinite in cups of tea — alongside its existentialist half."
+  }
+ ]
+}

@@ -1,0 +1,224 @@
+{
+ "book": "015 - The Chronicles of Narnia and Philosophy - The Lion, the Witch, and the Worldview",
+ "unit": "u023",
+ "chapters": [
+  {
+   "n": 25,
+   "file": "ch25 - The Chronicles of Narnia and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir"
+   ],
+   "concepts": [
+    "woman-as-other",
+    "becoming-woman",
+    "feminism"
+   ],
+   "relation": "Argues that Narnia is 'unfriendly to the feminine' by reading Susan's exclusion from Aslan's country at the end of The Last Battle ('no longer a friend of Narnia', too interested in nylons and invitations) as the fate of the one heroine who stays stereotypically feminine. It shows that the admired girls (Lucy, Aravis, Jill) succeed only by approximating a masculine standard of adventure, applying Beauvoir's point that measuring women against a male norm implies something wrong with femaleness itself. It further traces how evil in Narnia wears a feminine face: the Green Witch seduces Prince Rilian into Underland, the White Witch tempts Edmund and Digory where the girls resist, and the Witch's Lilith/Jinn lineage ties women to the Fall via 'Daughters of Eve'."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Chronicles of Narnia and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Chronicles of Narnia and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates",
+    "aristotle"
+   ],
+   "concepts": [
+    "plato-cave",
+    "plato-forms",
+    "socratic-method"
+   ],
+   "relation": "Takes Digory's dying remark 'It's all in Plato' as the key to the Chronicles. It compares the Professor's guided questioning of Peter and Susan about Lucy's wardrobe testimony to the Socratic method, though noting he supplies evidential maxims rather than eliciting a virtue-definition as Socrates does with Cephalus on justice. It maps Underland in The Silver Chair onto the Allegory of the Cave (Rilian bound in his silver chair like the chained prisoners, the Green Witch's enchantment that denies any world beyond), observing that the Witch 'plays Aristotle' by ridiculing Aslan as an invented perfect Form, while Puddleglum's 'stand by the play-world' speech echoes Socrates's reply to Glaucon that the ideal pattern is none the worse for being unrealizable. Finally it reads the 'real Narnia' of The Last Battle ('world within world, Narnia within Narnia') as Christian Platonism, with the nested heavens even raising Plato's Third Man problem."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Chronicles of Narnia and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "descartes",
+    "aristotle"
+   ],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity",
+    "ship-of-theseus"
+   ],
+   "relation": "Uses Narnia's magical transformations to probe personal identity, starting with the qualitative/numerical identity distinction illustrated by the look-alike twins Shasta and Corin in The Horse and His Boy. Aristotle's essential/accidental properties frame the question of what Eustace can lose and remain Eustace, including turning into a dragon, and Rabadash into a donkey, showing persons are not identical to their bodies. Descartes's soul argument and Locke's memory theory are tested and rejected, the latter because it cannot handle Rilian's enchanted amnesia, Shasta's forgotten infancy, or Susan's disowned memories without circularity. The chapter defends instead a first-person-perspective theory on which a person is constituted by, not identical to, a body, illustrated by the repeatedly repaired Dawn Treader and by the heroes surviving death in The Last Battle as restored points of view."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The Chronicles of Narnia and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "plato"
+   ],
+   "concepts": [
+    "master-slave-morality",
+    "plato-tripartite-soul",
+    "scientism"
+   ],
+   "relation": "Reads Eustace, Uncle Andrew, Experiment House, and Miraz's censored Narnia as Lewis's portraits of modern secularism, which treats the world as mere resource and dismisses the transcendent regardless of evidence. It argues that denying intrinsic value collapses into a Nietzschean master morality of power, visible in Uncle Andrew's use of the children as guinea pigs and the Lone Islands' slave trade, and exposes the secular 'conditioner's' self-exemption as a violation of the Principle of Relevant Difference. Against the Green Witch's debunking of Puddleglum's sun and Aslan as copies of a lamp and a cat, it deploys the Platonic-Cartesian copy/original model of ideas to argue transcendent ideas (eternity, perfection, necessary being) cannot be derived from lower material causes, suggesting instead that the material world is the 'shadowland' copy of a divine original."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - The Chronicles of Narnia and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "boethius"
+   ],
+   "concepts": [
+    "fate-vs-free-will",
+    "time-travel"
+   ],
+   "relation": "Starts from Narnia's time discrepancies (hours in the wardrobe, reigns of years that cost seconds in England, 1303 Narnian years in one) and shows Einstein's relativity makes different time frames plausible before admitting science cannot explain Aslan's 'I call all times soon'. It interprets that claim through Boethius's doctrine of God's timelessness, the eternal present embracing all moments as a simultaneous whole, and defends its compatibility with creaturely free choice: not even Aslan can override the Dwarfs' self-imprisoned perception or force Uncle Andrew to hear him. The chapter closes on the end of Narnian time in The Last Battle, Father Time making an end, and Aslan's timeless country as the fuller reality the temporal world shadowed."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - The Chronicles of Narnia and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - The Chronicles of Narnia and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "augustine"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "punishment-theory"
+   ],
+   "relation": "Frames the problem of pain with Hume's Dialogues (Demea and Philo) and reconstructs Lewis's answer as played out on Aslan: pain is God's megaphone that rouses Edmund on the Witch's frozen sledge and strips Eustace's dragon skin in the transforming embrace. Suffering also reveals hidden strengths, as when Aslan's pursuit goads Shasta into unexpected courage, modeled on Augustine's reading of the binding of Isaac as teaching Abraham, not God, what Abraham could endure. Aravis's claw wounds are treated as retributive punishment, tear for tear, exactly proportioned to the drugged slave's whipping, which the chapter defends via Lewis's retributivist theory against purely deterrent punishment. Because divine goodness aims at making creatures good rather than merely happy, Aslan can be both good and terrible, 'not a tame lion', since free will cannot be coerced into perfection."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Chronicles of Narnia and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "religious-pluralism"
+   ],
+   "relation": "Argues that Lewis is an inclusivist about salvation, not a universalist or pluralist: Shift and the self-enclosed Dwarfs are lost, and Aslan explicitly denies being one with Tash, yet Emeth's service to Tash is counted by Aslan as service to him ('all find what they truly seek'). Shasta's providential guidance by a lion he has never heard of, and Jill being saved by drinking from the one stream before knowing whose stream it is, illustrate that the water saves, not knowledge about the water. The chapter supports inclusivism over exclusivism with Lewis's Mere Christianity passages, the 'ought implies can' justice argument against condemning those who never heard the gospel, and Rabadash's healing in Tash's own temple as Aslan working through pagan means."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - The Chronicles of Narnia and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "forgiveness"
+   ],
+   "relation": "Reconstructs Narnian atonement as the early Christian Ransom Theory: Digory's confession, remorse, and 'undoing' of his wrong in The Magician's Nephew, and Aslan giving his life as ransom for Edmund against the Witch's Deep Magic claim in The Lion, the Witch, and the Wardrobe, ending with the Deeper Magic that cracks the Stone Table. It answers John Lucas's four objections (literal Satan, Satan's rights, God negotiating with evil, divine deception) by treating evil as self-chosen bondage whose doors are 'locked on the inside', arguing Aslan's sacrificial identification with wrongdoers displays a love that mere omnipotent force could not, and that wrongdoers like the Witch are not owed full disclosure. It also defends mercy's tension with strict justice, via the example of a deserving prisoner mercifully freed, and finds humor rather than crudeness in Peter Lombard's cross-as-mousetrap image."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - The Chronicles of Narnia and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "anscombe"
+   ],
+   "concepts": [
+    "faith-vs-reason",
+    "argument-from-reason"
+   ],
+   "relation": "Debunks the 'Anscombe legend' that Lewis abandoned rational apologetics for children's stories after his 1948 Socratic Club defeat by Elizabeth Anscombe over the argument that naturalism is self-refuting. It shows Lewis revised and expanded the argument in the 1960 Miracles, incorporating Anscombe's reasons/causes distinction, and kept writing apologetic essays, while the Professor's trilemma about Lucy (liar, lunatic, or truthful) mirrors the Trilemma of Mere Christianity and shows Narnia using logic, not fleeing it. It rejects A.N. Wilson's identification of the Green Witch with Anscombe and argues the Chronicles teach that prudence and faith are compatible virtues: Edmund's rationalizing, Trumpkin's honest skepticism, and Puzzle's blind trust in Shift all show that fideistic faith is a vice, not what Lewis asks of children."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - The Chronicles of Narnia and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "aquinas"
+   ],
+   "concepts": [
+    "immortality",
+    "problem-of-evil",
+    "buddhist-karma"
+   ],
+   "relation": "Observes that only Talking Animals enter Aslan's country when Narnia ends in The Last Battle, then critically examines Lewis's case against wider animal salvation: derivative immortality through human love (Sarah Smith's train of beasts in The Great Divorce), compensation of animal pain in an afterlife, Lewis's follow-Descartes claim that most animals are sentient but not conscious enough to feel pain or have a surviving 'self'. The chapter argues each point fails: the physiological evidence shows animals suffer, resurrection or God-given souls remain possible (Strawberry's transformation into a winged Talking horse), and a compensatory hereafter is still the most promising answer to why a loving God permits the fawn's miserable death. Aquinas's rational-creature hierarchy frames the Talking/Dumb divide, and the Hindu-Buddhist rebirth theodicy is considered and rejected as unbiblical."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - The Chronicles of Narnia and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 38,
+   "file": "ch38 - The Chronicles of Narnia and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 39,
+   "file": "ch39 - The Chronicles of Narnia and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 29,
+   "type": "concept",
+   "suggested_slug": "scientism",
+   "name": "Scientism",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The view that only naturalistic science makes objective cognitive claims, relegating ethics and religion to subjective preference.",
+   "why": "Chapter 29 names scientism explicitly as the core of the modern secularism it critiques: Eustace's 'Experiment House' schooling and the Professor's 'why don't they teach logic' complaint turn on scientism's exclusion of religious and ethical answers from knowledge."
+  },
+  {
+   "ch": 33,
+   "type": "concept",
+   "suggested_slug": "religious-pluralism",
+   "name": "Religious Pluralism, Inclusivism and Exclusivism",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "The debate over soteriology: whether all great religions save (pluralism), whether one religion is true but salvation is possible outside explicit membership (inclusivism), or whether explicit belonging is required (exclusivism).",
+   "why": "Chapter 33's entire argument is a fourfold classification of universal salvation, pluralism, inclusivism, and exclusivism applied to Emeth, Shasta, and Jill to show Lewis is an inclusivist; no existing taxonomy slug covers this debate."
+  },
+  {
+   "ch": 34,
+   "type": "concept",
+   "suggested_slug": "atonement-ransom-theory",
+   "name": "Ransom Theory of Atonement (Christus Victor)",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "The early Christian view (Origen and the Greek fathers) that Christ's death is a ransom or exchange that liberates humanity from bondage to sin, Satan, and death, with evil defeated by its own devices.",
+   "why": "Chapter 34 argues Aslan's ransom of Edmund from the Witch's Deep Magic embodies the Ransom Theory and defends it against John Lucas's objections; the taxonomy has no atonement concept of any kind."
+  },
+  {
+   "ch": 35,
+   "type": "concept",
+   "suggested_slug": "argument-from-reason",
+   "name": "The Argument from Reason",
+   "philosopher": "anscombe",
+   "domain": "religion-meaning",
+   "what": "Lewis's argument that naturalism is self-defeating because if all beliefs are produced by non-rational physical causes, rational inference, and hence belief in naturalism, cannot be trusted; sharpened by Anscombe's distinction between reasons and causes.",
+   "why": "Chapter 35 centers on the 1948 Lewis-Anscombe debate over this argument, its 1960 revision, and whether Narnia's Green Witch episode responds to it; 'faith-vs-reason' does not capture this specific argument."
+  }
+ ]
+}

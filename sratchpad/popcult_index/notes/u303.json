@@ -1,0 +1,135 @@
+{
+  "book": "212 - The Olympics and Philosophy",
+  "unit": "u303",
+  "chapters": [
+    {
+      "n": 5,
+      "file": "ch05 - The Olympics and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 6,
+      "file": "ch06 - The Olympics and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 7,
+      "file": "ch07 - The Olympics and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 8,
+      "file": "ch08 - The Olympics and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle"],
+      "concepts": ["aristotle-virtue-ethics", "aristotle-eudaimonia", "virtue-ethics"],
+      "relation": "Michael Austin argues that a truly Olympic greatness requires moral, not merely athletic, excellence, reading Aristotle's magnanimity (megalopsychia, 'greatness of soul') as the crowning virtue that unifies all others. He tests this against three Olympians: bobsledder Eugenio Monti, who lent a rival team a part and lost gold; sprinter Wilma Rudolph, who forced her homecoming parade to be integrated; and runner Emil Zatopek, who gave away his gold medal and defied the Soviet invasion of Prague. Using Robert Adams's idea of 'modules of virtue,' he explains why some champions show self-control in sport but not in life, whereas the magnanimous person holds every virtue across every domain."
+    },
+    {
+      "n": 9,
+      "file": "ch09 - The Olympics and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["machiavelli"],
+      "concepts": ["machiavelli-virtu", "machiavelli-ends"],
+      "relation": "Raymond Belliotti reads the twenty-year Olympic career of Italian sprinter Pietro Mennea, 'The Southern Arrow,' through Machiavelli's concept of virtu, the excellence relevant to one's function that lets a person master Fortuna. He distinguishes Machiavelli's military, political, civic, moral, and artistic virtu (using the Agathocles passage and the Life of Castruccio Castracani) and argues Mennea's physical prowess, mental toughness, and turning of anti-southern prejudice into motivation exemplify athletic virtu. Machiavelli would scoff at Olympic ideals of peace and brotherhood but relish the fierce international competition and the discipline of sport that Mennea embodied through his 1980 Moscow gold and later political career."
+    },
+    {
+      "n": 10,
+      "file": "ch10 - The Olympics and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche", "emerson"],
+      "concepts": ["amor-fati", "emerson-self-reliance", "will-to-power"],
+      "relation": "Scott Parker argues that distance runner Steve Prefontaine, who finished a medal-less fourth at Munich 1972, embodied the true essence of the Olympics better than any champion, an essence he identifies with Nietzsche's 'higher man' and Emerson's self-reliance rather than winning. He aligns Pre's front-running, effort, confidence, and will with Nietzschean self-overcoming and life-affirmation and Emersonian self-valuation, arguing value is what the valuer assigns himself through hard work. Reading Pre's exhausted stumble to the finish as a possible enactment of amor fati, love of fate, Parker holds that if Pre did his best he should love rather than merely accept his defeat."
+    },
+    {
+      "n": 11,
+      "file": "ch11 - The Olympics and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 12,
+      "file": "ch12 - The Olympics and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche", "plato", "socrates"],
+      "concepts": ["plato-tripartite-soul", "apollonian-dionysian"],
+      "relation": "Paul Cantor and Peter Hufnagel use Nietzsche's essay 'Homer's Contest' to argue that the competitive spirit the Greeks called thumos links philosophy and athletics, presenting Plato's dialogues as 'the Olympics of philosophy' in which Socrates is the last man standing. They trace thumos as the spirited third part of the soul in Plato's Republic, the guardians' quality that reason must tame through gymnastics and music, and as the force Socrates enlists to win the thumotic youths Glaucon and Adeimantus to philosophy. They then read Achilles in the Iliad and its funeral games in Book XXIII as a build-up/discharge/calm cycle of thumos, offering athletics as Homer's alternative channel for the same warlike energy."
+    },
+    {
+      "n": 13,
+      "file": "ch13 - The Olympics and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "camus"],
+      "concepts": ["aristotle-virtue-ethics", "aristotle-eudaimonia", "sisyphus", "aristotle-golden-mean"],
+      "relation": "Through an imagined Greek play featuring the Spartan 'trembler' Aristodemus and an Avery-Brundage-like IOC president, Jesus Ilundain-Agurruza argues for rethinking the Olympic motto and creed around three Greek virtues, aretE (excellence), andreia (courage), and kalon (noble beauty), grounded in Aristotle's virtue ethics, the mean, and eudaimonia. Using the Spartans exercising on the eve of Thermopylae, he defends a collaborative, non-instrumental conception of competition against record-obsession and cheating, exemplified by Eugenio Monti and Cecil Healy. He closes with Camus's Sisyphus, arguing the athlete pushes the rock in the spirit of aretE, spending energy joyfully 'just because,' turning punishment into sport."
+    },
+    {
+      "n": 14,
+      "file": "ch14 - The Olympics and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["plato", "aristotle", "socrates"],
+      "concepts": ["aristotle-virtue-ethics", "plato-tripartite-soul", "aristotle-eudaimonia"],
+      "relation": "Heather Reid interprets the Olympic Charter's first Fundamental Principle through the ancient ideal of aretE, arguing the metaphysical structure of sport, contests that create purposeless obstacles, exists to cultivate and celebrate human excellence rather than to beat opponents or make money. Citing Plato the wrestler, Suits's definition of game-playing, and Homer's funeral games, she maps five virtues onto sport: eusEbeia (reverence for ideals beyond oneself), andreia (courageous endurance in agOn), sOphrosynE (harmonious power and control), dikaiosynE (justice as rule-order and proper function), and sophia (the athlete's pursuit of truth about human capacity, akin to 'flow'). The goal she proposes is the 'Olympian soul.'"
+    },
+    {
+      "n": 15,
+      "file": "ch15 - The Olympics and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 16,
+      "file": "ch16 - The Olympics and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["husserl", "levinas", "merleau-ponty"],
+      "concepts": ["phenomenology", "intentionality", "levinas-face"],
+      "relation": "Douglas McLaughlin and Cesar Torres argue that Coubertin's vague Olympism is best clarified by the phenomenological concept of intersubjectivity developed by Husserl, Merleau-Ponty, and Levinas. Treating competitive sport (via Suits's lusory attitude and the 'testing family' notion of a mutual quest for excellence) as inherently social, they use intersubjectivity to dissolve the apparent contradiction between the motto's excellence and the creed's participation, since one's victory is meaningful only through worthy opponents one is answerable to. Invoking Levinas's ethics of the face, they ground Olympic values of mutual respect, fairness, and peace in the reciprocity athletes owe one another 'running shoulder to shoulder.'"
+    },
+    {
+      "n": 17,
+      "file": "ch17 - The Olympics and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["hegel"],
+      "concepts": ["cosmopolitanism-ethics", "grand-narratives", "hegel-recognition"],
+      "relation": "Milan Hosta traces a dialectical line from the individual athlete through nationalism and internationalism to the transnational Olympic movement, arguing individualism 'turns into itself again' since the whole order is reproduced by individuals like Paavo Nurmi ('I run for myself, not for Finland'). He reads Coubertin's 'sincere internationalism' as a moral epistemology of knowing others (glossed via Morgan and a Hegelian account of tolerance as recognizing but not truly accepting difference) against the hollow cosmopolitanism of tourism and 'popular ethnography.' Drawing on postmodern pluralism and the end of grand narratives, plus Hardt and Negri's Empire, he frames the IOC as a peace-preaching yet blood-bathed transnational power sustained by record-seeking individuals."
+    },
+    {
+      "n": 18,
+      "file": "ch18 - The Olympics and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "aristotle", "plato"],
+      "concepts": ["categorical-imperative", "virtue-ethics", "plato-euthyphro"],
+      "relation": "Jeffrey Fry imagines adding 'Virtuous' to the Olympic motto and awarding medals for moral excellence, then argues the reform faces near-insuperable hurdles. Drawing on Kant, he objects that rewarding virtue corrupts motive, since a morally worthy act must be done from duty, not for a prize (illustrated by a hypothetical rule giving basketball teams a point for helping up fallen opponents), and notes Kant reserves the just apportioning of happiness to God's omniscience, which human judges lack. He adds epistemological problems (cross-cultural disagreement about virtues, echoing Plato's Euthyphro; the opacity of motives and courage) and political ones (biased judges, nations losing face), proposing instead rare, formal recognition of extraordinary acts like Dorando Pietri's and coach Haakensmoen's."
+    },
+    {
+      "n": 19,
+      "file": "ch19 - The Olympics and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 20,
+      "file": "ch20 - The Olympics and Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["rawls"],
+      "concepts": ["applied-ethics", "utilitarianism", "veil-of-ignorance"],
+      "relation": "Stephen Kershnar examines the three strongest arguments for the IOC's ban on performance-enhancing drugs, harm-to-self, harm-to-others, and unfairness, and argues each fails, using cases such as Ben Johnson's stripped 1988 gold and Marion Jones. Against harm-to-self he cites anti-paternalism and the far greater accepted risks of NFL play and boxing; against harm-to-others he shows PED pressure is no different from the pressure of rivals' superior training (a Prisoner's Dilemma leagues need not solve); against unfairness he tests four accounts of fairness, including a Rawlsian veil-of-ignorance model whose choosers might find banning steroids while allowing Lasik and high-tech gear arbitrary. He concludes the ban, if justified at all, rests only on contested utilitarian grounds like audience preference and protecting children."
+    }
+  ],
+  "holes": []
+}

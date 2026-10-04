@@ -1,0 +1,175 @@
+{
+  "book": "253 - Asimov's Foundation and Philosophy - Psychohistory and Its Discontents",
+  "unit": "u366",
+  "chapters": [
+    {
+      "n": 2,
+      "file": "ch02 - Start to Contents.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 3,
+      "file": "ch03 - Title Page.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 4,
+      "file": "ch04 - Copyright.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 5,
+      "file": "ch05 - Contents.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 6,
+      "file": "ch06 - In the Wrong Hands, It\u2019s a Weapon\u2014in the Right Hands, Deliverance.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["free-will-determinism"],
+      "relation": "The editors' introduction frames Foundation's central conceit, psychohistory, as a vehicle for the question of determinism: if the chain of events from the founding of Rome to the reader's own hands was fixed by preceding causes, only a predictor's lack of information stands between us and perfect foresight. It uses Gibbon's Decline and Fall (Asimov's model) to raise whether the fall of empires must happen as it does, and previews the volume's further questions about obligations to future generations, science versus religion, and the ethics of deception and robot programming."
+    },
+    {
+      "n": 7,
+      "file": "ch07 - I. Foundation and Reason \u201cCuriosity isn\u2019t a crime here.\u201d.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 8,
+      "file": "ch08 - 1. Is Rationality an Illusion.md",
+      "kind": "chapter",
+      "philosophers": ["hume", "plato", "descartes"],
+      "concepts": ["hume-sentimentalism", "plato-tripartite-soul"],
+      "relation": "Litman and Zelcer argue that Foundation dramatizes Hume's thesis that reason is the slave of the passions: the robot Demerzel (Daneel Olivaw) and the mutant Mule accomplish history by directly amplifying emotions like Seldon's pride, after which their victims' reason confabulates rational justifications (motivated reasoning). They trace the emotion-versus-reason debate from Plato's tripartite charioteer soul through Aristotle's rational animal and Christian moral psychology to Hume's secularized version, and use the Wye rebellion and Pritcher's converted loyalty to show emotional manipulation works like an optical illusion, persisting even once the victim knows about it."
+    },
+    {
+      "n": 9,
+      "file": "ch09 - 2. Socrates\u2019s City and Seldon\u2019s Galaxy.md",
+      "kind": "chapter",
+      "philosophers": ["plato", "socrates"],
+      "concepts": ["plato-justice", "noble-lie", "plato-cave"],
+      "relation": "Goldberg maps Plato's Republic onto Asimov's Foundation Trilogy: Socrates's three-class city (Guardians, Auxiliaries, Producers ruling by knowledge of the Forms) parallels Seldon's galaxy (Second Foundationers, First Foundationers, and everyone else, ruling by the abstract mathematics of psychohistory), with the tyrannical Thrasymachus paralleling the Mule. He shows the Prime Radiant functions as Plato's Allegory of the Cave, and that both Guardians and Second Foundationers govern through 'noble lies' (the metals myth; the Encyclopedia sham and the Second Foundation's fake destruction), then questions whether those lies are truly noble given doubts about objective truth."
+    },
+    {
+      "n": 10,
+      "file": "ch10 - 3. How Symbolic Logic Saved the Foundation.md",
+      "kind": "chapter",
+      "philosophers": ["russell", "frege"],
+      "concepts": ["sense-reference"],
+      "relation": "Tepley argues symbolic logic is an unsung hero of Foundation: Salvor Hardin translates the Empire-Anacreon treaty and Lord Dorwin's assurances into symbolic logic and shows ninety percent 'boils out' as meaningless, proving the Empire owes Anacreon nothing and emboldening his coup. He explains propositional and predicate logic (validity, soundness, tautologies, quantifiers) and reconstructs how logical analysis exposes the treaty's tautologies and unsupported conditionals, while noting the idea came from editor John W. Campbell during the Logical-Positivist heyday and sparked psychohistory itself."
+    },
+    {
+      "n": 11,
+      "file": "ch11 - II. Foundation and History \u201cHistory is the ultimate weapon, because it harnesses time itself.\u201d.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 12,
+      "file": "ch12 - 4. Demons, Game Shows, and Baguettes.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["free-will-determinism", "hume-induction"],
+      "relation": "Wenmackers traces psychohistory's scientific lineage from Newtonian determinism through Laplace's demon, arguing Foundation stays within nineteenth-century limits by predicting only probabilities. She uses Newcomb's Paradox to capture the unease of living under a predicted Seldon Plan, Poincare's chaos and the three-body problem to show determinism need not mean predictability, and Poincare's baguette-fraud tale plus Quetelet's social physics and statistical mechanics to explain psychohistory's core assumption that mobs of billions behave lawfully even when individuals do not. She suggests Seldon's science was in some sense historically inevitable."
+    },
+    {
+      "n": 13,
+      "file": "ch13 - 5. Psychohistory by Any Other Name.md",
+      "kind": "chapter",
+      "philosophers": ["hegel"],
+      "concepts": ["hegel-history", "historical-materialism"],
+      "relation": "Petersen defends keeping the label 'psychohistory' by tying it to Edward Gibbon's Decline and Fall, showing Seldon's cited causes of imperial collapse and his use of religion as foreign-policy instrument mirror Gibbon's account of Rome. He locates psychohistory within critical (not speculative/Hegelian-teleological) philosophy of history, then compares it to Peter Turchin's 'cliodynamics', which borrows statistical mechanics and nonlinear dynamics to make history predictive, noting both share Asimov's kinetic-theory-of-gases model while facing the objection that human contingency (the Mule) resists mathematization."
+    },
+    {
+      "n": 14,
+      "file": "ch14 - 6. The Foundations of Psychohistory.md",
+      "kind": "chapter",
+      "philosophers": ["descartes", "locke"],
+      "concepts": ["cartesian-doubt", "tabula-rasa"],
+      "relation": "Irish roots psychohistory in the seventeenth- and eighteenth-century clash between rationalism and empiricism over whether history can be a science. Descartes's mathematical, a priori method (which bred an 'anti-historical skepticism') is the ancestor of Seldon's dream of mathematizing human behavior, while Locke's empiricism and probabilistic knowledge inspired Gibbon's defense of historical evidence. Irish stages the Ancients-versus-Moderns debate through the Lord Dorwin / Salvor Hardin exchange over first-hand versus armchair scholarship, and contrasts Gibbon's moral, backward-looking history with Seldon's amoral, forward-looking prediction."
+    },
+    {
+      "n": 15,
+      "file": "ch15 - 7. History as Creativity.md",
+      "kind": "chapter",
+      "philosophers": ["deleuze", "aristotle", "nietzsche"],
+      "concepts": ["rhizome", "aristotle-four-causes"],
+      "relation": "Magomedov reads the Seldon Plan as an 'artificial teleology' imposed on a history that is intrinsically open and contingent: because psychohistory yields only probabilities (Trantor's 92.5 percent, never 100), every Seldon Crisis leaves an infinitesimal gap through which an alternate future can break. Against Aristotelian and Hegelian teleology, he uses Deleuze and Guattari's concepts of territorialization and deterritorialization, plus Nietzsche's idea that a thing's essence is fixed by the forces that seize it, to argue that resolving a crisis requires creativity, and Hardin's inventive balance-of-power solution versus Sermak's stagnant 'attack first' shows Seldon's will surviving only where a force refuses to merely repeat the past."
+    },
+    {
+      "n": 16,
+      "file": "ch16 - III. Foundation and Faith \u201cThe search for meaning is not always about the answer. It\u2019s also the process of see.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 17,
+      "file": "ch17 - 8. Between Cynicism and Faith.md",
+      "kind": "chapter",
+      "philosophers": ["marx"],
+      "concepts": ["marx-ideology", "culture-industry"],
+      "relation": "Buhlert contrasts the Apple TV+ series' reverent treatment of religion (the sincere anti-science faith of Synnax, the elaborate Luminism whose 'walking the spiral' ritual seems to vindicate that clones lack souls) with Asimov's cynical originals, where religion is Marx's 'opium of the people'. She shows the fake religion of Scientism in 'The Mayors' and the hypocritical Askonian elders in 'The Traders' treat faith as an instrument of control, situates this within Golden Age SF (Leiber's Gather, Darkness!, de Camp's Lest Darkness Fall) and its techno-optimism, and speculates on why the showrunners omitted Scientism."
+    },
+    {
+      "n": 18,
+      "file": "ch18 - 9. Foundation\u2019s Optimism.md",
+      "kind": "chapter",
+      "philosophers": ["leibniz", "arendt", "hegel"],
+      "concepts": ["problem-of-evil", "best-possible-world", "banality-of-evil"],
+      "relation": "McCrossin reads the sequels Foundation's Edge and Foundation and Earth as an Optimistic response to the problem of evil, in the lineage of Leibniz, Rousseau, and Hegel's 'All is well', set against the WWII, Holocaust, Nuremberg, and Eichmann-trial backdrop of Asimov's writing and Arendt's banality of evil. Tracking Gendibal's mantra 'all will happen well', the Gaia/Galaxia choice via Trevize's 'talent for rightness', and Daneel Olivaw's Zeroth Law and plan to merge with Fallom's brain, he uses the Book of Job to frame whether the series' recurring reassurance is earned or merely reframed."
+    },
+    {
+      "n": 19,
+      "file": "ch19 - 10. The Dao of Psychohistory.md",
+      "kind": "chapter",
+      "philosophers": ["confucius", "laozi", "zhuangzi"],
+      "concepts": ["wu-wei", "the-tao", "zhuangzi-perspectivism"],
+      "relation": "Fried reframes Asimov's binary (do individual choices matter to history?) through four Chinese theories of non-action (wu wei). Confucian non-action, ruling by moral example and retiring under an unjust ruler, illuminates Onum Barr's dignified private life; the Dao De Jing's mystical libertarianism, where people self-transform when the ruler stops intervening, resembles Gaia's ruler-less holism; Legalist impersonal non-action (Han Fei's ruler who hides his desires and lets harsh law act) has no clear Foundation analogue; and Zhuangzi's useless tree models Gaal Dornick's TV arc, in which she reclaims agency precisely by choosing private non-action over a scripted role in galactic history."
+    },
+    {
+      "n": 20,
+      "file": "ch20 - 11. An Interstellar Leap of Faith.md",
+      "kind": "chapter",
+      "philosophers": ["hegel", "kierkegaard", "marx"],
+      "concepts": ["hegel-dialectic", "leap-of-faith", "historical-materialism"],
+      "relation": "Barta and Lee read Seldon's Plan as a providence narrative and stage a three-way debate over it. Hegel's dialectical, Spirit-driven history (thesis-antithesis-synthesis, even yielding 'psycho-history' as a synthesis) is mirrored in the Foundation's succession of ruling crises and its Encyclopedia Galactica as absolute knowledge. Kierkegaard's leap of faith describes how Foundationists obey a plan they cannot see and whose Vault confirms only in hindsight, an ignorance the Plan actually requires (an observer effect). Marx's materialist dialectic appears in Hober Mallow's 'historic forces' and the priesthood of the Galactic Spirit as ideological control, but the authors argue the Foundationists' sincere faith in Seldon nests all critiques back inside a Hegelian providence."
+    },
+    {
+      "n": 21,
+      "file": "ch21 - IV. Foundation and Science \u201cFor it is the chief characteristic of the religion of science that it works.\u201d.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 22,
+      "file": "ch22 - 12. Raven Seldon Predicts Disaster.md",
+      "kind": "chapter",
+      "philosophers": ["hume", "popper"],
+      "concepts": ["hume-induction", "falsification"],
+      "relation": "Malloy argues psychohistory rests on induction and therefore inherits Hume's problem of induction: Seldon generalizes from Trantor's past to predict the Empire's fall, but nothing guarantees the future will resemble the past, and the Mule's unprecedented rise shows there is no deductive guarantee (the future-unlike-past idea is not self-contradictory). He tests Popper's falsificationism, under which psychohistory is science because it makes falsifiable predictions and can never be confirmed, then notes Popper leaves hypothesis-origin and post-failure revision inductive, and finally offers Reichenbach's pragmatic 'vindication' of induction, likening it to Hardin making do with the only tools at hand in a Seldon Crisis."
+    }
+  ],
+  "holes": []
+}

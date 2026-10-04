@@ -1,0 +1,107 @@
+[
+ {
+  "key": "confucian-junzi",
+  "name": "The Junzi (exemplary person)",
+  "kind": "concept",
+  "philosopher": "Confucius",
+  "domain": "Eastern & World Philosophy"
+ },
+ {
+  "key": "rectification-of-names",
+  "name": "Rectification of Names",
+  "kind": "concept",
+  "philosopher": "Confucius",
+  "domain": "Eastern & World Philosophy"
+ },
+ {
+  "key": "mencius-good-nature",
+  "name": "Human Nature Is Good",
+  "kind": "concept",
+  "philosopher": "Mencius",
+  "domain": "Eastern & World Philosophy"
+ },
+ {
+  "key": "xunzi-bad-nature",
+  "name": "Human Nature Is Bad (and needs ritual)",
+  "kind": "concept",
+  "philosopher": "Xunzi",
+  "domain": "Eastern & World Philosophy"
+ },
+ {
+  "key": "taoism",
+  "name": "Taoism (Daoism)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "Eastern & World Philosophy"
+ },
+ {
+  "key": "the-tao",
+  "name": "The Tao (the Way)",
+  "kind": "concept",
+  "philosopher": "Laozi",
+  "domain": "Eastern & World Philosophy"
+ },
+ {
+  "key": "wu-wei",
+  "name": "Wu Wei (effortless action)",
+  "kind": "concept",
+  "philosopher": "Laozi",
+  "domain": "Eastern & World Philosophy"
+ },
+ {
+  "key": "zhuangzi-perspectivism",
+  "name": "Zhuangzi's Perspectivism (butterfly dream)",
+  "kind": "concept",
+  "philosopher": "Zhuangzi",
+  "domain": "Eastern & World Philosophy"
+ },
+ {
+  "key": "yin-yang",
+  "name": "Yin and Yang",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "Eastern & World Philosophy"
+ },
+ {
+  "key": "sun-tzu-strategy",
+  "name": "Strategy Without Conflict",
+  "kind": "concept",
+  "philosopher": "Sun Tzu",
+  "domain": "Eastern & World Philosophy"
+ },
+ {
+  "key": "buddhism",
+  "name": "Buddhism",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "Eastern & World Philosophy"
+ },
+ {
+  "key": "four-noble-truths",
+  "name": "The Four Noble Truths",
+  "kind": "concept",
+  "philosopher": "The Buddha",
+  "domain": "Eastern & World Philosophy"
+ },
+ {
+  "key": "buddhist-impermanence",
+  "name": "Impermanence (anicca)",
+  "kind": "concept",
+  "philosopher": "The Buddha",
+  "domain": "Eastern & World Philosophy"
+ },
+ {
+  "key": "buddhist-non-self",
+  "name": "Non-Self (anatman)",
+  "kind": "concept",
+  "philosopher": "The Buddha",
+  "domain": "Eastern & World Philosophy"
+ },
+ {
+  "key": "buddhist-karma",
+  "name": "Karma and Rebirth",
+  "kind": "concept",
+  "philosopher": "The Buddha",
+  "domain": "Eastern & World Philosophy"
+ }
+]

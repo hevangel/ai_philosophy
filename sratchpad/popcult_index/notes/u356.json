@@ -1,0 +1,108 @@
+{
+ "book": "242 - Joss Whedon as Philosopher",
+ "unit": "u356",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Acknowledgments.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Photo Credits and Captions.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "sartre",
+    "heidegger"
+   ],
+   "concepts": [
+    "unexamined-life",
+    "authenticity",
+    "existentialism",
+    "film-as-philosophy"
+   ],
+   "relation": "The introduction sets the book's guiding question of whether a fictional-narrative filmmaker (specifically Joss Whedon) can 'do philosophy' the way traditional philosophers do, using Whedon's television and film corpus as its test case. It frames philosophy as an activity of removing contradictions through argument and pursuing the examined life, invoking Socrates on the unexamined life and Sartrean/Heideggerian existentialism to argue that Whedon's Buffy, Angel, Firefly, and Dollhouse dramatize authenticity and choice. It previews reading Whedon's characters (Angel, Mal, Buffy) against Rawls, Plato, Aristotle, Kant, and Parfit to establish that the Whedonverse is genuinely philosophical."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - The Peculiarities of Free Will.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "sartre",
+    "aristotle",
+    "plato",
+    "kant"
+   ],
+   "concepts": [
+    "authenticity",
+    "plato-ring-of-gyges",
+    "aristotle-friendship",
+    "free-will-determinism"
+   ],
+   "relation": "This file collects Part I's chapters, arguing the Whedonverse embodies serious philosophy. It reads Angel, Buffy, Simon Tam, Echo, and the Avengers through Heidegger's inauthenticity/angst and Sartre's existentialism (Dr. Horrible and the Operative as inauthentic 'monsters'), then adds Rawls and Aristotle to claim some authentic lives are better led, using Gyges's ring (in 'Gone' and 'In the Dark') and Aristotelian friendship (Team Angel, Serenity's crew) as touchstones. It defends an atheistic moral realism via Kant on personhood and Locke's natural rights (Mal insisting Saffron is 'no one's property'), and closes on free will: reading The Shepherd's Tale, Dollhouse, and The Cabin in the Woods against d'Holbach's hard determinism, Flamson's compatibilism, and Robert Kane's libertarian self-forming actions (Connor's choice in 'Inside Out')."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Angel, Angelus, and Personal Identity.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "parfit",
+    "mill",
+    "aristotle",
+    "plato"
+   ],
+   "concepts": [
+    "personal-identity",
+    "care-ethics",
+    "utilitarianism",
+    "locke-personal-identity",
+    "film-as-philosophy"
+   ],
+   "relation": "This file gathers Part II, arguing Whedon actually philosophizes through film. It works through the film-as-philosophy debate (Mulhall's 'bold thesis' and its critics Baggini, Smith, Livingston, Russell, and Wartenberg), using 'Hush' as a Zen-like case that resists linguistic paraphrase and The Cabin in the Woods to pit Mill's utilitarianism against Noddings's ethics of care (Dana refusing to kill Marty to save the world). Its capstone treats the Angel/Angelus problem as a personal-identity thought experiment, staging the soul theory (Plato), body theory (Hobbes/Holtz), and Locke's and Parfit's memory/psychological-continuity theories, and arguing Whedon's eight-season Angel-Angelus and Fred-Illyria cases serve as a cinematic counterexample to Neo-Lockean continuity, ultimately endorsing a care-based view of what matters in identity."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 5,
+   "type": "concept",
+   "suggested_slug": "film-as-philosophy",
+   "name": "Film as Philosophy",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The thesis that fictional narrative films (or their makers) can themselves do philosophy, not merely illustrate it.",
+   "why": "Chapter 5 (the Introduction) states the book's central organizing question as exactly this thesis, and the taxonomy has no concept or philosopher covering aesthetics/philosophy-of-film's film-as-philosophy debate."
+  },
+  {
+   "ch": 7,
+   "type": "concept",
+   "suggested_slug": "film-as-philosophy",
+   "name": "Film as Philosophy",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The thesis that fictional narrative films can philosophize via cinematic means, conveying arguments and thought experiments as philosophers do.",
+   "why": "All of chapter 7's Part II (Mulhall's bold thesis, the Russell-Wartenberg debate, Cabin, and the Angel/Angelus thought experiment) is devoted to defending this thesis, which no existing taxonomy slug captures."
+  }
+ ]
+}

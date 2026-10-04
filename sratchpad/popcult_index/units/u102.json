@@ -1,0 +1,309 @@
+{
+ "unit": "u102",
+ "book": "063 - Philip K. Dick and Philosophy - Do Androids Have Kindred Spirits",
+ "part": "2/4",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\063 - Philip K. Dick and Philosophy - Do Androids Have Kindred Spirits",
+ "range": [
+  56,
+  105
+ ],
+ "chapters": [
+  {
+   "n": 56,
+   "file": "ch56 - Don\u2019t Think about It.md",
+   "words": 572
+  },
+  {
+   "n": 57,
+   "file": "ch57 -  . . You Ever Take That Test Yourself.md",
+   "words": 754
+  },
+  {
+   "n": 58,
+   "file": "ch58 - I Love You, My Artificial Construct.md",
+   "words": 831
+  },
+  {
+   "n": 59,
+   "file": "ch59 -  . . Because My Furnace Believed the House Was Cold.md",
+   "words": 474
+  },
+  {
+   "n": 60,
+   "file": "ch60 - Shaky Theological Foundations.md",
+   "words": 198
+  },
+  {
+   "n": 61,
+   "file": "ch61 - The Right Stuff.md",
+   "words": 477
+  },
+  {
+   "n": 62,
+   "file": "ch62 - Soul Against the Archons.md",
+   "words": 4
+  },
+  {
+   "n": 63,
+   "file": "ch63 - Chapter 09 - Matt Damon Is a Vast Sinister Conspiracy.md",
+   "words": 1018
+  },
+  {
+   "n": 64,
+   "file": "ch64 - A Variety of Free Will Worth Having.md",
+   "words": 856
+  },
+  {
+   "n": 65,
+   "file": "ch65 - Terrible Freedom.md",
+   "words": 706
+  },
+  {
+   "n": 66,
+   "file": "ch66 - Pre-Crime and Pre-Punishment.md",
+   "words": 985
+  },
+  {
+   "n": 67,
+   "file": "ch67 - Freedom and Madness.md",
+   "words": 432
+  },
+  {
+   "n": 68,
+   "file": "ch68 - Chapter 10 - How to Build a Democracy that Doesn\u2019t Fall Apart Two Hundred Years Later.md",
+   "words": 189
+  },
+  {
+   "n": 69,
+   "file": "ch69 - Rule of the Wise.md",
+   "words": 646
+  },
+  {
+   "n": 70,
+   "file": "ch70 - Spinning a Bottle.md",
+   "words": 484
+  },
+  {
+   "n": 71,
+   "file": "ch71 - Throwing the Rascals Out.md",
+   "words": 337
+  },
+  {
+   "n": 72,
+   "file": "ch72 - Checks and Challenges.md",
+   "words": 565
+  },
+  {
+   "n": 73,
+   "file": "ch73 - How Can Random Machinery Be Rational.md",
+   "words": 643
+  },
+  {
+   "n": 74,
+   "file": "ch74 - Giving and Selling.md",
+   "words": 799
+  },
+  {
+   "n": 75,
+   "file": "ch75 - Chapter 11 - We Can Manipulate You Wholesale.md",
+   "words": 399
+  },
+  {
+   "n": 76,
+   "file": "ch76 - Sure I Deceived You, but What about Me.md",
+   "words": 255
+  },
+  {
+   "n": 77,
+   "file": "ch77 - Finding a Lever for Manipulation.md",
+   "words": 469
+  },
+  {
+   "n": 78,
+   "file": "ch78 - Categorically, We Have an Imperative Problem.md",
+   "words": 416
+  },
+  {
+   "n": 79,
+   "file": "ch79 - Utilitarian Doesn\u2019t Necessarily Mean Coveralls.md",
+   "words": 530
+  },
+  {
+   "n": 80,
+   "file": "ch80 - Only Remembered as the Blonde Shot in the Head.md",
+   "words": 452
+  },
+  {
+   "n": 81,
+   "file": "ch81 - Like People, Like Organizations.md",
+   "words": 728
+  },
+  {
+   "n": 82,
+   "file": "ch82 - Chapter 12 - Grow, My Dears, the Eugenicist Said.md",
+   "words": 406
+  },
+  {
+   "n": 83,
+   "file": "ch83 - The Bad.md",
+   "words": 740
+  },
+  {
+   "n": 84,
+   "file": "ch84 - The Good.md",
+   "words": 1098
+  },
+  {
+   "n": 85,
+   "file": "ch85 - The Ugly.md",
+   "words": 967
+  },
+  {
+   "n": 86,
+   "file": "ch86 - And the Next Step.md",
+   "words": 354
+  },
+  {
+   "n": 87,
+   "file": "ch87 - The World Is Fake.md",
+   "words": 4
+  },
+  {
+   "n": 88,
+   "file": "ch88 - Chapter 13 - Things Are Seldom What They Seem.md",
+   "words": 157
+  },
+  {
+   "n": 89,
+   "file": "ch89 - How Are Things in Glocca Morra\u2014or Anywhere Else, for That Matter.md",
+   "words": 751
+  },
+  {
+   "n": 90,
+   "file": "ch90 - Ma or Machine.md",
+   "words": 582
+  },
+  {
+   "n": 91,
+   "file": "ch91 - What\u2019s Really Real.md",
+   "words": 896
+  },
+  {
+   "n": 92,
+   "file": "ch92 - Alternate Realities.md",
+   "words": 794
+  },
+  {
+   "n": 93,
+   "file": "ch93 - Back to Earth.md",
+   "words": 375
+  },
+  {
+   "n": 94,
+   "file": "ch94 - Chapter 14 - Trauma of the Real.md",
+   "words": 572
+  },
+  {
+   "n": 95,
+   "file": "ch95 - Breakthrough to the Real.md",
+   "words": 807
+  },
+  {
+   "n": 96,
+   "file": "ch96 - Reality Is Not Real.md",
+   "words": 807
+  },
+  {
+   "n": 97,
+   "file": "ch97 - Procession of Dummies.md",
+   "words": 626
+  },
+  {
+   "n": 98,
+   "file": "ch98 - Remembrance of Being, Passed.md",
+   "words": 1053
+  },
+  {
+   "n": 99,
+   "file": "ch99 - Chapter 15 - Lies, Incorporated.md",
+   "words": 452
+  },
+  {
+   "n": 100,
+   "file": "ch100 - The Epistemology of Deception.md",
+   "words": 380
+  },
+  {
+   "n": 101,
+   "file": "ch101 - How Do We Get Deceived.md",
+   "words": 908
+  },
+  {
+   "n": 102,
+   "file": "ch102 - Who Deceives Us.md",
+   "words": 587
+  },
+  {
+   "n": 103,
+   "file": "ch103 - Circles within Circles.md",
+   "words": 565
+  },
+  {
+   "n": 104,
+   "file": "ch104 - Self-Deception.md",
+   "words": 439
+  },
+  {
+   "n": 105,
+   "file": "ch105 - How Can We Detect Deception.md",
+   "words": 689
+  }
+ ],
+ "content": [
+  56,
+  57,
+  58,
+  59,
+  61,
+  63,
+  64,
+  65,
+  66,
+  67,
+  69,
+  70,
+  71,
+  72,
+  73,
+  74,
+  75,
+  76,
+  77,
+  78,
+  79,
+  80,
+  81,
+  82,
+  83,
+  84,
+  85,
+  86,
+  89,
+  90,
+  91,
+  92,
+  93,
+  94,
+  95,
+  96,
+  97,
+  98,
+  99,
+  100,
+  101,
+  102,
+  103,
+  104,
+  105
+ ]
+}

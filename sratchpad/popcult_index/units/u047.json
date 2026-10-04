@@ -1,0 +1,90 @@
+{
+ "unit": "u047",
+ "book": "030 - Pink Floyd and Philosophy - Careful with that Axiom, Eugene!",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\030 - Pink Floyd and Philosophy - Careful with that Axiom, Eugene!",
+ "range": [
+  20,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 20,
+   "file": "ch20 - Absolutely Curtains.md",
+   "words": 4843
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Wondering and Dreaming. The Words Have Different Meanings.md",
+   "words": 3873
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Meet You on the Dark Side of the Moon.md",
+   "words": 3700
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Sun Is Eclipsed by the Moon.md",
+   "words": 11571
+  },
+  {
+   "n": 24,
+   "file": "ch24 - The Art of Insanity Nietzsche, Barrett, and Beyond.md",
+   "words": 8
+  },
+  {
+   "n": 25,
+   "file": "ch25 - You Legend, You Martyr.md",
+   "words": 3661
+  },
+  {
+   "n": 26,
+   "file": "ch26 - \u201cThe Madcap Laughed at the Man on the Border\u201d.md",
+   "words": 4886
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Art, Madness, and Syd Barrett.md",
+   "words": 4662
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Resignation and Exploration\u2014I\u2019ll Climb the Hill in My Own Way.md",
+   "words": 3213
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Selected Pink Floyd Discography.md",
+   "words": 761
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Author Bios.md",
+   "words": 1479
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Pink Floyd and Philosophy.md",
+   "words": 5200
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Copyright Page.md",
+   "words": 114
+  }
+ ],
+ "content": [
+  20,
+  21,
+  22,
+  23,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31
+ ]
+}

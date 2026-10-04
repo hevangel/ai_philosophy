@@ -1,0 +1,370 @@
+{
+ "book": "061 - Sherlock Holmes and Philosophy - The Footprints of a Gigantic Mind",
+ "unit": "u098",
+ "chapters": [
+  {
+   "n": 26,
+   "file": "ch26 - That Far-Away Look.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-forms",
+    "aestheticism"
+   ],
+   "relation": "Lahr argues that Holmes's crime-solving is an art rather than a forensic science: like his inspiration Oscar Wilde, Holmes is an aesthete whose 'aesthetic sight' perceives the criminal-artist's design in clues, so that Watson the philistine ('What ineffable twaddle!') consistently misses what is self-evident to Holmes. He suggests Plato would say Holmes sees only the perfect Forms behind appearances, and reads the BBC adaptations accordingly: in The Case of the Silk Stocking Holmes's trance-like perception of the victims' pedicured feet reveals a killer with a foot fetish, while Sherlock's 'A Study in Pink' renders his insight as first-person vision with on-screen data. The queer coding (the Diogenes Club, Moriarty's 'hereditary tendencies,' Holmes as Wilde's physical and temperamental double) links Holmes to the first sexologists' puzzle of how marginal men recognize one another at a glance."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - An Inexact Science.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "abduction"
+   ],
+   "relation": "Demeter argues that Holmes's official self-image as a cold 'reasoning machine' is an ideology that distorts his actual practice: between collecting facts and eliminating impossible scenarios, Holmes is a creator of stories whose 'narrative imagination' invents possible explanations, a phase deduction cannot account for (Peter Lipton's point that Holmesian 'deduction' is not logically valid). Reading 'The Man with the Twisted Lip,' he shows how the same facts (coins in the coat pockets) become different evidence in different narratives until Holmes reconceives Boone and Neville St. Clair as one person. Holmes's preference for the bizarre over the simple, his warning against theorizing before the data, and his claim that his gift is hereditary ('Art in the blood is liable to take the strangest forms') all show detection is closer to art than science, though the scientific persona lends him professional legitimacy and lets him train Scotland Yard."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - HOLMES IS A LITTLE SCIENTIFIC FOR MY TASTES.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The New Man or the Old.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "marx"
+   ],
+   "concepts": [
+    "death-of-god",
+    "meaning-of-life",
+    "grand-narratives"
+   ],
+   "relation": "Marks reads Holmes as the paragon Victorian whose faith in reason mirrors his era's confidence and, underneath it, its anxiety: Holmes's outburst in 'The Cardboard Box' ('What is the object of this circle of misery and violence and fear?... That is humanity's great problem to which Reason, so far, has no answer') appears the same year Nietzsche published 'Gott ist tot' in The Gay Science, amid Marx's 'opium of the people' and Darwin's displacement of religion. Reinterpreting the 2009 Ritchie film, he rejects the obvious religion-versus-reason reading of Lord Blackwood: Blackwood's 'magic' is really chemistry and machinery (technocracy), Holmes's science serves the military (dictatorship), and Moriarty (terrorism) defeats both, dramatizing post-9/11 fears about the militarized fruits of Reason. He concludes that Holmes straddles the Victorian and postmodern divide and that replacing religion with science is Rationalism's 'siren song.'"
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Time Enough to Drink the Poison.md",
+   "kind": "chapter",
+   "philosophers": [
+    "leibniz",
+    "descartes",
+    "plato"
+   ],
+   "concepts": [
+    "best-possible-world",
+    "stoicism",
+    "dichotomy-of-control"
+   ],
+   "relation": "Domino reads 'The Veiled Lodger' as a drama about hope in a world after God: Holmes's 'Your life is not your own; keep your hands off it' revives Plato's Phaedo argument that we are the gods' possessions, but deist-or-atheist Mrs. Ronder is unmoved, so Holmes falls back on the Leibnizian alternative to the Stoic and Cartesian 'patience without hope' — the example of patient suffering as 'the most precious of all lessons,' grounded in Leibniz's hope that the world is no 'cruel jest.' Jefferson Hope's two pill boxes in A Study in Scarlet literalize the Leibnizian link between hope and divine justice by letting God choose who dies, while Trelawney Hope's gullibility makes the surname ironic. Mrs. Ronder's true hope was reunion with Leonardo, which his death destroyed; what saves her is a new hope founded on Watson's text, since only a writer ('I have made a slight change of name and place') can change the past."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - This Way Lies Madness.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "leibniz",
+    "frege",
+    "russell",
+    "wittgenstein"
+   ],
+   "concepts": [],
+   "relation": "Franchella takes Holmes's 'I should never marry myself, lest I bias my judgement' as the opening of the emotion-versus-logic question: Andrea Nye's feminist critique warns that casting logic as a genius's superpower underwrites oppression, as with Tonga the 'black cannibal' exhibited like a human zoo attraction in The Sign of Four, while Cellucci and Matte Blanco ground logic evolutionarily and universally in all organisms and everyday reasoning. Holmes's 'reasoning backwards' is the analytic method — the hypothesis-seeking tradition running from Plato's Republic through Cellucci, which Leibniz and Robinson objected requires intuition and divination — and the Wason test shows social, emotional framing can actually improve logical performance, against Frege's ideal of stripping feeling from thought. Via Logicomix's Russell, Wittgenstein, and Godel, and diagnoses of Holmes as bipolar or Asperger's, she suggests logic can be a false harbor from emotion, and that love might have enhanced Holmes's powers rather than clouded them."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Our Best Bet.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "popper"
+   ],
+   "concepts": [
+    "hume-induction",
+    "falsification"
+   ],
+   "relation": "Terjesen argues Mycroft surpasses Sherlock because he truly grasps Hume's Problem of Induction: Sherlock's celebrated eliminations (the three key possibilities for Cadogan West in 'The Bruce-Partington Plans') and his newspaper-ad tests are inductive, Popperian conjecture-testing that can never confirm anything, while Goodman's 'grue' shows the same evidence always supports rival explanations. Watson's failed attempt in 'How Watson Learned the Trick,' the amateur reasoner's wrong solution in 'The Lost Special,' and Holmes's own 'Norbury' failure in 'The Yellow Face' prove that a correct method guarantees nothing. Mycroft, who 'would rather be considered wrong than take the trouble to prove himself right,' implicitly embraces Reichenbach's pragmatic justification — induction is simply our best bet — and therefore hunts longer for the facts that do not fit, acting only when England's fate is at stake."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - MUSIC AT STRANGE HOURS OR THAT MIXTURE OF IMAGINATION AND REALITY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - The Essence of Perception Holmes’s Intention and Objects Intended.md",
+   "kind": "chapter",
+   "philosophers": [
+    "husserl",
+    "heidegger"
+   ],
+   "concepts": [
+    "intentionality",
+    "phenomenology"
+   ],
+   "relation": "Kilroy romanticizes not the drugs but the woodshed: Holmes's cocaine sessions, violin, and clattered study cultivate a Husserlian field of consciousness in which reality is the intercourse of subject and object, so a clue (the Trichinopoly cigar ash, 'Rache' as German for revenge) only appears to a detective whose knowledge, observation, and deduction are unified — Gregson and Lestrade misread the same room in A Study in Scarlet because they theorize before the evidence. Heidegger's distinction between merely present (Vorhandenheit) and usefully present (Zuhandenheit) objects explains what counts as a clue — the lipstick-stained wineglass, not the tablecloth — and Husserl's 'things seen are always more than what we really and actually see' explains the frozen-coaster chair. Watson's see-it-to-believe-it empiricism, drained by the Afghan war, is precisely why he has no 'special powers': he never furnishes his brain-attic with the furniture that lets objects speak."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - The Seven Percent Conclusion.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "pascal",
+    "kierkegaard",
+    "schopenhauer",
+    "nietzsche"
+   ],
+   "concepts": [
+    "schopenhauer-pendulum"
+   ],
+   "relation": "Malloy names boredom, not Moriarty, as Holmes's true nemesis, sorting his moods through Heidegger's three types: boredom by something (the mind-reading demonstration in 'The Cardboard Box' that bores Holmes but astounds Watson), boredom with everything ('The Noble Bachelor's' 'unwelcome social summonses'), and profound boredom — the 'black moods' behind the seven-per-cent solution, which Heidegger says reveals beings as a whole in remarkable indifference. Against Schopenhauer's pendulum swinging between pain and boredom, and Nietzsche's 'against boredom even gods struggle in vain,' Pascal's and Kierkegaard's verdict that boredom is the root of all evil explains Jeremy Paul's suggestion that Holmes invented Moriarty as an equal opponent to keep the game alive. Religion, Pascal's and Kierkegaard's cure, cannot save the modern Holmes, so work, amusement, and drugs merely treat symptoms of modernity itself."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - The Game’s Afoot.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "aristotle"
+   ],
+   "concepts": [
+    "moral-psychology",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Littmann poses Holmes's cocaine habit as philosophy's classic akrasia puzzle: Socrates denies weakness of will, treating it as mis-measured pleasure in which nearer pleasures loom larger — the King of Bohemia risking scandal for Irene Adler's company, Sir George Burnwell's gambling, Holmes's immediate relief of boredom — while Aristotle objects in the Nicomachean Ethics that reason really is clouded by passion, the way 'Black Peter' Carey's murderous violence is clouded by rum, so the cure is habituated practice rather than a science of measuring pleasures. Aristotle's account fits our sense that Holmes, 'the most perfect reasoning and observing machine,' knowingly chooses the lesser good. The verdict is that this is the one case Holmes failed to solve: it was Watson, not Holmes's own reason and will, who 'weaned him from that drug mania.'"
+  },
+  {
+   "n": 37,
+   "file": "ch37 - The Awakened One.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha"
+   ],
+   "concepts": [
+    "buddhism",
+    "zen",
+    "buddhist-impermanence"
+   ],
+   "relation": "Callis reads Holmes as a Buddhist practitioner despite the cocaine and the cigars in the coalscuttle: 'You see, but you do not observe' and 'The emotional qualities are antagonistic to clear reasoning' match Vipassana bare attention and the Theravada ideal of the cool, rational, emotionally distant sage, and his improvised violin scraping works like Thich Nhat Hanh's walking meditation — a witness without commentary. The picture is completed by Doyle's Buddhism of Ceylon in The Sign of Four, Holmes's two years 'spending some days with the head lama' in Tibet ('The Empty House'), and his sitting 'like some strange Buddha' in 'The Veiled Lodger.' She maps his method onto the Yoga Sutras' dharana, dhyana, and samadhi — patient attention to the blood-scratched plaster, sustained fixation on the crime scene, ego-surrendering contemplation — making Holmes an 'awakened one' who loves truth for its own sake while Watson lives on autopilot."
+  },
+  {
+   "n": 38,
+   "file": "ch38 - THE TRACING OF FOOTSTEPS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 39,
+   "file": "ch39 - The Adventure of the Time-Traveling Detective.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Michaels argues that BBC's Sherlock is not a straight adaptation like the Jeremy Brett series but a Fredric Jamesonian pastiche — a hip-hop-style mash-up that samples 'A Study in Scarlet' (Watson's PTSD return from Afghanistan, the 'Rache' clue now reversed into the password 'Rachel'), the video game Heavy Rain (palette, focal blur, on-screen deduction text in the Johnston font), and TV-thriller codes, with 'The Great Game' cramming five bomb-ticking mysteries worthy of 24. Following Jameson's claim that new periods only re-weight elements already given, Sherlock's era simply promotes what was subordinate in Doyle — the misanthropy swells into 'a high-functioning sociopath,' telegrams become texts, the Irregulars become a homeless network — while the core faith in empirical reason stays untouched. Technology supplies data, but only Holmes's ability to see a narrative chain solves the crime; even Lestrade with the same gadgets could not."
+  },
+  {
+   "n": 40,
+   "file": "ch40 - The Evil Genius that Turns Moriarty into a Brain in a Vat.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "nietzsche"
+   ],
+   "concepts": [
+    "cartesian-doubt",
+    "brain-in-a-vat",
+    "descartes-cogito",
+    "simulation-hypothesis"
+   ],
+   "relation": "Samardzija reads Star Trek's holodeck Moriarty as Descartes updated: Data plays Holmes on the holodeck while Dr. Pulaski's Nietzschean jibe (from 'The Illogical Necessary' in Human, All Too Human) denies that computation can be human, and the holographic Moriarty proves his sentience not by deduction but by feelingCrowded intuitions first and then invoking Descartes' cogito ergo sum to Picard. In 'Ship in a Bottle' he nests a simulation of the Enterprise inside the Holmes holodeck to trick the crew into believing he has escaped — an evil-genius, brain-in-a-vat scenario that ends with Picard admitting our own reality 'might be nothing more than an elaborate simulation.' The paradox is that only the unemotional android Data can detect the deception, so rationality bars him from humanity while Moriarty stays eternally deceived into thinking he has become human — and Doyle's own 'hereditary tendencies' account of Moriarty's evil, the chapter notes, is a Victorian biological determinism the hologram rebels against."
+  },
+  {
+   "n": 41,
+   "file": "ch41 - Dreams of Dogs and Butterflies.md",
+   "kind": "chapter",
+   "philosophers": [
+    "zhuangzi"
+   ],
+   "concepts": [
+    "zhuangzi-perspectivism"
+   ],
+   "relation": "Clements opens and closes with Zhuangzi's butterfly dream to frame Sherlock Hound: are we watching humans who behave like dogs (zoomorphism) or dogs who behave like humans (anthropomorphism)? He then traces the media history that transformed Holmes in Japan — Natsume Soseki's London sojourn during The Hound of the Baskervilles bearing fruit in the cat's-eye satire I Am a Cat, the 'Meiken' (Famous Dog) retitlings of Rin Tin Tin and Lassie, the mukokuseki 'denationalized' economics of animal protagonists, and Miyazaki's talking-dog series stalled by the Doyle estate's copyright protest. Zhuangzi's question about dreams and reality, Clements concludes, 'remains unanswerable,' even as his butterfly emerges from its 'transnational chrysalis as an altogether different animal.'"
+  },
+  {
+   "n": 42,
+   "file": "ch42 - Case Closed.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard"
+   ],
+   "concepts": [
+    "simulacra"
+   ],
+   "relation": "Burnham stages the murder of reality itself and solves it with Baudrillard: the deerstalker, Inverness cape, and calabash Holmes of The Real Ghostbusters' 'Elementary My Dear Winston' is a simulacrum built from Paget's illustrations, stage actors' pipes, and the never-spoken 'Elementary, my dear Watson' — a copy of copies referring only to earlier simulations, never to Doyle's texts. Because the media-saturated everyman Winston (Baudrillard: whoever is underexposed to the media is desocialized) recognizes the 'belief made manifest' specters while the doctorate-holding Ghostbusters cannot, and because the hyperreal Holmes, Watson, Moriarty, and Hound are immune to proton packs, the simulacrum has 'murdered' its referent and become more real than the real. The 2008 UKTV poll — 58 percent of Britons believe Holmes was real while 47 percent call Richard the Lionheart mythical — proves the murder happened in our universe too, committed by the world's greatest detective."
+  },
+  {
+   "n": 43,
+   "file": "ch43 -  . . Blurring the Boundaries.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein"
+   ],
+   "concepts": [
+    "language-games"
+   ],
+   "relation": "Duncan examines the Sherlockian Game — the century-old practice, founded in Ronald Knox's 1911 parody 'Studies in the Literature of Sherlock Holmes,' of treating Holmes and Watson as real people — through Wittgenstein's account of 'game' in Philosophical Investigations: no common feature defines games, only family resemblances, so the playful-seeming Game legitimately spans idle fun and serious scholarship. Huizinga's 'magic circle' supposedly walls games off from the world, but the Game has blurred that boundary from the start, as fans reconcile why Watson's wife calls him 'James,' hunt the real King of Bohemia, and see their labors honored in Ritchie's bull-pup and Sherlock's James Phillimore. The epistemological payoff is that knowledge and meaning do not reside in the text alone: Game-players playfully shape what they uncover, donning Canonical names like Duncan's own 'Silver Blaze,' so media fandom becomes a way of making knowledge."
+  },
+  {
+   "n": 44,
+   "file": "ch44 - All the Queen’s Horses.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bakhtin"
+   ],
+   "concepts": [],
+   "relation": "Rennes answers why Holmes remains the greatest detective through Bakhtin: against the Queen's two bodies (Kantorowicz's natural body and body politic), Holmes channels the folk's grotesque collective body — the outré cases he loves, from geese with blue carbuncles to twisted-lip beggars — and turns the Strand's one-sitting stories and Watson's direct address into a new carnivalesque print marketplace where readers live the game rather than watch it. Holmes plays the fool-king: staging fires and revelatory horse-returns to jest at Lestrade and Colonel Ross, donning masks up and down the social ladder, pardoning John Turner and watching Milverton die, and deciphering the Musgrave Ritual to reassemble Charles II's crown as if it were rightfully his — before stepping off the throne and crediting Scotland Yard. That carnivalesque play, not forensic skill, is why Holmes is the prototype superhero who returns from Reichenbach and outlives the Crown."
+  },
+  {
+   "n": 45,
+   "file": "ch45 - HE IS A MAN OF HABITS AND I AM ONE OF THEM.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 46,
+   "file": "ch46 - The Very Smartest of Our Detective Officers - For Whose Future Holmes Had High Hopes.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 47,
+   "file": "ch47 - His Ignorance Was As Remarkable as His Knowledge.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 48,
+   "file": "ch48 - Hullo! Hullo! Good Old Index!.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 49,
+   "file": "ch49 - Sherlock Holmes and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 50,
+   "file": "ch50 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "aestheticism",
+   "name": "Aestheticism (art for art's sake)",
+   "philosopher": "",
+   "domain": "nineteenth-century",
+   "what": "The Victorian Aesthetic Movement's doctrine that beauty and refined perception are supreme values independent of morality or utility.",
+   "why": "Chapter 26 argues Holmes is an aesthete in Walter Hamilton's and Oscar Wilde's sense, whose 'aesthetic sight' rather than deduction solves crimes."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "abduction",
+   "name": "Abduction (inference to the best explanation)",
+   "philosopher": "peirce",
+   "domain": "knowledge-science-reality",
+   "what": "Reasoning that invents explanatory hypotheses for surprising facts and selects among them, distinct from both deduction and induction.",
+   "why": "Chapter 27's core claim is that Holmes's 'deductions' are imaginative narrative hypotheses generated abductively and only later tested by elimination."
+  },
+  {
+   "ch": 32,
+   "type": "philosopher",
+   "suggested_slug": "reichenbach",
+   "name": "Hans Reichenbach",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Logical empiricist who gave induction a pragmatic justification: if any method predicts the future, induction works at least as well as that method.",
+   "why": "Chapter 32's Mycroft accepts Reichenbach's 'best bet' defense of induction instead of Sherlock's Popperian testing, which is the source of his superiority."
+  },
+  {
+   "ch": 35,
+   "type": "concept",
+   "suggested_slug": "heidegger-boredom",
+   "name": "Profound Boredom (Langeweile)",
+   "philosopher": "heidegger",
+   "domain": "existentialism-phenomenology",
+   "what": "Heidegger's three forms of boredom — bored by, bored with, and profound boredom — as fundamental moods revealing beings as a whole.",
+   "why": "Chapter 35 explains Holmes's drug use, case selection, and even Moriarty's creation as responses to the three Heideggerian types of boredom."
+  },
+  {
+   "ch": 39,
+   "type": "philosopher",
+   "suggested_slug": "fredric-jameson",
+   "name": "Fredric Jameson",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Marxist theorist of postmodernism as the cultural logic of late capitalism, emphasizing pastiche and the erosion of the high-culture/pop-culture divide.",
+   "why": "Chapter 39 quotes Jameson on the 'erosion' of high and low culture to argue BBC Sherlock is postmodern pastiche that re-weights Doyle's elements."
+  },
+  {
+   "ch": 39,
+   "type": "concept",
+   "suggested_slug": "pastiche",
+   "name": "Pastiche (postmodern collage)",
+   "philosopher": "fredric-jameson",
+   "domain": "political-social",
+   "what": "The postmodern blending of sampled styles and texts into new works without parody's satirical edge, as in mash-ups and hip-hop sampling.",
+   "why": "Chapter 39's central claim is that Sherlock is a pastiche mixing 'A Study in Scarlet,' the game Heavy Rain, and TV-thriller codes into something new."
+  },
+  {
+   "ch": 44,
+   "type": "philosopher",
+   "suggested_slug": "bakhtin",
+   "name": "Mikhail Bakhtin",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Russian theorist of the carnivalesque, grotesque realism, and folk laughter as unofficial forces that subvert official hierarchy.",
+   "why": "Chapter 44 argues Holmes reigns because he embodies Bakhtin's carnivalesque — fool-king, masks, and marketplace against the Queen's two bodies."
+  },
+  {
+   "ch": 44,
+   "type": "concept",
+   "suggested_slug": "carnivalesque",
+   "name": "The Carnivalesque",
+   "philosopher": "bakhtin",
+   "domain": "political-social",
+   "what": "Bakhtin's carnival spirit: laughter, disguise, and the crowning and uncrowning of kings that temporarily invert official hierarchies and liberate the body.",
+   "why": "Chapter 44 reads Holmes's disguises, jests, and self-crowning with Charles II's diadem in 'The Musgrave Ritual' as carnivalesque crowning and uncrowning."
+  }
+ ]
+}

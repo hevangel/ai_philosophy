@@ -201,12 +201,19 @@ def build() -> dict:
     merged = json.loads((BASE / "merged_index.json").read_text(encoding="utf-8"))
     taxonomy = json.loads((BASE / "taxonomy.json").read_text(encoding="utf-8"))
     intros = json.loads((BASE / "intros.json").read_text(encoding="utf-8"))
+    book_intros = json.loads((BASE / "book_intros.json").read_text(encoding="utf-8"))
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     COVER_DIR.mkdir(parents=True, exist_ok=True)
 
     used_ids = set()
     raw_to_id = {raw: book_id(raw, used_ids) for raw in sorted(merged["chapters"])}
+    expected_book_ids = set(raw_to_id.values())
+    actual_book_ids = set(book_intros)
+    if actual_book_ids != expected_book_ids:
+        missing = sorted(expected_book_ids - actual_book_ids)
+        extra = sorted(actual_book_ids - expected_book_ids)
+        raise ValueError(f"book intro key mismatch; missing={missing}; extra={extra}")
     epub_by_stem = {p.stem: p for p in EPUB_DIR.glob("*.epub")}
 
     books = {}
@@ -258,6 +265,7 @@ def build() -> dict:
         books[bid] = {
             "title": book_title(raw),
             "source": raw,
+            "intro": book_intros[bid].strip(),
             "cover": cover,
             "domains": [d for d, _ in domain_counts.most_common(3)],
             "chapters": chapter_rows,

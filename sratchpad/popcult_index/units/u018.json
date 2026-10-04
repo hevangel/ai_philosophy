@@ -1,0 +1,311 @@
+{
+ "unit": "u018",
+ "book": "013 - Superheroes and Philosophy - Truth, Justice, and the Socratic Way",
+ "part": "1/3",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\013 - Superheroes and Philosophy - Truth, Justice, and the Socratic Way",
+ "range": [
+  2,
+  52
+ ],
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Superheroes and Philosophy.md",
+   "words": 767
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Popular Culture and Philosophy.md",
+   "words": 277
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "words": 0
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Men in Bright Tights and Wild Fights, Often at Great Heights, and, of Course,.md",
+   "words": 528
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Superheroes and Philosophy.md",
+   "words": 691
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Superheroes and Philosophy.md",
+   "words": 297
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Part One - The Image of the Superhero.md",
+   "words": 7
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Chapter 1 - The Real Truth about Superman And the Rest of Us, Too.md",
+   "words": 127
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Preparation for a Surprise.md",
+   "words": 318
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The One Question I Could Not Answer.md",
+   "words": 1420
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Need to Belong.md",
+   "words": 871
+  },
+  {
+   "n": 13,
+   "file": "ch13 - The Great Paradox.md",
+   "words": 375
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Chapter 2 - Heroes and Superheroes.md",
+   "words": 107
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Defining a Hero and a Superhero.md",
+   "words": 1472
+  },
+  {
+   "n": 16,
+   "file": "ch16 - How to Be a Hero.md",
+   "words": 742
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Fear and the Superhero Stories.md",
+   "words": 825
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Example of the Superhero.md",
+   "words": 602
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Chapter 3 - The Crimson Viper versus the Maniacal Morphing Meme.md",
+   "words": 93
+  },
+  {
+   "n": 20,
+   "file": "ch20 - What the Problem Seems to Be.md",
+   "words": 203
+  },
+  {
+   "n": 21,
+   "file": "ch21 - What the Problem Is.md",
+   "words": 428
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The One Constant Is Change.md",
+   "words": 942
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Scheme of the Meme.md",
+   "words": 892
+  },
+  {
+   "n": 24,
+   "file": "ch24 - What We Want and What We Get.md",
+   "words": 362
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Chapter 4 - Superhero Revisionism in Watchmen and The Dark Knight Returns.md",
+   "words": 207
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Crime-Fighters and Vigilantes.md",
+   "words": 701
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Truth, Justice, and the American Way.md",
+   "words": 633
+  },
+  {
+   "n": 28,
+   "file": "ch28 - A Whole New World.md",
+   "words": 746
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Look On My Works, Ye Mighty.md",
+   "words": 1009
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Rethinking the Superhero Concept.md",
+   "words": 653
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Who Watches the Watchmen.md",
+   "words": 483
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Part Two - The Existential World of the Superhero.md",
+   "words": 8
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Chapter 5 - God, the Devil, and Matt Murdock.md",
+   "words": 330
+  },
+  {
+   "n": 34,
+   "file": "ch34 - The Man and His Faith.md",
+   "words": 1392
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Faith and Fear.md",
+   "words": 1437
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Daredevil\u2019s Faith as a Source of Strength.md",
+   "words": 1288
+  },
+  {
+   "n": 37,
+   "file": "ch37 - The Catholic in Spandex.md",
+   "words": 1603
+  },
+  {
+   "n": 38,
+   "file": "ch38 - The Vigilante Man of Faith Hero or Tragic Figure.md",
+   "words": 1202
+  },
+  {
+   "n": 39,
+   "file": "ch39 - Chapter 6 - The Power and the Glory.md",
+   "words": 158
+  },
+  {
+   "n": 40,
+   "file": "ch40 - From Olympus to Galactus.md",
+   "words": 516
+  },
+  {
+   "n": 41,
+   "file": "ch41 - A Doomed Pursuit of Power and Glory.md",
+   "words": 1218
+  },
+  {
+   "n": 42,
+   "file": "ch42 - Galactus The Power and the Glory.md",
+   "words": 1148
+  },
+  {
+   "n": 43,
+   "file": "ch43 - Power and Glory Tests of Virtue.md",
+   "words": 1824
+  },
+  {
+   "n": 44,
+   "file": "ch44 - Chapter 7 - Myth, Morality, and the Women of the X-Men.md",
+   "words": 151
+  },
+  {
+   "n": 45,
+   "file": "ch45 - The Demand for Diversity.md",
+   "words": 853
+  },
+  {
+   "n": 46,
+   "file": "ch46 - The Perfect Storm.md",
+   "words": 1381
+  },
+  {
+   "n": 47,
+   "file": "ch47 - The Shape-Shifting Mystique.md",
+   "words": 652
+  },
+  {
+   "n": 48,
+   "file": "ch48 - Phoenix Rising Jean Grey.md",
+   "words": 1610
+  },
+  {
+   "n": 49,
+   "file": "ch49 - X2, Superhero Myth, Philosophy, and the World.md",
+   "words": 175
+  },
+  {
+   "n": 50,
+   "file": "ch50 - Chapter 8 - Barbara Gordon and Moral Perfectionism.md",
+   "words": 306
+  },
+  {
+   "n": 51,
+   "file": "ch51 - From Librarian to Batgirl to Oracle.md",
+   "words": 433
+  },
+  {
+   "n": 52,
+   "file": "ch52 - Where I Don\u2019t Want to Be.md",
+   "words": 1064
+  }
+ ],
+ "content": [
+  2,
+  3,
+  5,
+  6,
+  7,
+  10,
+  11,
+  12,
+  13,
+  15,
+  16,
+  17,
+  18,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  40,
+  41,
+  42,
+  43,
+  45,
+  46,
+  47,
+  48,
+  50,
+  51,
+  52
+ ]
+}

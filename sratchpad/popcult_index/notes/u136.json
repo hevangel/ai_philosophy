@@ -1,0 +1,528 @@
+{
+ "book": "083 - The Devil and Philosophy - The Nature of His Game",
+ "unit": "u136",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "freud-civilization",
+    "immortality"
+   ],
+   "relation": "Robert Arp's introduction opens with Halloween culture and his own seminarian past to ask whether belief in the Devil can survive scrutiny. He lays out a 'just deserts' argument - Hitler, Stalin, and Mao died unpunished while Job, Socrates, and Thomas More died unrewarded, so God, the Devil, Heaven, and Hell must exist to balance the scales - and then answers it with Freud's projection critique (religion as wishful thinking for comfort and moral control) and with the neuroscience tying the mind to a dying brain, which undermines the soul that Hell would punish. The chapter frames the whole book's project: testing devil-belief with arguments and evidence rather than taking it on authority."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "rectification-of-names"
+   ],
+   "relation": "Nicolas Michaud catalogues the demonic hierarchy - de Spina's goblins, incubi, and familiars, Dante's Malebranche, Binsfeld's seven princes of Hell - through Dungeon Keeper's Dark Mistress, World of Warcraft succubi, Se7en, Hellraiser's Pinhead, Hellboy, and Spawn. His real argument is ontological: names are power, and what we call the Devil fixes how we treat him. Recovering the Hebrew sense of 'satan' as an appointed adversary and 'Lucifer' as light-bringer (compared to Prometheus), he argues the same being could be reframed from tempter to giver of knowledge, much as naming Columbus's invasion a 'discovery' launders atrocity."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "ockham"
+   ],
+   "concepts": [
+    "fate-vs-free-will",
+    "ockham-razor",
+    "possible-worlds",
+    "free-will-determinism"
+   ],
+   "relation": "Sharon Kaye stages a fourteenth-century debate over a contradiction: Jesus truthfully prophesied that the Antichrist will come, yet the Antichrist remains free not to. Peter Aureoli denies bivalence for statements about the future, Thomas Bradwardine has God swap among infinite possible-world 'movies,' and Ockham's follower John of Mirecourt concludes that Jesus simply lied - each solution self-defeating or heretical. Using Ockham's Razor and her comic fantasy of seducing the Antichrist, Kaye argues the unsolvable prophecy problem helped discredit prophetic religion, ushered in theological determinism via Luther and Calvin, and opened a secular age."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "schelling"
+   ],
+   "concepts": [
+    "the-look",
+    "bad-faith"
+   ],
+   "relation": "James McLachlan splits the Satans of history into 'the Rebel' of Romanticism (Blake, Shelley's turn to Prometheus, the sexy vampires of film) and 'the Asshole' who wants to be God. Using Sartre's 'hell is other people' and the desire to be a complete being, he reads Dracula, Scarface's Tony Montana, and Bond villains as figures who cannot endure the otherness of real persons. With Bohme and especially Schelling's two wills - self-assertion and love of others - he argues evil is a positive, perverted order of pure egoism, and that not even Satan can achieve the total asshole-ness he wants, because selfhood exists only in relation to others."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre"
+   ],
+   "concepts": [
+    "bad-faith",
+    "sartre-freedom",
+    "existence-precedes-essence"
+   ],
+   "relation": "Elizabeth Butterfield reads The Devil's Advocate through Sartre: Kevin Lomax's 'You set me up!' excuse - after defending the guilty Gettys and Cullen and abandoning MaryAnn - is textbook bad faith, a lie to himself about his own free choices. Milton the Devil plays existentialist, insisting 'I'm no puppeteer... I only set the stage. You pull your own strings,' until Kevin admits his vanity, his drive to win, motivated every choice. Radical freedom entails radical responsibility, and Kevin's final suicide is his last free act, chosen to keep coming out on top, while free will remains the one limit the Devil cannot breach."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-psychology"
+   ],
+   "relation": "Jim Berti opens with a dream-fable in which the Devil tempts him with a bank-robbing 'quick fix' for his house-buying cash crunch, then reads the Rolling Stones' 'Sympathy for the Devil' as the Devil's resume of history's atrocities - Anastasia, the Blitzkrieg, the Kennedys - where he supplies the lighter fluid but never strikes the match. The chapter argues we give God too much credit and the Devil too much blame while omitting ourselves: the Devil is the 'drug dealer of sin,' peddling the seven deadly sins as shortcuts like Rocky IV's steroids, and only effortful virtue refuses them. As the song says, 'it was you and me.'"
+  },
+  {
+   "n": 21,
+   "file": "ch21 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "plato",
+    "epicurus"
+   ],
+   "concepts": [
+    "virtue-ethics",
+    "aristotle-golden-mean",
+    "plato-tripartite-soul"
+   ],
+   "relation": "Jennifer Baker asks whether the Devil does ethics any good and answers no. Against the tempter hypothesis she sets the traditional virtue ethics of Plato, Aristotle, the Stoics, and the Epicureans, where bad behavior traces to habituated vice rather than demons, and the cure is consciously cultivating virtues by hitting the mean between excess and deficiency - Johnny's practiced honesty, the Evangelical cousin's marital vows. She faults the Devil as a one-size-fits-all explanation of evil, a glamour machine (via Postrel and the Romantic Satan of Blake, Byron, and Milton), and a scare tactic the Epicureans warned corrupts character, closing with Plato's divided-soul counsel to aim at long-term goods and a dismissal of Luther's spite-drinking stratagem."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "descartes"
+   ],
+   "concepts": [
+    "cartesian-doubt",
+    "skepticism",
+    "reliabilism"
+   ],
+   "relation": "John Karavitis (with tongue-in-cheek co-author 'Lucifer') treats The Ninth Gate as an epistemology case study, sorting the characters' beliefs about the Devil - true-believer Balkan, skeptic book-dealer Corso, the occult-tourist Order of the Silver Serpent - and testing them against Plato's Theaetetus definitions of knowledge as perception, true belief, and justified true belief. Balkan's justification is only an internally coherent web of book-learned beliefs, while Corso's external evidence (engravings signed 'LCF,' his journey's experiences) is weighed by the general reliability of his sources. Descartes' dreaming and the deceiving demon then leave the viewer skeptical that the Devil ever appeared at all."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "descartes",
+    "kuhn"
+   ],
+   "concepts": [
+    "hume-miracles",
+    "paradigm-shift",
+    "cartesian-dualism",
+    "skepticism"
+   ],
+   "relation": "The Bocks use the courtroom frame of The Exorcism of Emily Rose to ask whether anyone could be justified in believing in demon possession, since the same seizures, polyglot voices, and levitations read differently under naturalism and supernaturalism. Kuhn's paradigms explain why neither worldview abandons ship at anomalies, and they weigh Wiebe's 'finite spirits as theoretical entities,' Hume's miracles argument (with Levine's Red Sea thought experiment as rebuttal), and the Cartesian ghost-in-the-machine premise that possession would require. Testing even a Men in Black alien hypothesis against the religiously specific phenomena, they conclude that a witnessed case like Emily's could rationally justify belief in possession."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "kant-autonomy"
+   ],
+   "relation": "Danny Smith applies Kant's three grades of evil from Religion within the Limits of Reason Alone to The Dark Knight. Batman's saving Harvey over Rachel out of love is normal evil (pathological inclination trumping duty, his 'never kill' rule hardened into moral self-satisfaction), Two-Face's coin is radical evil (outsourcing his freedom and responsibility to chance), and the Joker - burning his own money, making his scarred face the true mask, wanting only chaos - is diabolical evil done for its own sake. Smith then presses Kant's embarrassing problem that evil pursued purely on principle, with no pathological motive, is indistinguishable from the highest good, and half-sympathetically re-reads the Joker as the honest rebel in a corrupt Gotham."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aristotle",
+    "socrates"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "aristotle-virtue-ethics",
+    "banality-of-evil",
+    "kant-respect"
+   ],
+   "relation": "George Dunn asks whether the Joker's 'some men just want to watch the world burn' motivelessness even makes sense. Against Baumeister's 'Myth of Pure Evil' and the Socratic-Aristotelian thesis that all wrongdoing aims at some apparent good, he tests Kant's claim that no human can be a diabolical being, Claudia Card's definition of diabolical evil as engineering others' moral corruption, and the Satan of Job as prosecuting accuser - which fits the Joker's ferry 'social experiment' and his breaking of Harvey Dent. The upshot is that the Joker's evil, fed by pride and the wish for credit for the conflagration, is instrumental, pathological, and banal after all, its best answer being the convict who throws the detonator out the window."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "kant-humanity-formula",
+    "deontology"
+   ],
+   "relation": "Nicole Pramik asks whether the demons of Brandon Mull's Fablehaven can be taught morality, using Kant's deontology as the measuring stick. Seth's kindness to Graulas looks dutiful and universalizable, and Graulas at first seems a rational agent respecting the categorical imperative - until healed, he betrays Seth, demolishes the preserve's treaty, and declares himself 'pure, deliberate evil' who used Seth as a mere means. Nagi Luna never even tries, and the Sphinx who models her is himself a serial user of persons, so the chapter concludes that rational demons remain impervious to the moral law: you can lead a demon out of Zzyzx, but you cannot make it good."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine"
+   ],
+   "concepts": [
+    "problem-of-evil"
+   ],
+   "relation": "A.G. Holdier pits Augustine against Star Wars: South Park's pay-per-view Satan-Jesus boxing match and the Force's balanced light and dark sides picture God and the Devil as equals, but Augustine - drawing on his Manichaean past and Zoroastrianism's Ahura Mazda versus Angra Mainyu - shows this is really two-gods worship, not monotheism. For Augustine the Devil is a derivative creature, created good and freely fallen, and evil is not a positive force but a privation, an absence of God like cold or darkness, so Vader's corruption and redemption both hang on free choice. Mordred's rebellion against Arthur gives the right picture: the Dark Side can never win because it is only diminished goodness."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "simulacra",
+    "power-knowledge"
+   ],
+   "relation": "Jonathon O'Donnell reads DmC: Devil May Cry's Limbo City - demon-run banks, the Fox-News parody Raptor News, Virility soda - as the newest stage in the Devil's career. Tracing the shift from Dante's frozen, defeated Satan to Milton's active deceiver and the Black Mass's sacramental counterfeits, he argues the game's demons are both the hiders and the hidden: reality itself is the demonic lie, a counterfeit truth with nothing truer beneath it. When Dante and Vergil's WikiLeaks-style reveal frees humanity, what is unveiled is not God's order but just another contingent world, a secular tale of media institutions manufacturing 'truth' for a conforming public."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "boethius"
+   ],
+   "concepts": [
+    "boethius-consolation",
+    "problem-of-evil",
+    "fate-vs-free-will",
+    "wheel-of-fortune"
+   ],
+   "relation": "Ray Bossert reads Tolkien's Silmarillion through Boethius's Consolation of Philosophy: elves, being artists, understand Melkor not as tempter but as bad artist, from his rebellious solo in the Music of the Ainur to his botched sub-creations - orcs bred from kidnapped elves - and his covetous collecting of the silmarils. Boethius supplies the machinery: evil seeks a good by unnatural means and only approximates it, wickedness debases its practitioner into a beast, God's foreknowledge embraces free choices without causing them, and Providence is a spinning disc at whose center alone one is steady - so Melkor's rebellion leaves him less free, dragged around the rim. Tolkien's contrast between art (for beauty) and magic (for control) explains why the Devil can only mimic creation, never make anything real."
+  },
+  {
+   "n": 38,
+   "file": "ch38 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 39,
+   "file": "ch39 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 40,
+   "file": "ch40 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "cs-lewis"
+   ],
+   "concepts": [
+    "faith-vs-reason"
+   ],
+   "relation": "Michael Versteeg and Adam Barkman explain C.S. Lewis's Screwtape doctrine that the Devil conquers minds not by argument but by unreason, since human reason fights on God's side. They unpack Screwtape's tactics as textbook fallacies: jargon like 'religious phase' working as a red herring, dismissing Christianity out of boredom as a non sequitur, the 'Historical Point of View' as the chronological snobbery that cuts generations off from the past, and the endless loop of pride about one's humility as an infinite regress that paralyzes thought. Because reason is, for Lewis, the road toward Heaven, the Devil's highway to Hell is built entirely of bad logic."
+  },
+  {
+   "n": 41,
+   "file": "ch41 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "cs-lewis"
+   ],
+   "concepts": [
+    "problem-of-evil"
+   ],
+   "relation": "Thomas Ward reconstructs C.S. Lewis's argument from The Problem of Pain that either demons exist or God doesn't. The free will defense, credited to Augustine, covers the evil humans freely do - freedom being required for love, as the rubber-ducky world shows - but John Perry's baby bat eaten by cockroaches and William Rowe's burned fawn are natural evils no human is responsible for. Given the not-crazy assumptions that God exists and is never morally responsible for evil, something non-human, personal, and wicked must bear that responsibility: hence demons, who like us misused their freedom, stretching the free will defense to cover every evil whatsoever."
+  },
+  {
+   "n": 42,
+   "file": "ch42 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 43,
+   "file": "ch43 - The Devil and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 44,
+   "file": "ch44 - The Devil and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Eric Swan tours the Devil-song canon - Elvis's 'Devil in Disguise' and 'Devil with a Blue Dress,' the Stones' 'Sympathy for the Devil' with its Altamont aftermath, the Grateful Dead's 'Friend of the Devil,' 'The Devil Went Down to Georgia,' Van Halen's 'Runnin' with the Devil,' and Beck's 'Devil's Haircut.' His argument is that these songs chart shifting conceptions of the Devil: from a misogynist shorthand for the betraying woman, to the transpersonal 'you and me' of human atrocity, to a beatable tempter, a party companion in self-destructive excess, and finally a mood of dystopian survival at century's end. The Devil of pop music, Swan suggests, becomes whatever humans need him to be."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "future-contingents",
+   "name": "Future Contingents (bivalence about the future)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The question whether statements about future free actions are already true or false, tied to rejecting the law of bivalence for future-tense propositions.",
+   "why": "Chapter 14's first medieval solution has Aureoli deny that Jesus's prophecy about the Antichrist was true or false, and no taxonomy slug covers this logical doctrine."
+  },
+  {
+   "ch": 16,
+   "type": "philosopher",
+   "suggested_slug": "schelling",
+   "name": "F.W.J. Schelling",
+   "philosopher": "",
+   "domain": "kant-german-idealism",
+   "what": "German Idealist whose 1809 treatise on human freedom grounds evil in the self-asserting 'will of the basis' set against the will to love.",
+   "why": "Chapter 16's account of Satan as egoistic self-love that cannot endure the other, running from Bohme to Sartre, is built directly on Schelling's freedom essay."
+  },
+  {
+   "ch": 30,
+   "type": "concept",
+   "suggested_slug": "diabolical-evil",
+   "name": "Radical and Diabolical Evil (Kant)",
+   "philosopher": "kant",
+   "domain": "kant-german-idealism",
+   "what": "Kant's threefold distinction between ordinary frailty, radical evil (subordinating morality to self-love), and diabolical evil (doing evil for its own sake).",
+   "why": "Chapter 30's entire classification of Batman, Two-Face, and the Joker runs on this threefold division, which no existing taxonomy slug names."
+  },
+  {
+   "ch": 35,
+   "type": "concept",
+   "suggested_slug": "evil-as-privation",
+   "name": "Evil as Privation of Good",
+   "philosopher": "augustine",
+   "domain": "religion-meaning",
+   "what": "Augustine's doctrine that evil is not a real positive force but a lack or corruption of good, as cold is the absence of heat.",
+   "why": "Chapter 35's contrast between Star Wars moral dualism and Augustinian monotheism rests entirely on the privation view of evil."
+  },
+  {
+   "ch": 37,
+   "type": "concept",
+   "suggested_slug": "sub-creation",
+   "name": "Sub-creation (Tolkien)",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Tolkien's idea that artistry is a subordinate making that rearranges created matter, distinct from true Creation and from dominating 'magic.'",
+   "why": "Chapter 37 explains Melkor's fall as the frustrated sub-creator who can only mimic and corrupt, never truly create, which is the chapter's central concept."
+  },
+  {
+   "ch": 40,
+   "type": "philosopher",
+   "suggested_slug": "cs-lewis",
+   "name": "C.S. Lewis",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Christian apologist and novelist whose Screwtape Letters and The Problem of Pain argue the Devil exists and works by subverting human reason.",
+   "why": "Chapter 40's whole analysis of the Devil's tactics as logical fallacies is drawn from Lewis's Screwtape Letters, and Lewis is absent from the taxonomy."
+  },
+  {
+   "ch": 41,
+   "type": "philosopher",
+   "suggested_slug": "cs-lewis",
+   "name": "C.S. Lewis",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Christian apologist and novelist whose Screwtape Letters and The Problem of Pain argue the Devil exists and works by subverting human reason.",
+   "why": "Chapter 41 reconstructs Lewis's argument from The Problem of Pain that either demons exist or God doesn't, and Lewis is absent from the taxonomy."
+  },
+  {
+   "ch": 41,
+   "type": "concept",
+   "suggested_slug": "free-will-defense",
+   "name": "The Free Will Defense",
+   "philosopher": "augustine",
+   "domain": "religion-meaning",
+   "what": "The reply to the problem of evil that God permits evil because free agents, capable of love, must be able to choose wrongly.",
+   "why": "Chapter 41 extends the free will defense to natural evil by postulating demons as its free perpetrators, which is the chapter's core argument."
+  }
+ ]
+}

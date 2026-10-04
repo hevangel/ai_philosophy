@@ -1,0 +1,217 @@
+{
+ "book": "172 - The Hunger Games and Philosophy - A Critique of Pure Treason",
+ "unit": "u254",
+ "chapters": [
+  {
+   "n": 22,
+   "file": "ch22 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gilligan",
+    "noddings",
+    "kant"
+   ],
+   "concepts": [
+    "care-ethics",
+    "care-ethics-noddings",
+    "kant-autonomy"
+   ],
+   "relation": "Averill argues that Katniss's morality is built on care for particular people rather than impartial principle: she volunteers for Prim, protects Rue because the girl resembles her sister, and spares a wounded District 2 soldier at the Nut because he recalls her father and the Seam. Measured against Kant's impartial justice perspective (embodied by Thresh sparing Katniss to repay a debt to Rue), she falls short — but Gilligan's care perspective and Noddings's distinction between natural and ethical caring recast this as a valid, even heroic, moral development. Using Noddings, the chapter traces Katniss's arc from natural care for Prim toward ethical care for strangers and even enemies, and reads her assassination of Coin as care for all of Panem's future children rather than revenge. Care, the chapter concludes, can even justify violence when it protects the vulnerable."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Hunger Games and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rousseau"
+   ],
+   "concepts": [
+    "rousseau-natural-goodness",
+    "state-of-nature",
+    "authenticity"
+   ],
+   "relation": "Coatney explains why Katniss fails at everything she fakes — the disastrous first propos ('that is how a revolution dies'), the studio Mockingjay shoots, the cover-story mission to kill Snow — through Rousseau's distinction between amour de soi (natural self-love) and amour-propre (vanity born of society): she is a natural person in a corrupt world of seeming. The chapter contrasts district self-preservation with Capitol vanity (Posy asking green-skinned Octavia 'Are you sick?'), and reads Haymitch's smooth deception as a costlier, self-destroying alternative to Katniss's inability to dissimulate. Since Rousseau doubts any return to the state of nature, Katniss's refusal to flee into the woods — 'I'm going to stay right here and cause all kinds of trouble' — shows her Nietzsche-noted fate of being punished for her virtue, still preferable to becoming like Effie."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "hume",
+    "plutarch",
+    "leibniz"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "ship-of-theseus",
+    "personal-identity",
+    "hume-bundle"
+   ],
+   "relation": "Michaud argues Peeta effectively died twice — once at the force field, and again when the Capitol's tracker-jacker hijacking rewrote his loving memories of Katniss into hatred. Using Leibniz's Law he rules out the body and DNA as what makes Peeta Peeta, then defends Locke's memory theory through thought experiments about a clone Peeta versus a brain-damaged original. Adapting Plutarch's Ship of Theseus as 'the Problem of Haymitch's Hovercraft,' he questions whether gradual change preserves identity, and finally leans toward Hume and Parfit: there may be no enduring self, only a bundle of perceptions replaced moment by moment. On this view Katniss protects the hijacked Peeta out of respect for the memory of the old Peeta, even as each of us is constantly replaced by someone new."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Hunger Games and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "kant"
+   ],
+   "concepts": [
+    "state-of-nature",
+    "social-contract",
+    "categorical-imperative",
+    "kant-humanity-formula"
+   ],
+   "relation": "Foy reads the arena as Hobbes's state of nature recreated: the Cornucopia bloodbath, 'stealing isn't illegal here,' and temporary alliances awaiting betrayal instantiate the war of all against all, while the Treaty of Treason is Panem's written social contract buying order at the price of submission to the Capitol. Gale's advice that killing tributes is 'just hunting' mirrors the Hobbesian maxim the Gamemakers want, whereas Peeta's vow to show he is 'more than a piece in their Games' expresses Kant's categorical imperative and the duty to treat humanity as an end. Katniss's arc — decorating Rue's body, risking her life at the feast for Peeta's medicine, telling the District 2 soldier 'I'm done killing their slaves,' and rejecting Gale's tactic of bombing rescuers — moves her from survival logic to Kantian moral autonomy. The chapter ends by rejecting the Hobbesian justification of oppressive rule: a life of fear and servitude is not worth preserving at any cost."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "clausewitz"
+   ],
+   "concepts": [
+    "just-war-theory",
+    "terrorism-violence"
+   ],
+   "relation": "Melançon tests the Mockingjay revolution against the just-war tradition's three parts: jus ad bellum, jus in bello, and jus post bellum. The districts satisfy just cause, right intention, last resort, and proportionality against the Capitol, but stumble on competent authority — no legitimate state authorizes their rebellion — a problem the chapter says forces the tradition to admit popular self-determination. Both sides then violate jus in bello: the rebels' avalanche on the Nut fails military necessity and proportionality, and the bombing of the Capitol's child shields plus the medics treating them breaches distinction twice, making the rebels as bad as the Capitol. The contemplated final Hunger Games with Capitol children would violate jus post bellum, so the revolution was not a just war and only stumbles into peace."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "game-theory"
+   ],
+   "relation": "Jones models Panem with game theory: the tesserae system is a rigged, house-favoring gamble on the reaping (Katniss's twenty entries versus Madge's three), the Training Days are a subgame for winning sponsors, and arena alliances formalize the prisoner's dilemma, where betray-betray is the stable equilibrium even though mutual cooperation would leave everyone better off. Iterated-play tit-for-tat wins computer simulations but fails in the arena because a betrayed tribute usually dies before retaliating — as Katniss's repeated misreadings of her allies show. Katniss's genius is stepping outside the game: with the nightlock berries she denies the Gamemakers a victor and forces a new game, and at the climax she plays terminal tit-for-tat against President Coin, showing the world need not follow the rules of the models."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - The Hunger Games and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault"
+   ],
+   "concepts": [
+    "discipline",
+    "panopticon",
+    "power-knowledge"
+   ],
+   "relation": "Van Dyke uses Foucault's account of discipline and 'docile bodies' (with Susan Bordo's feminist elaboration) to explain how the Capitol rules: citizens satiated with abundance channel their hungers into fashion, body modification, and self-surveillance, and this self-focused discipline trains their attention away from the injustices that sustain them — which is how the genuinely affectionate prep team can weep over Katniss yet love the Games. She shows that District 13 disciplines just as totally through rigid schedules, rations, and punishment (the prep team chained for taking bread), so neither Snow's hidden indulgence nor Coin's overt regimentation leaves room for autonomy. Cinna's styling of Katniss demonstrates the alternative: body modification as internally generated self-expression and resistance that helps Katniss become the Mockingjay rather than a docile body."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "seneca"
+   ],
+   "concepts": [
+    "stoicism",
+    "stoic-indifferents",
+    "stoic-cosmopolitanism"
+   ],
+   "relation": "Barkman reads the trilogy's Roman texture — panem et circenses, gladiatorial Games, tyrants named Coriolanus and Caesar — through the Stoic Seneca, who lived under Nero just as Katniss lives under Snow. Seneca's distinction between the good (virtue alone), the merely preferable (wealth, fame, power), and the bad (vice) explains the Capitol: Snow and Coin traded virtue for preferables and so became vicious, while the citizens' binge-and-purge luxury mirrors the Roman decadence Seneca condemned. The Hunger Games are the gladiatorial 'pure murder' that corrupts emperors, crowds, and tributes alike, and the districts are slaves whose liberation — like Katniss declaring 'I'm done killing their slaves' — is Seneca's freedom from slavery to fear and vice. Katniss and Peeta's self-sacrificial love and refusal to be changed exemplify the Stoic virtue the Capitol cannot take away."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Hunger Games and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "bourdieu"
+   ],
+   "concepts": [
+    "hegemony",
+    "marx-ideology"
+   ],
+   "relation": "Timm uses Bourdieu's forms of capital (economic, social, cultural) and habitus to explain why Panem needed no brute force for seventy-five years: District 12's school teaches the Hunger Games as normal, doles out history as 'what we owe the Capitol,' keeps districts ignorant of each other, and trains Seam children for the mines, so education reproduces inequality instead of curing it. Katniss and Gale's hunting and trading skills are only 'resistant cultural capital' — worthless to Capitol taste but a habitus of lawbreaking that made rebellion thinkable for them alone. Katniss's public defiance exposes the 'wavy squares' in the force field of taken-for-granted power, and the chapter likens her fate to Socrates, condemned by Athens's holders of capital yet igniting a revolution in values."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - The Hunger Games and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - The Hunger Games and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 29,
+   "type": "concept",
+   "suggested_slug": "game-theory",
+   "name": "Game Theory (prisoner's dilemma, tit-for-tat, Nash equilibrium)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The mathematical analysis of strategic decision-making, including zero-sum games, the prisoner's dilemma, equilibrium points, and the tit-for-tat strategy in iterated play.",
+   "why": "Chapter 29 is built entirely on game theory — it models the tesserae odds, the Training Days subgame, and the arena as a tribute's dilemma, and no taxonomy slug covers strategic-choice modeling."
+  },
+  {
+   "ch": 33,
+   "type": "philosopher",
+   "suggested_slug": "bourdieu",
+   "name": "Pierre Bourdieu",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "French sociologist-philosopher whose concepts of economic, social, and cultural capital and of habitus explain how class power quietly reproduces itself through education and taste.",
+   "why": "Chapter 33's entire analysis of how Panem's schools keep the districts subordinate is built on Bourdieu's capital/habitus framework, which the taxonomy lacks."
+  },
+  {
+   "ch": 28,
+   "type": "philosopher",
+   "suggested_slug": "thucydides",
+   "name": "Thucydides",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Ancient Greek historian whose Melian Dialogue ('the strong do what they have the power to do') is the classic statement of political realism in interstate relations.",
+   "why": "Chapter 28 applies the Melian Dialogue directly to Capitol-district relations as its definition of political realism, and Thucydides has no taxonomy entry."
+  },
+  {
+   "ch": 28,
+   "type": "philosopher",
+   "suggested_slug": "clausewitz",
+   "name": "Carl von Clausewitz",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Prussian military theorist who defined war as 'a continuation of politics by other means,' framing war as an instrument of political goals.",
+   "why": "Chapter 28 opens with Clausewitz's definition and uses it to set up the instrumental view of war it evaluates against pacifism and the just-war tradition."
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "book": "308 - The Palgrave Handbook of Popular Culture as Philosophy",
+ "unit": "u427",
+ "chapters": [
+  {
+   "n": 24,
+   "file": "ch24 - 22. Rick & Morty as Philosophy Nihilism in the Multiverse.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis",
+    "leibniz",
+    "marx",
+    "foucault",
+    "camus",
+    "schopenhauer",
+    "montaigne"
+   ],
+   "concepts": [
+    "possible-worlds",
+    "moral-relativism",
+    "historical-materialism",
+    "the-absurd",
+    "nihilism"
+   ],
+   "relation": "The chapter argues that Rick Sanchez's nihilism is built on cultural relativism plus the metaphysical fact of a multiverse. It reads Rick's mockery of racist alien snakes and the Gazorpazorp matriarchy through Montaigne's essay on cannibals to establish cultural relativism, and treats the microverse 'battery' society through Marx's base/superstructure and Foucault's docile bodies to argue all social values are constructed for the rulers. Rick's dimension-hopping (the Cronenberg episode, the Vat of Acid) literalizes David Lewis's modal realism and Leibniz's possible worlds, so that no action matters because a counterpart always does the opposite; his resulting hedonism and Birdperson's 'Wubba lubba dub dub' reveal Rick as a depressed near-Camusian who cannot live his own absurdist creed."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 23. The X-Files as Philosophy Navigating the “Truth Out There”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "socrates",
+    "descartes"
+   ],
+   "concepts": [
+    "nietzsche-perspectivism",
+    "unexamined-life",
+    "descartes-cogito",
+    "skepticism"
+   ],
+   "relation": "The chapter argues that Darin Morgan's X-Files episodes philosophize by critiquing the show's own 'the truth is out there' mantra from within. Through the conflicting hypnosis testimonies and identical camera blocking in 'Jose Chung's From Outer Space,' Morgan cinematically stages Nietzsche's perspectivism and the claim that 'truth is as subjective as reality'; through Clyde Bruckman and the doomed Ansel of 'Quagmire,' he mounts an anti-Socratic case that relentlessly pursuing truth (as Mulder does) is not worth the ruin it brings. Kowalski then rebuts Morgan using Descartes's cogito and inference-to-the-best-explanation to defend objective truth against radical skepticism, arguing subjectivism about truth is self-refuting."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 24. Game of Thrones as Philosophy Cynical Realpolitiks.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "aquinas",
+    "hobbes",
+    "machiavelli"
+   ],
+   "concepts": [
+    "locke-natural-rights",
+    "aquinas-natural-law",
+    "state-of-nature",
+    "social-contract"
+   ],
+   "relation": "The chapter argues that Game of Thrones advances a thoroughgoing cynicism about political legitimacy, captured by Varys's riddle that 'power resides where men believe it resides.' It documents the dubious claims of Robert 'the Usurper' and the pyromaniacal Daenerys, the barbaric Lockean 'state of nature' among the Wildlings, and the false ideals of chivalry and religion, with Littlefinger and Varys voicing Machiavellian realpolitik. Silverman and Riordan then offer two views the show never considers: Locke's social-contract theory of natural rights (which would justify deposing Aerys or Daenerys) and Aquinas's four-part test for genuine law (reason, common good, proper authority, promulgation), arguing a legitimate state remains possible against the show's cynicism."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 25. The Mandalorian as Philosophy “This Is the Way”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "noddings",
+    "marcus-aurelius",
+    "seneca"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-eudaimonia",
+    "stoicism",
+    "care-ethics"
+   ],
+   "relation": "The chapter argues that The Mandalorian defends virtue ethics with care as the primary virtue. It maps Mando's creed and 'Canons of Honor' (strength, honor, loyalty, death) onto Stoicism's discipline of desire and cardinal virtues, quoting Marcus Aurelius and Seneca, and reads his transformation after adopting Grogu as Aristotelian moral development toward eudaimonia and flourishing. Using Stocker's critique of impartialist ethics and Noddings's and Slote's ethics of care, Belluomini argues Mando's caring relation with Grogu, his engrossment and motivational displacement, and his removing his helmet at the end show that care ranks highest among the virtues and should guide our own 'Way.'"
+  },
+  {
+   "n": 28,
+   "file": "ch28 - 26. Midnight Mass as Philosophy The Problems with Religion.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mackie",
+    "plantinga",
+    "hume",
+    "marx"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "hume-miracles",
+    "hume-bundle",
+    "faith-vs-reason"
+   ],
+   "relation": "The chapter argues that Mike Flanagan's Midnight Mass, through its atheist surrogate Riley, mounts a cumulative case for atheism. Riley's 'campfire' theory naturalistically explains religion's origins; Riley and Dr. Gunning's refusal to call Leeza's healing a miracle enacts Hume's argument against testimony for miracles; Dr. Gunning's EPP explanation of the 'vampires' rebuts methodological naturalism. Sheriff Hassan's grief over his wife voices the problem of evil (Mackie) against the free-will defense (Plantinga), while Erin's dying monologue endorses a Humean/Buddhist no-self bundle theory over the soul. Johnson argues the series treats faith as an epistemic and moral vice and holy books as dangerously interpretable."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 27. Squid Game as Philosophy The Myths of Democracy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "plato",
+    "nussbaum",
+    "hobbes"
+   ],
+   "concepts": [
+    "democracy-theory",
+    "capabilities-approach",
+    "plato-forms",
+    "virtue-ethics"
+   ],
+   "relation": "The chapter argues that Squid Game exposes five 'myths' of democracy by showing how its trappings mask control by the wealthy few. Using Aristotle's Politics and Nicomachean Ethics it attacks the myth of free choice (the players' consent is coerced by debt) and the failure to cultivate virtue and transparency (Gi-hun deceives Il-nam in the marble game); it uses Sen and Nussbaum's capability approach to deny genuine empowerment; and it applies Plato's Phaedo two-worlds doctrine to argue the game instantiates no true form of truth, beauty, goodness, or justice. Il-nam's tie-breaking vote and Player 111's advantages illustrate that equality is only superficial, leaving a Hobbesian war of all against all inside a democratic shell."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 28. South Park as Philosophy Blasphemy, Mockery, and (Absolute ) Freedom of Speech.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "popper"
+   ],
+   "concepts": [
+    "harm-principle",
+    "mill-liberty",
+    "open-society"
+   ],
+   "relation": "The chapter argues, via the 'Cartoon Wars,' '200,' and '201' episodes, that South Park makes five arguments about free speech and evaluates each. Johnson defends the claims that catering to terrorist threats breeds more terrorism and that mockery is 'all or nothing,' but rejects South Park's implied case for absolute free speech: using Mill's On Liberty and harm principle he shows the 'marketplace of ideas' fails (citing 8kun and Fox News), and using Popper's paradox of tolerance he argues intolerance cannot itself be tolerated. He proposes a middle-ground 'PC Principle' where society, not the state, curbs harmful speech through deplatforming and public shaming while distinguishing tolerance from acceptance."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "nihilism",
+   "name": "Nihilism",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "The view that life is meaningless and that no values, purposes, or actions carry ultimate significance.",
+   "why": "Chapter 24's entire thesis is that Rick & Morty presents and defends existential/cosmic nihilism, and the taxonomy has 'the-absurd' and 'meaning-of-life' but no slug for nihilism itself as the chapter's central concept."
+  }
+ ]
+}

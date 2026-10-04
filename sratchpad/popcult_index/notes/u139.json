@@ -1,0 +1,513 @@
+{
+ "book": "085 - Homeland and Philosophy - For Your Minds Only",
+ "unit": "u139",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Homeland and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Homeland and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Homeland and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Homeland and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "plato-euthyphro",
+    "problem-of-evil",
+    "faith-vs-reason"
+   ],
+   "relation": "Robert Arp's introduction explains that Homeland's jihadist material (Nazir, Hamid, Brody, 9/11) drew him in and previews the book's philosophizing with a sample argument: whether morality needs God. He argues jihadists ground ethics in Allah's commands, but since faith defies rational proof, competing conceptions of God conflict, and scripture (Abraham and Isaac, the Flood, the Egyptian firstborn, the genocide commands in 1 Samuel and Hosea) has God commanding atrocities, either the terrorists' God is evil or morality is better grounded in reason without God. The dilemma he poses - a good God would not command 9/11, so the command conception or God's goodness must go - is the Euthyphro structure applied to terrorism."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Homeland and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity"
+   ],
+   "relation": "Jason Iuliano asks whether the Brody who lied to Helen Walker about Tom Walker's death is the same person as the one who beat Walker, and whether 2011 Brody is responsible for 2003 Brody's acts. He contrasts the biological criterion (same human animal), the psychological criterion of overlapping memories and intentions (so Brody remembering his family remains the same person), and the narrative identity theory Carrie invokes in 'Q&A' when she says Nazir pulled Brody apart and put him back together as someone else. A Carrie thought experiment about ECT outcomes and a Nazir mind-swap of Brody's and Walker's psychologies argue that only narrative coherence captures whom we should praise, blame, and anticipate surviving."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "korsgaard",
+    "kierkegaard",
+    "sartre"
+   ],
+   "concepts": [
+    "korsgaard-constructivism",
+    "bad-faith",
+    "existence-precedes-essence"
+   ],
+   "relation": "Talia Morag reads Brody's colliding roles - Marine, congressman, father, Muslim, follower of Abu Nazir - and Carrie's unstable ones (CIA agent, bipolar patient, lover) through Korsgaard's notion of practical identities, whose contradictory obligations (kill and not kill) demand reconciliation. Following Kierkegaard's advice to rethink labels like 'Christian', Brody reinterprets his suicide tape as acting 'as a Marine' against domestic enemies - a rationalizing move the chapter treats as bordering on bad faith - while Dana's phone call in 'Marine One' reasserts the father identity and stops the bombing. Carrie's 'Q&A' re-description of Brody as a good man and future hero shows identities are constructed through choices, Sartre's point that we are not summaries of our past."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke"
+   ],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity"
+   ],
+   "relation": "Laszlo Kajtar uses Brody's Complex PTSD - torture, forced killing of Walker, intrusive nightmares attacking Jessica - to test theories of personal identity. Animalism says Brody is the same biological organism before and after captivity, while the psychological approach, sourced in Locke's memory criterion, traces continuity of beliefs, desires, and intentions and finds it disrupted by trauma and Nazir's brainwashing, which filled the hole trauma left after Issa's death. Kajtar argues both miss the first-personal 'sense of self': like many PTSD sufferers, Brody feels he is not the person he was, and 'It's like she doesn't know who I actually am now' shows identity shattered from the inside."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Homeland and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "seneca",
+    "singer",
+    "aristotle"
+   ],
+   "concepts": [
+    "stoicism",
+    "kant-humanity-formula",
+    "utilitarianism"
+   ],
+   "relation": "John Karavitis evaluates four suicide events: Afsal Hamid's suicide in CIA custody, Aileen Morgan's cutting her throat with a lens, Brody's aborted suicide bombing, and Carrie's ECT as a 'suicide' of her old self. Kant's absolute ban on suicide (it denies your humanity) clashes with Seneca's Stoic counsel that a life of miserable captivity need not be continued, and with Singer's utilitarian permission of euthanasia that reduces suffering - under both, Hamid's and Aileen's suicides are defensible while Brody's emotionally driven bombing is not. Dana's plea that her father is needed recasts Aristotle's point that suicide wrongs the community, and Sloterdijk's analysis of rage turned on oneself frames Carrie's amoral self-destruction."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "philosophy-of-love",
+    "aristotle-friendship"
+   ],
+   "relation": "Brittany Lorenz and Adam Barkman apply the Greek four-loves framework (storge, eros, philia, agape) to Homeland's relationships. Terrorism breaks storge by destroying comfort in familiar places; broken eros appears in the Brody-Jessica-Mike-Carrie square and Mira's lover who loves 'making love' rather than her; philia falters because Brody hides his Islam from Jessica, and Abu Nazir's bond with Brody is Aristotle's friendship of utility, dissolving when the advantage ceases. Brody's agape for country is broken because fighting abroad violates his prior duties as husband and father, so the show offers only glimpses of loves that might be redeemed."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Homeland and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "moral-luck",
+    "consequentialism"
+   ],
+   "relation": "Dan Burkett defends Brody against blame for flipping the suicide-vest switch in 'Marine One' by arguing he was not free. On the desire-satisfaction view Brody freely avenge Issa, but via Locke's locked-room thought experiment (Carrie contentedly 'freely' staying in a house she cannot leave) the chapter motivates the libertarian requirement that one could have done otherwise, which Nazir's years of torture and brainwashing may have removed. The malfunctioning vest then raises moral luck - Brody is no better a person because the bomb failed - and since Dana's plea restricts his options just as coercively, the best defense grants Brody freedom throughout, making the switch blameworthy and his free choice to come home genuinely redemptive."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "aristotle",
+    "rousseau",
+    "bentham"
+   ],
+   "concepts": [
+    "panopticon",
+    "aristotle-virtue-ethics",
+    "rousseau-social-contract"
+   ],
+   "relation": "April Marratto and Adam Barkman use Foucault's appropriation of Bentham's panopticon - surveillance whose mere threat disciplines - to read Carrie's illegal watches on the Brody house, the family's stay in the safe house, and Dana's discovery that speech about her father's Islam is policed. Against Foucault's claim that freedom is an illusion maintained by power, the chapter sets Aristotle's view that freedom is a self-directed will choosing rightly (Dana making amends for the hit-and-run) and Rousseau's social contract, under which citizens trade equal freedoms for equal protection. Both would endorse Saul forcing Brody's detox for the country's sake, concluding absolute freedom is neither possible nor desirable."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Homeland and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke"
+   ],
+   "concepts": [
+    "terrorism-violence"
+   ],
+   "relation": "Roberto Sirvent and Ian Diorio argue, following William Cavanaugh's 'myth of religious violence', that the assumption that religion is uniquely irrational, absolutist, and divisive blinds Americans to their own fanaticism. Homeland's blind spots - Carrie suspecting the Muslim Galvez, Dana's classmate nuking Tehran, 'Infinite Justice' naming, Guantanamo torture flashed right after Carrie's 'We don't do that here' - show the religious/secular split is a construct (traced to Locke's privatizing of faith and Augustine's broad religio) that legitimizes state violence while deeming identical acts crazy when done by the religious. Nazir's 'Who is the terrorist?' drone question and 'We only begin as enemies because that's what others told us to be' seal the point."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "machiavelli",
+    "walzer",
+    "adam-smith",
+    "kant"
+   ],
+   "concepts": [
+    "machiavelli-ends",
+    "invisible-hand",
+    "deontology",
+    "consequentialism",
+    "dirty-hands"
+   ],
+   "relation": "Christophe Porot and Charles Taliaferro ask whether Homeland's pervasive hypocrisy and deceit can be justified, starting from Walden's cover-up of the drone strike and Brody's heroic persona hiding a terrorist plot. Machiavelli's Prince supplies the case that political relationships with allies (Saul's 'Us and Them' speech to Carrie) require hypocrisy, while the Smith-inspired 'honest politicking' model - trading openly on self-interest, as with Carrie blackmailing al Sahrani - fails because politics should secure the public good, though la Rochefoucauld's 'homage vice pays virtue' explains Saul extorting the judge into doing right. Weighing Kant's unconditional duty not to lie (Carrie's fatal lie to Lynne Reed) against consequentialism, the chapter lands on the Walzer Dirty Hands view: some acts stay wrong yet necessary, and honest agents accept the guilt."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Homeland and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "just-war-theory",
+    "terrorism-violence"
+   ],
+   "relation": "Jai Galliott argues Homeland's drone strike that killed Issa is not a one-off plot device but mirrors real US drone warfare that breeds blowback: strikes strengthen al-Qaeda's brand and radicalize the disaffected, from Brody to the Boston bombers. He analyzes the asymmetry problem - the weak side comingles with civilians, straining the just war principles of discrimination and proportionality, while drone operators living among US suburbs become contested targets - and rejects giving weaker states a 'wild card' of lowered ethical standards. His proposal is that the technologically superior side bind itself to stricter just war compliance and policing-like restraint, since foreseeable terrorist reciprocity can tip proportionality against the war itself."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "kant-humanity-formula",
+    "utilitarianism",
+    "just-war-theory"
+   ],
+   "relation": "Edwin Jacob contrasts the utilitarian calculus behind Walden's drone strike - Estes's eighty percent estimate, 'potential collateral damage falls within current matrix parameters', eighty-three children killed - with Kant's three formulations of the categorical imperative applied to that decision. On the universal-law formula Walden cannot will a world of strikes on one's own soil, on the humanity formula the schoolchildren are used merely as means, and the kingdom-of-ends formula condemns treating foreign lives as quantities in a matrix. The chapter adds that drones, like Brody's suicide vest, are asymmetric terror at a distance, and that blowback (Shahzad's Times Square attempt) shows the strategy fails even consequentialist test."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Homeland and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "hume",
+    "peirce",
+    "russell"
+   ],
+   "concepts": [
+    "cartesian-doubt",
+    "skepticism"
+   ],
+   "relation": "Don Fallis frames Homeland as a world of real epistemic warfare - unlike Descartes' hypothetical malicious demon, terrorists and the CIA actively engineer false appearances (Brody the war hero, Carrie the support-group veteran, Saul's memory-card trick). He analyzes lying versus true-but-misleading statements, uses Russell's barber paradox to define double agents without contradiction, and shows how Carrie, Dana, and Lauder each detect an inconsistency (Yorkshire Gold tea, the locked bedroom, Walker's three missed shots). Following Hume on testimony and Peirce's abduction - inference to the best explanation - Dana concludes her father is a terrorist, and Coady's defense of conspiracy theories vindicates Lauder's Brody-Walker hypothesis."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "mill",
+    "kant"
+   ],
+   "concepts": [
+    "locke-natural-rights",
+    "harm-principle",
+    "kant-respect",
+    "utilitarianism"
+   ],
+   "relation": "Christian Cotton asks whether Carrie's clandestine surveillance of the Brody home, though illegal, is morally wrong, distinguishing legality from morality. Locke's state of nature grounds natural rights to life, liberty, property - and by extension privacy - that government exists to protect and that no national-security goal automatically overrides; Mill's utilitarianism would justify violating one family's privacy to prevent an attack, but Mill's own harm principle and 'tyranny of the majority' caution blocks it when Carrie has only a hunch. Kant's respect for persons as ends in themselves condemns Saul's blackmail of Judge Turner as using a man merely as means, so the Right constrains pursuit of the Good."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Homeland and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rousseau",
+    "boethius",
+    "voltaire"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "boethius-consolation",
+    "fate-vs-free-will",
+    "rousseau-natural-goodness"
+   ],
+   "relation": "Trip McCrossin reads Carrie's 'I missed something once before... everyone's not me' as the modern, secular problem of evil: as Susan Neiman argues, unreasonable suffering threatens reason itself, and the Rousseau-Voltaire split defines the responses. Carrie takes Rousseau's side - 'All is good leaving the hands of the author of things' degenerates in human hands, so evil is intelligible and redemption possible, the chance at redemption she offers Brody and even Nazir - against Voltaire's Candide-style tending of the garden. The finale deepens this with Boethius's Consolation: Carrie's 'I believe one of the reasons I was put on this Earth was for our paths to cross' fuses fate with providence, and she accepts Brody's execution as a redemptive end 'more so if he dies'."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "hume"
+   ],
+   "concepts": [
+    "personal-identity",
+    "hume-bundle"
+   ],
+   "relation": "Frank Scalambrino probes Carrie's 'personality paradox' through the 'You can't change your soul!' / 'Yes you can' exchange. Aristotle's Metaphysics offers one pole: only generation and corruption are substantial change, so Carrie persists essentially as human however her mania, job, and loves shift. Hume's rejoinder - sameness of kind is not given in sense experience but added by interpretation - opens the question of whether Carrie's identity is determined by intrinsic factors (love, soul, truth) or extrinsic ones (the CIA's rules, religious affiliation), with Saul representing extrinsic determination and Carrie privileging the intrinsic, while Brody's conversion shows a soul can change and re-order which factors govern a self."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Homeland and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "mill",
+    "aristotle"
+   ],
+   "concepts": [
+    "deontology",
+    "utilitarianism",
+    "virtue-ethics"
+   ],
+   "relation": "Robert Arp uses Saul's interrogation of Afsal Hamid (sleep-deprivation via cold, strobe lights, heavy metal) and the good cop/bad cop dynamics of Brody's 'Q&A' interrogation to examine deception in interrogations, including the nine-step Reid technique and its role in false confessions documented by the Innocence Project. He then tests the routine practice of lying to sources against three frameworks: Kant's absolute duty not to lie, Mill-inspired rule utilitarianism, which permits lies when telling truth regularly harms but lets interrogation exceptions serve the greater good, and Aristotle's virtue theory, on which habitual lying makes the agent vicious. Saul's lie about Hamid's family shows why the utilitarian exception dominates in the war on terror."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "mill"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "deontology",
+    "kant-humanity-formula",
+    "male-gaze"
+   ],
+   "relation": "Dona Cayetana and Nathan Everson argue that 'enhanced interrogation techniques' is a euphemism - with Zizek and Badiou they show relabeling torture as what the West does while 'torture' is what Muslims do conceals identity between the acts, as 'Blind Spot''s safe-house interrogation of Hamid demonstrates. Utilitarianism justifies Saul's fatiguing of Hamid by its results, while the Kantian view that persons must never be mere means condemns it categorically; the chapter contends the show's framing nudges viewers to accept torture as a necessary evil. Carrie's gendered role as Zizek's 'new face of torture' - a pretty white woman whose desirability and perceived vulnerability become interrogation tools, from sex with Brody to 'You broke my heart' - feminizes and normalizes the spectacle."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Homeland and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rawls",
+    "anscombe",
+    "mill",
+    "bentham"
+   ],
+   "concepts": [
+    "just-war-theory",
+    "veil-of-ignorance",
+    "deontology",
+    "utilitarianism"
+   ],
+   "relation": "John Fitzpatrick asks whether anything goes in war, using the FBI's killing of two innocents in the mosque and the ensuing official lie, plus Walden's strike on Issa's school. Truman's Hiroshima utilitarianism (saving lives overall) meets Anscombe's deontology - 'to choose to kill the innocent as a means to their ends is always murder' - before Rawls's social contract supplies a middle path: rules rational parties would agree to behind a veil of ignorance ('we won't kill your children if you don't kill ours'), which condemns both Nazir and Walden since neither faces an 'extreme crisis' like 1940 Britain. Brody's turn is itself Rawlsian: what breaks him is the unfairness of killing children as collateral damage."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "terrorism-violence",
+    "just-war-theory",
+    "deontology",
+    "utilitarianism"
+   ],
+   "relation": "William Rodriguez traces terrorism's evolving meaning from the Jacobins' state Terror through anarchist 'propaganda by deed' (Nechayev, Bakunin) to non-state groups, then tests whether Abu Nazir's campaign, grounded in bin Laden's 1998 fatwa grievances and the greater/lesser jihad distinction, can be morally justified. On a utilitarian defense terrorism could be last-resort self-defense against a collectively guilty population, but the just war criteria of competent authority, right intention, last resort, discrimination, and proportionality all fail for al-Qaeda, since civilians killed on 9/11 were neither combatants nor guilty. Deontologically, targeting civilians violates the right to life and human dignity, so Nazir's attacks on innocents are murder, however real the grievances."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "macintyre",
+    "heidegger",
+    "augustine",
+    "hobbes"
+   ],
+   "concepts": [
+    "social-contract",
+    "augustine-city-of-god",
+    "thrownness"
+   ],
+   "relation": "Roberto Sirvent and Ian Diorio ask what the state really asks soldiers to die for: not Hobbes-and-Locke's rational social contract, since we are Heideggerian thrown into the wreckage of democracy rather than a pure founding state, but a nation that makes itself sacred. MacIntyre's charge that killing for the nation-state is 'killing for the telephone company' frames the analysis of America's civil liturgies - oaths (semper fidelis), flag ritual mirrored eerily in Brody burying Jessica's thrown Quran, saints, martyrs, and Saul pitting belief in America against belief in Allah. Augustine's civitas dei names the result: America as chosen city of God, and Islam terrifies the West because its creed claims devotion above any national flag."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Homeland and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "terrorism-violence",
+    "anarchism"
+   ],
+   "relation": "This standalone section traces terrorism's history and definition, from the French Revolution's Reign of Terror when the state was 'le terroriste' (Robespierre's 'terror is nothing other than justice that is prompt, severe, and inflexible') to the term's reversal onto non-state actors via Russian anarchists like Nechayev. It offers a seven-feature characterization (violence, destruction, indiscriminate harm, psychological trauma, propaganda, policy change, non-state perpetration) matching the UN's 2004 definition, then catalogs often-forgotten American terrorism: the Boston Tea Party reframed as a news report, the Ku Klux Klan's campaign, the Haymarket bombing, the Los Angeles Times and Wall Street bombings by labor radicals and anarchists, the Bath School massacre, the Mad Bomber, the Weather Underground, anti-abortion Army of God killings, and the Unabomber."
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Homeland and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 39,
+   "file": "ch39 - Homeland and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "four-loves",
+   "name": "The Four Loves (storge, eros, philia, agape)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "C.S. Lewis's four-fold Greek taxonomy of love: affection (storge), romantic desire (eros), friendship (philia), and sacrificial charity (agape).",
+   "why": "Chapter 14 reads every Homeland relationship as broken instances of these four loves, and the organizing framework (and C.S. Lewis) is absent from the taxonomy; philosophy-of-love alone does not capture it."
+  },
+  {
+   "ch": 19,
+   "type": "concept",
+   "suggested_slug": "myth-of-religious-violence",
+   "name": "The Myth of Religious Violence",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "William Cavanaugh's thesis that the religious/secular violence distinction is a modern Western construction used to legitimize state violence as rational while deeming identical acts fanatical when religiously coded.",
+   "why": "Chapter 19 is built entirely on this critique to reread Homeland's terrorist/CIA double standards, and no taxonomy slug covers the religious-secular distinction or its politicized use."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "dirty-hands",
+   "name": "Political Dirty Hands",
+   "philosopher": "walzer",
+   "domain": "political-social",
+   "what": "Walzer's view that politicians sometimes must do what is genuinely wrong for good ends, accepting guilt rather than pretending the act becomes right.",
+   "why": "Chapter 20's climax frames Saul's and Carrie's deceit through the Dirty Hands tradition Walzer named in his 1973 article, and the taxonomy has Walzer but no dirty-hands concept."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "abduction-inference-best-explanation",
+   "name": "Abduction (Inference to the Best Explanation)",
+   "philosopher": "peirce",
+   "domain": "knowledge-science-reality",
+   "what": "Peirce's term for reasoning to the simplest hypothesis that best explains the observed facts.",
+   "why": "Chapter 25 makes inference to the best explanation - Dana's, Carrie's, and Lauder's unmasking of Brody - its central epistemological tool, credited to Peirce, but the taxonomy has no slug for it."
+  },
+  {
+   "ch": 28,
+   "type": "philosopher",
+   "suggested_slug": "voltaire",
+   "name": "Voltaire",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "Enlightenment satirist whose Candide mocked optimistic theodicy and who anchors the tradition that morality demands we NOT make evil intelligible.",
+   "why": "Chapter 28 structures the problem of evil around the Rousseau-versus-Voltaire dispute, using Voltaire's 'tend your garden' resignation as the pole Carrie's redemptive Rousseauian response rejects."
+  },
+  {
+   "ch": 36,
+   "type": "concept",
+   "suggested_slug": "civil-religion",
+   "name": "Civil Religion",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The nation-state's self-presentation as sacred through rituals, oaths, flags, martyrs, and liturgies that claim ultimate devotion from citizens.",
+   "why": "Chapter 36 argues Homeland exposes American civil religion - the flag receiving worship owed to God - and no existing slug (closest: augustine-city-of-god) names this concept."
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+  "book": "213 - Tennis and Philosophy - What the Racket Is All About",
+  "unit": "u305",
+  "chapters": [
+    {
+      "n": 3,
+      "file": "ch03 - ii.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 4,
+      "file": "ch04 - Title.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 5,
+      "file": "ch05 - Copyright.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 6,
+      "file": "ch06 - Dedication.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 7,
+      "file": "ch07 - vi.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 8,
+      "file": "ch08 - Contents.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 9,
+      "file": "ch09 - Acknowledgments.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 10,
+      "file": "ch10 - Introduction The Love of Wisdom.md",
+      "kind": "chapter",
+      "philosophers": ["plato"],
+      "concepts": ["meaning-of-life", "platonic-love"],
+      "relation": "Editor David Baggett frames the collection with his own lifelong love of tennis (watching the 1980 Borg-McEnroe Wimbledon final, idolizing Borg and Gerulaitis) and argues tennis is an ideal springboard for philosophy, glossing 'philosophy' as the etymological 'love of wisdom.' He invokes Plato's idea that instances of beauty in this world make the heart ache for beauty's truest source, applying it to the sublime excellence of great play. He positions the whole book as using tennis to reach questions that matter, including the meaning of life, citing David Foster Wallace's quip that the title Tennis and the Meaning of Life is 'redundant.'"
+    },
+    {
+      "n": 11,
+      "file": "ch11 - Federer as Religious Experience.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche"],
+      "concepts": ["apollonian-dionysian", "embodiment", "kant-aesthetics"],
+      "relation": "David Foster Wallace argues that watching Roger Federer live at Wimbledon delivers a near-religious experience because top sport is a prime venue for 'kinetic beauty'—a beauty rooted in human beings' reconciliation with the fact of having a body. He reads the 2006 Federer-Nadal final as a clash of the Apollonian (Federer's clinical northern artistry) against the Dionysian (Nadal's martial southern machismo), and dwells on specific Federer Moments (the reverse-thrust forehand winner against Agassi at the 2005 US Open) as instances where an athlete seems exempt from physical law. He treats Federer's grace as ineffable, defining it by what it is not, and juxtaposes the transcendent beauty of the body against the suffering body of cancer-survivor coin-tosser William Caines."
+    },
+    {
+      "n": 12,
+      "file": "ch12 - Why Roger Federer Is the Best Or Is It McEnroe.md",
+      "kind": "chapter",
+      "philosophers": ["anselm"],
+      "concepts": ["skepticism", "ontological-argument", "sartre-freedom"],
+      "relation": "David Baggett asks who is the all-time best male tennis player and treats it as a genuine problem in metaphysics ('what is the case?') and epistemology ('how do we know it?'), surveying candidates from Tilden to Federer against ten criteria. He argues the sentence 'Federer is the all-time best' is vague, running the tennis-ball-losing-an-atom sorites through three theories of vagueness—fuzzy logic, supervaluationism, and Timothy Williamson's epistemicism, which he favors: there is a fact of the matter (God knows it) but our closeness-to-the-margin ignorance keeps us from knowing it. He uses Anselm's ontological argument and Guanilo's perfect-island reply to distinguish the all-time best from the best-possible player, and invokes Sartre's existentialist rejection of mere potentiality ('could've/should've') to insist he is asking who actually was best, not who might have been."
+    },
+    {
+      "n": 13,
+      "file": "ch13 - Why Are All Tennis Films Bad.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "wittgenstein"],
+      "concepts": ["kant-aesthetics"],
+      "relation": "Mark Huston argues no truly great tennis film—a 'Raging Bull of tennis'—will ever be made, and builds his case through genre theory. He contrasts an Aristotelian essentialist approach to defining a genre (necessary and sufficient conditions, as in Noel Carroll's Poetics-derived definition of horror) with a Wittgensteinian 'family resemblance' account, adopting the latter to identify overlapping-but-nonessential core features of the sports film (representing a real sport, literal not merely metaphorical emphasis, a culminating sporting moment, an athlete protagonist). Reading Nobody's Perfect, Wimbledon, and Tennis, Anyone...?, and citing David Foster Wallace on how tennis's speed is essentially untelevisable, he concludes tennis's un-representability on screen plus the genre's uplift bar it from the aesthetic seriousness that wins critical greatness."
+    },
+    {
+      "n": 14,
+      "file": "ch14 - Excuses, Excuses Inside the Mind of a Complainer.md",
+      "kind": "chapter",
+      "philosophers": ["freud"],
+      "concepts": ["freud-unconscious", "stoicism", "moral-psychology"],
+      "relation": "Kevin Kinghorn, drawing on interviews with coach Brad Gilbert, dissects why tennis players and their parents complain and make excuses. He catalogs cognitive biases and the vividness effect (why a bad call, like McEnroe's 'You cannot be serious!' outburst, sticks and feels like persecution) as forms of irrationality, and notes Stoicism (which he attributes to Zeno) as a philosophy that would suppress the complaining temperament. His central mechanism is Freudian self-deception: citing Freud's hypnotized-umbrella subject who invents a reason for his own behavior, he argues tennis parents pretend their child is destined for greatness and then genuinely come to believe the lie, so excuse-making becomes a self-destructive sign a player will never be a champion. He also reads Andrea Jaeger's ambivalence about winning as evidence of mixed, partly unconscious motivations."
+    },
+    {
+      "n": 15,
+      "file": "ch15 - Authoritarian Tennis Parents Are Their Children Really Any Worse Off.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "mill", "nozick"],
+      "concepts": ["aristotle-eudaimonia", "experience-machine", "higher-lower-pleasures"],
+      "relation": "Kevin Kinghorn asks whether authoritarian tennis parents (like the family of prodigy Jan Silva) harm their children's well-being, and tests three theories of the good life. He rejects Aristotle's perfectionist eudaimonia because the 'uniqueness of reason' criterion fails, substituting his own perfectionist-yet-mental-state view that well-being consists in the felt experience of connecting with others. He defends a Mill-style hedonism of higher and lower pleasures against Robert Nozick's experience-machine objection, arguing the machine only refutes the claim that we desire mental states, not that well-being consists in them, and dismisses desire-satisfaction theories and Feinberg's 'right to an open future' as failing to show that lost autonomy itself lowers a child's flourishing."
+    },
+    {
+      "n": 16,
+      "file": "ch16 - \u201cYou Cannot Be Serious!\u201d The Ethics of Rage in Tennis.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "mill", "bentham"],
+      "concepts": ["utilitarianism", "categorical-imperative", "golden-rule"],
+      "relation": "David Detmer asks whether John McEnroe's on-court tantrums are merely rude or genuinely immoral, judging them by two ethical theories. Under Bentham's utilitarianism he weighs the pleasure of entertained crowds against the harm to abused officials, then uses Mill's higher/lower pleasures distinction to discount the 'lower' amusement of gawking at boorishness beneath the 'higher' aesthetic pleasure of appreciating great tennis. Under Kantian deontology he argues McEnroe's public false accusations are wrong in principle: officials are better positioned to make calls, so the abuse is unjust, and by the categorical imperative read as a Golden Rule, McEnroe—who resents being wrongly criticized himself—is a hypocrite whose 'gamesmanship' unfairly exploits his star power against opponents."
+    },
+    {
+      "n": 17,
+      "file": "ch17 - Love\u2013Love A Fresh Start at Finding Value and Virtue in Tennis.md",
+      "kind": "chapter",
+      "philosophers": ["macintyre", "aristotle"],
+      "concepts": ["macintyre-tradition", "virtue-ethics", "stoicism"],
+      "relation": "Tommy Valentini argues that because winning lies outside a player's control (he could never beat Nadal by simply choosing to), success in tennis should be redefined around what is controllable. Using Alasdair MacIntyre's After Virtue, he treats tennis as a MacIntyrean practice and distinguishes external goods (trophies, prize money, ranking—zero-sum, tied to winning) from internal goods (full effort, positive attitude, sportsmanship) that require the virtues of justice, honesty, and courage and are available to winner and loser alike. Drawing on Aristotelian justice ('giving each their due') and Randolph Feezell on the opponent as competitor-and-friend, he holds up Arthur Ashe's Stoic response to AIDS in Days of Grace as the exemplar of carrying tennis's internal goods into life in the face of an uncontrollable outcome, death."
+    }
+  ],
+  "holes": []
+}

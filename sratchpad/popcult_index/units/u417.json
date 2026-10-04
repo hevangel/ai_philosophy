@@ -1,0 +1,77 @@
+{
+ "unit": "u417",
+ "book": "300 - Who Is Who_ The Philosophy of Doctor Who",
+ "part": "1/1",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\300 - Who Is Who_ The Philosophy of Doctor Who",
+ "range": null,
+ "chapters": [
+  {
+   "n": 7,
+   "file": "ch07 - Who is Who.md",
+   "words": 1017
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Who is Who.md",
+   "words": 6883
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Who is Who.md",
+   "words": 9138
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Who is Who.md",
+   "words": 9955
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Who is Who.md",
+   "words": 10392
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Who is Who.md",
+   "words": 8662
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Who is Who.md",
+   "words": 8866
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Who is Who.md",
+   "words": 7857
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Who is Who.md",
+   "words": 9028
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Who is Who.md",
+   "words": 6468
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Who is Who.md",
+   "words": 3111
+  }
+ ],
+ "content": [
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ]
+}

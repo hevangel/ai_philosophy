@@ -1,0 +1,107 @@
+{
+ "unit": "u049",
+ "book": "031 - Johnny Cash and Philosophy - The Burning Ring of Truth",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\031 - Johnny Cash and Philosophy - The Burning Ring of Truth",
+ "range": [
+  20,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 20,
+   "file": "ch20 - From Cash to Kant\u2014and Back Again.md",
+   "words": 3865
+  },
+  {
+   "n": 21,
+   "file": "ch21 - PART IV - Justice.md",
+   "words": 3
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Good, The Bad, and The Ugly.md",
+   "words": 5037
+  },
+  {
+   "n": 23,
+   "file": "ch23 - \u201cUnchained\u201d The Inspired Anger of a Religious Man.md",
+   "words": 5224
+  },
+  {
+   "n": 24,
+   "file": "ch24 - What Is Justice.md",
+   "words": 4855
+  },
+  {
+   "n": 25,
+   "file": "ch25 - PART V - God.md",
+   "words": 3
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Memories Are Made of This.md",
+   "words": 5122
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Redemption.md",
+   "words": 4143
+  },
+  {
+   "n": 28,
+   "file": "ch28 - \u201cA Boy Named Sue\u201d A Cashian Theodicy.md",
+   "words": 4025
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Christmas in Jamaica.md",
+   "words": 4450
+  },
+  {
+   "n": 30,
+   "file": "ch30 - About the Authors.md",
+   "words": 1718
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Index.md",
+   "words": 1847
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Johnny Cash and Philosophy.md",
+   "words": 282
+  },
+  {
+   "n": 33,
+   "file": "ch33 - ALSO FROM OPEN COURT.md",
+   "words": 275
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Johnny Cash and Philosophy.md",
+   "words": 5068
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Copyright Page.md",
+   "words": 192
+  }
+ ],
+ "content": [
+  20,
+  22,
+  23,
+  24,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34
+ ]
+}

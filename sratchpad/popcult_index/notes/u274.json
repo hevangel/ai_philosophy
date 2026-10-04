@@ -1,0 +1,423 @@
+{
+ "book": "189 - The Ultimate Star Trek and Philosophy - The Search for Socrates",
+ "unit": "u274",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Series.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Titlepage.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Competing with High Quality Data.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Acknowledgments.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Editors Decker and Eberl open with William Shatner's 1986 'Get a life' Saturday Night Live skit and argue that thousands of hours spent watching Star Trek are not wasted, because the show is a treasure trove of philosophical questions. They preview the volume's ethics chapters on captains' moral psychology and the Prime Directive (asking why Kirk is so hellbent on destroying utopian civilizations), its social-political chapters on Klingons, Borg values, Federation economics versus Ferengi capitalism, and justice in the Q Continuum, and its metaphysical chapters on whether Data and Voyager's holographic Doctor are persons, Riker's duplication, and holodeck skepticism. It closes by framing Roddenberry's secular humanism against the seriously treated religious cultures of the Klingons and Bajorans."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Part I Alpha Quadrant Home Systems.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nozick",
+    "aristotle",
+    "aquinas",
+    "plato",
+    "socrates"
+   ],
+   "concepts": [
+    "experience-machine",
+    "unexamined-life",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "Jason Eberl uses the amusement park of 'Shore Leave', Omicron Ceti III's spore paradise in 'This Side of Paradise', Landru's hedonistic 'red hour', and the Borg's relentless efficiency to argue that edifying play and leisure are necessary for intellectual, moral, and spiritual flourishing. Following Josef Pieper's Leisure, with Nozick's experience machine (applied to 'The Thaw' and Barclay's holodiction), Aristotle's 'we work in order to be at leisure', and Aquinas on wonder, he contrasts mere utility (bonum utile) with the common good a drone-only Collective can never have. He concludes that thoughtfully watching Star Trek is itself worthwhile leisure: science-fiction thought experiments that serve Socrates's examined life."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-friendship"
+   ],
+   "relation": "Jerold Abrams reads J. J. Abrams's Kirk as Aristotle's megalopsychos and 'god among men' from the Politics: too excellent to be a mere crewmember, disdainful of rank, speaking openly from love and hate, and a law unto himself. The four-on-one bar fight, reprogramming the unwinnable Kobayashi Maru, declaring 'Some should be' above the Prime Directive to Pike, and his exile to frozen Delta Vega (like the Argonauts stranding Heracles) all enact Aristotle's dilemma that a society must either exile such a man or submit to his monarchy. Spock, a great-souled man himself, becomes Kirk's 'second self' in Aristotle's truest friendship once Kirk takes the captain's chair."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "rawls",
+    "hume",
+    "nussbaum"
+   ],
+   "concepts": [
+    "moral-psychology",
+    "plato-tripartite-soul"
+   ],
+   "relation": "Tim Challans treats Kirk, Picard, Archer, and Janeway as case studies in moral psychology, with the captain as Plato's charioteer balancing the horses of Spock's logic and McCoy's feeling. He reads Picard's 'there are four lights' coercion in 'Chain of Command' and his Locutus guilt in 'Family' through Rawls's shame/guilt distinction and Nancy Sherman's 'moral injury', while Kirk's 'I need my pain' refusal of Sybok and Archer's Xindi-era regrets show commanders owning guilt, regret, and remorse. Drawing on Nussbaum's 'upheavals of thought' and Hume's passions, he argues that a rare, well-integrated moral psychology—pride tempered by humility, as Q's lesson in 'Tapestry' demonstrates—is what qualifies the one-in-a-million starship captain."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "confucius",
+    "aristotle"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "kant-humanity-formula",
+    "confucian-junzi",
+    "utilitarianism"
+   ],
+   "relation": "Barcenas and Bein pit Kant against Confucius on the Prime Directive, opening with Kirk's Nibiru volcano rescue of Spock in Into Darkness. Kant's categorical imperative—universalization and respect tests applied to Scotty's dilemma in 'Bread and Circuses' and Worf's 'not a matter of degree'—makes the Directive absolute, while Confucius and Aristotle ground morality in cultivated character: a junzi like Picard may bend the rule when virtue demands it, as in 'Pen Pals' and rescuing Wesley from the Edo in 'Justice'. They conclude Starfleet needs both: the Kantian rule for most officers, and exemplary persons like Picard to know when the rule fails."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "nozick",
+    "rousseau"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia",
+    "utopia-dystopia",
+    "moral-relativism"
+   ],
+   "relation": "David Kyle Johnson argues Kirk is a jerk for dismantling utopias—the machine-god Vaal in 'The Apple' and the spore colonists of Omicron Ceti III in 'This Side of Paradise'—whose members were happy, healthy, and arguably free. Taking up objections from the Mission Log podcast, he rebuts the 'stagnation' and 'drug' charges by testing the utopias against Aristotle's eudaimonia and Maslow's self-actualization, and exposes the appeal-to-nature fallacy behind 'artificial happiness'. Using Rousseau on primitive simplicity and Nozick's libertarian minimal state, he concludes that the real threat to freedom is Kirk himself (and a Federation that, as Eddington says, assimilates without telling you), and that at minimum cultural relativism forbids wrecking harmless societies."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "freud"
+   ],
+   "concepts": [
+    "just-war-theory",
+    "terrorism-violence",
+    "state-of-nature",
+    "utilitarianism"
+   ],
+   "relation": "David Boersema reads Star Trek as a survey of peace studies, distinguishing negative peace from positive peace via 'The Cloud Minders', where Troglyte Vanna demands her people's 'right to the clouds' in Stratos. Against Anan 7's 'we're a killer species' in 'A Taste of Armageddon'—explicitly mirrored in post-9/11 drone war and 'shock and awe'—he enlists Hobbes, Freud, and McCoy's defense of the dark Kirk in 'The Enemy Within' to question whether violence is natural, and treats Kodos's 'some had to die that others might live' in 'The Conscience of the King' as the utilitarian justification for atrocity. Gem's compassion in 'The Empath', Kirk sparing the Gorn in 'Arena', and the Horta's misread attack in 'The Devil in the Dark' display nonviolence, deterrence, and corrected perception as alternatives to war."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Part II Beta Quadrant Dangerous Rivalries.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "ubermensch",
+    "death-of-god",
+    "moral-relativism"
+   ],
+   "relation": "Victor Grech presents Klingons as a cultural pastiche—Mongol horde stereotypes, Japanese Bushido, Viking Valhalla, Shakespeare 'restored to the original Klingon'—whose 1500-year honor code and embrace of honorable death (Klag's dishonored father, Jadzia's rebuke of Kang) make them Nietzschean Ubermenschen who slew their own gods, echoing Nietzsche's 'God is dead'. The Kahless clone of 'Rightful Heir' ('perhaps the words are more important than the man') shows a messianism surviving deicide. He then reads Worf through Roland Barthes's 'Occidentalism' and one-way acculturation—Picard praising Worf's 'humanity' after 'Reunion'—while Azetbur's 'human rights' is racist jab in The Undiscovered Country and Trekkers' Klingon cosplay raise cultural relativism and appropriation."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes"
+   ],
+   "concepts": [
+    "heidegger-technology",
+    "cartesian-dualism",
+    "utopia-dystopia",
+    "transhumanism"
+   ],
+   "relation": "Dan Dinello reads the Borg as the nightmare double of Data: where Data embodies Asimov's Laws of Robotics and Federation humanism, the Borg realize Jacques Ellul's and Langdon Winner's thesis that technology is an autonomous, totalitarian force assimilating its makers rather than a neutral tool. He traces the Collective's shared mind and quest for 'perfection' to transhumanism (Max More, James Hughes), whose philosophical roots lie in Descartes's mechanical body and mind-as-information—the very premise of Ira Graves's consciousness upload in 'The Schizoid Man'. Picard's tear as Locutus and Hugh's acquired individuality in 'I, Borg' show that creativity and liberal humanist values, not technology, defeat the ultimate techno-totalitarian dystopia."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "clark"
+   ],
+   "concepts": [
+    "kant-autonomy",
+    "kant-humanity-formula",
+    "extended-mind",
+    "relational-autonomy"
+   ],
+   "relation": "Barbara Stock uses the Borg to analyze autonomy: Picard's 'they took everything I was' names the Collective's destruction of self-governance, while Hugh's choice to return to the crash site in 'I, Borg' displays the Kantian core of autonomy—acting on universalizable principle against inclination. She defends relational autonomy through Janeway's pleading with Kes in 'The Gift' and the Ferengi woman's internalized oppression, then combines it with Clark's extended cognition to ask whether the Borg Queen's 'I am the Collective' might make the Collective itself an autonomous agent. Finally she judges Janeway's forcible de-assimilation of Seven defensible only while Seven is non-autonomous, and her promise never to let Seven return ethically suspect."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "locke"
+   ],
+   "concepts": [
+    "state-of-nature",
+    "social-contract",
+    "locke-natural-rights"
+   ],
+   "relation": "Alkema and Barkman put Q himself on trial, asking what justifies his judgment of humanity in 'Encounter at Farpoint' and Trelane's of Kirk in 'The Squire of Gothos'. Hobbes's Leviathan would license Q's might-makes-right sovereignty over a savage species, but Q lacks humanity's consent and cannot show he acts for future peace; Locke's natural law instead binds even nearly omnipotent beings, as Janeway's asylum ruling for the suicidal Quinn in 'Death Wish' demonstrates. Q's repeated self-sacrifice—in 'Deja Q' and the Continuum's civil war—reveals a conscience answerable to natural law rather than raw power."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "marx-alienation",
+    "historical-materialism",
+    "class-struggle"
+   ],
+   "relation": "Jeff Ewing argues the Federation's moneyless, postscarcity economy is Marx's transitional stage on the way to classless communism: Picard's 'we've eliminated hunger, want, the need for possessions' and Troi's exchange with Samuel Clemens in 'Time's Arrow' mark Marx's shift from the realm of necessity to the realm of freedom. He reconstructs Marx and Engels on alienation, the division of labor, labor-tokens, and the withering state to dissolve the apparent anomalies—Federation credits, Quark's tab, the Chateau Picard vineyard—as survivals of transition rather than capitalism. Rom's 'workers of the world unite' in 'Bar Association' and the self-actualizing leisure of Enterprise crews complete the case."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bentham",
+    "mill",
+    "hume"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "greatest-happiness",
+    "higher-lower-pleasures"
+   ],
+   "relation": "Greg Littmann tests utilitarianism against Star Trek's heroes, reading Spock's 'the needs of the many outweigh the needs of the few' (The Wrath of Khan, Into Darkness) as Bentham's greatest-happiness principle, with Kirk's radiation-chamber death as its mirror image. He uses Mill's higher and lower pleasures to contrast the TNG crew's improbably refined holodeck tastes with Kirk's Argelius shore leave and Quark's 'Vulcan Love Slave', and Hume's slave-of-the-passions thesis to defend emotion against Vulcan suppression. Against Janeway killing Tuvix, Sisko's conspiracy in 'In the Pale Moonlight', and Kirk letting Edith Keeler die, he notes Trek never shows the many actually harmed, but sides with the utilitarians: favoring friends and the few is arbitrary discrimination."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "applied-ethics"
+   ],
+   "relation": "Courtland Lewis argues Star Trek teaches philosophy through casuistry: episodic case studies that test intuitions, moving from paradigm cases to harder ones. Its three sci-fi virtues—scientific constraint, flexible realism, and thought experimentation, shown in 'Clues' and contrasted with Doctor Who's 'Kill the Moon'—let it stage 'The Measure of a Man's hearing on Data's personhood and 'Nothing Human's dilemma over using Cardassian Mengele-style research data (analogous to Tuskegee) to save B'Elanna without the racial baggage of real-world cases. Viewers deliberate along with the crew—Janeway uses the data, then the Doctor deletes Crell Moset—which is exactly why Trek changes lives."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Part III Delta Quadrant Questing for Home.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "parfit",
+    "descartes"
+   ],
+   "concepts": [
+    "parfit-teleportation",
+    "personal-identity",
+    "cartesian-dualism"
+   ],
+   "relation": "William Jaworski argues, opening with Breaking Bad's Skinny Pete and Badger, that you should never enter a transporter: after showing the MEM converter violates Heisenberg's uncertainty principle, he asks whether the reassembled pattern is you or a replica. He tests three escape routes—Vulcan katra substance dualism (The Wrath of Khan, The Search for Spock) in the tradition of Plato and Descartes; constitutionalism, on which you survive total replacement by robotic parts as Picard nearly does under Borg assimilation; and Parfit's survival-without-identity answer to Riker's fission in 'Second Chances'. Each fails or costs too much: dualism wrecks moral intuitions about killing, constitutionalism faces the two-Riker indeterminacy, and mere 'survival' cannot sustain the particularity of love."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "parfit"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "parfit-teleportation",
+    "personal-identity"
+   ],
+   "relation": "Trip McCrossin reads 'The Enemy Within's split Kirk (with its LBJ/Vietnam subtext) and 'Second Chances's two Rikers as a crash course in Locke's consciousness theory of personal identity, from 'Turnabout Intruder's body swap and reward-and-punishment problem to the transitivity-of-identity paradox that blocks both Kirks from being the original. Parfit's degrees of psychological connectedness, he argues, explain why TNG treats the both-Rikers-survive answer as uncontroversial where TOS agonized over it. But Thomas Riker's renaming, and David Wiggins's 'only a and b' rule, reveal that identity would become an extrinsic property if branching mattered—so the survival-versus-identity debate ends 'to be continued'."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "bentham",
+    "protagoras"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "categorical-imperative",
+    "sophist-relativism"
+   ],
+   "relation": "Nina Rosenstand reads 'The Measure of a Man' as a Kantian defense of Data's personhood: Maddox's sentience criteria concede intelligence and self-awareness, and Picard—prompted by Guinan's warning that a ruling for Maddox means an army of android slaves—shows a rational being must be treated as an end in himself, never dismantled merely for Starfleet's benefit. Bentham's utilitarianism supplies the contrast (an army of Datas would maximize happiness), while the episode's title ironizes Protagoras's 'man is the measure of all things', since the measure here is rationality rather than humanity. Louvois's open verdict becomes precedent for Lal, the exocomps, and Voyager's Doctor, and a metaphor for real struggles for recognition."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 8,
+   "type": "philosopher",
+   "suggested_slug": "josef-pieper",
+   "name": "Josef Pieper",
+   "philosopher": "aquinas",
+   "domain": "religion-meaning",
+   "what": "Twentieth-century Thomist philosopher whose Leisure: The Basis of Culture argues that leisure and festivity—not mere work or pleasure—are the basis of contemplation and human flourishing.",
+   "why": "Chapter 8 is built entirely on Pieper's concept of leisure, applied to 'Shore Leave', the Omicron Ceti III spores, and Star Trek viewing itself as edifying play."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "moral-injury",
+   "name": "Moral Injury",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Nancy Sherman's notion that service members can be wounded in their moral identity—especially by shame—losing their sense of self rather than merely having done wrong.",
+   "why": "Chapter 10 uses moral injury to explain Picard's Locutus guilt and shame in 'Family' and the captain's need to carry rather than erase guilt, regret, and remorse."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "maslow-self-actualization",
+   "name": "Self-Actualization (Maslow's Hierarchy of Needs)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Abraham Maslow's account of the highest human need: fulfilling one's potential once biological, safety, and social needs are met.",
+   "why": "Chapter 12 tests whether Kirk's 'stagnation' complaints against the spore and Vaal utopias hold up by checking those societies against Maslow's criteria for self-actualization."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "positive-peace",
+   "name": "Positive vs Negative Peace",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Peace-studies distinction between negative peace (mere absence of violence) and positive peace (social conditions that let people fulfill their potential, making justice intrinsic to peace).",
+   "why": "Chapter 13 organizes its whole philosophy-of-peace reading of Trek around this distinction, applying positive peace to 'The Cloud Minders' and the Troglytes' 'right to the clouds'."
+  },
+  {
+   "ch": 15,
+   "type": "concept",
+   "suggested_slug": "cultural-appropriation",
+   "name": "Cultural Appropriation and Acculturation",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The one-way imposition or adoption of a culture's practices outside their original context—acculturation for the assimilated minority, appropriation for the adopting majority.",
+   "why": "Chapter 15 uses Occidentalism, acculturation, and appropriation to analyze Worf's forced assimilation to Federation norms and Trekkers' adoption of Klingon language, ritual, and dress."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "transhumanism",
+   "name": "Transhumanism",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The techno-utopian program (Max More, James Hughes) of using genetic, cybernetic, and nanotechnological enhancement to surpass human limitations and become posthuman.",
+   "why": "Chapter 16's title thesis is that the Borg are transhumanists run amok: their pursuit of 'perfection' through assimilation mirrors and critiques real transhumanist enhancement goals."
+  },
+  {
+   "ch": 16,
+   "type": "philosopher",
+   "suggested_slug": "jacques-ellul",
+   "name": "Jacques Ellul",
+   "philosopher": "heidegger",
+   "domain": "existentialism-phenomenology",
+   "what": "French philosopher of technology who argued that 'technique' is an autonomous, self-augmenting reality that tolerates no outside judgment and is inherently totalitarian.",
+   "why": "Chapter 16 reads the Borg primarily through Ellul's and Langdon Winner's claim that technology pursues its own course beyond human control, making the Collective technology itself."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "relational-autonomy",
+   "name": "Relational Autonomy",
+   "philosopher": "gilligan",
+   "domain": "ethics-moral-psychology",
+   "what": "Feminist accounts (Mackenzie and Stoljar) holding that autonomy is enabled or suppressed by social relations rather than exercised by an isolated, self-sufficient individual.",
+   "why": "Chapter 17 uses relational autonomy to argue Janeway's pleading with Kes supports rather than undermines her choice, and to ask whether the Borg Collective itself counts as autonomous."
+  },
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "casuistry",
+   "name": "Casuistry (case-based reasoning)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "A method of moral reasoning that works from paradigm cases and shared intuitions toward verdicts in new cases, rather than applying abstract theory top-down (Jonsen and Toulmin).",
+   "why": "Chapter 21 argues Star Trek is philosophy's great casuistic teacher: its episodes, from 'The Measure of a Man' to 'Nothing Human', are carefully staged case studies for viewers' intuitions."
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "constitutionalism",
+   "name": "Constitutionalism (persons constituted by bodies)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Lynne Rudder Baker's view that a person and her body share all parts yet are distinct objects, the person being constituted by (not identical with) the body and surviving its gradual replacement.",
+   "why": "Chapter 23 gives constitutionalism a full section as the middle way between dualism and animalism for transporter survival, tested against Riker's fission in 'Second Chances'."
+  }
+ ]
+}

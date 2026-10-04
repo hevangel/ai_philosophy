@@ -1,0 +1,92 @@
+{
+  "book": "303 - Philosophy and the Interpretation of Pop Culture",
+  "unit": "u420",
+  "chapters": [
+    {
+      "n": 6,
+      "file": "ch06 - NOTES.md",
+      "kind": "chapter",
+      "philosophers": ["plato", "aristotle"],
+      "concepts": ["plato-cave", "culture-industry"],
+      "relation": "William Irwin's introduction argues philosophy must engage popular culture rather than fear it as Plato feared Homer and the poets. He invokes Plato's allegory of the cave to make the case that the philosopher who has left the cave must return and 'learn to see the shadows again'—use The Simpsons, The Matrix and Seinfeld as the vernacular through which prisoners can be led out—and answers Adorno-style culture-industry worries that mass entertainment is mere opiate. He closes by echoing Aristotle's serious treatment of the popular art (tragedy) of his day as warrant for treating today's pop culture philosophically."
+    },
+    {
+      "n": 7,
+      "file": "ch07 - I - PHILOSOPHY AND POPULAR CULTURE.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 8,
+      "file": "ch08 - NOTES.md",
+      "kind": "chapter",
+      "philosophers": ["beauvoir", "aristotle", "descartes"],
+      "concepts": ["ethics-of-ambiguity", "existentialism", "cartesian-doubt"],
+      "relation": "Carolyn Korsmeyer uses Aristotle's Poetics dictum that the 'probable impossible' beats the possible improbable to argue popular narrative can actually conduct philosophy, not merely illustrate it. Her central case is that the TV series Angel—the ensouled, guilt-cursed vampire who concludes 'if nothing we do matters, then all that matters is what we do'—independently arrives at the same existentialist position as Simone de Beauvoir's The Ethics of Ambiguity, with no textual borrowing. She contrasts The Matrix's dramatically sustained Cartesian dream-doubt against the 'improbable impossible' Dallas dream-season, showing why one is a philosophical vehicle and the other bankrupt."
+    },
+    {
+      "n": 9,
+      "file": "ch09 - NOTES.md",
+      "kind": "chapter",
+      "philosophers": ["plato", "adorno", "benjamin"],
+      "concepts": ["plato-cave", "culture-industry", "benjamin-aura"],
+      "relation": "Irwin asks 'what is popular culture?', rejecting Noel Carroll's 'mass art' accessibility criterion (using the Sex Pistols, Slipknot and the Beatles as counterexamples of inaccessible-yet-popular art) and Walter Benjamin's aura/mechanical-reproduction account, settling on popular culture as 'artifacts and subjects of mass interest and appreciation.' He rebuts Adorno's and Zizek's culture-industry charge that pop culture (e.g. The Matrix, The X-Files) ideologically ensnares audiences, and again deploys Plato's cave and the returning prisoner—citing Socrates meeting interlocutors where they are—to justify using pop culture as a bridge to philosophy while warning against 'abuse' (studying pop culture as philosophy)."
+    },
+    {
+      "n": 10,
+      "file": "ch10 - NOTES.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": [],
+      "relation": "Theodore Gracyk analyzes artistic allusion in mass art, arguing (against Carrier and partly with Carroll) that accessibility does not preclude esoteric interpretive richness. His signature case is that The Matrix's red/blue pill scene overtly alludes to Alice's Adventures in Wonderland yet covertly alludes to Lewis Carroll's Sylvie and Bruno lockets, foreshadowing Neo as a Christ figure who must 'love all.' Drawing on Paul Grice's conversational implicature and Austin's illocutionary/perlocutionary speech-act theory, he argues allusion (Alien/Star Wars, Randy Newman's 'I Love L.A.', the Deliverance banjo in The Simpsons) is intentional and normatively constrains which associations transfer from source to alluding text."
+    },
+    {
+      "n": 11,
+      "file": "ch11 - NOTES.md",
+      "kind": "chapter",
+      "philosophers": ["plato"],
+      "concepts": [],
+      "relation": "Noel Carroll examines how popular fictions bind audiences emotionally through their relation to characters, starting from Plato's claim in the Republic that the popular arts pander to the emotions (pity and fear). He rejects both 'identification' (we rarely share characters' states—we fear for lovers who feel bliss, feel joy when the villain is foiled) and the fashionable 'simulation' theory as comprehensive accounts, arguing instead that sympathy—a pro-attitude directed at morally endorsable protagonists like Maximus in Gladiator—is the real 'tie that binds,' supplemented by involuntary 'mirror reflexes' (mimicking a screaming face in horror films, tapping to Riverdance)."
+    },
+    {
+      "n": 12,
+      "file": "ch12 - NOTES.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "augustine", "moore"],
+      "concepts": ["kant-aesthetics", "plato-forms"],
+      "relation": "Ted Cohen denies there is any sound argument from 'X is better than Y' to 'it is better to like X,' using Bach vs. Elvis vs. Milton Babbitt on complexity to show the criterion collapses. He reframes art around 'communities of appreciation'—citing Augustine's claim that a people is defined by what it loves in common—and reports (via a blues club in Memphis and the Marriage of Figaro) that what all appreciators of a work share is 'nothing' but their love of it, a Goodman-style nominalism. He challenges Kant's insistence that genuine aesthetic judgments claim universality, arguing real appreciative communities are less-than-universal overlapping circles."
+    },
+    {
+      "n": 13,
+      "file": "ch13 - NOTES.md",
+      "kind": "chapter",
+      "philosophers": ["moore", "adorno", "kant", "hegel", "dewey", "aristotle"],
+      "concepts": ["culture-industry", "kant-aesthetics", "pragmatism"],
+      "relation": "Richard Shusterman defends the entertainment value of popular art from a pragmatist ('meliorist') stance, tracing entertainment's genealogy through Plato, Aristotle, Montaigne, Kant, Hegel, Nietzsche, Heidegger and Adorno—whose 'culture industry' opposes pleasure to cognition. Using rap (KRS-One's 'Edutainment', Public Enemy, Ice-T) and T.S. Eliot's 'superior amusement,' he argues knowledge and enjoyment are compatible. He rejects Hannah Arendt's contrast of imperishable art vs. life-serving entertainment, and critiques G.E. Moore's Principia Ethica 'method of absolute isolation' for intrinsic value, replacing it with a Deweyan transactional account in which even intrinsic values are relational and temporal."
+    }
+  ],
+  "holes": [
+    {
+      "ch": 10,
+      "type": "concept",
+      "suggested_slug": "artistic-allusion",
+      "name": "Artistic Allusion",
+      "philosopher": "",
+      "domain": "mind-language-metaphysics",
+      "what": "An intended indirect reference from an alluding artwork to an identifiable source text that invites the audience to import associations, analyzed via Grice's conversational implicature and Austin's speech-act theory.",
+      "why": "Chapter 10 is entirely about artistic allusion in mass art (The Matrix/Sylvie and Bruno, Alien/Star Wars) and the taxonomy has no concept for allusion, implicature, or intentionalist interpretation."
+    },
+    {
+      "ch": 11,
+      "type": "concept",
+      "suggested_slug": "identification-and-sympathy",
+      "name": "Emotional Identification vs. Sympathy in Fiction",
+      "philosopher": "",
+      "domain": "mind-language-metaphysics",
+      "what": "The philosophy-of-mind debate over how audiences relate emotionally to fictional characters—identification, simulation theory, sympathy as a pro-attitude, and mirror reflexes.",
+      "why": "Chapter 11's whole argument concerns the emotional bond between audiences and fictional characters, a topic the taxonomy's emotion/mind concepts do not cover."
+    }
+  ]
+}

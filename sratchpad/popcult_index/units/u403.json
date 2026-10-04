@@ -1,0 +1,79 @@
+{
+ "unit": "u403",
+ "book": "282 - Climbing \u2013 Philosophy for Everyone - Because It's There",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\282 - Climbing \u2013 Philosophy for Everyone - Because It's There",
+ "range": [
+  23,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 23,
+   "file": "ch23 - Cannabis Philosophy for Everyone.md",
+   "words": 4899
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Cannabis Philosophy for Everyone.md",
+   "words": 4921
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Cannabis Philosophy for Everyone.md",
+   "words": 4530
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Cannabis Philosophy for Everyone.md",
+   "words": 4643
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Cannabis Philosophy for Everyone.md",
+   "words": 4683
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Cannabis Philosophy for Everyone.md",
+   "words": 8
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Cannabis Philosophy for Everyone.md",
+   "words": 4830
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Cannabis Philosophy for Everyone.md",
+   "words": 5079
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Cannabis Philosophy for Everyone.md",
+   "words": 4686
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Cannabis Philosophy for Everyone.md",
+   "words": 1880
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Cannabis Philosophy for Everyone.md",
+   "words": 1914
+  }
+ ],
+ "content": [
+  23,
+  24,
+  25,
+  26,
+  27,
+  29,
+  30,
+  31,
+  32,
+  33
+ ]
+}

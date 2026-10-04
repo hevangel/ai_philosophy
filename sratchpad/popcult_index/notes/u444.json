@@ -1,0 +1,258 @@
+{
+ "book": "194 - Taylor Swift and Philosophy - Essays from the Tortured Philosophers Department",
+ "unit": "u444",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Front matter.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates"
+   ],
+   "concepts": [
+    "unexamined-life"
+   ],
+   "relation": "The editors' introduction (bundled with the series page, copyright page, contents, and contributor bios) sets up the book's premise: Swift's lyrics, speeches, and interviews - from her NYU commencement 'life hacks' to the Easter eggs of Midnights - pose philosophical questions about heartbreak, forgiveness, time, love, memory, feminism, and knowledge. Framed by the series' Socratic motto that the unexamined life (and the unexamined cartoon) is not worth living/watching, it declares Swift honorary Chair of the 'Tortured Philosophers Department,' claiming a philosopher can be a bejeweled young woman with a guitar as much as a professor behind ivy-covered walls."
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Introducing ... Taylor Swift's Philosophy Era.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Part I Who Is Taylor Swift Anyway Ew.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Is Taylor Swift a Philosopher.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nussbaum",
+    "iris-murdoch"
+   ],
+   "concepts": [
+    "feminism"
+   ],
+   "relation": "Catherine Robb tests whether Swift counts as a philosopher, rejecting both the 'words of wisdom / life hacks' definition (which would make every advice-giver a philosopher) and the narrow academic model of philosophy as direct, abstract, discursive prose. The decisive case is Swift's treatment of sexist double standards across 'The Man,' 'mad woman,' 'Lavender Haze,' 'But Daddy I Love Him,' and her Billboard Woman of the Decade speech, where she states the stereotypes women face and systematically reflects on subverting them through first-person and fictional narratives. Drawing on Martha Nussbaum's claim that poetry and storytelling are vehicles of ethical inquiry, the chapter concludes Swift is an 'accidental philosopher.'"
+  },
+  {
+   "n": 5,
+   "file": "ch05 - You Should Find Another Guiding Light Is Taylor Swift Admirable.md",
+   "kind": "chapter",
+   "philosophers": [
+    "linda-zagzebski"
+   ],
+   "concepts": [
+    "virtue-ethics",
+    "moral-psychology"
+   ],
+   "relation": "Kate Schmidt asks whether Swift is admirable, starting from 'Dear Reader,' where Swift herself warns fans not to take her as a guiding light. After showing that admiring the songs without the artist fails (Swift says her songwriting and her life are 'one in the same') and that her character resists assessment (the Matty Healy controversy, private-jet use, silence on political issues), the chapter borrows Alfred Archer and Benjamin Matheson's account of admiration for ideals: what fans should admire and imitate is the ideal protagonist of resilience and joy-after-heartbreak in songs like 'Shake It Off,' 'Bejeweled,' and 'long story short,' not Swift's whole person."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Eyes Open Taylor Swift and the Philosophy of Easter Eggs.md",
+   "kind": "chapter",
+   "philosophers": [
+    "charles-taylor"
+   ],
+   "concepts": [
+    "parasocial-relationship"
+   ],
+   "relation": "Eline Kuipers explains Swift's Easter eggs - capital-letter messages in album booklets, the neon letters in 'ME!,' snake boots teasing reputation - as engineered puzzles that exploit a deep-rooted love of problem-solving and reward fans with an 'Aha!' moment. Each decoded egg is a parasocial interaction that strengthens a one-sided fan-celebrity bond marked by asymmetries of attention, communication, and knowledge (following Archer and Robb), giving fans belonging without rejection-risk. With Charles Taylor's dialogical account of identity she argues these bonds cannot support real identity negotiation - only the Swiftie community the eggs create, trading friendship bracelets and theories, can."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Taylor Swift and the Ethics of Body Image.md",
+   "kind": "chapter",
+   "philosophers": [
+    "young",
+    "heather-widdows"
+   ],
+   "concepts": [],
+   "relation": "Gah-Kai Leung reads Swift's fat-shaming and skinny-shaming, her admitted restricted eating in Miss Americana, and the deleted 'FAT' scale scene from 'Anti-Hero' through Heather Widdows's thesis that beauty has become an ethical demand rather than a mere aesthetic preference, with four components (thin, firm, smooth, youthful) that contradict each other. Because Swift is simultaneously a global beauty icon and its casualty, she exposes the ideal's contradictions, and the chapter argues that individual 'changing the channel' resistance fails because beauty norms are a communal, structural injustice - only collective celebrity action, as with #MeToo and Lady Gaga's public support, can shift them."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - So Mother for That Taylor Swift and Childless Mothering.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir",
+    "butler",
+    "audre-lorde",
+    "kristeva"
+   ],
+   "concepts": [
+    "feminism",
+    "care-ethics",
+    "heteronormativity"
+   ],
+   "relation": "Lucy Britt and Brian Britt trace the fan practice of calling childless Swift 'mother' back to the Black and queer ballroom house mothers of Paris Is Burning (Carmen Xtravaganza, Willi Ninja), whose original meaning - relational care and leadership in found families - was mostly lost when Swifties appropriated the term. Using Simone de Beauvoir on femininity, Judith Butler's culturally constructed body, and Audre Lorde on Black mothering as resistance, they argue Swift functions as a postmodern, queered mother whose revisiting of her 'eras' teaches fans to mother their own past selves. Yet her individualism ('You're on your own, kid') blocks the relational politics of care that Joan Tronto's caring democracy and Adriana Cavarero's maternal inclination demand."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Part II Look What You Made Me Do - Reputation, Forgiveness, and Blame.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Can I Forgive You for Breaking My Heart.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "forgiveness",
+    "moral-psychology"
+   ],
+   "relation": "Sophia and Glen Pettigrove attack the near-universal philosophical assumption that forgiveness presupposes wrongdoing by examining heartbreak without fault: incompatible dreams in 'Midnight Rain,' fading love in 'right where you left me,' and unrequited love in 'Teardrops on My Guitar.' Because even innocent heartbreaking inflicts undeserved harms - obsessive pain, damaged self-esteem, distrust, a rewritten past ('happiness') - and runs the same emotional and relational course as being wronged, they propose revising the definition of forgiveness to cover letting go of hard feelings toward blameless heartbreakers, with Swift's songs as the first-person evidence."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - How to Forgive an Innocent Taylor, Kanye, and the Ethics of Forgiveness.md",
+   "kind": "chapter",
+   "philosophers": [
+    "p-f-strawson"
+   ],
+   "concepts": [
+    "forgiveness",
+    "moral-psychology"
+   ],
+   "relation": "Sarah Köglsperger asks whether Swift's song 'Innocent,' performed at the 2010 VMAs for Kanye West after he hijacked her 2009 acceptance speech, is genuine forgiveness or a condescending 'slam disguised as forgiveness.' Using P.F. Strawson's reactive attitudes and objective attitude to rule out the readings that Kanye is a blameless child or that Taylor merely became indifferent (as in 'I Forgot That You Existed'), she defends the song as Jean Hampton-style 'change of heart' forgiveness that separates the wrongdoer from the wrong ('who you are is not what you did'), legitimate even without certain repentance because of our shared human fallibility."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - This Is Why We Can't Have Nice Things Goodwill as a Finite Resource.md",
+   "kind": "chapter",
+   "philosophers": [
+    "p-f-strawson",
+    "kant"
+   ],
+   "concepts": [
+    "forgiveness",
+    "moral-psychology"
+   ],
+   "relation": "Georgie Mills develops a philosophical account of goodwill - trust extended with the expectation of honest reciprocity - through 'This Is Why We Can't Have Nice Things': Swift forgave Kanye after 2009, extended goodwill again during their 2016 'Famous' phone call, and had that goodwill destroyed by the secretly recorded, edited clip Kim Kardashian released, sparking #TaylorSwiftIsOverParty. The song's 'shaking my head and locking the gates' shows goodwill is finite and fragile, and following P.F. Strawson (against Kant's 'good will,' which is explicitly set aside) refusing a second forgiveness is not pettiness but taking Kim and Kanye seriously as members of the moral community."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Taylor Swift's Philosophy of Reputation.md",
+   "kind": "chapter",
+   "philosophers": [
+    "adam-smith"
+   ],
+   "concepts": [
+    "moral-psychology",
+    "feminism",
+    "reputation"
+   ],
+   "relation": "Catherine Robb and Roos Slegers reconstruct a philosophy of reputation from the reputation album: with Sperber, Baumard, and Origgi, reputation is a shared group consensus ('they say I did something bad') that is fake, warped, and outside one's control, yet Adam Smith's Theory of Moral Sentiments explains why it still wounds - we deeply want not only to be loved but to be lovely, seen for who we really are (the invisible dance through the streets in 'Delicate'). The chapter's original contribution is Swift's 'tilted stage,' performed literally on the reputation tour: gendered double standards ('The Man,' 'mad woman') mean a woman's reputation is more fake, more imposed, and more punishing than a man's."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - It's Me, Hi! I'm the Problem It's Me Taylor Swift and Self-Blame.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-psychology"
+   ],
+   "relation": "Agnès Baehni asks whether the self-blame saturating 'Anti-Hero,' 'Afterglow,' 'High Infidelity,' and 'Dear John' models a justified or an excessive tendency, especially for Swift's young female audience. Against Dana Nelkin's risk-based explanation of the blame asymmetry, she argues the relevant notion is suffering plus self-knowledge: we may blame ourselves more than others only because we usually know our own aggravating and excusing conditions better ('maybe it's me / And my blind optimism to blame'), and since self-blame is always overt while other-blame can stay private, the proportionality norm sometimes forbids blaming ourselves at all."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Part III The Girl in the Dress Wrote You a Song.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Begin Again (Taylor's Version) On Taylor Swift's Repetition and Difference.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard",
+    "deleuze"
+   ],
+   "concepts": [
+    "repetition-and-difference"
+   ],
+   "relation": "King-Ho Leung casts Swift as a philosopher of repetition, using Kierkegaard's distinction between backward-looking recollection and forward-moving repetition to show that 'Back to December' is not reliving the past but rewriting it ('turn around and change my own mind ... make it alright'), and that tiny lyric changes ('I bet' becoming 'I hope' in 'I Almost Do') make repetition produce the difference. With Deleuze's Difference and Repetition, the chapter argues the 'Taylor's Versions' rerecordings are not inferior copies of lost originals but repetitions that generate newness - like 'Love Story' giving Romeo and Juliet a happy ending - so that rerecording becomes an act of self-reinvention and reclaimed ownership rather than mere restoration."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Is Taylor Swift's Music Timeless A Metaphysical Proof.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "mctaggart"
+   ],
+   "concepts": [
+    "a-series-time",
+    "transcendental-idealism",
+    "free-will-determinism"
+   ],
+   "relation": "Patrick Dawson offers a tongue-in-cheek 'metaphysical proof' that Swift's music is timeless in three senses. Her time-words (midnight, August, 'Back to December,' 'Christmas Tree Farm') name moods rather than objective locations, echoing Kant's view that time is a projection of the mind rather than an external structure; her lyric-world is fated and changeless ('Karma,' 'Mastermind,' 'the 1'), aligning her with determinist and necessitarian views of a closed future; and songs like 'All Too Well' ('Time won't fly, it's like I'm paralyzed by it') reject the passage of time McTaggart declared unreal, letting Swift jump freely between moments in a 'dynamic timelessness.'"
+  }
+ ],
+ "holes": [
+  {
+   "ch": 5,
+   "type": "philosopher",
+   "suggested_slug": "linda-zagzebski",
+   "name": "Linda Zagzebski",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Contemporary virtue theorist whose exemplarist moral theory makes the emotion of admiration for exemplars the engine of moral development and self-improvement.",
+   "why": "Chapter 5's whole argument about whether and what to admire in Taylor Swift is built directly on Zagzebski's account of admiration, exemplars, and emulation."
+  },
+  {
+   "ch": 6,
+   "type": "concept",
+   "suggested_slug": "parasocial-relationship",
+   "name": "Parasocial Relationships",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "One-sided relationships in which a fan experiences intimacy with a celebrity who does not know them, structured by asymmetries of attention, communication, and knowledge.",
+   "why": "Chapter 6 argues Swift's Easter eggs deliberately deepen exactly such parasocial bonds and analyzes their benefits (belonging) and limits (no identity dialogue) for fans."
+  },
+  {
+   "ch": 7,
+   "type": "philosopher",
+   "suggested_slug": "heather-widdows",
+   "name": "Heather Widdows",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Philosopher who argues in Perfect Me that the contemporary beauty ideal (thin, firm, smooth, youthful) has become a global, overriding ethical demand governing self-worth.",
+   "why": "Chapter 7's analysis of Swift's fat-shaming, skinny-shaming, disordered eating, and the limits of individual resistance is organized entirely around Widdows's beauty-as-ethical-ideal framework."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "reputation",
+   "name": "Reputation (social epistemology of)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "A person's reputation is a shared group consensus about their character that is external to their control yet also an informational trace of their actions.",
+   "why": "Chapter 13's core claim is that Swift's reputation-era songs dramatize precisely this paradox: reputation is fake and out of her control, yet partly hers and genuinely informative."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "repetition-and-difference",
+   "name": "Repetition and Difference",
+   "philosopher": "deleuze",
+   "domain": "political-social",
+   "what": "Deleuze's thesis (building on Kierkegaard) that genuine repetition is not recurrence of an identical original but a forward movement that produces difference and newness.",
+   "why": "Chapter 16's argument that the Taylor's Versions are creative repetitions rather than subordinate copies rests entirely on this concept, which taxonomy.json lacks."
+  }
+ ]
+}

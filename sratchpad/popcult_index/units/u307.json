@@ -1,0 +1,73 @@
+{
+ "unit": "u307",
+ "book": "214 - The Philosophy of Ang Lee",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\214 - The Philosophy of Ang Lee",
+ "range": [
+  5,
+  14
+ ],
+ "chapters": [
+  {
+   "n": 5,
+   "file": "ch05 - The Philosophy of Ang Lee.md",
+   "words": 280
+  },
+  {
+   "n": 6,
+   "file": "ch06 - The Philosophy of Ang Lee.md",
+   "words": 6144
+  },
+  {
+   "n": 7,
+   "file": "ch07 - The Philosophy of Ang Lee.md",
+   "words": 12
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Philosophy of Ang Lee.md",
+   "words": 8799
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Philosophy of Ang Lee.md",
+   "words": 10342
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Philosophy of Ang Lee.md",
+   "words": 5345
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Philosophy of Ang Lee.md",
+   "words": 6989
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Philosophy of Ang Lee.md",
+   "words": 11176
+  },
+  {
+   "n": 13,
+   "file": "ch13 - The Philosophy of Ang Lee.md",
+   "words": 8270
+  },
+  {
+   "n": 14,
+   "file": "ch14 - The Philosophy of Ang Lee.md",
+   "words": 3826
+  }
+ ],
+ "content": [
+  5,
+  6,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ]
+}

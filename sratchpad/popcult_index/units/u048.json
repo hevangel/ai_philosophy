@@ -1,0 +1,112 @@
+{
+ "unit": "u048",
+ "book": "031 - Johnny Cash and Philosophy - The Burning Ring of Truth",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\031 - Johnny Cash and Philosophy - The Burning Ring of Truth",
+ "range": [
+  3,
+  19
+ ],
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Johnny Cash and Philosophy.md",
+   "words": 815
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Popular Culture and Philosophy Series Editor George A. Reisch.md",
+   "words": 529
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "words": 21
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Introduction.md",
+   "words": 600
+  },
+  {
+   "n": 7,
+   "file": "ch07 - PART I - Self.md",
+   "words": 3
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Authentic Cash.md",
+   "words": 4141
+  },
+  {
+   "n": 9,
+   "file": "ch09 - A Modest Conclusion.md",
+   "words": 3753
+  },
+  {
+   "n": 10,
+   "file": "ch10 - I Still Miss Someone The Self and Its Travels Along the Way.md",
+   "words": 6437
+  },
+  {
+   "n": 11,
+   "file": "ch11 - PART II - Life.md",
+   "words": 3
+  },
+  {
+   "n": 12,
+   "file": "ch12 - If I Were a Carpenter.md",
+   "words": 5400
+  },
+  {
+   "n": 13,
+   "file": "ch13 - What Is Truth.md",
+   "words": 5398
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Love Gone Good.md",
+   "words": 3382
+  },
+  {
+   "n": 15,
+   "file": "ch15 - John Henry, the Steam-Engine, and Folsom Prisoners.md",
+   "words": 5060
+  },
+  {
+   "n": 16,
+   "file": "ch16 - PART III - Love.md",
+   "words": 3
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Conclusion June Love Beyond the Jordan.md",
+   "words": 4721
+  },
+  {
+   "n": 18,
+   "file": "ch18 - And Beware of the Beast in Me.md",
+   "words": 3427
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Doors Are Never Locked.md",
+   "words": 4394
+  }
+ ],
+ "content": [
+  3,
+  4,
+  6,
+  8,
+  9,
+  10,
+  12,
+  13,
+  14,
+  15,
+  17,
+  18,
+  19
+ ]
+}

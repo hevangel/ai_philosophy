@@ -1,0 +1,407 @@
+{
+ "book": "091 - It's Always Sunny and Philosophy - The Gang Gets Analyzed",
+ "unit": "u147",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - It’s Always Sunny and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - It’s Always Sunny and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - It’s Always Sunny and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - It’s Always Sunny and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - It’s Always Sunny and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gettier",
+    "aristotle",
+    "plato"
+   ],
+   "concepts": [
+    "gettier-problem",
+    "plato-forms",
+    "skepticism"
+   ],
+   "relation": "Using 'Flowers for Charlie', where a placebo pill convinces two scientists and even the Waitress that Charlie has become a genius, the chapter asks what actually makes something philosophy. Sounding smart is not philosophy: big words, the Sokal-style hoax paper submitted to a leading journal, and the 'Guru Effect' of credulous admirers all fail, yet Charlie's pronouncements turn out true by sheer luck - which is exactly Edmund Gettier's problem of epistemic luck illustrated with the broken-clock example. Since we can never verify our premises or our reasoning, the chapter sides with Aristotle's response to Plato's theory of forms that we can never determine what a thing is, only what it is not, and concludes the show is philosophical precisely because the Gang is the exact antithesis of reality, truth, and right action."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - It’s Always Sunny and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - It’s Always Sunny and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-egoism",
+    "stoic-cosmopolitanism"
+   ],
+   "relation": "Greg Littmann systematically compares the Gang's values - wealth, attention, bad-assery ('Project Badass'), sexual conquest, relentless competition, revenge, pride in cheating, and callousness toward even friends and family - with the values Homer's Iliad and Odyssey celebrate, showing Achilles and Odysseus behave like the Gang: sacking cities, taking women as war trophies like Briseis, boasting of deception (the Trojan Horse), and rigging the funeral games. The real difference is scope: the heroes honor bonds of loyalty to comrades, family, and their own communities where the Gang is loyal to no one, and moderns extend concern further still. Yet our morals fail the same way when people are far enough removed - we tolerate homelessness, prison rape, sweatshop goods, and national glory-seeking - so the chapter pleads for the universal moral principles Greek moral philosophy first sought against Homeric values."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - It’s Always Sunny and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nozick",
+    "mill"
+   ],
+   "concepts": [
+    "moral-egoism",
+    "experience-machine"
+   ],
+   "relation": "Jason Iuliano reads the Gang's 'no restrictions' motto as egoistic hedonism in the tradition of Aristippus of Cyrene: pleasure alone is intrinsically good, and specifically present, bodily, personal pleasure - exactly how Mac defends his fifty-pound weight gain and the pair's decision to smoke crack. The doctrine is shown in action through the Gang's treatment of Rickety Cricket, used as a mere instrument while his life is ruined without a flicker of guilt, and through get-rich-quick schemes from the impulse-bought boat to running for comptroller purely for the bribe. Robert Nozick's Experience Machine then shows why hedonism fails - we want to actually do things, be a certain kind of person, and touch reality, not float as an 'indeterminate blob' - and Mill's paradox of hedonism explains the Gang's misery: pursuing pleasure directly is precisely what drives it away."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - It’s Always Sunny and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "fate-vs-free-will",
+    "possible-worlds"
+   ],
+   "relation": "Christopher Ketcham's mock lost episode 'Charlie Gets Beatified' - in which Frank fakes a water-into-wine miracle with red food dye so the Gang can monetize Charlie's canonization - frames a genuine exercise in medieval modal metaphysics. Aristotle's definition of contingency, on which opposites can occur only at different times, is set against Duns Scotus's view that something can be otherwise at the very moment it acts, so that God's immutable foreknowledge coexists with a will 'endowed with something of his own freedom'. The chapter spells out necessity, contingency, and impossibility in possible-worlds terms (a gang needs at least two members in every world; Frank is impossible in Season One) and reads 'Gun Fever Too: Still Hot' as empirical confirmation of Scotus and Olivi: the Gang holds opposite positions within a single episode, proving real contingency and free will."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - It’s Always Sunny and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - It’s Always Sunny and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-relativism"
+   ],
+   "relation": "Charlene Elsby asks what makes the McPoyles cross the line from offensive (like the Gang) into irredeemably creepy, working through their bathrobes, unibrows, incest, and constant milk drinking. Her answer runs through violated social convention: the creepy person is not merely making non-standard choices but seems unaware conventions exist at all, and Liam's 'It's society that has the problem' raises moral relativism only for the chapter to insist the creep reaction tracks something actually wrong, not just different. Adding the legacy of physiognomy (we judge character from appearance, and more harshly when the trait is controllable) and an inductive inference (everything the McPoyles do is creepy, so even the milk must be), creepiness emerges as an art of detection rather than a science: whether someone is creepy differs from whether they seem creepy."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - It’s Always Sunny and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud"
+   ],
+   "concepts": [
+    "freud-unconscious",
+    "freud-civilization"
+   ],
+   "relation": "Daniel Leonard takes CharDee MacDennis, the Gang's three-level drinking game, as an unconscious confession read through Freud's structural model. The 'Mind' level - grudge trivia like 'Denis is asshole. Why Charlie hate?' and drawing-guessing 'based solely on feel' - runs on the id and the pleasure principle; the 'Body' level of darts, kennels, and the no-cursing rule is restraint, properly the ego's job of deferring gratification (which only Dennis's manipulative D.E.N.N.I.S. System grotesquely exercises); and the 'Spirit' level of Emotional Battery and Public Humiliation externalizes the superego's guilt and ego-ideal, with Frank as the all-seeing punishing father. The Gang's psychology is backwards - their 'Mind' level tests exactly what is not conscious - and their over-strong superegos surface in rationalization and the Black Card's coin flip, while smashing the losers' idealized game pieces enacts a wishful symbolic patricide."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - It’s Always Sunny and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger"
+   ],
+   "concepts": [
+    "authenticity",
+    "das-man"
+   ],
+   "relation": "Charlotte Knowles tests each Gang member against Heidegger's Being and Time: getting lost in the averageness of what 'they' do (das Man) is inauthenticity, but authenticity is not freakish uniqueness - Charlie's milk-steak, magnets, and bird-law delusions are unconventional without being authentic - rather a transformed relation to everyday roles in which one endorses the life one leads. Frank partly passes, having chosen squalor and owning it ('I'm going to get really weird with it'), yet unknowingly lives out Rambo as a cultural script; Dee consciously performs the Sex and the City script; Dennis is ruled by beauty norms (make-up, girdle, chemical peel); and Mac, despite the tough talk, is Frank's 'follower' hiding his relationship with Carmen. The upshot is that authenticity and inauthenticity are matters of degree, never either/or, and are not moral verdicts - Dennis could be an authentic rapist - so the Gang's norm-defiance does not make them authentic, bitches."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - It’s Always Sunny and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - It’s Always Sunny and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-golden-mean",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "Kyle Alkema and Adam Barkman ask what would make the Gang happy and answer with Aristotle's virtue ethics: happiness is long-run flourishing built on virtuous habits, with the golden mean (courage between cowardice and recklessness) as the rule for choice. The Gang instead lives a 'Reverse Virtue Ethic' - trying extremes first by crude trial and error, like sniffing gasoline to check that it is gasoline - along three roads: quick money (welfare crack scams, robbing their own parents' house), lust (the D.E.N.N.I.S. System's seduce-and-abandon script, where Dennis cheerfully accepts the charge of sociopathy), and validation ('You're not gay, you're just really, really vain'). Their residual Catholicism supplies consciences and limits - Mac's talk of God smiting them, confession, fears of Hell - but no reasoned morality, leaving them trapped in 'one day at a time' gratification as reverse role models."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - It’s Always Sunny and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-practical-wisdom",
+    "aristotle-golden-mean",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Adam Henschke argues that Frank Reynolds, of all people, is a role model - not a virtuous man overall, but virtuous in one structural sense. Using Aristotle's Nicomachean Ethics, each Gang member's project is diagnosed as the vice of excessive self-delusion: Charlie's Waitress obsession he cannot see through even at her musical rejection, Dee's acting stardom she will not work for and that ends in suicide-adjacent despair, Mac's muscle-bound self-image despite 'diabitis', and Dennis's Golden God delusion culminating in 'the implication' and his car stash of 'fetish shit'. Rickety Cricket embodies the opposite vice, total loss of the capacity to imagine oneself otherwise (via Catriona Mackenzie's relational autonomy), and Frank charts the Aristotelian mean between the two - he rejected his delusive country-club life, knows exactly what he chose with Roxy, and his plans succeed where the Gang's fail - making 'What would Frank do?' a genuine exercise of practical wisdom."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - It’s Always Sunny and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "descartes",
+    "socrates",
+    "boethius",
+    "plato"
+   ],
+   "concepts": [
+    "socratic-method",
+    "descartes-cogito",
+    "hume-induction",
+    "boethius-consolation"
+   ],
+   "relation": "Roger Hunt answers 'what do philosophers do?' through Dennis's seduction methodology. Frank embodies empiricism, leaving the comfort of principle for the messiness of the world as Hume did when he found no impression of causation, space, or time; Mac embodies rationalism, reasoning with total confidence from a principle he cannot doubt, as Descartes did from the cogito; and the dialectic of Socrates and Plato, questioning beliefs in dialogue to see what survives scrutiny, describes philosophy as it is actually practiced. Boethius's Consolation - the imprisoned author consoled by dialogues with Lady Philosophy - supplies the frame of philosophy as an encounter with a woman one pursues, and each D.E.N.N.I.S. step maps onto the craft: Demonstrating value to the problem, Engaging physically in its awkward grind, Nurturing dependence through thesis panic, Neglect and Inspiring hope on the road to the defense, then Separating entirely - 'be a sociopath about it.'"
+  },
+  {
+   "n": 20,
+   "file": "ch20 - It’s Always Sunny and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 21,
+   "file": "ch21 - It’s Always Sunny and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "applied-ethics"
+   ],
+   "relation": "Tim Aylsworth uses Dennis's boat speech - women will not refuse him 'because of the implication' that things might go wrong for them out on the open ocean - to build the necessary and sufficient conditions of sexual consent. Working through Gang cases (Dee and the high-schooler, Lil' Kev the apparently intellectually disabled boyfriend, the Waitress's MDMA black-out asking 'Did you rape me last night?', Dennis's milky negotiation with Margaret McPoyle while held hostage), the chapter argues that a 'yes' counts as consent only when given by fully-informed, competent moral agents in a context where they can freely express their genuine preferences. The upshot vindicates Mac's 'sounds like these women don't want to have sex with you': a fear-induced yes is no consent, as with the prisoner and the boss's secretary, because the woman's genuine preference is not to face that choice at all."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - It’s Always Sunny and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "hume-sentimentalism",
+    "moral-psychology"
+   ],
+   "relation": "Ethan Chambers asks whether we should pardon the Gang, arguing with Hume that their vices have a 'causal story' as rigid as physical law: Charlie's glue-sniffing, racism, and inability to connect trace to a Christmas Day childhood of squalor and Uncle Jack's abuse; Mac was bullied as 'Ronnie the Rat' for trying to be good and never once saw virtue pay in Philadelphia; Dennis, shaped by Frank's cruel parenting, claims and shows he cannot feel feelings, so Humean sympathy - the key moral sense - is simply beyond his reach; and Frank's 'donkey brains' asylum childhood or outright insanity directly undermines his responsibility. Knowing these psychological causes, sympathy (Hume's word for empathy) replaces blame: we blame the builders, not the house, and the chapter closes by urging compassionate rehabilitation over the show's never-ending circle of punishment and revenge."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - It’s Always Sunny and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer",
+    "noddings"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "care-ethics-noddings",
+    "drowning-child"
+   ],
+   "relation": "Skyler King uses the Gang's inheritance war over their dead mother's possessions as a metaphor for greed versus need, pressing our duties to those in extreme suffering. Peter Singer's utilitarian argument - prevent bad without sacrificing anything of comparable significance, absolute poverty is bad, therefore we ought to give - makes charity a requirement rather than a nicety, condemning Dennis's luxury purchases and crowning Bruce Mathis, the one character who consistently donates, as the utilitarian exemplar. Nel Noddings's feminist ethics of care counters that we owe help only to those within reach whose good we can see 'completed in the other' - so Mac and Dennis wronged Charlie by refusing him shelter in the recession, but owe nothing to children overseas - and the chapter weighs Dee-style objections that this licenses caring only when inconvenienced, closing with the question 'is it always sunny in your Philadelphia?'"
+  },
+  {
+   "n": 24,
+   "file": "ch24 - It’s Always Sunny and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - It’s Always Sunny and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "skepticism",
+    "informal-fallacies"
+   ],
+   "relation": "Fenner Tanswell uses 'Reynolds vs. Reynolds: The Cereal Defense' - the Gang's in-bar trial over Frank's blind driving versus Dennis's cereal-at-the-wheel - as a catalogue of crooked thinking. We get valid forms distinguished from soundness (modus ponens with 'if poop is funny, then Frank pooped in the bed'; Charlie's modus tollens from Frank's no-donkey-brains certificate), then the fallacies: the argument from ignorance by which Dennis's lacking a certificate proves him donkey-brained, Dee's ad hominem against Mac, Dennis's appeal to authority, and Mac's 'Science Is a Liar Sometimes' poster, which equivocates between mere skeptical doubt (even Descartes's) and reasonable doubt by straw-manning science as claiming infallibility. True to form, the Gang convicts Dee 'for comedy rather than on any logical basis.'"
+  },
+  {
+   "n": 26,
+   "file": "ch26 - It’s Always Sunny and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "popper",
+    "kuhn"
+   ],
+   "concepts": [
+    "falsification",
+    "paradigm-shift"
+   ],
+   "relation": "Russ Hamer takes Mac's 'Science Is a Liar Sometimes' defense - Aristotle, Galileo, and Newton each proved his predecessor 'a bitch' - and his claim that believing in evolution takes as much faith as belief in God, and answers with philosophy of science. Popper's falsificationism explains why Mac's 'I won't change my mind... regardless of the facts' is the essence of the non-scientific: only theories risking precise, falsifiable predictions (Einstein's light deflection) count as science, unlike vague astrology or Charlie's cherry-picked evidence that the Waitress will love him. Kuhn's distinction of normal and revolutionary science explains why past failures never discredited science - falsifications within a paradigm are tuning, and the Gang's group-configuration trials in 'The Gang Solves the Gas Crisis' are normal science at its best - so revisability is science's strength, not a reason to fear looking like a science bitch."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - It’s Always Sunny and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "apollonian-dionysian",
+    "ubermensch",
+    "will-to-power",
+    "eternal-recurrence"
+   ],
+   "relation": "Martyn Jones stages a fictional Nietzsche telling Mac, Dennis, and Charlie the plot of 'The Gang Solves the Gas Crisis' as a parable of metaphysics gone wrong. Mac and Dennis's scheming is Apollonian - imposing logical order and 'paradigms' on a recalcitrant world - while Charlie is Dionysian, the designated wildcard whose uncontainable energy (sabotaging the van and ripping out the brakes) dooms every plan that tries to harness him, since Apollonian schemes fatally imagine they can contain Dionysian force. Reason is a gloss, not a truth-tracker: like every theology and philosophy it is an expression of will, a survival tool serving selfish ends, so the delusional gas scheme needs no truth to serve its purpose. Charlie alone is praised as a proto-Übermensch - innocent, creative, founding his own values without resentment - and the tale closes musing that even an eternal recurrence of their botched schemes might be willed all over again."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - It’s Always Sunny and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-ring-of-gyges",
+    "hume-is-ought",
+    "moral-egoism"
+   ],
+   "relation": "Robert Arp's gallery matches each Gang vice - dishonesty, egoism, selfishness, greed, pettiness, ignorance, laziness - to real-life scumbags from Nixon, Stephen Glass, and Janet Cooke to Charles Ponzi, Bernie Madoff, Crassus, the Empress Dowager Cixi, Imelda Marcos, and the Darwin Awards, and it opens with the chapter's philosophical spine: Glaucon's Ring of Gyges from Book II of Plato's Republic, which predicts that even an upstanding person with the power to act unseen would seduce, steal, and murder - exactly the question the Gang's mostly unpunished antics keep staging. Against the ethical egoist's argument that because everyone is self-interested everyone should be (Vanderbilt's 'the public be damned'), the chapter deploys the is-ought point - children are naturally selfish without therefore deserving to be - alongside mothers, Mother Teresa, and 9/11 first responders, concluding that egoism is at most an admixture in every action, with Lord of the Flies as the reductio of universal egoism."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - It’s Always Sunny and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - It’s Always Sunny and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 9,
+   "type": "concept",
+   "suggested_slug": "homeric-heroic-ethics",
+   "name": "Homeric Heroic Ethics (kleos, time, arete)",
+   "philosopher": "",
+   "domain": "ancient",
+   "what": "The value system of Homer's Iliad and Odyssey: competitive honor (time), glory (kleos), martial excellence, revenge, cunning, and loyalty to kin and comrades.",
+   "why": "Chapter 9's entire argument maps the Gang's selfishness onto the heroic values of the Iliad and Odyssey, and the taxonomy has no slug for Homer's value system or the poet himself."
+  },
+  {
+   "ch": 10,
+   "type": "philosopher",
+   "suggested_slug": "aristippus",
+   "name": "Aristippus of Cyrene",
+   "philosopher": "",
+   "domain": "ancient",
+   "what": "Socratic disciple and founder of the Cyrenaic school, the first egoistic hedonist, holding that present, bodily, personal pleasure is the only intrinsic good.",
+   "why": "Chapter 10 builds its entire reading of the Gang as hedonists around Aristippus and the Cyrenaics, who are absent from the taxonomy (which covers Epicurus but not Aristippus)."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "paradox-of-hedonism",
+   "name": "The Paradox of Hedonism",
+   "philosopher": "mill",
+   "domain": "utilitarian-consequentialist",
+   "what": "The tendency of pleasure and happiness to elude those who pursue them directly, coming only as a by-product of aiming at other ends (Mill: ask yourself whether you are happy, and you cease to be so).",
+   "why": "Chapter 10 closes by diagnosing the Gang's failure through Mill's paradox of hedonism, a doctrine distinct from the Greatest Happiness Principle and named by no existing slug."
+  },
+  {
+   "ch": 11,
+   "type": "philosopher",
+   "suggested_slug": "duns-scotus",
+   "name": "John Duns Scotus",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "Medieval Franciscan thinker (the Doctor Subtilis) who held that contingency holds at the very moment of action, reconciling God's immutable foreknowledge with a will that 'determines itself'.",
+   "why": "Chapter 11's account of free will, modality, and Charlie's beatification is built on Scotus's synchronic contingency, and the taxonomy has no Scotus slug."
+  },
+  {
+   "ch": 11,
+   "type": "philosopher",
+   "suggested_slug": "peter-john-olivi",
+   "name": "Peter John Olivi",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "Thirteenth-century Franciscan whose censored writings defended the self-determining power of the will and described paired attitudes (zeal and mercy, glory and shame) held together by freedom.",
+   "why": "Chapter 11 draws both Olivi's theory of free will and his seven attitude pairs to explain how the Gang embodies contingency, and the taxonomy lacks him entirely."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "creepiness",
+   "name": "Creepiness",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "An affective response of unease toward people who flout unspoken social conventions in ways that are ambiguous and unpredictable, leaving their intentions unreadable.",
+   "why": "Chapter 13 is explicitly about the essence of creepiness - violated convention, appearance, and unpredictability in the McPoyles - a concept absent from the taxonomy."
+  },
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "sexual-consent",
+   "name": "Sexual Consent",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Mutual, explicit agreement between fully-informed, competent moral agents, given beforehand in a context free of coercion or fear, without which sex is rape.",
+   "why": "Chapter 21 exists to define the necessary and sufficient conditions of sexual consent from the 'implication' scene, and no taxonomy slug covers consent or moral agency in this sense."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "informal-fallacies",
+   "name": "Informal Fallacies (ad hominem, straw man, burden of proof)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Recurring patterns of bad reasoning - attacking the arguer, appealing to authority, equivocation, arguing from ignorance, straw-manning - that make arguments defective independently of their form.",
+   "why": "Chapter 25 is a catalogue of the fallacies the Gang commits in the Cereal Defense trial, and the taxonomy contains no logic or fallacy slugs to map them to."
+  }
+ ]
+}

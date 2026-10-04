@@ -1,0 +1,56 @@
+{
+ "unit": "u427",
+ "book": "308 - The Palgrave Handbook of Popular Culture as Philosophy",
+ "part": "4/13",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\308 - The Palgrave Handbook of Popular Culture as Philosophy",
+ "range": [
+  24,
+  30
+ ],
+ "chapters": [
+  {
+   "n": 24,
+   "file": "ch24 - 22. Rick & Morty as Philosophy Nihilism in the Multiverse.md",
+   "words": 8163
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 23. The X-Files as Philosophy Navigating the \u201cTruth Out There\u201d.md",
+   "words": 11386
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 24. Game of Thrones as Philosophy Cynical Realpolitiks.md",
+   "words": 7135
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 25. The Mandalorian as Philosophy \u201cThis Is the Way\u201d.md",
+   "words": 13789
+  },
+  {
+   "n": 28,
+   "file": "ch28 - 26. Midnight Mass as Philosophy The Problems with Religion.md",
+   "words": 15629
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 27. Squid Game as Philosophy The Myths of Democracy.md",
+   "words": 13664
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 28. South Park as Philosophy Blasphemy, Mockery, and (Absolute ) Freedom of Speech.md",
+   "words": 22046
+  }
+ ],
+ "content": [
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30
+ ]
+}

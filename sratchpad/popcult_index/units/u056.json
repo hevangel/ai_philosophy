@@ -1,0 +1,118 @@
+{
+ "unit": "u056",
+ "book": "035 - Star Trek and Philosophy - The Wrath of Kant",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\035 - Star Trek and Philosophy - The Wrath of Kant",
+ "range": [
+  2,
+  19
+ ],
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Star Trek and Philosophy.md",
+   "words": 782
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Popular Culture and Philosophy Series Editor George A. Reisch.md",
+   "words": 547
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "words": 0
+  },
+  {
+   "n": 5,
+   "file": "ch05 - The Federation Council GEORGE A REISCH.md",
+   "words": 378
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Ex Astris, Scientia GEORGE A REISCH.md",
+   "words": 2104
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Starfleet Directive ONE - Seek Out New Ideas Major Philosophical Themes in.md",
+   "words": 13
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Never Underestimate a TV Writer.md",
+   "words": 5215
+  },
+  {
+   "n": 9,
+   "file": "ch09 - \u201cLogic Without Need Is Sterile\u201d.md",
+   "words": 4672
+  },
+  {
+   "n": 10,
+   "file": "ch10 - \u201cAll Good Things Must Come to an End\u201d.md",
+   "words": 5107
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Meaning The Final Frontier.md",
+   "words": 3714
+  },
+  {
+   "n": 12,
+   "file": "ch12 - \u201cCondemned to Be a Member of This Lowest of Species\u201d.md",
+   "words": 3345
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Starfleet Directive TWO - Go Boldly, Yet Morally Federation Ethics.md",
+   "words": 9
+  },
+  {
+   "n": 14,
+   "file": "ch14 - \u201cSometimes You Just Have to Bow to the Absurd\u201d.md",
+   "words": 6081
+  },
+  {
+   "n": 15,
+   "file": "ch15 - \u201cMake It So\u201d.md",
+   "words": 4274
+  },
+  {
+   "n": 16,
+   "file": "ch16 - \u201cI\u2019ve Never Been Good at Good-byes\u201d.md",
+   "words": 3895
+  },
+  {
+   "n": 17,
+   "file": "ch17 - \u201cThere\u2019s More to Life than Profit\u201d.md",
+   "words": 4433
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Starfleet Directive THREE - A United Federation Social and Religious Values of.md",
+   "words": 13
+  },
+  {
+   "n": 19,
+   "file": "ch19 - \u201cObviously, the Borg Can\u2019t Hold Their Liquor\u201d.md",
+   "words": 5145
+  }
+ ],
+ "content": [
+  2,
+  3,
+  5,
+  6,
+  8,
+  9,
+  10,
+  11,
+  12,
+  14,
+  15,
+  16,
+  17,
+  19
+ ]
+}

@@ -1,0 +1,447 @@
+{
+ "book": "094 - Divergent and Philosophy - The Factions of Life",
+ "unit": "u151",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - ii.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Choose!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "plato"
+   ],
+   "concepts": [
+    "plato-cave",
+    "unexamined-life"
+   ],
+   "relation": "The editor's introduction argues that Roth's series does not just contain philosophy but actually does it, proposing hypotheses about virtue, social order, evil, and forgiveness and testing them for consistency. It casts Tris as a Socratic figure who retraces the Allegory of the Cave: she starts 'chained' inside the cave of Chicago's faction system, climbs out to discover the faction life is a lie, and is tortured and eventually killed for the truth she tries to bring back, just as the cave-dwellers would kill the returning prisoner. The introduction closes by insisting the series is really about choice - that wisdom, unlike knowledge, must be lived, that self-reflection and even self-doubt are the hallmark of the wise, and that when life offers no options, like Tris and the factionless, you have to create your own."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Part I Are You Divergent.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - 1. Drugging the Kids.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "discipline",
+    "power-knowledge"
+   ],
+   "relation": "Seymour argues that the serums of Roth's world mirror the real-world medical control of young people: with no objective test, about 6.4 million American children are diagnosed with ADHD and medicated for diverging from adult-defined 'normal' behavior, just as Amity bakes peace serum into its bread and Dauntless uses simulation and truth serums on initiates. Tris's Divergence, and especially her failure to resist the peace serum because some part of her wanted to stop feeling, shows that the desire to conform is what makes chemical control work, while Tobias (re-running his own fear landscape) and Peter (erasing his own memory) model appropriating the serums as tools of self-control. Tris's resistance to the Bureau's memory serum then becomes a vicarious experience of power for young readers who face medication for their own 'divergence.'"
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 2. Peculiar!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dubois",
+    "gramsci",
+    "plato"
+   ],
+   "concepts": [
+    "double-consciousness",
+    "hegemony",
+    "plato-cave"
+   ],
+   "relation": "Ketcham reads the faction system as the Bureau's behavioral-correction experiment after a eugenics disaster, and compares the Bureau to the Tuskegee syphilis study: subjects who never gave informed consent, were denied treatment, and were treated as expendable because 'the experiment must continue at all costs.' He maps W.E.B. Du Bois's 'twoness' - double consciousness - onto Tris, who thrives in Dauntless yet belongs to no faction, and onto Tobias, whose identity collapses when he learns he tests as merely Dauntless. Closing with Gramsci, he argues Chicagoans have bought into the oppressor's story about genes and factions, so they need an organic intellectual to lead them out of the cave, and proposes Freire's praxis as the unfinished sequel."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 3. Tris Finds Enlightenment.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha"
+   ],
+   "concepts": [
+    "four-noble-truths",
+    "buddhist-non-self",
+    "buddhism"
+   ],
+   "relation": "Rhine argues that Tris's heroism rests on Buddhist practice: her breath-counting on the Ferris wheel and inside Four's fear landscape, her emotional intelligence, and her awareness of the parental 'voices in her head' are classic meditative disciplines for calming the ego whose clinging, on the Buddhist account, is the cause of suffering (dukkha). She reads Abnegation's gray houses, plain food, and four-times-a-year mirror as ritual ego-diminishment - a middle way between indulgence and the extreme asceticism the Buddha rejected - that explains why most Divergent arise from Abnegation. Contemporary neuroscience is then recruited: the amygdala-versus-prefrontal-cortex struggle Will describes, and monks' heightened gamma waves, explain how Tris can see the simulation as a simulation, like Neo in The Matrix, and act while others are paralyzed by fear."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 4. Nietzsche’s Faction Test.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "master-slave-morality",
+    "ubermensch",
+    "will-to-power",
+    "personal-identity"
+   ],
+   "relation": "Mallalieu uses Nietzsche's slave morality, will to power, and Ubermensch to read Roth's social experiment: Abnegation's foot-washing, guilt-driven selflessness is slave morality, Amity's drugged peace makes them willing slaves, and Peter - cruel, self-promoting, guilt-ridden - is the most Nietzschean character, whose memory wipe is an attempt to forget his way out of slave morality. Even the heroes turn out Nietzschean when Tris and Tobias dose the Bureau with memory serum, since Nietzsche holds that the old values must be forgotten before new ones can be created. But the chapter concludes the price is too high: losing your values along with your memories means losing your identity ('I would rather be dead than empty'), so Nietzsche's imagined experiment, played out through the Bureau's tools, would be a world good only for the strong and cruel."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Part II How to Make Everyone Less Evil.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 5. Overcoming Evil with Love.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-friendship",
+    "aristotle-eudaimonia",
+    "philosophy-of-love",
+    "virtue-ethics"
+   ],
+   "relation": "Bogosian argues the film locates evil not in human nature itself, as Jeanine claims when she calls human nature 'the enemy,' but in cultivable vices - Al's jealousy and fear of failure leading to attempted murder and suicide, Eric's and Jeanine's lust for power - and that only altruistic, self-sacrificial love can counteract them. With Aristotle's point that friendship is essential to developing virtue and to the good life, he shows the faction system fails on its own terms: a single virtue in isolation corrupts (Candor's truth without kindness), and a system that removes real moral and political freedom destroys the flourishing it promises. Tris's parents' sacrifices and the Tris-Four relationship - honest training advice, protection of her Divergence, and the gun-to-her-own-forehead scene where love breaks the simulation's grip - model the love that overcomes the corrupt system."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 6. Tris’s Compassion and the Problem of Evil.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rousseau",
+    "voltaire"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "rousseau-natural-goodness",
+    "rousseau-social-contract",
+    "best-possible-world"
+   ],
+   "relation": "McCrossin reads Tris's whole arc as a struggle with the problem of evil, both the theological version from Job and the modern secular one Susan Neiman describes, in which unreasonable suffering threatens trust in human reason. He casts Tris as cut from Rousseau's mold - her insistence on making the evils of Jeanine, Marcus, and Evelyn intelligible - against Voltaire's Candide refusal to rationalize suffering, and treats the faction system as Rousseau's social-contract strategy for containing the inclination to evil while Tris herself plays a wartime Emile. The key is Tobias's lesson that selflessness and bravery are not that different: selflessness enables the courage that compassion motivates, from pressing her forehead to Jeanine's gun in the fear landscape to taking Caleb's place at the weapons lab, so that the trilogy ends with Tobias's 'we mend each other.'"
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 7. Give Peace a Chance.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "gandhi"
+   ],
+   "concepts": [
+    "punishment-theory",
+    "just-war-theory"
+   ],
+   "relation": "Lewis argues the Dauntless Manifesto's claim that 'justice is more important than peace' rests on a mistake: following Nicholas Wolterstorff's account of shalom, real peace just is justice - each person receiving what Ulpian called their due and enjoying their rights - so the two cannot come apart. He shows each faction works with a different, deficient conception of peace (Amity's drug-induced calm, Erudite's negotiated order, Abnegation's self-erasure), then uses Aristotle's three types of justice to dismantle Jeanine's best defense, that her slaughter of Abnegation and the Divergents is retributive justice: the accused are innocent and her 'peace' is coercion, propaganda, and fear. The chapter ends with concrete reforms - welcome the factionless as a sixth service faction, let factions teach each other their virtues - so that Roth's Chicago could actually achieve the ethical community of peace-through-justice."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Part III Today We Choose.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 8. Plato’s Chicago.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-justice",
+    "philosopher-king",
+    "noble-lie",
+    "democracy-theory"
+   ],
+   "relation": "Littmann systematically maps Roth's Chicago onto Plato's Republic: like Marcus, Plato rejects democracy after Athens executed Socrates; both dissolve the family ('faction before blood' versus children raised in common and bred by state schedule); Erudite's IQ-selected leadership mirrors the rigorously trained philosopher-rulers, Dauntless the warrior class whose purely physical training Plato warns turns 'savage and harsh,' Abnegation's poverty the guardians's communism of property, and the factionless the powerless producers - with Plato's noble lie about the metals matching the Erudite's propaganda and serums as instruments of control. The shared flaw, he argues, is concentrated power without external checks, which corrupted Abnegation, corrupts every Dauntless leadership change, and would corrupt Plato's guardians too. The lesson is not to hand power to the least vicious but for democratic voters to confront their own ignorance - or end like Roth's America, in apocalyptic war."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 9. Class Warfare in Chicago.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "class-struggle",
+    "marx-ideology"
+   ],
+   "relation": "Canode reads the trilogy as a study in class warfare: the factionless are the invisible lower class kept poor as a warning, the factions the middle class distracted by initiation rankings and faction pride, and the Bureau the self-righteous upper class that created and manipulates the whole system. Marx's analysis structures the argument - the ruling class's specter now haunts the powerless, and 'from each according to his ability' shades into coerced harmony - while the American Dream rhetoric of Carter, Reagan, and Obama plays the aptitude test's role: an ideology of merit that converts structural limits into personal failure. The Bureau's genetic sorting of GP scientists above GD support staff mirrors how meritocracy blames the poor for their poverty, so Tris's verdict - the factions 'gave us the illusion of choice without actually giving us a choice' - indicts the US class system too."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 10. Amity—Directly Democratic.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rousseau"
+   ],
+   "concepts": [
+    "democracy-theory",
+    "rousseau-social-contract"
+   ],
+   "relation": "McCrossin identifies Amity's consensus circles as direct democracy - the people exercising government in person, against the republics of Abnegation, Candor, and Erudite and Dauntless's open oligarchy - and hears Tris's skepticism ('How do they get anything done?') and Tobias's admiration ('it makes them kind') echoing the 2011 public debate over Occupy Wall Street. Johanna Reyes acts as a facilitator who helps Amity's general will develop rather than articulating it, but when the planned attack on Erudite threatens innocents she leaves the faction rather than quietly mold its will, confirming Tris's worry about talk in the face of terrible deeds. Through Alexander Meiklejohn's absolutist reading of the First Amendment, the chapter then argues that New Chicago's self-government needs both uncompromisingly protected political speech and a direct-democratic dimension for working out what the common good actually is."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 11. Should We Execute the Erudite.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "plato",
+    "descartes",
+    "lewis"
+   ],
+   "concepts": [
+    "power-knowledge",
+    "web-of-belief",
+    "cartesian-doubt",
+    "simulation-hypothesis"
+   ],
+   "relation": "Michaud and Watkins ask whether Roth is right that the knowledge-hoarding Erudite are so dangerous we might need to eliminate them, and answer that knowledge is dangerous in three ways. Following Foucault ('it is impossible for knowledge not to engender power'), the powerful define what counts as knowledge - from the church blessing feudalism to the medical community pathologizing gay and transgender people - and following Piaget, new knowledge threatens the interconnected belief schemas (diagrammed as beliefs resting on beliefs) that keep 'faction before blood' and our sense of being special stable, which is why Divergents, evolution, and Copernicus provoke such violent disequilibrium. A Descartes-style simulation scenario - you may be inside Roth's world right now, weeded out for reading the books - and David Lewis's point that investigating knowledge destroys it then show that the real danger is not knowledge but the arrogance of certainty: Jeanine was never a true Erudite."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Part IV Wisdom before Faction.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 23,
+   "file": "ch23 - 12. The Courage of Selflessness.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "virtue-ethics",
+    "moral-psychology"
+   ],
+   "relation": "Pless argues that courage and selflessness are not the opposed traits of Dauntless and Abnegation but one and the same virtue: any properly selfless act requires moral courage, any truly courageous act requires sacrifice so that others may prosper, and both depend on an outside party in need and on overriding the instinct of self-preservation. Because a rewarded sacrifice becomes social capital - the lunch-giving and bullet-catching examples - neither virtue can be institutionalized: Abnegation's legalistic rules and Marcus's publicly displayed selflessness destroy selflessness by removing choice, and Eric's fear-eradicating initiation produces glory and cruelty instead of courage, since fear connotes responsibility. Natalie and Andrew Prior's shared, gender-subverting sacrifices, and Tris stepping in to take Al's knives, show the single virtue of selfless courage chosen in the moment, culminating in a death that is an extension of her character rather than a surprise."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 13. Dauntless Courage.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "socrates",
+    "plato"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "The Bocks test whether the Dauntless are brave or merely reckless using Plato's Laches and Aristotle's Nicomachean Ethics. Socrates refutes Eric's definition of courage as never surrendering - the Scythian cavalry fights while fleeing, and endurance without wisdom is foolhardiness - while Aristotle locates courage as the mean between rashness and cowardice, acquired by habituation ('we become brave by doing brave acts'), which redeems much Dauntless training: Tris jumps onto the roof a second time without hesitation because practice has shaped her. Fearlessness is neither necessary nor sufficient - Four ignores his four fears rather than lacking them, and only madmen feel none - so the brave person fears the right things, at the right time, for noble ends: Eric is ruthless rather than courageous, while Tris's mother's sacrifice and Tris's taking Caleb's place at the death-serum lab show courage aimed at the good of others, with Four's grieving perseverance showing it can even serve self-preservation out of love."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 14. You Have to Be Good before You Can Be Smart.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "nussbaum"
+   ],
+   "concepts": [
+    "philosopher-king",
+    "plato-cave",
+    "consequentialism",
+    "virtue-ethics"
+   ],
+   "relation": "The Bocks argue that the Erudite pairing of ignorance with knowledge is morally loaded: with Linda Zagzebski's and James Montmarquet's virtue epistemology, high-end knowledge requires intellectual virtues like the courage to test your beliefs publicly, so you really do have to be good before you can be smart. The Erudite manifesto's curriculum omits the humanities that open the mind, and its IQ-only leadership test fails Plato's requirement that philosopher kings love wisdom itself and, like the freed cave-prisoner, return to benefit society - which is why Jeanine, driven by lust for power and concealment of the truth beyond the fence, is 'a poor example of a philosopher king.' Both the Erudite and the Bureau reason as consequentialists ('Knowledge is power... power to do good') to justify slaughtering Abnegation and experimenting on unconsenting Chicagoans, when the pursuit of knowledge must be constrained by informed consent and human dignity."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 15. Tell the Truth at All Costs.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aristotle",
+    "bentham"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "utilitarianism",
+    "virtue-ethics",
+    "kingdom-of-ends"
+   ],
+   "relation": "Bowman argues Candor is the most philosophically important faction because its absolute honesty is Kant's ethics: truthfulness as a perfect duty grounded in free will, making even politeness 'deception in pretty packaging,' and forbidding a lie even when the Erudite come to Merciless Mart hunting Tris - which mirrors Kant's reply to Benjamin Constant that one must not lie even to the murderer at the door. Against this he sets Aristotle's virtue ethics, where truth bows to wisdom, justice, and fortitude when the choice is handing hidden Jews to the SS, and Bentham's utilitarianism, which Amity enacts when it lies at the gates to keep the peace and save lives. The Candor Manifesto's 'web of individual-to-individual relationships' and Kant's kingdom of ends explain why universal honesty alone could make truth safe - and why Christina, the Candor, is the one left standing when the city's deception finally destroys it."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Part V Know Thy Faction, Know Thy Self.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - 16. What Do We Really Owe Our Parents.md",
+   "kind": "chapter",
+   "philosophers": [
+    "confucius",
+    "aristotle",
+    "mencius"
+   ],
+   "concepts": [
+    "confucian-filiality",
+    "aristotle-friendship"
+   ],
+   "relation": "Karavitis uses Tris and Tobias to stage the filial-piety debate: Tris, who loves her parents and learns to see them with adult eyes after discovering their hidden pasts, remains 'allegiant' to the end, while the abused Tobias owes Marcus and Evelyn nothing and reaches only a cautious adult reconciliation with his mother. After surveying Confucian xiao (with Mencius, and Buddhism's forced accommodation of it) and the Abrahamic commandments on one side, and Norman Daniels's and Jane English's autonomy-based arguments that children never consented to be born and so owe nothing on the other, he concludes no rational argument mandates filial duties from adult children. Aristotle's three types of friendship supply the one defensible model: only when adult children and parents meet as virtuous equals can a chosen, consensual relationship carrying care, gratitude, and love arise - so 'as adults, we owe our parents nothing,' though love may freely flow."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 17. Waking Up Divergent.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes"
+   ],
+   "concepts": [
+    "cartesian-doubt",
+    "descartes-cogito"
+   ],
+   "relation": "Seymour reads the Bureau's Chicago experiment as Descartes's Meditations made narrative: the faction system is a dream of beliefs absorbed from upbringing without evidence, the Bureau is the evil demon, and Tris's video is the forced awakening. The characters model the possible responses - most cling to the dream, Tobias trades one dream for another by joining Nita's genetically-damaged cause and acting on withheld information that gets Uriah hurt, Peter rationalizes and finally erases himself with memory serum, while curious Tris tests every belief against falsehood, trusts only her own mind as the cogito grounds Descartes, and acts to wake the other dreamers. The chapter's lesson is Cartesian: values define who you are, so only constant self-examination and the pursuit of knowledge keep your identity from being an imposed lie."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 18. The Virtues of Choosing Your Faction.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "kant"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-eudaimonia",
+    "kant-respect"
+   ],
+   "relation": "Pascoe contrasts Aristotle's and Kant's theories of virtue through the Choosing Ceremony. On Aristotle's account virtues are taught (intellectual) and then habituated into character (moral), tied to one's function, so Susan flourishes because aptitude, upbringing, and choice align while the transfer Al withers - but Tris, Divergent with multiple aptitudes, needs Kant instead: natural virtues are mere 'gifts of nature' that become good only through good will, and her perfect duties to herself and imperfect duties regarding family and faction can justify choosing Dauntless over staying in Abnegation. Kant wins the day: because a corrupted community like Eric's Dauntless redefines bravery into obedience, Tris must think for herself - 'maybe I am wired like the Divergent' - choosing her virtues out of duty and self-respect rather than inheriting them."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 19. Why Divergent are Actually Convergent.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "virtue-ethics",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Schenkewitz argues Chicago's downfall is built into its ideal: each faction drills a single virtue through total lifestyle discipline - Abnegation's mirror rules and gray houses, Candor's black and white dress - until 'you become what you do,' but a solitary virtue inverts into its own vice once it is cut off from the others: Erudite's knowledge becomes a lust for power, Dauntless bravery cruelty, Candor honesty callousness, Amity peace passivity, Abnegation selflessness stifling. The Divergent, who naturally hold all the virtues together in one unified character, are therefore the city's apex rather than its disease: Tris never stops being Abnegation while being Dauntless, and her worth lies in negotiating among virtues and making real choices from real alternatives, unlike the faction archetypes. Justice, the chapter concludes, requires the convergence of all the virtues within each person - the Divergent are actually convergent."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Divergent Bibliographic Database.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Bureau of Philosophical Welfare.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - 225.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - 227.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 15,
+   "type": "philosopher",
+   "suggested_slug": "voltaire",
+   "name": "Voltaire",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "French Enlightenment satirist whose Candide, through Dr. Pangloss's 'best of all possible worlds,' ridicules optimistic attempts to rationalize suffering.",
+   "why": "Chapter 15 frames the modern problem of evil as a choice between Rousseau's demand to make evil intelligible and Voltaire's refusal, testing whether Tris is cast from Rousseau's mold or Voltaire's."
+  },
+  {
+   "ch": 16,
+   "type": "philosopher",
+   "suggested_slug": "wolterstorff",
+   "name": "Nicholas Wolterstorff",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Contemporary American philosopher of justice and religion who defends a rights-based theory of justice and recovers the Hebrew ideal of shalom as peace-through-justice.",
+   "why": "Chapter 16's entire argument that peace and justice are one - each person enjoying their rights - is built on Wolterstorff's trilogy (Until Justice and Peace Embrace, Justice: Rights and Wrongs, Justice in Love), which the taxonomy lacks."
+  },
+  {
+   "ch": 20,
+   "type": "philosopher",
+   "suggested_slug": "alexander-meiklejohn",
+   "name": "Alexander Meiklejohn",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Twentieth-century American educator-philosopher who defended an absolutist reading of the First Amendment as the guarantee that citizens remain sovereign in self-government.",
+   "why": "Chapter 20's closing argument for New Chicago's constitution rests on Meiklejohn's 1955 Senate testimony that political expression admits no abridgement, ending in his question of how the common good is determined."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "virtue-epistemology",
+   "name": "Virtue Epistemology",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The view that knowledge and justified belief depend on the intellectual virtues (courage, honesty, open-mindedness) of the knower, as in Linda Zagzebski's Virtues of the Mind.",
+   "why": "Chapter 25's central claim that the pursuit of knowledge is not morally neutral - you have to be good before you can be smart - is Zagzebski's and Montmarquet's virtue epistemology, which no existing taxonomy slug covers."
+  }
+ ]
+}

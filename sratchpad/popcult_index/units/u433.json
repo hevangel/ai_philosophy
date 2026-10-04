@@ -1,0 +1,56 @@
+{
+ "unit": "u433",
+ "book": "308 - The Palgrave Handbook of Popular Culture as Philosophy",
+ "part": "10/13",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\308 - The Palgrave Handbook of Popular Culture as Philosophy",
+ "range": [
+  67,
+  73
+ ],
+ "chapters": [
+  {
+   "n": 67,
+   "file": "ch67 - 63. Amy Schumer as Philosopher Fuck the Feminine Mystique.md",
+   "words": 10263
+  },
+  {
+   "n": 68,
+   "file": "ch68 - 64. George Carlin as Philosopher It\u2019s All Bullshit. Is It Bad for Ya.md",
+   "words": 11478
+  },
+  {
+   "n": 69,
+   "file": "ch69 - 65. Louis CK as Philosopher The King and His Fall.md",
+   "words": 16993
+  },
+  {
+   "n": 70,
+   "file": "ch70 - 66. Marc Maron as Philosopher Comedy, Therapy, and Identification.md",
+   "words": 9645
+  },
+  {
+   "n": 71,
+   "file": "ch71 - 67. Hari Kondabolu as Philosopher Enacting a Philosophy of Liberation.md",
+   "words": 10478
+  },
+  {
+   "n": 72,
+   "file": "ch72 - 68. Richard Pryor as Philosopher Stand-Up Comedy and Gramsci\u2019s Organic Intellectual.md",
+   "words": 8324
+  },
+  {
+   "n": 73,
+   "file": "ch73 - 69. Larry David as Philosopher Interrogating Convention.md",
+   "words": 6005
+  }
+ ],
+ "content": [
+  67,
+  68,
+  69,
+  70,
+  71,
+  72,
+  73
+ ]
+}

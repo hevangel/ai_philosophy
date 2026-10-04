@@ -1,0 +1,112 @@
+{
+ "unit": "u050",
+ "book": "032 - Bruce Springsteen and Philosophy - Darkness on the Edge of Truth",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\032 - Bruce Springsteen and Philosophy - Darkness on the Edge of Truth",
+ "range": [
+  3,
+  19
+ ],
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Bruce Springsteen and Philosophy.md",
+   "words": 849
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Popular Culture and Philosophy Series Editor George A. Reisch.md",
+   "words": 528
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "words": 12
+  },
+  {
+   "n": 6,
+   "file": "ch06 - \u201cI Got this Guitar and I Learned How to Make It Talk\u201d.md",
+   "words": 1712
+  },
+  {
+   "n": 7,
+   "file": "ch07 - I - Born to Run the USA.md",
+   "words": 6
+  },
+  {
+   "n": 8,
+   "file": "ch08 - And the Good News Second.md",
+   "words": 4936
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Quittin\u2019 Time.md",
+   "words": 4997
+  },
+  {
+   "n": 10,
+   "file": "ch10 - You May Wonder How Come I Love You Care and Ethics.md",
+   "words": 4164
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Unity Born from Diversity.md",
+   "words": 7049
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Springsteen\u2019s Revolution.md",
+   "words": 3793
+  },
+  {
+   "n": 13,
+   "file": "ch13 - II - When We Were Wild and Innocent.md",
+   "words": 7
+  },
+  {
+   "n": 14,
+   "file": "ch14 - You Can\u2019t Tell the Players Without a Program.md",
+   "words": 7611
+  },
+  {
+   "n": 15,
+   "file": "ch15 - A Fork in the Road.md",
+   "words": 3573
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Kiss.md",
+   "words": 6254
+  },
+  {
+   "n": 17,
+   "file": "ch17 - III - The Dark Edges.md",
+   "words": 4
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Reason to Believe When There\u2019s None.md",
+   "words": 4542
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Case the Promised Land.md",
+   "words": 5906
+  }
+ ],
+ "content": [
+  3,
+  4,
+  6,
+  8,
+  9,
+  10,
+  11,
+  12,
+  14,
+  15,
+  16,
+  18,
+  19
+ ]
+}

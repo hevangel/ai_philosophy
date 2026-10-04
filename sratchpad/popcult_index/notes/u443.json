@@ -1,0 +1,195 @@
+{
+ "book": "161 - Family Guy and Philosophy - A Cure for the Petarded",
+ "unit": "u443",
+ "chapters": [
+  {
+   "n": 13,
+   "file": "ch13 - He Thinks He's People How Brian Made Personhood for the Dogs.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "descartes"
+   ],
+   "concepts": [
+    "personhood",
+    "kant-humanity-formula",
+    "categorical-imperative",
+    "speciesism"
+   ],
+   "relation": "Argues that Brian the dog is a person because personhood, on a Kantian reading, requires a rational nature rather than species membership: Peter making Brian beg in 'Brian: Portrait of a Dog,' the councilman's 'Why are we listening to a dog?', and Chris's 'You don't have a soul!' in 'North by North Quahog' all wrongly treat humanity (or a soul) as the criterion, while Descartes' mechanical account of animal bodies is invoked to show the soul cannot be empirically tested. The chapter then applies the humanity-formulation of the categorical imperative both ways: Stewie framing the maid in 'Road to Rhode Island' shows treating persons as mere means, while Brian's Christmas-sweater lie to Lois shows how Kantian duty is stricter than the Golden Rule. Finally it grades Brian's own conduct as family conscience and drunk (his lapses like framing Jake Tucker, his condescension to Peter, his disrespected self in 'The Thin White Line'), concluding Brian owes the same duties he is owed."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Part III You expected more lyrics, but you're getting logic, comedy, and the logic of comedy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Logic of Expectation Family Guy and the Non Sequitur.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard",
+    "schopenhauer",
+    "william-james",
+    "russell",
+    "hume",
+    "spinoza"
+   ],
+   "concepts": [
+    "philosophy-of-humor",
+    "stream-of-consciousness",
+    "incongruity-theory-humor",
+    "liar-paradox"
+   ],
+   "relation": "Argues that Family Guy's non sequiturs only seem random because they reverse specific expectations, so the show has a 'logic of expectation' even where it flouts inference: the Supreme Court fraternity hazing in 'Let's Go to the Hop,' Stewie's aristocratic-baby role reversal, Death hiding beer on his breath in 'Wasted Talent,' the Kool-Aid Man's sheepish exit in 'Death Has a Shadow,' and cutaways that run on shared pop-culture associations like Peter's 'no whammy' chant. The chapter deploys Kierkegaard's claim that wherever there is contradiction the comical is present, Schopenhauer's analysis of the ludicrous, Wittgenstein's joke-book remark, and Russell's ideal of disambiguating ambiguous sentences (Peter's 'I can also vomit' reply to Lois). It closes metaphysically: against Spinoza's necessity and Hume's 'one damn thing after another,' Quahog is not William James's 'mere withness' world because the gags depend on an orderly baseline, which Peter himself demonstrates by wearing a cardboard TV frame in 'I Never Met the Dead Man'."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - What Are You Laughing At (And Why) Exploring the Humor of Family Guy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "freud",
+    "kant",
+    "aristotle",
+    "russell"
+   ],
+   "concepts": [
+    "philosophy-of-humor",
+    "incongruity-theory-humor",
+    "problem-of-other-minds"
+   ],
+   "relation": "Runs Hobbes's superiority theory, Freud's relief theory, and Kant's incongruity theory against Family Guy jokes (Peter failing 'What color is a fire truck?' in 'Petarded,' the 1956 workplace sensitivity film in 'I Am Peter, Hear Me Roar,' the fire-truck hunting gazelles) to argue no single theory covers everything. Against Ken Tucker's charge of cheap mean humor, it uses Aristotle's idea that laughter's proper function is enforcing social norms to claim parodies of mean-spirited humor laugh AT the mean-spirited speaker, not his target, and then applies Russell's solution to the problem of other minds to the writers' intentions in 'When You Wish Upon a Weinstein': Peter's established idiocy (volcano-insurance gambler's fallacy) and Cleveland's corrective lines are the context clues that the song mocks anti-Semites rather than Jews."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Thinkin' is Freakin' Sweet Family Guy and Fallacies.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "informal-fallacies"
+   ],
+   "relation": "A logic primer built from Family Guy clips: it teaches premises and conclusions by reconstructing Peter's Y2K bomb-shelter argument in 'DaBoom,' contrasts deduction with induction via Brian's fart-powered descent in 'Wasted Talent' and the show's 'remember the last time?' flashbacks, and then diagnoses named fallacies. Stewie's vow to destroy all vegetables after one bad broccoli exemplifies hasty generalization, Peter's smear campaign against Lois's candidacy in 'Running Mates' is ad hominem, Francis Griffin's hellfire pronouncements in 'Holy Crap' are appeal to inappropriate authority, and Peter's 'if Liza is wrong, then I don't want to know what right is' shows blind deference to celebrity."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Simpsons Already Did It! This Show Is A Freakin' Rip-Off!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard",
+    "lyotard",
+    "arthur-danto"
+   ],
+   "concepts": [
+    "simulacra",
+    "philosophy-of-art",
+    "institutional-theory-of-art"
+   ],
+   "relation": "Takes up South Park's 'Simpsons did it!' charge and argues Family Guy is not a rip-off but a postmodern artwork: it tests representation, expression, and form theories of art (Hamlet, Guernica, sonnet form) and finds the show fails all three, since a martini-sipping college-educated dog and non-narrative cutaways fit none. Following Danto, Lyotard, and Baudrillard, it claims the show deliberately raises 'what is art?' while dissolving original and copy into hyperreality: Peter worships the Fonz and builds him a church in 'The Father, the Son, and the Holy Fonz,' lives inside television with a cardboard frame in 'I Never Met the Dead Man,' and 'Da Boom' turns out to be Pam Ewing's dream, so the obvious borrowing from The Simpsons is the point, like Warhol's Brillo Boxes or Duchamp's L.H.O.O.Q."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Part IV Family Problems.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Is Brian More of a Person than Peter (scan merges Of Wills, Wantons, and Wives).md",
+   "kind": "chapter",
+   "philosophers": [
+    "frankfurt",
+    "searle",
+    "aristotle"
+   ],
+   "concepts": [
+    "second-order-desires",
+    "personhood",
+    "moral-psychology"
+   ],
+   "relation": "Uses Frankfurt's distinction between first-order desires, second-order desires, and the wanton to argue Brian is more of a person than Peter: Brian's therapy-driven realization in 'Brian in Love' that he does not want to want Lois is a genuine second-order desire, while Peter's TV fixation in 'I Never Met the Dead Man' (wearing a cardboard TV frame, swapping TV for family without reflection) leaves him a wanton, and Cleveland and even Quagmire scrape into personhood. The chapter then turns to weakness of will from Aristotle's akrasia onward, bringing in Searle's claim in Rationality in Action that choice happens in uncaused 'gaps' between desire and action, so acting against one's better judgment can evidence rather than defeat rationality, with R. Jay Wallace's willpower-based volitionism rounding out the action theory."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - The Ego is a Housewife Named Lois.md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud"
+   ],
+   "concepts": [
+    "freud-unconscious",
+    "oedipus-complex"
+   ],
+   "relation": "Maps Freud's structural model of the mind onto the Griffin household: Stewie is the id (the broccoli-destroying weather machine in 'I Never Met the Dead Man,' the mind-control device foiled by Bill Cosby in 'Brian Does Hollywood'), Brian is the super-ego (talking kleptomaniac Lois into surrendering in 'Breaking Out Is Hard to Do'), and Lois is the ego that reality-tests and restrains both, with the id-ego miscommunication mirrored in Lois never understanding Stewie's speech. The Oedipus complex does the interpretive heavy lifting: Stewie's 'damn you, vile woman' obsession is misdirected maternal longing, Brian's 'Brian in Love' confession of love for his figurative mother resolves the complex and founds his moral boundaries, and Peter's Church of the Holy Fonz reads as failed father-identification, religion as substitute for the father."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Lives and Times of Stewie Griffin.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis"
+   ],
+   "concepts": [
+    "time-travel",
+    "possible-worlds",
+    "free-will-determinism"
+   ],
+   "relation": "Uses Stewie Griffin: The Untold Story (Stewie's ride with Stu to 2035, then his RPG-wedding killing of Vanessa at Lois's request) to argue that changing the past is impossible: David Lewis's definition of time travel as a discrepancy between personal and external time yields the grandfather paradox if Stewie guns for Carter Pewterschmidt, and Nicholas Smith's second-time-around fallacy shows Stewie cannot prevent his own pool accident because the event he revisits would no longer be the event. The Deutsch-Lockwood quantum-multiverse rescue is examined and rejected, since hopping to a universe-B past is travel across timelines rather than genuine time travel, and the alternative would smuggle in fatalism about the traveler's causal laws."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Kierkegaard and the Norm (MacDonald) of Death.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard",
+    "epicurus"
+   ],
+   "concepts": [
+    "philosophy-of-humor",
+    "epicurean-death"
+   ],
+   "relation": "Reads Family Guy's personified Death (Norm MacDonald) through Kierkegaard's 'At a Graveside': the sprained ankle in 'Death is a Bitch' mocks the mistake of thinking death's arrival can be postponed, Death's boozing and cocoa complaints violate death's indefinability and the appropriate fear of it, and the clipboard-carrying harvester of 'Death Lives' treats death as the general human condition rather than my death, exactly Kierkegaard's criticism of Epicurus. But drawing on the Postscript's account of the comic as a painless contradiction that shows what not to do, the chapter concludes Death is a Kierkegaardian parody: its very absurdity (the high-five that kills a fan in 'I Take Thee Quagmire') exposes and corrects our superficial norms about death, unlike earnest personifications such as Meet Joe Black."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Appendix Everything you ever needed to know about Meg Griffin.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Notes on Contributors.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 18,
+   "type": "philosopher",
+   "suggested_slug": "arthur-danto",
+   "name": "Arthur Danto",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "American philosopher of art (1924-2013) who argued postmodern works like Warhol's Brillo Boxes deliberately defy traditional definitions of art and force the question 'What is art?'.",
+   "why": "Chapter 18's whole defense of Family Guy against the 'Simpsons did it!' rip-off charge rests on Danto's account of postmodern art as intentionally unfitting the representation, expression, and form theories; no existing taxonomy slug names him."
+  }
+ ]
+}

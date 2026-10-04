@@ -1,0 +1,294 @@
+{
+ "book": "004 - Buffy the Vampire Slayer and Philosophy - Fear and Trembling in Sunnydale",
+ "unit": "u004",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Buffy the Vampire Slayer and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Popular Culture and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - What a lot of fun—you guys have been real swell.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - And was there a lesson in all this.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "plato"
+   ],
+   "concepts": [],
+   "relation": "Editor James B. South's introduction explains how the Season One finale 'Prophecy Girl' turned him from a skeptic into a viewer who found the show 'worth my thinking about.' He states the book's two-way thesis: philosophy can illuminate BtVS, and the show offers genuine occasions for philosophical reflection on problems like nihilism, human irrationality, friendship, and punishment. Against the intimidation of technical academic philosophy (he cites Rawls's A Theory of Justice), he appeals to Plato's point that we cannot escape popular culture and to Aristotle's distinction between leisure and relaxation, arguing BtVS shows that television-watching can itself become the leisure activity in which philosophy is done."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Codex 1 - It’s kind of a Slayer thing. Buffy, Faith, and Feminism.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Buffyverse’s Moral Compass.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "nietzsche",
+    "rousseau"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia",
+    "plato-ring-of-gyges",
+    "plato-tripartite-soul"
+   ],
+   "relation": "Greg Forster argues the Buffyverse's moral structure is neither Christian nor Nietzschean vampire fiction but Platonic eudaimonism: the just person is always happier than the unjust. Faith is the test case — her pleasure-seeking turn to evil with Mayor Wilkins, her body-swap theft of Buffy's life in 'Who Are You?', her self-disgust ('You're nothing! Disgusting, murderous bitch!'), and her begging Angel to kill her in 'Five by Five' enact Plato's Republic examples of the Ring of Gyges and the unjust person mistakenly honored while the just one is punished. Buffy's invisible crime spree in 'Gone' and her 'the work that I have to do' sacrifice in 'The Gift' display the same eudaimonist pattern, with the caveat that the Buffyverse follows a Rousseau-like moral psychology in which compassion, not reason, does the moral work."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Persuasion As Drama.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "socrates",
+    "aristotle"
+   ],
+   "concepts": [
+    "master-slave-morality",
+    "ubermensch",
+    "ressentiment",
+    "will-to-power"
+   ],
+   "relation": "Karl Schudt contends that Nietzsche's genealogy of slave morality cannot be refuted by reason (Nietzsche denies reason itself), so drama must persuade where dialectic cannot: a believable story of a Nietzschean life acts as an empathic experiment. Faith is constructed as the Nietzschean ideal — strong, healthy, ruthless ('Find a couple of studs, use them, and discard them'), dismissive of reflection ('You think too much') — serving Mayor Wilkins, whom Schudt reads as a genuine Übermensch sacrificing mankind's mass for his ascension. Watching her world collapse (the accidental killing in 'Bad Girls', her mirror scene in 'Who Are You?', the torture of Wesley and confession on Angel) gives viewers an Aristotelian pity-and-fear warning that the unjust life ends badly, completing her 'leap from Nietzsche to Socrates.'"
+  },
+  {
+   "n": 11,
+   "file": "ch11 - “The Graduation” Autonomy and the Relational Self.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gilligan"
+   ],
+   "concepts": [
+    "care-ethics",
+    "feminism",
+    "utilitarianism"
+   ],
+   "relation": "Jessica Prata Miller reads Buffy through Carol Gilligan's care perspective: Buffy's self is relational (the Scooby Gang, 'Dawn is a part of me' in 'The Gift'), her moral reasoning contextual rather than rule-bound (caging Oz instead of killing the werewolf, rejecting Riley's Initiative 'demons bad' abstraction), and her emotions a moral resource ('My emotions give me power'). She also weighs the criticisms — Buffy's secret harboring of Angel exposed in 'Revelations,' and Faith's utilitarian 'plus column' defense of hiding a killing, which Buffy rejects ('I am' the one who cries over the bystander). Comparing the three Slayers, Miller argues only Buffy attains moral autonomy: Kendra's unquestioning obedience and Faith's hyper-individualistic action-hero isolation both fail, while Buffy's 'I like to think of it as graduation' break from the Watchers' Council shows autonomy achieved within, not against, relationships."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Noir Consequences of Sex Eros, Death, and the Possibility of Love.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "philosophy-of-love",
+    "feminism"
+   ],
+   "relation": "Thomas Hibbs reads BtVS as feminist noir: like classic noir it traps characters in labyrinths where the past bears down on the present (Buffy torn from heaven in 'After Life,' Angel's gypsy curse in 'Innocence,' the psych-ward ending of 'Normal Again'), and it rejects both Enlightenment optimism and the Nietzschean beyond-good-and-evil self-creation Hibbs finds in neo-noir like Body Heat and Thelma and Louise. Sex in Sunnydale always carries noir consequences — Angel losing his soul at the moment of 'true happiness,' Buffy's self-lacerating Spike affair ending in his attempted rape — so the show is skeptical of sexual liberation while recovering a classical eros as longing for wholeness. The Season Six finale locates the 'true essence of magic' in sacrificial love: Xander's yellow-crayon plea in 'Grave' reaches the 'spark of humanity' in Willow where all force fails."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - No Damsel in Distress.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gandhi",
+    "arendt"
+   ],
+   "concepts": [
+    "terrorism-violence",
+    "feminism"
+   ],
+   "relation": "Mimi Marinucci argues Buffy's violence tracks what agents do, not what they are: souled Angel and chip-enabled Spike receive moral consideration, willing human evildoers like Ford ('Lie to Me') and Ethan Rayne are fought, and Buffy's 'impression of Gandhi' in 'Anne' claims violence can rightly answer injustice. Building on William R. Jones's King–Malcolm X–Mao spectrum and Hannah Arendt's warning that doing violence habituates the agent, she reads the Slayer's fight as symbolic resistance to rape and women's oppression (bloodsucking as rape metaphor in 'Buffy vs. Dracula,' Spike's assault after Buffy ends the affair). The cost is real — 'Restless' reveals the First Slayer's primeval rage and staking with 'Mr. Pointy' mirrors sexualized violence — so she ends by endorsing tempered, appropriate violence (Buffy's Tai Chi training with Angel) over both passivity and aggression."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Codex 2 - Don’t speak Latin in front of the books Knowledge, Rationality, and.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Smelly Knowledge.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "feyerabend"
+   ],
+   "concepts": [
+    "skepticism",
+    "scientific-realism"
+   ],
+   "relation": "Andrew Aberdein sorts the Buffyverse's science-supernatural encounters into three grades — reduction to present science, reduction to a future science, and the irreducibly supernatural — illustrated by Sunnydale's rationalizers and Giles's inner skeptic in 'Tabula Rasa,' the Initiative's DNA testing of Oz in 'New Moon Rising,' and the show's characteristic 'creepy mix of magic and science' (Jenny Calendar's 'the divine exists in cyberspace'). He reads 'Normal Again' through Descartes's deceiving-demon skepticism, links Spike's chip and Walsh's Adam to the Phineas Gage case (emotion is needed for rational decision), and maps the grades onto the ancients-versus-moderns quarrel and Feyerabend's methodological anarchism. Giles's 'smelly knowledge' speech about books versus computers anticipates a pluralist, socially sensitive epistemology that enriches rather than rejects science."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Pals.md",
+   "kind": "chapter",
+   "philosophers": [
+    "william-james",
+    "feyerabend",
+    "popper",
+    "peirce"
+   ],
+   "concepts": [
+    "pragmatism",
+    "epistemological-anarchism",
+    "falsification"
+   ],
+   "relation": "Madeline Muntersbjorn uses Season Four's Initiative-versus-Scoobies conflict to dissolve the Science Wars: Professor Walsh's secret, unfalsifiable Project 314 makes her Karl Popper's bad scientist, while Buffy's gang embodies Feyerabend's pluralism and Peirce-and-James pragmatism — Buffyverse rules are probabilistic rather than deterministic, and the gang welcomes anyone willing to ask questions and do research. Her three ideals — pluralism, pragmatism, pals — culminate in 'Primeval,' where the combo-Buffy enjoining spell (Willow's spirit, Xander's heart, Giles's mind, Buffy's hand) literally enacts James's meliorism: the world may be saved if each agent does their level best, together. Walsh dies alone because she has no pals; Buffy saves the world 'a lot' because she does."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Conquering the Inner Demon.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "plato"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "transcendental-idealism",
+    "kant-autonomy",
+    "plato-cave"
+   ],
+   "relation": "James Lawler casts Buffy as a contemporary allegory of Plato's cave-escaped philosopher and reads the show through Kant: the Slayer moves between a hellish lower world of instrumental appetite and an intelligible higher world of the soul, and Kant's Copernican revolution ('objects must conform to our knowledge') explains Marcie's invisibility in 'Out of Mind, Out of Sight' and the fear-made-flesh Master of 'Nightmares.' Kant's formula that every rational being exists as an end in himself grounds Buffy's duty in 'Anne' ('I am Buffy, the Vampire Slayer'), her rejection of Spike's chip as no substitute for a soul in 'Crush,' and her 'As You Were' admission that using Spike treats him as a mere means. Season Six explores 'too much heaven': Buffy's blissful death in 'The Gift' makes earthly life hell, and only conquering the inner demon — Willow's fear-driven dark magic defeated by Xander's yellow-crayon love in 'Grave' — restores the balance between heavens and hells."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Possibilities of Postmodern Education Beyond Control.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "hegel",
+    "paulo-freire"
+   ],
+   "concepts": [
+    "grand-narratives",
+    "deconstruction",
+    "binary-oppositions"
+   ],
+   "relation": "Toby Daspit reads Season Four as a drama of postmodern education: the Initiative's will to master and dissect — Walsh's Frankenstein-project Adam, who murders a boy to see how he works, fulfilling Wordsworth's 'we murder to dissect' — embodies the Cartesian split and the Hegelian drive to negate the other, while Buffy's world deconstructs fixed identity (Darla reversing the horror-movie opening, the Faith/Buffy body swap in 'Who Are You?', Jonathan's 'Superstar') and thwarts prophecy's metanarrative in 'Prophecy Girl.' Against modernist schooling's 'controlled circumstances' and Freire's banking model (Professor Riegert ejecting Buffy from class, Walsh's transmission lectures), the show models knowledge as collective work — the Scoobies' research sessions in Giles's library, Giles's fluid mentorship versus Kendra's by-the-book training, and the relational magic of 'Primeval' — offering education beyond control in an emergent, postmodern world."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Making the Pain Go “Poof”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [
+    "moral-psychology"
+   ],
+   "relation": "James B. South argues Willow's Season Six turn — magic addiction, torturing Warren with a 'bored now,' attempting to end the world in 'Grave' — is tragic precisely because it is unintelligible: against Aristotle's account of tragedy, where pity requires seeing an intelligible mistake, Willow's destruction flows from Freudian depths (via Plato's 'lawless' desires and Jonathan Lear's 'enigmatic signifiers') that cannot be explained, only pointed to. The chapter traces the available evidence — her sidekick insecurity ('I'm not your sidekick!' in 'Fear, Itself'), her 'spurty knowledge' slip, making pain go 'poof' in 'Something Blue' — while insisting these unconscious swerves never add up to a reason for the final break. Xander's yellow-crayon memory in 'Grave' works not as explanation but as a second kind of break that opens space for Willow to regroup."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Codex 3 - You’re really enjoying this whole moral superiority thing, aren’t.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Buffy As a Watcher (of Sorts).md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "virtue-ethics",
+    "supererogation"
+   ],
+   "relation": "Jason Kawal tests virtue ethics's 'act as the virtuous person would act' (Hursthouse's criterion) against Xander's 'What would Buffy do?': Buffy qualifies as a moral exemplar with heroic actions (nightly patrols, the 'Gift' plunge) and saintly sacrifices (the 'Doublemeat Palace' McJob for Dawn), but imitation fails — Xander lacks her abilities, tastes, relationships, and pure bravery, and stripping those away one by one turns Buffy into a copy of Xander. Worse, much of what Buffy does is supererogatory (Giles: 'She's a hero... She's not like us' in 'The Gift,' before killing Ben himself), so ordinary people are not morally required to do what she would do. His fix: ask what a fully informed, unimpaired virtuous observer — an 'angelic Buffy looking over our shoulders,' never drugged into 'Beer Bad' cave-Buffy — would deem right for us, given our own abilities and commitments."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Emotions and Aesthetic Response.md",
+   "kind": "chapter",
+   "philosophers": [
+    "epictetus",
+    "plato",
+    "aristotle",
+    "nussbaum",
+    "kant"
+   ],
+   "concepts": [
+    "stoicism",
+    "philosophy-of-love",
+    "dichotomy-of-control"
+   ],
+   "relation": "Carolyn Korsmeyer uses BtVS to stage philosophy's ambivalence about emotion — dangerous passion versus intuitive sagacity — through three cases: anger as beast within and practical power (Xander's love spell in 'Bewitched, Bothered and Bewildered,' Willow's wish-spells in 'Something Blue,' 'My emotions give me power' to Kendra), grief as the one emotion no magic can undo (Epictetus's jug-and-child counsel set against 'The Body' and Dawn trying to resurrect Joyce), and love's non-fungibility (Anya's vengeance-demon past leaves her without the wider affection that makes singular love credible, while Spike's messy human history makes his obsession believable). She draws on Plato's wild-beast appetites and spirited element of the Republic, Aristotle on anger and emotional disposition as character, Kant's reason-above-nature picture, and Martha Nussbaum on art's particular cases. Finally she turns to aesthetic response: the show's comedy ('She saved the world a lot') regulates audience emotion, keeping the serial's catharsis from tipping into manipulation."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "banking-model-education",
+   "name": "The Banking Model of Education (critical pedagogy)",
+   "philosopher": "paulo-freire",
+   "domain": "political-social",
+   "what": "Freire's critique of schooling as depositing information into passive students, reproducing control instead of liberation.",
+   "why": "Chapter 18 uses the banking model as the modernist foil that Buffy's collaborative, inquiry-based knowledge-making in the library and 'Primeval' subverts."
+  },
+  {
+   "ch": 18,
+   "type": "philosopher",
+   "suggested_slug": "paulo-freire",
+   "name": "Paulo Freire",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Brazilian critical pedagogue whose Pedagogy of the Oppressed attacks authoritarian, dehumanizing education.",
+   "why": "Chapter 18 frames its whole case for postmodern education beyond control through Freire's banking model versus dialogic, relational learning."
+  },
+  {
+   "ch": 19,
+   "type": "philosopher",
+   "suggested_slug": "freud",
+   "name": "Sigmund Freud",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Founder of psychoanalysis, theorist of an unconscious whose desires are opaque rather than rationally explicable.",
+   "why": "Chapter 19 explains Willow's magic addiction and world-ending break through Freud's unconscious, pleasure principle, and 'enigmatic signifiers' (via Jonathan Lear)."
+  },
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "supererogation",
+   "name": "Supererogation (beyond the call of duty)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Actions that are morally praiseworthy but not required, such that omitting them is not blameworthy.",
+   "why": "Chapter 21's second objection to virtue ethics is that Buffy's heroism is supererogatory, so ordinary people need not do what she would do."
+  }
+ ]
+}

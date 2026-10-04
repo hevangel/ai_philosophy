@@ -1,0 +1,249 @@
+{
+ "book": "057 - Rush and Philosophy - Heart and Mind United",
+ "unit": "u092",
+ "chapters": [
+  {
+   "n": 20,
+   "file": "ch20 - A Single, Perfect Sphere.md",
+   "kind": "chapter",
+   "philosophers": [
+    "chalmers",
+    "descartes"
+   ],
+   "concepts": [
+    "hard-problem",
+    "cartesian-dualism",
+    "apollonian-dionysian"
+   ],
+   "relation": "Reads Rush's 'Hemispheres' as a correction to Chalmers's hard problem of consciousness: Apollo's gifts of reason leave the people joyless, Dionysus's release into passion leaves them starving in winter, and Cygnus is made god of Balance because human nature thinks and feels at once. Against Descartes's two substances and the 'Robots Plus' picture, the author argues feeling is not supernatural icing on a machine but how survival-minded organisms stay in phenomenal contact with the world, so physicalism needs deepening rather than a nonphysical mind."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - “I Want to Look Around Me Now”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir"
+   ],
+   "concepts": [
+    "feminism"
+   ],
+   "relation": "Charts Rush's gradual saturation with synthesizers, sequencers, and electronic percussion from 'Subdivisions' and 'Distant Early Warning' to 'Time Stand Still,' explaining the adoption through Wajcman's gradual-modification model and feminist analyses of technology as a male skill domain — including de Beauvoir's point that technical prowess underwrites virility, which the author applies to Rush fans' valorizing of the trio's chops. It closes by casting the band's handling of music technology as Bourdieu's habitus, granting Rush 'relative autonomy' from the hi-tech pressures of the 1980s."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Listen to My Music, and Hear What It Can Do.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "A music-theoretic account of how Rush's music signifies only for competent listeners: the vocal pauses of 'Entre Nous' paint separation while its related keys paint unity, the 'Oriental riff' and pentatonics of 'A Passage to Bangkok' and 'Tai Shan' evoke nonspecific otherness, space-music textures open '2112' and 'Cygnus X-1,' and tritones brand evil in 'Witch Hunt,' 'The Necromancer,' and 'YYZ.' It ends by noting the irony that Rush uses its own electric voice to portray the bad guys, concluding with 'Entre Nous' that otherness and difference can be synthesized into a greater whole."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Does Rush Offer a Way Out.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein",
+    "descartes"
+   ],
+   "concepts": [
+    "private-language",
+    "language-games",
+    "cartesian-doubt",
+    "brain-in-a-vat"
+   ],
+   "relation": "Uses Rush's 1980s lyrics about facades and trust — 'Limelight''s strangers, 'Show Don't Tell''s refusal to take things on faith, 'War Paint''s lying mirror, and the synthesizer as an instrument that can fake any other sound — to stage skepticism about other minds, running from Descartes's cogito through solipsism and behaviorism. Wittgenstein's beetle-in-a-box and private-language argument dissolve the inner/outer confusion as a grammatical one, and 'Turn the Page' supplies the way out of the fly-bottle: nothing survives a vacuum, and with other people all we can do is be reminded."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Counterparts Lee’s Voice and Peart’s Drums.md",
+   "kind": "chapter",
+   "philosophers": [
+    "benjamin",
+    "roland-barthes"
+   ],
+   "concepts": [],
+   "relation": "Takes the rock critics' vilification of Geddy Lee's 'shrill' voice versus fans' devotion to Neil Peart's drumming and explains the fan's pleasure through Roland Barthes's 'cruising': the listener repeatedly works through 'Tom Sawyer,' 'Between the Wheels,' and 'Animate' for the fresh catch of Peart's fills, which act as the Benjamin-style distraction by which the distracted mass absorbs the work of art. Lee's voice thus becomes an integral counterpart — the mundane the listener cruises past to reach the hooks that reward the quest."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - PART IV - The Blacksmith and the Artist.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Straining the Limits of Machine and Man.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "marx",
+    "aristotle"
+   ],
+   "concepts": [
+    "heidegger-technology",
+    "marx-alienation"
+   ],
+   "relation": "Reads Peart's ambivalence about technology through Heidegger's techne as revealing and Marx's account of the worker: 'Working Man''s no-time-for-living day, '2112''s priests whose 'great computers' smash the protagonist's guitar, 'Manhattan Project''s Oppenheimer problem, and 'Test for Echo''s 'video vertigo.' Against Ellul-style autonomous technology the chapter insists Peart believes we still control our machines, and it ends with Rush mastering its own studio gear — and the motorcycle of Ghost Rider as the machine that carries Peart through grief."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Humanism Needs Its Evangelists, Too.md",
+   "kind": "chapter",
+   "philosophers": [
+    "spinoza"
+   ],
+   "concepts": [
+    "faith-vs-reason",
+    "spinoza-monism",
+    "kant-aesthetics"
+   ],
+   "relation": "Treats Snakes & Arrows ('Far Cry,' 'Armor and Sword,' 'Faithless') as secular humanism stung by resurgent fundamentalism, and reads Peart's revolutionary trilogy — 'Beneath, Between and Behind,' 'Bastille Day,' 'A Farewell to Kings' — as Enlightenment humanism already anxious about its own decline. The core argument is rhetorical: Rush deliberately clothes humanist content in sacred and mystical language ('Something for Nothing''s Lord's Prayer motif, 'Jacob's Ladder''s storm read through Spinoza's God-as-nature and the experience of the sublime) because humanism needs evangelists who inspire wonder rather than mere argument."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - There’s Something Here that’s as Strong as Life.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nozick",
+    "mill",
+    "adam-smith",
+    "ayn-rand"
+   ],
+   "concepts": [
+    "moral-egoism",
+    "minimal-state",
+    "mill-liberty"
+   ],
+   "relation": "Argues Rush's lyrics cohere as libertarianism: Rand's rational self-interest in 'Anthem' and 'Something for Nothing,' Nozick's Wilt Chamberlain argument and Hayek's knowledge problem behind '2112' and 'The Trees,' Mill's 'experiments in living' in 'Witch Hunt' and 'Nobody's Hero,' and market-enabled tolerance and cosmopolitanism in 'Heresy,' 'Territories,' and 'Tai Shan.' Like Cygnus resolving Apollo and Dionysus, libertarianism takes the best of left and right, with individualism the constant running through Peart's career."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Hardly Rand-y Peart.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "hegel"
+   ],
+   "concepts": [
+    "utopia-dystopia"
+   ],
+   "relation": "Sets '2112' against Rand's Anthem to vindicate Peart's claim to be 'no one's disciple': both are egalitarian dystopias, but where Rand's Equality 7-2521 is a born transgressor who escapes to rebuild civilization, Rush's nameless protagonist is an indoctrinated conformist whose smashed guitar leaves him in Hegel's 'unhappy consciousness' and despair. Read as a romance of social disillusionment tinged with Nietzsche's joyful wisdom and gift-giving virtue, the song treats egalitarian leveling as nihilism and overturns Anthem's optimistic egoism — so it is hardly Rand-y at all."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Outro.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "hegemony"
+   ],
+   "relation": "Asks how Rush is Canadian: CanCon radio quotas, the band's hybrid of British prog and Anglo-American hard rock, and McLuhan's 'flexible' national character, before a detailed musical reading of 'The Trees' — its 6/8-to-4/4 shifts, countertenor outburst, and woodpecker solos — as an aural 'Royal Commission' that may satirize legislated equality like Canadian content regulations defending against US media dominance. Bakhtin's monologic worldview frames the Oaks, and the chapter closes with later Canadian signs from the inukshuk cover of Test for Echo to Trailer Park Boys."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Co-Produced By.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Rush and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "habitus",
+   "name": "Habitus (structured dispositions)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Bourdieu's notion that social practice is shaped by durable, embodied dispositions acquired through one's position in a field, giving actors 'relative autonomy' from external determination.",
+   "why": "Chapter 21 explicitly frames Rush's virtuosic absorption of 1980s music technology as the band's habitus, making it the chapter's concluding analytic concept."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "musical-meaning",
+   "name": "Musical Meaning and Convention (text-painting, otherness)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The view that music signifies through learned stylistic conventions and text-painting, so gestures like the tritone or 'exotic' scales carry meaning only for listeners competent in a tradition.",
+   "why": "Chapter 22's whole analysis of how Rush paints geography, outer space, and evil musically rests on this conventionalist account of musical meaning under the heading 'How Does Music Mean?'"
+  },
+  {
+   "ch": 24,
+   "type": "philosopher",
+   "suggested_slug": "roland-barthes",
+   "name": "Roland Barthes",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "French literary theorist of signs and pleasure whose late work analyzed desire, fragments, and the 'cruising' of texts by their readers.",
+   "why": "Chapter 24 explains the pleasure of Lee's voice and Peart's drums almost entirely through Barthes's writings on cruising, distraction, and the catch of sentences."
+  },
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "pleasure-of-the-text",
+   "name": "The Pleasure of the Text (cruising)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Barthes's idea that readers or listeners 'cruise' a text for fresh, repeatable moments of pleasure found in fragments, hooks, and productive distraction.",
+   "why": "Chapter 24 applies cruising to musical hooks, treating Peart's drumming as the distraction that carries listeners through Lee's much-criticized vocals in songs like 'Tom Sawyer.'"
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "technological-determinism",
+   "name": "Technological Determinism / Autonomous Technology",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The position (associated with Ellul, Mumford, and others) that technology develops by its own momentum, shapes society, and may escape human control altogether.",
+   "why": "Chapter 26 names technological determinism and 'Autonomous Technology' to frame 'Manhattan Project' and Feenberg's technocracy against Peart's belief that technology remains in our control."
+  },
+  {
+   "ch": 28,
+   "type": "philosopher",
+   "suggested_slug": "ayn-rand",
+   "name": "Ayn Rand",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Russian-American novelist-philosopher whose Objectivism holds rational self-interest as the only moral life and champions laissez-faire capitalism and artistic integrity.",
+   "why": "Chapters 28 and 29 treat Peart's 'Anthem,' '2112,' and 'Something for Nothing' as Randian individualist libertarianism, with '2112' following her novella Anthem."
+  },
+  {
+   "ch": 28,
+   "type": "philosopher",
+   "suggested_slug": "friedrich-hayek",
+   "name": "Friedrich Hayek",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Austrian economist-philosopher who argued that dispersed, tacit knowledge makes central planning impossible and that spontaneous order outperforms deliberate design.",
+   "why": "Chapter 28 reads 'Natural Science' and 'The Trees' as Hayekian warnings against scientism and imposed equality, citing The Constitution of Liberty and 'The Use of Knowledge in Society.'"
+  }
+ ]
+}

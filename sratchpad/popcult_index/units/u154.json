@@ -1,0 +1,132 @@
+{
+ "unit": "u154",
+ "book": "096 - Hannibal Lecter and Philosophy - The Heart of the Matter",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\096 - Hannibal Lecter and Philosophy - The Heart of the Matter",
+ "range": [
+  2,
+  22
+ ],
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - i.md",
+   "words": 917
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Title Page.md",
+   "words": 0
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Copyright.md",
+   "words": 111
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "words": 5
+  },
+  {
+   "n": 6,
+   "file": "ch06 - vi.md",
+   "words": 19
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Le Menu.md",
+   "words": 290
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Hello, Dr. Lecter.md",
+   "words": 3843
+  },
+  {
+   "n": 9,
+   "file": "ch09 - I. Having an Old Friend for Dinner.md",
+   "words": 7
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 1. Cosmopolitan Cannibal.md",
+   "words": 4154
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 2. I, Cannibal.md",
+   "words": 5942
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 3. What\u2019s So Bad about Eating People.md",
+   "words": 4435
+  },
+  {
+   "n": 13,
+   "file": "ch13 - II. What Does He Do, This Man You Seek.md",
+   "words": 9
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 4. Acts of God.md",
+   "words": 5522
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 5. Office Hours Are for Patients.md",
+   "words": 4660
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 6. The Psychiatrist as Sociopathic God.md",
+   "words": 4148
+  },
+  {
+   "n": 17,
+   "file": "ch17 - III. They Say He\u2019s a Psychopath.md",
+   "words": 7
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 7. Psychopaths, Outlaws, and Us.md",
+   "words": 4898
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 8. Consuming Homicidal Art.md",
+   "words": 3015
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 9. Not Knowing Serial Killers with Hannibal Lecktor.md",
+   "words": 4702
+  },
+  {
+   "n": 21,
+   "file": "ch21 - IV. I Gave You a Rare Gift, but You Didn\u2019t Want It.md",
+   "words": 13
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 10. The Light from Friendship.md",
+   "words": 4588
+  }
+ ],
+ "content": [
+  2,
+  7,
+  8,
+  10,
+  11,
+  12,
+  14,
+  15,
+  16,
+  18,
+  19,
+  20,
+  22
+ ]
+}

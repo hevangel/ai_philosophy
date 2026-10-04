@@ -1,0 +1,793 @@
+{
+ "book": "167 - The Ultimate Harry Potter and Philosophy - Hogwarts for Muggles",
+ "unit": "u245",
+ "chapters": [
+  {
+   "n": 103,
+   "file": "ch103 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 104,
+   "file": "ch104 - Tell Me One Last Thing.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 105,
+   "file": "ch105 - What Is Real.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 106,
+   "file": "ch106 - Going Mental.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-cave"
+   ],
+   "relation": "Opens the Just in Your Head? essay by taking Dumbledore's reply to Harry (of course it is happening inside your head, but why should that mean it is not real?) as a live metaphysical and epistemological question about appearance versus reality, noting that even A. J. Ayer dismissed his own near-death experience as hallucination. It retells Plato's cave allegory and reads Harry and Dumbledore's descent into the creepy cave in Half-Blood Prince, plus Harry's worry that the King's Cross dialogue was just a shadow on the wall, as a modern image of prisoners mistaking appearances for reality."
+  },
+  {
+   "n": 107,
+   "file": "ch107 - Rowling as an Inkling.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "berkeley",
+    "descartes",
+    "kant",
+    "mill"
+   ],
+   "concepts": [
+    "berkeley-idealism",
+    "plato-forms",
+    "transcendental-idealism"
+   ],
+   "relation": "Argues Dumbledore's remark dissolves a false dilemma: the Hermione-as-idea versus Emma Watson contrast shows that existing in the head need not mean unreal. It then surveys thinkers who agree that mind and reality overlap: Plato's forms (the many broomsticks as imperfect copies of the ideal broomstick), Descartes on knowing essences by reason, Kant's mind-constructed objects, Berkeley's esse est percipi, Mill's phenomenalism, and Yogacara Buddhism's consciousness-fabricated emptiness, concluding that what is in the head can be genuinely real."
+  },
+  {
+   "n": 108,
+   "file": "ch108 - Harry’s Near-Death Experience.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plantinga",
+    "anscombe",
+    "cs-lewis"
+   ],
+   "concepts": [
+    "argument-from-reason"
+   ],
+   "relation": "Develops the essay's boldest suggestion: reading Rowling through C. S. Lewis and the Inklings, whose associate Barfield convinced Lewis that if thought were a purely subjective event, logical and moral claims to truth would collapse, the germ of Lewis's argument from reason later refined by Plantinga and contested by Anscombe. On this view our logic participates in a cosmic Logos, which Christians identify with Christ, a point the chapter ties to Rowling's remark that it was no coincidence Harry's fateful dialogue happened at King's Cross, so what occurs in the head can genuinely put us in touch with reality."
+  },
+  {
+   "n": 109,
+   "file": "ch109 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "emerson"
+   ],
+   "concepts": [
+    "immortality",
+    "skepticism"
+   ],
+   "relation": "Surveys near-death-experience research from Moody's Life after Life to Susan Blackmore's debunking explanations (oxygen starvation, cultural variation) and argues the skeptical conclusion does not follow: a child's vision of her living dog Sparky on the other side could still be a genuine divinely created revelation happening wholly inside her head. It reads Harry's King's Cross way-station the same way, since wizards can channel themselves through portraits, ghosts, and Legilimency, and closes with Emerson's Over-Soul claim that moments of faith deserve to be ascribed more reality than ordinary experience."
+  },
+  {
+   "n": 110,
+   "file": "ch110 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 111,
+   "file": "ch111 - “A Swirling, Silvery Mass”.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "personal-identity",
+    "extended-mind"
+   ],
+   "relation": "Opens Amy Kind's essay by presenting the Pensieve as a device for offloading memories like data from a hard drive, easing obsession and revealing patterns, and asks what that does to the boundaries of mind, memory, and self. If thoughts can be extracted from the head, tampered with, stored elsewhere, and shared, as with the Pensieve and Tom Riddle's diary, then memory-based accounts of what makes a person persist over time come under pressure, and it is no longer obvious whose mind a thought belongs to."
+  },
+  {
+   "n": 112,
+   "file": "ch112 - The Hallows of the Mind.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "hobbes"
+   ],
+   "concepts": [
+    "cartesian-dualism"
+   ],
+   "relation": "Uses Rowling's light-made-liquid description of the Pensieve's silvery contents to stage the materialism versus dualism debate: Hobbes-style materialists can treat ghosts like Nearly Headless Nick and the strands of thought clinging to wands or leaking from dying wizards as matter, while Cartesian dualists find support in Harry's fear at King's Cross that he might exist only as disembodied thought. Snape's remark that the mind is a complex and many-layered thing frames how little is settled about the mind-brain relation."
+  },
+  {
+   "n": 113,
+   "file": "ch113 - Confundus!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "clark",
+    "chalmers"
+   ],
+   "concepts": [
+    "extended-mind"
+   ],
+   "relation": "Challenges the assumption that the mind stops at the skull by deploying Clark and Chalmers's extended mind thesis: just as a prosthetic leg, Moody's magic eye, or Harry's holly-and-phoenix-feather wand can count as part of the body, Otto's notebook shows external storage functioning as memory itself rather than a mere aid. Tom Riddle's diary, where a memory acts and thinks for itself because a soul fragment lived in it, and Snape's memories being his whether in his head, a phial, or the Pensieve make physical location incidental to mental ownership."
+  },
+  {
+   "n": 114,
+   "file": "ch114 - Mischief Managed.md",
+   "kind": "chapter",
+   "philosophers": [
+    "clark",
+    "chalmers"
+   ],
+   "concepts": [
+    "extended-mind"
+   ],
+   "relation": "Defends the Otto case against the obvious objection that notebook entries are not conscious beliefs: most beliefs, like Ron's that Ireland beat Bulgaria at the Quidditch World Cup, are nonoccurrent anyway, and Rita Skeeter pausing to recall where Bathilda Bagshot lives works exactly like Otto consulting his notebook. Constant integration is what separates genuine mind-extension from mere aids, which is why Harry's borrowed Half-Blood Prince textbook, Neville's password list, and even Hermione's well-thumbed Hogwarts, A History stay outside the mind."
+  },
+  {
+   "n": 115,
+   "file": "ch115 - Lumos!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "clark",
+    "chalmers"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "extended-mind",
+    "personal-identity"
+   ],
+   "relation": "Pushes the theory to its strangest consequence: if the stolen Marauder's Map belongs to the extended minds of both Fred and George Weasley, then minds can literally overlap. Combined with Locke's memory theory, the chains of memory linking the adult Harry, the teenager facing Voldemort, and the orphaned infant at the Dursleys, Pensieve sharing and magic like Barty Crouch Jr.'s Polyjuice impersonation of Moody or Hermione's rewriting of her parents' memories become genuine identity thefts, as Harry's crisis of self after seeing Snape's worst memory of James illustrates."
+  },
+  {
+   "n": 116,
+   "file": "ch116 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "personal-identity",
+    "extended-mind"
+   ],
+   "relation": "Resolves the threat by sorting memories into know-how, factual, and first-person experiential kinds: identity rides on experiential memories, but Pensieve replays are third-person, as Rowling confirmed about Dumbledore's memory of Bellatrix Lestrange's trial. So sharing a Pensieve memory endangers who you are no more than sharing an experience or using a Time-Turner, and whether your thoughts sit in a mind, a Pensieve, or a notebook, they remain your own."
+  },
+  {
+   "n": 117,
+   "file": "ch117 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 118,
+   "file": "ch118 - The Good.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "kant",
+    "dewey"
+   ],
+   "concepts": [],
+   "relation": "Opens Gregory Bassham's audit of Hogwarts: from a kid's point of view the school is paradise, all magic and no math, but he asks what the great philosophers of education, Plato, Aristotle, Kant, and Dewey, would make of teaching and learning there. The chapter will weigh Susan Engel's claim that Hogwarts is a model school against problems documented by contemporary educational research."
+  },
+  {
+   "n": 119,
+   "file": "ch119 - Unknown.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 120,
+   "file": "ch120 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dewey"
+   ],
+   "concepts": [
+    "dewey-experience"
+   ],
+   "relation": "Concedes Hogwarts succeeds at its one job, teaching magic, and explains how: effective lessons like Lupin teaching Harry to conjure a Patronus and Harry training Dumbledore's Army proceed apprenticeship-style through demonstration, practice, individualized coaching, and mastery. This hands-on learning by doing, not Professor Binns's droning lectures or Umbridge's theory-only textbook assignments, is why students actually acquire magical skill."
+  },
+  {
+   "n": 121,
+   "file": "ch121 - Unknown.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 122,
+   "file": "ch122 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dewey"
+   ],
+   "concepts": [
+    "dewey-experience"
+   ],
+   "relation": "Applies Dewey's demand that education be part of life rather than preparation for some remote future, together with Whitehead's critique of inert, undigested knowledge: Hogwarts students see the practical payoff of Apparition, Transfiguration, and Defense Against the Dark Arts, which makes them eager learners, while Hagrid's Blast-Ended Skrewts and Trelawney's bogus crystal-ball gazing are the inert exceptions that prove the rule."
+  },
+  {
+   "n": 123,
+   "file": "ch123 - Unknown.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 124,
+   "file": "ch124 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Catalogues the school's hazards, giant spiders and hostile centaurs in the Forbidden Forest, grindylows and a giant squid, the Whomping Willow, potions gone awry, injury-prone Quidditch and the Triwizard Tournament, and children carrying lethal wands, to argue that if Hogwarts really existed its danger would be indefensible. Magical medicine fixes much, but as Dumbledore says, no magic can reawaken the dead."
+  },
+  {
+   "n": 125,
+   "file": "ch125 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Grades the faculty from the competent and caring (Dumbledore, McGonagall, Flitwick, Sprout, Lupin) through the flawed (Hagrid, the disguised Crouch, the bullying Snape) to the downright crummy (Binns, Trelawney, Lockhart, Umbridge), then locates the deeper cause: the wizarding world has no teacher education or certification, so anyone from Hagrid to a homicidal impostor can take a classroom, making poor instruction structural rather than accidental."
+  },
+  {
+   "n": 126,
+   "file": "ch126 - The Ugly.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "dewey",
+    "locke",
+    "rousseau",
+    "kant"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia"
+   ],
+   "relation": "Argues the ugliest defect is curricular: Hogwarts teaches only vocational magic, giving students the tools of power without the wisdom to use them, and so fails Adler's three aims of secondary schooling and the aims every major philosopher of education defended, Plato's wisdom and just society, Aristotle's eudaimonia, Locke's virtue and wisdom, Rousseau's natural education, Kantian character, and Deweyan growth. Even allowing that Dumbledore's office is a school of virtue outside class, most students never get his mentorship, leaving wizards ill-equipped for problems like anti-Muggle bigotry."
+  },
+  {
+   "n": 127,
+   "file": "ch127 - Like Bertie Bott’s Every-Flavor Beans, a Mix.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "arendt-totalitarianism"
+   ],
+   "relation": "Names pureblood supremacism, Voldemort's Nazi-like movement whose victory would mean totalitarianism, thought control, secret police, mock trials, and racial cleansing, as the greatest problem wizards face, and faults Hogwarts education for ignoring it: no antiracist teaching despite rampant slurs, silence about the oppressed house-elves of Hogwarts, A History, and Slytherin left as a hothouse breeding Death Eaters and fifth columnists. Against Prinzi's gradualist defense of Dumbledore as a persuasive libertarian, the chapter presses the fair question of why he did not do more."
+  },
+  {
+   "n": 128,
+   "file": "ch128 - NOTES.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 129,
+   "file": "ch129 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 130,
+   "file": "ch130 - PART FIVE - BEYOND THE VEIL DEATH, HOPE, AND MEANING.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 131,
+   "file": "ch131 - Remorse and Death.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "forgiveness"
+   ],
+   "relation": "Opens Charles Taliaferro's essay by reading Fawkes's burning and rebirth as a clue to a philosophical model of moral repair: the wrongdoer must confess, feel sincere remorse, repudiate the pleasure or gain of the wrongdoing, and form new intentions, a kind of death to the old self like Christian baptism, after which the repaired relationship is reborn and the friend is seen in a new light. It then sets up Voldemort as the perversion of this pattern, spreading death by clinging to life while Harry and Dumbledore move to deeper life by accepting death."
+  },
+  {
+   "n": 132,
+   "file": "ch132 - The Inversion of Voldemort.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "forgiveness",
+    "immortality"
+   ],
+   "relation": "Sharpens the remorse-versus-regret contrast through Voldemort's cold regret after having Nagini kill Snape, and shows true remorse at work in Dumbledore's confession about the Resurrection Stone ring, his arranged death at Snape's hand, and his tearful self-disclosure to Harry at King's Cross. Harry too must die to be regenerated: letting Voldemort strike him destroys the Horcrux inside so that his soul becomes whole and completely his own, while lesser purgings, like his furious outburst at Ron and Hermione, and his love for Ginny complete the pattern of dying to the old self."
+  },
+  {
+   "n": 133,
+   "file": "ch133 - The Integrity Objection.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "immortality",
+    "forgiveness"
+   ],
+   "relation": "Completes the inversion: each Horcrux rips and destabilizes Voldemort's soul, and only excruciating remorse could put it back together, something he will never attempt, while his evil literally disembodies him until he lives parasitically on the blood and limbs of others. Against this, Hermione's gloss on the Potters' gravestone, the last enemy that shall be destroyed is death, means the soul survives whatever happens to the body, grounding the contrast between Voldemort's pathetic, unmourned end and the honored deaths of Dobby, Fred, Lupin, Tonks, and Colin Creevey."
+  },
+  {
+   "n": 134,
+   "file": "ch134 - The Fantasy Objection.md",
+   "kind": "chapter",
+   "philosophers": [
+    "melanie-klein"
+   ],
+   "concepts": [
+    "personal-identity",
+    "forgiveness"
+   ],
+   "relation": "Takes up the integrity objection advanced by the Freudian psychoanalyst Melanie Klein: renunciation cannot change the fact that it was you who did the wrong, so posing as an altogether new person invites self-deception, as with the reformed alcoholic who still calls himself an alcoholic. Taliaferro grants the regeneration model can be abused but argues renewal requires something very close to dying to the past, using Snape, unable to confess his love for Lily, still nursing resentment, honored only when Harry names his son Severus, as the tragedy of reform without full renunciation."
+  },
+  {
+   "n": 135,
+   "file": "ch135 - Fawkes’s Secret.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "forgiveness"
+   ],
+   "relation": "Answers the fantasy objection, that ethics drawn from a world of spells and talking portraits is escapist make-believe, by noting that Rowling's moral insight does not depend on the magic: loyalty, friendship, romantic love, fairness, opposition to enslavement, free the house-elves, and the roles of remorse, forgiveness, and reform are values of our own Muggle world. In the name of realism, the objector merely fails to engage the imagination."
+  },
+  {
+   "n": 136,
+   "file": "ch136 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "forgiveness"
+   ],
+   "relation": "Closes the essay by asking why Fawkes never cured Dumbledore's ring-curse or blocked Snape's killing curse, and answers that the phoenix may have left Hogwarts only because his work was done: rupture, betrayal, and vice are healed by a death and rebirth in which one rises from the flames of remorseful confession a new person, with radically new desires, ready to rejoin relationships and community."
+  },
+  {
+   "n": 137,
+   "file": "ch137 - Unknown.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 138,
+   "file": "ch138 - Death and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 139,
+   "file": "ch139 - The Approaching Battle.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "plato",
+    "epicurus"
+   ],
+   "concepts": [
+    "being-toward-death",
+    "authenticity",
+    "epicurean-death"
+   ],
+   "relation": "Frames death as philosophy's ultimate question and contrasts the Epicurean advice to be unconcerned since death is simply the end of us with Heidegger's authenticity: boldly facing that death may come at any moment keeps us from living half-asleep, a view Plato anticipated by teaching that true philosophers make dying their profession. Harry, confronted with death from infancy, lives authentically, while Voldemort's flight from death marks him as the inauthentic case the essay traces through the Deathly Hallows death march."
+  },
+  {
+   "n": 140,
+   "file": "ch140 - King’s Cross Station.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger"
+   ],
+   "concepts": [
+    "being-toward-death",
+    "authenticity"
+   ],
+   "relation": "Reads Harry's walk into the Forbidden Forest, knowing he must die so the fragment of Voldemort's soul dies with him, his senses sharpening and gratitude welling for everything he never fully valued, as Heideggerian coming to terms with mortality rather than morbid brooding. Colin Creevey, the underage wizard who sneaks back to fight and falls, is offered as a second example of authentic living that recognizes limitations and seizes opportunities regardless of belief in an afterlife."
+  },
+  {
+   "n": 141,
+   "file": "ch141 - Reap a Destiny.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger"
+   ],
+   "concepts": [
+    "being-toward-death",
+    "authenticity",
+    "immortality"
+   ],
+   "relation": "Interprets the King's Cross scene through Heidegger's counsel to choose an exemplar from the past and dialogue with them: Dumbledore, freshly repentant for his youthful hunger for glory, plays exactly that role in a way-station likened to purgatory, while the flayed child-like creature under the chair is Voldemort's soul beyond help. The chapter closes by linking his fear-driven quest for deathlessness to Tolkien's One Ring, in which Sauron poured his own life-force, both fantasy dark lords undone by the desire for deathlessness."
+  },
+  {
+   "n": 142,
+   "file": "ch142 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "william-james",
+    "aristotle",
+    "heidegger",
+    "locke",
+    "kant",
+    "pascal"
+   ],
+   "concepts": [
+    "immortality",
+    "locke-personal-identity",
+    "aristotle-virtue-ethics",
+    "free-will-determinism"
+   ],
+   "relation": "Uses William James's marginal motto, sow a thought and reap a destiny, together with Aristotle's account of how repeated acts shape the soul, to argue that Voldemort's maimed afterlife-state is the cumulative result of freely chosen evil he can no longer muster remorse to undo. Setting Heidegger's atheism against Rowling's depicted afterlife, and adding Locke's character-and-memory identity, Kant's postulate that harmony of virtue and happiness requires an afterlife, and Pascal on why the soul's immortality must concern us, it concludes that if Rowling is right, every choice here is infinitely consequential."
+  },
+  {
+   "n": 143,
+   "file": "ch143 - Unknown.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 144,
+   "file": "ch144 - Fulfillment for Muggles and Wizards.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 145,
+   "file": "ch145 - Voldemort and the Sophists.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "plato"
+   ],
+   "concepts": [
+    "plato-justice"
+   ],
+   "relation": "Opens the comparison of Harry's willingness to die in Deathly Hallows with Socrates' death for his convictions, placing both inside ethics, the inquiry into how we ought to live and what kind of people we ought to be. It presents the challenge of why be moral at all and introduces Plato's Republic answer, endorsed by Socrates, that being moral is necessary and sufficient for true happiness, noting that Socrates, like Harry against Voldemort, had enemies of his own."
+  },
+  {
+   "n": 146,
+   "file": "ch146 - The Common Good versus the Greater Good.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates"
+   ],
+   "concepts": [
+    "plato-justice",
+    "plato-tripartite-soul",
+    "sophist-relativism"
+   ],
+   "relation": "Casts the Harry-Voldemort conflict as Socrates versus the Sophists: Thrasymachus's Republic claim that the unjust always come out ahead describes Voldemort's exploitation of his followers' trust exactly. The flayed child under the chair at King's Cross enacts Plato's afterlife justice, and the Republic's tripartite soul and cardinal virtues explain why Harry's reason-ruled courage, wisdom, and justice make the moral life the rational choice, as rational as choosing bodily health over chronic illness."
+  },
+  {
+   "n": 147,
+   "file": "ch147 - Two Keys to the Good Life.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "utilitarianism"
+   ],
+   "relation": "Contrasts the greater good, young Dumbledore and Grindelwald's For the Greater Good scheme to subjugate Muggles, under which the rights, dignity, and integrity of individuals are up for grabs whenever the majority benefits, with the common good, where sacrifice serves all, as in the civil rights movement's appeal to the good of the whole American community. Harry's choice to return from King's Cross and finish Voldemort defeats the greater-good revolution and realizes the common good of Muggles and wizards alike."
+  },
+  {
+   "n": 148,
+   "file": "ch148 - The End of the Story.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "aristotle",
+    "plato"
+   ],
+   "concepts": [
+    "unexamined-life",
+    "meaning-of-life"
+   ],
+   "relation": "Completes the parallel: Socrates died refusing to abandon the examined life, and his martyrdom, like Dumbledore's staged death that protected Snape's spying, served the common good, since there can be no common good without individual goodness. The chapter closes with two Muggle lessons, live devoted to something larger than yourself as Lily Potter, Dumbledore, Harry, King, Gandhi, Jesus, and Socrates did, and find mentors, as Harry found Dumbledore and as readers can find in Aristotle's Nicomachean Ethics or Confucius."
+  },
+  {
+   "n": 149,
+   "file": "ch149 - NOTES.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 150,
+   "file": "ch150 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 151,
+   "file": "ch151 - CONTRIBUTORS.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 152,
+   "file": "ch152 - THE MARAUDER’S INDEX.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 153,
+   "file": "ch153 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 154,
+   "file": "ch154 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 155,
+   "file": "ch155 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 156,
+   "file": "ch156 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 157,
+   "file": "ch157 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 158,
+   "file": "ch158 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 159,
+   "file": "ch159 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 160,
+   "file": "ch160 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 161,
+   "file": "ch161 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 162,
+   "file": "ch162 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 163,
+   "file": "ch163 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 164,
+   "file": "ch164 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 165,
+   "file": "ch165 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 166,
+   "file": "ch166 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 167,
+   "file": "ch167 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 168,
+   "file": "ch168 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 169,
+   "file": "ch169 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 170,
+   "file": "ch170 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 171,
+   "file": "ch171 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 172,
+   "file": "ch172 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 173,
+   "file": "ch173 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 174,
+   "file": "ch174 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 175,
+   "file": "ch175 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 176,
+   "file": "ch176 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 177,
+   "file": "ch177 - Unknown.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 178,
+   "file": "ch178 - Unknown.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 108,
+   "type": "philosopher",
+   "suggested_slug": "cs-lewis",
+   "name": "C.S. Lewis",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Christian apologist and Oxford Inkling whose argument from reason holds that if naturalism were true, rational thought could not reliably validate itself, so reason points to a cosmic Logos beyond materialism.",
+   "why": "Chapter 108 interprets Dumbledore's in-the-head-yet-real remark as Rowling's Inklings inheritance, building directly on Lewis's Barfield-inspired argument from reason and his claim that the whole universe is in the last resort mental."
+  },
+  {
+   "ch": 108,
+   "type": "concept",
+   "suggested_slug": "argument-from-reason",
+   "name": "The Argument from Reason",
+   "philosopher": "cs-lewis",
+   "domain": "religion-meaning",
+   "what": "The claim that if naturalism were true, our reasoning would be nothing but non-rational causes, undermining reason's validity; hence rationality must participate in a rational order beyond nature.",
+   "why": "Chapter 108 uses this argument to explain how Harry's King's Cross experience can be both wholly inside his head and genuinely real, as an instance of reason participating in the divine Logos."
+  },
+  {
+   "ch": 134,
+   "type": "philosopher",
+   "suggested_slug": "melanie-klein",
+   "name": "Melanie Klein",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Austrian-British psychoanalyst in the Freudian tradition who held that personal maturity requires keeping a solid commitment to being the self-same person who committed past wrongs.",
+   "why": "Chapter 134's integrity objection against the phoenix model of moral regeneration is explicitly advanced on Klein's authority: rebirth talk cannot erase the fact that it was you who did the wrong."
+  }
+ ]
+}

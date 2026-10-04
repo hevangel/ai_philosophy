@@ -1,0 +1,94 @@
+{
+ "unit": "u063",
+ "book": "039 - Jimmy Buffett and Philosophy - The Porpoise Driven Life",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\039 - Jimmy Buffett and Philosophy - The Porpoise Driven Life",
+ "range": [
+  2,
+  15
+ ],
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Jimmy Buffett and Philosophy.md",
+   "words": 596
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Popular Culture and Philosophy Series Editor George A. Reisch.md",
+   "words": 647
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "words": 0
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Jimmy Buffett, Cultural Infidel.md",
+   "words": 3985
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Coral Reefer Reason.md",
+   "words": 3
+  },
+  {
+   "n": 7,
+   "file": "ch07 - That\u2019s His Story and He\u2019s Stickin\u2019 to It.md",
+   "words": 5633
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Too Much Tequila, Or Not Quite Enough.md",
+   "words": 5194
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Jimmy Buffett \u201cSinger of Inordinate Tunes\u201d and Heideggerian Troubadour.md",
+   "words": 5424
+  },
+  {
+   "n": 10,
+   "file": "ch10 - \u201cTrip Around the Sun\u201d.md",
+   "words": 4936
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Parrotology.md",
+   "words": 1
+  },
+  {
+   "n": 12,
+   "file": "ch12 - \u201cLivin\u2019 It Up\u201d.md",
+   "words": 7585
+  },
+  {
+   "n": 13,
+   "file": "ch13 - \u201cWhen the Coast is Clear\u201d.md",
+   "words": 4081
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Piratology.md",
+   "words": 1
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Missionary.md",
+   "words": 7144
+  }
+ ],
+ "content": [
+  2,
+  3,
+  5,
+  7,
+  8,
+  9,
+  10,
+  12,
+  13,
+  15
+ ]
+}

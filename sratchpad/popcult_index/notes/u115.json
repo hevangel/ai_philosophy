@@ -1,0 +1,220 @@
+{
+ "book": "068 - The Walking Dead and Philosophy - Zombie Apocalypse Now",
+ "unit": "u115",
+ "chapters": [
+  {
+   "n": 25,
+   "file": "ch25 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre"
+   ],
+   "concepts": [
+    "existence-precedes-essence",
+    "sartre-freedom",
+    "authenticity",
+    "existentialism"
+   ],
+   "relation": "Kempner reads The Walking Dead through Sartre's 'Existentialism Is a Humanism': with God and the old value-system gone, survivors who cling to pre-made essence die — Hershel keeps his zombified son locked in the barn awaiting restoration, and Shane tries to steal Rick's old cop-and-husband identity rather than live his own existence. Rick's waking in the hospital is a rebirth: he first exists in the new world, then creates a way of being human, and his relapses into the sheriff uniform nearly get him killed. Carl shooting Shane to save his father completes the family's existential freedom (children are no longer 'innocent'), walkers — without will or choice — are the ultimate inauthentic beings, and the volume's tagline, 'forced to finally start living,' makes the zombie world a sternly optimistic humanist story."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "kierkegaard",
+    "camus",
+    "adorno"
+   ],
+   "concepts": [
+    "bad-faith",
+    "authenticity",
+    "the-absurd",
+    "the-look"
+   ],
+   "relation": "Round argues the real horror of The Walking Dead is humanity itself, read through existentialism: walkers cannot choose, so the humans who attack, torture, and steal from each other are the true 'zombie Other.' She traces Rick's self-made, revisable moral code — from law-enforcer to 'You kill? You die' to killing Dexter — as authentic situation-based morality, paralleled with Kierkegaard's Abraham and with Abraham Ford's confession 'I did what I wanted to do' set against Eugene's bad-faith 'I did what I had to do.' Suicides like Jim, Jacqui, and Carol embody existential angst before an absurd world, the Governor's Woodbury is an Adorno-style inauthentic hierarchy that manipulates its people, and Rick's 'WE ARE THE WALKING DEAD!' speech uses facticity to insist the group admit what they have already become."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rousseau",
+    "aristotle",
+    "aquinas"
+   ],
+   "concepts": [
+    "rousseau-natural-goodness",
+    "faith-vs-reason",
+    "aristotle-virtue-ethics",
+    "free-will-determinism"
+   ],
+   "relation": "Greeley argues the zombie crystallizes specifically modern fears: with Aristotle and Aquinas he reads walkers as humans stripped of their essential nature and potential, which Rick's uncustomary eulogies ('I'm sorry this happened to you') acknowledge. Following Philippe Aries, he ties modern death anxiety to urbanization, hidden cemeteries, and the loss of religious consolation, citing the CDC arc where Jenner's science offers only a self-destruct and Jacqui falls back on 'the wrath of God.' Rousseau's thesis that society corrupts explains why the survivors in the woods seem more alive — warlord Guillermo turns out to be protecting nursing-home patients and pizza-deliverer Glenn becomes a hero — while the 'Bradbury's Storewide Sale' sign, the Walmart trampling, and Fromm's shift from utopias to dystopias suggest the shuffling horde is an image of our own consumerist, distracted, dehumanized modernity."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Walking Dead and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer",
+    "kant",
+    "leopold",
+    "naess"
+   ],
+   "concepts": [
+    "anthropocentrism",
+    "animal-liberation",
+    "land-ethic",
+    "deep-ecology"
+   ],
+   "relation": "Hinzmann and Arp ask whether zombies can be morally harmed: Jenner's fMRI in 'TS-19' shows only the brain stem reactivates, leaving walkers with a merely shark-like 'perceptual mind.' Against anthropocentric theories, under which Michonne may keep her chained pet walkers as guard-dog tools, they set Singer's utilitarian expanding circle, Leopold's land ethic, and Naess's deep ecology, each of which could support a 'PETZ' zombie preserve. Hershel's barn of 'sick people' and Shane's massacre of it in 'Pretty Much Dead Already' show how fragile such preservation is, while the Governor's death-match arena ringed with chained zombies and his kept zombie daughter illustrate Kant's point that cruelty toward mere animals corrodes the humanity of the cruel person himself."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "bentham",
+    "regan"
+   ],
+   "concepts": [
+    "hedonic-calculus",
+    "golden-rule",
+    "personhood"
+   ],
+   "relation": "Allaire argues walkers have no moral value and can be killed without remorse: a Bentham-style act-utilitarian tally favors killing any walker, and, following Kant, genetic humanity is neither necessary nor sufficient for membership in the moral community. Applying Mary Anne Warren's five personhood criteria, he shows walkers lack pain response (Hannah's severed half still dragging itself at Rick), language, planning (Glenn's gun-bag mission versus aimless shuffling), and self-reflection, so as beings incapable of duty they can have no rights. Morgan's inability to shoot his walker-wife and Rick's 'I'm sorry this happened to you' illustrate Kant's 'duality of the human situation' — we irrationally project personhood onto former people — and our hesitation is precisely the walkers' greatest advantage."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "confucius",
+    "laozi"
+   ],
+   "concepts": [
+    "aquinas-natural-law",
+    "aristotle-practical-wisdom",
+    "virtue-ethics"
+   ],
+   "relation": "Barkman takes Andrea's mermaid-necklace question ('I don't think those rules apply any more') as a test of natural law: self-evident principles — general beneficence (Glenn's 'shit creek' rescue, Morgan's warning that it 'takes away a piece of your soul'), special beneficence toward family (Lori's 'Don't be so trusting,' Morales's 'best for my family'), and piety (Guillermo staying with the abandoned elders) — still bind after the state's collapse, while 'do not steal' is merely derived, so the unowned necklace is fair game and Rick could take some but not most of Andrea's food. Aristotle's practical wisdom resolves the cannibal hunters' collision between preserving their lives and not killing innocents — starving is the morally preferable choice — since virtue weighs principles 'all things considered.' Against Carol's 'we can make new rules' relativism the natural law outlives governments, and Father Gabriel errs by calling walkers 'abominations,' conflating bad (dysfunctional) with evil (willful) — whereas the Governor, who knowingly ignores the moral law, reduces himself to walker level."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [
+    "master-slave-morality",
+    "plato-forms",
+    "will-to-power",
+    "amor-fati"
+   ],
+   "relation": "Rard tests whether objective morality survives the apocalypse by running four theories against Season Two: Plato's Forms explain universal truths about walkers ('walkers survive so long as their brains are relatively undamaged') but cannot handle white lies or changed circumstances, and Aristotle's virtue ethics reads Rick's rush from the shot Carl as rashness and Shane's supply run as courage, yet virtues prove relative and luck-dependent in a collapsed world. Natural law founders on clashing intuitions — Merle's racism and Hershel's barn of walkers each claim self-evidence. The chapter's center is Nietzschean: Hershel's barn is slave morality that pities the 'sick,' Maggie breaks from it, and Shane's sacrifice of Otis and opening of the barn enact a will-to-power master morality without joy, while Rick alone moves toward amor fati — embracing the world as it is, refusing guilt over Lori's affair, and insisting the baby be born into the Walk Age."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "camus"
+   ],
+   "concepts": [
+    "state-of-nature",
+    "drowning-child",
+    "the-absurd",
+    "meaning-of-life",
+    "anti-natalism"
+   ],
+   "relation": "Moosa uses the apocalypse as a moral laboratory: since 'murder' is by definition wrongful killing, Carl's shooting of Shane must be judged by his reasoning (saving his father), and Hobbes's state of nature — 'solitary, poor, nasty, brutish, and short' — fits Kirkman's world, yet the survivors import morality into it, as when parents mercy-kill their children just as one would turn up a dying child's morphine. Taking up Camus's claim that suicide is the one truly serious philosophical problem, he argues our world is nearly as bad as the zombie landscape, so consistency commits comfortable readers to the same duty of aid (helping sufferers rather than opting out) that justifies the survivors' fighting on. Finally he argues procreation is the worst thing survivors can do — nonexistent children cannot suffer, so Lori's pregnancy and Glenn and Maggie's crib plans are immoral, and adopting existing children as Andrea and Dale did is the consistent course, an obligation that transfers to our world right now."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "categorical-imperative",
+    "punishment-theory"
+   ],
+   "relation": "Yuen distinguishes heroic survival cannibalism, as in the Andes crash of Alive, from the 'Fear the Hunters' cannibals: both utilitarianism and Kantianism permit eating those who already died out of necessity, since the dead lose no utility and corpses lack the rationality that grounds Kantian dignity. But Chris's band killed children to eat them and kept the living Dale as a food store, which fails both theories and cannot be excused by 'we don't do this because we want to,' since alternatives existed — joining other survivors, eating walkers ('zombitarianism'), or starving, because survival is never a moral obligation. Rick's execution of the hunters is then defended as Kantian retributive punishment: if Chris universalized his maxim that people may be hunted for food, then, as Rick suggests while biting Chris's neck, 'if Dale was good as a steak, so is Chris.'"
+  },
+  {
+   "n": 35,
+   "file": "ch35 - The Walking Dead and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - The Walking Dead and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "facticity",
+   "name": "Facticity",
+   "philosopher": "sartre",
+   "domain": "existentialism-phenomenology",
+   "what": "The given facts of one's situation and past (body, history, deeds), which freedom must own without being determined by them.",
+   "why": "Chapter 26 explicitly introduces facticity to read Rick's 'we became what we are' speech: denying one's past deeds or letting them dictate present behavior are both inauthentic."
+  },
+  {
+   "ch": 30,
+   "type": "philosopher",
+   "suggested_slug": "mary-anne-warren",
+   "name": "Mary Anne Warren",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Philosopher whose five criteria of personhood (consciousness, reasoning, self-motivated activity, communication, self-awareness) separate moral personhood from genetic humanity, and who holds that only beings capable of duties can hold rights.",
+   "why": "Chapter 30 builds its entire case that walkers lack moral rights on Warren's personhood criteria and her space-traveler thought experiment, but the taxonomy has no entry for her (only the ecofeminist Karen J. Warren)."
+  },
+  {
+   "ch": 30,
+   "type": "concept",
+   "suggested_slug": "personhood",
+   "name": "Personhood (vs genetic humanity)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The criteria-based status of being a person owed moral consideration, distinct from merely being biologically human.",
+   "why": "Chapter 30 argues walkers fail every personhood criterion and so have no rights, and Hershel in the series claims walkers remain 'entitled to personhood' as sick people — a central concept the taxonomy lacks."
+  },
+  {
+   "ch": 33,
+   "type": "concept",
+   "suggested_slug": "anti-natalism",
+   "name": "Anti-Natalism",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The view that procreation is morally wrong because nonexistent children cannot suffer, while any child brought into existence certainly will face harm and death.",
+   "why": "Chapter 33 argues Lori's pregnancy and Glenn and Maggie's wish for a baby are the worst thing survivors could do, recommending adoption of existing children instead — an anti-natalist argument the chapter applies but never names."
+  }
+ ]
+}

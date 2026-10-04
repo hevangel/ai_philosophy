@@ -1,0 +1,73 @@
+{
+ "unit": "u321",
+ "book": "222 - The Philosophy of Horror",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\222 - The Philosophy of Horror",
+ "range": [
+  1,
+  10
+ ],
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Half Title.md",
+   "words": 288
+  },
+  {
+   "n": 2,
+   "file": "ch02 - ii.md",
+   "words": 247
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Title Page.md",
+   "words": 8
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Copyright Page.md",
+   "words": 230
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Table of Contents.md",
+   "words": 525
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Acknowledgements.md",
+   "words": 350
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Gynaehorror as convention and challenge.md",
+   "words": 16058
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Heteronormative horrors.md",
+   "words": 28258
+  },
+  {
+   "n": 9,
+   "file": "ch09 - \u2018Pro-life\u2019 and Pro-Life.md",
+   "words": 26153
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Brave new worlds cyborg futures and female subjectivity.md",
+   "words": 21546
+  }
+ ],
+ "content": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ]
+}

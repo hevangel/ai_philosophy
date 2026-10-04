@@ -1,0 +1,124 @@
+{
+ "unit": "u446",
+ "book": "206 - The Witcher and Philosophy - Toss a Coin to Your Philosopher",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\206 - The Witcher and Philosophy - Toss a Coin to Your Philosopher",
+ "range": [
+  1,
+  19
+ ],
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Front matter.md",
+   "words": 4251
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Introduction.md",
+   "words": 492
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Part I Ethics.md",
+   "words": 22
+  },
+  {
+   "n": 4,
+   "file": "ch04 - A Friend of Humanity.md",
+   "words": 4574
+  },
+  {
+   "n": 5,
+   "file": "ch05 - The Witcher's Code.md",
+   "words": 3796
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Lesser of Two Evils.md",
+   "words": 3407
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Friendship in the Wild.md",
+   "words": 2663
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Part II Free Will.md",
+   "words": 26
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Destiny, Fate, and the Law.md",
+   "words": 3732
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Compatibilism and the Law.md",
+   "words": 3311
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Silver or Steel.md",
+   "words": 3719
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Nothing Is Ever Black or White.md",
+   "words": 3689
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Part III Feminism.md",
+   "words": 22
+  },
+  {
+   "n": 14,
+   "file": "ch14 - This Is the Version of Myself I Have to Be.md",
+   "words": 4777
+  },
+  {
+   "n": 15,
+   "file": "ch15 - They Took My Choice, So I Took Yours.md",
+   "words": 3320
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Ciri's Agency and Autonomy.md",
+   "words": 3991
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Part IV Race and Culture.md",
+   "words": 26
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Race and Racism in the World of the Witcher.md",
+   "words": 2658
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Disadvantage, Demeaning, and Discrimination.md",
+   "words": 3600
+  }
+ ],
+ "content": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  9,
+  10,
+  11,
+  12,
+  14,
+  15,
+  16,
+  18,
+  19
+ ]
+}

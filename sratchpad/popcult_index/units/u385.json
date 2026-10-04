@@ -1,0 +1,74 @@
+{
+ "unit": "u385",
+ "book": "268 - Food & Philosophy - Eat, Think, and Be Merry",
+ "part": "1/1",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\268 - Food & Philosophy - Eat, Think, and Be Merry",
+ "range": null,
+ "chapters": [
+  {
+   "n": 6,
+   "file": "ch06 - Preface.md",
+   "words": 689
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Chapter 1.md",
+   "words": 8090
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Chapter 2.md",
+   "words": 7203
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Chapter 3.md",
+   "words": 8029
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Chapter 4.md",
+   "words": 7495
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Notes.md",
+   "words": 1401
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Selected Bibliography.md",
+   "words": 799
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Index.md",
+   "words": 334
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Studies in Medical Philosophy.md",
+   "words": 14
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Bibliografische Information der Deutschen Nationalbibliothek Die Deutsche Nationalbibliothek verzeichnet diese.md",
+   "words": 174
+  },
+  {
+   "n": 16,
+   "file": "ch16 - ibidem-Verlag.md",
+   "words": 23
+  }
+ ],
+ "content": [
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ]
+}

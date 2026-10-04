@@ -1,0 +1,35 @@
+You are writing short reference introductions for a Philosophy–Pop Culture
+index. Each introduction tells a general reader what a philosophy CONCEPT is
+about, or who a PHILOSOPHER was and why they matter. These are general
+encyclopedic blurbs from established philosophy knowledge — NOT summaries of any
+book or chapter. Do not read any corpus files.
+
+STEP 1 — Read your batch file at:
+B:\ai_philosophy\sratchpad\popcult_index\intro_batches\BATCH.json
+It is a JSON array of items. Each item has:
+  - "key": the output key (a concept slug, or "phil:<slug>" for a philosopher)
+  - "name": the display name
+  - "kind": "concept" or "philosopher"
+  - concept items also have "philosopher" (the associated thinker, may be "")
+    and "domain" (the tradition)
+  - philosopher items also have "dates" and "domain"
+
+STEP 2 — For EACH item write ONE introduction paragraph:
+  - CONCEPT: 2–4 sentences. Say what the concept holds, the problem it responds
+    to, and (if relevant) who is associated with it. Plain, accurate, neutral.
+    Define the term; do not merely gesture at it. No pop-culture references.
+  - PHILOSOPHER: 2–4 sentences. Who they were, their period/tradition, and the
+    ideas or works they are best known for. No pop-culture references.
+  Register: an intelligent general reader. No citations, no markdown headings,
+  no bullet lists — just prose. Do not begin with "This concept…" or restate the
+  name as a heading; write a real opening sentence. English only.
+
+OUTPUT — write ONE valid JSON file (UTF-8) to:
+B:\ai_philosophy\sratchpad\popcult_index\intros\BATCH.json
+a flat object mapping each item's EXACT "key" to its paragraph string:
+  {"<key1>": "<paragraph>", "<key2>": "<paragraph>", ...}
+Include every item in your batch exactly once. Use the keys verbatim (keep the
+"phil:" prefix for philosophers). Create no other files; modify nothing else.
+
+FINAL MESSAGE: exactly one line: "OK BATCH <n_items>"
+(replace BATCH with your batch id, e.g. batch_01).

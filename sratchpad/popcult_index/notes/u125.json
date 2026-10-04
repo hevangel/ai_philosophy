@@ -1,0 +1,337 @@
+{
+ "book": "075 - Psych and Philosophy - Some Dark Juju-Magumbo",
+ "unit": "u125",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Psych and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Psych and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Psych and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Psych and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Psych and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "machiavelli"
+   ],
+   "concepts": [
+    "machiavelli-ends",
+    "consequentialism"
+   ],
+   "relation": "Robert Arp's introduction argues Psych is perfect for philosophy because Henry's games train observation and inference exactly as philosophers hone them, while Shawn's ruse shows how clever people abuse those powers to deceive - quoting Machiavelli's line that one who deceives will always find those who allow themselves to be deceived. It sets up the book's recurring ethical question about lying: lies for the liar's profit (Shawn avoiding jail in the pilot), paternalistic lies for the hearer's own good (Henry telling seven-year-old Shawn he 'blacked out' about his mother's death), and lies to benefit many (promising a terrorist freedom to find his bomb). Since Shawn's lies solve cases and save lives, the introduction suggests they may not be so bad in the end, though it admits wishing he would just come clean as a talented honest detective."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Psych and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Psych and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "plato"
+   ],
+   "concepts": [
+    "socratic-method",
+    "consequentialism",
+    "informal-fallacies"
+   ],
+   "relation": "Michaud argues that Shawn's whole psychic career runs on fallacies of relevance - the red herring of claiming to be psychic to dodge arrest, plus ad hominem mockery that deflects Lassiter's fraud accusations - so the show's comedy turns on bad logic being used to lead people to true conclusions. Socrates supplies the opposing voice: like the Sophists who argued any side for money, Shawn reasons for convenience and amusement, and his deception is an inconsistency of the kind Socrates refused in Plato's Crito, where he would not bribe his way out of a death sentence. An invented Platonic-style dialogue has Socrates question Shawn until he concedes that lying breeds more lying and harm - 'her name is Truth!' - before Shawn escapes the elenchus by spotting lipstick on Socrates's collar. The chapter leaves the verdict open: Shawn saves lives and raises the world's happiness, but his trickery also trains Santa Barbara to reason badly and trust con artists."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Psych and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Muniz plays narratologist, arguing that what matters in Psych is not the story but the storyteller: the 1980s prologues, alias gags, pineapples, and Lassie feuds are recurring formula elements, while Shawn's eidetic-memory sequence - the raised eyebrow, the chime, the highlighted detail - is the one necessary element around which every episode's rising action, climax, and denouement are arranged. Asking whether Gus chatting at the aquarium dolphins or the characters' comic pauses break the fourth wall, he answers no: the eidetic sequences only produce a 'projective illusion of cinematic image' that makes viewers feel they see through Shawn's eyes, so the wall is never actually broken - the show simply 'psychs you out in the end.' The chapter even structures itself like a Psych episode, prologue to climax, to prove the point that structure is function."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Psych and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "ockham-razor",
+    "web-of-belief",
+    "abduction"
+   ],
+   "relation": "Jones argues that Shawn's 'psychic' act is really hypersensory perception (HSP) - noticing cat fur, fine print, blood spatter - feeding inference to the best explanation (IBE), the natural abductive method Sherlock Holmes mislabels deduction, with Clever Hans and Ilga Kirks as real-world parallels. Applying IBE with Ockham's Razor to the two hypotheses 'he's psychic' versus 'he's hyper-observant,' she concludes the natural explanation should win for everyone: Lassiter's skepticism tracks the evidence, Gus knows better despite believing in ghosts, and Chief Vick shouldn't buy the supernatural story either. Juliet's belief survives only through background supernatural beliefs, a psychic-friendly culture, and ignoring the clues Gus feeds Shawn, which the chapter diagnoses as the same public misunderstanding of the scope and limits of science that keeps most Americans believing in ESP."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Psych and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Psych and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Yim argues that what onlookers mistake for psychic power is thin-slicing, Gladwell's rapid pattern-recognition, the same skill behind John Gottman's ninety-percent-accurate marriage predictions and Paul Ekman's involuntary micro-expressions, which is how Shawn acquits the telenovela actor in 'Lights, Camera,... Homicidio' by reading genuine surprise on the tape. Criminals deceive by staging a context - a gun by the suicide's hand - that biases investigators the way thinking 'forest' biases us toward 'black bear,' while Shawn's two-stage slice, gut instinct plus conscious interpretation, isolates the telltale detail (a marinated steak in the fridge) that the staging was designed to bury. Henry's flashbacks - the cereal box opened from the bottom, young Shawn reading poker tells in the locker room - are boot camp that trains him to think outside conventional frames, producing the 'tint on the windows to the soul' certitude he invokes in 'Cloudy... with a Chance of Murder.'"
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Psych and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gettier"
+   ],
+   "concepts": [
+    "reliabilism",
+    "gettier-problem"
+   ],
+   "relation": "The Senors use Psych to separate true belief from knowledge: Shawn's hunch that Shabby the sea lion was murdered is true but shabbily evidenced, and his justified, true belief that a Clayton family member sabotaged the plane fails to be knowledge when the killer turns out to be a son-in-law he had no reason to think existed - a textbook Gettier case from 'He Dead.' They then weigh the two main theories of justification, evidentialism (with its base rates and prior probabilities) and reliabilism, and both vindicate the careful, methodical work of Lassiter and Juliet while Shawn's trigger-happy belief-forming habit strikes out twice. Shawn is redeemed only as an evidence-generator whose disregard for priors takes 'impossible' suspects like a murdered sea lion seriously, so that pairing his talents with the detectives' rigor yields the complete detective."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Psych and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "ockham"
+   ],
+   "concepts": [
+    "ockham-razor",
+    "applied-ethics"
+   ],
+   "relation": "Guidry-Grimes treats Chief Vick's hiring of Shawn as a genuine problem in applied ethics rather than a joke: the Psi hypothesis fails Ockham's Razor and no controlled study supports paranormal ability, yet Vick - unlike viewers who know Shawn is a fraud - must weigh her obligations to victims, the department, and taxpayers on the evidence she has. The chapter argues that hiring Shawn is ethically defensible given his record of solving over fifty unsolvable cases, but it catalogues the costs: false hope for distraught families (Marc Klaas's resentment of psychic tipsters), damage to Lassiter's morale, wasted resources, and the fragile public trust bound up with taxpayer money. The conclusion is a compromise: Vick is ethically required to use every tool in the arsenal, including a successful 'psychic,' only in desperate high-stakes cases where the victim's family does not object, and otherwise merely permitted."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Psych and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Psych and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "ubermensch",
+    "last-man",
+    "ressentiment"
+   ],
+   "relation": "Malloy maps Nietzsche's three metamorphoses onto Shawn's life: the camel who carried Henry's burdensome training and the expectation he become a cop, the lion who slew the dragon 'Thou shalt' by stealing a car at eighteen and ending Henry's dream, and the child who creates his own values of fun, laughter, and silliness - defended as genuinely Nietzschean since the Overman must overcome the 'spirit of gravity.' Gus and Lassiter figure as last men, the herd animals Shawn manipulates and pities (Lassie's literal crap list a study in ressentiment), while only Pierre Despereaux and Mr. Yin count as true rivals because only fellow Overmen, forging values beyond good and evil, can genuinely challenge Shawn. The chapter closes on the Overman's dilemma - loneliness, backsliding into the herd, or trying to make Overmen of others - which explains why Shawn treats his friends and enemies the way he does."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Psych and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "hegel"
+   ],
+   "concepts": [
+    "master-slave-morality",
+    "ressentiment",
+    "will-to-power"
+   ],
+   "relation": "Ruiz casts Lassiter as Nietzsche's slave - his worth defined reactively against Shawn, his advice that 'all romance ends in despair or death' reproducing the Judeo-Christian slave revolt in morality that turned weakness into virtue - and Shawn as the master, a self-propelled wheel who bakes a pineapple cake in an Easy Bake oven for nineteen hours whether or not anyone is watching. Shawn's generosity (helping the wrongly accused, the ghost-struck, and the deluded, once even crediting a cat with solving murders in '9 Lives') is read as the noble overflow of superabundant power rather than pity, and his hostage-saving risk-taking as will to power understood as self-mastery. Even the central lie gets a dialectical reading - like art, pretending to be psychic reveals the truth hidden behind appearances - though the chapter concedes Shawn's slavish moments, from daddy issues to his obsession with one-upping Declan in 'Shawn 2.0.'"
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Psych and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Psych and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "reid"
+   ],
+   "concepts": [
+    "reid-common-sense",
+    "skepticism",
+    "epistemology-of-testimony"
+   ],
+   "relation": "McCraw turns the question 'should we trust Shawn?' into the philosophy of testimony: Lassiter's policy of never believing without independent evidence embodies Hume's demand that testimony be backed by evidence of the speaker's reliability, while Buzz McNab's instant faith embodies Reid's innate principles of veracity and credulity, and both extremes fail the department - Lassiter solves too late, McNab chases every early false lead. Juliet's developing, flexible trust - suspicious at first, convinced by results, never naive - models the circumstantial middle path that no hard-and-fast Humean or Reidian rule can capture. The verdict: treat Shawn's testimony as both psychic and psychotic, trusting the track record in some cases and discounting the wilder 'visions' in others, because when to trust is unavoidably vague and case-by-case."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Psych and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "popper"
+   ],
+   "concepts": [
+    "falsification",
+    "moral-psychology"
+   ],
+   "relation": "Mahon and Ceballos read the pilot through the big-lie principle credited to Hitler and Goebbels: the truth - hyper-observation plus a photographic memory - is too mundane to be believed, so only the biggest possible lie, 'I am a psychic,' saves Shawn from jail, exploiting the reverse psychology by which hearers assume no liar would say something so implausible. The lie's durability is then explained with Karl Popper's falsifiability criterion: like horoscopes and psychoanalysis, Shawn's psychic claim is unfalsifiable, so the ex-con's finger-counting 'tests' in 'Woman Seeking Dead Husband' can confirm it but never refute it - a virtue for a liar, and precisely what makes a claim unscientific. Finally the chapter shifts blame to the victims: like Madoff investors who 'kind of saw it coming,' the SBPD is self-deceived, complicit in a lie it half knows is a lie because the gift horse keeps closing cases."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Psych and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "King argues that memory is only generally reliable and hence a limited evidential tool, sorting procedural, episodic, semantic, and flashbulb memory before cataloguing Psych's failure modes: Shawn's source confusion that has him chasing Frenzy when the Yin killer follows Psycho, Abigail's accurate pier memory feeding the false conclusion that Shawn stood her up, and Lassiter's implanted recollections after Shawn feeds him 'remembered' clues in 'From the Earth to the Starbucks.' The fake FBI psychic Lindsey's suggestive questioning of the Home Depot cashier shows how easily vivid 'recovered' memories are manufactured - even though the show conveniently makes them true every time. The upshot: only Henry-trained, near-eidetic recall approaches Shawn's feats, ordinary memory needs physical corroboration before it sends anyone to jail, and everyone else should train recall like a muscle."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Psych and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Psych and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "deontology"
+   ],
+   "relation": "Rocha argues Kant is not the absolutist of legend: in 'On a Supposed Right to Lie from Philanthropy' Kant denies only a right to lie - Gus could be held responsible if his lie to Shawn's pursuing murderer goes wrong - and in The Metaphysics of Morals Kant openly leaves questions like polite untruths unanswered, to be judged by agents in their concrete circumstances. The deeper ground is Kant's duty to oneself: lying shows disrespect for the honest communication through which social beings sharpen their rationality, and so 'throws away and annihilates' the liar's dignity, which is why Uncle Jack's gold-hunting lies in 'The Greatest Adventure in the History of Basic Cable' are beyond rescue. On Rocha's reading even Kant could endorse the one lie to rule them all - claiming to be psychic - because it respects rationality and human life in a society that irrationally esteems the supernatural, while Shawn's Gus-alias gags and bunny fabrications remain immoral."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Psych and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "kant",
+    "popper"
+   ],
+   "concepts": [
+    "noble-lie",
+    "utilitarianism",
+    "open-society",
+    "categorical-imperative"
+   ],
+   "relation": "Stephenson tests Shawn's ruse against the major theories of justified deceit and finds it wanting: Plato's Myth of the Metals excuses paternalistic noble lies for social harmony that Shawn's self-aggrandizing motives cannot claim, utilitarianism collapses on the long-term costs of exposure (Gus, Juliet, Henry, and the SBPD condemned by association; clients betrayed; trust in law enforcement eroded), Kant's universalizability test sinks maxims like 'lie whenever a career opportunity is at stake,' and Popper's open society condemns just the deceit on which the psychic brand runs. Even the mutual-deceit analogy to poker and Sissela Bok's reasonable-person publicity test fail, since no public forum of reasonable people would bless duping paying private clients. The escape is extra-moral: Shawn's mischievous hokum is the socially necessary boundary-pusher, whose lesson against unreflective occult belief lands best when delivered with a laugh."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 9,
+   "type": "concept",
+   "suggested_slug": "informal-fallacies",
+   "name": "Informal Fallacies (red herring, ad hominem)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Bad-reasoning patterns in which the premises seem relevant to the conclusion but are not, such as red herrings, ad hominem attacks, and inconsistencies.",
+   "why": "Chapter 9's whole case is that Shawn's psychic career is built on fallacies of relevance - red herring, ad hominem, and inconsistency - and taxonomy.json has no slug for fallacy theory."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "narratology",
+   "name": "Narratology (the philosophy of story structure)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The study of how stories are structured and how narrative form produces its effect on an audience, as opposed to what a story says.",
+   "why": "Chapter 10 analyzes Psych purely through narratology - episode formula elements, the eidetic-memory sequence as structural pivot, and the projective illusion of the fourth wall."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "inference-to-best-explanation",
+   "name": "Inference to the Best Explanation (abduction)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Reasoning that selects, from competing hypotheses, the one that best explains the available evidence.",
+   "why": "Chapter 11 names IBE, alongside hypersensory perception, as the actual engine of Shawn's crime-solving and uses it to decide what each character should believe."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "thin-slicing",
+   "name": "Thin-Slicing (rapid cognition)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The ability to extract accurate patterns and judgments from very brief 'thin slices' of experience, as in gut instinct and snap judgment.",
+   "why": "Chapter 13 explains Shawn's fake psychic successes as expert two-stage thin-slicing trained by Henry, drawing on Gladwell, Gottman, and Ekman."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "evidentialism",
+   "name": "Evidentialism",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The theory that a belief is justified only by the evidence the believer possesses, contrasted with reliabilism's truth-conduciveness standard.",
+   "why": "Chapter 14 gives evidentialism a full section and uses base rates and prior probabilities to show Shawn's hunches fail it, pairing it with the already-listed reliabilism."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "epistemology-of-testimony",
+   "name": "Epistemology of Testimony",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The study of when we are justified in believing what others tell us, from Hume's demand for independent evidence to Reid's default trust.",
+   "why": "Chapter 20 frames the entire question of trusting Shawn's psychic claims as the philosophy of testimony, mapping Lassiter, McNab, and Juliet onto its competing theories."
+  },
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "the-big-lie",
+   "name": "The Big Lie",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The principle, associated with Hitler and Goebbels, that a lie so colossal will be believed because no one would imagine anyone could distort the truth so infamously.",
+   "why": "Chapter 21's title thesis is that only the biggest possible lie - 'I am a psychic' - could save Shawn in the pilot, applying the big-lie principle and its reverse psychology directly to the show."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "memory-reliability",
+   "name": "Reliability of Memory (false memories)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The epistemological question of when memory counts as evidence, covering source confusion, suggestive questioning, and implanted or false memories.",
+   "why": "Chapter 22 argues ordinary memory is only generally reliable - cataloguing source confusion, false memories, and suggestive questioning in Psych - so memory-based testimony needs physical corroboration."
+  }
+ ]
+}

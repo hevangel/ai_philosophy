@@ -1,0 +1,251 @@
+{
+ "book": "215 - The Philosophy of the Beats",
+ "unit": "u309",
+ "chapters": [
+  {
+   "n": 5,
+   "file": "ch05 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard"
+   ],
+   "concepts": [
+    "existentialism",
+    "cosmopolitanism-ethics"
+   ],
+   "relation": "Elkholy's editorial introduction defines 'Beat' (the New York/West Coast writers) versus 'beat' (a lifestyle of weariness and disaffiliation), tracing the term through Kerouac, Ginsberg's 'Howl,' and Snyder. She frames the Beats' turning-inward and self-marginalization philosophically, noting that Brustein's charge that beats pursue aimless 'kicks' echoes Kierkegaard's critique of the Romantics as engaged in purposeless, rootless striving that evades responsibility. Against this she sets Holmes's reading of beat detachment as a search for meaning and belief, and casts the Beats' global travels as anticipating an emerging cosmopolitanism."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - I. The Beats Creating a Subculture.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Philosophy and Non-Philosophy of Potato Salad.md",
+   "kind": "chapter",
+   "philosophers": [
+    "derrida",
+    "foucault",
+    "plato"
+   ],
+   "concepts": [
+    "deconstruction",
+    "plato-cave"
+   ],
+   "relation": "Scribner uses Ginsberg's 'Howl for Carl Solomon'—and Solomon's throwing potato salad at a Dada lecture—to ask whether the Beats' performative acts count as philosophy at all. He argues philosophy is constituted by self-contestation, its relation to a 'non-philosophy' of madness and raw experience, reading Solomon's silence and Ginsberg's poetic mediation through Foucault's 'Madness and Civilization' and Derrida's rebuttal in 'Cogito and the History of Madness.' Ginsberg-to-Solomon is made analogous to philosophy-to-the-Beats: a betraying translator who nonetheless must give the mute event voice, grounded in Plato's failure to banish the poets from the Republic."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Laugh of the Revolutionary Diane di Prima, French Feminist Philosophy, and the Contemporary Cult of the Beat H.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir",
+    "lacan",
+    "freud"
+   ],
+   "concepts": [
+    "feminism",
+    "objectification"
+   ],
+   "relation": "Quinn reads Diane di Prima's serial poem 'Loba' and 'Memoirs of a Beatnik' through Hélène Cixous's 'The Laugh of the Medusa' and its call to 'écriture féminine'—women writing the body. She argues di Prima's she-wolf/Medusa figure, sex-positive candor, and refusal of narrative closure enact Cixous's boundless feminine writing, while Cixous's anti-Freudian, anti-Lacanian mockery of 'penis envy' and the 'big dick' illuminates di Prima's transgressive motherhood and bisexuality. Against the male Beats' dismissal of women writers (and Beauvoir's foremother status), the essay centralizes di Prima as a serious feminist philosopher-poet rather than a nostalgic icon."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Beat U-topos or Taking Utopia on the Road The Case of Jack Kerouac.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "plato",
+    "hobbes",
+    "locke"
+   ],
+   "concepts": [
+    "harm-principle",
+    "utopia-dystopia",
+    "buddhism"
+   ],
+   "relation": "Adamo argues Kerouac's 'On the Road' is a new kind of utopian text: because classical collective utopias (Plato's Republic through More) were judged by Berlin, Popper, and Arendt to slide into totalitarianism and to conflict with political liberalism's individualism, Kerouac relocates utopia from place to the individual life lived 'on the road' (u-topos = no-place). He reads Sal Paradise's disillusion with Dean Moriarty—who uses people up—versus his admiration for Mississippi Gene and the hobos as dramatizing J. S. Mill's harm principle, fused with the Buddhist vow to harm no living thing, radicalizing personal liberty as perpetual movement without injury to others."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Being-at-Home Gary Snyder and the Poetics of Place.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "dogen",
+    "thoreau"
+   ],
+   "concepts": [
+    "deep-ecology",
+    "zen",
+    "transcendentalism"
+   ],
+   "relation": "Hayes reads Gary Snyder's poetry and prose on 'being-at-home' through Heidegger's claim that 'poetically man dwells' and his earth/world distinction, arguing Snyder's bioregionalism (renaming California the 'Shasta Bioregion,' America 'Turtle Island') roots identity in place while embracing Zen impermanence learned from Dōgen. Snyder's shamanic 'tawny grammar,' his pragmatic environmental program in 'Four Changes,' and his Transcendentalist lineage (Thoreau, Emerson) turn wildness into 'the state of complete awareness,' letting a place 'set free into its own presencing' and grounding a poetics of dwelling that is at once local, geological, and impermanent."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - II. Beat Identities Selfhood and Experimentation.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - From Self-Alienation to Posthumanism The Transmigration of the Burroughsian Subject.md",
+   "kind": "chapter",
+   "philosophers": [
+    "derrida",
+    "lacan",
+    "marx"
+   ],
+   "concepts": [
+    "deconstruction",
+    "marx-alienation",
+    "lacan-mirror-stage",
+    "posthumanism"
+   ],
+   "relation": "Bolton argues William S. Burroughs's fragmented subjects—split by a parasitic 'Other Half' or word virus—are not postmodernism's dissolved nonsubjects but practitioners of a productive self-alienation. He aligns Burroughs's multiply-named, body-swapping characters (Mr. Bradley Mr. Martin, Joe the Dead) with Lacan's split subject constituted in language and with Derrida's iterable 'mark' and 'third that walks beside you' as an absent-present that dissolves binaries. Through Naked Lunch, Nova Express, and The Western Lands the Burroughsian subject transmigrates from Marxian/Hegelian alienation to N. Katherine Hayles's posthuman, gaining agency by extending into its technologized environment."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - “I am not an I” Performative (Self)Identity in the Poetry of Bob Kaufman.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "beauvoir",
+    "merleau-ponty",
+    "buddha"
+   ],
+   "concepts": [
+    "existence-precedes-essence",
+    "embodiment",
+    "ahimsa"
+   ],
+   "relation": "Pynn reads Bob Kaufman's poems ('Forget To Not,' 'Would You Wear My Eyes?,' 'Benediction,' 'Jail Poems') as enacting a performative, intersubjective selfhood: against Beauvoir's 'flavor of death' in American conformity and Sartre's dictum that existence precedes essence, Kaufman replaces the drive to invincibility with 'nakedness' and vulnerability. Merleau-Ponty's embodied intercorporeity and Buddhist ontology—impermanence, non-self, compassion, and ahimsa—let the poet's 'I am not an I' burn the isolated ego into a communal 'thousand me's,' with slavery's trauma inscribed on the body and Kaufman's 1963 Buddhist vow of silence as liberating practice."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Tongues Untied Beat Ethnicities, Beat Multiculture.md",
+   "kind": "chapter",
+   "philosophers": [
+    "appiah"
+   ],
+   "concepts": [
+    "cosmopolitanism-ethics",
+    "double-consciousness"
+   ],
+   "relation": "Lee surveys the neglected ethnic and multicultural seams running through Beat authorship—Ginsberg's Jewish 'Howl' and 'Kaddish,' Kerouac's French-Canadian 'Ti Jean' and the cross-ethnic geography of 'On the Road,' Ferlinghetti's and di Prima's Italian America, and Chicano, Asian American, and Black Beat outriders (Acosta, Frank Chin, Baraka, Ted Joans, Kaufman). He frames these through multicultural theory—Said, Spivak, Bhabha, and especially Anthony Appiah's cosmopolitan account of ethnicity as interstitial—arguing Beat writing foreshadows the field of multicultural studies, a 'tongue untied' whose transnational, race-inflected voices reach back to 'Howl' and 'On the Road.'"
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Joanne Kyger “Descartes and the Splendor Of” Bridging Dualisms through Collaboration and Experimentation.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "butler",
+    "zhuangzi"
+   ],
+   "concepts": [
+    "cartesian-dualism",
+    "gender-performativity",
+    "descartes-cogito"
+   ],
+   "relation": "Falk analyzes Joanne Kyger's 1968 experimental video 'Descartes' and its script 'Descartes and the Splendor Of,' a condensed rewrite of the 'Discourse on Method' that subverts Descartes's mind-body dualism and privileging of reason. Kyger deflates the cogito with slang ('to doubt is a drag'), substitutes Buddhist, Taoist (Zhuangzi's butterfly dream), and Confucian terms, and—voicing and performing Descartes as a woman doing housework and as 'Mother God'—feminizes the most masculine of professions. Reading this through Judith Butler's 'Gender Trouble' and gender performativity, Falk shows the parody destabilizes the mind/body, male/female hierarchy Cartesian dualism underwrites."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - III. Beat Avant-Garde Spontaneity and Immediacy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 18,
+   "file": "ch18 - John Clellon Holmes and Existentialism.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard",
+    "sartre",
+    "camus"
+   ],
+   "concepts": [
+    "existentialism",
+    "the-absurd",
+    "existence-precedes-essence"
+   ],
+   "relation": "Charters recounts how John Clellon Holmes—who coined the framing question 'How are we to live?' and prompted Kerouac's 'beat generation' label—was steeped in existentialism, reading Sartre, Camus, and Kierkegaard in the postwar New York scene. She argues his novel 'Go' is an existentialist text: its beat characters (modeled on Kerouac, Ginsberg, Cassady) enact freedom, self-transcendence, and the refusal of nihilism, saying 'no' in order to say 'yes' as in Camus's 'The Rebel.' Holmes ultimately rejected Sartre's atheist existentialism for a Kierkegaardian, faith-based one, valuing 'the evidence of soul' and reading Kerouac's characters as fleeing the absurd toward spiritual conviction."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Wholly Communion Poetry, Philosophy, and Spontaneous Bop Cinema.md",
+   "kind": "chapter",
+   "philosophers": [
+    "deleuze",
+    "nietzsche",
+    "bakhtin"
+   ],
+   "concepts": [
+    "rhizome",
+    "eternal-recurrence",
+    "amor-fati"
+   ],
+   "relation": "Sterritt reads Peter Whitehead's 1965 film 'Wholly Communion,' shot at London's International Poetry Incarnation, as 'spontaneous bop cinema' embodying Beat poetics through Bakhtin's dialogic/carnivalesque and the schizoanalysis of Deleuze and Guattari. Ginsberg's drunken recitation of 'The Change' becomes a 'body without organs' entering the 'chaosmos' on the plane of immanence; Jandl's sound poetry is pure Deleuzian sensation. Adrian Mitchell's anti-Vietnam 'To Whom It May Concern' is read through Nietzsche's eternal recurrence and amor fati and Deleuze's 'difference in repetition,' its incantatory counter-words a materialist line of flight against the order-words of war."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 9,
+   "type": "philosopher",
+   "suggested_slug": "cixous",
+   "name": "Hélène Cixous",
+   "philosopher": "cixous",
+   "domain": "feminism-gender-race",
+   "what": "French feminist philosopher whose 'The Laugh of the Medusa' theorizes 'écriture féminine,' women writing through the body.",
+   "why": "Chapter 9's entire theoretical framework is Cixous's écriture féminine applied to di Prima; the taxonomy has no distinct slug for her or that concept."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "posthumanism",
+   "name": "Posthumanism",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The view (after N. Katherine Hayles) that subjectivity extends beyond the bounded body into technologized environments via information feedback loops.",
+   "why": "Chapter 13's argument turns on Burroughs's subject 'transmigrating' into Hayles's posthuman; no existing concept slug captures posthuman/extended subjectivity distinctly."
+  },
+  {
+   "ch": 15,
+   "type": "concept",
+   "suggested_slug": "postcolonialism",
+   "name": "Postcolonialism / Orientalism",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The critical analysis of colonial power, Orientalist representation, and subaltern voice associated with Said, Spivak, and Bhabha.",
+   "why": "Chapter 15 frames Beat multiculturalism explicitly through Said's Orientalism, Spivak's subaltern, and Bhabha; the taxonomy has cosmopolitanism but no postcolonial/orientalism concept."
+  },
+  {
+   "ch": 19,
+   "type": "philosopher",
+   "suggested_slug": "bakhtin",
+   "name": "Mikhail Bakhtin",
+   "philosopher": "bakhtin",
+   "domain": "mind-language-metaphysics",
+   "what": "Russian literary theorist of dialogism, heteroglossia, and the carnivalesque.",
+   "why": "Chapter 19 reads Whitehead's film through Bakhtin's dialogic and carnivalesque alongside Deleuze; Bakhtin and those concepts have no taxonomy slug."
+  }
+ ]
+}

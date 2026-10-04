@@ -1,0 +1,156 @@
+{
+  "book": "240 - Neil Young and Philosophy",
+  "unit": "u351",
+  "chapters": [
+    {
+      "n": 6,
+      "file": "ch06 - Copyright.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 7,
+      "file": "ch07 - Contents.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 8,
+      "file": "ch08 - Acknowledgments.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 9,
+      "file": "ch09 - Introduction.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 10,
+      "file": "ch10 - 1 Primal and Spontaneous Neil Young\u2019s Aesthetics of Authenticity.md",
+      "kind": "chapter",
+      "philosophers": ["emerson", "nietzsche", "benjamin", "kant"],
+      "concepts": ["authenticity", "apollonian-dionysian", "benjamin-aura", "emerson-self-reliance"],
+      "relation": "Forest argues that Neil Young's habit of keeping early, flawed takes with Crazy Horse (\"audio verite\") embodies an aesthetic of authenticity as primal spontaneity. He reads Young through Emerson's self-reliance and trust in first impressions, Nietzsche's Apollonian/Dionysian split (Harvest vs. Tonight's the Night, Young's onstage abandon on \"Like a Hurricane\"), Benjamin's loss of aura in mechanical reproduction, and Collingwood's art/craft distinction, contending that the \"garage band\" imperfections of jams like \"Down by the River\" let fans identify with the band's expressive, un-repeatable moment."
+    },
+    {
+      "n": 11,
+      "file": "ch11 - 2 Neil Young and Creativity.md",
+      "kind": "chapter",
+      "philosophers": ["peirce", "schopenhauer", "nietzsche"],
+      "concepts": ["pragmatism", "authenticity"],
+      "relation": "Berger surveys Young's repeated claim that he does not intentionally compose but \"receives\" songs, comparing himself to a radio station or microphone and echoing Schubert's \"I remember it.\" He illuminates this with C.S. Peirce's categories of firstness (feeling), secondness (reaction) and thirdness (thought/signs), arguing that Young's refusal to \"judge\" lyrics like \"Tell Me Why\" or \"Cowgirl in the Sand\" protects the originary feeling, and that songs communicate feeling through Peircean icons and metaphors rather than deliberate rational design."
+    },
+    {
+      "n": 12,
+      "file": "ch12 - 3 Lawsuits, Master Narratives, and Artistic Commodification.md",
+      "kind": "chapter",
+      "philosophers": ["adorno", "marx"],
+      "concepts": ["culture-industry", "commodity-fetishism"],
+      "relation": "Mitchell examines Young's Geffen-era lawsuit (sued in 1983 for \"uncharacteristic\" music like Trans and Everybody's Rockin') and the competing rebel/misunderstood-artist/lost-in-the-video-era narratives around it. Using Heilbroner on capitalism's commodification of rebellious art and Mark Fisher's \"capitalist realism\" and pre-corporation of dissent (Cobain as spectacle), he argues that Young himself actively authored the \"rocker-turned-folkie\" and anti-commercial persona, so that even his gestures of resistance to the music business were absorbed as marketable integrity."
+    },
+    {
+      "n": 13,
+      "file": "ch13 - 4 Extended Mind and the Music of Trans.md",
+      "kind": "chapter",
+      "philosophers": ["clark", "chalmers", "dennett"],
+      "concepts": ["extended-mind", "authenticity"],
+      "relation": "Umbaugh reads Young's synthesizer/Vocoder album Trans, written amid efforts to communicate with his quadriplegic son Ben (\"Transformer Man\"), alongside Clark and Chalmers's extended-mind thesis and its Parity Principle. He uses examples (Otto's notebook, bartenders' glassware, navigation, Dennett on the elderly) to argue cognition couples with external scaffolding, and parallels the \"unnatural\" reception of Trans (like the homophobic anti-disco backlash) with resistance to extended cognition, concluding both Trans and the extended mind are authentic once the \"natural/artificial\" boundary is questioned."
+    },
+    {
+      "n": 14,
+      "file": "ch14 - 5 Neil Young Lover of Sun, Moon and Cars.md",
+      "kind": "chapter",
+      "philosophers": ["thoreau", "leopold", "dewey"],
+      "concepts": ["pragmatism", "land-ethic", "thoreau-walden", "anthropocentrism"],
+      "relation": "Anderson traces Young's environmentalism from the hippie-romantic nature worship of \"After the Gold Rush\" and Greendale toward a pragmatic \"middle way\" that reconciles his love of nature with his love of cars and recording technology (the Lincvolt project, Storytone). Drawing on Thoreau, Muir and Leopold's land ethic while rejecting the fixed prescriptions of Singer and Regan, he presents Young as an experimentalist \"meliorist\" who owns his own complicity in CO2 abuse and urges informed, practical, self-aware action rather than utopian or deontological solutions."
+    },
+    {
+      "n": 15,
+      "file": "ch15 - 6 Neil Young and American Indians Politics, Lyrics, and Authenticity.md",
+      "kind": "chapter",
+      "philosophers": ["montaigne"],
+      "concepts": ["objectification", "authenticity"],
+      "relation": "Hester critiques Young's treatment of American Indians, arguing \"Cortez the Killer\" idealizes the Aztecs into Montaigne-style \"noble savages,\" makes their sacrifices seem voluntary, and ultimately centers Young's own lost-love lament rather than the conquest's real victims. He shows \"Pocahontas\" objectifies and commodifies a Native woman (the \"thousand pelts\" line, Young's cavalier interview remarks) as cultural appropriation and \"playing Indian,\" yet notes Young's genuine activism (Honor the Treaties) leaves fans wanting to credit his good intentions."
+    },
+    {
+      "n": 16,
+      "file": "ch16 - 7 Memory and Relationships in the Work and Music of Neil Young.md",
+      "kind": "chapter",
+      "philosophers": ["locke", "hume", "hobbes", "dennett", "wittgenstein"],
+      "concepts": ["personal-identity", "locke-personal-identity", "hume-bundle"],
+      "relation": "Sizer analyzes how memory shapes Young's songwriting: childhood trauma (polio, his parents' divorce, Omemee) fueling \"Sugar Mountain,\" \"Helpless\" and \"I Am a Child\"; the \"use and lose\" pattern of collaborators and the ghost of Danny Whitten in Crazy Horse; and his late-life dread of memory loss watching his father's dementia. He frames this with Hobbes and Hume on memory-as-imagery, Wittgenstein's associative memory, and Locke's memory theory of personal identity (with Dennett on writing as a means to reconstruct and preserve the self)."
+    },
+    {
+      "n": 17,
+      "file": "ch17 - 8 Images of Women in the Music and Life of Neil Young.md",
+      "kind": "chapter",
+      "philosophers": ["beauvoir", "wollstonecraft", "rousseau", "william-james"],
+      "concepts": ["objectification", "male-gaze", "feminism"],
+      "relation": "McKenna uses Sarah Lucia Hoagland's feminist analysis of \"heterosexualism\" to argue that Young's songs (\"Cinnamon Girl,\" \"A Man Needs a Maid,\" \"Unknown Legend,\" and the femicide of \"Down by the River\") portray women as objects to be desired, possessed, used and harmed, positioning them as helpmates (like Rousseau's Sophie, against which Wollstonecraft argued). She extends this to Young's own \"backgrounding\" of the women in his life (Pegi, Carrie Snodgress) in Waging Heavy Peace, comparing him to William James's reliance on his wife Alice."
+    },
+    {
+      "n": 18,
+      "file": "ch18 - 9 Neil Young\u2019s Search for the Simple Life.md",
+      "kind": "chapter",
+      "philosophers": ["sartre", "aristotle", "thoreau", "freud", "epicurus"],
+      "concepts": ["bad-faith", "aristotle-eudaimonia", "thoreau-walden", "existentialism"],
+      "relation": "Watson and Riches reinterpret \"A Man Needs a Maid\" not as simple misogyny but as Young's ambivalent inner conflict between craving companionship and fearing the pain of intimacy. They read his pursuit of the \"simple life\" (\"Heart of Gold,\" avoidance of reading) through Epicurean simplicity, Aristotle's eudaimonia, Bowlby/Freudian avoidant attachment and cognitive dissonance, and Sartre's \"bad faith\" as self-deception, set against Thoreau's chosen solitude and Aristotle's claim that the non-social being is \"beast or god.\""
+    },
+    {
+      "n": 19,
+      "file": "ch19 - 10 Listening with Neil\u2019s Vulnerable Voice and the Ethics of Care.md",
+      "kind": "chapter",
+      "philosophers": ["gilligan", "addams", "noddings", "kant", "mill"],
+      "concepts": ["care-ethics", "deontology", "utilitarianism"],
+      "relation": "Jostedt argues that Young's raw, high \"dental\" singing voice (contrasted with Dylan's nasal sneer) invites empathetic \"listening-with\" rather than the detached individualism of Kant's deontology or Mill's utilitarianism. Drawing on Gilligan's In a Different Voice, Jane Addams and the ethics of care's emphasis on relatedness, he shows how songs like \"Ohio,\" \"Stringman,\" \"Cortez the Killer\" and the album Trans (evoking his son's cerebral palsy) make listeners feel with the downtrodden and disabled."
+    },
+    {
+      "n": 20,
+      "file": "ch20 - Index.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 21,
+      "file": "ch21 - Contributors.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": [
+    {
+      "ch": 10,
+      "type": "philosopher",
+      "suggested_slug": "collingwood",
+      "name": "R.G. Collingwood",
+      "philosopher": "",
+      "domain": "mind-language-metaphysics",
+      "what": "Early 20th-century British idealist philosopher of art who distinguished genuine art (expression of emotion) from craft (producing a preconceived result).",
+      "why": "Chapter 10 leans heavily on Collingwood's art/craft distinction to explain why Crazy Horse's raw expression counts as art rather than crafted entertainment, and no taxonomy philosopher covers his aesthetics of expression."
+    },
+    {
+      "ch": 17,
+      "type": "philosopher",
+      "suggested_slug": "hoagland",
+      "name": "Sarah Lucia Hoagland",
+      "philosopher": "",
+      "domain": "feminism-gender-race",
+      "what": "Lesbian feminist philosopher whose Lesbian Ethics analyzes 'heterosexualism' as the structured balance of masculine predation and protection that de-skills and subordinates women.",
+      "why": "Chapter 17's entire analysis of Young's portrayal of women is built on Hoagland's concept of heterosexualism and femininity-as-subordination, which no existing taxonomy philosopher or concept adequately captures."
+    }
+  ]
+}

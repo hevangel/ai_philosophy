@@ -1,0 +1,157 @@
+{
+ "book": "275 - Hunting \u2013 Philosophy for Everyone - In Search of the Wild Life",
+ "unit": "u392",
+ "chapters": [
+  {
+   "n": 25,
+   "file": "ch25 - Hunting Philosophy for Everyone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer"
+   ],
+   "concepts": [
+    "speciesism",
+    "animal-liberation",
+    "applied-ethics"
+   ],
+   "relation": "Duerr surveys the worldwide 'Master/Mistress of Animals' figure (Artemis, the /Kaggen of the Bushmen, the Huaulu Lord of the Forest) as a mythic sanction against over-hunting, arguing that the near-universal guilt hunters feel over killing sentient, human-like game reflects a real moral dilemma. She invokes Singer's utilitarian claim that painlessly killing non-self-conscious animals whose deaths are compensated by replacement 'may not be wrong,' reading the mythic 'solutions' (denial, propitiation, taking only what you need, restoring bones so game is reborn) as a folk 'hunting code of ethics' that manages the wrong of ending a life without starting another."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Hunting Philosophy for Everyone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "leopold",
+    "hooks"
+   ],
+   "concepts": [
+    "land-ethic",
+    "wilderness-ethics",
+    "anthropocentrism"
+   ],
+   "relation": "King examines Ortega y Gasset's and James Swan's claim that hunting is a 'return to nature' that revives a Paleolithic animal self, and argues it fails: Ortega himself concedes the return is only a 'vacation' from civilization, and the hunter's selective, predatory attention cannot supply the ecological literacy needed to confront industrial civilization. Drawing on Leopold's land ethic, Wendell Berry's agrarianism, and bell hooks's humility before nature's power, King contends a genuine return requires 'thick' relations to a particular bioregion sustained by a community of memory, not an individual's seasonal escape."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Hunting Philosophy for Everyone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer",
+    "regan",
+    "leopold"
+   ],
+   "concepts": [
+    "animal-rights",
+    "wilderness-ethics",
+    "anthropocentrism"
+   ],
+   "relation": "Parker asks whether 'photographic hunting' (the camera) is an ethically superior replacement for weaponized sport hunting (the gun), against Singer's and Regan's blanket condemnations of hunting. He concedes the camera captures most benefits\u2014environmental knowledge, immersive learning, Leopold-style love of the land\u2014but argues that only the kill roots the hunter in the ecosystem (citing Ortega and Paul Shepard), forcing confrontation with predation and death. He warns that treating photography as a wholesale replacement positions the human as detached 'spectator/master' over nature, the very hubris that drives environmental degradation."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Hunting Philosophy for Everyone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer",
+    "regan",
+    "plumwood",
+    "pythagoras"
+   ],
+   "concepts": [
+    "animal-liberation",
+    "food-ethics",
+    "epicurean-death"
+   ],
+   "relation": "Kover argues that anti-hunting animal-liberation thought (Singer, Regan) objects to hunting not because it alienates us from nature but because it connects us too intimately to it\u2014to the cycle of eating and being eaten and thus to our own mortality. Using Ernest Becker's 'denial of death' and Paul Rozin on disgust at our animality, he reads vegetarianism from Pythagoras's flesh-renouncing purification to modern ethical veganism as an ascetic refusal of edibility, and cites Val Plumwood's critique of humans placing themselves outside the food chain, concluding with Petersen and Shepard that the hunter's acceptance of death affirms life."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Hunting Philosophy for Everyone.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Hunting Philosophy for Everyone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "wilderness-ethics",
+    "just-war-theory"
+   ],
+   "relation": "Scruton reads the literature and music of hunting\u2014Homer's Odyssey and Argos, Wagner's Parsifal, Tristan and the Ring, Melville's Moby Dick, Cooper's Last of the Mohicans, and English foxhunting from Sir Gawain to Surtees and Masefield's Reynard the Fox\u2014as recovering the hunter-gatherer's sacred, totemic bond with animals and the theme of ritual sacrifice. He grounds the distinction between virtuous and 'lawless' hunting in Plato's Laws, where 'sacred hunting' of quadrupeds run down by men, horses, and dogs is defended as piety, and aligns it with Ortega's insistence on self-imposed limits that keep the hunt from becoming mere butchery."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Hunting Philosophy for Everyone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard"
+   ],
+   "concepts": [
+    "simulacra",
+    "wilderness-ethics",
+    "authenticity"
+   ],
+   "relation": "Koppedrayer analyzes the modern North American 'traditional' and 'primitive' bowhunting movement\u2014the Traditional Bowyer's Bible, magazines like Primitive Archer, and gatherings like ETAR\u2014where crafting a selfbow from a single wood stave and hunting under a 'fair chase' ethic promise an authentic, unencumbered, 'really real' experience against high-tech compound bows. Drawing on Arjun Appadurai's 'synchronic warehouse of cultural scenarios,' she argues the past functions as a reproducible resource yielding a hyperreal authenticity, and that bowmakers describe the self-made bow as an embodiment of the maker's own substance and a spiritual link to earlier hunters."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Hunting Philosophy for Everyone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes"
+   ],
+   "concepts": [
+    "state-of-nature",
+    "objectification",
+    "male-gaze"
+   ],
+   "relation": "Lee reads Gustave Courbet's life-size painting The Quarry (La cur\u00e9e) alongside Daumier's caricatures of incompetent bourgeois Parisian 'hobby hunters' and contemporary works by John Byrd and Christopher Carroll to trace how the hunter became a swaggering, masculine, lower-class 'savage' figure mediating wildness and civilization. She shows how the aristocratic ritual of the cur\u00e9e (feeding the deer's parts to the hounds) inverts into bourgeois provisioning, and invokes Hobbes's 'solitary, poor, nasty, brutish, and short' to gloss Byrd's Tricky Buck as defiance of urban squeamishness about the mammalian, gendered reality of hunting."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Hunting Philosophy for Everyone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "warren",
+    "freud"
+   ],
+   "concepts": [
+    "ecofeminism",
+    "objectification",
+    "feminism"
+   ],
+   "relation": "Merskin takes an ecofeminist view (Karen Warren's linkage of the domination of women and nature) of women who hunt, testing Marti Kheel's 'happy/holistic/holy' hunter typology against online interviews with female hunters and finding their motivations mirror men's. She surveys how hunting became a male-coded rite of separation from the mother\u2014drawing on Freud's 'instinctive urge'\u2014and how hunting media (Traditional Bowhunter) juxtapose women, animals, weapons, and sexual conquest as objects of male predation. Invoking Artemis/Diana and Mary Zeiss Stange's 'woman the hunter,' she argues women who hunt expose aggression as a human, not merely male, trait."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Hunting Philosophy for Everyone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "leopold",
+    "regan"
+   ],
+   "concepts": [
+    "locke-natural-rights",
+    "land-ethic",
+    "animal-rights"
+   ],
+   "relation": "Carmine argues that in America hunting is a sacred rite of a secular 'religion' of individual natural rights granted by the Deist 'Nature's God,' where\u2014revising Locke via Jefferson's 'pursuit of happiness'\u2014one owns game only by actual capture, and early game law kept even private land open to the common hunter against English enclosure. He attacks Leopold's land ethic and Tom Regan's animal rights, and Garrett Hardin's 'Tragedy of the Commons,' as an 'eco-gentry' that demotes humans to mere biosphere/carbonate and threatens human rights, insisting (with Burkert's Homo Necans) that to kill and eat the rabbit is to reserve dignity for humans alone."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Hunting Philosophy for Everyone.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": []
+}

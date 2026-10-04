@@ -1,0 +1,228 @@
+{
+ "book": "259 - Lost and Philosophy - The Island Has Its Reasons",
+ "unit": "u374",
+ "chapters": [
+  {
+   "n": 20,
+   "file": "ch20 - “Lost”.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "marx-ideology"
+   ],
+   "relation": "Karen Gaffney reads Lost through Louis Althusser's account of ideology and interpellation, arguing the show repeatedly exposes how belief systems are socially constructed and taken for granted. She treats the survivors' compulsion to keep pushing the Dharma button, Sawyer's fake heart-rate device, and Claire's being made to 'drink Locke's Kool-Aid' as interpellation, and Desmond's 'stuck in a bloody snow globe' as a figure for being trapped inside an ideology. The category of 'the Others' is analyzed as the ideology of otherness, built up through Rousseau's and Ana Lucia's fear-driven 'us versus them' descriptions and then dismantled when survivors turn out to be Jacob's candidates and the Others become 'the good guys.'"
+  },
+  {
+   "n": 21,
+   "file": "ch21 - PART FOUR - N IS FOR NECESSITY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - If Not on the Island of Ethical Subjectivism, Then Where.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates"
+   ],
+   "concepts": [
+    "moral-relativism"
+   ],
+   "relation": "George Wrisley uses Lost's morally ambiguous choices to argue that ethical subjectivism and cultural relativism collapse under scrutiny. He tests them against Sayid's shooting of young Ben (which Kate sees as murdering a child), Michael's killing of Ana Lucia, and Jacob versus the Man in Black, showing that the Argument from Disagreement does not establish that moral truth is relative. He presses three fatal consequences—infallibility of the individual or culture, the impossibility of genuine disagreement between Jacob and the Man in Black, and no room for reform like Martin Luther King Jr.'s—while invoking Socrates' wisdom of knowing that one does not know as a model of tolerant objectivism."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-friendship"
+   ],
+   "relation": "Michael W. Austin applies Jane English's claim that adult children owe their parents 'nothing' to the fraught father-son relationships of Lost. He works through Jack and Christian Shephard's operating-room cover-up, Locke being conned out of a kidney and paralyzed by Anthony Cooper, and Sawyer's murder-suicide father to argue that parental sacrifices create debts only on the commonsense view English rejects. English's alternative is that such sacrifices ideally generate friendship rather than obligation, which Austin illustrates with the unbookkept mutual aid among Sawyer, Kate, Hurley, and Locke, contrasting Jack's line 'I'm not one of his friends' about retrieving his dead father."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "deontology"
+   ],
+   "relation": "Becky Vartabedian uses W. D. Ross's agent-specific ethics of prima facie duties to evaluate Michael's betrayal at the dock. She lays out Ross's six duties—fidelity, gratitude, justice, beneficence, self-improvement, noninjury—and argues Michael's role as Walt's father makes beneficence his 'actual duty,' overriding fidelity and noninjury to Jack, Kate, and Sawyer. Because overridden duties do not vanish, Michael incurs guilt and owes amends (he is also implicated in the deaths of Libby and Ana Lucia), which Ross calls the 'moral risk' of choosing between competing prima facie duties; Locke's refusal to push the button is read as a duty of self-improvement whose rightness still depends on the intervening facts."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Real World Island.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "mill",
+    "aristotle"
+   ],
+   "concepts": [
+    "objectification",
+    "kant-humanity-formula",
+    "utilitarianism",
+    "virtue-ethics"
+   ],
+   "relation": "Patricia Brace and Rob Arp argue that Lost characters move from blameworthy to praiseworthy by ceasing to objectify others and instead objectifying themselves for a greater good. Using Kant's formula to treat persons as ends and never mere means, they condemn Ben Linus's lifelong manipulation while crediting his tearful mea culpa over Alex and his flash-sideways sacrifice for his student. Mill's utilitarianism justifies Sayid's assassinations and Kate's shooting of Un-Locke as trades for the greater number, and Aristotle's virtue ethics of cultivated respect and courage explains Charlie's Looking Glass suicide mission and Jack's Christlike self-sacrifice at the Heart of the Island, framing self-objectification as redemption."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - PART FIVE - D IS FOR DESTINY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 27,
+   "file": "ch27 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "levinas",
+    "h-richard-niebuhr"
+   ],
+   "concepts": [
+    "levinas-face",
+    "meaning-of-life"
+   ],
+   "relation": "Brett Chandler Patterson reads Lost alongside C. S. Lewis's Chronicles of Narnia as myth rather than allegory, arguing both use a fantasy world of second chances to stage redemption in community. He aligns the castaways' violent arrival on the island with the Pevensie children's magical passage into Narnia and Edmund's betrayal-and-forgiveness arc, using the island's life-and-death setting to force existential commitment. Emmanuel Levinas's ethics of responsibility to the face of the Other and H. Richard Niebuhr's relational theology are invoked to argue that healing and faith come not individually but in communion with others."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aquinas",
+    "augustine"
+   ],
+   "concepts": [
+    "aquinas-five-ways",
+    "meaning-of-life"
+   ],
+   "relation": "Daniel B. Gallagher uses Thomas Aquinas on the knowledge of God to read the characters' searches for meaning on Lost. Aquinas's 'approaching Peter' image—recognizing a human without yet knowing it is Peter—models how everyone confusedly knows God as the object of happiness while mistaking finite goods (Jack's curing, Kate's deception, Jin's job, Charlie's brother) for the ultimate good, paralleled with the castaways staring at the unidentifiable Smoke Monster. Gallagher then applies Aquinas's sin of acedia (spiritual sloth that deems the good unattainable) to Desmond's fear over Penny and Charlie's despair before Rose tells him faith is never impossible, tying the desire for happiness to Augustine's restless heart."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - NOTE.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "laozi"
+   ],
+   "concepts": [
+    "the-tao",
+    "tabula-rasa",
+    "wu-wei"
+   ],
+   "relation": "Shai Biderman and William J. Devlin trace John Locke the character's shift from the empiricism of his philosophical namesake to Taoism. Early Locke is the tabula-rasa empiricist and scientific-method hunter and hatch-engineer, but his miraculous restored ability to walk, Jacob's touch, and his visions push him to ask 'why' rather than 'how.' They argue Locke comes to follow the Tao—the unnamable Way symbolized by the black-and-white yin-yang seen in backgammon pieces and Claire's dream—advising Charlie via the struggling moth, teaching Walt to visualize the knife's path, and finding Sun's ring by not looking, ultimately reading his sacrificial death as effortless surrender to the island's flow."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Keep the Needle on the Record.md",
+   "kind": "chapter",
+   "philosophers": [
+    "laozi",
+    "nagarjuna"
+   ],
+   "concepts": [
+    "yin-yang",
+    "binary-oppositions",
+    "the-tao",
+    "nagarjuna-emptiness"
+   ],
+   "relation": "Donavan S. Muir argues that Lost deliberately withholds its metanarrative so viewers must construct its metaphysics, which he identifies as an order of balanced binary oppositions. Drawing on the spinning Taoist yin-yang, he reads the interdependent, mutually converting poles—Jack from man of science to man of faith, Sawyer from con man to protector—and the light/dark scales in Widmore's painting and the cave (Locke throwing out the white rock) as figures for a Tao whose balance sustains existence. Invoking Derrida's traces and Mahayana Buddhism's Middle Way and emptiness, he reads Jacob and the Man in Black as twins whose oppositions must be annihilated, so that only when both cease to exist in 'The End' are the castaways set free."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - APPENDIX - Who are Locke, Hume, and Rousseau The Losties’ Guide to Philosophers.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - CONTRIBUTORS.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - INDEX.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 20,
+   "type": "philosopher",
+   "suggested_slug": "althusser",
+   "name": "Louis Althusser",
+   "philosopher": "althusser",
+   "domain": "political-social",
+   "what": "Marxist philosopher who theorized ideology, interpellation, and the repressive vs ideological state apparatuses.",
+   "why": "Chapter 20's entire argument runs on Althusser's concept of interpellation and the ISA/RSA distinction, and no taxonomy philosopher covers him."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "interpellation",
+   "name": "Interpellation / Ideological Interpellation",
+   "philosopher": "althusser",
+   "domain": "political-social",
+   "what": "Althusser's process by which individuals are hailed into and constituted by an ideology they take for granted as natural truth.",
+   "why": "Chapter 20 applies interpellation directly to the button-pushing survivors and to the socially constructed category of 'the Others,' and the taxonomy has no matching concept."
+  },
+  {
+   "ch": 23,
+   "type": "philosopher",
+   "suggested_slug": "jane-english",
+   "name": "Jane English",
+   "philosopher": "jane-english",
+   "domain": "ethics-moral-psychology",
+   "what": "Contemporary moral philosopher known for the argument that grown children owe their parents nothing, since parental sacrifices create friendship rather than debt.",
+   "why": "Chapter 23 is built entirely on Jane English's 'What Do Grown Children Owe Their Parents?' thesis, and she is absent from the taxonomy."
+  },
+  {
+   "ch": 24,
+   "type": "philosopher",
+   "suggested_slug": "ross",
+   "name": "W. D. Ross",
+   "philosopher": "ross",
+   "domain": "ethics-moral-psychology",
+   "what": "British ethicist who proposed a pluralist theory of self-evident prima facie duties balanced against one another to yield an actual duty.",
+   "why": "Chapter 24 evaluates Michael's betrayal solely through Ross's prima facie duties and 'actual duty,' and no taxonomy philosopher represents him."
+  },
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "prima-facie-duties",
+   "name": "Prima Facie Duties",
+   "philosopher": "ross",
+   "domain": "ethics-moral-psychology",
+   "what": "Ross's set of conditional moral duties (fidelity, gratitude, justice, beneficence, self-improvement, noninjury) that can be overridden by weightier duties in a situation.",
+   "why": "The chapter's analysis of Michael turns on weighing prima facie duties to reach an actual duty, a concept the taxonomy lacks distinct from generic deontology."
+  },
+  {
+   "ch": 27,
+   "type": "philosopher",
+   "suggested_slug": "h-richard-niebuhr",
+   "name": "H. Richard Niebuhr",
+   "philosopher": "h-richard-niebuhr",
+   "domain": "religion-meaning",
+   "what": "American Christian theologian and ethicist known for a relational, responsibility-centered account of faith and community.",
+   "why": "Chapter 27 pairs Niebuhr's relational theology with Levinas to explain redemption-in-community on Lost, and he is not in the taxonomy."
+  }
+ ]
+}

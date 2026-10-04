@@ -1,0 +1,124 @@
+{
+  "book": "280 - Gardening \u2013 Philosophy for Everyone - Cultivating Wisdom",
+  "unit": "u399",
+  "chapters": [
+    {
+      "n": 21,
+      "file": "ch21 - GARDENING.md",
+      "kind": "chapter",
+      "philosophers": ["descartes"],
+      "concepts": ["heidegger-technology"],
+      "relation": "MacDonald reads the garden at Dumbarton Oaks as a 'technology of enchantment,' arguing against the nature/culture dualism that frames gardening as either a 'battle' with or a 'fusion' of nature. Drawing on Jane Bennett's account of enchantment (wonder mixed with the uncanny) and actor-network theory, he treats the garden as a shifting assemblage of humans and non-humans\u2014Charles Simonds's hybrid 'Growth' sculpture, leaking water pipes, the inscribed Arbor Terrace wall speaking with Dante's and Mildred Bliss's voices\u2014whose surprising 'crossings, complexity, and circuits' produce magic. Descartes appears as the philosopher who prized wonder as the most fundamental passion, and the disenchantment-of-the-world narrative (Weber) is set against gardening as re-enchantment."
+    },
+    {
+      "n": 22,
+      "file": "ch22 - GARDENING.md",
+      "kind": "chapter",
+      "philosophers": ["kant"],
+      "concepts": ["kant-aesthetics"],
+      "relation": "Barwell and Powell challenge Kant's classification of landscape gardening as a subcategory of painting ('for the eye only') by arguing that gardens, unlike static paintings or sculpture, essentially present the passing of time visually. Because gardens are made of living organisms that grow, flower, senesce and decay at different rates\u2014an oak, a drift of crocuses, a managed lawn\u2014they generate visual rhythms analogous to musical rhythm, with diurnal and seasonal cycles supplying a 'rhythmus firmus' (pulse and meter) that nature, not the designer, provides. Using Susanne Langer's claim that 'music makes the passage of time audible,' they conclude gardens make time visible and so deserve status as a distinctive art form."
+    },
+    {
+      "n": 23,
+      "file": "ch23 - GARDENING.md",
+      "kind": "chapter",
+      "philosophers": ["foucault", "bentham", "derrida", "plato", "deleuze"],
+      "concepts": ["panopticon", "deconstruction", "pragmatism"],
+      "relation": "Shapiro argues that Frederick Law Olmsted's Central Park is a major artwork realizing a 'pragmatic picturesque,' and reads the English picturesque garden as a 'diagram' (in Foucault's and Deleuze's sense) of the glance\u2014the roving, liberated look\u2014explicitly contrasted with Bentham's Panopticon, the diagram of the objectifying gaze. Using Derrida's paradox of the frame, he shows the picturesque hides its boundary (the ha-ha) while Olmsted inverts the diagram, making the frame explicit and admitting the city so citizens meet in democratic 'gregarious' recognition\u2014a Platonic argument (aesthetic education in the Republic) turned pragmatic in the climate of Peirce, James and Dewey. Christo and Jeanne-Claude's 'The Gates' distills the park's diagram as a gift of time."
+    },
+    {
+      "n": 24,
+      "file": "ch24 - CYCLING.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 25,
+      "file": "ch25 - GARDENING.md",
+      "kind": "chapter",
+      "philosophers": ["pythagoras", "descartes", "plato"],
+      "concepts": ["pythagorean-harmony", "apollonian-dionysian"],
+      "relation": "Neuman decodes the Bosquet de la Colonnade at Versailles as a symbolic Temple of Apollo that glorifies Louis XIV as overseer of cosmic harmony. He argues Hardouin-Mansart fused the circular peripteral temple with Hadrian's Maritime Theatre, and used simple ratios (1:2 bays) drawn from the Pythagorean-Platonic system of universal proportion\u2014the harmony of the spheres tied to Apollo's seven-stringed lyre and seven planets\u2014to align architecture, the seven planets, and monarchical order. The spandrel pairing of lyre and panpipe evokes the Apollo\u2013Marsyas/Pan contests, read as the reason-versus-passion, Apollonian-versus-Dionysian dichotomy; the whole garden is also linked to Descartes's geometrization of boundless axial space."
+    },
+    {
+      "n": 26,
+      "file": "ch26 - GARDENING.md",
+      "kind": "chapter",
+      "philosophers": ["augustine", "descartes", "buddha", "nietzsche"],
+      "concepts": ["augustine-time", "buddhist-impermanence", "eternal-recurrence"],
+      "relation": "Mara Miller argues gardens do not merely sit inside time but actively structure six kinds of time (scientific, objective/shared, kairos, subjective, temporality, historical), opening with Augustine's puzzle that he knows what time is until asked to explain it. She contrasts Greek chronos with kairos (the right moment to plant after the last frost), shows how Versailles propagated a shared time (eternal, historic, recurring) and eighteenth-century English landscape gardens taught the long-range vision capitalism needed, and describes cyclical 'eternal recurrence' (Eliade). Watching a dry Zen garden or fireflies, the visitor becomes the constant who notices\u2014reworking Descartes's cogito as 'I notice, therefore I am'\u2014while Japanese stepping-stones enforce a Buddhist mindfulness of impermanence in the present moment."
+    },
+    {
+      "n": 27,
+      "file": "ch27 - GARDENING.md",
+      "kind": "chapter",
+      "philosophers": ["hume", "epicurus", "camus", "wittgenstein"],
+      "concepts": ["hume-miracles", "skepticism", "epicurean-pleasure"],
+      "relation": "O'Brien reads Voltaire's closing injunction in Candide, 'we must cultivate our garden,' through David Hume to argue that gardening is therapy\u2014a retreat from metaphysics and religion into the tranquility of common life. Hume rejects belief in miracles and religious 'enthusiasm' not by logic but by recalling everyday reasoning (a melon seed, not a miracle, explains melons in the greenhouse), and the gardener is the sophisticated artisan-reasoner attuned to nature's regularities. Gardening inculcates Humean virtues (industry, patience, balancing action, pleasure and indolence) and Haybron's attunement/engagement/endorsement, yielding Epicurean ataraxia; the Sisyphean gardener (Camus) fighting slugs, and Wittgenstein taking up gardening as a cure, illustrate the point."
+    },
+    {
+      "n": 28,
+      "file": "ch28 - CYCLING.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 29,
+      "file": "ch29 - GARDENING.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["philosopher-king"],
+      "relation": "Evans presents Texcotzingo, the hilltop garden-retreat of the fifteenth-century Texcocan king Nezahualcoyotl, as the achievement of an Aztec philosopher-king who was landscape designer, hydraulic engineer and statesman. She argues the botanical garden as a genre\u2014a 'green encyclopedia' cataloguing a realm's flora\u2014was pioneered by Aztec kings, and that within an animist cosmos where mountains and water pulse with sacred spirit, Nezahualcoyotl's aqueduct, pools and terraced gardens made the hill a living embodiment of the altepetl (the 'water-hill' city-state). The garden thus symbolically enacts his political domain, dynastic history (three pools for three ancestral capitals) and cosmic order, even as she cautions his reputation as poet and monotheist was inflated by later Spanish and Christian chroniclers."
+    },
+    {
+      "n": 30,
+      "file": "ch30 - GARDENING.md",
+      "kind": "chapter",
+      "philosophers": ["epicurus", "lucretius", "seneca"],
+      "concepts": ["epicurean-pleasure", "epicurean-death", "lucretian-nature"],
+      "relation": "Campbell explains why Epicurus set his school in a walled garden on the edge of Athens ('Live unnoticed'), contrasting it with the Stoics' public Stoa: the Garden was a self-sufficient community of friends pursuing ataraxia through natural, necessary pleasures and philosophy as therapy for the soul. Drawing on Lucretius's account of prehistory in On the Nature of Things, he shows the Epicureans saw cities as a decadent fall\u2014driven by the fear of death and the gods\u2014from a near-paradise of proto-Epicurean friendship pacts, and read the garden and the locus amoenus of pastoral picnics as a recovered golden age. Diogenes of Oinoanda's inscription imagines a future in which all become gardening philosophers and city walls become redundant."
+    },
+    {
+      "n": 31,
+      "file": "ch31 - GARDENING.md",
+      "kind": "chapter",
+      "philosophers": ["plato", "socrates"],
+      "concepts": ["plato-cave", "socratic-method"],
+      "relation": "Cotton reads the grower image in Plato's Phaedrus\u2014the wise gardener who sows seed in proper soil for a slow harvest rather than the frivolous 'gardens of Adonis'\u2014as Plato's model of philosophical education as natural growth. The educator plants logoi (discourse) in a 'proper soul,' where it must be cultivated by the learner's own reflection and eventually reproduces itself in others, against Thrasymachus's vessel model of pouring knowledge in. She connects this to the Republic's cave, the Apology's gadfly, and the Symposium/Theaetetus images of pregnancy and midwifery, then argues Plato's own aporetic, contradiction-laden dialogues and the corpus as a whole act as the wise grower, teaching readers to become 'gardeners of their own souls.'"
+    },
+    {
+      "n": 32,
+      "file": "ch32 - CYCLING.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": [
+    {
+      "ch": 21,
+      "type": "concept",
+      "suggested_slug": "actor-network-theory",
+      "name": "Actor-Network Theory / Assemblage",
+      "philosopher": "",
+      "domain": "knowledge-science-reality",
+      "what": "The view (Latour, Callon, Law) that the world is made of heterogeneous networks of human and non-human actors whose agency is distributed and emergent, dissolving the nature/culture divide.",
+      "why": "Chapter 21's entire re-description of the garden as a shifting assemblage of 'crossings, complexity, and circuits' rests on actor-network theory, which the taxonomy lacks any slug for."
+    },
+    {
+      "ch": 29,
+      "type": "concept",
+      "suggested_slug": "aztec-animism",
+      "name": "Aztec (Nahua) Animist Cosmology",
+      "philosopher": "",
+      "domain": "eastern-world",
+      "what": "The Mesoamerican worldview in which organic and inorganic things share one vital spirit, so a mountain-and-water source becomes an altepetl embodying the city-state and cosmic order.",
+      "why": "Chapter 29 explains Texcotzingo entirely through Nahua animism and the altepetl concept, and the taxonomy has no Mesoamerican philosopher or concept to map it to."
+    }
+  ]
+}

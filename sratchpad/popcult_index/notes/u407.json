@@ -1,0 +1,15 @@
+{
+  "book": "284 - College Sex \u2013 Philosophy for Everyone - Philosophers With Benefits",
+  "unit": "u407",
+  "chapters": [
+    {
+      "n": 22,
+      "file": "ch22 - College Sex - Philosophy for Everyone Philosophers With Benefits.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "rousseau", "mill", "marx"],
+      "concepts": ["kant-humanity-formula", "objectification", "marx-ideology", "mill-liberty"],
+      "relation": "The essay argues that soaring tuition drives college students into sexual self-commodification\u2014egg-selling ('Pay your tuition with eggs'), craigslist/backpage escorting, and dorm-porn webcam sites like VoyeurDorm and CocoDorm\u2014and reads these cases through Kant's second formulation, condemning them as treating oneself and others as mere means rather than ends of intrinsic dignity. It applies Marx's notion of false consciousness to Natalie Dylan's virginity auction and Ashley Dupr\u00e9's 'empowerment' claims, comparing them to women choosing high heels as internalized oppression. It uses Rousseau's Social Contract and Mill's On Liberty to argue that prostitution is a form of illegitimate 'voluntary slavery' because one cannot rightly alienate one's own inalienable freedom, and contrasts coerced cases (Helena in Singapore, Rosie Reid's traumatic auctioned deflowering, John Gechter's porn suspension from a Christian college) with less-coerced ones to argue moral concern should track the degree of circumstantial coercion."
+    }
+  ],
+  "holes": []
+}

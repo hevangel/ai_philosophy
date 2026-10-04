@@ -1,0 +1,116 @@
+{
+  "book": "262 - Dr. Seuss and Philosophy - Oh, the Thinks You Can Think!",
+  "unit": "u379",
+  "chapters": [
+    {
+      "n": 19,
+      "file": "ch19 - Horton Hears You, Too! Seuss and Kant on Respecting Persons.md",
+      "kind": "chapter",
+      "philosophers": ["kant"],
+      "concepts": ["kant-humanity-formula", "categorical-imperative", "kant-respect", "kant-autonomy"],
+      "relation": "Kowalski reads Horton Hatches the Egg and Horton Hears a Who! through Kant's two formulations of the categorical imperative. Mayzie's lying promise to Horton fails the universal-law test just like Kant's lying-loan and tax-shirking (Jo-Jo) cases, while Horton's insistence that 'a person's a person, no matter how small' embodies the ends-in-themselves formula treating the Whos as ends with dignity, not things. The essay argues Horton's fidelity is heroic rather than strictly required, revising Kant's moral absolutism (the inquiring-murderer case) so that when duties conflict one should act to disrespect persons least."
+    },
+    {
+      "n": 20,
+      "file": "ch20 - Pragmatist Ethics with John Dewey, Horton, and the Lorax.md",
+      "kind": "chapter",
+      "philosophers": ["dewey", "kant", "mill"],
+      "concepts": ["pragmatism", "dewey-experience", "utilitarianism", "deontology"],
+      "relation": "Alexander contrasts Dewey's reflective, character-centered ethics with utilitarianism and Kantian deontology using the Lorax and Horton. The Once-ler is cast as the shortsighted 'utilitarian' maximizing Thneed happiness while the Lorax, urging us to 'stop and think' about the whole ecosystem, is really a Deweyan practicing reflective morality and deliberation as 'dramatic rehearsal.' Horton's conscientious care for the Whos illustrates Dewey's 'Who Factor' and growth of character rather than cold rule-following, showing morality as the ongoing education of desire toward inclusive, shared ends."
+    },
+    {
+      "n": 21,
+      "file": "ch21 - The Grinch\u2019s Change of Heart Whodunit.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "hume"],
+      "concepts": ["hume-sentimentalism", "categorical-imperative", "moral-psychology"],
+      "relation": "Cunningham asks whether the Grinch's sudden metanoia is a matter of head or heart, staging a debate between Kant and Hume. A Kantian reading treats the change as reason reasserting the moral law after the Grinch's inclinations (envy, resentment) hijacked it, so he realizes stealing Christmas disrespects the Whos as ends in themselves. A Humean reading, favored by the author given that the Grinch's 'small heart grew three sizes,' treats it as a new sentiment of sympathy rather than a rational apprehension, invoking Hume's claim that reason is the slave of the passions."
+    },
+    {
+      "n": 22,
+      "file": "ch22 - Thidwick the Big-Hearted Bearer of Property Rights.md",
+      "kind": "chapter",
+      "philosophers": ["locke", "nozick"],
+      "concepts": ["locke-labor-property", "locke-natural-rights", "minimal-state"],
+      "relation": "Skoble argues that the creatures who colonize Thidwick's antlers never acquire any property right, because mere uninvited occupancy does not create ownership and Thidwick's Lockean self-ownership over his own body and horns is inalienable. The eleven-to-one vote to keep Thidwick on the starving north shore shows, via Nozick's 'Tale of the Slave,' that democratic procedures cannot legitimately override fundamental liberty rights. Thidwick's near-enslavement stems from his mistaken belief that a host must be 'nice to his guests,' and his freedom is restored only when the shed antlers let him reclaim self-ownership."
+    },
+    {
+      "n": 23,
+      "file": "ch23 - Rebellion in Sala-ma-Sond The Social Contract and a Turtle Named Mack.md",
+      "kind": "chapter",
+      "philosophers": ["hobbes", "locke", "rawls", "kant"],
+      "concepts": ["social-contract", "veil-of-ignorance", "justice-as-fairness", "civil-disobedience"],
+      "relation": "Novy uses King Yertle's tyranny and Mack's revolt to survey social-contract theory. Hobbes explains why turtles leave the war-of-all state of nature for an absolute sovereign, but Yertle, ruling only for himself, becomes 'no king at all'; Locke then justifies overthrowing him because a ruler who destroys his subjects' property and lives dissolves the contract. Kant grounds the contract in innate freedom, while Rawls's original position and veil of ignorance test Sala-ma-Sond for justice as fairness, and King's civil disobedience frames Mack's rights-claiming burp as demanding the contract be honored for all."
+    },
+    {
+      "n": 24,
+      "file": "ch24 - Whose Egg Is It, Really Property Rights and Distributive Justice.md",
+      "kind": "chapter",
+      "philosophers": ["locke", "adam-smith", "rawls", "marx"],
+      "concepts": ["locke-labor-property", "invisible-hand", "veil-of-ignorance", "class-struggle"],
+      "relation": "Cribbs treats the Horton-versus-Mayzie custody fight over the egg as a property-rights puzzle, applying Locke's labor-mixing theory (Horton's season of incubation versus Mayzie's laying and abandonment, plus squatter's rights) and its provisos against waste and taking more than 'enough and as good,' illustrated by the Once-ler and Hardin's tragedy of the commons. Adam Smith's invisible hand and the Wubble-chap's skilled labor defend market inequality, while Sylvester McBean's Sneetch exploitation, Yertle, and Marx's alienated proletariat motivate Rawls's veil of ignorance and distributive justice as a corrective to unregulated property rights."
+    },
+    {
+      "n": 25,
+      "file": "ch25 - It\u2019s Not Personal . . . It\u2019s Just Bizzyneuss Business Ethics, the Company, and Its Stakeholders.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "kant", "marx"],
+      "concepts": ["applied-ethics", "kant-humanity-formula", "marx-alienation", "aristotle-eudaimonia"],
+      "relation": "Pierlott frames the shareholder-versus-stakeholder debate (Friedman versus Freeman) using Aristotle's function argument to ask what makes a 'good' company, then judges business relationships by Kant's humanity formula. McBean's manipulation of the Sneetches and the digital-TV cases show consumers used merely as means; McGurk's cavalier overworking of Sneelock in If I Ran the Circus and Maitland's sweatshop defense are answered with Marx's account of labor exploitation and Aristotle's voluntary-versus-mixed actions; the Once-ler's Lorax devastation shows firms externalizing environmental costs when profit is maximized at any value unprotected by law."
+    },
+    {
+      "n": 26,
+      "file": "ch26 - Speaking for Business, Speaking for Trees Business and Environment in The Lorax.md",
+      "kind": "chapter",
+      "philosophers": ["thoreau"],
+      "concepts": ["anthropocentrism", "wilderness-ethics", "applied-ethics"],
+      "relation": "The Klaassens read The Lorax as a joint business-and-environmental-ethics text organized around three questions the Thneed provokes: do we consume too much (invoking Thoreau's 'simplify' and DesJardins on practical, ethical, and environmental over-consumption), must business grow (Daly's distinction between quantitative growth and qualitative development), and why the Once-ler ignores sustainability (the Brundtland definition and Daly's rules for natural capital). The Lorax's self-appointment as one who 'speaks for the trees' is tied to Christopher Stone's argument that natural objects should have legal standing through guardians, like corporations or incompetents."
+    },
+    {
+      "n": 27,
+      "file": "ch27 - Dr. Seuss Meets Philosophical Aesthetics.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": [],
+      "relation": "Tunstall introduces philosophical aesthetics through three theories applied to Seuss's paintings and picture books. Beardsley's aesthetic definition of art counts works like Cat Carnival in West Venice and And to Think That I Saw It on Mulberry Street as art because they are made to produce aesthetic experiences, though it awkwardly implies Seuss's Escarobus forgery could be art. Danto's historicist, essentialist view (from Warhol's Brillo Box) explains why context and timing determine art status, and Philip Nel's cultural-criticism approach shows how The Lorax and The Butter Battle Book work as effective satire of consumerism and the nuclear arms race."
+    },
+    {
+      "n": 28,
+      "file": "ch28 - Notes.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 29,
+      "file": "ch29 - The Menagerie Author Biographies.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": [
+    {
+      "ch": 27,
+      "type": "philosopher",
+      "suggested_slug": "danto",
+      "name": "Arthur Danto",
+      "philosopher": "danto",
+      "domain": "mind-language-metaphysics",
+      "what": "Analytic philosopher of art who argued (via Warhol's Brillo Box) that artworks and mere real things can be perceptually identical, so art status depends on theory and history, culminating in his 'end of art' thesis.",
+      "why": "Chapter 27 devotes an entire section to Danto's historicist, essentialist philosophy of art to explain why Seuss's books count as art, and no aesthetics theorist of art fits any existing taxonomy slug."
+    },
+    {
+      "ch": 27,
+      "type": "concept",
+      "suggested_slug": "definition-of-art",
+      "name": "The Definition of Art (aesthetic theory / institutional and historical theories)",
+      "philosopher": "",
+      "domain": "mind-language-metaphysics",
+      "what": "The philosophical project of stating necessary and sufficient conditions for something to be art, spanning Beardsley's aesthetic-experience definition and Danto's historical/essentialist account.",
+      "why": "Chapter 27's core argument turns on rival definitions of art (Beardsley vs. Danto), and the taxonomy has no philosophy-of-art or aesthetics concept to map this to."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+ "unit": "u436",
+ "book": "308 - The Palgrave Handbook of Popular Culture as Philosophy",
+ "part": "13/13",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\308 - The Palgrave Handbook of Popular Culture as Philosophy",
+ "range": [
+  94,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 94,
+   "file": "ch94 - 88. Watchmen as Philosophy Illustrating Time and Free Will.md",
+   "words": 8900
+  },
+  {
+   "n": 95,
+   "file": "ch95 - 89. The Joker as Philosopher Killing Jokes.md",
+   "words": 8170
+  },
+  {
+   "n": 96,
+   "file": "ch96 - 90. From Hell as Philosophy Ripping Through Structural Violence.md",
+   "words": 11292
+  },
+  {
+   "n": 97,
+   "file": "ch97 - 91. Deadpool\u2019s Killogy as Philosophy The Metaphysics of a Homicidal Journey Through Possible Worlds.md",
+   "words": 9031
+  },
+  {
+   "n": 98,
+   "file": "ch98 - 92. V for Vendetta as Philosophy Victory Through the Virtues of Anarchy.md",
+   "words": 11385
+  },
+  {
+   "n": 99,
+   "file": "ch99 - 93. Asterios Polyp as Philosophy Master of Two Worlds.md",
+   "words": 9952
+  },
+  {
+   "n": 100,
+   "file": "ch100 - 94. Yes, Roya and Philosophy The Art of Submission.md",
+   "words": 8402
+  },
+  {
+   "n": 101,
+   "file": "ch101 - 95. The Walking Dead as Philosophy Rick Grimes and Community Building in an Apocalypse.md",
+   "words": 8512
+  },
+  {
+   "n": 102,
+   "file": "ch102 - Back Matter.md",
+   "words": 5719
+  }
+ ],
+ "content": [
+  94,
+  95,
+  96,
+  97,
+  98,
+  99,
+  100,
+  101,
+  102
+ ]
+}

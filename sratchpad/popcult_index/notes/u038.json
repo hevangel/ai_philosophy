@@ -1,0 +1,147 @@
+{
+ "book": "025 - The Beatles and Philosophy - Nothing You Can Think that Can't Be Thunk",
+ "unit": "u038",
+ "chapters": [
+  {
+   "n": 12,
+   "file": "ch12 - CHAPTER 4 “A REVELATION TO BEHOLD”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "william-james",
+    "aristotle",
+    "hegel",
+    "whitehead"
+   ],
+   "concepts": [
+    "will-to-believe",
+    "aristotle-four-causes",
+    "pragmatic-truth",
+    "leap-of-faith"
+   ],
+   "relation": "Argues that the Beatles' devotion to rock and roll was a literal religious phenomenon rather than loose metaphor: Lennon's first hearing of Elvis is analyzed as a William James-style conversion, the Radio Luxembourg broadcasts were treated 'like scripture,' Hamburg was a 'baptism by fire,' and Epstein's new suits at the Cavern were announced as 'a revelation.' Drawing on James's Varieties of Religious Experience and Pragmatism, the chapter reads Beatlemania's screaming crowds as collective ecstatic ritual and the 'toppermost of the poppermost' chant as the will-to-believe making its own truth, in the way James says truth 'happens' to an idea. Aristotle's four causes supply the metaphysical frame — the 'magic' of Liverpool and the sacred quality fans reported are formal-final causation against the material-efficient causation of disenchanted modernity — while the band's double irony ('tarrying with the negative,' after Hegel) let them hold skepticism inside belief, as in Lennon's 'flaming pie' origin parody and the 'more popular than Jesus' episode."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - CHAPTER 5 “AN EXTREME SENSE OF DESTINY”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "william-james",
+    "heraclitus",
+    "kuhn"
+   ],
+   "concepts": [
+    "aristotle-four-causes",
+    "will-to-believe",
+    "fate-vs-free-will"
+   ],
+   "relation": "Reads Bob Dylan's 'extreme sense of destiny' as lived Aristotelian final causation: Dylan's passivity about fame ('It happened like anything else happens'), his 'Jack Fate' persona, and the odyssey of 'goin' home' all treat his future self as the telos drawing him forward rather than his past pushing him. William James's Will to Believe ('faith creates its own verification') explains the self-fulfilling portents Dylan found in Gorgeous George's wink, his felt succession to Woody Guthrie, and his premonition of Joan Baez, while the chapter insists this destiny is not fatalism since Dylan could have ignored the signs and 'gone off another way.' It closes by taking Dylan at his word that 'Bobby Zimmerman' died when his namesake was killed in a 1961 motorcycle crash — a Jungian synchronicity that seals the shamanic death-and-rebirth 'transfiguration' Dylan claims for himself, where Heraclitus's river captures that the old self cannot be recovered."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - EPILOGUE “THROUGH THE MIRROR”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "william-james"
+   ],
+   "concepts": [],
+   "relation": "The epilogue reads the three pairwise meetings — Elvis and the Beatles at his Bel Air home in 1965 ('Long live the King!'), Dylan turning the Beatles on to cannabis on August 28, 1964, and Dylan's refusal to ever meet Elvis, memorialized in 'Went to See the Gypsy' — as mirrors through which each figure's transformation passed to the next. Its central argument is that the 'marijuana summit' was an epistemological watershed: following Terence McKenna's claim that a culture's sanctioned drugs select its ways of knowing, cannabis (against caffeinated, speed-fueled rationalism) opened the affective, intuitive mode that became the counterculture, audible in Lennon's turn from 'Help!' to 'Come Together.' The song's gypsy and 'pretty dancing girl' are finally read as the Jungian anima, the archetypal feminine drawing the West back to embodied, enchanted experience — a book-length thesis the epilogue attributes to the 'radical empiricist' lineage of James, Jung, Bergson, and Whitehead."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - BIBLIOGRAPHY.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - ACKNOWLEDGEMENTS.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - NOTES.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "whitehead",
+   "name": "Alfred North Whitehead",
+   "philosopher": "",
+   "domain": "pragmatism-american",
+   "what": "British-American process philosopher whose metaphysics treats reality as 'a creative advance into novelty' composed of experiential events rather than static substances.",
+   "why": "Chapter 12 quotes Whitehead's 'creative advance into novelty' and 'slightest change of tone' to explain how collective belief made the Beatles phenomenon real, and he supplies the Epilogue's epigraph on the world mirrored in every standpoint — he is the book's metaphysical spine."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "disenchantment",
+   "name": "The Disenchantment of the World (Entzauberung)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Max Weber's diagnosis that modern rationalization and science strip the world of magic, mystery, and sacred meaning.",
+   "why": "Chapter 12 frames the Beatles as re-enchanting a disenchanted modernity, describing the sixties as a 'double disenchantment' — disenchantment with the disenchanted epistemology itself."
+  },
+  {
+   "ch": 13,
+   "type": "philosopher",
+   "suggested_slug": "bergson",
+   "name": "Henri Bergson",
+   "philosopher": "",
+   "domain": "nineteenth-century",
+   "what": "French philosopher of duration (durée), élan vital, and Creative Evolution, who defended lived qualitative time and final causation against mechanism.",
+   "why": "Chapter 13 opens with Bergson's Creative Evolution as its epigraph and reads Dylan's destiny, rhythm-induced self-loss, and 'transfiguration' as Bergsonian duration and vital impulse rather than mechanical succession."
+  },
+  {
+   "ch": 13,
+   "type": "philosopher",
+   "suggested_slug": "carl-jung",
+   "name": "Carl Gustav Jung",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Swiss founder of analytical psychology, positing archetypes, the collective unconscious, and 'synchronicity' — acausal meaningful coincidence.",
+   "why": "Chapter 13 explains Dylan's two-Bobby-Zimmerman motorcycle-crash story as Jungian synchronicity, and the Epilogue reads the gypsy and dancing girl of 'Went to See the Gypsy' as the Jungian anima."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "synchronicity",
+   "name": "Synchronicity (meaningful coincidence)",
+   "philosopher": "carl-jung",
+   "domain": "religion-meaning",
+   "what": "Jung's principle that events can co-occur with symbolic meaning without any causal link between them.",
+   "why": "Chapter 13 needs synchronicity to make sense of Dylan's claim that the death of another Bobby Zimmerman enacted the symbolic death of his own former identity before his 1966 crash."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "shamanism",
+   "name": "Shamanism (archaic techniques of ecstasy)",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Mircea Eliade's account of the shaman as an ecstatic technician of the sacred whose initiatory death-and-rebirth grants the power to mediate spirit for the community.",
+   "why": "Chapters 12 and 13 use Eliade's shaman — absent-mindedness, breath, trance, death-and-rebirth initiation — to frame Presley, Lennon, and above all Dylan as spontaneous modern shamans."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "psychedelic-epistemology",
+   "name": "Plant Drugs and the Varieties of Consciousness",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The thesis (associated with Terence McKenna and Aldous Huxley) that psychoactive substances are epistemological instruments, each opening a different mode of knowing — caffeine for rationality, cannabis for intuition.",
+   "why": "Chapter 14's account of the 1964 Dylan-Beatles 'marijuana summit' argues that the shift from pills to pot re-tuned a generation's way of knowing toward affect, founding the counterculture."
+  }
+ ]
+}

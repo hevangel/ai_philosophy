@@ -1,0 +1,295 @@
+{
+ "book": "034 - iPod and Philosophy - iCon of an ePoch",
+ "unit": "u054",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - iPod and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Popular Culture and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - What Do We Hear when We Listen to Our iPods.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "marx"
+   ],
+   "concepts": [
+    "the-look",
+    "marx-alienation"
+   ],
+   "relation": "Wittkower opens with his cat Wallace at the window to show hearing is selective, then applies Sartre's account of the Look -- the voyeur at the keyhole hearing a footstep, the other as a 'void within being' -- to ask when sounds announce another person, the iPod-era rustle becoming the sudden 'appearance of a face.' Drawing on Marx's early claim that our senses are socially estranged, so that we meet others only as waiters, clerks, and price tags ('we are not our khakis'), he argues the audio cocoon both limits and enables encounter: mostly we hear our own identity reflected back ('I am the kind of person who listens to Amy Winehouse'). The governing image is Odysseus lashed to the mast, hearing the Sirens without being able to act, and the chapter closes by rehabilitating Marx as the first philosopher of technology alongside Heidegger, Dewey, Lukacs, Adorno, and Habermas."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - PLAYLIST OBJECT.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - What Was on Wittgenstein’s iPod.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein"
+   ],
+   "concepts": [
+    "language-games",
+    "family-resemblance"
+   ],
+   "relation": "Rehn argues there is no essential definition of the iPod: Shuffle, Nano, Classic, and Touch share only overlapping, criss-crossing similarities, exactly as Wittgenstein's family resemblance handles 'sport' (water polo vs. boxing) and 'game.' Even Cover Flow -- a physically impossible floating cascade of albums -- feels instantly familiar, showing familiarity is something users construct from hints rather than perceive, and syncing, playlists, and the Music Quiz game endlessly re-manufacture it (the iPod as the new McDonald's golden arches abroad). Flipping the relation via Actor-Network Theory, he notes the iPod tracks play counts, pushes 'Listeners Also Bought,' and trains our flicking gestures, so that perhaps the iPod becomes familiar with us; the Microsoft Zune figures as the abject, zombie-like copy whose perverse familiarity reveals a politics of recognition, and the closing game of imagining Wittgenstein's playlist endorses natural language's many language games over exact definitions."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - iPod.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "berkeley"
+   ],
+   "concepts": [
+    "heidegger-technology",
+    "berkeley-idealism"
+   ],
+   "relation": "Raven reads design history as a pendulum between 'Beauty Waves' (Art Nouveau's sinuous decoration, 1960s psychedelia) and 'Truth Waves' (Art Deco functionalism, Le Corbusier's 'machine for living'), poles he grounds in Berkeley's 'esse est percipi' idealism versus metaphysical realism. The late-1990s blobject -- the iMac, the New Beetle, the MACH3 razor -- begins merging the waves through computer-aided design, and the iPod, launched five weeks after 9/11 and named for Kubrick's pod ('Open the pod bay door, Hal'), is the 'minimalist blobject' or 'squircle' where the merger completes. Reading the moment through Heidegger's claim that technology transforms human existence 'in its innermost recesses' and through Freud's pleasure versus reality principles, he argues the Iraq War sealed the reality principle into consumer design: 'our iPods now have edges.'"
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Progress Is a Myth that Truly Makes Life Worthwhile.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "marx",
+    "foucault",
+    "william-james"
+   ],
+   "concepts": [
+    "commodity-fetishism",
+    "pragmatism",
+    "discipline"
+   ],
+   "relation": "Garnar contrasts the material practice of collecting CDs -- shelving some 1,500-2,000 discs by genre, the Rachels' Egon Schiele packaging, and Humean associations binding particular discs to memories like buying blue hair dye the day he got New Order's Lowlife -- with the iPod-era 'iPhenomenon' of buying songs piecemeal from iTunes. Using William James's question 'How is the practice real?' he rejects the real/virtual split, and reads the freedom of iMedia as a corollary of Marx and Engels's 'single, unconscionable freedom -- Free Trade': the solipsistic consumer never confronts the artist the way the album as artifact (Coltrane's My Favorite Things ending, he realizes, had to end with 'But Not for Me') forces him to. The body supposedly made unnecessary by 'iLiving' remains, with Foucault, a site of discipline -- eating disorders, outsourced assembly labor, e-waste -- so he keeps his iPod but defends a plurality of media and calls progress a myth."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Modding Mavens and the Limits of Reification.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "marx-alienation",
+    "commodity-fetishism"
+   ],
+   "relation": "Schaeffer starts from the felt aliveness of the click wheel -- 'it whirs and clicks, demanding my attention' -- and argues we personify iPods precisely because mass production hides their makers, applying Marx's account of alienation and reification ('the personification of things and the reification of persons') to the Foxconn 'iPod City' exposé of fifteen-hour shifts and hundred-worker dorm rooms paid fifty dollars a month. Extending the analysis through Lukacs, he reads Apple's fluctuating stock price as 'phantom objectivity' and the iPod bubbles of his Brooklyn coffee shop and his classroom -- couples passing 'like ships in the night' -- as a reified world that appears as the only possible world. Against the thesis's bleakness, modders -- a bicycle-dynamo charger, a fist-sized remote with five large switches built for visually impaired users -- re-inscribe humanity into the commodity, marking the limits of reification."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - PLAYLIST THOUGHT.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 5 - Philosophy Audiobooks.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [],
+   "relation": "This chapter is a transcript of LibriVox Community Podcast show #20, in which host Jim Mowatt and guests discuss recording philosophy texts as free audiobooks, sparked by volunteers' 'enthusiasm' over a group recording of Kant's Critique of Pure Reason and a fierce forum debate over which translation to use. Editor D.E. Wittkower and his dyslexic student testify that audio opens dense texts to readers who otherwise reread thirty or forty pages to a headache, while volunteer M.L. Cohen argues that recording forces slow, attentive reading and that -- as with orphan drugs -- market logic explains why commercial audiobooks ignore the philosophical canon; audio supplements but never replaces careful reading."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Democratization of Media—Philosophy for All!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates",
+    "aristotle",
+    "epicurus",
+    "kant",
+    "nietzsche"
+   ],
+   "concepts": [
+    "socratic-method",
+    "categorical-imperative"
+   ],
+   "relation": "Parker recounts training for the Seoul Marathon on a treadmill with philosophy podcasts (Philosophy Talk, Philosophy Bites, LibriVox) to argue the iPod works as a 'next-generation book' that can democratize philosophy -- yet, like the book, it cannot supply the two-way dialogue that Socrates practiced in the agora and that Plato's Academy, Aristotle's Lyceum, and Epicurus's Garden were built to sustain. He distinguishes studying philosophy -- compiling, say, Kant's claim that one cannot act except in ways one could will all others to act -- from doing it, and argues that credentials and canon cannot displace each person's inescapable role as 'the arbiters of our own thoughts.' The Nazis' misconstrual of Nietzsche is his example of interpretation without critical guardianship, and he concludes that the academy's stronghold on teaching philosophy is loosening even if wikis and virtual forums never fully replace professional expertise."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - After Forgetting.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "dewey"
+   ],
+   "concepts": [
+    "extended-mind",
+    "socratic-method",
+    "dewey-experience"
+   ],
+   "relation": "Sturgis argues that iPods plus the collaborative Web 2.0 will end education's age of memorization: the school 'cheaters' storing test answers in lyrics files are early adopters of a world where, as Plato's Meno already allowed, knowledge can be retrieved rather than remembered, and a remote server is no more crash-prone than a brain ('the server could crash, but so could I'). His own podcasted environmental-ethics course shows Socratic, question-driven lecturing and radio's 'theater of the mind' reaching distance learners, while MIT OpenCourseWare and Berkeley webcasts (a trucker listening to Hubert Dreyfus) globalize elite content. Following Dewey on reflection and artistry, he predicts a post-factual pedagogy of assessing sources -- he catches Wikipedia misreading an iPod '90 percent market share' claim -- collaborative creation, and candid acceptance that we are already integrated with technological devices."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Thinking Inside the Pod.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "descartes",
+    "plato"
+   ],
+   "concepts": [
+    "heidegger-technology",
+    "descartes-cogito",
+    "plato-cave"
+   ],
+   "relation": "Condella reads the opening of Saturday Night Fever -- Tony Manero strutting to 'Stayin' Alive' while delivering a can of paint -- as the iPod condition in miniature: music that alters rather than captures reality, now dial-up-able for workouts ('Eye of the Tiger'), bus rides, and grocery runs. Through Heidegger he argues the iPod is calculative thinking incarnate, annihilating the time, silence, and solitude meditative thinking requires (the shower as last refuge), and deepening technological homelessness by flattening every place into whatever soundtrack we choose -- the Rhine dammed into a 'gigantic gasoline station,' the iPod pushing us 'pretty far down' in Plato's Cave, its very possibility prepared by Descartes's thinking thing. Yet his wife's yoga instructor chanting on a Bronx bus shows the iPod can also open meditative space, so what Heidegger demands is not Luddism but Gelassenheit, a free relationship to technology."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - PLAYLIST IMAGE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Playlisting the iPod White Soul.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hooks"
+   ],
+   "concepts": [
+    "hegemony"
+   ],
+   "relation": "Austin unboxes his new black iPod Classic to argue that its true constant -- the glowing white body, white click wheel, and above all the white earbuds -- makes it 'the quintessential contemporary White good': an industry standard whose supremacy mirrors the invisible default of whiteness described by Richard Dyer and whiteness studies, from white magic versus black to white lab coats and the 'flesh-colored band-aid.' Using Said's Orientalism -- the West strong, rational, and civilized against a binary-opposite Orient -- he reads iPod history as racial history: blackface minstrelsy, black vinyl and the sociable jukebox supplanted by white digital privatization, Black musical forms sanitized into the white 'mainstream,' and colored 'skins' as cosmetic diversity over the unchanged white core. bell hooks's challenge to white theorists to interrogate whiteness rather than only Blackness supplies the chapter's imperative to re-experience this most mundane object critically."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Youth and the Image.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard",
+    "wittgenstein",
+    "plato",
+    "haraway"
+   ],
+   "concepts": [
+    "simulacra",
+    "language-games",
+    "plato-cave"
+   ],
+   "relation": "Hickey argues the iPod is the 'iCon of a generation' because it is a Baudrillardian simulacrum of youth: like the Gulf War consumed as CNN fireworks or reality TV's fabricated 'real,' Apple's silhouette ads sell faceless dancers whose entire identity is the white device -- a 'symbolic cyborgism' read through Donna Haraway. The vernacular of iPodding, podcasting, and downloading forms what he calls, with Wittgenstein, a language game woven into the actions of the 'now' that authorizes this youthful, tech-savvy identity as natural, while the ads' imagery works like Platonic shadows in the caves of our desire. Still, citing Giddens's structure-agency negotiation and DeCerteau's consumer tactic of re-appropriating everyday images, he insists we are not brainwashed: we can switch off, refuse, or remake the images that 'tell us who we are.'"
+  }
+ ],
+ "holes": [
+  {
+   "ch": 8,
+   "type": "concept",
+   "suggested_slug": "family-resemblance",
+   "name": "Family Resemblance",
+   "philosopher": "wittgenstein",
+   "domain": "mind-language-metaphysics",
+   "what": "Wittgenstein's account of concepts unified by overlapping, criss-crossing similarities rather than a common essence, as members of a family resemble one another in different ways.",
+   "why": "Chapter 8's central move is that Shuffle, Nano, Classic, and Touch share no 'iPodness' essence but only family resemblances, which language-games does not cover."
+  },
+  {
+   "ch": 8,
+   "type": "concept",
+   "suggested_slug": "actor-network-theory",
+   "name": "Actor-Network Theory (agency of objects)",
+   "philosopher": "latour",
+   "domain": "political-social",
+   "what": "Latour and Law's theory that agency is distributed across networks of humans and non-human actants, so objects act on and shape human behavior.",
+   "why": "Chapter 8 uses ANT to argue the iPod tracks play counts, suggests purchases, and trains its user's gestures, so the device makes itself familiar to us."
+  },
+  {
+   "ch": 9,
+   "type": "philosopher",
+   "suggested_slug": "freud",
+   "name": "Sigmund Freud",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Founder of psychoanalysis who contrasted the pleasure principle (immediate gratification) with the reality principle (deferred gratification in light of the world's obstacles).",
+   "why": "Chapter 9 frames the iPod as wedged between the two principles, with the blobject expressing pleasure and the post-9/11, Iraq-war design climate the reality principle."
+  },
+  {
+   "ch": 11,
+   "type": "philosopher",
+   "suggested_slug": "lukacs",
+   "name": "Georg Lukács",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Hungarian Marxist who developed Marx's fragmentary remarks into a full theory of reification and the 'phantom objectivity' of commodity relations.",
+   "why": "Chapter 11's account of the iPod world as a reified world -- and of modding as its limit case -- is built explicitly on Lukács rather than on Marx directly."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "reification",
+   "name": "Reification (thingification)",
+   "philosopher": "lukacs",
+   "domain": "political-social",
+   "what": "The process by which human relations take on the character of things while commodities acquire human, life-like qualities.",
+   "why": "Reification is the titled concept of chapter 11, which argues iPod users personify a commodity made by hidden workers; commodity-fetishism alone misses its objective/subjective structure."
+  },
+  {
+   "ch": 18,
+   "type": "philosopher",
+   "suggested_slug": "said",
+   "name": "Edward Said",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Postcolonial theorist whose Orientalism showed how the West constructs the Orient as an inferior, binary Other to justify and maintain dominance.",
+   "why": "Chapter 18's reading of the iPod as the white West's invisible standard is explicitly built on Said's Center/Margin and West/Other framework."
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "whiteness-invisibility",
+   "name": "Whiteness as Invisible Default (whiteness studies)",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "The critical-race thesis (Dyer, whiteness studies) that whiteness is an unmarked, universal standard by which everyone else is named, ranked, and found wanting.",
+   "why": "Chapter 18's core claim is that the iPod is whiteness's 'industry standard', dominant precisely because its whiteness goes unremarked; no existing slug covers whiteness studies."
+  },
+  {
+   "ch": 19,
+   "type": "philosopher",
+   "suggested_slug": "haraway",
+   "name": "Donna Haraway",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Feminist philosopher of technology whose cyborg hybridizes human and machine to unsettle essentialist identity categories.",
+   "why": "Chapter 19 reads Apple's silhouette ads as constructing a 'symbolic cyborgism' in which the iPod, not the face, defines the person."
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "unit": "u230",
+ "book": "157 - Dungeons and Dragons and Philosophy - Read and Gain Advantage on All Wisdom Checks",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\157 - Dungeons and Dragons and Philosophy - Read and Gain Advantage on All Wisdom Checks",
+ "range": [
+  3,
+  21
+ ],
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Dungeons and Dragons and Philosophy.md",
+   "words": 858
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Dungeons and Dragons and Philosophy.md",
+   "words": 27
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dungeons and Dragons and Philosophy.md",
+   "words": 154
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Dungeons and Dragons and Philosophy.md",
+   "words": 255
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Dungeons and Dragons and Philosophy.md",
+   "words": 1300
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Dungeons and Dragons and Philosophy.md",
+   "words": 7
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Dungeons and Dragons and Philosophy.md",
+   "words": 5150
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Dungeons and Dragons and Philosophy.md",
+   "words": 4024
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Dungeons and Dragons and Philosophy.md",
+   "words": 6261
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Dungeons and Dragons and Philosophy.md",
+   "words": 2009
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Dungeons and Dragons and Philosophy.md",
+   "words": 3702
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Dungeons and Dragons and Philosophy.md",
+   "words": 3850
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Dungeons and Dragons and Philosophy.md",
+   "words": 5623
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Dungeons and Dragons and Philosophy.md",
+   "words": 5861
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Dungeons and Dragons and Philosophy.md",
+   "words": 4278
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Dungeons and Dragons and Philosophy.md",
+   "words": 6
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Dungeons and Dragons and Philosophy.md",
+   "words": 4613
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Dungeons and Dragons and Philosophy.md",
+   "words": 6530
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Dungeons and Dragons and Philosophy.md",
+   "words": 5031
+  }
+ ],
+ "content": [
+  3,
+  6,
+  7,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  19,
+  20,
+  21
+ ]
+}

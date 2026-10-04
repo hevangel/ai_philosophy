@@ -1,0 +1,74 @@
+{
+ "unit": "u381",
+ "book": "263 - Stephen King and Philosophy",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\263 - Stephen King and Philosophy",
+ "range": [
+  13,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 13,
+   "file": "ch13 - Broadcast Dystopia.md",
+   "words": 3920
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Stephen King and the Art of Horror.md",
+   "words": 8332
+  },
+  {
+   "n": 15,
+   "file": "ch15 - \u201cYou Weren\u2019t Hired to Philosophize, Torrance\u201d.md",
+   "words": 4523
+  },
+  {
+   "n": 16,
+   "file": "ch16 - What Happens to the Present When It Becomes the Past.md",
+   "words": 4400
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Notes on Foreknowledge, Truthmaking, and Counterfactuals from The Dead Zone.md",
+   "words": 4127
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Time Belongs to the Tower.md",
+   "words": 9110
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Ur 88,416.md",
+   "words": 9387
+  },
+  {
+   "n": 20,
+   "file": "ch20 - From Desperation to Haven.md",
+   "words": 8235
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Index.md",
+   "words": 2156
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Ka-tet Author Biographies.md",
+   "words": 1737
+  }
+ ],
+ "content": [
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22
+ ]
+}

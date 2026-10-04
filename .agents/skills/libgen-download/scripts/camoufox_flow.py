@@ -80,15 +80,38 @@ def main():
             try:
                 page.goto(f"{BASE}/", wait_until="commit", timeout=90000)
                 time.sleep(rng.uniform(10, 14))
-                page.wait_for_selector('input[name="req"]', timeout=90000)
+                box = page.wait_for_selector('input[name="req"]', timeout=90000)
                 time.sleep(rng.uniform(1.5, 3.5))
-                box = page.locator('input[name="req"]').first
-                box.click(timeout=20000)
-                box.type(query, delay=rng.randrange(40, 110))
+                # locator.click() hangs in camoufox on the new homepage even
+                # though the box is visible, stable and unobstructed — click
+                # by coordinates instead
+                bb = box.bounding_box()
+                if not bb:
+                    raise RuntimeError("search box has no bbox")
+                page.mouse.click(bb["x"] + min(200, bb["width"] / 2),
+                                 bb["y"] + bb["height"] / 2)
+                page.keyboard.type(query, delay=rng.randrange(40, 110))
                 time.sleep(rng.uniform(0.5, 1.3))
-                box.press("Enter")
+                page.keyboard.press("Enter")
                 page.wait_for_url("**index.php**", timeout=90000)
-                page.wait_for_selector("#tablelibgen tbody tr", timeout=90000)
+                time.sleep(rng.uniform(2.0, 4.0))
+
+                # since the 2026-10 frontend update the default results tab is
+                # Files; with zero files #tablelibgen never renders and the
+                # tab label reads "Files 0" — no files = nothing to download
+                try:
+                    page.wait_for_selector("#tablelibgen", timeout=45000)
+                except PWTimeout:
+                    files_tab = page.locator("a.nav-link", has_text="Files").first
+                    if files_tab.count() and "0" in (files_tab.inner_text() or ""):
+                        log(f"#{num:03d} no files for query")
+                        state[str(num)] = {"status": "no_result"}
+                        state_path.write_text(json.dumps(state, indent=1, ensure_ascii=False), encoding="utf-8")
+                        continue
+                    log(f"#{num:03d} no results table and no Files-0 label")
+                    state[str(num)] = {"status": "pending_retry"}
+                    state_path.write_text(json.dumps(state, indent=1, ensure_ascii=False), encoding="utf-8")
+                    continue
                 time.sleep(rng.uniform(2.0, 4.0))
 
                 clicked = False

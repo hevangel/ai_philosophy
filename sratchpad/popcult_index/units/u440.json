@@ -1,0 +1,38 @@
+{
+ "unit": "u440",
+ "book": "002 - The Simpsons and Philosophy - The D'oh! of Homer",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\002 - The Simpsons and Philosophy - The D'oh! of Homer",
+ "range": [
+  5,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 5,
+   "file": "ch05 - Part IV The Simpsons and the Philosophers.md",
+   "words": 29199
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Episode List.md",
+   "words": 16364
+  },
+  {
+   "n": 7,
+   "file": "ch07 - 21.md",
+   "words": 14432
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Simpsons and Philosophy.md",
+   "words": 207
+  }
+ ],
+ "content": [
+  5,
+  6,
+  7,
+  8
+ ]
+}

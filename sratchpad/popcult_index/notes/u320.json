@@ -1,0 +1,156 @@
+{
+ "book": "221 - The Philosophy of Film Noir",
+ "unit": "u320",
+ "chapters": [
+  {
+   "n": 17,
+   "file": "ch17 - Symbolism, Meaning, and Nihilism in Quentin TaranTino's Pulp Fiction.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "aristotle"
+   ],
+   "concepts": [
+    "death-of-god",
+    "aristotle-eudaimonia",
+    "nihilism"
+   ],
+   "relation": "Conard reads Pulp Fiction as a study of American nihilism in Nietzsche's 'God is dead' sense: with no transcendent framework of value, Jules and Vincent orient their lives by transient pop-culture icons (Jack Rabbit Slim's, the Fonz) and by Marsellus Wallace's arbitrary power, so the mysterious briefcase has worth only because he wills it. He contrasts this void with Aristotelian ethics, where a thing's good lies in realizing its rational essence. Jules's transformation begins when he survives the misfired shots and reinterprets his Ezekiel 25:17 recitation as a call to be 'the Shepherd,' while Butch's choice of the samurai sword over the baseball bat signals a return to an objective warrior code beyond the empty pop icons."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Part 3 Six Classic Films Noirs.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Film Noir and the Frankfurt School America as Wasteland in Edgar Ulmer's Detour.md",
+   "kind": "chapter",
+   "philosophers": [
+    "adorno",
+    "benjamin",
+    "marcuse"
+   ],
+   "concepts": [
+    "culture-industry",
+    "benjamin-aura"
+   ],
+   "relation": "Cantor argues that Ulmer's Detour deconstructs the American dream in a manner that closely parallels the Frankfurt school's culture critique. Al Roberts's westward journey toward success collapses into crime and doom, dramatizing Horkheimer and Adorno's claim in 'The Culture Industry' that Hollywood sells the masses an illusory lottery of hope (Haskell's horse 'Paradisical,' Sue's failed stardom) to reconcile them to capitalism. Cantor ties Roberts's disgust at jukebox music and his 'jazzing up' of Brahms directly to Adorno's polemics against mechanical reproduction and Benjamin's loss of the artwork's aura. He finally suggests both Ulmer and the émigré Marxists project a European elitist alienation onto an America they picture as an empty wasteland."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Knowledge, Morality, And Tragedy in The Killers and Out of the Past.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "male-gaze"
+   ],
+   "relation": "Jarvie tests whether The Killers and Out of the Past rise to tragedy in Aristotle's Poetics sense and answers no. Using Aristotle's demands for noble protagonists acting on principle, a fatal error, and a catharsis of pity and terror, he shows that Swede and Jeff are self-centered moral cowers ensnared by femmes fatales (Kitty, Kathie) whose only 'error' is sexual susceptibility, which is banal rather than tragic. He argues the films' 'personal morality' is incoherent because morality is social, and that their false-appearance mystery plots plus flippant normalizing codas (Reardon's insurance office, The Kid's lie to Ann) reassure audiences and encourage the puritanical 'sexy woman as succubus' myth instead of educing genuine catharsis."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Moral Man in the Dark City Film Noir, the Postwar Religious Revival, and The Accused.md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud"
+   ],
+   "concepts": [
+    "freud-death-drive",
+    "male-gaze"
+   ],
+   "relation": "Palmer nuances the 'dark mirror' theory of noir by recovering a redemptive subgroup, reading Dieterle's The Accused through the postwar religious revival and the writings of Reinhold Niebuhr and Erich Fromm. Where Lang's The Woman in the Window only chastens its professor via a dream, The Accused stages a genuinely penitential arc: repressed psychology professor Wilma Tuttle kills the aggressive student Bill in panic, then is therapeutically forced to relive the crime (at the prizefight and in the reenactment) until love with lawyer Warren Ford delivers her from 'separateness.' Palmer argues this patriarchal, therapeutic 'conversion'—glamorizing Loretta Young out of her mannish disguise—reconfigures Niebuhr's taming of passion and Fromm's account of love as a decision, heralding a coming 'culture of narcissism.'"
+  },
+  {
+   "n": 22,
+   "file": "ch22 - On Reason and Passion in The Maltese Falcon.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "gadamer-hermeneutics",
+    "male-gaze"
+   ],
+   "relation": "Knight argues that Sam Spade is not the dispassionate reasoner philosophy since Plato has assumed the detective to be, defending instead cognitivism about the emotions (via Solomon, de Sousa, and Damasio's Phineas Gage case). Because the hard-boiled detective enters events in media res, Spade must work hermeneutically to reconstruct the real story behind Brigid O'Shaughnessy's lies, and his judgments of trust, confidence, and loyalty fuse reason with feeling. In the climax Spade sends Brigid over for murdering Miles Archer precisely because reason and emotion together tell him he cannot trust her, whereas Brigid—the film's true cold calculator—only feigned emotion to make him her sap; Knight contrasts her with the non-fatale Vivian Rutledge of The Big Sleep."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Ride the Pink Horse Money, Mischance, Murder, and the Monads of Film Noir.md",
+   "kind": "chapter",
+   "philosophers": [
+    "schopenhauer",
+    "leibniz",
+    "plato"
+   ],
+   "concepts": [
+    "schopenhauer-will",
+    "schopenhauer-compassion",
+    "monadology"
+   ],
+   "relation": "Silver reads Robert Montgomery's Ride the Pink Horse as a prototypically noir embodiment of Schopenhauer's The World as Will and Representation. The revenge-driven Gagin, like Hugo, is enslaved to money and will—'a man can do what he wants, but not want what he wants'—and takes the limits of his own field of vision for the limits of the world, blind to the monads and Platonic-cave shadows of fate around him. Against him stand Pancho's suffering kindness and the Indian girl Pila's selfless compassion, which Silver aligns with Schopenhauer's dictum that 'compassion is the basis of all morality' and his prizing of aesthetic transcendence. The carousel (tío vivo) and the burning of Zozobra, the god of bad luck, become symbols of will's pointless circular striving from which only sacrifice and art offer escape."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Contributors.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "nihilism",
+   "name": "Nihilism",
+   "philosopher": "nietzsche",
+   "domain": "nineteenth-century",
+   "what": "The loss of all objective value and meaning that follows the collapse of a binding moral framework such as Judeo-Christian religion.",
+   "why": "Chapter 17's central thesis is that Pulp Fiction is 'about American nihilism'; the taxonomy has 'death-of-god' but no slug for nihilism itself as the resulting condition."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "catharsis-tragedy",
+   "name": "Tragedy and Catharsis",
+   "philosopher": "aristotle",
+   "domain": "ancient",
+   "what": "Aristotle's Poetics account of tragedy as a mimetic drama arousing pity and terror to effect a catharsis of those emotions.",
+   "why": "Chapter 20's entire argument turns on whether films noirs meet Aristotle's formal criteria for tragedy and catharsis, and the taxonomy has no concept slug for tragedy, catharsis, or mimesis."
+  },
+  {
+   "ch": 21,
+   "type": "philosopher",
+   "suggested_slug": "niebuhr",
+   "name": "Reinhold Niebuhr",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "American Protestant theologian of Christian realism, author of Moral Man and Immoral Society and The Irony of American History.",
+   "why": "Chapter 21 uses Niebuhr's writings on original sin, the coercive role of force, and 'man's strength and weakness' as its primary interpretive lens for The Accused, but he is absent from the taxonomy."
+  },
+  {
+   "ch": 21,
+   "type": "philosopher",
+   "suggested_slug": "fromm",
+   "name": "Erich Fromm",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Frankfurt-school social psychologist and humanist, author of The Art of Loving and The Sane Society.",
+   "why": "Chapter 21 leans on Fromm's account of separateness as the source of anxiety and love as a 'decision' to explain Wilma's redemptive coupling, but the taxonomy lists no Fromm slug."
+  }
+ ]
+}

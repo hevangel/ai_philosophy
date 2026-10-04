@@ -1,0 +1,78 @@
+{
+ "unit": "u384",
+ "book": "265 - Mark Twain and Philosophy",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\265 - Mark Twain and Philosophy",
+ "range": [
+  20,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 20,
+   "file": "ch20 - Chapter 9 Twain\u2019s Critique of Human Exceptionalism.md",
+   "words": 4400
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Part IV Literary Devices.md",
+   "words": 4
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Chapter 10 Mark Twain\u2019s Serious Humor and That Peculiar Institution.md",
+   "words": 5361
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Chapter 11 Socratic Irony in Twain\u2019s Skeptical Religious Jeremiads.md",
+   "words": 5262
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Part V Comparison to Other Philosophers.md",
+   "words": 6
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Chapter 12 The American Diogenes.md",
+   "words": 8340
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Chapter 13 An Epicurean Consideration of Superstitions in Mark Twain and in the Good Life.md",
+   "words": 5769
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Chapter 14 Moral Value and Moral Psychology in Twain\u2019s \u201cCarnival of Crime\u201d.md",
+   "words": 4739
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Chapter 15 Making the Heart Grow Fonder.md",
+   "words": 4420
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Notes.md",
+   "words": 8954
+  },
+  {
+   "n": 30,
+   "file": "ch30 - About the Editor and Contributors.md",
+   "words": 943
+  }
+ ],
+ "content": [
+  20,
+  22,
+  23,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "unit": "u297",
+ "book": "208 - X-Men and Philosophy - Astonishing Insight and Uncanny Argument in the Mutant X-Verse",
+ "part": "1/1",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\208 - X-Men and Philosophy - Astonishing Insight and Uncanny Argument in the Mutant X-Verse",
+ "range": null,
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - X-Men and Philosophy.md",
+   "words": 207
+  },
+  {
+   "n": 3,
+   "file": "ch03 - X-Men and Philosophy.md",
+   "words": 473
+  },
+  {
+   "n": 4,
+   "file": "ch04 - X-Men and Philosophy.md",
+   "words": 382
+  },
+  {
+   "n": 5,
+   "file": "ch05 - X-Men and Philosophy.md",
+   "words": 8345
+  },
+  {
+   "n": 6,
+   "file": "ch06 - X-Men and Philosophy.md",
+   "words": 32573
+  },
+  {
+   "n": 7,
+   "file": "ch07 - X-Men and Philosophy.md",
+   "words": 36437
+  },
+  {
+   "n": 8,
+   "file": "ch08 - X-Men and Philosophy.md",
+   "words": 1449
+  },
+  {
+   "n": 9,
+   "file": "ch09 - X-Men and Philosophy.md",
+   "words": 2188
+  },
+  {
+   "n": 10,
+   "file": "ch10 - X-Men and Philosophy.md",
+   "words": 68
+  },
+  {
+   "n": 11,
+   "file": "ch11 - X-Men and Philosophy.md",
+   "words": 699
+  }
+ ],
+ "content": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  11
+ ]
+}

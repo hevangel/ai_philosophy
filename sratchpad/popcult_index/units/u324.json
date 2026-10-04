@@ -1,0 +1,83 @@
+{
+ "unit": "u324",
+ "book": "223 - The Philosophy of J.J. Abrams",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\223 - The Philosophy of J.J. Abrams",
+ "range": [
+  19,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 19,
+   "file": "ch19 - The Big Score Fate, Morality, and Meaningful Life in The Killing Steven M. Sanders.md",
+   "words": 6431
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Part Four The Subject in History.md",
+   "words": 8
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Spartacus and the Second Part of the Soul Gordon Braden.md",
+   "words": 6425
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Shape of Man The Absurd and Barry Lyndon Chris P. Pliatska.md",
+   "words": 7510
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Shining and Anti-Nostalgia Postmodern Notions of History R. Barton Palmer.md",
+   "words": 7130
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Part Five The Subject of the Future.md",
+   "words": 9
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Nihilism and Freedom in the Films of Stanley Kubrick Daniel Shaw.md",
+   "words": 5638
+  },
+  {
+   "n": 26,
+   "file": "ch26 - \u201cPlease Make Me a Real Boy\u201d The Prayer of the Artificially Intelligent Jason T. Eberl.md",
+   "words": 4919
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Nietzsche\u2019s Overman as Posthuman Star Child in 2001 A Space Odyssey Jerold J. Abrams.md",
+   "words": 8004
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Filmography.md",
+   "words": 70
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Contributors.md",
+   "words": 1085
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Index.md",
+   "words": 1024
+  }
+ ],
+ "content": [
+  19,
+  21,
+  22,
+  23,
+  25,
+  26,
+  27,
+  29,
+  30
+ ]
+}

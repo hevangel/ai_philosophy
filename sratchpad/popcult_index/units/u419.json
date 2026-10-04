@@ -1,0 +1,26 @@
+{
+ "unit": "u419",
+ "book": "301 - Comics as Philosophy",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\301 - Comics as Philosophy",
+ "range": [
+  7,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 7,
+   "file": "ch07 - index.md",
+   "words": 32106
+  },
+  {
+   "n": 8,
+   "file": "ch08 - index.md",
+   "words": 2931
+  }
+ ],
+ "content": [
+  7,
+  8
+ ]
+}

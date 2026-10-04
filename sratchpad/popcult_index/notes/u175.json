@@ -1,0 +1,268 @@
+{
+ "book": "112 - The Americans and Philosophy - Reds in the Bed",
+ "unit": "u175",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Half Title.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Series.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Acknowledgements.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - 1 Introduction.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "locke",
+    "rousseau",
+    "marx",
+    "mills",
+    "aristotle",
+    "walzer",
+    "mackinnon",
+    "dubois"
+   ],
+   "concepts": [
+    "social-contract",
+    "racial-contract",
+    "class-struggle",
+    "feminism"
+   ],
+   "relation": "Smith introduces his project of explaining the subordination of women and blacks philosophically and empirically by comparing the social contract liberalism of Hobbes, Locke and Rousseau with Marxism, building on Carole Pateman's Sexual Contract and Charles Mills's Racial Contract/Contract and Domination, which show the classic contracts were male supremacist and white supremacist. He argues sexual and racial egalitarianism is about politics and power, cataloguing nine power bases women and blacks should acquire, and stresses that because family and state are historically connected (Aristotle's Politics, Hobbes's 'little kingdoms', Locke's conjugal society, Rousseau's family as the oldest society, Engels's 'first class oppression' of the female by the male), equality in marriage may be a precondition for equality in society. He defends Marxism against Mills's dismissal of it as moribund, endorses MacKinnon's linking of sexism and racism while arguing (with Linda LaRue and Du Bois) that the racial contract has been more tyrannical than the sexual contract, and closes with Walzer's definition of egalitarianism as a society free of domination."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 2 Power and Politics.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx",
+    "aristotle",
+    "machiavelli",
+    "hobbes",
+    "locke",
+    "rousseau",
+    "russell",
+    "popper",
+    "mackinnon",
+    "max-weber"
+   ],
+   "concepts": [
+    "class-struggle",
+    "marx-ideology",
+    "historical-materialism",
+    "machiavelli-virtu"
+   ],
+   "relation": "The chapter traces politics from the classical ethics-fused view (Aristotle's Politics, where politics exists for the sake of the good life yet also supplies one of the first justifications of patriarchy and the public/private split) to the Machiavelli-Hobbes break where politics becomes simply the possession and exercise of power, adopting Bertrand Russell's claim that power is the fundamental concept of social science. It then builds the book's central instrument, a Weber-derived analysis of nine power bases (money, knowledge/technology/information, religion, morality, authority, charisma, size/solidarity, violence, status), contrasting the Marxian reading - money as ultimately determinative, the ruling ideas of each age as the ideas of the ruling class, religion as the opium of the people, the state as a committee for managing bourgeois affairs - with the liberal-Weberian reading in which no single base is decisive. It closes by showing that Hobbes, Locke, Rousseau and Marx divide over the morality of egalitarianism (Popper's Marx moved by moral impulse versus Locke's possessive individualism), and that power is domain-specific, inert until used, skill-dependent and always relative."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 3 On the Origin of the Family.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "locke",
+    "rousseau",
+    "marx",
+    "mill",
+    "firestone"
+   ],
+   "concepts": [
+    "social-contract",
+    "historical-materialism",
+    "mill-subjection-women",
+    "dialectic-of-sex"
+   ],
+   "relation": "The chapter compares the liberal contract theorists with Engels (building on Morgan's Ancient Society) on the origin of the patriarchal monogamous family: Hobbes derives sovereign-husbanded 'little monarchies' from a state of nature in which women are men's equals, a derivation Susan Okin shows is contradictory; Locke grounds conjugal society in a voluntary compact with the husband as 'abler and stronger' last determiner, yet leaves women excluded from the social contract; Rousseau pairs passionate economic equality with some of the most sexist writing in Western thought, including fear of wives' sexual power in Emile. Against these static philosophies Engels gives a historical-materialist account in which the overthrow of mother right - the 'world historical defeat of the female sex' - followed from private property and inheritance, turning the bourgeois wife into a proletarian or prostitute while opening 'sex love' to the propertyless, and prescribing women's return to the labor force, socialized child-care, industrialized housework and easy divorce. John Stuart Mill's Subjection of Women appears as liberalism's one exception to its sexism, and a footnote sets Firestone's biological account of patriarchy against Engels's property account."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 4 On the Origin of the State.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "hobbes",
+    "rousseau",
+    "marx",
+    "mill",
+    "kant",
+    "hegel",
+    "hume"
+   ],
+   "concepts": [
+    "social-contract",
+    "state-of-nature",
+    "locke-labor-property",
+    "rousseau-social-contract"
+   ],
+   "relation": "Opening with Newt Gingrich's complaint that students 'don't read enough Locke' and the Chinese premier's appeal to Rousseau, the chapter compares the three contract theorists' states of nature and purposes of government: Hobbes's war of every man against every man yielding an absolute sovereign with no separation of powers, Locke's peaceful nature in which mixing labor with land creates property and money then creates inequality, so that government's 'great and chief end' is protecting property through limited, separated powers and no food stamps, and Rousseau's compassionate natural humans corrupted when the first man enclosed land, so the state was founded on fraud and a general will that should 'force him to be free' and give people food stamps. Smith then reads the actual US founding as a chaste Lockean contract 'bastardized' on race and sex - the Declaration plagiarized from Locke, Abigail Adams's 'remember the ladies' laughed off, Dred Scott, with the 14th Amendment as the de-bastardizing 'Charter of Universal Freedom' - while Engels derives the state historically from the Iroquois and Greek gens, private property and class conflict. A final section documents white supremacy inside the tradition (Kant inventing the scientific concept of race, Hegel and Hume on Black inferiority), John Stuart Mill's 'Negro Question' as the tradition's decisive anti-racist break, Locke's own entanglements with the slave trade, and Marx's condemnation of slavery as super-exploitation."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 5 The Changing Bases of Sexual Politics, 1960–2020.md",
+   "kind": "chapter",
+   "philosophers": [
+    "friedan",
+    "locke",
+    "marx"
+   ],
+   "concepts": [
+    "feminine-mystique",
+    "feminism"
+   ],
+   "relation": "Measuring women's progress since 1960 by access to the nine power bases, the chapter shows women using the size/solidarity base to launch the modern feminist movement - Betty Friedan's The Feminine Mystique as its manifesto, NOW as its vehicle, Ms. as its outlet and Gloria Steinem as its charismatic leader - and how law followed: the accidental Smith amendment adding sex to the 1964 Civil Rights Act, Reed and Frontiero subjecting sex classifications to scrutiny under the 14th Amendment, Griswold and Roe/Casey making reproductive control (which Justice Blackmun called 'necessary for the complete emancipation of women') a condition of women's power, and the 1970s no-fault divorce revolution that Engels's liberation program had demanded. It then charts each base statistically: the narrowing labor-force and wage gaps, women's still minor share of the bourgeoisie, the reversal of the college gender gap and Women's Studies programs built on the Black Studies model, women's entry into cabinet, Court, Congress, clergy and the military, secularization that weakens the religion base behind Elizabeth Cady Stanton's old challenge, and a new moral consensus that unequal treatment of women is wrong."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 6 Wives and Husbands The Marital Power Struggle.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "marx",
+    "hobbes",
+    "rousseau",
+    "beauvoir",
+    "mackinnon",
+    "firestone"
+   ],
+   "concepts": [
+    "feminism",
+    "objectification",
+    "dialectic-of-sex"
+   ],
+   "relation": "Taking Susan Okin's 'the personal is political' and Kate Millett's Weberian herrschaft against Locke's public/private dichotomy, the chapter reviews the empirical studies of marital power (Blood and Wolfe, Blumstein and Schwarz, Steil) and finds money is the master base in marriage: the husband's income and occupational prestige set his say, working wives gain power but couples conspire to understate wives' earnings ('manning up and womaning down'), while knowledge and status are the next strongest resources. Authority from religion, tradition and morality still favors husbands (Ephesians' 'wives submit yourselves unto your husbands' alongside the philosophers' 'abler and stronger'), violence persists from the rule of thumb to marital rape and murder despite legal change, housework remains women's burden - Beauvoir's never-won 'battle against dust', Engels's 'leaden boredom', Davis's industrialization proposal and Okin's demand that it be shared - and sex itself works as a power base in the bedroom, with MacKinnon diagnosing heterosexuality as the linchpin of gender inequality. The chapter ends with black couples' comparatively egalitarian patterns traced by Angela Davis to slave-quarters equality, Schwarz's rare 'peer marriages', and the Marxist (Okin, the Swedish model) versus liberal (Wilson, the Japanese model) readings of family change."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 7 The Bourgeoisie and the Blacks.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx",
+    "dubois",
+    "locke"
+   ],
+   "concepts": [
+    "class-struggle",
+    "historical-materialism",
+    "racial-contract",
+    "arendt-totalitarianism"
+   ],
+   "relation": "The chapter sets business - the US bourgeoisie whose privileged position Charles Beard read into the Constitution and which survived the Jacksonian and New Deal challenges by breaking labor through Taft-Hartley, right-to-work laws and the PATCO lockout, its solidarity secured while worker solidarity was undercut by what Marx called the Achilles heel of racism - against blacks as the paradigmatic powerless, shut out of every power base since slavery, which the chapter treats with Baptist and Marx's 1846 letter as a totalitarian system of super-exploited, tortured labor that built American capitalism, its neo-slavery progeny (Blackmon) pauperizing the black community under Dred Scott's 'subordinate and inferior class of beings'. It then narrates black counter-power base by base: the abolitionist interracial coalition wielding charisma (Douglass, Nat Turner, John Brown), information, morality and religion; the NAACP era and King's fusion of charisma, church religion, Myrdal's An American Dilemma and televised nonviolent provocation against Bull Connor's violence, contested by Malcolm X, SNCC and the Black Panthers; and a post-civil-rights scorecard showing a wealth base 94.2 percent white, persistent education and media gaps, constrained black officials from mayors to the symbolic Obama presidency, and a captive but potentially leveraged black vote in a 'Sisyphean' struggle."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 8 Conclusion.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx",
+    "locke",
+    "rousseau"
+   ],
+   "concepts": [
+    "class-struggle",
+    "state-of-nature"
+   ],
+   "relation": "The conclusion restates the book's method - centering political philosophy in a consciously normative, empirical study of power - around its two contrasts: the family as a natural, subordination-requiring institution in liberalism versus a property-rooted, historically determined one in Marxism, and the state as a freely agreed contract of all (Locke, hence no food stamps) versus what actually happened, a charter 'ordained and established by a small group of wealthy white men, meeting in secret' to protect their wealth, so that the state which created gender and racial inequality must now play an equally decisive role in undoing it. Reviewing the nine bases since the 1960s, it finds women have closed the knowledge gap and nearly completed Engels's liberation program except universal child-care and non-exploitative housework, against conservative marriage-movement scholars like the Lockean Yenor, while blacks still face a tripling wealth gap that only social democratic capitalism on the Danish model plus comprehensive reparations can close - the latter argued on the moral base of power, Congress's 2009 apology, and Bernard Boxill's Lockean inheritance argument for a decades-long 'Reparations Superfund' as the civil rights issue of the 21st century."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 9,
+   "type": "concept",
+   "suggested_slug": "sexual-contract",
+   "name": "The Sexual Contract",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Carole Pateman's thesis that the classic social contract presupposed a prior sexual contract subordinating women to men, which together with Charles Mills's racial contract forms the 'domination contract'.",
+   "why": "Chapter 9's entire theoretical frame is Pateman's Sexual Contract joined to Mills's Racial Contract, and later chapters apply it to the marriage contract, but the taxonomy only contains the racial half of the pair."
+  },
+  {
+   "ch": 10,
+   "type": "philosopher",
+   "suggested_slug": "max-weber",
+   "name": "Max Weber",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "German sociologist and founder of modern social science who defined power as the chance to realize one's will against resistance and analyzed class, status and party, charisma and legal-rational authority as the distributions of power.",
+   "why": "Chapter 10 states that its nine bases of power are 'an elaboration of Weber's ideas', and his definitions of power, charisma, authority and status carry the chapter's whole argument, yet he is absent from the taxonomy."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "reparative-justice",
+   "name": "Reparations (rectificatory justice)",
+   "philosopher": "locke",
+   "domain": "political-social",
+   "what": "The principle that victims of historical injustice and their descendants are owed compensation for wrongs such as slavery, segregation and neo-slavery.",
+   "why": "Chapter 16's concluding case for a 'Reparations Superfund' rests on the moral base of power and Bernard Boxill's Lockean inheritance argument, a conception of justice no existing taxonomy slug covers."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "social-democracy",
+   "name": "Democratic Socialism / Social Democracy",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "A regime keeping a regulated market economy but adding steep progressive taxation, strong unions and a universal welfare state, explicitly distinct from Marxist abolition of private property and central planning.",
+   "why": "Chapter 16's positive prescription - the Danish model of 'social democratic capitalism' as the realistic path to gender and racial equality in place of Marx's communism - names a distinct position with no taxonomy slug."
+  }
+ ]
+}

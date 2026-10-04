@@ -1,0 +1,290 @@
+{
+ "book": "049 - Zombies, Vampires, and Philosophy - New Life for the Undead",
+ "unit": "u079",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Zombies, Vampires, and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Popular Culture and Philosophy Series Editor George A. Reisch.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - A New Lease of Life for the Undead.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "spinoza"
+   ],
+   "concepts": [
+    "ubermensch",
+    "spinoza-monism"
+   ],
+   "relation": "The editors' introduction surveys the twenty-first-century zombie and vampire boom (Twilight, True Blood, Zombieland, Fido, Pride and Prejudice and Zombies, zombie walks, Humans Versus Zombies) and asks why the Undead fascinate us when bears would not. Its answer contrasts the vampire, who embodies a Nietzschean super-humanity beyond good and evil still charged with unheeded guilt, with the zombie, a sub-Nietzschean, Spinozan force of decomposition where matter interacts with matter beyond all morality. Zombies thus work as hyperdead memento mori: imagining zombiehood lets us imagine our own annihilation as entry into a condition of liberated power, while the obviously unreal monster helps us shut out the real terrors it reflects."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - PART I - It’s Alive (Sort Of).md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Not to Put Too Fine a Point on It.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nagel",
+    "williams",
+    "epicurus",
+    "mill"
+   ],
+   "concepts": [
+    "epicurean-death",
+    "higher-lower-pleasures"
+   ],
+   "relation": "Richard Greene asks why becoming Undead is bad for the one who becomes Undead, and why it seems worse than death, testing vampire and zombie cases against the standard accounts of death's badness. Epicurus's 'death is nothing to us' sets the experiential-blank frame, but Nagel's deprivation view fails because immortal vampires lose far fewer goods than they gain, and Williams's desire-frustration view fails because zombification replaces desires (scotch for blood) rather than frustrating cancelled ones. Mill's 'better Socrates dissatisfied than a pig satisfied' comparison also falls short since it yields only comparative, not objective, badness; Greene concludes Undeath is dreaded because the Undead do evil things, but no argument shows it is objectively bad, so one might as well make the best of it."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Dead People.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "locke"
+   ],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity",
+    "cartesian-dualism"
+   ],
+   "relation": "William Larkin pits Descartes's res cogitans (the person as psychological continuum, reinforced by Locke's prince-and-cobbler body-switch) against a res corporealis view in which bodily continuity suffices for identity, using Romero's Dead films as intuition pumps. The terror of Roger's 'I don't want to be walking around like that' and Rain's request in Resident Evil only makes sense if we think it would be us rising as zombies, and the tragedy of Karen Cooper devouring her father or Johnny menaging Barbara only lands if the same person persists. Against the 'just dead flesh' scientists and the mall-memory reading of Dawn, he argues zombie psychology is merely residual instinct, so our fear and pity reveal we really believe persons survive as corpses, hence as bodies, not as minds."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Zombies and Us.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "parfit",
+    "locke"
+   ],
+   "concepts": [
+    "hume-bundle",
+    "personal-identity",
+    "locke-personal-identity"
+   ],
+   "relation": "Hamish Thompson asks what could justify killing zombies, canvassing self-defense, total-brain-death criteria, and release from obligations to a radically altered person, using Shaun of the Dead's mother-killing, Bub's trained shooting in Day of the Dead, White Zombie's piano-playing heroine, and the pod-people substitutions of Invasion of the Body Snatchers. He deploys Hume's bundle theory of the self as a fiction of succeeding perceptions and Parfit's graded psychological continuity (with Locke's prince/cobbler case) to argue identity comes in degrees, so zombie termination is never as clean as the genre pretends. The chapter ends by turning the lens around: Shaun's checkout-line beepers and Ed's sofa-and-video-game existence suggest ordinary lives differ from zombiehood only by intermittent acts of imaginative self-direction."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Resting in Peace.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "natural-kinds"
+   ],
+   "relation": "Manuel Vargas asks whether the Undead could really be evil and answers that they are probably less likely to be evil than any random living person. Working from a conceptual analysis of what counts as Undead (ruling out p-zombies and Rob Zombie alike), he distinguishes natural-origin Undead (viruses, seeds) from supernatural ones, then applies the account of evil as acting from non-instrumental desires to harm: classical zombies lack the capacities for evil, and even vampires' black reputation traces less to malice than to the creepiness of needing blood, the Dracula/Vlad the Impaler lineage, and lazy 'creepy equals evil' reasoning."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Do Androids Dream of Electric Sheep.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "chalmers",
+    "searle",
+    "kripke",
+    "turing"
+   ],
+   "concepts": [
+    "philosophical-zombies",
+    "cartesian-dualism",
+    "hard-problem"
+   ],
+   "relation": "Larry Hauser reads Blade Runner's replicants alongside the philosophical-zombie thought experiment: like Rachel, who passes as human until a Voigt-Kampff test, zombies are outwardly perfect replicas with 'nobody home' inside. He traces the problem from Descartes's beast-automata and hats-and-coats worry about other minds, through Turing's universal machines and Kripke's necessary identifications (water is H2O), to the way zombie scenarios devour behaviorism, functionalism, and mind-brain identity theory, using Searle's silicon-chip replacement to imagine consciousness shrinking while behavior continues. His own 'familiar' and 'super-smart' zombies (a beloved with no qualia, NEXUS-9 geniuses) argue thought without felt experience is conceivable, before he concludes the phenomenal-zombie conception may self-destruct because a first-person point of view requires the very qualia it strips away."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - PART II - Undead White Males.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Heil Heidegger Dracula’s Willing Executioners.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger"
+   ],
+   "concepts": [
+    "being-toward-death",
+    "authenticity",
+    "das-man"
+   ],
+   "relation": "Adam Barrows reads Stoker's Dracula through Being and Time: Stoker's staking of Lucy is framed as liberating the 'true' human from the 'false' Undead, and Mina urges pity on the trapped soul, exactly the structure of Heidegger's claim that only facing one's own death alone makes life a bounded, authentic whole. Dracula emerges as the inauthentic 'they' incarnate, with no reflection in mirrors, no fixed likeness in portraits, and a seduction of tranquilizing delay that mirrors how das Man lulls the dying away from their death, so vampire hunting becomes a philosophical task of forcing authenticity on the deathless. The chapter then reverses the charge: given Heidegger's Nazism, Van Helsing's gleeful 'butcher work' and the hunters' expulsion of 'inauthentic' beings from ontological purity implicate audiences as Dracula's 'willing executioners' in a ritual with chilling fascist overtones."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - “Hey, Let’s Get the Stuff We Need!” Putting the Mall in Its Place.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Matthew Walker reads Dawn of the Dead's survivors, who loot the mall, gorge, grow bored, and degenerate into glitzy despair beside the zombies clawing to get back in, through Aristotle's Nicomachean Ethics and Politics. Peter's 'They're us' is glossed by pleonexia, the grasping disposition to want more, which Aristotle roots in being serious about mere living rather than living well, and the quartet's hedonistic 'sweet life' is the life of enjoyment Aristotle dismisses as fit for cattle because it atrophies the rational capacities that make us human. Romero is no Puritan scold: material goods remain instrumentally useful and the mall a sanctuary, but like Aristotle he shows a life of unlimited acquisition is a kind of living death, which is why Peter and Fran must leave empty-handed."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Fast Zombies.md",
+   "kind": "chapter",
+   "philosophers": [
+    "spinoza",
+    "deleuze"
+   ],
+   "concepts": [
+    "spinoza-monism",
+    "the-uncanny"
+   ],
+   "relation": "K. Silem Mohammad explains the classic slow zombie via Spinoza's account of bodies defined by ratios of motion and rest, where death is no absolute state but a redisposition of parts, so voodoo zombies at industrial modernity's dawn figure alienated labor and Romero's ghouls an impersonal, relentless compulsion. Through Deleuze's reading of composition and decomposition, zombie feeding becomes an ethological process of absorbing other bodies' relations, and Spinoza's replacement of good/evil with good/bad (anticipating Nietzsche) dissolves the zombie's supposed evil into 'bad encounters' between bodies. The fast zombies of 28 Days Later and the Dawn remake then mark a shift from Freudian uncanny return to full-blown crisis: pure rage without hunger or grievance, bodies in faster motion, leaving us an impossible identification with the composition that will decompose us."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - PART III - Dirty Rotting Scoundrels.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Postmodern Postmortem.md",
+   "kind": "chapter",
+   "philosophers": [
+    "chalmers",
+    "seneca"
+   ],
+   "concepts": [
+    "philosophical-zombies"
+   ],
+   "relation": "Dale Jacquette distinguishes Hollywood zombies from Chalmers's philosophical zombies, imagining birthmarked beings whose behavior is run entirely by the brain stem so they speak, run corporations, and bleed like conscios while feeling nothing. He then proposes zombie gladiators: since amoral automata cannot suffer or anticipate death, arena blood sport between them seems morally permissible where Roman games condemned by Seneca were not. The thought experiment turns on itself: shielding conscios from attachments and vicarious suffering cannot cure the institution's symbolic statement that killing human-shaped beings for entertainment is fine, so even if consciousness grounds moral responsibility, how we treat the unconscious still reflects on us, and zombies can be wronged in the only sense left, through what we make ourselves."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Universal Rights Vampires, Space Aliens, Robots, and Humans.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-psychology",
+    "punishment-theory"
+   ],
+   "relation": "John Draeger argues Romero's catatonic zombies, like plants, lack the cognition and empathy to be blamed, while vampires split: Stoker's narcissistic Dracula resembles Cleckley's amoral psychopath Milt, but Coppola's remorseful Dracula, Anne Rice's guilt-tormented Louis, and the self-deceiving Lestat ('the trick is not to think about it') all grasp consequences, feel others' pain, and can exercise self-control, so they are immoral rather than amoral and accountable for their killings. Accountability brings rights: Van Helsing's summary staking is vigilantism that denies Dracula a fair trial, rehabilitable vampires like Louis might earn civic participation, and a nonviolent, honest vampire suitor cannot be rejected merely for being Undead. The principle generalizes to aliens and robots: whatever can reflect morally must be held responsible and treated with equal dignity."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Cold Clammy Consistency.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-practical-wisdom",
+    "aristotle-virtue-ethics",
+    "food-ethics",
+    "golden-rule"
+   ],
+   "relation": "Wayne Yuen argues vampires are moral agents because they meet Aristotle's test of practical wisdom (Lestat's investments and his judgment that 'evildoers... taste better') and retain free will, since their blood-lust is a craving not a compulsion and Louis's rat diet in Interview with the Vampire, like Angel's in Buffy, proves an alternative exists. TASTE, full potential, and spiritual peace all fail to justify human blood, because killing a person brings more unnecessary suffering than killing a rat, the same suffering-based principle that condemns factory farming. The 'cold clammy consistency' punchline: since humans need not eat meat, condemning vampire blood-drinkers while dining on chicken, pork, and beef is hypocrisy, because we are vampiric too and only our choice of which life to ingest separates the monstrous from the virtuous."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Good Guy Vampires.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "aristotle"
+   ],
+   "concepts": [
+    "higher-lower-pleasures",
+    "cartesian-dualism",
+    "utilitarianism"
+   ],
+   "relation": "Robert Arp models the vampire's unlife with substance and property dualism (a cursed soul persisting after the staked body in Rice and Stoker versus perishing with it in Blade), then uses Mill's distinction between lower bodily feelings and higher mental pleasures from Utilitarianism to explain how vampires can lament, in higher-pain, their inability to enjoy wind in their hair or wine. The hedonistic paradox dooms Lestat-style pleasure-seekers: seeking pleasure for its own sake yields either the pain of frustration (Louis's dead-twins trick) or boredom across immortal lifetimes ('it's somewhat boring, living forever'), while Aristotle's completed-state pleasures suggest the way out. Good guy vampires from Barnabas Collins to St. Germain escape the paradox by pursuing higher pleasures and activities for their own sake, confirming Mill's closing counsel that only those fixed on objects other than their own pleasure find happiness."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "natural-kinds",
+   "name": "Natural and Nominal Kinds",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The distinction between kinds whose unity exists independently of us (water, electrons) and kinds unified only by our stipulations and classificatory practices.",
+   "why": "Chapter 10's central metaphysical claim is that the Undead form a nominal rather than natural kind, a motley assortment unified by our concept, which underwrites Vargas's argument that zombies, vampires, and composite Undead differ too much to share an evil nature."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "malevolent-evil",
+   "name": "Malevolent Evil (non-instrumental desire to harm)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Evil understood as acting on a non-instrumental desire to damage others' welfare, distinct from ordinary wrongdoing and explicitly distinguished from the theological problem of evil.",
+   "why": "Chapter 10 defines the evil traditionally ascribed to the Undead this way and then argues most Undead, above all zombies driven by instrumental hunger, lack the very motives required for it, so they are dangerous but not evil."
+  },
+  {
+   "ch": 15,
+   "type": "philosopher",
+   "suggested_slug": "freud",
+   "name": "Sigmund Freud",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Founder of psychoanalysis, theorist of the repressed unconscious, whose account of the uncanny explains why the return of the familiar-as-dead terrifies us.",
+   "why": "Chapter 15 invokes Freud's theory of the uncanny to explain the horror of the slow zombie: the dead body's suppressed but familiar motion returning to us in disturbing, unbidden recurrence."
+  },
+  {
+   "ch": 15,
+   "type": "concept",
+   "suggested_slug": "the-uncanny",
+   "name": "The Uncanny (das Unheimliche)",
+   "philosopher": "freud",
+   "domain": "mind-language-metaphysics",
+   "what": "Freud's class of the terrifying that leads back to something long familiar: repressed, once-comfortable material returning unbidden, epitomized by the return of the dead.",
+   "why": "Chapter 15's first half grounds the slow zombie's creeping horror in the uncanny, so that the later fast zombie can be measured as a break from uncanny repression into open social crisis."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "concept-of-evil",
+   "name": "The Concept of Evil",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Analyses of evil as profoundly bad conduct or as acting from non-instrumental desires to harm others.",
+   "why": "Vargas's Undead-evil chapter turns entirely on the analysis of evil as a moral concept."
+  }
+ ]
+}

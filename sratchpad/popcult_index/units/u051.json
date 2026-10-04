@@ -1,0 +1,107 @@
+{
+ "unit": "u051",
+ "book": "032 - Bruce Springsteen and Philosophy - Darkness on the Edge of Truth",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\032 - Bruce Springsteen and Philosophy - Darkness on the Edge of Truth",
+ "range": [
+  20,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 20,
+   "file": "ch20 - Celebrating Transience.md",
+   "words": 4122
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Back from the Edge.md",
+   "words": 4625
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Hometown Security.md",
+   "words": 3439
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Moments of Redemption.md",
+   "words": 4296
+  },
+  {
+   "n": 24,
+   "file": "ch24 - IV - Tom Joad\u2019s Ghosts.md",
+   "words": 5
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Driftin\u2019 Off to a Foreign Land.md",
+   "words": 5455
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Final Word That\u2019s Right, I Said Preliminary Thoughts.md",
+   "words": 4567
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Lonesome Day.md",
+   "words": 4032
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Springsteen\u2019s Martyrdom.md",
+   "words": 7614
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Epilogue.md",
+   "words": 8320
+  },
+  {
+   "n": 30,
+   "file": "ch30 - V - Greetings from . ..md",
+   "words": 3
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Things.md",
+   "words": 1215
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Hey, That\u2019s Me.md",
+   "words": 1497
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Index.md",
+   "words": 2272
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Bruce Springsteen and Philosophy.md",
+   "words": 3394
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Copyright Page.md",
+   "words": 194
+  }
+ ],
+ "content": [
+  20,
+  21,
+  22,
+  23,
+  25,
+  26,
+  27,
+  28,
+  29,
+  31,
+  32,
+  33,
+  34
+ ]
+}

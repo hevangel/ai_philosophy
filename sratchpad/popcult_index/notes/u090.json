@@ -1,0 +1,446 @@
+{
+ "book": "056 - Dune and Philosophy - Weirding Way of the Mentat",
+ "unit": "u090",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - part0002.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Popular Culture and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Invitation.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "A fictional editor's preface presenting the volume as speeches recovered from the Bene Gesserit Archives and the ruins of Dar-es-Balat, gathered for the ten-thousandth anniversary of Leto II's transformation into the God Emperor. It sets up the book's framing conceit: the essays are in-universe commemorations of Paul, Duncan Idaho, and the Dune-times, written by authors who look back in fascination at 'those legendary philosophies' of ancient Earth."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Ecology of Muad’Dib.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - The End of the Story.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "plato"
+   ],
+   "concepts": [
+    "aristotle-practical-wisdom",
+    "aristotle-eudaimonia",
+    "climate-ethics"
+   ],
+   "relation": "Reads the Gom Jabbar test as Herbert's definition of humanity: Paul endures Mohiam's pain box because a human stays in the trap to turn it on the trapper and protect the species, while an animal only chews off its own leg. The Butlerian Jihad's ban on 'a machine in the likeness of a man's mind' is applied to our own iPod-and-PDA dependence, with Mentat Thufir Hawat showing that losing the machine-crutch 'forced human minds to develop,' in line with Aristotle's phronesis and the politics of the common good (and Plato's contemplation as the core of happiness). The chapter closes by turning the human/animal test on the modern West—Baron Harkonnen-like consumers whose water-hungry beef habit makes us the trap of our own environmental collapse."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The (Single) Garden Path.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "mill",
+    "machiavelli",
+    "plato"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "categorical-imperative",
+    "machiavelli-ends"
+   ],
+   "relation": "Compares Herbert's three eugenics programs: the Bene Gesserit's centuries-long Kwisatz Haderach breeding scheme (explicitly modeled on the communal breeding of the guardians in Plato's Republic, undone when Jessica bears Paul a generation early and he escapes their control), Leto II's Golden Path breeding for Siona's invisibility to prescience, and the Tleilaxu axolotl-tank immortality that collapses when their Face Dancers out-mimic them. Each program is weighed ethically—Leto as the 'ultimate consequentialist' whose species-saving tyranny invokes Mill's utilitarianism and Machiavelli's ends-justify-the-means, the Sisterhood as shifting toward Kantian duties against using persons as mere means. Herbert's lesson: 'the most dangerous of all creations is a rigid code of ethics,' whether aimed at a single person, a single result, or a single agenda."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - From the Deserts of Arrakis to the Deserts of Earth.md",
+   "kind": "chapter",
+   "philosophers": [
+    "clausewitz"
+   ],
+   "concepts": [],
+   "relation": "Built entirely on Clausewitz's 'remarkable trinity'—the balance of people, military, and government—as the framework for war in Dune: Duke Leto's plan to win Fremen support on Arrakis, Muad'Dib's defusal of the Stilgar leadership challenge as a model of trinity-balancing in irregular warfare, and the messianic goal-inflation that unbalances the trinity and unleashes the jihad that kills sixty-one billion. The author, a US Army officer writing as a Mentat of Leto II, applies the same lesson to Afghanistan and post-Saddam Iraq: without a clear, achievable political goal, military force produces unintended consequences no Kwisatz Haderach could fully control."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Intending the Way Out.md",
+   "kind": "chapter",
+   "philosophers": [
+    "boethius",
+    "aquinas",
+    "anscombe",
+    "plato",
+    "richard-taylor"
+   ],
+   "concepts": [
+    "fate-vs-free-will",
+    "boethius-consolation",
+    "free-will-determinism"
+   ],
+   "relation": "Stages the paradox of foreknowledge through Paul's prescient dream of meeting Chani and his futile struggle against the foreseen jihad: since knowledge (on Plato's justified-true-belief account) is factive, a known future seems unalterable. It tests the classic escapes—Boethius's God in ever-present eternity and Aquinas's seeing all time 'under the aspect of eternity,' Laplace's demon, Richard Taylor's fatalism—and finds the Atreides oracles are no gods, only probabilistic predictors whose visions fix the possibilities they see. The way out is Anscombe's Intention: like God knowing creation because He authored it, Paul and Leto know their futures practically, as agents whose intentions help decide which possibilities become actual, so freedom survives as terrific responsibility."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Politics of Muad’Dib.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Jihadist Way of Life.md",
+   "kind": "chapter",
+   "philosophers": [
+    "emerson",
+    "dewey"
+   ],
+   "concepts": [
+    "emerson-self-reliance",
+    "dewey-democracy",
+    "pragmatism"
+   ],
+   "relation": "Argues the Fremen are 'shockingly American': their Spannungsbogen self-discipline, spiritual self-sufficiency, and endurance of hardship exemplify Emerson's self-reliance, while the jihad's aim of razing the rule of the Great Houses into relations of equals echoes Dewey's democracy as a way of life—faith in the potentialities of every human nature. The parallel runs through the 'American Taliban' John Walker Lindh and Paul's blind walk into the desert, both acting on values Americans prize. Herbert's remark that people surrender judgment to leaders 'wrapped in the myth fabric of society' grounds the pragmatist point that Fremen myth-making, like America's exceptionalist self-image, works—and Alia's 'my brother is pragmatic' seals it."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Leto’s Not So Golden Path.md",
+   "kind": "chapter",
+   "philosophers": [
+    "habermas"
+   ],
+   "concepts": [
+    "democracy-theory"
+   ],
+   "relation": "Diagnoses the Duniverse's recurring collapse not, as Herbert's 'Dune Genesis' has it, in hero-worship, but in rule conducted entirely through strategic action—Habermas's term for goal-oriented, self-interested rationality—as when even the Atreides council discusses only the appearance of a constitution rather than its legitimacy. Physical stability enforced by threats never becomes normative stability: Corrino, Paul's jihad-empire, and Leto II's 3,500-year tyranny all fail because their subjects are never authors of the law, and Leto's return to Bene Gesserit-style breeding programs ignores humanity's deliberative potential. The proposed remedy is democracy—rule by the people—even against Alia's cry that 'Atreides power must never be marginalized by the chaos of democracy.'"
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Spice as the Vehicle of Power.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes"
+   ],
+   "concepts": [
+    "state-of-nature",
+    "social-contract"
+   ],
+   "relation": "Reads the Duniverse as Hobbes's state of nature at galactic scale: Emperor, Landsraad houses, Guild, Bene Gesserit, and Tleilaxu are rationally self-preserving factions in a war of all against all over scarce spice, where 'justice' names only what enforcement power backs and life for the losers is 'solitary, poor, nasty, brutish, and short.' Leto II is the Leviathan—a literal 'mortal God,' half sandworm—whose spice monopoly and fusion of political with spiritual authority impose a forced peace; his assassination then shows split authority re-igniting the conflict in the Scattering and the Honored Matres. Paul's threat to destroy the spice and Leto's hoarding both illustrate that the power to destroy a thing is absolute control over it."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Ethics of Muad’Dib.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Spice of Meaning.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "meaning-of-life",
+    "aristotle-virtue-ethics",
+    "aristotle-practical-wisdom"
+   ],
+   "relation": "Mines Dune for an account of the meaningful life by contrasting the Harkonnens, who amass power for its own sake and grind Yueh's very identity to dust, with the Fremen, whose rigid rituals give meaning but suffocate anyone who lives entirely inside them—with Duke Leto's abolition of the beggars' water-towel custom as the failure case in between. Following Aristotle's method of starting from 'the views of the wise,' the chapter argues virtue is an open-ended, formulaless skill: rising above inherited identities while repairing the social bonds they sustain, as Paul and Jessica do by breaking selected Fremen rules and leaving the sietch stronger. The worm-rider, feet shifting on sand above a creature that can never be fully controlled, is the closing image of a struggle that never finally resolves."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Alone into the Desert.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "aristotle",
+    "plato"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "socratic-ignorance",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Audits Duniverse lives by Socrates's standard—the condition of the soul over wealth and power, with justice, courage, temperance, and wisdom—finding Baron Harkonnen utterly wanting, 'Leto the Just' compromised by forgery and concubinage, Paul unjust in his myth-making holy war (though Plato's Republic would smile on ruling myths), and the Fremen admirable in temperance and courage but fatally sure of themselves where Socrates prized knowing that you do not know. Aristotle's function argument and golden mean follow: Paul's first worm-ride is courage between rashness and cowardice, but Paul's and Leto II's extreme, humanity-saving selflessness has no excess to moderate and so breaks the doctrine of the mean. The author concludes Socrates is too harsh and Aristotle closer, yet even he fails: sometimes the best life requires extreme virtue and even injustice, as with the two Atreides emperors."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Emergence of Good from Evil.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mackie",
+    "john-hick"
+   ],
+   "concepts": [
+    "problem-of-evil"
+   ],
+   "relation": "Uses David Lynch's film—Baron Harkonnen as evil personified, Paul's prophetic dreams as biblical revelation, 'the sleeper must awaken'—to stage the problem of evil: if God is omnipotent, omniscient, and wholly good, why do Harkonnens and man-eating worms exist? It lays out the free will defense, J.L. Mackie's objection that God could have created beings who always freely choose good, and the moral/natural evil distinction (Feyd's poisoned blade versus the worm destroying the spice crawler), then extracts the film's own alternative theodicy: good is defined against evil, since the Fremen's dormant 'goodness' awakens only in the struggle Paul leads against their enslavers. The chapter ends with John Hick's soul-making thought that spiritual growth comes through response to challenges, while conceding the evidential problem of evil's sheer quantity."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Self of Muad’Dib.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Long-Term Identity.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "parfit"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "personal-identity",
+    "narrative-identity"
+   ],
+   "relation": "Asks whether the final Duncan Idaho ghola, whose serial memories wake during his encounter with Murbella, is the same person as the original who died holding off nineteen Sardaukar. It tests physical continuity, Locke's memory-based sameness of person (Hayt becomes Duncan only when the original's consciousness reawakens), Parfit's psychological connectedness with its redescription of identity as survival through quasi-memory, Schechtman's narrative self-constitution, Velleman's self-inventing characters, and four-dimensionalist 'space-time worms' on which Leto II's 3,500 years and the Duncans' gappy five millennia are single long selves. Herbert's moral: identity is not fixed—societies and technologies, from the Tleilaxu tanks to the Sisterhood's swift accommodation, keep redrawing what counts as the same person. Same Duncans, same person."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - The Test of Humanity.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger"
+   ],
+   "concepts": [
+    "heidegger-technology"
+   ],
+   "relation": "Reads the Butlerian Jihad through Heidegger's philosophy of technology: technology is not a device but a way of 'enframing' the world as a standing-reserve, so the Harkonnens see Arrakis, the Fremen, and even Mentat Piter as mere resources, while the Fremen's maker hooks and ecological terraforming show tools absorbed into a lived practice that shapes their users in turn. Paul's prescience becomes the ultimate tool—perfect advice that puts his life on autopilot through Dune Messiah—so Leto II's breeding of Siona-gene humans invisible to oracles completes the Jihad's lesson: self-determination and 'living judgments,' not optimization, are what the Gom Jabbar's test of humanity is for."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Get Out of My Mind!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "reid",
+    "dennett"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "personal-identity"
+   ],
+   "relation": "Runs Lady Jessica's spice-agony Other Memory through Locke's Essay: if a person is a 'thinking intelligent being' whose identity extends as far as her consciousness reaches, then Jessica—having received the memories of every Reverend Mother back to Raquella Berto-Anirul—must be identical with Raquella, and with Alia who shares the same memories, which is absurd. Thomas Reid's gallant officer is staged as Gurney Halleck, who remembers Rabban's whip but not his sister's eyes, breaking the transitivity of memory-based identity. The chapter closes with three modern paths—psychological continuity, Eric Olson's animalism, and Dennett's selves as 'centers of narrative gravity'—plus a Lockean coda defending the Abomination Alia as a person no fixed class of nature could exclude."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Heroism of Muad’Dib.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - The Prophet.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "ubermensch",
+    "last-man",
+    "nietzsche-perspectivism"
+   ],
+   "relation": "Presents Muad'Dib as Nietzsche's Zarathustra in the Dune universe: the sardonic self-mockery that keeps a great man from believing his own myth, the valuation of life-enhancing 'truths' over correspondence-truth (behind all logic stand 'value judgments,' as Beyond Good and Evil has it), and monumental, mythologized history against Mentat-accurate history that kills religion. Paul's Fremen, first hard and vital, go 'water-fat' under the paradise his jihad built, becoming Nietzsche's 'Ultimate Man'—the last man who has left the places where living was hard and demands 'a little poison now and then'—so Muad'Dib must become the Preacher to destroy the rigid code he created, as Zarathustra came to undo Zoroaster's morality; both prophets preach self-overcoming toward the Superman."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Philosopher of the Dangerous Perhaps.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "arendt"
+   ],
+   "concepts": [
+    "ubermensch",
+    "eternal-recurrence",
+    "last-man",
+    "banality-of-evil"
+   ],
+   "relation": "Argues that Herbert is a genuine philosopher extending Nietzsche's Zarathustra into the twentieth century, via three narrative parallels: the Preacher entering Arrakeen mirrors Zarathustra's first down-going into the town with its tightrope walker and mocking buffoon; Paul's empire of water-fat Fremen and Alia's orthodoxy realizes the 'Ultimate Man' whom the crowd begs for instead of the Superman; and prescience reworks eternal recurrence's gateway 'Moment,' where every timeline ends in Krazilec. Reading Paul's sixty-five-billion-death jihad through Arendt's banality of evil and Herbert's 'superheroes are disastrous' thesis, the chapter concludes Paul is the failed tightrope walker and Leto II the goad—'not lightning, but lightning rod'—pushing humanity beyond man toward the Superman, with Spannungsbogen naming the tension of the drawn bow between animal and Overman."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - In The Land of the Blind, the One-Eyed Man . ..md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "fate-vs-free-will",
+    "free-will-determinism"
+   ],
+   "relation": "Continues the earlier defense of oracular freedom ('Curse of the Golden Path'): because an oracle's gaze from a present moment fixes the very set of future possibilities, Paul and Leto are free precisely where they are blind—above all in their 'vision-battle' in the Tanzerouft, which no oracle can foresee, and which Paul's single whispered 'Don't' concedes to his son's Golden Path. Leto's breeding of Siona, invisible to prescience, is read as his deliberate self-blinding—'the price of freedom is an invigilance of eternity'—and the whole affair vindicates heroism as steering probabilities rather than escaping fate. Paul emerges as a tragic hero in the ancient Greek sense, whose hamartia is his all-too-human refusal to become a monster to save the future."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Appendixes.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - References.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The Almanak en-Ashraf.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Killing and Healing Words.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - part0030.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 9,
+   "type": "philosopher",
+   "suggested_slug": "clausewitz",
+   "name": "Carl von Clausewitz",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Prussian officer whose On War treats war as a social activity and continuation of politics by other means, organized around the 'remarkable trinity' of people, military, and government.",
+   "why": "Chapter 9 is built entirely on Clausewitz's trinity, using it to analyze Duke Leto's Arrakis strategy and Muad'Dib's Fremen insurgency."
+  },
+  {
+   "ch": 9,
+   "type": "concept",
+   "suggested_slug": "clausewitz-trinity",
+   "name": "The Remarkable Trinity (war as politics by other means)",
+   "philosopher": "clausewitz",
+   "domain": "political-social",
+   "what": "Clausewitz's account of war as a balanced social activity of popular passion, military chance and probability, and rational political purpose.",
+   "why": "Chapter 9 uses the trinity as its sole framework for reading the wars of Dune and their modern parallels in Afghanistan and Iraq."
+  },
+  {
+   "ch": 10,
+   "type": "philosopher",
+   "suggested_slug": "laplace",
+   "name": "Pierre-Simon Laplace",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "French mathematician whose hypothetical 'Laplace's demon,' knowing all physical laws and the present state of the universe, could predict the entire future.",
+   "why": "Chapter 10 uses Laplace's demon to model Paul's and Leto's prescience as deterministic prediction that threatens free will."
+  },
+  {
+   "ch": 10,
+   "type": "philosopher",
+   "suggested_slug": "richard-taylor",
+   "name": "Richard Taylor",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Twentieth-century American metaphysician who defended fatalism, arguing that what happens happens inevitably through the causal efficacy of the past.",
+   "why": "Chapter 10 leans on Taylor's fatalism to argue that Paul's foresight makes his efforts to avert the jihad futile."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "communicative-action",
+   "name": "Communicative Action",
+   "philosopher": "habermas",
+   "domain": "political-social",
+   "what": "Habermas's notion of action oriented toward mutual understanding, contrasted with strategic goal-oriented action and treated as the basis of legitimate social order.",
+   "why": "Chapter 13's whole diagnosis is that Dune's rulers act only strategically, so their empires never achieve normative stability or democratic legitimacy."
+  },
+  {
+   "ch": 18,
+   "type": "philosopher",
+   "suggested_slug": "john-hick",
+   "name": "John Hick",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Philosopher of religion whose 'soul-making' theodicy holds that hardship and evil are necessary conditions for moral and spiritual growth.",
+   "why": "Chapter 18 quotes Hick's Evil and the God of Love as the final word on how Dune's evil awakens the Fremen's goodness."
+  },
+  {
+   "ch": 20,
+   "type": "philosopher",
+   "suggested_slug": "marya-schechtman",
+   "name": "Marya Schechtman",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Philosopher whose narrative theory (The Constitution of Selves) defines personal identity as self-constitution through an intelligible life-story.",
+   "why": "Chapter 20 uses Schechtman's narrative theory to explain why the final Duncan ghola can integrate his many past lives as his own."
+  },
+  {
+   "ch": 20,
+   "type": "philosopher",
+   "suggested_slug": "j-david-velleman",
+   "name": "J. David Velleman",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Philosopher who holds that selves are characters in self-invented narratives: 'We invent ourselves . . . but we really are the characters whom we invent.'",
+   "why": "Chapter 20 invokes Velleman's narrative selfhood and the human impulse to self-consistency to explain the Duncan gholas' smooth integration of serial memories."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "narrative-identity",
+   "name": "Narrative Identity (the self as story)",
+   "philosopher": "marya-schechtman",
+   "domain": "mind-language-metaphysics",
+   "what": "The view that a person is constituted by organizing experiences into a coherent first-person narrative rather than by a brute identity relation.",
+   "why": "Chapter 20 needs narrative identity to treat the final Duncan's five thousand years of serial lives as one integrated self."
+  },
+  {
+   "ch": 22,
+   "type": "philosopher",
+   "suggested_slug": "eric-olson",
+   "name": "Eric Olson",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Philosopher of animalism: we are human animals and persist as long as our biological life continues, whether or not we remain conscious persons.",
+   "why": "Chapter 22 presents Olson's animalism as one of three futures for personal identity against Locke's psychological-continuity view."
+  }
+ ]
+}

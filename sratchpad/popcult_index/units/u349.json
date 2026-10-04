@@ -1,0 +1,85 @@
+{
+ "unit": "u349",
+ "book": "239 - The Philosophy of Werner Herzog",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\239 - The Philosophy of Werner Herzog",
+ "range": [
+  2,
+  13
+ ],
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Title Page.md",
+   "words": 483
+  },
+  {
+   "n": 3,
+   "file": "ch03 - 1-A01-LEX.md",
+   "words": 0
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Foreword.md",
+   "words": 248
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Acknowledgments.md",
+   "words": 615
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Introduction.md",
+   "words": 4732
+  },
+  {
+   "n": 7,
+   "file": "ch07 - \u201cI Am What My Films Are\u201d.md",
+   "words": 9740
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Herzog\u2019s Sublime and Ecstatic Truth.md",
+   "words": 8230
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Conquest of Uselessness as a Practice of Film and Thought.md",
+   "words": 7549
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Filmmaking and Philosophizing against the Grain of Theory Herzog and Wittgenstein.md",
+   "words": 6632
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Nature and Natural Meaning in Grizzly Man.md",
+   "words": 12412
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Reflections from the Abyss Herzog\u2019s Philosophy of Death.md",
+   "words": 10365
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Fake News and Ecstatic Truths.md",
+   "words": 7811
+  }
+ ],
+ "content": [
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "unit": "u292",
+ "book": "203 - Watchmen and Philosophy - A Rorschach Test",
+ "part": "1/1",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\203 - Watchmen and Philosophy - A Rorschach Test",
+ "range": null,
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - A R O R S C H A C H.md",
+   "words": 409
+  },
+  {
+   "n": 4,
+   "file": "ch04 - C O N T E N T S.md",
+   "words": 1019
+  },
+  {
+   "n": 5,
+   "file": "ch05 - P A R T O N E.md",
+   "words": 4626
+  },
+  {
+   "n": 6,
+   "file": "ch06 - H O N O R.md",
+   "words": 13999
+  },
+  {
+   "n": 7,
+   "file": "ch07 - P A R T T W O.md",
+   "words": 12796
+  },
+  {
+   "n": 8,
+   "file": "ch08 - P A R T T H R E E.md",
+   "words": 4316
+  },
+  {
+   "n": 9,
+   "file": "ch09 - H E N R I B E R G S O N.md",
+   "words": 12809
+  },
+  {
+   "n": 10,
+   "file": "ch10 - P A R T F O U R.md",
+   "words": 19583
+  },
+  {
+   "n": 11,
+   "file": "ch11 - C O N T R I B U TO R S.md",
+   "words": 1320
+  },
+  {
+   "n": 12,
+   "file": "ch12 - I N D E X.md",
+   "words": 1398
+  }
+ ],
+ "content": [
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ]
+}

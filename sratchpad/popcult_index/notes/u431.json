@@ -1,0 +1,84 @@
+{
+ "book": "308 - The Palgrave Handbook of Popular Culture as Philosophy",
+ "unit": "u431",
+ "chapters": [
+  {
+   "n": 52,
+   "file": "ch52 - 49. A Serious Man as Philosophy The Elusiveness of Moral Knowledge.md",
+   "kind": "chapter",
+   "philosophers": ["beauvoir", "maimonides"],
+   "concepts": ["ethics-of-ambiguity", "skepticism", "the-absurd"],
+   "relation": "Biderman reads the Coens' A Serious Man through Beauvoir's figure of the 'serious man' (from The Ethics of Ambiguity), the man who craves a single absolute value and blinds himself to moral complexity: physics professor Larry Gopnik, beset by divorce, a bribing student Clive, and Sy Ableman's death, seeks moral knowledge that would let him be such a man. The chapter argues Larry's quest fails across cognitivist, noncognitivist, and pluralist accounts of moral knowledge, showing moral knowledge to be elusive if not impossible. The film's Kafkaesque fables (the Dibbuk, the Goy's Teeth, Rabbi Nachtner's 'L'olam ha-ba', Schrodinger's cat, and the Binding of Isaac in Caravaggio's painting) all stage the absurd collapse of interpretation, echoing the Book of Job, which Maimonides read as a parable rather than history."
+  },
+  {
+   "n": 53,
+   "file": "ch53 - 50. The Cabin in the Woods as Philosophy Cinematic Reflections on Ethical Complexity, Human Nature, and Worthw.md",
+   "kind": "chapter",
+   "philosophers": ["noddings", "mill", "aristotle", "plato"],
+   "concepts": ["care-ethics-noddings", "utilitarianism", "consequentialism"],
+   "relation": "Kowalski argues Whedon and Goddard's The Cabin in the Woods stages a clash between classical utilitarianism and an ethics of care, and cinematically favors the latter. The Facility, sacrificing five campers to placate the Ancient Ones and save humanity, embodies Mill's greatest-happiness reasoning, but its callous celebration while Dana suffers on the dock undercuts that view. When the Director tells Dana she must kill her only remaining friend Marty to save the world, Dana's refusal is defended via Noddings's care ethics and Aristotle's claim that obligations track close personal relationships (special obligations), with Aristotle's Poetics catharsis and Plato's Leontius grounding the film's theory of worthwhile horror: 'people are more important than humanity.'"
+  },
+  {
+   "n": 54,
+   "file": "ch54 - 51. Magnolia As Philosophy Meaning and Coincidence.md",
+   "kind": "chapter",
+   "philosophers": ["camus", "epictetus", "jung", "nietzsche"],
+   "concepts": ["the-absurd", "sisyphus", "meaning-of-life"],
+   "relation": "Engelen interprets Paul Thomas Anderson's Magnolia as a meditation on sense-making and Camus's notion of the absurd: the film's raining frogs and the interlocking coincidences (Sydney Barringer's death, the narrator's insistence that 'this cannot be one of those things') stage our compulsion to find meaning colliding with a universe that yields none. He reads characters' struggles with trauma and regret through Epictetus's Stoic dichotomy of control and Jung's synchronicity, and the 'Wise Up' sing-along as a call to accept what cannot be changed. The chapter endorses Camus's third response to the absurd—neither denial nor suicide but defiant acceptance—linking it to Nietzsche's eternal recurrence and Nagel's take on life's meaning."
+  },
+  {
+   "n": 55,
+   "file": "ch55 - 52. Fight Club as Philosophy I Am Jack\u2019s Existential Struggle.md",
+   "kind": "chapter",
+   "philosophers": ["beauvoir", "nietzsche", "hobbes", "plato"],
+   "concepts": ["existentialism", "authenticity", "bad-faith"],
+   "relation": "Oya reads Fincher's Fight Club in existentialist, nonethical terms as the story of the unnamed narrator 'Jack' and his struggle for an authentic, self-governed life. Consumerism (the 'Ikea nesting instinct'), the masculinity of underwear ads, religion, and finally Tyler Durden's hunter-gatherer creed are all rejected as externally imposed answers that deny authenticity; Fight Club and Project Mayhem merely swap one alienation for another. Jack's shooting himself to purge Tyler dramatizes self-affirmation. The chapter grounds this in Beauvoir's Ethics of Ambiguity ('the genuine man will not agree to recognize any foreign absolute'), contrasts Nietzsche and Unamuno on self-affirmation, cites Hobbes on the brutish state of nature to condemn Tyler's utopia, and invokes Plato's cave to argue a comfortable but externally governed life is still not authentic."
+  },
+  {
+   "n": 56,
+   "file": "ch56 - 53. Tarantino as Philosopher Vengeance \u2013 Unfettered, Uncensored, but Not Unjustified.md",
+   "kind": "chapter",
+   "philosophers": ["nozick", "plato", "spinoza", "hobbes", "locke", "nietzsche", "beauvoir"],
+   "concepts": ["punishment-theory", "plato-justice", "consequentialism"],
+   "relation": "Johnson treats Tarantino's post-2000 filmography as an argument that vengeance is morally permissible when proportionate and directed at the genuinely guilty: Beatrix in Kill Bill, Shosanna in Inglourious Basterds, and Django all get celebrated revenge, while The Hateful Eight is used to distinguish vengeance from retribution and legal versus 'frontier' justice via Nozick's and Bacon's definitions. He rebuts common and historical objections—reading Plato's Gorgias as endorsing due punishment, arguing Spinoza's monism and Hobbes's and Locke's social-contract views do not forbid proportional revenge, and citing Nietzsche and Beauvoir's Eye for an Eye (her refusal to pardon the collaborator Brasillach) to conclude cost-free, proportional revenge can be justified though mercy remains praiseworthy."
+  },
+  {
+   "n": 57,
+   "file": "ch57 - 54. The Man from Earth as Philosophy The Desirability of Immortality.md",
+   "kind": "chapter",
+   "philosophers": ["williams", "nussbaum", "beauvoir"],
+   "concepts": ["immortality", "meaning-of-life", "epicurean-death"],
+   "relation": "Berk brings The Man from Earth—about John Oldman, a 14,000-year-old non-aging man—into dialogue with Bernard Williams's 'The Makropulos Case,' which argues immortality must become boring and identity-destroying (the dilemma of exhausted versus radically changed categorical desires). Against these 'immortality curmudgeons,' the chapter argues John's mild boredom, enduring loves, friendships, and pursuit of knowledge show an immortal life can stay worth living, invoking Fischer's 'repeatable pleasures.' It also engages Nussbaum's 'Mortal Immortals' and Beauvoir's All Men Are Mortal (the miserable Fosca), which tie courage and love to finitude and sacrifice, noting John is only 'medically' rather than 'genuinely' immortal and so can still make sacrifices."
+  },
+  {
+   "n": 58,
+   "file": "ch58 - 55. Avatar as Philosophy The Metaphysics of Switching Bodies.md",
+   "kind": "chapter",
+   "philosophers": ["locke", "parfit", "vann-inwagen", "nagel", "clark"],
+   "concepts": ["personal-identity", "cartesian-dualism", "extended-mind"],
+   "relation": "Tepley asks whether Jake Sully's final body-switch with his avatar in Cameron's Avatar is metaphysically possible without brain transplant or souls. Using Locke's definition of a person and the transitivity of numerical identity, he shows animalism forbids body-switching, substance dualism (Descartes/Plato) is unavailable in the film's materialist world, and merely copying a brain pattern creates a duplicate, not the same person. His positive solution uses the constitution view (Aristotelian in origin) plus Clark's extended-mind idea to argue Jake literally extends into his avatar, then—via an analogy with split-brain corpus-callosum cases discussed by Nagel, Parfit, and van Inwagen—shrinks back so long as no second stream of consciousness forms, a model he extends to secular survival of death by mind-uploading."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 58,
+   "type": "concept",
+   "suggested_slug": "constitution-view",
+   "name": "The Constitution View (constitutionalism)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The theory that a person is not identical to but is constituted by their body, as a statue is constituted by a lump of clay, allowing person and body to coincide yet differ in persistence conditions.",
+   "why": "Chapter 58's entire positive solution to how Jake switches bodies rests on constitutionalism (Baker, Shoemaker) as a named theory of persons distinct from animalism and dualism, and the taxonomy has no slug that captures the person/body constitution relation."
+  },
+  {
+   "ch": 58,
+   "type": "concept",
+   "suggested_slug": "animalism-personal-identity",
+   "name": "Animalism",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The view that we are numerically identical to our biological organisms (animals/bodies), defended by Eric Olson.",
+   "why": "Chapter 58 devotes a full section to animalism as the theory of persons that makes body-switching logically impossible, and it is treated as a distinct named position with no adequate existing slug (personal-identity is too generic to mark this specific thesis)."
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "unit": "u004",
+ "book": "004 - Buffy the Vampire Slayer and Philosophy - Fear and Trembling in Sunnydale",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\004 - Buffy the Vampire Slayer and Philosophy - Fear and Trembling in Sunnydale",
+ "range": [
+  3,
+  22
+ ],
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Buffy the Vampire Slayer and Philosophy.md",
+   "words": 864
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Popular Culture and Philosophy.md",
+   "words": 105
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "words": 7
+  },
+  {
+   "n": 6,
+   "file": "ch06 - What a lot of fun\u2014you guys have been real swell.md",
+   "words": 339
+  },
+  {
+   "n": 7,
+   "file": "ch07 - And was there a lesson in all this.md",
+   "words": 1138
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Codex 1 - It\u2019s kind of a Slayer thing. Buffy, Faith, and Feminism.md",
+   "words": 12
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Buffyverse\u2019s Moral Compass.md",
+   "words": 4803
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Persuasion As Drama.md",
+   "words": 5636
+  },
+  {
+   "n": 11,
+   "file": "ch11 - \u201cThe Graduation\u201d Autonomy and the Relational Self.md",
+   "words": 4455
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Noir Consequences of Sex Eros, Death, and the Possibility of Love.md",
+   "words": 4489
+  },
+  {
+   "n": 13,
+   "file": "ch13 - No Damsel in Distress.md",
+   "words": 4789
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Codex 2 - Don\u2019t speak Latin in front of the books Knowledge, Rationality, and.md",
+   "words": 17
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Smelly Knowledge.md",
+   "words": 3631
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Pals.md",
+   "words": 3883
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Conquering the Inner Demon.md",
+   "words": 5001
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Possibilities of Postmodern Education Beyond Control.md",
+   "words": 3956
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Making the Pain Go \u201cPoof\u201d.md",
+   "words": 5512
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Codex 3 - You\u2019re really enjoying this whole moral superiority thing, aren\u2019t.md",
+   "words": 16
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Buffy As a Watcher (of Sorts).md",
+   "words": 4088
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Emotions and Aesthetic Response.md",
+   "words": 4208
+  }
+ ],
+ "content": [
+  3,
+  6,
+  7,
+  9,
+  10,
+  11,
+  12,
+  13,
+  15,
+  16,
+  17,
+  18,
+  19,
+  21,
+  22
+ ]
+}

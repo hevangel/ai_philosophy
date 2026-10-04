@@ -1,0 +1,248 @@
+{
+ "book": "082 - Jurassic Park and Philosophy - The Truth Is Terrifying",
+ "unit": "u135",
+ "chapters": [
+  {
+   "n": 26,
+   "file": "ch26 - Jurassic Park and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bentham"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "animal-rights",
+    "anthropocentrism"
+   ],
+   "relation": "Lisa Kadonaga stages a choice between two sealed vials - clone the T. rex or the extinct thicktail chub - and weighs purposes for de-extinction: education and fundraising, Veblen-style prestige and conspicuous consumption, making amends for human-caused extinctions (the chub's wetlands were drained, the tyrannosaur died out before us), and Bentham-style utility of ecosystem function. She argues the chub wins on utility because it could resume a real niche while a top carnivore would wreck modern ecosystems, and questions whether Hammond-style engineering that makes recreated animals dependent on humans (the lysine contingency, terminator genes) violates the animals' right to exist as themselves. Her verdict is 'Pister's Bucket': defer resurrection until habitat and resources exist, and spend the effort saving the species we are killing right now."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Jurassic Park and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Jurassic Park and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nagel",
+    "mill"
+   ],
+   "concepts": [
+    "what-is-it-like",
+    "speciesism"
+   ],
+   "relation": "Christopher Ketcham writes a mock chronicle in which velociraptors escape to inhabited Nava, deliberately avoid humans, and over decades learn to share a hunting language with a Congo tribe, asking whether we would ever grant such beings equal intelligence and rights. He reads raptor pack behavior and cooperation through Dawkins's selfish gene, and uses Nagel's 'What Is It Like to Be a Bat?' to argue we can never peer into raptor consciousness, just as we brand human races inferior without looking. Citing Plessy v. Ferguson's whiteness-as-property and Mill's point that mistreating animals belongs in the same category as racial discrimination, he ends with a senate-hearing parody and the Neanderthal precedent: a human 'superiority gene' means coexistence with smart raptors would likely end as it did for them."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Jurassic Park and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "naess",
+    "singer"
+   ],
+   "concepts": [
+    "deep-ecology",
+    "animal-liberation",
+    "consequentialism"
+   ],
+   "relation": "Seth Walker asks whether Nick Van Owen - the Earth First! documentarian who monkeywrenches InGen's camp and frees the caged dinosaurs in The Lost World - is a bastard or morally justified. He runs the consequentialist cost-benefit (the escaped T. rex slaughters a cargo ship crew and trashes San Diego; the sabotage costs the team their radio and rescue) against the ecodefense argument built on Arne Naess's deep ecology and biocentric equality, on which Isla Sorna is our 'home' and rescuing the injured baby T. rex Roland Tembo crippled is Self-defense. Singer's principle of equal consideration of suffering - a difference in ability never justifies a difference in consideration - bridges the gap for those who reject biocentrism, and Walker answers the consistency objection (must Nick accept InGen sabotaging him back?) before crediting Nick's defense of his larger home."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Jurassic Park and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-autonomy",
+    "existence-risk"
+   ],
+   "relation": "Tim Jones argues the films show why Kant's Enlightenment ideal - the courage to use your own understanding without others' guidance, embodied in Hammond's isolated, independently funded genius - has become dangerous now that one man's project can shape the world future people must live in. He tracks Hammond's arc from dismissing Malcolm's review to conceding 'I was wrong', but shows in the sequels that one convert to caution cannot contain a technology: Ludlow ships a T. rex to San Diego and paragliding entrepreneurs land on Isla Sorna anyway, so the damage to future people is done before anyone repents. Against this he proposes Rupert Read's 'Guardians of the Future', a super jury that would veto laws and technologies threatening future people's basic needs - meaning Hammond should have been stopped before he started."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Jurassic Park and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-four-causes",
+    "anthropocentrism"
+   ],
+   "relation": "Daniel Kokotz tests Aristotle's border between natural things, moved by inner final causes, and technological artifacts, made for external human purposes, against the park's dinosaurs - and both fit. They hunt, grow, and breed on their own ('life finds a way', the sex-changing frogs-DNA population), yet they exist only because Hammond's scientists cloned them as paying entertainment, exactly like an artifact. Using Grant's different reactions to the incubator versus the wild nest, he shows we blame humans for technologically caused disasters while shrugging at natural ones; his resolution is that nature and technology are not two Aristotelian boxes but extremes of one spectrum, and biotechnology's hybrids prove humans never stood outside nature - we are still just prey in it."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Jurassic Park and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "bentham",
+    "singer",
+    "descartes"
+   ],
+   "concepts": [
+    "death-of-god",
+    "speciesism",
+    "utilitarianism",
+    "animal-rights",
+    "great-chain-of-being"
+   ],
+   "relation": "Kenn Fisher reads the franchise as the extinction of the Great Chain of Being: from Plato's humans mid-way between gods and beasts, through Genesis dominion and Descartes's non-conscious animals, to Malcolm's 'God creates man. Man destroys God. Man creates dinosaurs' - with computers (Hammond's control room, Wikipedia, Google) replacing God at the top. He then tracks animals' ascent from property: Francione on welfare versus personhood, Bentham's 'Can they suffer?', and Singer's equality-as-prescription, applied to Dieter Stark tasering a compy (punished by the compys) versus the unexamined electric fences that keep InGen's 'zoo animals' caged. He closes with Carol Adams's meat-masculinity link - Roland Tembo will hunt only a male T. rex, the dinosaurs are all female - and holds up vegetarian Lex as hope that the Chain bends into a Circle."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Jurassic Park and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "regan",
+    "nussbaum"
+   ],
+   "concepts": [
+    "animal-rights",
+    "capabilities-approach",
+    "speciesism"
+   ],
+   "relation": "Roger Hunt argues the films show that whoever assumes human superiority or ownership of created life gets eaten: Dieter Stark zaps a compy and is devoured by a swarm of them, Ludlow claims InGen's patent and becomes a hunting lesson for the baby T. rex. He stages the real debate over dinosaur moral status between the 'value of life' view (Harding and Sattler: experiment on them if enough sentient beings benefit) and Tom Regan's rights view - anything sentient has basic rights from unconditional individual value, and grading lives by usefulness is speciesism like racism or sexism. He then prefers Martha Nussbaum's capabilities approach: a T. rex penned in San Diego cannot roam, hunt, or play, so it cannot flourish, and the point is not granting rights but recognizing we have no right to block other beings' flourishing for fun."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Jurassic Park and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Jurassic Park and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "ryle"
+   ],
+   "concepts": [
+    "personal-identity",
+    "ghost-in-the-machine",
+    "immortality"
+   ],
+   "relation": "Nicolas Michaud argues that when you go extinct you do not come back, dismantling our three hopes: the soul, cloning, and an essential self. Cloning a T. rex yields a new individual 'Rex' with her own perspective, not the original; the soul cannot both be beyond science's reach and record memories and move bodies; and he deploys Gilbert Ryle's view that 'soul' is a language mistake - a mind is just what a functioning brain does, the way 'Jurassic Park' is just buildings, dinosaurs, staff, and money working together, ceasing when the functioning stops. A Hammond stripped by Alzheimer's and atom-replacement of every memory, trait, and particle still gets called John Hammond, so there is no essence over time: we already die constantly and never notice, which is why a second extinction holds no fresh terror."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Jurassic Park and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "will-to-power",
+    "ubermensch"
+   ],
+   "relation": "Jeff Ewing reads the park as Nietzsche's will-to-power in action: Hammond's 'creation is an act of sheer will', resurrecting extinct species because science enables it, is the drive to remake the world godlike in one's own image, and Malcolm's 'so preoccupied with whether or not they could' marks exactly the external mastery Hammond achieved. But the Nietzschean great man also needs internal mastery - control over himself before control over nature - and Hammond failed it: one man (Nedry) held the whole security grid, frog-DNA surprises were foreseeable, raptor intelligence was underestimated, and the storm was ignored. For Nietzsche, lying to yourself about your strength is not arrogance but weakness, so Hammond's disaster was not a moral crime but a failure of self-mastery - a lesson Ewing extends to modern cloning, drones, and weapons pursued without honest reckoning."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Jurassic Park and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bacon"
+   ],
+   "concepts": [
+    "existence-risk",
+    "applied-ethics"
+   ],
+   "relation": "Jannelle Poetzsch introduces Hans Jonas's imperative of responsibility - 'Act so that the effects of your action are compatible with the permanence of genuine human life' - through Malcolm's charge that scientists never ask whether they should, since nuclear and genetic power now reach people no old 'love thy neighbor' ethic could imagine. Hammond is Bacon's 'knowledge is power' grown too successful: his 'thintelligence' embodies the gap between the power to act and the ability to foretell, so Jonas demands humility, worst-case rather than optimistic planning, and social institutions strong enough to check people who act merely because they can. Jonas also indicts capitalism's profit motive - Hammond risked his grandchildren and Costa Rican infants to manufacture a need for a dinosaur zoo - closing that the answer is not halting technology but thoughtfully restraining it, because some things cannot be re-caged."
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Jurassic Park and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "free-will-determinism",
+    "scientific-realism"
+   ],
+   "relation": "David Morgan unpacks the chaos theory behind Malcolm's 'I hate being right all the time', starting from Newtonian causal determinism and Laplace's demon, according to which the future is fixed and calculable - then showing that non-linear systems like weather and the park show sensitive dependence (Lorenz's butterfly effect), so even a fully determined universe is unpredictable in practice because we can never know initial conditions exactly. He raises the philosophy-of-science question of whether chaos is a property of nature or only of our computer models, and reads 'life finds a way' as Malcolm extending the same contingency to Darwinian evolution: rewind the tape and you get different species. He ends by noting Malcolm's own paradox - a chaos theorist certain of one specific doom - and settles on chaos theory predicting unpredictability: ignore tiny factors and do not be surprised when they bite you."
+  },
+  {
+   "n": 39,
+   "file": "ch39 - Jurassic Park and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aquinas"
+   ],
+   "concepts": [
+    "aquinas-virtues",
+    "aquinas-natural-law"
+   ],
+   "relation": "Michael Stark and A.G. Holdier diagnose the park's collapse as vice rather than accident, using Aquinas's virtue ethics grounded in natural law: Hammond's imprudence (never weighing whether resurrection is right, shrugging off Malcolm's lunch-table warning, still planning 'corrections' over melted ice cream) and Gennaro's intemperance (admissions up to ten thousand dollars a day, 'coupon day', money tunnel-vision), both flowering from pride, the worst vice. Malcolm, despite the flirting and leather, is the only consistently virtuous character: prudence in situational judgment (waving a flare to lure the T. rex away from the kids), temperance about wealth and about Sattler, plus fortitude and justice - even lying to comfort Lex and Tim in the tree reflects character, not rule-breaking. Aquinas's point that virtues are lifelong course corrections, never a finished state, frames the closing Kierkegaard quote about never being finished with life's task."
+  },
+  {
+   "n": 40,
+   "file": "ch40 - Jurassic Park and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "existence-risk",
+    "moral-egoism"
+   ],
+   "relation": "Trip McCrossin takes Grant's 'they'll just have to evolve, too' as addressed to the audience and asks whether human behavior, not meteors, could cause our extinction, using Malcolm's toolkit: self-organizing life on fitness landscapes, the Red Queen arms race you must run to stay in place, and Gambler's Ruin - once things go bad they cluster and go to hell together. The deepest lens is the Tragedy of the Commons: like herders each adding a sheep to a shared pasture, we do what is best for ourselves without concern for the common good, and the films chart ever-failing 'fences' - the paddock, the coastline, the Navy, the Marines - until pteranodons simply fly off Isla Sorna. Since ours is self-destruction (we run as fast as we can, but really from ourselves), the real fence, he concludes, is daring ourselves to collective restraint."
+  },
+  {
+   "n": 41,
+   "file": "ch41 - Jurassic Park and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 42,
+   "file": "ch42 - Jurassic Park and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 30,
+   "type": "concept",
+   "suggested_slug": "future-generations",
+   "name": "Obligations to Future Generations",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The view that present people owe enforceable duties to people who do not yet exist, because today's actions fix the world they are born into.",
+   "why": "Chapter 30's central proposal is Rupert Read's 'Guardians of the Future', a super jury vetoing laws that harm future people, and no existing slug covers duties to nonexistent generations."
+  },
+  {
+   "ch": 32,
+   "type": "concept",
+   "suggested_slug": "great-chain-of-being",
+   "name": "The Great Chain of Being",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "The hierarchical scale of being running from God through angels, humans, animals, plants and minerals, placing humanity above nature and below the divine.",
+   "why": "Chapter 32 structures its whole argument around the rise and collapse of this hierarchy - from Plato through Genesis dominion and Descartes to Nietzsche's dead God - and the taxonomy has no slug for it."
+  },
+  {
+   "ch": 37,
+   "type": "philosopher",
+   "suggested_slug": "hans-jonas",
+   "name": "Hans Jonas",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "German-Jewish philosopher (1903-1993) whose Imperative of Responsibility demands a new ethics for technological civilization: 'Act so that the effects of your action are compatible with the permanence of genuine human life.'",
+   "why": "Chapter 37 builds its entire argument on Jonas's responsibility ethics - his heuristics of fear, humility, and worst-case thinking diagnose Hammond's 'thintelligence' - yet he is absent from the taxonomy."
+  }
+ ]
+}

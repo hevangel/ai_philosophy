@@ -1,0 +1,135 @@
+{
+ "book": "268 - Food & Philosophy - Eat, Think, and Be Merry",
+ "unit": "u385",
+ "chapters": [
+  {
+   "n": 6,
+   "file": "ch06 - Preface.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Chapter 1.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "epicurus",
+    "vico"
+   ],
+   "concepts": [
+    "food-ethics",
+    "epicurean-pleasure",
+    "aristotle-friendship"
+   ],
+   "relation": "Verene argues that cooking marks the transition from nature to culture, reading Plato's Protagoras myth of Prometheus (fire and the practical arts) and the Republic's claim that a city's first need is food as evidence that humans alone 'eat' rather than 'feed.' Tracing Greco-Roman banquets, Vico's account of Roman dining, and Brillat-Savarin's Physiology of Taste, he connects the ordered courses of a proper meal to Aristotle's view of imagination as rooted in memory and to friendship at table. He ends by mapping Brillat-Savarin's gourmandism onto Epicurus's distinction between kinetic pleasures (eating fine food) and catastematic pleasure (ataraxia, the settled well-being of good health and stored memories of shared meals)."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Chapter 2.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "plato",
+    "epicurus"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia",
+    "food-ethics",
+    "aristotle-friendship"
+   ],
+   "relation": "Verene interprets Plutarch's Dinner of the Seven Wise Men, in which Thales, Solon, Bias and the others gather at Corinth under Periander and turn a plain dinner into a symposium on good government, household economics, and the soul. He reads their exchanges through Aristotle: Thales' claim that a ruler's happiness is to die naturally in old age is glossed by Aristotle's eudaimonia (no one is called happy until life is complete), the assigned-seating companions exemplify Aristotle's friendship of utility, and the pivot from politics to home management mirrors Aristotle linking Politics to Economics. Solon's Stoic argument that dependence on food enslaves the soul, and Thales' correction of the Ethiopian king's riddle-answers (virtue not God as most helpful), show the Seven speaking as philosophers rather than gourmets, with Epicurus invoked on death being nothing to the living."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Chapter 3.md",
+   "kind": "chapter",
+   "philosophers": [
+    "epicurus",
+    "plato"
+   ],
+   "concepts": [
+    "food-ethics",
+    "epicurean-pleasure"
+   ],
+   "relation": "Verene condenses the fifteen rambling books of Athenaeus's Learned Banqueters, where the character Athenaeus reports to Timocrates a multi-day banquet hosted by Larensius, threaded with catalogues of fish, wine, cups, courtesans and gluttons. He argues the sprawling work embodies dining as a two-part act of food plus discourse, and that its implicit ethic is Epicurean: Book 12's Cyrenaic doctrine that pleasure exists only in the passing moment (Aristippus) is shown to be historically superseded by Epicurus's modified hedonism, which ties bodily pleasures to ataraxia and even welcomes hetaerae like Leontion into the philosophical circle. Book 13's closing attack on the Cynics as homeless 'foul-mouthed gluttons' confirms the banqueters' preference for a regulated, prudent pursuit of pleasure at table."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Chapter 4.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "aristotle"
+   ],
+   "concepts": [
+    "food-ethics",
+    "cartesian-doubt"
+   ],
+   "relation": "Verene frames the two great cookbooks, Apicius's De Re Coquinaria and Artusi's La scienza in cucina, through a contrast between a 'Cartesian' and a 'Vichian' epistemology of cookery: Descartes' Discourse on Method, which discards custom for clear-and-distinct reasoning, is blamed for the restaurant chef's invented 'stacked food,' while Vico's New Science, which grounds knowledge in historical tradition, underwrites the trattoria and the home kitchen. Reading Apicius's garum and dormice and Artusi's health-and-economy motto (glossed via Aristotle's Economics as household management), he defends recipes as repeatable topoi like songs rather than one-off novelties. He closes by tying table manners to Rousseau's moeurs and to Socrates' claim in the Phaedo that speaking (and by extension cooking and eating) badly does harm to the soul."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Notes.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Selected Bibliography.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Studies in Medical Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Bibliografische Information der Deutschen Nationalbibliothek Die Deutsche Nationalbibliothek verzeichnet diese.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - ibidem-Verlag.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 7,
+   "type": "philosopher",
+   "suggested_slug": "vico",
+   "name": "Giambattista Vico",
+   "philosopher": "vico",
+   "domain": "medieval-early-modern",
+   "what": "Italian philosopher of history whose New Science grounds knowledge of the human world in its historical development and tradition rather than in abstract reason.",
+   "why": "Chapter 1 relies on Vico's account of Roman dining and his claim that cooking marks the passage from nature to culture as its central interpretive framework, and Chapter 4 makes the 'Vichian' (tradition-based) versus 'Cartesian' (reason-based) epistemology of cookery the organizing contrast of the whole chapter."
+  }
+ ]
+}

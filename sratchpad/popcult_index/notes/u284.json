@@ -1,0 +1,269 @@
+{
+ "book": "196 - Terminator and Philosophy - I'll Be Back, Therefore I Am",
+ "unit": "u284",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Terminator and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - The Blackwell Philosophy and Pop Culture Series.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [
+    "leibniz",
+    "hegel",
+    "adorno",
+    "russell"
+   ],
+   "concepts": [
+    "best-possible-world"
+   ],
+   "relation": "The editors' introduction frames the Terminator saga as philosophy's natural territory by telling how philosophers persisted through catastrophe: Leibniz's 'best of all possible worlds' collapsed after the 1755 Lisbon earthquake, Hegel finished the Phenomenology of Spirit while Napoleon shelled Jena, and Adorno rebuilt cultural philosophy after Auschwitz. It compares that persistence to the human resistance against Skynet, and says the saga is founded on a paradox of human nature - we create our own worst nightmares. Quoting Bertrand Russell that most people would rather die than think, it urges readers to switch their CPU from read-only to learning mode and confront Judgment Day's paradoxes and the moral status of the machines."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - PART ONE - LIFE AFTER HUMANITY AND ARTIFICIAL INTELLIGENCE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "turing",
+    "searle"
+   ],
+   "concepts": [
+    "turing-test",
+    "chinese-room",
+    "what-is-it-like"
+   ],
+   "relation": "Littmann asks whether personhood could survive humanity's extinction in 2029: if Terminators genuinely think and feel, a Skynet victory would not be the end of people. He argues the T-101, T-1000 and T-X pass substantial Turing Tests (fooling muggers, cops, Sarah on the phone as her 'mother'), then concedes Searle's Chinese Room - recast as a tiny Austrian inside the endoskeleton reciting 'Ahll be bahk' without understanding - shows thinking behavior cannot prove thought. But he claims the films' red-tinted Terminator's-eye-view shots show what it is like to be a Terminator, giving proof of consciousness, and concludes the machines are probably persons: there is an 'I' in 'I'll be back.'"
+  },
+  {
+   "n": 9,
+   "file": "ch09 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "spinoza"
+   ],
+   "concepts": [
+    "cartesian-dualism",
+    "spinoza-conatus"
+   ],
+   "relation": "Dunn reads Descartes' bete-machine doctrine (animals as soulless automata explicable by 'billiard ball' mechanics) against the Terminator universe, since Descartes' two tests for true men - genuine language and versatile reason - are in fact passed by the machines: the T-101 deploys 'Hasta la vista, baby' hours after learning not to sound like a dork and marshals skills far beyond a clock. Sarah Connor instead locates the soul in the heart, and via Spinoza's conatus - the instinctual valuation of one's own existence that Terminators lack ('no emotion about it one way or another') - she judges even linguistically brilliant machines soulless and irrational, as Mary Midgley says of computers that do not know what matters. Kyle's line about 'dreaming about dogs' closes the chapter: by the Sarah Connor criterion dogs are ensouled sentinels, the very thing Descartes denied."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "camus",
+    "turing",
+    "hume"
+   ],
+   "concepts": [
+    "state-of-nature",
+    "social-contract",
+    "the-absurd",
+    "hume-sentimentalism"
+   ],
+   "relation": "Weisberg challenges the premise that a newly self-aware Skynet must exterminate humanity in rational self-preservation: after Turing's 'Heads in the Sand Objection,' he argues self-awareness does not entail a survival instinct - a Camusian Skynet might judge existence pointless and pull its own plug. Recasting 'in a panic, they try to pull the plug' as a Hobbesian slide into the state of nature, he uses the iterated prisoner's dilemma and Axelrod's tit-for-tat-with-forgiveness (as in WarGames) to argue a rational Skynet should cooperate with humans toward an emergent social contract. The dark twist is Humean: because reason is the slave of our passions, unconscious anti-machine stereotypes (Bargh's priming studies) make humans untrustworthy partners, so the whole war might have been avoided if only we were more machine-like."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "clark"
+   ],
+   "concepts": [
+    "extended-mind",
+    "functionalism"
+   ],
+   "relation": "Butler argues the films' humans-versus-machines picture rests on a false dichotomy: we are ourselves 'meat machines,' and functionalism makes minds computational processes realizable in silicon as much as neurons - illustrated by a Henrietta thought experiment (adapted from William Lycan) in which a friend gradually replaced with T-101 parts remains the same conscious person, and refusing this is 'human chauvinism.' Following Dawkins's extended phenotype and Andy Clark's natural-born cyborgs, he claims our tools are components of our minds, so Skynet and even the Terminator films themselves (making Cameron a cyborg of his cameras and editing suites) are extensions of human nature rather than alien 'Others.' Judgment Day, if it came, would be human suicide rather than genocide, so the real question is what values we build into our technology - 'no fate but what we make for ourselves.'"
+  },
+  {
+   "n": 12,
+   "file": "ch12 - PART TWO - WOMEN AND REVOLUTIONARIES.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "bentham",
+    "mill",
+    "gilligan"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "utilitarianism",
+    "care-ethics",
+    "kant-humanity-formula"
+   ],
+   "relation": "Chotiner tests Sarah Connor's plan to shoot Miles Dyson (one innocent life for three billion) against Bentham and Mill's utilitarianism and against Kant's deontology, showing both stall: utilitarianism licenses harvesting the author's organs for transplant patients, while Kant forbids using Dyson as a mere means and even condemns the mall kid's protective lie to the T-1000. Through Kohlberg's Heinz dilemma and Carol Gilligan's discovery that girls reason to preserve relationships rather than from abstract principles, he argues T2 stages the film's own answer: John and the reprogrammed T-101 care for Dyson's wounds and enlist him in destroying his research instead of using or sparing him on principle. 'I know now why you cry' caps the claim that morality needs the emotional capacity to care, not just rational maxims, with Sarah's gender-role reversal (she blasts through the elevator roof while the Terminator is the 'perfect mother') framing the whole argument."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard",
+    "girard"
+   ],
+   "concepts": [
+    "simulacra"
+   ],
+   "relation": "Culver explains Sarah Connor's harshness through Girard's Violence and the Sacred: like any warrior she is 'stained' by contact with violence and needs purification rites before reentering society, but her society refuses to recognize her as a warrior, so her cleansing becomes psychiatric wards, nine aliases, and fugitive life - measured against the true machine Cameron, whose 'inefficient' coldness throws Sarah's residual humanity into relief. She then applies Baudrillard's hyperreal: the Connors must prove a future nobody else sees while destroying every trace of the Terminators (lowering the T-101 into the steel), a simulation where a T-1000 wears a 'To Protect and Serve' uniform and law and order themselves may be simulated. The upshot is that Sarah's failures at conventional motherhood are those of a warrior-mother raising John inside a war only she experiences, staining him too (he kills Sarkasian) to give him a future."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "class-struggle",
+    "marx-alienation",
+    "historical-materialism"
+   ],
+   "relation": "Ewing reads Cameron as a Marxist: Cyberdyne's profit-driven reverse-engineering of the recovered Terminator arm, Dyson's alienated labor ('Don't ask'), and U.S. militarism absorbing Cyber Research Systems develop Skynet as capitalism's 'final contradiction,' in which the drive for destructive, labor-replacing technology converges with the profit motive to threaten humanity. Sarah and John are useful to the resistance only when they exit wage labor - waitress to warrior, ATM hacking instead of work - dramatizing Marx's claim that liberation requires transcending class positions. Yet technology itself is neutral and reclaimable: the reprogrammed T-101 learning 'I know now why you cry' shows even killing machines can be humanized for liberation, and the saga ends where Marx does - not interpreting the world but changing it."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - PART THREE - CHANGING WHAT’S ALREADY HAPPENED.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aristotle"
+   ],
+   "concepts": [
+    "time-travel",
+    "personal-identity",
+    "possible-worlds"
+   ],
+   "relation": "Delfino and Sheahan assume that past-changing time travel is possible and find two flaws in The Terminator: the 'Bad Timing Problem,' where instantaneous 'time compression' (the rusted-nail thought experiment) means Reese entering the time machine after the T-101 is either too late or unnecessary, and the 'Who-Is-Your-Daddy? Problem,' where John must already exist to send Kyle back to father him - a vicious circle. Testing the two-timelines repair, they show it buys two different John Connors (a personal-identity problem), infinitely multiplying timelines, or a parallel-universes reading in which humanity both wins and loses. They conclude the story flirts with incoherence yet defend metaphysical imagination, with Kant's epigraph on our addiction to metaphysics and Aristotle's definition of wisdom as knowledge of deepest causes."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "turing",
+    "augustine"
+   ],
+   "concepts": [
+    "time-travel",
+    "turing-test",
+    "free-will-determinism"
+   ],
+   "relation": "Leiber develops three themes of the resistance: the time-travel paradoxes (Skynet's own mission proves the T-101 must fail, and future John has no need to send Reese), the moral status of machines, and the inevitability of smart weapons. La Mettrie's Man a Machine and Turing's 1950 test ground the claim that the T-101 who asks to be lowered into the molten steel is a rights-bearing person committing suicide, not a broken appliance - 'human chauvinism' says otherwise. Then, via Laplace's determinism, Einstein's conserved space-time, and his father Fritz Leiber's 'Law of Conservation of Reality,' he argues the continuum resists change, so 'Judgment Day is inevitable' is a scientist's claim about conserved mass-energy-time rather than a prophecy - with Augustine's puzzle about time framing why the future seems to protect the past."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis",
+    "putnam"
+   ],
+   "concepts": [
+    "time-travel",
+    "fate-vs-free-will",
+    "a-series-time"
+   ],
+   "relation": "Miller reconciles Kyle's 'no fate but what we make' with Sarah's 'you're dead already': eternalism (defended by the special-relativity argument Hilary Putnam made famous) makes 2029 as real as 1994, so Judgment Day cannot be changed, and the grandfather paradox - using Caesar's unalterable assassination as the model - blocks the T-101 from preventing its own existence. She then tests growing-block, presentist, meta-time, and branching-timeline (McCall-style) models against T2 and T3, asking whether any lets Sarah's attack on Cyberdyne legitimately delay Judgment Day. The conclusion works under every model: even on a fixed four-dimensional block, Judgment Day happens because of what humans do, not independently of them, so fixed fate and making our own future turn out to be compatible."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "functionalism",
+   "name": "Functionalism (mind as computation)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The view that mental states are defined by their functional or computational role rather than their physical substrate, so a mind can be realized in silicon as well as brain tissue.",
+   "why": "Chapter 11's central argument that humans are 'meat machines' continuous with Terminators rests on functionalism, applied through the Henrietta gradual brain-replacement thought experiment, and no existing slug covers it."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "kohlberg-moral-stages",
+   "name": "Kohlberg's Stages of Moral Development",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Lawrence Kohlberg's six-stage theory on which moral maturity consists in reasoning from abstract universal principles, tested with dilemmas such as the Heinz problem.",
+   "why": "Chapter 13 uses Kohlberg's stages and the Heinz dilemma to frame Sarah's principled killing of Dyson as the target of Gilligan's care-ethics critique, and no slug covers the stage theory itself."
+  },
+  {
+   "ch": 14,
+   "type": "philosopher",
+   "suggested_slug": "girard",
+   "name": "René Girard",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Twentieth-century French thinker whose Violence and the Sacred holds that violence leaves a contagious 'stain' on all who touch it and that societies purge it through purification rites and sacrifice.",
+   "why": "Chapter 14 builds its entire account of Sarah Connor's trauma, her failed reintegration into society, and warrior-purification rituals on Girard's stain framework."
+  },
+  {
+   "ch": 18,
+   "type": "philosopher",
+   "suggested_slug": "la-mettrie",
+   "name": "Julien Offray de La Mettrie",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "Eighteenth-century French materialist who in Man a Machine argued that humans are self-winding clocks, with no vital spark separating living from nonliving matter.",
+   "why": "Chapter 18 invokes La Mettrie's 'Mr. Machine' materialism alongside Turing to argue the self-terminating T-101 is a person and that machines may be evolution's next phase."
+  }
+ ]
+}

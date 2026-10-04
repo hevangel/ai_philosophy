@@ -1,0 +1,74 @@
+{
+  "book": "303 - Philosophy and the Interpretation of Pop Culture",
+  "unit": "u421",
+  "chapters": [
+    {
+      "n": 15,
+      "file": "ch15 - NOTES.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "adam-smith"],
+      "concepts": ["invisible-hand", "aristotle-four-causes"],
+      "relation": "Cantor argues that TV shows like The Simpsons and The X-Files can be genuine art despite multiple authorship, contingency, and commercial pressure, using the Lone Gunmen's audience-driven revival and Scully's pregnancy-forced abduction plot as evidence of a 'feedback' rather than 'perfect plan' model of creation. He rejects the Romantic/New Critical ideal of the solitary genius producing organic form and reframes popular culture through Hayek's spontaneous order, drawing directly on Adam Smith's self-regulating markets (the invisible hand) and Darwinian selection. Aristotle's Poetics supplies the target organic-form doctrine—that every part serves the whole—which Cantor says wrongly theorizes contingency out of art."
+    },
+    {
+      "n": 16,
+      "file": "ch16 - NOTES.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["gadamer-hermeneutics"],
+      "relation": "Gracia examines six Dracula films (Murnau, Browning, Morrisey, Herzog, Badham, Coppola) and asks how they relate to Stoker's novel, tracing the count's evolution from Murnau's rat-like horror to Coppola's tragic romantic knight who dies for love. He rejects the topical, essentialist, and family-resemblance accounts of the films' relation to the book and proposes instead that they are 'relational interpretations'—works in their own right whose primary aim is to link Stoker's story to an outside agenda (sex, humor, sympathy, heroism) rather than to explicate the novel. The argument is a piece of interpretation theory, distinguishing work-oriented from relational interpretation to explain why popular adaptations legitimately diverge from their source."
+    },
+    {
+      "n": 17,
+      "file": "ch17 - NOTES.md",
+      "kind": "chapter",
+      "philosophers": ["socrates", "aristotle", "searle"],
+      "concepts": ["socratic-method", "sophist-relativism", "searle-intentionality"],
+      "relation": "Matthews argues that certain children's books are 'subversive' in a Socratic sense: they problematize concepts adults assume they command, challenging adult epistemic authority the way Socrates exposed the pretended knowledge of Athens' elite. Morris the Moose raises Aristotelian questions of natural kinds and essence-versus-accident; Leese Webster probes the concept of art; The Shrinking of Treehorn destabilizes 'normal' child development; Frog and Toad's 'The Garden' dramatizes the post hoc, ergo propter hoc fallacy about causation. In the Ozma of Oz Tik-Tok discussion, nine-year-old Paul reconstructs an argument that only brains think, which Matthews aligns with Searle's claim in The Mystery of Consciousness that consciousness is caused by specific neurobiological processes; he explicitly distinguishes his subversive stories from those promoting Pyrrhonian skepticism or Protagorean relativism."
+    },
+    {
+      "n": 18,
+      "file": "ch18 - NOTES.md",
+      "kind": "chapter",
+      "philosophers": ["adorno"],
+      "concepts": ["culture-industry", "categorical-imperative"],
+      "relation": "South reads Batman, Batgirl, and Catwoman comics through J. M. Bernstein's Adorno-derived account of the 'damaged life' lived under Weberian rationalization and the disenchantment of the world. The Joker's 'one bad day' in The Killing Joke embodies 'affective skepticism'—the split between rational universal norms and agent-specific motivation—while the debate between moral internalism and externalism (which he ties to Kant-style abstract justification) expresses the hurt of a disenchanted world where justifying and motivating reasons no longer converge. Barbara Gordon's 'because I can,' Bruce Wayne's vow, and Selina Kyle's turn toward 'basic human dignity' exemplify Bernstein's 'fugitive ethics,' fragile promises that restore authority outside juridico-legal channels and produce genuine happiness in damaged lives."
+    },
+    {
+      "n": 19,
+      "file": "ch19 - NOTES.md",
+      "kind": "chapter",
+      "philosophers": ["descartes", "aristotle"],
+      "concepts": ["descartes-cogito", "aristotle-practical-wisdom"],
+      "relation": "Baur reads Don McLean's 'American Pie' as an enactment of how a culture can criticize itself from within, decoding its Buddy Holly, Dylan, Rolling Stones (Altamont), and Manson/Beatles allusions while insisting the song's meaning lies in simultaneous multiple meanings, not one-to-one correspondence. He argues McLean rejects any 'foundationalist' Archimedean point for critique—paralleling the standard objection that Descartes' cogito illicitly borrows the concept of finite substance from the tradition it claims to doubt—so the 'girl who sang the blues' shows that seeking a purer external origin only deepens disenchantment. Baur concludes with an Aristotelian point that cultural self-critique follows the model of the prudential sciences (phronesis) rather than techne: one reforms a tradition only by participating in it and exposing its internal contradictions."
+    },
+    {
+      "n": 20,
+      "file": "ch20 - NOTES.md",
+      "kind": "chapter",
+      "philosophers": ["william-james", "dewey", "quine", "benjamin"],
+      "concepts": ["will-to-believe", "web-of-belief", "benjamin-aura"],
+      "relation": "Hare treats mass photography—from the daguerreotype through digital cameras, Abu Ghraib snapshots, and diagnostic imaging—as making everyone a practicing epistemologist caught between two folk tenets: the photo as mirror of reality and as manipulation of reality. Defending photography as a genuine causal 'mode of seeing' (a prosthetic like telescopes), he proposes 'flexible realism,' adjusting Dewey's warranted assertibility and virtue-epistemology standards to context, and invokes William James's defense of beneficial 'overbeliefs' when National Geographic images strengthen confidence in one's own culture. Reading the Fallujah lead-pipe photo debate between editors Sullivan and Kushner, he uses Quine's recalcitrant-experience and web-of-belief holism—extended by Morton White's 'holistic pragmatism'—to show moral, epistemic, sensory, and emotional claims are tested together, and frames photography's democratization via Walter Benjamin's mechanical reproduction and loss of aura."
+    },
+    {
+      "n": 21,
+      "file": "ch21 - About the Editors and Contributors.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": [
+    {
+      "ch": 15,
+      "type": "concept",
+      "suggested_slug": "spontaneous-order",
+      "name": "Spontaneous Order",
+      "philosopher": "",
+      "domain": "political-social",
+      "what": "The idea, developed by Hayek from Smith and Darwin, that complex adaptive order can emerge from decentralized feedback without any central designer.",
+      "why": "Chapter 15's entire thesis reframes popular culture as Hayekian spontaneous order, a concept the taxonomy captures only obliquely through the Smith-specific 'invisible-hand'."
+    }
+  ]
+}

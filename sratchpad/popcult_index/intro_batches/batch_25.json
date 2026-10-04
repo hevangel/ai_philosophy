@@ -1,0 +1,107 @@
+[
+ {
+  "key": "knowledge-argument",
+  "name": "The Knowledge Argument (Mary's Room)",
+  "kind": "concept",
+  "philosopher": "Frank Jackson",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "what-is-it-like",
+  "name": "What Is It Like to Be a Bat?",
+  "kind": "concept",
+  "philosopher": "Thomas Nagel",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "parfit-teleportation",
+  "name": "Teleporter Paradox (personal fission)",
+  "kind": "concept",
+  "philosopher": "Derek Parfit",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "a-series-time",
+  "name": "The A-Series and B-Series of Time",
+  "kind": "concept",
+  "philosopher": "J.M.E. McTaggart",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "free-will-determinism",
+  "name": "Free Will vs Determinism",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "compatibilism",
+  "name": "Compatibilism",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "personal-identity",
+  "name": "Personal Identity",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "simulation-hypothesis",
+  "name": "The Simulation Hypothesis",
+  "kind": "concept",
+  "philosopher": "Nick Bostrom",
+  "domain": "Knowledge, Science & Reality"
+ },
+ {
+  "key": "time-travel",
+  "name": "The Metaphysics of Time Travel",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "bergson-duration",
+  "name": "Duration (durée)",
+  "kind": "concept",
+  "philosopher": "Henri Bergson",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "bergson-elan-vital",
+  "name": "Élan Vital (creative evolution)",
+  "kind": "concept",
+  "philosopher": "Henri Bergson",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "bergson-memory",
+  "name": "Matter and Memory",
+  "kind": "concept",
+  "philosopher": "Henri Bergson",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "bergson-laughter",
+  "name": "Laughter (the comic as mechanical encrusted on the living)",
+  "kind": "concept",
+  "philosopher": "Henri Bergson",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "freud-unconscious",
+  "name": "The Unconscious",
+  "kind": "concept",
+  "philosopher": "Sigmund Freud",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "freud-death-drive",
+  "name": "The Death Drive (Thanatos)",
+  "kind": "concept",
+  "philosopher": "Sigmund Freud",
+  "domain": "Mind, Language & Metaphysics"
+ }
+]

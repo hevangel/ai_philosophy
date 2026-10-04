@@ -1,0 +1,63 @@
+{
+  "book": "217 - The Philosophy of Clint Eastwood",
+  "unit": "u313",
+  "chapters": [
+    {
+      "n": 6,
+      "file": "ch06 - The Philosophy of Clint Eastwood.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "macintyre", "socrates"],
+      "concepts": ["aristotle-eudaimonia", "macintyre-tradition", "aristotle-friendship"],
+      "relation": "The editors' introduction argues that Eastwood, though no academic, does 'practical philosophy' through his films as a craftsman who inherits and then revises genres (revising the Western in Unforgiven, rethinking rugged individualism in Million Dollar Baby and Gran Torino). Invoking MacIntyre's claim that we are only co-authors of interlocking narratives, it reads Eastwood's focus on decisive moral choices (Francesca's refusal to leave in Bridges of Madison County, Butch Haynes in A Perfect World) as a 'laboratory of moral psychology' echoing Aristotle's 'choice discriminates character.' It ties his concern with loss, justice, and Aristotelian friendship and flourishing (Grinnell on Million Dollar Baby) to a Socratic 'know thyself,' arguing his philosophizing is implicit and nonverbal rather than argued in words."
+    },
+    {
+      "n": 7,
+      "file": "ch07 - The Philosophy of Clint Eastwood.md",
+      "kind": "chapter",
+      "philosophers": ["epictetus", "marcus-aurelius", "nietzsche", "kierkegaard", "camus"],
+      "concepts": ["stoicism", "death-of-god", "existentialism", "dichotomy-of-control"],
+      "relation": "Calhoun argues Eastwood's films move from solitary violent individualism (the Man with No Name, Dirty Harry) to what he calls 'post-Christian Stoic existentialism.' Using Epictetus's actor-in-a-play image and Marcus Aurelius on doing one's duty, he reads Butch Haynes in A Perfect World and William Munny in Unforgiven as figures 'dragged by the cart' of fate who nonetheless play their assigned role with dignity, while God is absent — Nietzsche's 'death of God.' Francesca's Stoic governance of impulse in Bridges of Madison County, Frankie's Kierkegaardian choice in Million Dollar Baby, and Walt's sacrificial community-building in Gran Torino show autonomous moral agency amid cultural collapse, with faint intimations of transcendence."
+    },
+    {
+      "n": 8,
+      "file": "ch08 - The Philosophy of Clint Eastwood.md",
+      "kind": "chapter",
+      "philosophers": ["plantinga", "aquinas", "augustine"],
+      "concepts": ["problem-of-evil", "aquinas-five-ways", "faith-vs-reason"],
+      "relation": "Clayton distinguishes the philosophical problem of evil (Aquinas's deductive argument, its inductive/evidential successors, and Plantinga's free-will defense) from what Plantinga calls the pastoral problem — the personal crisis suffering brings. He argues Eastwood, as 'practical philosopher,' registers the philosophical problem visually in Mystic River (camera panning heavenward at Katie's murder, the intercut Communion) but pointedly refuses to resolve it. In Hereafter the tsunami, deaths, and the twins' loss are met not with theodicy but with a recurring pastoral pattern of listening, being present, and acting compassionately (Dr. Rousseau with Marie, George's reading of Marcus), religion offering no answers."
+    },
+    {
+      "n": 9,
+      "file": "ch09 - The Philosophy of Clint Eastwood.md",
+      "kind": "chapter",
+      "philosophers": ["emerson", "nietzsche", "aristotle"],
+      "concepts": ["emerson-self-reliance", "moral-psychology"],
+      "relation": "Couch reads two Eastwood gestures — Josey Wales's spitting and the Man with No Name's smiling — as expressions of self-reliance that generate a 'motivational polarity,' simultaneously repelling and attracting others. Drawing on Miller and Mason on contempt and disgust as moral attitudes, and on evolutionary coalitional psychology, he argues Wales's 'contemptuous disgust' (spitting on dead bounty hunters, at the Comancheros) marks moral boundaries and forms surrogate-family coalitions, while the Man with No Name's deceptive non-Duchenne smile in the Dollars trilogy conceals lethal intent yet occasionally shows genuine compassion (freeing Tuco). The self-reliant individual, adhering to his own moral compass, inevitably divides others into allies and foes."
+    },
+    {
+      "n": 10,
+      "file": "ch10 - The Philosophy of Clint Eastwood.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "hobbes", "habermas"],
+      "concepts": ["punishment-theory", "aquinas-natural-law", "social-contract"],
+      "relation": "Flynn contends certain Westerns depict a 'law that stands behind the law' — a moral/natural law transcending and grounding the weak civil order — using High Noon, where Hadleyville proves unworthy of Kane's rectitude. High Plains Drifter evolves this into divine, supernatural retribution: the nameless Stranger, a pale-horse agent of apocalyptic justice, precisely punishes Lago for abetting the marshal Duncan's murder (whipping the whippers, renaming the town Hell). Flynn argues this vision is dangerous: by insulating justice from deliberation and depicting it as revelatory and divine, it derides the discursive, civil processes (Habermas-style communicative action) actually needed to make justice 'ours,' risking mere private vengeance — 'deserve's got nothin' to do with it.'"
+    },
+    {
+      "n": 11,
+      "file": "ch11 - The Philosophy of Clint Eastwood.md",
+      "kind": "chapter",
+      "philosophers": ["freud", "nietzsche", "socrates", "thoreau"],
+      "concepts": ["freud-unconscious", "socratic-ignorance", "master-slave-morality"],
+      "relation": "Gilmore reads Unforgiven as Socratic wisdom done in images — the recognition that we do not know what we really want. He analyzes the opening montage (shadowed windows, the cut prostitute) as Freud's Primal Scene, the audience forced to interpret sex and violence without adequate concepts, which he calls the primal scene of philosophy itself. Drawing on Huizinga's Homo Ludens and Leone's Once Upon a Time in the West, he frames the gunslinger as a 'Bad Man at play' for mortal stakes, free of the repressions civilization demands. William Munny's banal Christianized 'goodness' versus the terrifying Bad Man that drink releases dramatizes Thoreau's 'quiet desperation' and a godless world where deserving is irrelevant."
+    },
+    {
+      "n": 12,
+      "file": "ch12 - The Philosophy of Clint Eastwood.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle"],
+      "concepts": ["aristotle-friendship", "aristotle-eudaimonia", "aristotle-virtue-ethics"],
+      "relation": "Grinnell applies Aristotle's classification of friendship (utility, pleasure, and complete character-friendship between equals in excellence) to Million Dollar Baby and Gran Torino. Frankie/Maggie and Walt/Thao begin as incomplete, utility relationships across barriers of age, sex, and culture, then ripen into character-friendships of 'other selves' who pursue each other's good. He resolves the apparent paradox that friendship demands bringing about a death: Frankie euthanizes Maggie against his own wishes to honor her autonomy and whole-life excellence, while Walt engineers his own death and deceives Thao to spare him a vengeance that would destroy his character — each an Aristotelian sacrifice of self-interest for the friend that preserves the friendship's excellence."
+    }
+  ],
+  "holes": []
+}

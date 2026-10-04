@@ -1,0 +1,447 @@
+{
+ "book": "012 - Star Wars and Philosophy - More Powerful than You Can Possibly Imagine",
+ "unit": "u017",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Star Wars and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Popular Culture and Philosophy Series Editor William Irwin.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Heroes of Rogue Squadron.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - The Force Is with You . . . but You’re Not a Jedi Yet.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "descartes",
+    "hume",
+    "machiavelli",
+    "nietzsche",
+    "sartre",
+    "augustine",
+    "anselm"
+   ],
+   "concepts": [
+    "plato-euthyphro",
+    "ontological-argument",
+    "cartesian-dualism",
+    "hume-induction"
+   ],
+   "relation": "The editors' introduction argues that beneath its action scenes Star Wars stages ageless philosophical questions through the Skywalkers' struggles with identity, truth, freedom, and tragedy, opening with 'I've got a bad feeling about this' as basic philosophical wonder and doubt. It playfully transposes classic problems onto the saga: an Euthyphro-style question of whether Jedi virtues are good because the Jedi appreciate them, Anselm's question whether Yoda is a master greater than which cannot be conceived, Augustine on whether Anakin can be chaste 'but just not yet,' Machiavelli on Palpatine's Empire, Descartes' mind-body question asked of C-3PO, Hume's problem of induction applied to whether the sun will rise on Alderaan, Nietzsche's abyss for Vader, and Sartre's hell for the Sith. It previews each contributor's chapter rather than settling any question, framing the volume as a Kessel Run for the brain."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Part I - “May The Force Be with You”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - “This One a Long Time Have I Watched”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "aquinas",
+    "locke",
+    "aristotle"
+   ],
+   "concepts": [
+    "fate-vs-free-will",
+    "augustine-will",
+    "free-will-determinism"
+   ],
+   "relation": "Eberl argues that Anakin and Luke are radically free despite the Chosen One prophecy and Obi-Wan's 'you cannot escape your destiny.' Borrowing Augustine and Aquinas on God's eternity, he holds that foreknowledge (like the Jedi prophecy fulfilled when Vader destroys the Emperor) does not compel events - Anakin's choice makes the prophecy true, not vice versa - and applies Aristotle's tomorrow's-sea-battle to future-contingents like Obi-Wan's self-surrender on the Death Star. Using Locke's locked-room example and Augustine's account of 'inordinate desire,' he concludes that Anakin's fall stems from his own disordered will to control fate ('learn to stop people from dying'), while Han Solo embodies libertarian alternative possibilities ('No mystical energy field controls my destiny')."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - “Control, Control, You Must Learn Control”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "epictetus",
+    "seneca",
+    "marcus-aurelius",
+    "zeno-citium"
+   ],
+   "concepts": [
+    "stoicism",
+    "dichotomy-of-control",
+    "stoic-present-moment",
+    "stoic-cosmopolitanism"
+   ],
+   "relation": "Stephens reads Yoda as a Stoic sage: Luke's first impressions are blinded by appearance, but Yoda exhibits the Stoic virtues of patience, timeliness, focus on the present, apatheia (freedom from fear, anger, and hate), and ascetic discipline (askesis), living by the dichotomy of control. He reconstructs the contrasting 'logic of the Dark Side' - anger to hatred to aggression to the mastery of others - showing the Emperor as a tyrant who, unlike the self-mastering Stoic (Marcus Aurelius being the counterexample among rulers), seeks to control what is not up to him, so Vader's 'I must obey my master' is servitude to vice. The chapter also marks Stoic limits: the Emperor rightly rejects felt compassion but wrongly refuses beneficence and Stoic cosmopolitanism, and Stoic physicalism cannot accommodate Yoda's 'luminous beings' afterlife."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - “Great Warrior Wars Not Make One Great”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "laozi",
+    "buddha"
+   ],
+   "concepts": [
+    "taoism",
+    "zen",
+    "wu-wei",
+    "yin-yang"
+   ],
+   "relation": "Robinson (a Zen monk) argues the Force is best understood as ch'i and the Jedi path as philosophical Taoism and Zen: the Light and Dark Sides are the yin-yang polarity whose 'balance' Anakin's prophecy restores, and Anakin's fall is the Buddhist three poisons - clinging attachment to his mother and Padme breeding fear, anger, and hate. Yoda's teaching is Zen practice: 'You must unlearn what you have learned' is wu-wei (effortless action), 'Do or do not' rejects the divided mind of trying, and the Dagobah cave parallels the sword master Tesshu's koan insight that the real enemy is one's own mind ('no-enemy'). The chapter also traces Jedi genealogy to Bodhidharma's Shaolin kung-fu, the Korean Hwa Rang and Japanese Sohei warrior monks, and Bushido's samurai code, noting 'Jedi' derives from 'jidai geki'."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - “You Know . . . What They’re Up Against”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "mill",
+    "williams",
+    "kant",
+    "hume",
+    "bentham"
+   ],
+   "concepts": [
+    "moral-egoism",
+    "utilitarianism",
+    "williams-integrity",
+    "kant-humanity-formula"
+   ],
+   "relation": "Dees finds moral ambiguity lurking in Star Wars' black-and-white universe: Han Solo's Hobbesian ethical egoism ('I take orders from just one person - me') is shown to be coherent and gradually transformed by friendship with Luke and Leia into commitment to a cause. Lando's betrayal of Han on Bespin is defended as a straightforward Mill-Bentham utilitarian choice by a responsible official, weighed against Bernard Williams's Jim-and-the-commandant integrity objection, which the author rejects as moral vanity. Count Dooku's apparent idealism is exposed as evil's tool, and Anakin's massacre of the Sand People is condemned as non-ambiguous barbarity via Kant's formula of humanity (and Hume on reason's role with the passions), leaving only late Vader as genuinely morally ambiguous."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Part II - “Try Not—Do or Do Not”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - The Jedi Model.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [
+    "plato-cave",
+    "aristotle-golden-mean",
+    "noble-lie",
+    "plato-justice"
+   ],
+   "relation": "Barad presents a handbook of Jedi virtue modeled on Plato's Republic: the Jedi are Plato's Guardians, trained through physical exercise and Socratic questioning to guard peace and justice. Aristotle's golden mean explains courage as the balance between Chewbacca's cowardly fear and Anakin's rash rush at Dooku, with Luke's decision to leave Dagobah counting as courage because it has just cause. Luke's Dagobah cave vision (Vader's mask opening to reveal his own face) is read as Plato's Cave allegory turned inward - self-knowledge of one's fear of becoming evil - while compassion and forgiveness, not forbidden attachment, complete the Jedi character. The chapter even defends Jedi mind tricks via Plato's noble lie (the myth of the metals) as manipulation of the weak-minded for the common good."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Fate of Evil after the Overthrow of the Empire.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "plato"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "augustine-will",
+    "free-will-determinism"
+   ],
+   "relation": "Brown treats Luke's 'Is the Dark Side stronger?' as the problem of evil: distinguishing natural evils (the wampa, bigger fish) from moral evils (Tarkin destroying Alderaan), he surveys the Platonic craftsman working recalcitrant matter and the Manichean dualism of two gods - the Emperor as would-be 'evil incarnate' - before giving Augustine's answer. On Augustine's free-will defense, no creature is inherently evil; the origin of each moral evil is the creature's own pride and free choice, so Anakin, not the Emperor's seduction, is responsible for his turn ('I'm a Jedi. I know I'm better than this'). The chapter ends on whether evil can ever be finally defeated, arguing the Jedi prophecies of 'balance' fit a world where evil is a permanent possibility that heroism needs."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Restoring Balance to the Force.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer",
+    "leopold"
+   ],
+   "concepts": [
+    "speciesism",
+    "anthropocentrism",
+    "land-ethic"
+   ],
+   "relation": "Cooke uncovers an environmental ethic in Star Wars: after surveying anthropocentric resource-management views and Singer's anti-speciesism (Luke blithely shooting womprats, the Geonosian arena's abused beasts), she builds the chapter on Holmes Rolston III's claims that organisms and ecosystems have intrinsic value and that value is systemic and holistic. The 'living Force' - life creates it, midi-chlorians live symbiotically in all cells - makes Jedi training a discipline of respecting nature, exemplified by Yoda's mud hut on Dagobah and the self-sufficient Gungan and Ewok eco-communities that defeat droid armies and stormtroopers. Restoring balance to the Force therefore means restoring symbiotic balance between human culture and the natural world, which the chapter links to Leopold-style land-ethic holism of the biotic community."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Send in the Clones!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "plato"
+   ],
+   "concepts": [
+    "just-war-theory",
+    "kant-humanity-formula",
+    "applied-ethics"
+   ],
+   "relation": "Hanley defends a provocative 'yes' to cloning, genetic engineering, and clone armies. He dismisses the 'yuck factor' as showing nothing inherently bad, argues via non-identity-style cases (a genetically corrected or maimed Luke is a different child who is not thereby harmed) that early genetic manipulation harms no one, and distinguishes brainwashing, coercion, and inducement (Obi-Wan's death-stick mind trick, Vader's threats to Lando, Jar Jar's exploitation) to ask when bending another's will is permissible. Turning to warfare, he applies Just War theory's conditions - judging Anakin's slaughter of the Sand People guilty on nearly every count - and concludes that troops with deliberately diminished autonomy may be the least objectionable solution to the ethics of recruitment, training, and deployment: send in the clones."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Part III - “Don’t Call Me a Mindless Philosopher!”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Only a Jedi Can Save Us Forgetting and Recollecting.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "parmenides",
+    "heraclitus"
+   ],
+   "concepts": [
+    "heidegger-technology",
+    "dasein",
+    "authenticity"
+   ],
+   "relation": "Abrams reads the saga through Heidegger's philosophy of technology: the lightsaber Luke learns to feel as an extension of his body is the authentic 'ready-to-hand,' while the Death Star - a massive mechanical eye that enfames Alderaan on its viewscreen before destroying it - embodies the 'present-at-hand' gaze of enframing that converts nature into standing reserve (clone and droid armies, stormtrooper armor). Yoda on Dagobah is perfect attunement, an authentic being-in-the-world who is 'at home' with being, and the Force parallels Heidegger's being: everywhere, easily forgotten. Anakin's slide - slave of Watto, severed hand replaced by cybernetics, final encasement in Vader's armor - is progressive enframing and forgetting of his own being, and Luke's 'the name of your true self... you've only forgotten' is the recollection of being by which the Jedi, not a god, saves us."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - It’s Not Our Lot in Life!.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "turing-test",
+    "applied-ethics"
+   ],
+   "relation": "Arp argues that C-3PO and R2-D2 satisfy the standard functional criteria of personhood - rationality, mental states, language, social relationships, and moral agency - opening with a blind listener who took Threepio's frightened chatter for a man, a Turing-test-style judgment from behavior alone. He catalogues evidence: Threepio's odds-calculating and Wookiee-winning deduction, Artoo's deceptive manipulation of Luke, the droid torture victim's screams at Jabba's palace, and the Chewbacca-Threepio quasi-familial bond on Cloud City. Since droids meet the conditions, their restraining bolts, cantina bans, and forced servitude are slavery, and the Galactic Senate should grant them limited rights - perhaps cheering a droid rebellion against the organic empire - a question the chapter urges on us as robotics approaches Moravec's predictions."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - “May The Force Be with You”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "leibniz",
+    "russell"
+   ],
+   "concepts": [
+    "hume-induction",
+    "monadology",
+    "skepticism"
+   ],
+   "relation": "Jones uses the Force's telekinesis (Luke's lightsaber flying to his hand, Yoda raising the X-wing) to probe the metaphysics of causation. Hume shows we never observe the necessary connection between cause and effect - only constant conjunction and habit - so Jedi mind-power is no more mysterious than gravity or magnetism; Leibniz's Monadology argues one substance cannot transfer properties to another, so 'how' any cause works is unintelligible; and Hume's problem of induction (will Tatooine's twin suns rise tomorrow? will Vader's officers always choke?) shows law-governed expectations cannot be non-circularly justified. Concurring with Russell that 'cause' is a relic, the chapter concludes the Force qualifies as a kind of cause precisely because our causal concept is too vague to exclude it - and plugs science fiction as a laboratory for sharpening concepts."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Force of Love.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel",
+    "plato",
+    "epictetus",
+    "hobbes"
+   ],
+   "concepts": [
+    "hegel-geist",
+    "platonic-love",
+    "hegel-history"
+   ],
+   "relation": "Lawler identifies Hegel's Absolute Spirit with the Force: Hegel's distillation of religious history - divine nature (the Ewoks worshipping C-3PO), the Roman Empire's transcendent Unhappy Consciousness, and Christianity's Consummate Religion - maps onto the saga's movement, with Anakin's virgin birth, prophecy, fall, and Calvary-like redemption fulfilling the pattern differently from the sinless Savior. The Dark Side is the separate ego asserting 'I' against 'We' (Hobbes's war of all against all culminating in the Emperor), and sin is the belief that one is an isolated individual. Against the Jedi's Stoic detachment (Epictetus), the chapter uses Diotima's ladder of love from Plato's Symposium and Hegel's Faust to argue that only passionate, attached love - Anakin's for Padme and Luke's for his father - descends into darkness and brings the Spirit's balance, so 'the Force is with us.'"
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Part IV - “There’s Always a Bigger Fish”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - An Empire of Fear and Trembling.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel",
+    "nietzsche"
+   ],
+   "concepts": [
+    "hegel-master-slave",
+    "hegel-recognition",
+    "will-to-power"
+   ],
+   "relation": "Cameron reads the Emperor's dominion through Hegel's master-slave dialectic and struggle for recognition: fear is the Empire's currency, from Alderaan's destruction as visible demonstration ('fear will keep the local systems in line') to Vader's deliberately undefined threats ('The Emperor is not as forgiving as I am'), while hatred binds the Sith Master to Maul, Dooku, and Vader. Because the master can never win recognition from an unequal slave, Palpatine's will-to-power rule is a historical dead end, whereas the slave - Anakin laboring in Watto's shop, Luke overcoming his fear in the cave and under Yoda - can transform himself through work and courage. Vader's final turn is thus his achievement of a new self-consciousness, recognizing himself as 'something other than a slave' at the moment Luke's unshakeable faith forces the truth on him."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Palpatine’s Legacy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "machiavelli",
+    "plato",
+    "aristotle",
+    "dewey",
+    "rousseau"
+   ],
+   "concepts": [
+    "machiavelli-ends",
+    "philosopher-king",
+    "dewey-democracy",
+    "democracy-theory"
+   ],
+   "relation": "Decker reconstructs Palpatine's career as a case study in how democracies die: using Aristotle's definition of tyranny and the precedent of Pisistratus and Julius Caesar, he shows Palpatine manufacturing the Separatist threat so the Senate grants him emergency powers - a twist on Machiavelli's loved-versus-feared dictum in which playing the reluctant democrat is itself the means to absolute rule. The Attack of the Clones debate between Anakin ('Someone wise' should make people agree) and Padme becomes a clash between Leo Strauss's philosopher-king ideal of rule by the virtuous few and John Dewey's conception of democracy as a way of life trusting the intelligence of common people, with Rousseau's social contract framing the stakes. The chapter concludes that democratic ends require democratic means and that unaccountable 'watchers' - Straussian statesmen or Anakins - are exactly the path to Empire."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - “Luminous Beings Are We . . . Not This Crude Matter”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "bacon",
+    "benjamin"
+   ],
+   "concepts": [
+    "aristotle-soul",
+    "aristotle-four-causes",
+    "benjamin-aura"
+   ],
+   "relation": "Donnelly counter-reads The Empire Strikes Back against Aristotle's philosophical realism, in which nature is purposive, form and matter are inseparable, and each person is an irreplaceable primary substance. Lucas 'humanizes technology' - C-3PO reassembled like the Tin Woodsman, AT-ATs as beasts, Han slicing open the tauntaun with a sneer at its flesh, Luke admiring his new bionic hand - blurring Aristotle's art/nature distinction and reducing body to interchangeable machine parts, a Baconian will to power over nature that even Yoda's mind-over-matter training echoes (the chapter opens with Benjamin's remark that the copy eclipses the original). The result, he argues, is dehumanization: preferring the odorless tin heart to creaturely flesh trades the genuinely human for Gulliver's barn of horses."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - “Trust Your Feelings”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "nietzsche",
+    "socrates",
+    "kant",
+    "buddha"
+   ],
+   "concepts": [
+    "noble-lie",
+    "nietzsche-perspectivism",
+    "utilitarianism"
+   ],
+   "relation": "Fader tackles the paradox that Jedi lie while Sith tell the truth: Obi-Wan's 'Darth Vader betrayed and murdered your father,' Yoda's trickster masquerade on Dagobah, the Council's cover-up of its waning powers, against Vader's brutal truth at Cloud City and Palpatine's technically honest 'I love democracy.' Kant's absolute prohibition of lying is set against the utilitarian's greatest-good lie and Nietzsche's claim that truth is the accepted set of social lies; Obi-Wan's deception is then defended through Plato's noble lie and the Buddha's Parable of the House on Fire, where 'expedients' to save the oblivious are no falsehood, while Vader and Dooku wield literal truths as weapons without compassion. Luke's answer is to stop accepting anyone's version and build his own green lightsaber: truth as perspective, intention, and finally the heart's understanding that redeems Anakin."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - “A New Hope”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "william-james",
+    "clifford"
+   ],
+   "concepts": [
+    "will-to-believe",
+    "pragmatic-truth",
+    "pragmatism"
+   ],
+   "relation": "Long stages William Clifford's ethics of belief against William James's will to believe, with Luke Skywalker as James's exemplar. Clifford's shipowner story condemns faith as 'wrong always, everywhere, and for anyone,' which would convict Luke of immorality when he switches off his targeting computer and trusts the Force; James replies that where a choice is intellectually undecidable and a genuine option - live, forced, and momentous, like Luke's turn to the Jedi life or Obi-Wan's response to Leia's hologram - pragmatic faith is justified and even salvific. Faith can create truths: Han flying into the asteroid field, Luke's unjustified belief that there is good in Vader bringing Anakin back, the author's faith in his students, and Martin Luther King Jr.'s dream - all illustrating 'a new hope.'"
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Masters of the Jedi Council.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - The Phantom Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Star Wars and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Star Wars and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 16,
+   "type": "philosopher",
+   "suggested_slug": "rolston",
+   "name": "Holmes Rolston III",
+   "philosopher": "",
+   "domain": "environment-animal",
+   "what": "Environmental philosopher who argues that organisms and ecosystems possess intrinsic (not merely instrumental) value and that value is holistic, embedded in the biotic community.",
+   "why": "Chapter 16 builds its entire reading of the 'living Force' and Jedi ecology on Rolston's intrinsic-value holism, citing his works more than any other thinker, and the existing land-ethic slug does not name its actual source."
+  },
+  {
+   "ch": 25,
+   "type": "philosopher",
+   "suggested_slug": "strauss",
+   "name": "Leo Strauss",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Twentieth-century political philosopher who revived classical political rationalism and defended rule by a virtuous elite ('universal aristocracy') of those with insight into the highest good.",
+   "why": "Chapter 25 frames Anakin's 'someone wise' defense of benevolent dictatorship as Straussian, staging Strauss's elite rule against Dewey's democracy as a way of life as the chapter's central contrast."
+  },
+  {
+   "ch": 28,
+   "type": "philosopher",
+   "suggested_slug": "clifford",
+   "name": "W.K. Clifford",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Victorian mathematician-philosopher whose 'Ethics of Belief' holds that 'it is wrong always, everywhere, and for anyone, to believe anything upon insufficient evidence.'",
+   "why": "Chapter 28's first half is structured around Clifford's evidentialism and shipowner parable as the position James's pragmatist faith must defeat, and no taxonomy slug covers the ethics of belief."
+  }
+ ]
+}

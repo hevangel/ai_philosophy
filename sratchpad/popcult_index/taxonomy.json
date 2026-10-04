@@ -1,0 +1,3533 @@
+{
+ "domains": {
+  "ancient": {
+   "n": "Ancient Greek & Hellenistic Philosophy"
+  },
+  "eastern-world": {
+   "n": "Eastern & World Philosophy"
+  },
+  "medieval-early-modern": {
+   "n": "Medieval & Early Modern Philosophy"
+  },
+  "kant-german-idealism": {
+   "n": "Kant & German Idealism"
+  },
+  "nineteenth-century": {
+   "n": "19th Century: Nietzsche, Marx & After"
+  },
+  "utilitarian-consequentialist": {
+   "n": "Utilitarianism & Consequentialism"
+  },
+  "existentialism-phenomenology": {
+   "n": "Existentialism & Phenomenology"
+  },
+  "mind-language-metaphysics": {
+   "n": "Mind, Language & Metaphysics"
+  },
+  "knowledge-science-reality": {
+   "n": "Knowledge, Science & Reality"
+  },
+  "ethics-moral-psychology": {
+   "n": "Ethics & Moral Psychology"
+  },
+  "political-social": {
+   "n": "Political & Social Philosophy"
+  },
+  "pragmatism-american": {
+   "n": "Pragmatism & American Philosophy"
+  },
+  "feminism-gender-race": {
+   "n": "Feminist, Gender & Race Philosophy"
+  },
+  "environment-animal": {
+   "n": "Environmental & Animal Ethics"
+  },
+  "religion-meaning": {
+   "n": "God, Faith & the Meaning of Life"
+  }
+ },
+ "philosophers": {
+  "socrates": {
+   "n": "Socrates",
+   "d": "470–399 BC",
+   "dom": "ancient"
+  },
+  "plato": {
+   "n": "Plato",
+   "d": "428–348 BC",
+   "dom": "ancient"
+  },
+  "aristotle": {
+   "n": "Aristotle",
+   "d": "384–322 BC",
+   "dom": "ancient"
+  },
+  "heraclitus": {
+   "n": "Heraclitus",
+   "d": "c. 535–475 BC",
+   "dom": "ancient"
+  },
+  "parmenides": {
+   "n": "Parmenides",
+   "d": "c. 515–450 BC",
+   "dom": "ancient"
+  },
+  "zeno-elea": {
+   "n": "Zeno of Elea",
+   "d": "c. 490–430 BC",
+   "dom": "ancient"
+  },
+  "democritus": {
+   "n": "Democritus",
+   "d": "c. 460–370 BC",
+   "dom": "ancient"
+  },
+  "pythagoras": {
+   "n": "Pythagoras",
+   "d": "c. 570–495 BC",
+   "dom": "ancient"
+  },
+  "protagoras": {
+   "n": "Protagoras",
+   "d": "c. 490–420 BC",
+   "dom": "ancient"
+  },
+  "diogenes-cynic": {
+   "n": "Diogenes the Cynic",
+   "d": "c. 412–323 BC",
+   "dom": "ancient"
+  },
+  "plutarch": {
+   "n": "Plutarch",
+   "d": "c. 46–119 AD",
+   "dom": "ancient"
+  },
+  "epicurus": {
+   "n": "Epicurus",
+   "d": "341–270 BC",
+   "dom": "ancient"
+  },
+  "pyrrho": {
+   "n": "Pyrrho",
+   "d": "c. 360–270 BC",
+   "dom": "ancient"
+  },
+  "sextus-empiricus": {
+   "n": "Sextus Empiricus",
+   "d": "c. 160–210 AD",
+   "dom": "ancient"
+  },
+  "zeno-citium": {
+   "n": "Zeno of Citium",
+   "d": "c. 334–262 BC",
+   "dom": "ancient"
+  },
+  "epictetus": {
+   "n": "Epictetus",
+   "d": "c. 50–135 AD",
+   "dom": "ancient"
+  },
+  "seneca": {
+   "n": "Seneca",
+   "d": "c. 4 BC–65 AD",
+   "dom": "ancient"
+  },
+  "marcus-aurelius": {
+   "n": "Marcus Aurelius",
+   "d": "121–180 AD",
+   "dom": "ancient"
+  },
+  "cicero": {
+   "n": "Cicero",
+   "d": "106–43 BC",
+   "dom": "ancient"
+  },
+  "lucretius": {
+   "n": "Lucretius",
+   "d": "c. 99–55 BC",
+   "dom": "ancient"
+  },
+  "plotinus": {
+   "n": "Plotinus",
+   "d": "c. 204–270 AD",
+   "dom": "ancient"
+  },
+  "confucius": {
+   "n": "Confucius",
+   "d": "551–479 BC",
+   "dom": "eastern-world"
+  },
+  "mencius": {
+   "n": "Mencius",
+   "d": "372–289 BC",
+   "dom": "eastern-world"
+  },
+  "xunzi": {
+   "n": "Xunzi",
+   "d": "c. 310–235 BC",
+   "dom": "eastern-world"
+  },
+  "laozi": {
+   "n": "Laozi",
+   "d": "6th c. BC",
+   "dom": "eastern-world"
+  },
+  "zhuangzi": {
+   "n": "Zhuangzi",
+   "d": "c. 369–286 BC",
+   "dom": "eastern-world"
+  },
+  "sun-tzu": {
+   "n": "Sun Tzu",
+   "d": "5th c. BC",
+   "dom": "eastern-world"
+  },
+  "buddha": {
+   "n": "The Buddha",
+   "d": "c. 563–483 BC",
+   "dom": "eastern-world"
+  },
+  "nagarjuna": {
+   "n": "Nagarjuna",
+   "d": "c. 150–250 AD",
+   "dom": "eastern-world"
+  },
+  "dogen": {
+   "n": "Dogen",
+   "d": "1200–1253",
+   "dom": "eastern-world"
+  },
+  "shankara": {
+   "n": "Shankara",
+   "d": "c. 700–750 AD",
+   "dom": "eastern-world"
+  },
+  "gandhi": {
+   "n": "Mahatma Gandhi",
+   "d": "1869–1948",
+   "dom": "eastern-world"
+  },
+  "augustine": {
+   "n": "Augustine of Hippo",
+   "d": "354–430",
+   "dom": "medieval-early-modern"
+  },
+  "boethius": {
+   "n": "Boethius",
+   "d": "c. 477–524",
+   "dom": "medieval-early-modern"
+  },
+  "anselm": {
+   "n": "Anselm of Canterbury",
+   "d": "1033–1109",
+   "dom": "medieval-early-modern"
+  },
+  "aquinas": {
+   "n": "Thomas Aquinas",
+   "d": "1225–1274",
+   "dom": "medieval-early-modern"
+  },
+  "ockham": {
+   "n": "William of Ockham",
+   "d": "c. 1287–1347",
+   "dom": "medieval-early-modern"
+  },
+  "maimonides": {
+   "n": "Maimonides",
+   "d": "1138–1204",
+   "dom": "medieval-early-modern"
+  },
+  "avicenna": {
+   "n": "Avicenna (Ibn Sina)",
+   "d": "980–1037",
+   "dom": "medieval-early-modern"
+  },
+  "averroes": {
+   "n": "Averroes (Ibn Rushd)",
+   "d": "1126–1198",
+   "dom": "medieval-early-modern"
+  },
+  "al-ghazali": {
+   "n": "Al-Ghazali",
+   "d": "c. 1058–1111",
+   "dom": "medieval-early-modern"
+  },
+  "descartes": {
+   "n": "René Descartes",
+   "d": "1596–1650",
+   "dom": "medieval-early-modern"
+  },
+  "spinoza": {
+   "n": "Baruch Spinoza",
+   "d": "1632–1677",
+   "dom": "medieval-early-modern"
+  },
+  "leibniz": {
+   "n": "Gottfried Leibniz",
+   "d": "1646–1716",
+   "dom": "medieval-early-modern"
+  },
+  "pascal": {
+   "n": "Blaise Pascal",
+   "d": "1623–1662",
+   "dom": "medieval-early-modern"
+  },
+  "montaigne": {
+   "n": "Michel de Montaigne",
+   "d": "1533–1592",
+   "dom": "medieval-early-modern"
+  },
+  "locke": {
+   "n": "John Locke",
+   "d": "1632–1704",
+   "dom": "medieval-early-modern"
+  },
+  "berkeley": {
+   "n": "George Berkeley",
+   "d": "1685–1753",
+   "dom": "medieval-early-modern"
+  },
+  "hume": {
+   "n": "David Hume",
+   "d": "1711–1776",
+   "dom": "medieval-early-modern"
+  },
+  "reid": {
+   "n": "Thomas Reid",
+   "d": "1710–1796",
+   "dom": "medieval-early-modern"
+  },
+  "kant": {
+   "n": "Immanuel Kant",
+   "d": "1724–1804",
+   "dom": "kant-german-idealism"
+  },
+  "fichte": {
+   "n": "Johann Fichte",
+   "d": "1762–1814",
+   "dom": "kant-german-idealism"
+  },
+  "hegel": {
+   "n": "G.W.F. Hegel",
+   "d": "1770–1831",
+   "dom": "kant-german-idealism"
+  },
+  "schopenhauer": {
+   "n": "Arthur Schopenhauer",
+   "d": "1788–1860",
+   "dom": "kant-german-idealism"
+  },
+  "nietzsche": {
+   "n": "Friedrich Nietzsche",
+   "d": "1844–1900",
+   "dom": "nineteenth-century"
+  },
+  "marx": {
+   "n": "Karl Marx",
+   "d": "1818–1883",
+   "dom": "nineteenth-century"
+  },
+  "spencer": {
+   "n": "Herbert Spencer",
+   "d": "1820–1903",
+   "dom": "nineteenth-century"
+  },
+  "bentham": {
+   "n": "Jeremy Bentham",
+   "d": "1748–1832",
+   "dom": "utilitarian-consequentialist"
+  },
+  "mill": {
+   "n": "John Stuart Mill",
+   "d": "1806–1873",
+   "dom": "utilitarian-consequentialist"
+  },
+  "sidgwick": {
+   "n": "Henry Sidgwick",
+   "d": "1838–1900",
+   "dom": "utilitarian-consequentialist"
+  },
+  "singer": {
+   "n": "Peter Singer",
+   "d": "b. 1946",
+   "dom": "utilitarian-consequentialist"
+  },
+  "kierkegaard": {
+   "n": "Søren Kierkegaard",
+   "d": "1813–1855",
+   "dom": "existentialism-phenomenology"
+  },
+  "husserl": {
+   "n": "Edmund Husserl",
+   "d": "1859–1938",
+   "dom": "existentialism-phenomenology"
+  },
+  "heidegger": {
+   "n": "Martin Heidegger",
+   "d": "1889–1976",
+   "dom": "existentialism-phenomenology"
+  },
+  "sartre": {
+   "n": "Jean-Paul Sartre",
+   "d": "1905–1980",
+   "dom": "existentialism-phenomenology"
+  },
+  "beauvoir": {
+   "n": "Simone de Beauvoir",
+   "d": "1908–1986",
+   "dom": "existentialism-phenomenology"
+  },
+  "camus": {
+   "n": "Albert Camus",
+   "d": "1913–1960",
+   "dom": "existentialism-phenomenology"
+  },
+  "merleau-ponty": {
+   "n": "Maurice Merleau-Ponty",
+   "d": "1908–1961",
+   "dom": "existentialism-phenomenology"
+  },
+  "frankl": {
+   "n": "Viktor Frankl",
+   "d": "1905–1997",
+   "dom": "existentialism-phenomenology"
+  },
+  "levinas": {
+   "n": "Emmanuel Levinas",
+   "d": "1906–1995",
+   "dom": "existentialism-phenomenology"
+  },
+  "turing": {
+   "n": "Alan Turing",
+   "d": "1912–1954",
+   "dom": "mind-language-metaphysics"
+  },
+  "searle": {
+   "n": "John Searle",
+   "d": "b. 1932",
+   "dom": "mind-language-metaphysics"
+  },
+  "putnam": {
+   "n": "Hilary Putnam",
+   "d": "1926–2016",
+   "dom": "mind-language-metaphysics"
+  },
+  "chalmers": {
+   "n": "David Chalmers",
+   "d": "b. 1966",
+   "dom": "mind-language-metaphysics"
+  },
+  "dennett": {
+   "n": "Daniel Dennett",
+   "d": "1942–2024",
+   "dom": "mind-language-metaphysics"
+  },
+  "wittgenstein": {
+   "n": "Ludwig Wittgenstein",
+   "d": "1889–1951",
+   "dom": "mind-language-metaphysics"
+  },
+  "russell": {
+   "n": "Bertrand Russell",
+   "d": "1872–1970",
+   "dom": "mind-language-metaphysics"
+  },
+  "moore": {
+   "n": "G.E. Moore",
+   "d": "1873–1958",
+   "dom": "mind-language-metaphysics"
+  },
+  "frege": {
+   "n": "Gottlob Frege",
+   "d": "1848–1925",
+   "dom": "mind-language-metaphysics"
+  },
+  "quine": {
+   "n": "W.V.O. Quine",
+   "d": "1908–2000",
+   "dom": "mind-language-metaphysics"
+  },
+  "kripke": {
+   "n": "Saul Kripke",
+   "d": "1940–2022",
+   "dom": "mind-language-metaphysics"
+  },
+  "lewis": {
+   "n": "David Lewis",
+   "d": "1941–2001",
+   "dom": "mind-language-metaphysics"
+  },
+  "ryle": {
+   "n": "Gilbert Ryle",
+   "d": "1900–1976",
+   "dom": "mind-language-metaphysics"
+  },
+  "jackson": {
+   "n": "Frank Jackson",
+   "d": "b. 1943",
+   "dom": "mind-language-metaphysics"
+  },
+  "nagel": {
+   "n": "Thomas Nagel",
+   "d": "b. 1937",
+   "dom": "mind-language-metaphysics"
+  },
+  "parfit": {
+   "n": "Derek Parfit",
+   "d": "1942–2017",
+   "dom": "mind-language-metaphysics"
+  },
+  "mctaggart": {
+   "n": "J.M.E. McTaggart",
+   "d": "1866–1925",
+   "dom": "mind-language-metaphysics"
+  },
+  "clark": {
+   "n": "Andy Clark",
+   "d": "b. 1957",
+   "dom": "mind-language-metaphysics"
+  },
+  "vann-inwagen": {
+   "n": "Peter van Inwagen",
+   "d": "b. 1942",
+   "dom": "mind-language-metaphysics"
+  },
+  "bergson": {
+   "n": "Henri Bergson",
+   "d": "1859–1941",
+   "dom": "mind-language-metaphysics"
+  },
+  "freud": {
+   "n": "Sigmund Freud",
+   "d": "1856–1939",
+   "dom": "mind-language-metaphysics"
+  },
+  "jung": {
+   "n": "Carl Jung",
+   "d": "1875–1961",
+   "dom": "mind-language-metaphysics"
+  },
+  "lacan": {
+   "n": "Jacques Lacan",
+   "d": "1901–1981",
+   "dom": "mind-language-metaphysics"
+  },
+  "isaiah-berlin": {
+   "n": "Isaiah Berlin",
+   "d": "1909–1997",
+   "dom": "political-social"
+  },
+  "gadamer": {
+   "n": "Hans-Georg Gadamer",
+   "d": "1900–2002",
+   "dom": "existentialism-phenomenology"
+  },
+  "gettier": {
+   "n": "Edmund Gettier",
+   "d": "1927–2021",
+   "dom": "knowledge-science-reality"
+  },
+  "goldman": {
+   "n": "Alvin Goldman",
+   "d": "b. 1938",
+   "dom": "knowledge-science-reality"
+  },
+  "kuhn": {
+   "n": "Thomas Kuhn",
+   "d": "1922–1996",
+   "dom": "knowledge-science-reality"
+  },
+  "popper": {
+   "n": "Karl Popper",
+   "d": "1902–1994",
+   "dom": "knowledge-science-reality"
+  },
+  "feyerabend": {
+   "n": "Paul Feyerabend",
+   "d": "1924–1994",
+   "dom": "knowledge-science-reality"
+  },
+  "bacon": {
+   "n": "Francis Bacon",
+   "d": "1561–1626",
+   "dom": "knowledge-science-reality"
+  },
+  "bostrom": {
+   "n": "Nick Bostrom",
+   "d": "b. 1973",
+   "dom": "knowledge-science-reality"
+  },
+  "foot": {
+   "n": "Philippa Foot",
+   "d": "1920–2010",
+   "dom": "ethics-moral-psychology"
+  },
+  "thomson": {
+   "n": "Judith Jarvis Thomson",
+   "d": "1929–2020",
+   "dom": "ethics-moral-psychology"
+  },
+  "rachels": {
+   "n": "James Rachels",
+   "d": "1941–2003",
+   "dom": "ethics-moral-psychology"
+  },
+  "mackie": {
+   "n": "J.L. Mackie",
+   "d": "1917–1981",
+   "dom": "ethics-moral-psychology"
+  },
+  "williams": {
+   "n": "Bernard Williams",
+   "d": "1929–2003",
+   "dom": "ethics-moral-psychology"
+  },
+  "frankfurt": {
+   "n": "Harry Frankfurt",
+   "d": "1929–2023",
+   "dom": "ethics-moral-psychology"
+  },
+  "korsgaard": {
+   "n": "Christine Korsgaard",
+   "d": "b. 1952",
+   "dom": "ethics-moral-psychology"
+  },
+  "gilligan": {
+   "n": "Carol Gilligan",
+   "d": "b. 1936",
+   "dom": "ethics-moral-psychology"
+  },
+  "noddings": {
+   "n": "Nel Noddings",
+   "d": "1929–2022",
+   "dom": "ethics-moral-psychology"
+  },
+  "macintyre": {
+   "n": "Alasdair MacIntyre",
+   "d": "b. 1929",
+   "dom": "ethics-moral-psychology"
+  },
+  "nussbaum": {
+   "n": "Martha Nussbaum",
+   "d": "b. 1947",
+   "dom": "ethics-moral-psychology"
+  },
+  "anscombe": {
+   "n": "Elizabeth Anscombe",
+   "d": "1919–2001",
+   "dom": "ethics-moral-psychology"
+  },
+  "adam-smith": {
+   "n": "Adam Smith",
+   "d": "1723–1790",
+   "dom": "ethics-moral-psychology"
+  },
+  "wolf": {
+   "n": "Susan Wolf",
+   "d": "b. 1952",
+   "dom": "ethics-moral-psychology"
+  },
+  "hobbes": {
+   "n": "Thomas Hobbes",
+   "d": "1588–1679",
+   "dom": "political-social"
+  },
+  "rousseau": {
+   "n": "Jean-Jacques Rousseau",
+   "d": "1712–1778",
+   "dom": "political-social"
+  },
+  "machiavelli": {
+   "n": "Niccolò Machiavelli",
+   "d": "1469–1527",
+   "dom": "political-social"
+  },
+  "rawls": {
+   "n": "John Rawls",
+   "d": "1921–2002",
+   "dom": "political-social"
+  },
+  "nozick": {
+   "n": "Robert Nozick",
+   "d": "1938–2002",
+   "dom": "political-social"
+  },
+  "sandel": {
+   "n": "Michael Sandel",
+   "d": "b. 1953",
+   "dom": "political-social"
+  },
+  "walzer": {
+   "n": "Michael Walzer",
+   "d": "b. 1935",
+   "dom": "political-social"
+  },
+  "arendt": {
+   "n": "Hannah Arendt",
+   "d": "1906–1975",
+   "dom": "political-social"
+  },
+  "foucault": {
+   "n": "Michel Foucault",
+   "d": "1926–1984",
+   "dom": "political-social"
+  },
+  "derrida": {
+   "n": "Jacques Derrida",
+   "d": "1930–2004",
+   "dom": "political-social"
+  },
+  "deleuze": {
+   "n": "Gilles Deleuze",
+   "d": "1925–1995",
+   "dom": "political-social"
+  },
+  "baudrillard": {
+   "n": "Jean Baudrillard",
+   "d": "1929–2007",
+   "dom": "political-social"
+  },
+  "lyotard": {
+   "n": "Jean-François Lyotard",
+   "d": "1924–1998",
+   "dom": "political-social"
+  },
+  "gramsci": {
+   "n": "Antonio Gramsci",
+   "d": "1891–1937",
+   "dom": "political-social"
+  },
+  "marcuse": {
+   "n": "Herbert Marcuse",
+   "d": "1898–1979",
+   "dom": "political-social"
+  },
+  "adorno": {
+   "n": "Theodor Adorno",
+   "d": "1903–1969",
+   "dom": "political-social"
+  },
+  "benjamin": {
+   "n": "Walter Benjamin",
+   "d": "1892–1940",
+   "dom": "political-social"
+  },
+  "habermas": {
+   "n": "Jürgen Habermas",
+   "d": "b. 1929",
+   "dom": "political-social"
+  },
+  "peirce": {
+   "n": "Charles Sanders Peirce",
+   "d": "1839–1914",
+   "dom": "pragmatism-american"
+  },
+  "william-james": {
+   "n": "William James",
+   "d": "1842–1910",
+   "dom": "pragmatism-american"
+  },
+  "dewey": {
+   "n": "John Dewey",
+   "d": "1859–1952",
+   "dom": "pragmatism-american"
+  },
+  "rorty": {
+   "n": "Richard Rorty",
+   "d": "1931–2007",
+   "dom": "pragmatism-american"
+  },
+  "addams": {
+   "n": "Jane Addams",
+   "d": "1860–1935",
+   "dom": "pragmatism-american"
+  },
+  "emerson": {
+   "n": "Ralph Waldo Emerson",
+   "d": "1803–1882",
+   "dom": "pragmatism-american"
+  },
+  "thoreau": {
+   "n": "Henry David Thoreau",
+   "d": "1817–1862",
+   "dom": "pragmatism-american"
+  },
+  "wollstonecraft": {
+   "n": "Mary Wollstonecraft",
+   "d": "1759–1797",
+   "dom": "feminism-gender-race"
+  },
+  "friedan": {
+   "n": "Betty Friedan",
+   "d": "1921–2006",
+   "dom": "feminism-gender-race"
+  },
+  "firestone": {
+   "n": "Shulamith Firestone",
+   "d": "1945–2012",
+   "dom": "feminism-gender-race"
+  },
+  "butler": {
+   "n": "Judith Butler",
+   "d": "b. 1956",
+   "dom": "feminism-gender-race"
+  },
+  "hooks": {
+   "n": "bell hooks",
+   "d": "1952–2021",
+   "dom": "feminism-gender-race"
+  },
+  "mackinnon": {
+   "n": "Catharine MacKinnon",
+   "d": "b. 1946",
+   "dom": "feminism-gender-race"
+  },
+  "frye": {
+   "n": "Marilyn Frye",
+   "d": "b. 1941",
+   "dom": "feminism-gender-race"
+  },
+  "young": {
+   "n": "Iris Marion Young",
+   "d": "1949–2006",
+   "dom": "feminism-gender-race"
+  },
+  "crenshaw": {
+   "n": "Kimberlé Crenshaw",
+   "d": "b. 1959",
+   "dom": "feminism-gender-race"
+  },
+  "dubois": {
+   "n": "W.E.B. Du Bois",
+   "d": "1868–1963",
+   "dom": "feminism-gender-race"
+  },
+  "mills": {
+   "n": "Charles W. Mills",
+   "d": "1951–2021",
+   "dom": "feminism-gender-race"
+  },
+  "fanon": {
+   "n": "Frantz Fanon",
+   "d": "1925–1961",
+   "dom": "feminism-gender-race"
+  },
+  "appiah": {
+   "n": "Kwame Anthony Appiah",
+   "d": "b. 1954",
+   "dom": "feminism-gender-race"
+  },
+  "fricker": {
+   "n": "Miranda Fricker",
+   "d": "b. 1966",
+   "dom": "feminism-gender-race"
+  },
+  "cornel-west": {
+   "n": "Cornel West",
+   "d": "b. 1953",
+   "dom": "feminism-gender-race"
+  },
+  "leopold": {
+   "n": "Aldo Leopold",
+   "d": "1887–1948",
+   "dom": "environment-animal"
+  },
+  "naess": {
+   "n": "Arne Naess",
+   "d": "1912–2009",
+   "dom": "environment-animal"
+  },
+  "plumwood": {
+   "n": "Val Plumwood",
+   "d": "1939–2008",
+   "dom": "environment-animal"
+  },
+  "warren": {
+   "n": "Karen J. Warren",
+   "d": "b. 1947",
+   "dom": "environment-animal"
+  },
+  "regan": {
+   "n": "Tom Regan",
+   "d": "1938–2017",
+   "dom": "environment-animal"
+  },
+  "paley": {
+   "n": "William Paley",
+   "d": "1743–1805",
+   "dom": "religion-meaning"
+  },
+  "plantinga": {
+   "n": "Alvin Plantinga",
+   "d": "b. 1932",
+   "dom": "religion-meaning"
+  },
+  "tillich": {
+   "n": "Paul Tillich",
+   "d": "1886–1965",
+   "dom": "religion-meaning"
+  },
+  "buber": {
+   "n": "Martin Buber",
+   "d": "1878–1965",
+   "dom": "religion-meaning"
+  },
+  "cs-lewis": {
+   "n": "C.S. Lewis",
+   "d": "",
+   "dom": "religion-meaning"
+  },
+  "ayn-rand": {
+   "n": "Ayn Rand",
+   "d": "",
+   "dom": "political-social"
+  },
+  "charles-taylor": {
+   "n": "Charles Taylor",
+   "d": "",
+   "dom": "political-social"
+  },
+  "bakhtin": {
+   "n": "Mikhail Bakhtin",
+   "d": "",
+   "dom": "political-social"
+  },
+  "max-weber": {
+   "n": "Max Weber",
+   "d": "",
+   "dom": "political-social"
+  },
+  "voltaire": {
+   "n": "Voltaire",
+   "d": "",
+   "dom": "medieval-early-modern"
+  },
+  "zizek": {
+   "n": "Slavoj Žižek",
+   "d": "",
+   "dom": "political-social"
+  },
+  "kristeva": {
+   "n": "Julia Kristeva",
+   "d": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "donald-davidson": {
+   "n": "Donald Davidson",
+   "d": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "whitehead": {
+   "n": "Alfred North Whitehead",
+   "d": "",
+   "dom": "pragmatism-american"
+  },
+  "george-herbert-mead": {
+   "n": "George Herbert Mead",
+   "d": "",
+   "dom": "pragmatism-american"
+  },
+  "haraway": {
+   "n": "Donna Haraway",
+   "d": "",
+   "dom": "feminism-gender-race"
+  },
+  "schelling": {
+   "n": "F.W.J. Schelling",
+   "d": "",
+   "dom": "kant-german-idealism"
+  },
+  "john-hick": {
+   "n": "John Hick",
+   "d": "",
+   "dom": "religion-meaning"
+  },
+  "langer": {
+   "n": "Susanne Langer",
+   "d": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "becker-denial-of-death": {
+   "n": "Ernest Becker",
+   "d": "",
+   "dom": "existentialism-phenomenology"
+  },
+  "carroll-aesthetics": {
+   "n": "Noël Carroll",
+   "d": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "warren-personhood": {
+   "n": "Mary Anne Warren",
+   "d": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "roland-barthes": {
+   "n": "Roland Barthes",
+   "d": "",
+   "dom": "political-social"
+  },
+  "clifford": {
+   "n": "W.K. Clifford",
+   "d": "",
+   "dom": "knowledge-science-reality"
+  },
+  "bourdieu": {
+   "n": "Pierre Bourdieu",
+   "d": "",
+   "dom": "political-social"
+  },
+  "richard-taylor": {
+   "n": "Richard Taylor",
+   "d": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "dostoevsky": {
+   "n": "Fyodor Dostoevsky",
+   "d": "",
+   "dom": "nineteenth-century"
+  },
+  "paulo-freire": {
+   "n": "Paulo Freire",
+   "d": "",
+   "dom": "political-social"
+  },
+  "annette-baier": {
+   "n": "Annette Baier",
+   "d": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "melanie-klein": {
+   "n": "Melanie Klein",
+   "d": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "galen-strawson": {
+   "n": "Galen Strawson",
+   "d": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "carl-schmitt": {
+   "n": "Carl Schmitt",
+   "d": "",
+   "dom": "political-social"
+  },
+  "vico": {
+   "n": "Giambattista Vico",
+   "d": "",
+   "dom": "medieval-early-modern"
+  },
+  "empedocles": {
+   "n": "Empedocles",
+   "d": "",
+   "dom": "ancient"
+  },
+  "edmund-burke": {
+   "n": "Edmund Burke",
+   "d": "",
+   "dom": "medieval-early-modern"
+  },
+  "clausewitz": {
+   "n": "Carl von Clausewitz",
+   "d": "",
+   "dom": "political-social"
+  },
+  "darwin": {
+   "n": "Charles Darwin",
+   "d": "",
+   "dom": "knowledge-science-reality"
+  },
+  "mcluhan": {
+   "n": "Marshall McLuhan",
+   "d": "",
+   "dom": "political-social"
+  },
+  "derrick-bell": {
+   "n": "Derrick Bell",
+   "d": "",
+   "dom": "feminism-gender-race"
+  },
+  "cavell": {
+   "n": "Stanley Cavell",
+   "d": "",
+   "dom": "pragmatism-american"
+  },
+  "joseph-campbell": {
+   "n": "Joseph Campbell",
+   "d": "",
+   "dom": "religion-meaning"
+  },
+  "horkheimer": {
+   "n": "Max Horkheimer",
+   "d": "",
+   "dom": "political-social"
+  },
+  "j-l-austin": {
+   "n": "J.L. Austin",
+   "d": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "rudolf-carnap": {
+   "n": "Rudolf Carnap",
+   "d": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "tocqueville": {
+   "n": "Alexis de Tocqueville",
+   "d": "",
+   "dom": "political-social"
+  },
+  "tolstoy": {
+   "n": "Leo Tolstoy",
+   "d": "",
+   "dom": "political-social"
+  },
+  "giorgio-agamben": {
+   "n": "Giorgio Agamben",
+   "d": "",
+   "dom": "political-social"
+  },
+  "milton-friedman": {
+   "n": "Milton Friedman",
+   "d": "",
+   "dom": "political-social"
+  },
+  "josiah-royce": {
+   "n": "Josiah Royce",
+   "d": "",
+   "dom": "pragmatism-american"
+  },
+  "goffman": {
+   "n": "Erving Goffman",
+   "d": "",
+   "dom": "political-social"
+  },
+  "graham-priest": {
+   "n": "Graham Priest",
+   "d": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "gaston-bachelard": {
+   "n": "Gaston Bachelard",
+   "d": "",
+   "dom": "existentialism-phenomenology"
+  },
+  "georges-bataille": {
+   "n": "Georges Bataille",
+   "d": "",
+   "dom": "political-social"
+  },
+  "iris-murdoch": {
+   "n": "Iris Murdoch",
+   "d": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "simone-weil": {
+   "n": "Simone Weil",
+   "d": "",
+   "dom": "religion-meaning"
+  },
+  "max-scheler": {
+   "n": "Max Scheler",
+   "d": "",
+   "dom": "existentialism-phenomenology"
+  },
+  "benatar": {
+   "n": "David Benatar",
+   "d": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "hierocles": {
+   "n": "Hierocles",
+   "d": "",
+   "dom": "ancient"
+  },
+  "kropotkin": {
+   "n": "Pyotr Kropotkin",
+   "d": "",
+   "dom": "political-social"
+  },
+  "girard": {
+   "n": "René Girard",
+   "d": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "audre-lorde": {
+   "n": "Audre Lorde",
+   "d": "",
+   "dom": "feminism-gender-race"
+  },
+  "kendall-walton": {
+   "n": "Kendall Walton",
+   "d": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "irigaray": {
+   "n": "Luce Irigaray",
+   "d": "",
+   "dom": "feminism-gender-race"
+  },
+  "byung-chul-han": {
+   "n": "Byung-Chul Han",
+   "d": "",
+   "dom": "political-social"
+  },
+  "jameson": {
+   "n": "Fredric Jameson",
+   "d": "",
+   "dom": "political-social"
+  },
+  "umberto-eco": {
+   "n": "Umberto Eco",
+   "d": "",
+   "dom": "political-social"
+  },
+  "huizinga": {
+   "n": "Johan Huizinga",
+   "d": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "bernard-suits": {
+   "n": "Bernard Suits",
+   "d": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "p-f-strawson": {
+   "n": "P.F. Strawson",
+   "d": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "h-richard-niebuhr": {
+   "n": "H. Richard Niebuhr",
+   "d": "",
+   "dom": "religion-meaning"
+  },
+  "guy-debord": {
+   "n": "Guy Debord",
+   "d": "",
+   "dom": "political-social"
+  },
+  "panini": {
+   "n": "Panini",
+   "d": "c. 4th c. BCE",
+   "dom": "eastern-world"
+  },
+  "ramanuja": {
+   "n": "Ramanuja",
+   "d": "1017–1137",
+   "dom": "eastern-world"
+  },
+  "arthur-danto": {
+   "n": "Arthur Danto",
+   "d": "1924–2013",
+   "dom": "mind-language-metaphysics"
+  },
+  "linda-zagzebski": {
+   "n": "Linda Zagzebski",
+   "d": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "heather-widdows": {
+   "n": "Heather Widdows",
+   "d": "",
+   "dom": "feminism-gender-race"
+  },
+  "paul-ricoeur": {
+   "n": "Paul Ricoeur",
+   "d": "1913–2005",
+   "dom": "mind-language-metaphysics"
+  },
+  "michael-cholbi": {
+   "n": "Michael Cholbi",
+   "d": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "edith-stein": {
+   "n": "Edith Stein",
+   "d": "1891–1942",
+   "dom": "mind-language-metaphysics"
+  },
+  "w-d-ross": {
+   "n": "W. D. Ross",
+   "d": "1877–1971",
+   "dom": "ethics-moral-psychology"
+  },
+  "peter-geach": {
+   "n": "Peter Geach",
+   "d": "1916–2013",
+   "dom": "ethics-moral-psychology"
+  },
+  "helene-cixous": {
+   "n": "Hélène Cixous",
+   "d": "1937–",
+   "dom": "feminism-gender-race"
+  },
+  "ibram-x-kendi": {
+   "n": "Ibram X. Kendi",
+   "d": "1982–",
+   "dom": "feminism-gender-race"
+  },
+  "reinhold-niebuhr": {
+   "n": "Reinhold Niebuhr",
+   "d": "1892–1971",
+   "dom": "political-social"
+  },
+  "axel-honneth": {
+   "n": "Axel Honneth",
+   "d": "1949–",
+   "dom": "political-social"
+  },
+  "thomas-paine": {
+   "n": "Thomas Paine",
+   "d": "1737–1809",
+   "dom": "political-social"
+  },
+  "ruth-benedict": {
+   "n": "Ruth Benedict",
+   "d": "1887–1948",
+   "dom": "ethics-moral-psychology"
+  },
+  "malinowski": {
+   "n": "Bronisław Malinowski",
+   "d": "1884–1942",
+   "dom": "knowledge-science-reality"
+  },
+  "graham-greene": {
+   "n": "Graham Greene",
+   "d": "1904–1991",
+   "dom": "religion-meaning"
+  },
+  "linda-hutcheon": {
+   "n": "Linda Hutcheon",
+   "d": "",
+   "dom": "mind-language-metaphysics"
+  }
+ },
+ "concepts": {
+  "socratic-method": {
+   "n": "Socratic Method (elenchus)",
+   "p": "socrates",
+   "dom": "ancient"
+  },
+  "socratic-ignorance": {
+   "n": "Socratic Ignorance (knowing that you don't know)",
+   "p": "socrates",
+   "dom": "ancient"
+  },
+  "unexamined-life": {
+   "n": "The Unexamined Life",
+   "p": "socrates",
+   "dom": "ancient"
+  },
+  "plato-forms": {
+   "n": "Theory of Forms",
+   "p": "plato",
+   "dom": "ancient"
+  },
+  "plato-cave": {
+   "n": "Allegory of the Cave",
+   "p": "plato",
+   "dom": "ancient"
+  },
+  "plato-ring-of-gyges": {
+   "n": "Ring of Gyges (why be moral?)",
+   "p": "plato",
+   "dom": "ancient"
+  },
+  "plato-justice": {
+   "n": "Justice in the Republic",
+   "p": "plato",
+   "dom": "ancient"
+  },
+  "philosopher-king": {
+   "n": "The Philosopher King",
+   "p": "plato",
+   "dom": "ancient"
+  },
+  "plato-tripartite-soul": {
+   "n": "Tripartite Soul",
+   "p": "plato",
+   "dom": "ancient"
+  },
+  "platonic-love": {
+   "n": "Platonic Love (the ladder of love)",
+   "p": "plato",
+   "dom": "ancient"
+  },
+  "noble-lie": {
+   "n": "The Noble Lie",
+   "p": "plato",
+   "dom": "ancient"
+  },
+  "plato-euthyphro": {
+   "n": "Euthyphro Dilemma",
+   "p": "plato",
+   "dom": "ancient"
+  },
+  "aristotle-virtue-ethics": {
+   "n": "Virtue Ethics (arete)",
+   "p": "aristotle",
+   "dom": "ancient"
+  },
+  "aristotle-golden-mean": {
+   "n": "The Golden Mean",
+   "p": "aristotle",
+   "dom": "ancient"
+  },
+  "aristotle-eudaimonia": {
+   "n": "Eudaimonia (flourishing)",
+   "p": "aristotle",
+   "dom": "ancient"
+  },
+  "aristotle-four-causes": {
+   "n": "The Four Causes",
+   "p": "aristotle",
+   "dom": "ancient"
+  },
+  "aristotle-soul": {
+   "n": "Aristotle on the Soul",
+   "p": "aristotle",
+   "dom": "ancient"
+  },
+  "aristotle-friendship": {
+   "n": "Aristotle on Friendship (philia)",
+   "p": "aristotle",
+   "dom": "ancient"
+  },
+  "aristotle-potentiality": {
+   "n": "Potentiality and Actuality",
+   "p": "aristotle",
+   "dom": "ancient"
+  },
+  "political-animal": {
+   "n": "Man as Political Animal",
+   "p": "aristotle",
+   "dom": "ancient"
+  },
+  "aristotle-practical-wisdom": {
+   "n": "Practical Wisdom (phronesis)",
+   "p": "aristotle",
+   "dom": "ancient"
+  },
+  "heraclitean-flux": {
+   "n": "Everything Flows / Logos",
+   "p": "heraclitus",
+   "dom": "ancient"
+  },
+  "parmenidean-being": {
+   "n": "Being and Changelessness",
+   "p": "parmenides",
+   "dom": "ancient"
+  },
+  "zeno-paradoxes": {
+   "n": "Zeno's Paradoxes",
+   "p": "zeno-elea",
+   "dom": "ancient"
+  },
+  "atomism": {
+   "n": "Atomism",
+   "p": "democritus",
+   "dom": "ancient"
+  },
+  "pythagorean-harmony": {
+   "n": "Pythagorean Harmony of the Spheres",
+   "p": "pythagoras",
+   "dom": "ancient"
+  },
+  "sophist-relativism": {
+   "n": "Man Is the Measure (sophistic relativism)",
+   "p": "protagoras",
+   "dom": "ancient"
+  },
+  "cynicism": {
+   "n": "Cynicism (living according to nature)",
+   "p": "diogenes-cynic",
+   "dom": "ancient"
+  },
+  "ship-of-theseus": {
+   "n": "Ship of Theseus",
+   "p": "plutarch",
+   "dom": "ancient"
+  },
+  "epicurean-pleasure": {
+   "n": "Epicurean Pleasure (ataraxia)",
+   "p": "epicurus",
+   "dom": "ancient"
+  },
+  "epicurean-death": {
+   "n": "Death Is Nothing to Us",
+   "p": "epicurus",
+   "dom": "ancient"
+  },
+  "pyrrhonian-skepticism": {
+   "n": "Pyrrhonian Skepticism (suspension of judgment)",
+   "p": "pyrrho",
+   "dom": "ancient"
+  },
+  "stoicism": {
+   "n": "Stoicism",
+   "p": "",
+   "dom": "ancient"
+  },
+  "dichotomy-of-control": {
+   "n": "The Dichotomy of Control",
+   "p": "epictetus",
+   "dom": "ancient"
+  },
+  "stoic-indifferents": {
+   "n": "Preferred Indifferents",
+   "p": "epictetus",
+   "dom": "ancient"
+  },
+  "stoic-cosmopolitanism": {
+   "n": "Stoic Cosmopolitanism (citizens of the world)",
+   "p": "seneca",
+   "dom": "ancient"
+  },
+  "stoic-premeditation": {
+   "n": "Premeditatio Malorum",
+   "p": "seneca",
+   "dom": "ancient"
+  },
+  "stoic-view-from-above": {
+   "n": "The View from Above",
+   "p": "marcus-aurelius",
+   "dom": "ancient"
+  },
+  "stoic-present-moment": {
+   "n": "Living in the Present",
+   "p": "marcus-aurelius",
+   "dom": "ancient"
+  },
+  "cicero-duty": {
+   "n": "Ciceronian Duty (de Officiis)",
+   "p": "cicero",
+   "dom": "ancient"
+  },
+  "lucretian-nature": {
+   "n": "On the Nature of Things",
+   "p": "lucretius",
+   "dom": "ancient"
+  },
+  "neoplatonism": {
+   "n": "Neoplatonism (the One)",
+   "p": "plotinus",
+   "dom": "ancient"
+  },
+  "confucian-ren": {
+   "n": "Ren (benevolence/humaneness)",
+   "p": "confucius",
+   "dom": "eastern-world"
+  },
+  "confucian-li": {
+   "n": "Li (ritual propriety)",
+   "p": "confucius",
+   "dom": "eastern-world"
+  },
+  "confucian-filiality": {
+   "n": "Xiao (filial piety)",
+   "p": "confucius",
+   "dom": "eastern-world"
+  },
+  "confucian-junzi": {
+   "n": "The Junzi (exemplary person)",
+   "p": "confucius",
+   "dom": "eastern-world"
+  },
+  "rectification-of-names": {
+   "n": "Rectification of Names",
+   "p": "confucius",
+   "dom": "eastern-world"
+  },
+  "mencius-good-nature": {
+   "n": "Human Nature Is Good",
+   "p": "mencius",
+   "dom": "eastern-world"
+  },
+  "xunzi-bad-nature": {
+   "n": "Human Nature Is Bad (and needs ritual)",
+   "p": "xunzi",
+   "dom": "eastern-world"
+  },
+  "taoism": {
+   "n": "Taoism (Daoism)",
+   "p": "",
+   "dom": "eastern-world"
+  },
+  "the-tao": {
+   "n": "The Tao (the Way)",
+   "p": "laozi",
+   "dom": "eastern-world"
+  },
+  "wu-wei": {
+   "n": "Wu Wei (effortless action)",
+   "p": "laozi",
+   "dom": "eastern-world"
+  },
+  "zhuangzi-perspectivism": {
+   "n": "Zhuangzi's Perspectivism (butterfly dream)",
+   "p": "zhuangzi",
+   "dom": "eastern-world"
+  },
+  "yin-yang": {
+   "n": "Yin and Yang",
+   "p": "",
+   "dom": "eastern-world"
+  },
+  "sun-tzu-strategy": {
+   "n": "Strategy Without Conflict",
+   "p": "sun-tzu",
+   "dom": "eastern-world"
+  },
+  "buddhism": {
+   "n": "Buddhism",
+   "p": "",
+   "dom": "eastern-world"
+  },
+  "four-noble-truths": {
+   "n": "The Four Noble Truths",
+   "p": "buddha",
+   "dom": "eastern-world"
+  },
+  "buddhist-impermanence": {
+   "n": "Impermanence (anicca)",
+   "p": "buddha",
+   "dom": "eastern-world"
+  },
+  "buddhist-non-self": {
+   "n": "Non-Self (anatman)",
+   "p": "buddha",
+   "dom": "eastern-world"
+  },
+  "buddhist-karma": {
+   "n": "Karma and Rebirth",
+   "p": "buddha",
+   "dom": "eastern-world"
+  },
+  "buddhist-compassion": {
+   "n": "Compassion (karuna)",
+   "p": "buddha",
+   "dom": "eastern-world"
+  },
+  "nagarjuna-emptiness": {
+   "n": "Emptiness (sunyata)",
+   "p": "nagarjuna",
+   "dom": "eastern-world"
+  },
+  "zen": {
+   "n": "Zen Buddhism",
+   "p": "",
+   "dom": "eastern-world"
+  },
+  "atman-brahman": {
+   "n": "Atman and Brahman",
+   "p": "shankara",
+   "dom": "eastern-world"
+  },
+  "dharma": {
+   "n": "Dharma",
+   "p": "",
+   "dom": "eastern-world"
+  },
+  "ahimsa": {
+   "n": "Ahimsa (nonviolence)",
+   "p": "gandhi",
+   "dom": "eastern-world"
+  },
+  "augustine-city-of-god": {
+   "n": "The Two Cities",
+   "p": "augustine",
+   "dom": "medieval-early-modern"
+  },
+  "augustine-time": {
+   "n": "Augustine on Time",
+   "p": "augustine",
+   "dom": "medieval-early-modern"
+  },
+  "augustine-will": {
+   "n": "The Divided Will",
+   "p": "augustine",
+   "dom": "medieval-early-modern"
+  },
+  "wheel-of-fortune": {
+   "n": "The Wheel of Fortune",
+   "p": "boethius",
+   "dom": "medieval-early-modern"
+  },
+  "boethius-consolation": {
+   "n": "The Consolation of Philosophy",
+   "p": "boethius",
+   "dom": "medieval-early-modern"
+  },
+  "ontological-argument": {
+   "n": "The Ontological Argument",
+   "p": "anselm",
+   "dom": "medieval-early-modern"
+  },
+  "aquinas-natural-law": {
+   "n": "Natural Law",
+   "p": "aquinas",
+   "dom": "medieval-early-modern"
+  },
+  "aquinas-five-ways": {
+   "n": "The Five Ways",
+   "p": "aquinas",
+   "dom": "medieval-early-modern"
+  },
+  "aquinas-double-effect": {
+   "n": "Doctrine of Double Effect",
+   "p": "aquinas",
+   "dom": "medieval-early-modern"
+  },
+  "aquinas-virtues": {
+   "n": "Cardinal and Theological Virtues",
+   "p": "aquinas",
+   "dom": "medieval-early-modern"
+  },
+  "ockham-razor": {
+   "n": "Ockham's Razor",
+   "p": "ockham",
+   "dom": "medieval-early-modern"
+  },
+  "avicenna-floating-man": {
+   "n": "The Floating Man",
+   "p": "avicenna",
+   "dom": "medieval-early-modern"
+  },
+  "averroes-reason-revelation": {
+   "n": "Concord of Reason and Revelation",
+   "p": "averroes",
+   "dom": "medieval-early-modern"
+  },
+  "descartes-cogito": {
+   "n": "The Cogito",
+   "p": "descartes",
+   "dom": "medieval-early-modern"
+  },
+  "cartesian-doubt": {
+   "n": "Methodological Doubt (evil demon)",
+   "p": "descartes",
+   "dom": "medieval-early-modern"
+  },
+  "cartesian-dualism": {
+   "n": "Mind–Body Dualism",
+   "p": "descartes",
+   "dom": "medieval-early-modern"
+  },
+  "spinoza-monism": {
+   "n": "Substance Monism (Deus sive Natura)",
+   "p": "spinoza",
+   "dom": "medieval-early-modern"
+  },
+  "spinoza-conatus": {
+   "n": "Conatus (striving to persist)",
+   "p": "spinoza",
+   "dom": "medieval-early-modern"
+  },
+  "spinoza-determinism": {
+   "n": "Spinozist Necessity",
+   "p": "spinoza",
+   "dom": "medieval-early-modern"
+  },
+  "best-possible-world": {
+   "n": "The Best of All Possible Worlds",
+   "p": "leibniz",
+   "dom": "medieval-early-modern"
+  },
+  "monadology": {
+   "n": "Monadology",
+   "p": "leibniz",
+   "dom": "medieval-early-modern"
+  },
+  "sufficient-reason": {
+   "n": "Principle of Sufficient Reason",
+   "p": "leibniz",
+   "dom": "medieval-early-modern"
+  },
+  "pascals-wager": {
+   "n": "Pascal's Wager",
+   "p": "pascal",
+   "dom": "medieval-early-modern"
+  },
+  "montaigne-skepticism": {
+   "n": "Que sais-je? (Montaigne's skepticism)",
+   "p": "montaigne",
+   "dom": "medieval-early-modern"
+  },
+  "locke-personal-identity": {
+   "n": "Personal Identity (memory theory)",
+   "p": "locke",
+   "dom": "medieval-early-modern"
+  },
+  "tabula-rasa": {
+   "n": "Tabula Rasa",
+   "p": "locke",
+   "dom": "medieval-early-modern"
+  },
+  "locke-natural-rights": {
+   "n": "Natural Rights",
+   "p": "locke",
+   "dom": "medieval-early-modern"
+  },
+  "locke-labor-property": {
+   "n": "Labor Theory of Property",
+   "p": "locke",
+   "dom": "medieval-early-modern"
+  },
+  "berkeley-idealism": {
+   "n": "Subjective Idealism (esse est percipi)",
+   "p": "berkeley",
+   "dom": "medieval-early-modern"
+  },
+  "hume-is-ought": {
+   "n": "Is–Ought Problem",
+   "p": "hume",
+   "dom": "medieval-early-modern"
+  },
+  "hume-induction": {
+   "n": "Problem of Induction",
+   "p": "hume",
+   "dom": "medieval-early-modern"
+  },
+  "hume-bundle": {
+   "n": "Bundle Theory of Self",
+   "p": "hume",
+   "dom": "medieval-early-modern"
+  },
+  "hume-sentimentalism": {
+   "n": "Reason Is the Slave of the Passions",
+   "p": "hume",
+   "dom": "medieval-early-modern"
+  },
+  "hume-miracles": {
+   "n": "On Miracles",
+   "p": "hume",
+   "dom": "medieval-early-modern"
+  },
+  "reid-common-sense": {
+   "n": "Common Sense Philosophy",
+   "p": "reid",
+   "dom": "medieval-early-modern"
+  },
+  "categorical-imperative": {
+   "n": "The Categorical Imperative",
+   "p": "kant",
+   "dom": "kant-german-idealism"
+  },
+  "kant-humanity-formula": {
+   "n": "Humanity as an End in Itself",
+   "p": "kant",
+   "dom": "kant-german-idealism"
+  },
+  "kant-autonomy": {
+   "n": "Autonomy of the Will",
+   "p": "kant",
+   "dom": "kant-german-idealism"
+  },
+  "kingdom-of-ends": {
+   "n": "Kingdom of Ends",
+   "p": "kant",
+   "dom": "kant-german-idealism"
+  },
+  "kant-phenomena-noumena": {
+   "n": "Phenomena and Noumena",
+   "p": "kant",
+   "dom": "kant-german-idealism"
+  },
+  "transcendental-idealism": {
+   "n": "Transcendental Idealism",
+   "p": "kant",
+   "dom": "kant-german-idealism"
+  },
+  "kant-aesthetics": {
+   "n": "Judgment of Taste and the Sublime",
+   "p": "kant",
+   "dom": "kant-german-idealism"
+  },
+  "kant-perpetual-peace": {
+   "n": "Perpetual Peace",
+   "p": "kant",
+   "dom": "kant-german-idealism"
+  },
+  "kant-respect": {
+   "n": "Respect for Persons",
+   "p": "kant",
+   "dom": "kant-german-idealism"
+  },
+  "hegel-dialectic": {
+   "n": "The Dialectic",
+   "p": "hegel",
+   "dom": "kant-german-idealism"
+  },
+  "hegel-master-slave": {
+   "n": "Master–Slave Dialectic",
+   "p": "hegel",
+   "dom": "kant-german-idealism"
+  },
+  "hegel-geist": {
+   "n": "Geist (World Spirit)",
+   "p": "hegel",
+   "dom": "kant-german-idealism"
+  },
+  "hegel-history": {
+   "n": "History Has a Direction",
+   "p": "hegel",
+   "dom": "kant-german-idealism"
+  },
+  "hegel-recognition": {
+   "n": "Struggle for Recognition",
+   "p": "hegel",
+   "dom": "kant-german-idealism"
+  },
+  "schopenhauer-will": {
+   "n": "The World as Will",
+   "p": "schopenhauer",
+   "dom": "kant-german-idealism"
+  },
+  "schopenhauer-pessimism": {
+   "n": "Philosophical Pessimism",
+   "p": "schopenhauer",
+   "dom": "kant-german-idealism"
+  },
+  "schopenhauer-compassion": {
+   "n": "Ethics of Compassion",
+   "p": "schopenhauer",
+   "dom": "kant-german-idealism"
+  },
+  "schopenhauer-pendulum": {
+   "n": "Pendulum Between Pain and Boredom",
+   "p": "schopenhauer",
+   "dom": "kant-german-idealism"
+  },
+  "will-to-power": {
+   "n": "Will to Power",
+   "p": "nietzsche",
+   "dom": "nineteenth-century"
+  },
+  "ubermensch": {
+   "n": "The Übermensch",
+   "p": "nietzsche",
+   "dom": "nineteenth-century"
+  },
+  "eternal-recurrence": {
+   "n": "Eternal Recurrence",
+   "p": "nietzsche",
+   "dom": "nineteenth-century"
+  },
+  "amor-fati": {
+   "n": "Amor Fati (love of fate)",
+   "p": "nietzsche",
+   "dom": "nineteenth-century"
+  },
+  "master-slave-morality": {
+   "n": "Master and Slave Morality",
+   "p": "nietzsche",
+   "dom": "nineteenth-century"
+  },
+  "death-of-god": {
+   "n": "The Death of God",
+   "p": "nietzsche",
+   "dom": "nineteenth-century"
+  },
+  "nietzsche-perspectivism": {
+   "n": "Perspectivism",
+   "p": "nietzsche",
+   "dom": "nineteenth-century"
+  },
+  "apollonian-dionysian": {
+   "n": "The Apollonian and the Dionysian",
+   "p": "nietzsche",
+   "dom": "nineteenth-century"
+  },
+  "ressentiment": {
+   "n": "Ressentiment",
+   "p": "nietzsche",
+   "dom": "nineteenth-century"
+  },
+  "last-man": {
+   "n": "The Last Man",
+   "p": "nietzsche",
+   "dom": "nineteenth-century"
+  },
+  "marx-alienation": {
+   "n": "Alienation",
+   "p": "marx",
+   "dom": "nineteenth-century"
+  },
+  "commodity-fetishism": {
+   "n": "Commodity Fetishism",
+   "p": "marx",
+   "dom": "nineteenth-century"
+  },
+  "historical-materialism": {
+   "n": "Historical Materialism",
+   "p": "marx",
+   "dom": "nineteenth-century"
+  },
+  "class-struggle": {
+   "n": "Class Struggle",
+   "p": "marx",
+   "dom": "nineteenth-century"
+  },
+  "marx-ideology": {
+   "n": "Ideology and False Consciousness",
+   "p": "marx",
+   "dom": "nineteenth-century"
+  },
+  "social-darwinism": {
+   "n": "Social Darwinism",
+   "p": "spencer",
+   "dom": "nineteenth-century"
+  },
+  "utilitarianism": {
+   "n": "Utilitarianism",
+   "p": "",
+   "dom": "utilitarian-consequentialist"
+  },
+  "hedonic-calculus": {
+   "n": "The Hedonic Calculus",
+   "p": "bentham",
+   "dom": "utilitarian-consequentialist"
+  },
+  "greatest-happiness": {
+   "n": "The Greatest Happiness Principle",
+   "p": "mill",
+   "dom": "utilitarian-consequentialist"
+  },
+  "higher-lower-pleasures": {
+   "n": "Higher and Lower Pleasures",
+   "p": "mill",
+   "dom": "utilitarian-consequentialist"
+  },
+  "harm-principle": {
+   "n": "The Harm Principle",
+   "p": "mill",
+   "dom": "utilitarian-consequentialist"
+  },
+  "mill-liberty": {
+   "n": "On Liberty",
+   "p": "mill",
+   "dom": "utilitarian-consequentialist"
+  },
+  "mill-subjection-women": {
+   "n": "The Subjection of Women",
+   "p": "mill",
+   "dom": "utilitarian-consequentialist"
+  },
+  "animal-liberation": {
+   "n": "Animal Liberation",
+   "p": "singer",
+   "dom": "utilitarian-consequentialist"
+  },
+  "speciesism": {
+   "n": "Speciesism",
+   "p": "singer",
+   "dom": "utilitarian-consequentialist"
+  },
+  "drowning-child": {
+   "n": "The Drowning Child (obligation to aid)",
+   "p": "singer",
+   "dom": "utilitarian-consequentialist"
+  },
+  "consequentialism": {
+   "n": "Consequentialism",
+   "p": "",
+   "dom": "utilitarian-consequentialist"
+  },
+  "existentialism": {
+   "n": "Existentialism",
+   "p": "",
+   "dom": "existentialism-phenomenology"
+  },
+  "leap-of-faith": {
+   "n": "The Leap of Faith",
+   "p": "kierkegaard",
+   "dom": "existentialism-phenomenology"
+  },
+  "kierkegaard-stages": {
+   "n": "The Stages on Life's Way",
+   "p": "kierkegaard",
+   "dom": "existentialism-phenomenology"
+  },
+  "kierkegaard-despair": {
+   "n": "Despair (sickness unto death)",
+   "p": "kierkegaard",
+   "dom": "existentialism-phenomenology"
+  },
+  "kierkegaard-anxiety": {
+   "n": "Anxiety (the dizziness of freedom)",
+   "p": "kierkegaard",
+   "dom": "existentialism-phenomenology"
+  },
+  "teleological-suspension": {
+   "n": "Teleological Suspension of the Ethical",
+   "p": "kierkegaard",
+   "dom": "existentialism-phenomenology"
+  },
+  "subjective-truth": {
+   "n": "Subjectivity Is Truth",
+   "p": "kierkegaard",
+   "dom": "existentialism-phenomenology"
+  },
+  "intentionality": {
+   "n": "Intentionality",
+   "p": "husserl",
+   "dom": "existentialism-phenomenology"
+  },
+  "phenomenology": {
+   "n": "Phenomenology",
+   "p": "",
+   "dom": "existentialism-phenomenology"
+  },
+  "dasein": {
+   "n": "Dasein (being-there)",
+   "p": "heidegger",
+   "dom": "existentialism-phenomenology"
+  },
+  "being-toward-death": {
+   "n": "Being-Toward-Death",
+   "p": "heidegger",
+   "dom": "existentialism-phenomenology"
+  },
+  "authenticity": {
+   "n": "Authenticity",
+   "p": "heidegger",
+   "dom": "existentialism-phenomenology"
+  },
+  "thrownness": {
+   "n": "Thrownness (Geworfenheit)",
+   "p": "heidegger",
+   "dom": "existentialism-phenomenology"
+  },
+  "das-man": {
+   "n": "The They-Self (das Man)",
+   "p": "heidegger",
+   "dom": "existentialism-phenomenology"
+  },
+  "heidegger-technology": {
+   "n": "The Question Concerning Technology",
+   "p": "heidegger",
+   "dom": "existentialism-phenomenology"
+  },
+  "existence-precedes-essence": {
+   "n": "Existence Precedes Essence",
+   "p": "sartre",
+   "dom": "existentialism-phenomenology"
+  },
+  "bad-faith": {
+   "n": "Bad Faith",
+   "p": "sartre",
+   "dom": "existentialism-phenomenology"
+  },
+  "sartre-freedom": {
+   "n": "Radical Freedom and Responsibility",
+   "p": "sartre",
+   "dom": "existentialism-phenomenology"
+  },
+  "the-look": {
+   "n": "The Look (hell is other people)",
+   "p": "sartre",
+   "dom": "existentialism-phenomenology"
+  },
+  "woman-as-other": {
+   "n": "Woman as the Other",
+   "p": "beauvoir",
+   "dom": "existentialism-phenomenology"
+  },
+  "ethics-of-ambiguity": {
+   "n": "The Ethics of Ambiguity",
+   "p": "beauvoir",
+   "dom": "existentialism-phenomenology"
+  },
+  "becoming-woman": {
+   "n": "One Is Not Born a Woman",
+   "p": "beauvoir",
+   "dom": "existentialism-phenomenology"
+  },
+  "the-absurd": {
+   "n": "The Absurd",
+   "p": "camus",
+   "dom": "existentialism-phenomenology"
+  },
+  "sisyphus": {
+   "n": "The Myth of Sisyphus",
+   "p": "camus",
+   "dom": "existentialism-phenomenology"
+  },
+  "camus-revolt": {
+   "n": "Rebellion and Revolt",
+   "p": "camus",
+   "dom": "existentialism-phenomenology"
+  },
+  "embodiment": {
+   "n": "Embodiment (the lived body)",
+   "p": "merleau-ponty",
+   "dom": "existentialism-phenomenology"
+  },
+  "frankl-meaning": {
+   "n": "Man's Search for Meaning (logotherapy)",
+   "p": "frankl",
+   "dom": "existentialism-phenomenology"
+  },
+  "levinas-face": {
+   "n": "The Face of the Other",
+   "p": "levinas",
+   "dom": "existentialism-phenomenology"
+  },
+  "turing-test": {
+   "n": "The Turing Test",
+   "p": "turing",
+   "dom": "mind-language-metaphysics"
+  },
+  "chinese-room": {
+   "n": "The Chinese Room",
+   "p": "searle",
+   "dom": "mind-language-metaphysics"
+  },
+  "searle-intentionality": {
+   "n": "Biological Naturalism / Intentionality",
+   "p": "searle",
+   "dom": "mind-language-metaphysics"
+  },
+  "brain-in-a-vat": {
+   "n": "Brain in a Vat",
+   "p": "putnam",
+   "dom": "mind-language-metaphysics"
+  },
+  "twin-earth": {
+   "n": "Twin Earth (semantic externalism)",
+   "p": "putnam",
+   "dom": "mind-language-metaphysics"
+  },
+  "hard-problem": {
+   "n": "The Hard Problem of Consciousness",
+   "p": "chalmers",
+   "dom": "mind-language-metaphysics"
+  },
+  "philosophical-zombies": {
+   "n": "Philosophical Zombies",
+   "p": "chalmers",
+   "dom": "mind-language-metaphysics"
+  },
+  "extended-mind": {
+   "n": "The Extended Mind",
+   "p": "clark",
+   "dom": "mind-language-metaphysics"
+  },
+  "intentional-stance": {
+   "n": "The Intentional Stance",
+   "p": "dennett",
+   "dom": "mind-language-metaphysics"
+  },
+  "cartesian-theater": {
+   "n": "The Cartesian Theater (critique)",
+   "p": "dennett",
+   "dom": "mind-language-metaphysics"
+  },
+  "language-games": {
+   "n": "Language Games",
+   "p": "wittgenstein",
+   "dom": "mind-language-metaphysics"
+  },
+  "private-language": {
+   "n": "The Private Language Argument",
+   "p": "wittgenstein",
+   "dom": "mind-language-metaphysics"
+  },
+  "russells-teapot": {
+   "n": "Russell's Teapot",
+   "p": "russell",
+   "dom": "mind-language-metaphysics"
+  },
+  "naturalistic-fallacy": {
+   "n": "The Naturalistic Fallacy",
+   "p": "moore",
+   "dom": "mind-language-metaphysics"
+  },
+  "sense-reference": {
+   "n": "Sense and Reference",
+   "p": "frege",
+   "dom": "mind-language-metaphysics"
+  },
+  "quine-indeterminacy": {
+   "n": "Indeterminacy of Translation",
+   "p": "quine",
+   "dom": "mind-language-metaphysics"
+  },
+  "web-of-belief": {
+   "n": "The Web of Belief",
+   "p": "quine",
+   "dom": "mind-language-metaphysics"
+  },
+  "kripke-naming": {
+   "n": "Naming and Necessity (rigid designators)",
+   "p": "kripke",
+   "dom": "mind-language-metaphysics"
+  },
+  "possible-worlds": {
+   "n": "Possible Worlds",
+   "p": "lewis",
+   "dom": "mind-language-metaphysics"
+  },
+  "category-mistake": {
+   "n": "Category Mistake",
+   "p": "ryle",
+   "dom": "mind-language-metaphysics"
+  },
+  "ghost-in-the-machine": {
+   "n": "The Ghost in the Machine",
+   "p": "ryle",
+   "dom": "mind-language-metaphysics"
+  },
+  "knowledge-argument": {
+   "n": "The Knowledge Argument (Mary's Room)",
+   "p": "jackson",
+   "dom": "mind-language-metaphysics"
+  },
+  "what-is-it-like": {
+   "n": "What Is It Like to Be a Bat?",
+   "p": "nagel",
+   "dom": "mind-language-metaphysics"
+  },
+  "parfit-teleportation": {
+   "n": "Teleporter Paradox (personal fission)",
+   "p": "parfit",
+   "dom": "mind-language-metaphysics"
+  },
+  "a-series-time": {
+   "n": "The A-Series and B-Series of Time",
+   "p": "mctaggart",
+   "dom": "mind-language-metaphysics"
+  },
+  "free-will-determinism": {
+   "n": "Free Will vs Determinism",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "compatibilism": {
+   "n": "Compatibilism",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "personal-identity": {
+   "n": "Personal Identity",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "simulation-hypothesis": {
+   "n": "The Simulation Hypothesis",
+   "p": "bostrom",
+   "dom": "knowledge-science-reality"
+  },
+  "time-travel": {
+   "n": "The Metaphysics of Time Travel",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "bergson-duration": {
+   "n": "Duration (durée)",
+   "p": "bergson",
+   "dom": "mind-language-metaphysics"
+  },
+  "bergson-elan-vital": {
+   "n": "Élan Vital (creative evolution)",
+   "p": "bergson",
+   "dom": "mind-language-metaphysics"
+  },
+  "bergson-memory": {
+   "n": "Matter and Memory",
+   "p": "bergson",
+   "dom": "mind-language-metaphysics"
+  },
+  "bergson-laughter": {
+   "n": "Laughter (the comic as mechanical encrusted on the living)",
+   "p": "bergson",
+   "dom": "mind-language-metaphysics"
+  },
+  "freud-unconscious": {
+   "n": "The Unconscious",
+   "p": "freud",
+   "dom": "mind-language-metaphysics"
+  },
+  "freud-death-drive": {
+   "n": "The Death Drive (Thanatos)",
+   "p": "freud",
+   "dom": "mind-language-metaphysics"
+  },
+  "freud-civilization": {
+   "n": "Civilization and Its Discontents",
+   "p": "freud",
+   "dom": "mind-language-metaphysics"
+  },
+  "jung-archetypes": {
+   "n": "Archetypes",
+   "p": "jung",
+   "dom": "mind-language-metaphysics"
+  },
+  "jung-collective-unconscious": {
+   "n": "The Collective Unconscious",
+   "p": "jung",
+   "dom": "mind-language-metaphysics"
+  },
+  "jung-shadow": {
+   "n": "The Shadow",
+   "p": "jung",
+   "dom": "mind-language-metaphysics"
+  },
+  "lacan-mirror-stage": {
+   "n": "The Mirror Stage",
+   "p": "lacan",
+   "dom": "mind-language-metaphysics"
+  },
+  "lacan-symbolic": {
+   "n": "The Symbolic, the Imaginary and the Real",
+   "p": "lacan",
+   "dom": "mind-language-metaphysics"
+  },
+  "berlin-two-liberties": {
+   "n": "Two Concepts of Liberty",
+   "p": "isaiah-berlin",
+   "dom": "political-social"
+  },
+  "gadamer-hermeneutics": {
+   "n": "Philosophical Hermeneutics (fusion of horizons)",
+   "p": "gadamer",
+   "dom": "existentialism-phenomenology"
+  },
+  "gettier-problem": {
+   "n": "The Gettier Problem",
+   "p": "gettier",
+   "dom": "knowledge-science-reality"
+  },
+  "reliabilism": {
+   "n": "Reliabilism",
+   "p": "goldman",
+   "dom": "knowledge-science-reality"
+  },
+  "paradigm-shift": {
+   "n": "Paradigm Shifts",
+   "p": "kuhn",
+   "dom": "knowledge-science-reality"
+  },
+  "falsification": {
+   "n": "Falsificationism",
+   "p": "popper",
+   "dom": "knowledge-science-reality"
+  },
+  "open-society": {
+   "n": "The Open Society",
+   "p": "popper",
+   "dom": "knowledge-science-reality"
+  },
+  "epistemological-anarchism": {
+   "n": "Anything Goes (epistemological anarchism)",
+   "p": "feyerabend",
+   "dom": "knowledge-science-reality"
+  },
+  "bacon-idols": {
+   "n": "The Idols of the Mind",
+   "p": "bacon",
+   "dom": "knowledge-science-reality"
+  },
+  "existence-risk": {
+   "n": "Existential Risk",
+   "p": "bostrom",
+   "dom": "knowledge-science-reality"
+  },
+  "skepticism": {
+   "n": "Philosophical Skepticism",
+   "p": "",
+   "dom": "knowledge-science-reality"
+  },
+  "scientific-realism": {
+   "n": "Scientific Realism vs Anti-Realism",
+   "p": "",
+   "dom": "knowledge-science-reality"
+  },
+  "trolley-problem": {
+   "n": "The Trolley Problem",
+   "p": "foot",
+   "dom": "ethics-moral-psychology"
+  },
+  "thomson-violinist": {
+   "n": "The Violinist Argument",
+   "p": "thomson",
+   "dom": "ethics-moral-psychology"
+  },
+  "moral-luck": {
+   "n": "Moral Luck",
+   "p": "williams",
+   "dom": "ethics-moral-psychology"
+  },
+  "williams-integrity": {
+   "n": "Integrity Against Utilitarianism",
+   "p": "williams",
+   "dom": "ethics-moral-psychology"
+  },
+  "second-order-desires": {
+   "n": "Second-Order Desires (personhood)",
+   "p": "frankfurt",
+   "dom": "ethics-moral-psychology"
+  },
+  "frankfurt-bullshit": {
+   "n": "On Bullshit",
+   "p": "frankfurt",
+   "dom": "ethics-moral-psychology"
+  },
+  "korsgaard-constructivism": {
+   "n": "Kantian Constructivism",
+   "p": "korsgaard",
+   "dom": "ethics-moral-psychology"
+  },
+  "care-ethics": {
+   "n": "The Ethics of Care",
+   "p": "gilligan",
+   "dom": "ethics-moral-psychology"
+  },
+  "care-ethics-noddings": {
+   "n": "Caring as the Ground of Ethics",
+   "p": "noddings",
+   "dom": "ethics-moral-psychology"
+  },
+  "macintyre-tradition": {
+   "n": "Virtues, Practices and Traditions",
+   "p": "macintyre",
+   "dom": "ethics-moral-psychology"
+  },
+  "capabilities-approach": {
+   "n": "The Capabilities Approach",
+   "p": "nussbaum",
+   "dom": "ethics-moral-psychology"
+  },
+  "modern-moral-philosophy": {
+   "n": "Anscombe's 'Modern Moral Philosophy'",
+   "p": "anscombe",
+   "dom": "ethics-moral-psychology"
+  },
+  "invisible-hand": {
+   "n": "The Invisible Hand",
+   "p": "adam-smith",
+   "dom": "ethics-moral-psychology"
+  },
+  "impartial-spectator": {
+   "n": "The Impartial Spectator",
+   "p": "adam-smith",
+   "dom": "ethics-moral-psychology"
+  },
+  "wolf-meaning": {
+   "n": "Meaning in Life",
+   "p": "wolf",
+   "dom": "ethics-moral-psychology"
+  },
+  "golden-rule": {
+   "n": "The Golden Rule",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "moral-relativism": {
+   "n": "Moral Relativism",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "moral-egoism": {
+   "n": "Ethical Egoism",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "punishment-theory": {
+   "n": "Punishment: Retribution vs Rehabilitation",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "just-war-theory": {
+   "n": "Just War Theory",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "philosophy-of-love": {
+   "n": "Philosophy of Love",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "forgiveness": {
+   "n": "Forgiveness",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "deontology": {
+   "n": "Deontology",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "virtue-ethics": {
+   "n": "Virtue Ethics",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "moral-psychology": {
+   "n": "Moral Psychology (character, vice, weakness of will)",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "applied-ethics": {
+   "n": "Applied Ethics (bioethics, technology, AI)",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "state-of-nature": {
+   "n": "The State of Nature",
+   "p": "hobbes",
+   "dom": "political-social"
+  },
+  "social-contract": {
+   "n": "The Social Contract",
+   "p": "hobbes",
+   "dom": "political-social"
+  },
+  "rousseau-social-contract": {
+   "n": "The General Will",
+   "p": "rousseau",
+   "dom": "political-social"
+  },
+  "rousseau-natural-goodness": {
+   "n": "Natural Goodness and Corruption by Society",
+   "p": "rousseau",
+   "dom": "political-social"
+  },
+  "machiavelli-virtu": {
+   "n": "Virtù and Fortuna",
+   "p": "machiavelli",
+   "dom": "political-social"
+  },
+  "machiavelli-ends": {
+   "n": "The Ends Justify the Means",
+   "p": "machiavelli",
+   "dom": "political-social"
+  },
+  "veil-of-ignorance": {
+   "n": "The Veil of Ignorance",
+   "p": "rawls",
+   "dom": "political-social"
+  },
+  "justice-as-fairness": {
+   "n": "Justice as Fairness",
+   "p": "rawls",
+   "dom": "political-social"
+  },
+  "difference-principle": {
+   "n": "The Difference Principle",
+   "p": "rawls",
+   "dom": "political-social"
+  },
+  "experience-machine": {
+   "n": "The Experience Machine",
+   "p": "nozick",
+   "dom": "political-social"
+  },
+  "minimal-state": {
+   "n": "The Minimal State",
+   "p": "nozick",
+   "dom": "political-social"
+  },
+  "communitarianism": {
+   "n": "Communitarianism",
+   "p": "sandel",
+   "dom": "political-social"
+  },
+  "banality-of-evil": {
+   "n": "The Banality of Evil",
+   "p": "arendt",
+   "dom": "political-social"
+  },
+  "arendt-totalitarianism": {
+   "n": "Totalitarianism",
+   "p": "arendt",
+   "dom": "political-social"
+  },
+  "panopticon": {
+   "n": "The Panopticon (surveillance)",
+   "p": "foucault",
+   "dom": "political-social"
+  },
+  "power-knowledge": {
+   "n": "Power/Knowledge",
+   "p": "foucault",
+   "dom": "political-social"
+  },
+  "discipline": {
+   "n": "Discipline and Docile Bodies",
+   "p": "foucault",
+   "dom": "political-social"
+  },
+  "deconstruction": {
+   "n": "Deconstruction",
+   "p": "derrida",
+   "dom": "political-social"
+  },
+  "binary-oppositions": {
+   "n": "Binary Oppositions",
+   "p": "derrida",
+   "dom": "political-social"
+  },
+  "rhizome": {
+   "n": "The Rhizome",
+   "p": "deleuze",
+   "dom": "political-social"
+  },
+  "simulacra": {
+   "n": "Simulacra and Simulation (the hyperreal)",
+   "p": "baudrillard",
+   "dom": "political-social"
+  },
+  "grand-narratives": {
+   "n": "The End of Grand Narratives",
+   "p": "lyotard",
+   "dom": "political-social"
+  },
+  "hegemony": {
+   "n": "Cultural Hegemony",
+   "p": "gramsci",
+   "dom": "political-social"
+  },
+  "one-dimensional-man": {
+   "n": "One-Dimensional Man",
+   "p": "marcuse",
+   "dom": "political-social"
+  },
+  "culture-industry": {
+   "n": "The Culture Industry",
+   "p": "adorno",
+   "dom": "political-social"
+  },
+  "benjamin-aura": {
+   "n": "The Aura of the Artwork",
+   "p": "benjamin",
+   "dom": "political-social"
+  },
+  "public-sphere": {
+   "n": "The Public Sphere",
+   "p": "habermas",
+   "dom": "political-social"
+  },
+  "anarchism": {
+   "n": "Anarchism",
+   "p": "",
+   "dom": "political-social"
+  },
+  "utopia-dystopia": {
+   "n": "Utopia and Dystopia",
+   "p": "",
+   "dom": "political-social"
+  },
+  "democracy-theory": {
+   "n": "Democracy",
+   "p": "",
+   "dom": "political-social"
+  },
+  "terrorism-violence": {
+   "n": "The Ethics of Political Violence",
+   "p": "",
+   "dom": "political-social"
+  },
+  "pragmatism": {
+   "n": "Pragmatism",
+   "p": "",
+   "dom": "pragmatism-american"
+  },
+  "pragmatic-method": {
+   "n": "The Pragmatic Method",
+   "p": "peirce",
+   "dom": "pragmatism-american"
+  },
+  "will-to-believe": {
+   "n": "The Will to Believe",
+   "p": "william-james",
+   "dom": "pragmatism-american"
+  },
+  "stream-of-consciousness": {
+   "n": "Stream of Consciousness",
+   "p": "william-james",
+   "dom": "pragmatism-american"
+  },
+  "pragmatic-truth": {
+   "n": "Truth as What Works",
+   "p": "william-james",
+   "dom": "pragmatism-american"
+  },
+  "dewey-democracy": {
+   "n": "Democracy as a Way of Life",
+   "p": "dewey",
+   "dom": "pragmatism-american"
+  },
+  "dewey-experience": {
+   "n": "Experience and Education",
+   "p": "dewey",
+   "dom": "pragmatism-american"
+  },
+  "emerson-self-reliance": {
+   "n": "Self-Reliance",
+   "p": "emerson",
+   "dom": "pragmatism-american"
+  },
+  "transcendentalism": {
+   "n": "Transcendentalism",
+   "p": "",
+   "dom": "pragmatism-american"
+  },
+  "thoreau-walden": {
+   "n": "Walden (deliberate living)",
+   "p": "thoreau",
+   "dom": "pragmatism-american"
+  },
+  "civil-disobedience": {
+   "n": "Civil Disobedience",
+   "p": "thoreau",
+   "dom": "pragmatism-american"
+  },
+  "addams-settlement": {
+   "n": "Social Ethics of the Settlement House",
+   "p": "addams",
+   "dom": "pragmatism-american"
+  },
+  "feminism": {
+   "n": "Feminism",
+   "p": "",
+   "dom": "feminism-gender-race"
+  },
+  "vindication-women": {
+   "n": "A Vindication of the Rights of Woman",
+   "p": "wollstonecraft",
+   "dom": "feminism-gender-race"
+  },
+  "feminine-mystique": {
+   "n": "The Feminine Mystique (the problem with no name)",
+   "p": "friedan",
+   "dom": "feminism-gender-race"
+  },
+  "dialectic-of-sex": {
+   "n": "The Dialectic of Sex",
+   "p": "firestone",
+   "dom": "feminism-gender-race"
+  },
+  "gender-performativity": {
+   "n": "Gender Performativity",
+   "p": "butler",
+   "dom": "feminism-gender-race"
+  },
+  "heteronormativity": {
+   "n": "Heteronormativity",
+   "p": "butler",
+   "dom": "feminism-gender-race"
+  },
+  "mackinnon-dominance": {
+   "n": "Dominance Approach (pornography and gender)",
+   "p": "mackinnon",
+   "dom": "feminism-gender-race"
+  },
+  "birdcage-oppression": {
+   "n": "Oppression as a Birdcage",
+   "p": "frye",
+   "dom": "feminism-gender-race"
+  },
+  "five-faces-oppression": {
+   "n": "Five Faces of Oppression",
+   "p": "young",
+   "dom": "feminism-gender-race"
+  },
+  "intersectionality": {
+   "n": "Intersectionality",
+   "p": "crenshaw",
+   "dom": "feminism-gender-race"
+  },
+  "double-consciousness": {
+   "n": "Double Consciousness",
+   "p": "dubois",
+   "dom": "feminism-gender-race"
+  },
+  "racial-contract": {
+   "n": "The Racial Contract",
+   "p": "mills",
+   "dom": "feminism-gender-race"
+  },
+  "black-skin-white-masks": {
+   "n": "Black Skin, White Masks",
+   "p": "fanon",
+   "dom": "feminism-gender-race"
+  },
+  "cosmopolitanism-ethics": {
+   "n": "Cosmopolitanism",
+   "p": "appiah",
+   "dom": "feminism-gender-race"
+  },
+  "epistemic-injustice": {
+   "n": "Epistemic Injustice",
+   "p": "fricker",
+   "dom": "feminism-gender-race"
+  },
+  "objectification": {
+   "n": "Objectification",
+   "p": "",
+   "dom": "feminism-gender-race"
+  },
+  "disability-philosophy": {
+   "n": "Philosophy of Disability",
+   "p": "",
+   "dom": "feminism-gender-race"
+  },
+  "male-gaze": {
+   "n": "The Male Gaze",
+   "p": "",
+   "dom": "feminism-gender-race"
+  },
+  "land-ethic": {
+   "n": "The Land Ethic",
+   "p": "leopold",
+   "dom": "environment-animal"
+  },
+  "deep-ecology": {
+   "n": "Deep Ecology",
+   "p": "naess",
+   "dom": "environment-animal"
+  },
+  "ecofeminism": {
+   "n": "Ecofeminism",
+   "p": "plumwood",
+   "dom": "environment-animal"
+  },
+  "animal-rights": {
+   "n": "Animal Rights (subjects-of-a-life)",
+   "p": "regan",
+   "dom": "environment-animal"
+  },
+  "climate-ethics": {
+   "n": "Climate Ethics",
+   "p": "",
+   "dom": "environment-animal"
+  },
+  "anthropocentrism": {
+   "n": "Anthropocentrism",
+   "p": "",
+   "dom": "environment-animal"
+  },
+  "food-ethics": {
+   "n": "Food Ethics",
+   "p": "",
+   "dom": "environment-animal"
+  },
+  "wilderness-ethics": {
+   "n": "Wilderness and Nature Aesthetics",
+   "p": "",
+   "dom": "environment-animal"
+  },
+  "watchmaker-argument": {
+   "n": "The Watchmaker Argument (design)",
+   "p": "paley",
+   "dom": "religion-meaning"
+  },
+  "problem-of-evil": {
+   "n": "The Problem of Evil",
+   "p": "",
+   "dom": "religion-meaning"
+  },
+  "faith-vs-reason": {
+   "n": "Faith and Reason",
+   "p": "",
+   "dom": "religion-meaning"
+  },
+  "meaning-of-life": {
+   "n": "The Meaning of Life",
+   "p": "",
+   "dom": "religion-meaning"
+  },
+  "immortality": {
+   "n": "Immortality and the Soul",
+   "p": "",
+   "dom": "religion-meaning"
+  },
+  "i-thou": {
+   "n": "I–Thou Relation",
+   "p": "buber",
+   "dom": "religion-meaning"
+  },
+  "tillich-ground-of-being": {
+   "n": "God as the Ground of Being",
+   "p": "tillich",
+   "dom": "religion-meaning"
+  },
+  "plantinga-basic-beliefs": {
+   "n": "Properly Basic Belief",
+   "p": "plantinga",
+   "dom": "religion-meaning"
+  },
+  "fate-vs-free-will": {
+   "n": "Fate and Foreknowledge",
+   "p": "",
+   "dom": "religion-meaning"
+  },
+  "paradox-of-fiction": {
+   "n": "The Paradox of Fiction",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "catharsis": {
+   "n": "Catharsis (tragic purgation)",
+   "p": "aristotle",
+   "dom": "ancient"
+  },
+  "narrative-identity": {
+   "n": "Narrative Identity",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "supererogation": {
+   "n": "Supererogation (beyond the call of duty)",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "transhumanism": {
+   "n": "Transhumanism",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "nihilism": {
+   "n": "Nihilism",
+   "p": "",
+   "dom": "nineteenth-century"
+  },
+  "informal-fallacies": {
+   "n": "Informal Fallacies",
+   "p": "",
+   "dom": "knowledge-science-reality"
+  },
+  "functionalism": {
+   "n": "Functionalism (philosophy of mind)",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "family-resemblance": {
+   "n": "Family Resemblance",
+   "p": "wittgenstein",
+   "dom": "mind-language-metaphysics"
+  },
+  "scientism": {
+   "n": "Scientism",
+   "p": "",
+   "dom": "knowledge-science-reality"
+  },
+  "posthumanism": {
+   "n": "Posthumanism",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "game-theory": {
+   "n": "Game Theory",
+   "p": "",
+   "dom": "political-social"
+  },
+  "problem-of-other-minds": {
+   "n": "The Problem of Other Minds",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "mimesis": {
+   "n": "Mimesis (art as imitation)",
+   "p": "aristotle",
+   "dom": "ancient"
+  },
+  "gnosticism": {
+   "n": "Gnosticism (gnosis)",
+   "p": "",
+   "dom": "religion-meaning"
+  },
+  "dirty-hands": {
+   "n": "The Problem of Dirty Hands",
+   "p": "",
+   "dom": "political-social"
+  },
+  "religious-pluralism": {
+   "n": "Religious Pluralism",
+   "p": "john-hick",
+   "dom": "religion-meaning"
+  },
+  "the-uncanny": {
+   "n": "The Uncanny (das Unheimliche)",
+   "p": "freud",
+   "dom": "mind-language-metaphysics"
+  },
+  "bushido": {
+   "n": "Bushido (the way of the warrior)",
+   "p": "",
+   "dom": "eastern-world"
+  },
+  "logical-positivism": {
+   "n": "Logical Positivism (verifiability theory)",
+   "p": "",
+   "dom": "knowledge-science-reality"
+  },
+  "truth-in-fiction": {
+   "n": "Truth in Fiction",
+   "p": "kendall-walton",
+   "dom": "mind-language-metaphysics"
+  },
+  "memetics": {
+   "n": "Memetics (cultural evolution)",
+   "p": "",
+   "dom": "knowledge-science-reality"
+  },
+  "ethics-of-belief": {
+   "n": "The Ethics of Belief (evidentialism)",
+   "p": "clifford",
+   "dom": "knowledge-science-reality"
+  },
+  "philosophy-of-play": {
+   "n": "Philosophy of Play",
+   "p": "huizinga",
+   "dom": "mind-language-metaphysics"
+  },
+  "corporate-personhood": {
+   "n": "Corporate Moral Personhood",
+   "p": "",
+   "dom": "political-social"
+  },
+  "moral-particularism": {
+   "n": "Moral Particularism",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "relational-autonomy": {
+   "n": "Relational Autonomy",
+   "p": "",
+   "dom": "feminism-gender-race"
+  },
+  "philosophy-of-humor": {
+   "n": "Philosophy of Humor",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "eliminative-materialism": {
+   "n": "Eliminative Materialism",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "fascism": {
+   "n": "Fascism",
+   "p": "",
+   "dom": "political-social"
+  },
+  "incongruity-theory-humor": {
+   "n": "Incongruity Theory of Humor",
+   "p": "kant",
+   "dom": "kant-german-idealism"
+  },
+  "personalism": {
+   "n": "Personalism",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "standard-of-taste": {
+   "n": "The Standard of Taste",
+   "p": "hume",
+   "dom": "medieval-early-modern"
+  },
+  "abduction": {
+   "n": "Inference to the Best Explanation (abduction)",
+   "p": "",
+   "dom": "pragmatism-american"
+  },
+  "prisoners-dilemma": {
+   "n": "The Prisoner's Dilemma and Tit-for-Tat",
+   "p": "",
+   "dom": "political-social"
+  },
+  "maslow-hierarchy-of-needs": {
+   "n": "Maslow's Hierarchy of Needs",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "underdetermination": {
+   "n": "Underdetermination of Theory by Evidence",
+   "p": "",
+   "dom": "knowledge-science-reality"
+  },
+  "the-sublime": {
+   "n": "The Sublime",
+   "p": "",
+   "dom": "kant-german-idealism"
+  },
+  "correspondence-theory-of-truth": {
+   "n": "Correspondence Theory of Truth",
+   "p": "",
+   "dom": "knowledge-science-reality"
+  },
+  "tragedy-of-the-commons": {
+   "n": "The Tragedy of the Commons",
+   "p": "",
+   "dom": "political-social"
+  },
+  "personhood": {
+   "n": "Personhood (vs genetic humanity)",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "imaginative-resistance": {
+   "n": "Imaginative Resistance",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "art-horror": {
+   "n": "Art-Horror",
+   "p": "carroll-aesthetics",
+   "dom": "mind-language-metaphysics"
+  },
+  "great-chain-of-being": {
+   "n": "The Great Chain of Being",
+   "p": "",
+   "dom": "medieval-early-modern"
+  },
+  "oedipus-complex": {
+   "n": "The Oedipus Complex",
+   "p": "freud",
+   "dom": "mind-language-metaphysics"
+  },
+  "legal-positivism": {
+   "n": "Legal Positivism (law and morality separable)",
+   "p": "",
+   "dom": "political-social"
+  },
+  "self-deception": {
+   "n": "Self-Deception",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "constitutive-rules": {
+   "n": "Constitutive Rules (rules that define games)",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "argument-from-reason": {
+   "n": "The Argument from Reason",
+   "p": "cs-lewis",
+   "dom": "religion-meaning"
+  },
+  "metabolic-rift": {
+   "n": "Metabolic Rift",
+   "p": "marx",
+   "dom": "nineteenth-century"
+  },
+  "epistemology-of-testimony": {
+   "n": "Epistemology of Testimony",
+   "p": "",
+   "dom": "knowledge-science-reality"
+  },
+  "institutional-theory-of-art": {
+   "n": "Institutional Theory of Art",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "natural-kinds": {
+   "n": "Natural Kinds vs Nominal Kinds",
+   "p": "",
+   "dom": "knowledge-science-reality"
+  },
+  "situationism": {
+   "n": "Situationism (situationist social psychology)",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "soul-making-theodicy": {
+   "n": "Soul-Making Theodicy",
+   "p": "john-hick",
+   "dom": "religion-meaning"
+  },
+  "cyborg": {
+   "n": "The Cyborg",
+   "p": "haraway",
+   "dom": "feminism-gender-race"
+  },
+  "purity-and-danger": {
+   "n": "Purity and Danger (dirt as matter out of place)",
+   "p": "",
+   "dom": "political-social"
+  },
+  "eugenics": {
+   "n": "Eugenics",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "liar-paradox": {
+   "n": "The Liar Paradox",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "dialetheism": {
+   "n": "Dialetheism (true contradictions)",
+   "p": "graham-priest",
+   "dom": "mind-language-metaphysics"
+  },
+  "romanticism": {
+   "n": "Romanticism (imagination and the infinite)",
+   "p": "",
+   "dom": "nineteenth-century"
+  },
+  "abjection": {
+   "n": "Abjection (the abject)",
+   "p": "kristeva",
+   "dom": "mind-language-metaphysics"
+  },
+  "philosophy-of-music": {
+   "n": "Philosophy of Music",
+   "p": "",
+   "dom": "kant-german-idealism"
+  },
+  "aestheticism": {
+   "n": "Aestheticism (art for art's sake)",
+   "p": "",
+   "dom": "nineteenth-century"
+  },
+  "political-realism": {
+   "n": "Political Realism (power over morality)",
+   "p": "carl-schmitt",
+   "dom": "political-social"
+  },
+  "anti-natalism": {
+   "n": "Anti-Natalism",
+   "p": "benatar",
+   "dom": "ethics-moral-psychology"
+  },
+  "ethics-of-lying": {
+   "n": "The Ethics of Lying and Deception",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "physicalism": {
+   "n": "Physicalism",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "moral-dilemmas": {
+   "n": "Moral Dilemmas (non-negotiable duties)",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "philosophy-of-art": {
+   "n": "Philosophy of Art (artistic value)",
+   "p": "",
+   "dom": "kant-german-idealism"
+  },
+  "biopower": {
+   "n": "Biopower",
+   "p": "foucault",
+   "dom": "political-social"
+  },
+  "uncanny-valley": {
+   "n": "The Uncanny Valley",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "society-of-the-spectacle": {
+   "n": "The Society of the Spectacle",
+   "p": "guy-debord",
+   "dom": "political-social"
+  },
+  "aspect-perception": {
+   "n": "Aspect Perception (seeing-as)",
+   "p": "wittgenstein",
+   "dom": "mind-language-metaphysics"
+  },
+  "stakeholder-theory": {
+   "n": "Stakeholder Theory (vs stockholder theory)",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "death-of-the-author": {
+   "n": "The Death of the Author",
+   "p": "roland-barthes",
+   "dom": "political-social"
+  },
+  "pacifism": {
+   "n": "Pacifism",
+   "p": "",
+   "dom": "political-social"
+  },
+  "film-as-philosophy": {
+   "n": "Film as Philosophy",
+   "p": "",
+   "dom": "knowledge-science-reality"
+  },
+  "ontology-of-fiction": {
+   "n": "Ontology of Fictional Characters",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "darshana": {
+   "n": "Darshana (systematic 'view' or school)",
+   "p": "",
+   "dom": "eastern-world"
+  },
+  "vedic-sacrifice": {
+   "n": "Vedic Sacrifice (yajna)",
+   "p": "",
+   "dom": "eastern-world"
+  },
+  "dependent-origination": {
+   "n": "Dependent Origination (pratityasamutpada)",
+   "p": "",
+   "dom": "eastern-world"
+  },
+  "abhidharma": {
+   "n": "Abhidharma (dharma analysis)",
+   "p": "",
+   "dom": "eastern-world"
+  },
+  "yogacara-mind-only": {
+   "n": "Yogacara 'Mind-Only' (cittamatra)",
+   "p": "",
+   "dom": "eastern-world"
+  },
+  "classical-yoga": {
+   "n": "Classical Yoga (Patanjali)",
+   "p": "",
+   "dom": "eastern-world"
+  },
+  "samkhya-dualism": {
+   "n": "Samkhya Dualism (purusha and prakriti)",
+   "p": "",
+   "dom": "eastern-world"
+  },
+  "vaisheshika-categories": {
+   "n": "Vaisheshika Categories (padartha)",
+   "p": "",
+   "dom": "eastern-world"
+  },
+  "nyaya-five-limb-inference": {
+   "n": "Nyaya Five-Membered Inference",
+   "p": "",
+   "dom": "eastern-world"
+  },
+  "mimamsa": {
+   "n": "Mimamsa (Vedic exegesis)",
+   "p": "",
+   "dom": "eastern-world"
+  },
+  "semiotics-signifier-signified": {
+   "n": "Semiotics (signifier and signified)",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "anti-psychologism": {
+   "n": "Anti-Psychologism",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "intrinsic-vs-instrumental-value": {
+   "n": "Intrinsic vs Instrumental Value",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "sorites-paradox": {
+   "n": "Sorites Paradox (vagueness)",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "maternal-thinking": {
+   "n": "Maternal Thinking (Sara Ruddick)",
+   "p": "",
+   "dom": "feminism-gender-race"
+  },
+  "original-sin": {
+   "n": "Original Sin",
+   "p": "",
+   "dom": "religion-meaning"
+  },
+  "parasocial-relationship": {
+   "n": "Parasocial Relationships",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "reputation": {
+   "n": "Reputation (social epistemology of)",
+   "p": "",
+   "dom": "knowledge-science-reality"
+  },
+  "repetition-and-difference": {
+   "n": "Repetition and Difference (Deleuze)",
+   "p": "deleuze",
+   "dom": "political-social"
+  },
+  "archive-fever": {
+   "n": "Archive Fever (Derrida)",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "philosophy-of-grief": {
+   "n": "Philosophy of Grief",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "affective-injustice": {
+   "n": "Affective Injustice",
+   "p": "",
+   "dom": "feminism-gender-race"
+  },
+  "philosophy-of-anger": {
+   "n": "Philosophy of Anger",
+   "p": "",
+   "dom": "ethics-moral-psychology"
+  },
+  "standpoint-epistemology": {
+   "n": "Feminist Standpoint Epistemology",
+   "p": "",
+   "dom": "feminism-gender-race"
+  },
+  "beauty-myth": {
+   "n": "The Beauty Myth (Naomi Wolf)",
+   "p": "",
+   "dom": "feminism-gender-race"
+  },
+  "reproductive-justice": {
+   "n": "Reproductive Justice",
+   "p": "",
+   "dom": "feminism-gender-race"
+  },
+  "race-as-social-construct": {
+   "n": "Race as Social Construct",
+   "p": "",
+   "dom": "feminism-gender-race"
+  },
+  "wrongful-discrimination": {
+   "n": "Wrongful Discrimination",
+   "p": "",
+   "dom": "feminism-gender-race"
+  },
+  "speech-acts": {
+   "n": "Speech Acts (performative utterances)",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "mimetic-desire": {
+   "n": "Mimetic Desire (Girard)",
+   "p": "girard",
+   "dom": "ethics-moral-psychology"
+  },
+  "scapegoat-mechanism": {
+   "n": "Scapegoat Mechanism (Girard)",
+   "p": "girard",
+   "dom": "ethics-moral-psychology"
+  },
+  "becoming-other": {
+   "n": "Becoming-Other (Deleuzian becoming)",
+   "p": "deleuze",
+   "dom": "political-social"
+  },
+  "open-interpretation": {
+   "n": "Open Interpretation (multiple valid readings)",
+   "p": "",
+   "dom": "mind-language-metaphysics"
+  },
+  "popular-parody": {
+   "n": "Popular Parody (homage vs art parody)",
+   "p": "linda-hutcheon",
+   "dom": "mind-language-metaphysics"
+  }
+ }
+}

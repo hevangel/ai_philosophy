@@ -1,0 +1,87 @@
+{
+  "book": "255 - The Godfather and Philosophy - An Argument You Can't Refute",
+  "unit": "u369",
+  "chapters": [
+    {
+      "n": 21,
+      "file": "ch21 - 8. Ecce Caesar Nietzsche\u2019s Imperial Aspirations.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche"],
+      "concepts": ["will-to-power", "master-slave-morality", "ressentiment"],
+      "relation": "Conway argues Nietzsche was not fascism's father but its 'godfather': openly contemptuous of nationalism and anti-Semitism, yet sharing its primal impulses. He reconstructs Nietzsche's fantasy of reviving a Roman-style pan-European empire (the 'new ruling caste' of Beyond Good and Evil), reading his admiration for Pilate's 'noble scorn'—'one Jew more or less, what does it matter?'—as Nietzsche's own ventriloquized wish to assimilate and neutralize the Jews he both needed and feared as the arch-enemies of empire. The chapter ties this imperial will to power and revaluation of noble-versus-slave values to Nietzsche's ambivalent Judeophobia, showing his cosmopolitanism was shallower than he claimed."
+    },
+    {
+      "n": 22,
+      "file": "ch22 - 9. A Question of Responsibility Nietzsche with H\u00f6lderlin at War, 1914 \u20131946.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche", "heidegger"],
+      "concepts": ["will-to-power", "eternal-recurrence"],
+      "relation": "Corngold and Waite argue Nietzsche programmed a deliberately esoteric doctrine of 'order of rank' (Rangordnung) and will to power meant to work as a delayed actio in distans across centuries, taking responsibility ('Ich bin verantwortlich') even for what followed. They trace how the Nietzsche-H\u00f6lderlin nexus—H\u00f6lderlin's 'Thought' as father to Nietzsche's/Hitler's 'Deed'—was cultivated from George's circle through Heidegger's wartime lectures to Rosenberg's 1944 Weimar address, showing the Nazis staged a controlled 'debate' over Nietzsche while treating H\u00f6lderlin as untouchable, so the nexus itself functioned as Gramscian non-coercive hegemony."
+    },
+    {
+      "n": 23,
+      "file": "ch23 - 10. The Elisabeth Legend The Cleansing of Nietzsche and the Sullying of His Sister.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche"],
+      "concepts": ["master-slave-morality", "will-to-power"],
+      "relation": "Holub dismantles the postwar 'Elisabeth legend' by which Schlechta, Kaufmann and Roos scapegoated F\u00f6rster-Nietzsche to rehabilitate Nietzsche from his fascist reputation. Examining her actual forgeries and biographical writings, he shows they never made Nietzsche more nationalist or anti-Semitic—indeed she consistently and accurately recorded his opposition to anti-Semitism and was herself not a biological racist. He concludes the responsibility lies with Nietzsche himself: his praise of war, cruelty, hierarchy, slavery and European hegemony, and his rhetorical hyperbole, made his thought genuinely susceptible to Nazi appropriation."
+    },
+    {
+      "n": 24,
+      "file": "ch24 - 11. Nietzsche, Mussolini, and Italian Fascism.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche"],
+      "concepts": ["will-to-power", "ubermensch", "master-slave-morality", "last-man"],
+      "relation": "Sznajder examines how Nietzsche entered Italian Fascism through two bridging figures. Gabriele D'Annunzio relocated Nietzsche from philosophy into literature, staged the '\u00dcbermensch' and 'live dangerously' as an aesthetic politics at Fiume and in the Carta del Carnaro, aestheticizing mass politics in ways fascism inherited. Mussolini, reading Beyond Good and Evil and the Genealogy from his socialist years, seized on the will to power, transvaluation and anti-egalitarian elitism (Rome undone by 'the pale Jews') as a virile theory of revolution. The chapter stresses the paradox that official fascism never listed the individualist, anti-statist Nietzsche as a godfather even as his vocabulary pervaded it."
+    },
+    {
+      "n": 25,
+      "file": "ch25 - 12. Nietzsche and the Fascist Dimension The Case of Ernst J\u00fcnger.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche", "heidegger"],
+      "concepts": ["will-to-power", "ubermensch", "amor-fati", "eternal-recurrence"],
+      "relation": "Ohana locates fascism's 'nihilistic-totalitarian syndrome' in the Janus-faced combination of Nietzschean nihilism and the Overman's will to power, whereby ethics is replaced by aesthetics and the self-creating 'new man' shapes reality ex nihilo. He reads Ernst J\u00fcnger's Stahlgewittern, Der Arbeiter and 'Total Mobilization' as the aestheticization of war and technology into a work-state, and traces Heidegger's fascination with J\u00fcnger's 'will to will' back to Nietzsche and H\u00f6lderlin—arguing that, following Camus, one cannot ignore the directionless dynamism leading from Nietzschean perspectivism toward Rosenberg's marching-column politics."
+    },
+    {
+      "n": 26,
+      "file": "ch26 - 13. A Godfather Too Nazism as a Nietzschean \u201cExperiment\u201d.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche"],
+      "concepts": ["nietzsche-perspectivism", "will-to-power", "ubermensch"],
+      "relation": "Fischer contends that the 'historically effective' (not the 'real') Nietzsche could be read from opposite perspectives, and that Nazism is best understood as a post-Nietzschean 'experiment' licensed by the death of God and the collapse of accepted values ('wir machen einen Versuch mit der Wahrheit'). Invoking Nietzsche's own perspectivism from the Genealogy, and citing calls to 'push what is falling,' the coming 'fight for dominion of the earth' and the Cesare-Borgia-over-Parsifal remark, he argues Nietzsche was 'half a Nazi and half an anti-Nazi'—a genuine part-time godfather, against Kaufmann's overly 'gentle' de-Nazified reading."
+    },
+    {
+      "n": 27,
+      "file": "ch27 - 14. Critique as Apologetics Nolte\u2019s Interpretation of Nietzsche.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche"],
+      "concepts": ["master-slave-morality", "death-of-god", "ressentiment", "ubermensch"],
+      "relation": "Stackelberg critiques Ernst Nolte's essentialist reading, in which Nietzsche's Ecce Homo 'party of life' and its call for the 'ruthless destruction of all that is degenerate' furnish the counter-concept of extermination mirroring Marx, dignifying fascism as an anti-Bolshevik European civil war. He shows Nolte must explain away Nietzsche's denunciations of anti-Semitism, nationalism, the Reich and Wagner, and counters that Nazism was itself a moralistic 'slave revolt'—the ascetic, purity-seeking mentality Nietzsche attacked—so that Nietzsche's real susceptibility to Nazi use lies in his shared anti-egalitarian enemies and his refusal of concrete social analysis, not in an exterminatory program."
+    },
+    {
+      "n": 28,
+      "file": "ch28 - Works of Nietzsche Cited.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 29,
+      "file": "ch29 - Select Bibliography.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 30,
+      "file": "ch30 - Index.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": []
+}

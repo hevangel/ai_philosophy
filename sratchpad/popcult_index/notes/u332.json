@@ -1,0 +1,191 @@
+{
+  "book": "228 - The Philosophy of Science Fiction Film",
+  "unit": "u332",
+  "chapters": [
+    {
+      "n": 2,
+      "file": "ch02 - The Philosophy of Popular Culture.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 3,
+      "file": "ch03 - Title Page.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 4,
+      "file": "ch04 - Copyright Page.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 5,
+      "file": "ch05 - Contents.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 6,
+      "file": "ch06 - Preface and Acknowledgments.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 7,
+      "file": "ch07 - An Introduction to the Philosophy of Science Fiction Film.md",
+      "kind": "chapter",
+      "philosophers": ["heidegger", "hume", "plato", "descartes"],
+      "concepts": ["personal-identity", "hard-problem", "time-travel"],
+      "relation": "Sanders's editorial introduction surveys the twelve essays, arguing that science fiction film and philosophy are thematically interdependent, and previews each film's problem: Deckard's possible replicant status in Blade Runner, Biderman's existential reading of Quaid in Total Recall, his own paranoia interpretation of Invasion of the Body Snatchers, McMahon's Heideggerian being-toward-death in Frankenstein. He raises critical objections of his own, e.g. that the 'Deckard is an android' inference is logically invalid and that equating computer rationality with value-free computability (2001, Colossus) cannot yield normative judgment."
+    },
+    {
+      "n": 8,
+      "file": "ch08 - Part 1 Enigmas of Identity and Agency.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 9,
+      "file": "ch09 - What Is It to Be Human Blade Runner and Dark City.md",
+      "kind": "chapter",
+      "philosophers": ["locke", "hume"],
+      "concepts": ["personal-identity", "locke-personal-identity"],
+      "relation": "Knight and McKnight read Blade Runner and Dark City as noir-influenced cyberpunk that asks what it is to be human. They argue that Deckard's replicant status (the origami unicorn, the shared family photo) and Murdoch's serially reprogrammed memory show memory to be unreliable, invoking Locke's prince-and-cobbler thought experiment and the problem of new brains in one body. Their conclusion is that it is emotion and relationship, not memory, that ground agency and personhood: Roy's empathy in dying and Deckard's love for Rachael, Murdoch's love for Emma/Anna, are what mark the characters as human."
+    },
+    {
+      "n": 10,
+      "file": "ch10 - Recalling the Self Personal Identity in Total Recall.md",
+      "kind": "chapter",
+      "philosophers": ["sartre", "hume", "locke", "heidegger", "wittgenstein", "derrida"],
+      "concepts": ["personal-identity", "existence-precedes-essence", "hume-bundle", "bad-faith"],
+      "relation": "Biderman uses Quaid/Hauser in Total Recall to test criteria of personal identity: the body criterion fails on Kuato and George sharing a body, the brain and Lockean memory criteria fail on implanted false memories and memory gaps, and psychological continuity fails on how radically Quaid differs from the malicious Hauser. Facing Hume's conclusion that the self is a fiction (echoed by Wittgenstein and Derrida's deconstruction), he argues Quaid escapes it through the Sartrean existential route: thrown into existence, he takes a stance toward his facticity and, following Kuato's 'you are what you do,' authentically creates himself by rejecting Hauser and saving Mars."
+    },
+    {
+      "n": 11,
+      "file": "ch11 - Picturing Paranoia Interpreting Invasion of the Body Snatchers.md",
+      "kind": "chapter",
+      "philosophers": ["hume"],
+      "concepts": ["skepticism", "personal-identity"],
+      "relation": "Sanders rejects the standard Cold War-allegory and feminist readings of Invasion of the Body Snatchers and argues the film is best understood as film noir dramatizing paranoia. He shows that the mechanics of pod duplication are riddled with incoherence (multiple duplicates, location, timing, matching), then reads the frame story as evidence that Miles's whole account is a delusional psychosis. Dr. Hill's acceptance of the wild story on flimsy evidence violates Hume's maxim that a rational person proportions belief to evidence, making the film an ironic meditation on the philosophical significance of paranoia and lost humanity."
+    },
+    {
+      "n": 12,
+      "file": "ch12 - The Existential Frankenstein.md",
+      "kind": "chapter",
+      "philosophers": ["heidegger"],
+      "concepts": ["being-toward-death", "authenticity", "existentialism", "das-man"],
+      "relation": "McMahon gives an existential reading of Whale's Frankenstein and Shelley's novel through Heidegger's being-toward-death and Ernest Becker's denial of death. Victor Frankenstein exemplifies Becker's 'defiant Promethianism,' the offensive denial that seeks to conquer death, and the monster personifies death itself. She argues his obsession erodes his humanity, estranges him from others, and generates moral dilemmas, illustrating Heidegger's claim that only authentic acceptance of mortality restores individuality and genuine community, so that mastering death would make us monsters."
+    },
+    {
+      "n": 13,
+      "file": "ch13 - Part 2 Extraterrestrial Visitation, Time Travel, and Artificial Intelligence.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 14,
+      "file": "ch14 - Technology and Ethics in The Day the Earth Stood Still.md",
+      "kind": "chapter",
+      "philosophers": ["mill", "hobbes"],
+      "concepts": ["harm-principle", "social-contract", "just-war-theory", "applied-ethics"],
+      "relation": "Skoble reads The Day the Earth Stood Still as an allegory about the ethics of force and technology. He argues Klaatu's ultimatum extends Mill's harm principle to the interplanetary level: societies may fight among themselves but not threaten others, so Gort's robot police enforce a right to peace that no one has a right to violate. He distinguishes the robots' narrow, non-paternalistic authority from Hobbes's absolute sovereign, defends the ultimatum as preemptive self-defense rather than a rights violation, and contrasts the film's trust in machines with the later technophobia of Colossus and The Terminator."
+    },
+    {
+      "n": 15,
+      "file": "ch15 - Some Paradoxes of Time Travel in The Terminator and 12 Monkeys.md",
+      "kind": "chapter",
+      "philosophers": ["lewis"],
+      "concepts": ["time-travel", "possible-worlds", "personal-identity"],
+      "relation": "Devlin uses The Terminator and 12 Monkeys to work through time-travel paradoxes with David Lewis's framework. He resolves the personal-identity paradox of the two James Coles at the airport via Lewis's distinction between personal and external time, and treats the grandfather paradox differently for each film: 12 Monkeys holds a possibilist growing-universe model in which the fixed past cannot be changed (Cole cannot kill his younger self), while The Terminator adopts a branching-universe model allowing the past to change into an alternate timeline. He closes on the causal loop of the Army of the 12 Monkeys message, which lacks an origin unless uncaused causes are allowed."
+    },
+    {
+      "n": 16,
+      "file": "ch16 - 2001 A Philosophical Odyssey.md",
+      "kind": "chapter",
+      "philosophers": ["heidegger", "nietzsche", "plato", "husserl"],
+      "concepts": ["dasein", "embodiment", "heidegger-technology", "plato-forms"],
+      "relation": "Stoehr interprets Kubrick's 2001 as inducing a feeling of disembodied presence through unrooted camerawork (contrasted with Ford's The Searchers), matching its theme of technology severing us from the natural world and our bodies. Drawing on Heidegger's Dasein and Hubert Dreyfus's On the Internet, he argues there are no context-free Archimedean standpoints and stages the Plato-versus-Nietzsche debate over the body: Plato's Phaedo prizes the soul's escape from the body, while Nietzsche's Zarathustra affirms embodied, situated existence. HAL's seeming humanity underscores that machines lacking bodies cannot fully replicate human intelligence."
+    },
+    {
+      "n": 17,
+      "file": "ch17 - Terminator-Fear and the Paradox of Fiction.md",
+      "kind": "chapter",
+      "philosophers": ["nagel", "searle"],
+      "concepts": ["hard-problem", "what-is-it-like", "turing-test"],
+      "relation": "Holt uses the Terminator's first-person infrared POV shots (evoking Nagel's 'what is it like' question about an alien artificial consciousness) to frame the paradox of fiction: how we feel fear toward things we know do not exist. He offers a contextual divide-and-conquer solution, arguing higher emotions like pity and admiration for Sarah and Reese are largely make-believe, while lower emotions like Terminator-fear are genuine and need no existential belief (thought and mere possibility suffice). He adds that such fear is more rational for a naturalist who admits artificial intelligence is possible than for a dualist, and speculates the Terminator functions as an archetype embodying tech-noir dread."
+    },
+    {
+      "n": 18,
+      "file": "ch18 - Part 3 Brave Newer World Science Fiction Futurism.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 19,
+      "file": "ch19 - The Dialectic of Enlightenment in Metropolis.md",
+      "kind": "chapter",
+      "philosophers": ["adorno", "nietzsche", "hegel", "kant"],
+      "concepts": ["culture-industry", "arendt-totalitarianism", "will-to-power", "hegel-dialectic"],
+      "relation": "Abrams reads Fritz Lang's Metropolis as anticipating Adorno and Horkheimer's Dialectic of Enlightenment by two decades. He maps the film's arc\u2014from the Christian mythology of the catacombs, through Joh's technototalitarian rational city and the human-machine fusion of Rotwang's false Maria, back into ancient myth (the M-Machine as Moloch, the whore of Babylon, the Tower of Babel)\u2014onto their thesis that Enlightenment reason turns totalitarian and reverts to mythology and madness. He ties reason's self-destruction to Nietzsche's will to power and contrasts the descent into 'absolute madness' with Hegel's progress toward absolute mind."
+    },
+    {
+      "n": 20,
+      "file": "ch20 - Imagining the Future, Contemplating the Past The Screen Versions of 1984.md",
+      "kind": "chapter",
+      "philosophers": ["arendt", "lyotard"],
+      "concepts": ["utopia-dystopia", "arendt-totalitarianism", "grand-narratives"],
+      "relation": "Palmer compares the two film versions of Orwell's 1984 to argue that dystopian fiction projects present fears and desires onto an imagined future, engaging critically with the Enlightenment idea of progress (via Burnham's managerial thesis). Anderson's 1956 film 'talks to the future,' fusing science fiction and film noir to voice Cold War dread of a possible historical trajectory, while Radford's 1984 version, in the postmodern 'heritage film' mode Jameson and Higson describe, museumizes the novel: with history seemingly ended it becomes an honored, reverentially displayed relic that talks only to a dead past rather than warning of a coming one."
+    },
+    {
+      "n": 21,
+      "file": "ch21 - Disenchantment and Rebellion in Alphaville.md",
+      "kind": "chapter",
+      "philosophers": ["bergson", "adorno", "camus", "nietzsche"],
+      "concepts": ["bergson-duration", "the-absurd", "culture-industry", "simulacra"],
+      "relation": "Woolfolk reads Godard's Alphaville as an imagination of spiritual disaster: the Alpha 60 computer's reduction of time to divisible units suppresses the Bergsonian dur\u00e9e and fundamental self, and the city's architecture of 'nonplaces' embodies Weber's disenchantment and the Frankfurt School's culture-industry critique. Following Charles Taylor, he argues disenchantment opens a new heroic framework of facing an indifferent universe with lucidity, in which Lemmy Caution\u2014a postmodern pastiche of noir dandies\u2014rebels through an aestheticized eroticism and \u00c9luard's surrealist poetry, achieving a Weberian 'this-worldly salvation' of art and love that succeeds where Orwell's Julia and Huxley's Savage fail."
+    },
+    {
+      "n": 22,
+      "file": "ch22 - The Matrix, the Cave, and the Cogito.md",
+      "kind": "chapter",
+      "philosophers": ["plato", "descartes"],
+      "concepts": ["plato-cave", "cartesian-doubt", "descartes-cogito", "plato-forms"],
+      "relation": "Conard argues that The Matrix alludes to Plato's cave (the pod-bound humans mistaking the program for reality, Neo's painful ascent) and to Descartes' dream argument and evil-genius doubt (the singular consciousness generating the Matrix), but betrays their spirit by rejecting transcendence and the a priori. Because the film is 'Christianity without God'\u2014Neo can only remake the shadow-world of the Matrix, not touch ultimate reality\u2014it grounds knowledge in a subjective gut feeling ('being the One is just like being in love') rather than Descartes' intellectual intuition of God or Plato's rational grasp of the Forms, leaving no answer to whether life outside the Matrix is itself another illusion."
+    },
+    {
+      "n": 23,
+      "file": "ch23 - List of Contributors.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 24,
+      "file": "ch24 - Index.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": []
+}

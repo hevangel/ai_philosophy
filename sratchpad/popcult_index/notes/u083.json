@@ -1,0 +1,352 @@
+{
+ "book": "051 - Soccer and Philosophy - Beautiful Thoughts on the Beautiful Game",
+ "unit": "u083",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Soccer and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Popular Culture and Philosophy® Series Editor George A. Reisch.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Soccer and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Warm-up.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Editor Ted Richards's introduction strips soccer to its one rule—move the ball into the net without using your hands—and argues that the passions this simple game ignites across every nation, class, age, and gender must spring from the same human wellspring as philosophy itself, so that studying soccer is a study of humanity. He frames the volume's perennial questions (what makes a thing that thing, what is the right thing to do, what makes something beautiful) as arising out of our being rather than academic invention, and previews the book's pairing of philosophers (Kierkegaard, Aristotle, Plato, Nietzsche, Kant, Dewey, Sartre) with players (Pelé, Maradona, Zidane, Cristiano Ronaldo, Messi, Fàbregas, Beckenbauer) across thirty-one chapters by forty authors from fifteen countries."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Acknowledgements.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - FIRST HALF - The Nature of the Game.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Football as Part of Real Life.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "philosophy-of-play"
+   ],
+   "relation": "Hoyningen-Huene asks why anyone cheers a ball crossing an arbitrarily defined line and answers with his thesis that football re-enacts the drama of life: an unpredictable, fractal mixture of ability and chance—from a bobbling pitch to Manchester United's 1999 injury-time comeback and Maradona's unpunished Hand of God—mirroring the luck, skill, and irreversible injustice of real life. He analyzes the Laws of the Game as having four functions: guaranteeing equal conditions, generating analogies to life's drama, ending the drama at a knowable moment (unlike life's open-ended conflicts), and keeping the game safely distanced from real seriousness, which is why he reads hooligans as people who cognitively mistake the game's drama for a real-life fight. Finally he argues that money, careers, betting, and even the political channeling of Hungary's 1954 World Cup defeat into the 1956 uprising are secondary entanglements parasitic on a primary fascination already present in a nameless village-league match, which no other sport matches in variability of the ability–chance mixture."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Good Gossip.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-forms",
+    "possible-worlds"
+   ],
+   "relation": "Borge weighs Jimmy Sirrel's claim that the best team always wins and the rest is gossip against Alex Ferguson insisting his side played better in a 1–4 defeat to Liverpool, framing the dispute as football Nominalism (only particular matches and results exist) versus football Platonism (an ideal way of playing exists over and above results). He rejects the Platonic ideal as metaphysically impossible—two perfect teams could never both score on every chance while conceding nothing, and style comparisons like catenaccio versus Brazil 1970 collapse without appeal to results—and instead uses possible-worlds counterfactuals: a team can be 'really' best yet unlucky when it creates objective scoring opportunities, like John Terry's slipped 2008 Champions League penalty or Spain's wrongly disallowed golden goal against South Korea in 2002, that go in across the closest possible worlds. Since Liverpool's deeply unfair 2005 comeback in Istanbul is celebrated as a classic, football is fiction and drama rather than a fairness-measuring contest, and the resulting what-if moaning is the good gossip that makes barstool debate worthwhile."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Oh to Be a Gooner.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "death-of-god",
+    "apollonian-dionysian",
+    "will-to-power",
+    "ubermensch"
+   ],
+   "relation": "Kilpatrick reads Nietzsche's madman's question 'what sacred games shall we have to invent?' as answered by the stadium: after the death of God, soccer has replaced religion as the shared narrative where modern communities make and worship heroes. Using The Birth of Tragedy, he reads a goal as an Apollonian–Dionysian fusion—the scorer's individuated ecstasy merging with the collective joy of teammates and fans—and, on Nietzsche's claim that existence is justified only as an aesthetic phenomenon, argues the game is defensible only when played creatively and artistically rather than by negative, win-at-all-costs tactics. Nietzsche's rejection of nationalism (the state as 'the new idol', the 'good European', Zarathustra's 'children's land') means club over country, and Wenger's Arsenal—with its dietary and training laboratory at London Colney cultivating an Overman, its Invincibles season, and its young, passport-blind signings—emerges as the club Nietzsche would support through its very will-to-power."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Extra Time.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-four-causes",
+    "aristotle-virtue-ethics",
+    "aristotle-golden-mean"
+   ],
+   "relation": "Kent argues soccer is Aristotle's favorite sport because everything in both is organized around the goal: the four causes explain shinguards (plastic, curved shape, Mitre's workers, protection) and the game itself, with the final cause—scoring—defining a thing's identity and goodness, so two differently made balls are both soccerballs if kicked toward a net. Soccer best fulfills sport's three purposes (physical and moral discipline, theatrical imitation with catharsis, recreation): its ninety minutes of uninterrupted continuity force hundreds of renewed acts of self-mastery in Aristotle's sense of courage and the right amount, its single referee with limited powers embodies Aristotle's preferred limited monarchy, and Argentina's sportsmanlike throw-in returning the ball after Cameroon kicks it out for an injured player exemplifies equity—making a rightful exception to the letter of the law. Own goals, where a defender's error harms his own side, supply the hamartia of Aristotelian tragedy, giving fans a healthy catharsis of pity and fear."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - How Beckenbauer and Zidane Practiced the Four Cardinal Virtues.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-forms",
+    "plato-tripartite-soul",
+    "plato-justice"
+   ],
+   "relation": "Coumoundouros explains soccer greatness through three Platonic ideas: the Form of the footballer, which Pelé (1,281 goals, three World Cups, the save by Banks his header 'infected' with greatness and the infamous miss against Uruguay) and Maradona (the Hand of God and the Goal of the Century past five English defenders) approximate as near-perfect imitations, with position-specific Forms like forward Form for Pelé and attacking-midfielder Form for Maradona. Excellence as performing a proper function well (Republic 353a) then accounts for modern players—Ronaldo's evolved winger role, Henry converted by Wenger into a striker, Marta averaging a goal per game proving women's soccer equals the men's. Finally the Republic's four cardinal virtues grounded in the tripartite soul apply off and on the pitch: Beckenbauer playing the 1970 'Game of the Century' with a fractured clavicle and marshaling the 1974 final shows courage, wisdom, and moderation in just balance, while Zidane's 2006 head-butt on Materazzi shows the spirited part overwhelming reason, and with it greatness itself."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - But an FC Bot-celona.md",
+   "kind": "chapter",
+   "philosophers": [
+    "turing"
+   ],
+   "concepts": [
+    "turing-test"
+   ],
+   "relation": "Drawing on their RoboCup experience—including the first human-versus-autonomous-robot exhibitions against Osnabrück (2007) and Stuttgart (2009), which the humans easily won—the authors ask whether robots could ever play rather than merely mimic soccer, proposing a modified Turing test: if a robot team's match is recognizable to fans as soccer, robots can play. Since the Laws of the Game tacitly assume human players, they design rules for a human–robot match that preserve soccer's essence—a game of limited, differently capable, fully autonomous players who must pass and move off the ball—banning goal-sized robot walls, wireless communication, software-coach micromanagement, and superhuman speed or size, much as tournament chess had to adapt its rules for Deep Blue versus Kasparov and as Oscar Pistorius's blades raised fairness questions in the Olympics. A robot victory under these 'stacked against the machines' rules, they conclude, could only come from better finesse, teamwork, and vision, and would settle on the pitch whether an FC Bot-celona can genuinely play the beautiful game."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Added Time.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aquinas",
+    "hume"
+   ],
+   "concepts": [
+    "hume-miracles",
+    "free-will-determinism"
+   ],
+   "relation": "McDermid takes Maradona's cheeky 'a little with the head of Maradona and a little with the hand of God' claim literally and asks what would make either 1986 goal against England—the obvious handball or the Goal of the Century—a miracle, using Aquinas's definition of miracles as intentional divine acts beyond the order commonly observed in nature. He explores how God could intervene without breaking natural law, analogizing God to a goalkeeper exempt from the handball rule or a spectator outside the game: in a deterministic world He could only arrange initial conditions (a domino setup requiring fine-tuning at the Big Bang), while in an indeterministic quantum world He could load the chancy micro-events along Maradona's mazy, sensitively balanced run. Hume's empiricist argument against miracles then shows we could never be justified in believing either goal miraculous, since the mundane explanation—Maradona's cheek and skill, lapses of concentration, a missed handball call—always has the whole of past experience on its side."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - INTERMISSION - The Unwritten Rules.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Luck as Anathema.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-luck"
+   ],
+   "relation": "Eylon and Horowitz defend the maligned manager's excuse 'we outplayed them and were plain unlucky' by distinguishing genuine football luck from fluke-luck: unlike sprinting, where outrunning your opponent and finishing fourth is incoherent, football's rules constitute rather than merely measure the skill, and 'almosts'—Roritania City hitting the woodwork eight times while United's one sloppy shot goes in—show ability and success genuinely coming apart. The accusation that football rewards the undeserving then exposes the control condition of moral desert, illustrated by two assassins whose shots differ only by an intervening swallow and by a never-bribed referee who would have taken the money, so that the luck football manifestly displays infects morality and politics generally. Football is anathema to some fans precisely because, unlike life where luck also rules, it displays luck inside an activity explicitly designed to reward merit—yet the authors conclude that 'almosts' and the all-or-nothing scoring are also the source of the game's beauty, and nobody who loves it would have luck removed."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Does Life Imitate Soccer.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "marx"
+   ],
+   "concepts": [
+    "master-slave-morality",
+    "marx-alienation"
+   ],
+   "relation": "Minister condemns 'negative soccer'—Sunderland at 28% possession and zero shots at Old Trafford, Stoke's goalless stalemate at Anfield, Bolton's two shots at the Emirates—through Nietzsche's genealogy of morality: teams that recognize superior opponents redefine the game's goal in slave-like resentment, replacing the pursuit of excellence, creativity, courage, and honor with a safety-first legalism of not losing, just as individual diving (Ronaldo's 'superman' dive, Drogba's histrionics) betrays the strong character, while Di Canio catching the ball for the injured keeper and Arshavin protesting his own penalty display honor. Marx then explains why the tactic is structural rather than a personal failing: Premier League revenue gaps, Champions League money, Abramovich's Chelsea billions, and the $55 million cost of relegation economically compel small clubs into what Minister reads as Marxian alienation—players unable to express themselves or flourish because economic forces dictate their play. He ends asking whether life imitates soccer: whether our own financial pressures likewise price excellence, honor, and self-expression out of ordinary lives."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Forwards Win Matches but Defences Win Trophies.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "nagel",
+    "hobbes"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "utilitarianism",
+    "moral-psychology"
+   ],
+   "relation": "Wall asks when the professional foul—the defender who 'had to bring him down'—could be a genuinely moral act, testing it against Kantian universalizability and the good will and against Bentham-and-Mill utilitarianism, and settling on psychologically altruistic motivation as what could override the foul's default wrongness. Against the psychological egoists (La Rochefoucauld, Slote, Hobbes) who would dissolve even Di Canio's caught ball into self-interest, he deploys Nagel's argument from The Possibility of Altruism and the soldier-on-the-grenade case, then derives tight conditions: a deliberate, minimally harmful foul, in a game it can decide, in a semifinal whose red card the fouler will certainly miss. Ballack's 2002 tactical foul on Lee Chun-Soo comes closest but fails (he stayed on the pitch), as do Schumacher's assault on Battiston, Fletcher's pointless foul at 4–0 up, and Abidal's accidental clip—so genuinely moral professional fouls are rare, but defenders get the most shots at being the team's saints."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - SECOND HALF - The Beautiful Game.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Why More Beautiful Means Morally Better.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "virtue-ethics"
+   ],
+   "relation": "Durà-Vilà distinguishes narrow on-pitch morality (condemning dives, feigned fouls, and simulation, which no cultural permissiveness justifies) from a broader ethics of how one conducts a fulfilling life, and argues football should be appreciated two-dimensionally—result and aesthetic pleasure together—as shown by Barcelona and Real Madrid fans who grow angry at ugly play even in victory. His positive thesis is that playing beautifully is morally better: the aesthetic tradition of the Brazilian and Dutch schools, Michels and Cruyff's total football flowing into Guardiola's Barcelona, Wenger's Arsenal, and the Spain of Xavi and Iniesta promotes life-enhancing values of creativity, skill, and vision, while results-only football invites the tricks of technically limited players and managers. He concedes a dull team could be narrowly moral and a beautiful team could still dive, but maintains that beauty makes unethical play less sensible and more perverse, and that aesthetic football carries values worth exporting beyond the pitch."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Loneliness of the Goalkeeper (Again).md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "camus",
+    "wittgenstein"
+   ],
+   "concepts": [
+    "embodiment",
+    "apollonian-dionysian",
+    "kant-aesthetics"
+   ],
+   "relation": "Winters celebrates the goalkeeper's fingertip save—Gordon Banks denying Pelé's header in 1970—as football's aesthetic summit, reading the keeper as the lonely, 'stark mad' outsider of existentialist fiction, a lineage he anchors in Camus, the goalkeeper of Algiers who said all he knew of morality he learnt from football. Kant supplies both the dove of the first Critique—needing the air's resistance, just as the tango's strict steps enable the dancer's personality—and the target of critique: against Kantian disinterested contemplation, he adopts Graham's Nietzschean, Dionysiac aesthetics of participation, so spectators proprioceptively feel the keeper twisting in mid-air, as Wittgenstein's question about the galloping horse picture suggests the movement enters our muscles and joints. Understanding a save or a back-heel means seeing it under a general type ('that' free kick, 'that' volley, from Beckham at Wembley back to Garrincha), and Bloch's ruminations in Handke's The Goalie's Anxiety at the Penalty Kick show the keeper alone at the liminal limit where concession and prevention meet."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Beyond Picasso and Ronaldo Living Artfully.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dewey",
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [
+    "pragmatism",
+    "plato-forms",
+    "dewey-democracy"
+   ],
+   "relation": "Elcombe asks whether Cristiano Ronaldo, transferred to Real Madrid for $131 million—more than Picasso's Garçon à la Pipe fetched at its record 2004 auction—can be an artist like Picasso. Traditional metaphysics built on Plato's perfect Forms and Aristotle's necessary-and-sufficient conditions locks Art in a special museum realm that soccer, as a purposive sport whose beauty is only a byproduct, can never enter, leaving the game merely 'beautiful', not Art. Dewey's Art as Experience reorients the question from what art is to what art does: artworks are consummations of experience, moments of 'thatness'—that meal, that storm, that Ronaldo free kick—that lift us out of the mundane while remaining within the game's durable rules and history (Ronaldo's artistry grows from Zidane, Maradona, Cruyff, Pelé). On this pragmatist view Ronaldo is an artist in the act, the six-year-old testing a new turn on the pitch lives artfully too, and soccer's artistry becomes groundwork for communication, democracy, and the good life—doing more real work than a painting almost no one ever sees."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - VHS, DVD, YouTube.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-aesthetics"
+   ],
+   "relation": "Vargiu seats Kant in the Maracanã grandstand (after the Monty Python philosopher match) to test aesthetic disinterest against football: the judgment of taste is 'merely contemplative' and indifferent to the object's existence—explained through Gadamer's reading of the third Critique—so the gambler, the torcida chanting 'we won', the ultras, and the players themselves (whose attention and struggle preclude contemplation) all fail the test, and Kant stands alone except for the neutral spectator and the Panofsky-style purist. Kant's free versus accessory beauty explains why knowing the offside rule adds an intellectual liking to the aesthetic one (Denilson's inconclusive samba dribbles versus Garrincha's effective ones), and the second feature of taste, general validity—saying 'that Maradona goal is the most beautiful ever' claims everyone's agreement without objective rules—underwrites FIFA's Goal of the Century polls and connects the third Critique to public, communicative reason. Finally, the rewatched match on VHS, DVD, or YouTube, where the result is already known and no bets can be laid, is where fans most often approach genuine disinterested contemplation of the object's mere image."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Goals for All Ages and All Occasions.md",
+   "kind": "chapter",
+   "philosophers": [
+    "macintyre",
+    "plato",
+    "aristotle",
+    "camus"
+   ],
+   "concepts": [
+    "macintyre-tradition"
+   ],
+   "relation": "Opening with Camus's line that crushing truths perish from being acknowledged (and his Sisyphus, invoked to show the intrinsically interested player always wins), the authors force football to face its ugly side—divers, Pepe kicking Casquero on the ground, Catania's mooning free-kick screen, referee Pérez Burrull's robbery of Osasuna, the Heysel disaster, Bilardo pinning opponents and drugging Branco, FIFA's resistance to technology—analyzing it all with MacIntyre's account of social practices: football's constitutive rules and internal goods generate standards of excellence that cheating betrays for extrinsic rewards. Their positive ideal is the Greek Kalon, the noble-and-beautiful they field for Plato and Aristotle, exemplified when De Rossi confesses his handball goal against Messina or opponents return the ball after an injury stoppage—the beau geste uniting aesthetic grace and moral honor, as in the 4–4 Arsenal–Liverpool classic where 'neither side deserved to lose'. The ugly, they conclude, is exactly what lets the beautiful shine, as Eto'o floats over Scholes's tackle to assist a Messi goal."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - FIRST EXTRA-TIME - Fandom.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - So Why Do I Support Aston Villa.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rawls"
+   ],
+   "concepts": [
+    "communitarianism",
+    "veil-of-ignorance",
+    "utilitarianism",
+    "moral-relativism"
+   ],
+   "relation": "Rose—made a Villan by misreading a 1978 Panini sticker as Aston Villa's claret and blue—asks whether supporting Aston Villa is rational and argues ethics is far more like fandom than philosophers admit. Reasons for supporting Villa (local team, the 1982 European Cup, the colors) explain but never justify his allegiance, and the impartial procedures ethics prizes—the utilitarian benevolent spectator and Rawls's original position behind the veil of ignorance, with its 'sort of Kantian' consent-based alternative—turn out too demanding and too abstract: they would force him to donate his match ticket to charity, forbid the Premiership manager favoring his academy son, and reduce agency to the 'Rose-calcio scale' absurdity of switching to Real Madrid for rational reasons. His positive, communitarian claim is that we are thrown into social traditions whose inherited values—like a team—make moral agency and action possible at all, a 'different kind of rationality' that flirts with relativism yet still needs an exit strategy for cultures that discriminate against women or torture children."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "philosophy-of-play",
+   "name": "Philosophy of Play and Games",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The philosophical analysis of what games are—constitutive rules, artificial obstacles, and the fiction that holds play at a distance from real life while re-enacting it.",
+   "why": "Chapter 10's thesis that football fascinates because it re-enacts the drama of life within a rule-bounded distance from reality is a philosophy-of-games argument no existing taxonomy slug covers."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "aesthetics-of-sport",
+   "name": "Aesthetics of Sport",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The study of the aesthetic dimension of athletic play—grace, beauty, and style appreciated two-dimensionally alongside the result rather than reduced to it.",
+   "why": "Chapter 22's central claim that playing beautifully is morally better needs a concept for the aesthetic value of sporting play, which the taxonomy lacks outside Kant's specific doctrine of taste."
+  },
+  {
+   "ch": 25,
+   "type": "philosopher",
+   "suggested_slug": "gadamer",
+   "name": "Hans-Georg Gadamer",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Hermeneutic philosopher whose Truth and Method reads Kant's aesthetic disinterest as a 'methodological abstraction' and grounds judgment in shared, dialogical understanding.",
+   "why": "Chapter 25's account of Kant at the football ground leans on Gadamer's interpretation of disinterest and general validity to connect aesthetic judgment to public agreement among fans."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "kalon",
+   "name": "To Kalon (the noble-and-beautiful)",
+   "philosopher": "plato",
+   "domain": "ancient",
+   "what": "The ancient Greek ideal that an action or person can be at once aesthetically beautiful and morally noble—the 'beau geste'.",
+   "why": "Chapter 26 makes Kalon its positive ideal of honorable, beautiful football—De Rossi confessing his handball goal, opponents returning the ball to an injured player's team—and no existing slug captures this unity of beauty and nobility."
+  }
+ ]
+}

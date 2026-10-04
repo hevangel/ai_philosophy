@@ -1,0 +1,374 @@
+{
+ "book": "058 - Dexter and Philosophy - Mind over Spatter",
+ "unit": "u093",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Dexter and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Popular Culture and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Acknowledgements.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Know Thyself.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates"
+   ],
+   "concepts": [
+    "unexamined-life",
+    "socratic-ignorance",
+    "skepticism"
+   ],
+   "relation": "George Reisch's introduction frames the volume with Martha Stout's claim that one in twenty-five people is a conscience-free sociopath who hides in plain sight, arguing that we viewers do the hiding work for them just as Deb, LaGuerta and Batista's assumptions shield Dexter. It presents Dexter's incessant inner questioning as the show's philosophical hook and previews the book's competing verdicts on Harry's Code: monster, Kantian-style model actor, utilitarian good, aesthete, or superhero. It ends by inverting Socrates: normally we point 'know thyself' inward, but the real epistemic danger is the sociopath next door, so our skepticism should aim at the guy in forensics - unless we are ourselves among the one-in-twenty-five, in which case Socrates' injunction to self-examination was spot on."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - BODY PART I - Maiming and Necessity.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Only Truly Decent Man Left on the Planet.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "terrorism-violence"
+   ],
+   "relation": "John Kenneth Muir argues Dexter is best read not as heir to Hannibal Lecter or Patrick Bateman but as a full-blown superhero: his 'impeccable instincts' are a crime-detecting power like Spider-Man's spider-sense or the Shadow's, his gloves, apron and glass visor are a costume, and his 'invisible mask of sympathy' inverts the superhero mask since the Dark Passenger is the true identity. Dexter's orphan origin - Harry lifting the boy from the blood-soaked container - replays the Superman/Batman/Parker template, with the Ice Truck Killer as an amalgam of Riddler and Mr. Freeze who embodies the superhero's shadow potential, and the chapter reads Harry's Code as the American-monomyth vigilante premise that the law can be upheld only by one stepping outside it. The 'killing joke' is that the emotionless sociopath is the only impartial, decent agent of justice in a Miami Metro consumed by passion, and the extra-legal violence question the chapter raises is whether such vigilante force, with its disregard for civil rights, is what justice requires."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Good Life and The Dexter-like Life.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nozick",
+    "mill"
+   ],
+   "concepts": [
+    "greatest-happiness"
+   ],
+   "relation": "Abrol Fairweather uses Dexter as a controlled case study in the philosophy of emotion via Nozick's 'Spock Problem': like Spock, Dexter has beliefs, values and flawless practical reasoning but no emotional feelings, so Mill's Method of Difference lets us isolate what exactly emotions add. Distinguishing 'mere feelings' (beer on the boat, lust for Lila) from emotional feelings that run through our beliefs and values, he adopts Nozick's answer that emotions are value-perceptions - Dexter intellectually recognizes the value of Rita, Deb and his kids but cannot feel it, and that felt value is what his life lacks. Yet Dexter strikes back: he kills because he is too rational rather than too passionate, so whether the Dexter-like life beats the good life depends on whether emotions would help or hinder whatever matters most to us, a question the chapter briefly weighs in Millian terms of the balance of pleasure over pain his meta-killing produces."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - You Can’t Help What Happened to You. But You Can Make the Best of It.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "free-will-determinism",
+    "moral-luck",
+    "moral-psychology",
+    "punishment-theory"
+   ],
+   "relation": "Daniel Haas asks whether we can blame Dexter at all if his Dark Passenger is a compulsion formed by the shipping-container trauma he did not choose, and whether consistency then forces us to excuse the Trinity Killer and Ice Truck Killer too. Distinguishing attributive responsibility from accountability, he argues psychopaths cannot be motivated by moral reasons because they lack the moral emotions, and that it was sheer luck whether a traumatized boy landed in Harry's loving home and Code (Dexter) or a mental institution (Brian). Yet Dexter's critical reflection on and revision of Harry's Code, and his willingness to forgo turning himself in to spare Deb, Rita and the kids, paradoxically make him more accountable than ordinary psychopaths and even praiseworthy for his quest to become 'a little wooden boy' who is more human, even if he still deserves to be locked up."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Almost Caught!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "frankfurt"
+   ],
+   "concepts": [
+    "second-order-desires",
+    "free-will-determinism",
+    "compatibilism"
+   ],
+   "relation": "Nicolas Michaud deploys Harry Frankfurt's attack on the principle that blame requires alternative possibilities: through a 'Dex kills Deb' case with a counterfactual intervener and a locked-steering-wheel driver, he shows one can be blameworthy despite having no choice, provided one acts because one wants to. Applied to Dexter, the question is which level of compulsion he has - and since he never truly restrains himself, never turns himself in, and his Season 2 relapse reads as empowerment rather than addiction, he seems to want to want to kill, so Frankfurt's verdict is guilt despite inevitability. The chapter closes with a fictional Princeton encounter where Dexter faces a dilemma - either his victims are blameless compulsives, making him a killer of innocents who violates Harry's Code, or wanting to kill makes them and him blameworthy - and Dexter's choice to kill Frankfurt himself proves he acts freely and is guilty."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - More than a Feeling.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "plato"
+   ],
+   "concepts": [
+    "cartesian-doubt",
+    "reliabilism",
+    "skepticism"
+   ],
+   "relation": "Rachel Robison-Greene asks whether Dexter's rule to 'be sure' actually gives him knowledge of his victims' guilt. Distinguishing Cartesian certainty - skeptical hypotheses about deceiving senses, dreams and evil demons, echoing The Matrix - from mere felt certainty, she tests the belief-truth-justification analysis of knowledge traced to Plato against the show: LaGuerta's witness theory fails on belief, Deb's conviction that Neil Perry is the Ice Truck Killer fails on truth, and Astor's accusation of Dexter fails on justification. Neither strong internalism (Dexter straps down Jamie Jaworski without knowing how the murder was done), weak internalism, coherence theory (his false but coherent case against Jonathan Farrow), nor reliabilism (his spidey-sense is explicitly not sufficient by his own admission) captures his practice, so his 'certainty' is just a feeling - and the people on his table may include ones he does not know to be guilty."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - A Story in Search of a Narrator.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel",
+    "macintyre",
+    "aristotle",
+    "nietzsche",
+    "charles-taylor"
+   ],
+   "concepts": [
+    "hegel-recognition",
+    "personal-identity",
+    "authenticity",
+    "narrative-identity"
+   ],
+   "relation": "Brian Gregor reads Dexter through Charles Taylor's 'self-interpreting animal': Dexter's identity is not a fixed thing but comes into being through self-interpretation within an inescapable framework of value, so even his 'Am I good? Am I evil?' rebellion and the Nietzschean Übermensch reading fail to escape the deeper convictions about innocence, evil and desert that Harry's Code presupposes - as his guilt over the innocent Farrow shows. The chapter interprets Dexter's serial failures at being 'seen' - Harry's 'only one who really saw me', Brian's fraternal 'you can be yourself with me', Lila's probing, and Miguel Prado as Aristotle's friend, 'another self' - as Hegelian struggles for recognition that collapse because his real self can never come into the open. Finally, drawing on MacIntyre's narrative account of identity, it argues Dexter is literally a story in search of a narrator, whose selfhood persists through flashbacks, blood slides and noir-style voice-overs, and whose humanity shows in the need to have his account of himself heard and corrected by another."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - I’ve Got No Strings . ..md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "kant",
+    "plato"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "kant-humanity-formula",
+    "machiavelli-ends"
+   ],
+   "relation": "Richard Greene asks whether it was practically rational for Dexter to trust Lumen rather than kill her, to help her revenge-kill the Fowler ring, and to train her as a killer. The good outcomes do not help - Masuka's strip-club windfall shows luck is not rationality, and Socrates' Apology argument that corrupters risk harm from those they corrupt, together with Dexter's prior disaster in training Miguel, means the consequences were not foreseeably good. Kantian tests fail too - no one could will a universal law of killing, and killing violates the victim's autonomy and humanity as an end in itself - as do decision theory and instrumentality theories, so no account of practical rationality vindicates Dexter's choices, suggesting instead that the emotionless 'wooden boy' is beginning to become a real one."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - BODY PART II - The Cut of Dexter’s Jib.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - All for Love.md",
+   "kind": "chapter",
+   "philosophers": [
+    "arendt",
+    "pascal",
+    "kierkegaard",
+    "heidegger"
+   ],
+   "concepts": [
+    "banality-of-evil",
+    "terrorism-violence",
+    "buddhism"
+   ],
+   "relation": "Jerry Piven argues Dexter's void is not genetic sociopathy but trauma: witnessing his mother's chainsaw murder and lying in her blood deadened his feelings, and each ritualized kill restages that catastrophe with the roles reversed, Dexter mastering death as the angel of it, reducing the murderer to a drop of blood he imprisons on a slide. Reading Harry's ghost as a Hamlet-father super-ego, he contends Dexter kills not only to master trauma but to please the father who channels his rage - murder 'for love' - and then generalizes: Arendt's banality of evil, Pascal on the void and faith, Kierkegaard and Heidegger on fleeing despair into conformity, Buddhist emptiness, and Becker-style terror-management findings explain how ordinary people, frightened of death and hungry for a leader's approval, can be manipulated into sanctioned slaughter, from Abu Ghraib to jihadism."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Rule Number One.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kristeva"
+   ],
+   "concepts": [
+    "abjection"
+   ],
+   "relation": "Aaron Anderson reads Season 4's cold open - the Trinity Killer's slow, intimate bathtub murder - against Dexter's 'clean' detached kills to introduce Kristeva's abjection: the corpse and spattered blood that threaten the boundary of self. He argues Harry's first rule ('Don't get caught') governs the show's aesthetics too - by hiding the abject results of Dexter's kills and softening them with dark humor and voice-over, the series spares viewers abjection so we can safely identify with a vicious serial killer, until Rita's murder finally forces both Dexter (for only the second time, after his mother's death) and the audience to experience it."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Dexter’s Aesthetics.md",
+   "kind": "chapter",
+   "philosophers": [
+    "edmund-burke"
+   ],
+   "concepts": [],
+   "relation": "Patricia Brace opens with Dexter by Design's 'Jennifer's Leg' performance piece - gallery visitors compelled to watch a woman de-flesh her own leg - and asks why horror can please. Her answer runs through Burke's Enquiry: art inducing terror, astonishment and the excessive is sublime rather than beautiful, and Dexter's formula - a heroic serial killer we fear will be caught, walking the line between vigilantism and family man - pulls viewers deeper into exactly that sublime ambivalence."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Specimen Watching.md",
+   "kind": "chapter",
+   "philosophers": [
+    "adorno"
+   ],
+   "concepts": [
+    "objectification",
+    "speciesism",
+    "feminism"
+   ],
+   "relation": "Jason Davis applies Adorno's 'identity thinking' - the way concepts swallow particulars as specimens of the already-known - to argue Dexter is a consumer of serial killers who never asks what makes his victims what they are, only that they fit the type, from therapist Emmett Meridian on down. The same concept-machine works on animals: Buddy's buried bones and the show's predator imagery exploit the criminological animal-abuse link, letting Davis ask whether cruelty-taskforce laws quietly practice speciesism; and Carol J. Adams' sexual politics of meat connects the Ice Truck Killer's blood-drained, butcher-cut women to a meat-eating culture whose objectification makes women and animals interchangeable. Finally, the chapter notes that the women of Dexter - Deb, Rita, LaGuerta, Lila, Christine - are all written without female friendship, a homosocial specimen-class whose sameness feminist philosophers expose, so that when Dexter 'takes back the night', the 'invisible hookers' stay invisible."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - BODY PART III - What Would Dexter Do.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Vigilante Hero.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "mill",
+    "bentham"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "utilitarianism",
+    "moral-psychology"
+   ],
+   "relation": "Epright and Worth argue that rule-following - the Ten Commandments, the Golden Rule, Kant's categorical imperative (whose consistent Kantian never lies even to Nazis), or the Bentham-Mill principle of utility (whose consistent utilitarian must torture if stakes are high) - never made anyone moral, and Dexter's Code is the case in point: it gives the appearance of morality while licensing murder, and its source (Harry, 'God', the texts) cannot vindicate it. Drawing on Jonah Lehrer's neuroscience that moral judgment is emotional first with reason as post-hoc lawyer, they argue the emotionless Dexter is the madman who has lost everything except his reason, and Kohlberg's moral-development stages find him stuck at the pre-conventional level, below a fifth-grader - punishment-avoidance and you-scratch-my-back reasoning, never universal principles or respect for persons. Real Dexter-inspired killers (Mark Twitchell, Andrew Conley) clinch the verdict: he is neither vigilante hero nor moral agent, just a selfish addict whose rule-governed kills justify nothing."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - You Control Your Urges—They Do Not Control You.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aristotle",
+    "mill"
+   ],
+   "concepts": [
+    "deontology",
+    "aristotle-virtue-ethics",
+    "utilitarianism",
+    "categorical-imperative"
+   ],
+   "relation": "Waller and McAlear first rebut the amoral reading: Dexter does feel (he sobs over Rita, loves Deb, misses Harry) and does control his urges through the Code, so morality applies to him, and the Dark Passenger is merely everyone's socially unacceptable desires - the very thing that gives rise to moral codes. They then test the three theories: Aristotelian virtue ethics mostly fails because murder admits no mean and Harry's Code teaches killer's skills rather than virtues (though its 'don't kill innocents' dispositions are genuine virtues); utilitarianism fails even in rule-utilitarian form - via the organ-harvesting doctor and Harry's own utilitarian guilt over Laura Moser's death - because Dexter kills because the Code requires it, not because it maximizes happiness. What fits is dark deontology: like Kant's argument that murderers consent to their own execution out of respect for their rationality, Dexter kills only killers, acts from duty rather than enjoyment, and treats 'don't get caught' as a condition for the possibility of his true imperative."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "nozick-spock-problem",
+   "name": "The Spock Problem (emotions as value perceptions)",
+   "philosopher": "nozick",
+   "domain": "political-social",
+   "what": "Nozick's thought experiment asking why an emotionless but rational life like Spock's would be worse, answered by his claim that emotions are direct perceptions of value that create an internal replica of what we take pride in.",
+   "why": "Chapter 10's entire argument about what Dexter's life lacks runs through Nozick's Spock Problem and the thesis that emotions let us feel rather than merely know value."
+  },
+  {
+   "ch": 14,
+   "type": "philosopher",
+   "suggested_slug": "charles-taylor",
+   "name": "Charles Taylor",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Canadian philosopher whose philosophical anthropology defines the human as a 'self-interpreting animal' whose identity comes into being within inescapable frameworks of meaning and through recognition by others.",
+   "why": "Chapter 14 is built directly on Taylor's self-interpreting animal and inescapable frameworks to explain what remains human in Dexter."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "narrative-identity",
+   "name": "Narrative Identity",
+   "philosopher": "macintyre",
+   "domain": "ethics-moral-psychology",
+   "what": "The view (MacIntyre, Ricoeur, Taylor) that personal identity over time is constituted by the stories we tell about ourselves, narratives that interlock with and are answerable to others' accounts.",
+   "why": "Chapter 14 argues Dexter's selfhood persists through flashbacks, voice-overs and blood slides as 'a story in search of a narrator', with MacIntyre's After Virtue quoted on narrative accountability."
+  },
+  {
+   "ch": 17,
+   "type": "philosopher",
+   "suggested_slug": "ernest-becker",
+   "name": "Ernest Becker",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "Cultural anthropologist who argued that the fear of death is the mainspring of human activity and that culture and religion are death-denying immortality projects - the basis of Terror Management Theory.",
+   "why": "Chapter 17 leans on Becker's death-denial thesis and Terror Management research to explain Dexter's void and our own susceptibility to sanctioned killing."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "repetition-compulsion",
+   "name": "Repetition Compulsion",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "The psychoanalytic idea that we compulsively re-enact traumatic scenarios, attempting to master earlier helplessness by symbolically recreating and reversing it.",
+   "why": "Chapter 17's core claim is that each of Dexter's ritual kills restages and masters his mother's murder, transforming wretched victim into controlling executioner."
+  },
+  {
+   "ch": 18,
+   "type": "philosopher",
+   "suggested_slug": "julia-kristeva",
+   "name": "Julia Kristeva",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Bulgarian-French theorist whose Powers of Horror defines abjection - the recoil from what disturbs identity, system and order - with the corpse as its utmost form, 'death infecting life'.",
+   "why": "Chapter 18's entire reading of Dexter's kill scenes, the Skinner's victims and Rita's corpse turns on Kristeva's concept of abjection."
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "abjection",
+   "name": "Abjection (the abject)",
+   "philosopher": "julia-kristeva",
+   "domain": "political-social",
+   "what": "Kristeva's term for the visceral, gagging rejection of what threatens the self's borders - filth, waste, the corpse - which both protects us from and exposes our fragile identity.",
+   "why": "Chapter 18 argues the show's editing spares viewers abjection so we can identify with Dexter, until Rita's corpse in the bathtub forces it on Dexter and the audience."
+  },
+  {
+   "ch": 19,
+   "type": "philosopher",
+   "suggested_slug": "edmund-burke",
+   "name": "Edmund Burke",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "Eighteenth-century Irish-British philosopher whose Philosophical Enquiry into the Sublime and Beautiful made terror, darkness, power and vastness - experienced at a safe distance - the source of the sublime.",
+   "why": "Chapter 19 explains Dexter's appeal entirely through Burke's sublime, from the shipping-container flashbacks to Paul Bennett's skillet blow and Miguel's failed 'natural power'."
+  },
+  {
+   "ch": 19,
+   "type": "concept",
+   "suggested_slug": "burkean-sublime",
+   "name": "The Sublime (terror at a distance)",
+   "philosopher": "edmund-burke",
+   "domain": "medieval-early-modern",
+   "what": "Burke's account of the delight blended with unease that we take in terror, astonishment, darkness, suddenness and power when danger presses from a certain distance.",
+   "why": "Chapter 19 argues audiences find pleasure in Dexter's horror precisely as Burkean sublimity, a theory the taxonomy's Kant-centric aesthetics slug cannot capture."
+  },
+  {
+   "ch": 18,
+   "type": "philosopher",
+   "suggested_slug": "kristeva",
+   "name": "Julia Kristeva",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Bulgarian-French theorist of abjection - that which disturbs identity, system, order (the corpse, bodily fluids).",
+   "why": "Anderson's Dexter chapter is built on abjection and the powers of horror."
+  },
+  {
+   "ch": 19,
+   "type": "philosopher",
+   "suggested_slug": "burke",
+   "name": "Edmund Burke",
+   "philosopher": "",
+   "domain": "kant-german-idealism",
+   "what": "Irish philosopher whose Enquiry defined the sublime as delighted terror, against beauty.",
+   "why": "Brace's Dexter aesthetics chapter is an application of Burke's sublime."
+  }
+ ]
+}

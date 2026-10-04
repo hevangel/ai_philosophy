@@ -1,0 +1,108 @@
+{
+ "unit": "u060",
+ "book": "037 - The Wizard of Oz and Philosophy - Wicked Wisdom of the West",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\037 - The Wizard of Oz and Philosophy - Wicked Wisdom of the West",
+ "range": [
+  22,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 22,
+   "file": "ch22 - Wait, Did I Hit Pause Where\u2019d the Remote Get to . ..md",
+   "words": 5997
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Nightmares.md",
+   "words": 8146
+  },
+  {
+   "n": 24,
+   "file": "ch24 - V - No Place Like Home.md",
+   "words": 5
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Home Again.md",
+   "words": 5997
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Must I Repeat Myself.md",
+   "words": 6383
+  },
+  {
+   "n": 27,
+   "file": "ch27 - A Happy Ending.md",
+   "words": 6890
+  },
+  {
+   "n": 28,
+   "file": "ch28 - You Can Go Home Again.md",
+   "words": 3330
+  },
+  {
+   "n": 29,
+   "file": "ch29 - VI - Something Wicked This Way Comes.md",
+   "words": 6
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Mirror, Mirror.md",
+   "words": 5643
+  },
+  {
+   "n": 31,
+   "file": "ch31 - As Nasty as I Wanna Be.md",
+   "words": 3682
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Ineptitude or Wickedness.md",
+   "words": 6775
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Who\u2019s Afraid of Virginia Woolf.md",
+   "words": 8252
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Doctors of Thinkology.md",
+   "words": 1874
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Index.md",
+   "words": 2361
+  },
+  {
+   "n": 36,
+   "file": "ch36 - The Wizard of Oz and Philosophy.md",
+   "words": 2531
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Copyright Page.md",
+   "words": 246
+  }
+ ],
+ "content": [
+  22,
+  23,
+  25,
+  26,
+  27,
+  28,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37
+ ]
+}

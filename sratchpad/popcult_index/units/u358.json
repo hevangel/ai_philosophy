@@ -1,0 +1,38 @@
+{
+ "unit": "u358",
+ "book": "243 - The Philosophy of Christopher Nolan",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\243 - The Philosophy of Christopher Nolan",
+ "range": [
+  2,
+  5
+ ],
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Title Page.md",
+   "words": 343
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Introduction.md",
+   "words": 1706
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Love, Value, and the Human Destiny in Interstellar.md",
+   "words": 27141
+  },
+  {
+   "n": 5,
+   "file": "ch05 - \u201cAre You Watching Closely \u201d.md",
+   "words": 23252
+  }
+ ],
+ "content": [
+  2,
+  3,
+  4,
+  5
+ ]
+}

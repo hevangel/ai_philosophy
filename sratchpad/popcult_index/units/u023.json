@@ -1,0 +1,102 @@
+{
+ "unit": "u023",
+ "book": "015 - The Chronicles of Narnia and Philosophy - The Lion, the Witch, and the Worldview",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\015 - The Chronicles of Narnia and Philosophy - The Lion, the Witch, and the Worldview",
+ "range": [
+  25,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 25,
+   "file": "ch25 - The Chronicles of Narnia and Philosophy.md",
+   "words": 4574
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Chronicles of Narnia and Philosophy.md",
+   "words": 13
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Chronicles of Narnia and Philosophy.md",
+   "words": 4058
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Chronicles of Narnia and Philosophy.md",
+   "words": 5305
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The Chronicles of Narnia and Philosophy.md",
+   "words": 4090
+  },
+  {
+   "n": 30,
+   "file": "ch30 - The Chronicles of Narnia and Philosophy.md",
+   "words": 5152
+  },
+  {
+   "n": 31,
+   "file": "ch31 - The Chronicles of Narnia and Philosophy.md",
+   "words": 9
+  },
+  {
+   "n": 32,
+   "file": "ch32 - The Chronicles of Narnia and Philosophy.md",
+   "words": 3813
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Chronicles of Narnia and Philosophy.md",
+   "words": 5199
+  },
+  {
+   "n": 34,
+   "file": "ch34 - The Chronicles of Narnia and Philosophy.md",
+   "words": 5757
+  },
+  {
+   "n": 35,
+   "file": "ch35 - The Chronicles of Narnia and Philosophy.md",
+   "words": 4744
+  },
+  {
+   "n": 36,
+   "file": "ch36 - The Chronicles of Narnia and Philosophy.md",
+   "words": 4520
+  },
+  {
+   "n": 37,
+   "file": "ch37 - The Chronicles of Narnia and Philosophy.md",
+   "words": 1886
+  },
+  {
+   "n": 38,
+   "file": "ch38 - The Chronicles of Narnia and Philosophy.md",
+   "words": 1870
+  },
+  {
+   "n": 39,
+   "file": "ch39 - The Chronicles of Narnia and Philosophy.md",
+   "words": 241
+  }
+ ],
+ "content": [
+  25,
+  27,
+  28,
+  29,
+  30,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39
+ ]
+}

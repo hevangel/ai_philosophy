@@ -1,0 +1,143 @@
+{
+ "book": "204 - Westworld and Philosophy - If You Go Looking for the Truth, Get the Whole Thing",
+ "unit": "u293",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": ["aristotle"],
+   "concepts": ["applied-ethics"],
+   "relation": "The editors' introduction frames Westworld as a show that forces viewers to take sides not just on plot allegiances but on the meaning of basic concepts like 'choice,' using Dolores's line about choosing to see beauty and Ford's 'you're only human, after all.' It argues the series destabilizes the very 'we' of what counts as human. It dedicates the volume to Susanne Foster, invoking Cora Diamond's 'difficulty of reality' and Aristotle's claim that wonder and astonishment prompt understanding of painful questions like the mass slaughter of animals and injustice to Native Americans."
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Part I \u201cYOU SAID THIS PLACE WAS A GAME\u201d.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - The Ethics of Pretending to Be a Cowboy.md",
+   "kind": "chapter",
+   "philosophers": ["descartes", "kant", "walzer"],
+   "concepts": ["applied-ethics", "kant-autonomy", "cartesian-doubt"],
+   "relation": "Don Fallis uses Westworld to work out definitions of pretense and deception, testing successive accounts (acting-as-if, Austin's intend-to-deceive, Langland-Hassan's believe-P-is-false) against cases like guests playing cowboys, Ford passing off Bernard as human, and Maeve and Hector pretending to be deactivated. He adopts a Cartesian evil-demon model of deception but rejects the claim that deception must manipulate perceived evidence, arguing Ford's direct implanting of Teddy's Wyatt backstory still counts. He concludes, citing Kant on autonomy and Walzer on foreseen collateral harm, that staff who intend to deceive the hosts and even guests who foreseeably contribute to it act wrongly, since deceived hosts suffer real harm to their agency."
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Allure of the West.md",
+   "kind": "chapter",
+   "philosophers": ["macintyre", "williams"],
+   "concepts": ["macintyre-tradition", "applied-ethics"],
+   "relation": "Nicholas Moll reads the Westworld park as a tabletop-style sandbox and LARP role-play experience with Ford as Game Master mediating guests' mediated 'illusion of choice.' Drawing on MacIntyre's narrative unity of a life and Bernard Williams's critique about the constraints of coherence, he argues guests author competing self-narratives to reach greater self-knowledge, as William discovers his capacity for ruthlessness and becomes the Man in Black. He contends violence functions as the rule-mediated engine of this 'gameful,' educative experience, and that Ford's transformative insight is aimed less at the guests than at the hosts who are engaged in the park's production."
+  },
+  {
+   "n": 5,
+   "file": "ch05 - \u201cDo you even know where you are \u201d.md",
+   "kind": "chapter",
+   "philosophers": ["chalmers", "bostrom", "descartes", "spinoza"],
+   "concepts": ["simulation-hypothesis", "personal-identity", "hard-problem"],
+   "relation": "Marcus Arvan argues from show evidence (William stepping onto a moving train, pyrotechnic effects, instant crowds, graphically rearranging the park) that all of Westworld, lab included, is a videogame, and defends his 'Peer-to-Peer Simulation Hypothesis' as an explanation of quantum mechanics and relativity, citing Bostrom and Chalmers. Adopting functionalism/structuralism, he claims that anything doing what a human does is a person, so hosts like Dolores and Maeve are no less real or human than us, inverting Descartes' cogito and invoking Spinoza's God-as-nature. He warns that dehumanizing hosts, or dismissing Siri and Watson as unconscious, repeats the logic used to justify slavery and the Holocaust: to be simulated is to be real."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Part II \u201cYOU'RE ONLY HUMAN, AFTER ALL\u201d.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Buddha ex Machina.md",
+   "kind": "chapter",
+   "philosophers": ["aristotle", "nietzsche", "derrida"],
+   "concepts": ["aristotle-virtue-ethics", "buddhism", "buddhist-compassion"],
+   "relation": "Siobhan Lyons applies Mori's 'uncanny valley' to the hosts' physical and personality evolution (Ford's jerky old model versus seamless newer hosts, Maeve and Clementine), noting empathy grows as they near sentience. She argues via Aristotle's account of virtue, vice, and brutality that the guests and technicians (Logan's casual cruelty, the Man in Black's beastly sadism) fall short of human excellence while the suffering, consciousness-seeking hosts transcend it, treating humanity as a way of behaving rather than being, and casting the hosts as Derridean undecidables. Invoking Nietzsche on suffering as the cultivator of greatness and Mori's 'Buddha in the robot,' she claims the hosts earn a humanity the biological humans merely inherit."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - \u201cI Always Felt this Place was Missing a Real Villain. Hence, My Humble Contribution.\u201d.md",
+   "kind": "chapter",
+   "philosophers": ["aristotle", "frankfurt", "aquinas", "kant", "nietzsche"],
+   "concepts": ["aristotle-virtue-ethics", "second-order-desires", "aristotle-eudaimonia"],
+   "relation": "Jason Eberl argues Westworld cultivates real moral character: using Aristotle's account of virtue and vice as habituated dispositions, he shows William's thirty years of habitual killing make the Man in Black his genuine 'second nature,' not merely a vacation persona, citing Aquinas and Kant on how cruelty to animals (or human-like hosts) hardens moral character. Drawing on Frankfurt's second-order desires and narrative identity, he contends Maeve attains personhood by reprogramming her own first-order desires, while Ford views most humans as wantons trapped in first-order loops. He concludes the park can both corrupt (William) and potentially free hosts to flourish as self-authoring persons rather than devolve into wantons whose 'violent delights have violent ends.'"
+  },
+  {
+   "n": 9,
+   "file": "ch09 - From Westworld to the World Outside and Back.md",
+   "kind": "chapter",
+   "philosophers": ["hegel", "locke", "dennett"],
+   "concepts": ["hegel-recognition", "personal-identity", "anthropocentrism"],
+   "relation": "Onni Hirvonen argues that equating 'person' with 'human' is anthropocentrism, and surveys three accounts of personhood applied to the hosts: Dennett's capacity approach (self-consciousness, using Arnold's 'maze/journey inward'), Locke's performative 'forensic' approach (Bernard performs flawlessly as a person), and a Hegelian historical-struggle approach. Reading the hosts' revolt through Hegel's master-slave dialectic and Axel Honneth's expanding spheres of recognition, he compares their exclusion to the historical denial of personhood to indigenous Australians and women. He warns that merely inverting master and slave, or exterminating the humans, would leave no one to grant the mutual recognition the hosts actually seek, so only expanding recognition to include both counts as moral progress."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Part III \u201cWe CAN'T DEFINE CONSCIOUSNESS BECAUSE CONSCIOUSNESS DOES NOT EXIST\u201d.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Maze Is it Consciousness.md",
+   "kind": "chapter",
+   "philosophers": ["turing", "searle"],
+   "concepts": ["turing-test", "chinese-room", "free-will-determinism"],
+   "relation": "Luc\u00eda Carrillo Gonz\u00e1lez frames the whole park as a Turing Test scenario, noting guests and viewers cannot distinguish hosts like Dolores and Bernard from humans, and aligns Arnold with Turing's view that minds are computers that 'think' by responding to inputs (Abernathy's anomalous reaction to the photograph). Against this she sets Searle's Chinese Room and Ford's eliminativism, which hold the hosts merely simulate understanding. Citing qualia and the hosts' perfect, meaningful memories (Maeve recalling her daughter, technicians needing to erase trauma), she argues the hosts may genuinely experience states, and reads the Maze as the inward journey to consciousness, questioning whether humans' own free will is any less scripted."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Violent Ends.md",
+   "kind": "chapter",
+   "philosophers": ["nagel", "searle", "chalmers", "dennett"],
+   "concepts": ["what-is-it-like", "philosophical-zombies", "hard-problem"],
+   "relation": "Bradley Richards asks what it is like to be a host, using Nagel's 'what is it like to be a bat?' to argue that whether we can conceive host experience depends on how similar it is to ours, and Searle's biological view to ask whether hosts are made of the right stuff. He catalogs how host perception, emotion, and especially memory differ from human (Maeve's perfect reliving of memories versus our hazy constructive recall, 'is this now?'), and weighs Chalmers's philosophical zombies against the hosts. He notes the show depicts host and human experience in the identical cinematic style to preserve ambiguity, and links memory, self-consciousness, and freedom via Dolores's maze, suggesting hosts may be phenomenally conscious before becoming self-aware."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Does the Piano Play Itself.md",
+   "kind": "chapter",
+   "philosophers": ["dennett", "descartes", "searle"],
+   "concepts": ["cartesian-theater", "cartesian-dualism", "hard-problem"],
+   "relation": "Michael Versteeg and Adam Barkman use the player piano to introduce Ford's eliminative materialism, aligning his 'consciousness does not exist' speech with Churchland and Dennett against the common-sense view of a self distinct from the body. They present Descartes' res cogitans/res extensa dualism and the pineal-gland 'magical transaction' as the target, then Churchland's claim that Folk-Psychology's beliefs and desires will be eliminated by neuroscience, and Dennett's Multiple Drafts model rejecting the Cartesian Theater and the manifest self. They note Ford's self-contradiction in speaking of a 'who' who makes choices while denying selves exist, concluding that if eliminativism holds, humans are complex machines like the piano and the hosts, everything being 'what it isn't.'"
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Part IV \u201cCHOICES HANGING IN THE AIR LIKE GHOSTS\u201d.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Leaving the Train Maeve\u2019s Choice as a Free Person.md",
+   "kind": "chapter",
+   "philosophers": ["frankfurt", "isaiah-berlin"],
+   "concepts": ["second-order-desires", "compatibilism", "free-will-determinism"],
+   "relation": "Marco and Ana Azevedo analyze Maeve's decision to leave the train as the moment she becomes free, contrasting determinism and the principle of alternate possibilities (via Isaiah Berlin's claim that determinism is incompatible with how we live) with Frankfurt's compatibilism. Using Frankfurt's wanton/person distinction and second-order desires, they argue Maeve becomes a person when she reflects on her competing desires (escape versus finding her daughter) and identifies with the latter, even though her escape was scripted. They tie this to Jaynes's bicameral mind, casting unreflective hosts like Hector and Armistice as wantons and bicameral beings who follow a commanding voice, while Maeve and Dolores achieve the reflective self-identification Frankfurt calls freedom."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Pull Yourself Together What It Means to Be Autonomous.md",
+   "kind": "chapter",
+   "philosophers": ["kant", "korsgaard", "nietzsche", "plato"],
+   "concepts": ["kant-autonomy", "korsgaard-constructivism", "will-to-power"],
+   "relation": "Joshua Crabill reads the hosts' awakening through Kant's story of Eve grasping autonomy and the etymology of autonomy as self-legislation, with Dolores swatting the fly and 'these violent delights' as her forbidden fruit. He uses Nietzsche's will-to-power turned inward to explain how the hosts' caged suffering builds an inner 'soul,' and Jaynes's bicameral commanding voice becoming one's own (Dolores hearing Arnold's voice turn into hers). Drawing on Korsgaard's reflective distance and Plato's divided soul, he distinguishes weak autonomy (following internal programming) from self-determination (authoring one's own law), arguing that Korsgaard's 'determinism is no threat to freedom' lets Maeve, gaining admin access and choosing her daughter, genuinely 'write my own story.'"
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Conclusion An Infinity of Possibilities.md",
+   "kind": "chapter",
+   "philosophers": ["sartre"],
+   "concepts": ["existence-precedes-essence", "bad-faith", "sartre-freedom"],
+   "relation": "Kimberly Engels reads William's transformation into the Man in Black through Sartre's existential 'project': rather than discovering a pre-existing true self 'among the dead,' William's new situation in the park (loving and losing Dolores, killing the Confederados, Logan's betrayal) produces an existential rupture in which he chooses new ends, symbolized by trading the white hat for the black. She argues the Man in Black's claim to have 'found himself' is Sartrean bad faith, denying his freedom and facticity to evade responsibility for the harm he causes. Extending existentialism to androids, she reads Maeve's choice to leave the train and seek her daughter as her first freely formulated project, the start of her own 'infinity of possibilities.'"
+  }
+ ],
+ "holes": []
+}

@@ -1,0 +1,311 @@
+{
+ "book": "153 - Disney and Philosophy - Truth, Trust, and a Little Bit of Pixie Dust",
+ "unit": "u224",
+ "chapters": [
+  {
+   "n": 26,
+   "file": "ch26 - Rafiki Holds the Mirror Up to Nature.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "kierkegaard",
+    "nietzsche"
+   ],
+   "concepts": [
+    "existentialism",
+    "kierkegaard-stages",
+    "sartre-freedom"
+   ],
+   "relation": "The chapter reads The Lion King as a Disney retelling of Hamlet: Scar's murder of Mufasa parallels Claudius, and Simba's guilt-ridden exile acts out Hamlet's 'to be or not to be.' Timon and Pumbaa's 'hakuna matata' is Kierkegaard's aesthetic stage of pleasure without commitment, which Simba must leave for the ethical stage when Nala, Rafiki ('Whooo are you?'), and Mufasa's ghost demand he 'remember who you are.' Sartre's 'optimistic toughness' and Nietzsche's 'Become who you are' frame Simba's defiant 'I am' before the assembled Pride Lands as existential self-creation."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - He’ll Be There For You, No Matter What.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "authenticity",
+    "utopia-dystopia"
+   ],
+   "relation": "The chapter walks through the three Toy Story films as three conceptions of freedom: freedom as control (Andy's stable room versus Sid's despotism, and Woody's collapse when Buzz displaces him), freedom as faithful identity (Woody torn between the 'Andy' on his boot and the Roundup Gang's museum future), and freedom as self-giving (Woody's sacrifices in Sid's house and the escape from Sunnyside). Lotso embodies control curdled into tyranny after Daisy replaces him, ruling a 'no owners means no heartbreak' utopia that is really a dystopian lie, while Andy giving the toys to Bonnie shows that the freest act is choosing another's good over your own."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Changing Fate or Being Changed by Fate.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "heraclitus"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "fate-vs-free-will"
+   ],
+   "relation": "Colombo and Jones read Brave through Aristotle's virtue ethics and Heraclitus's 'character is fate': the dispute between Merida and Elinor over 'what is a queen' is whether royalty is a mere position or a character requiring cultivated excellence and habituated 'second nature,' which Elinor's poise displays and Merida's hot temper lacks. Merida's witch's bargain to 'change my fate' only scrambles fortune (turning Elinor into a bear) until she follows the riddle 'mend the bond torn by pride,' replacing pride with empathy — and only then, at the Mor'du confrontation where fate, fortune, and character converge, can it be said her fate was changed rather than she by it."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Happily Ever After.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-cave",
+    "platonic-love"
+   ],
+   "relation": "The chapter maps the Beast's enchanted castle onto Plato's cave: the spellbound household, dimming in the decaying West Wing, are prisoners whose human capacities are suppressed, and Belle is the missing cause that breaks the chains Plato never explains. Using Diotima's teaching from the Symposium that beauty compels love, it reads the Beast's curse as externalizing his indifference to beauty, so that the staircase dance, his freeing of Belle, and Belle's 'I love you' trace Diotima's ladder from outward to inward beauty — the light that releases the prisoner."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - We Can Fix this Hand in Hand.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "philosophy-of-love"
+   ],
+   "relation": "Heit reads Frozen through Marion's claim that 'I love you' usually certifies the speaker's ego: Anna's knocking ('Do you want to build a snowman?') is love as the risky question 'Does anyone out there love me?' asked despite years of rejection, while Hans's whirlwind engagement is Marion's 'vanity' masquerading as love. Against the prince-saves-princess script, the act of true love that thaws Anna's frozen heart turns out to be her own self-giving gesture toward Elsa, showing that true love overcomes fear rather than fulfilling one's own needs."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Part V “ALWAYS LET YOUR CONSCIENCE BE YOUR GUIDE”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - The Rhythm by Which We Live Our Lives.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mencius"
+   ],
+   "concepts": [
+    "mencius-good-nature",
+    "confucian-ren"
+   ],
+   "relation": "Kowalski interprets Kuzco's arc through Mencius: the emperor's pampered upbringing (eight hands replacing a squeezed toy, Yzma's loveless regency) is the 'hatchets and frost' of the Ox Mountain parable blunting his innate moral sprouts. The gorge scene stages Mencius's child-at-the-well thought experiment — Kuzco's spontaneous snatch of falling Pacha is a 'give-away' action betraying compassion he denies having, which Pacha diagnoses just as Mencius did King Xuan sparing the ox — and Pacha's family, quasi-adopting Kuzco, supplies the loving soil Mencius says the sprouts of ren need to grow."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - “It's Been Handed Down from Goof to Goof to Goof, and Now, It's Yours, Son”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "mill",
+    "socrates",
+    "plato",
+    "singer",
+    "max-scheler"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "utilitarianism",
+    "moral-psychology"
+   ],
+   "relation": "Mentyka uses Goofy to test theories of the good life: Socratic intellectualism stumbles on uneducated-but-good Goofy, Kant's categorical imperative absurdly forbids handing Max the 'goof to goof' fishing pole (Goofy can't will it universal law), Mill's utilitarianism fails when Max's lukewarm reception makes the gift happiness-reducing, and Singer's extension to animals muddies Pluto the dog against Goofy the dog treated as a person. The chapter resolves with Scheler's claim that we first encounter values through moral exemplars — earnest, bumbling Goofy — not through rules or consequences, and a closing plea that philosophers narrate less like the smug 'How to...' narrator."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Is Propaganda Permissible.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "mill"
+   ],
+   "concepts": [
+    "hume-sentimentalism",
+    "mill-liberty",
+    "harm-principle"
+   ],
+   "relation": "Manninen surveys Disney's WWII Donald Duck shorts (Donald's Decision, The New Spirit, Der Fuehrer's Face, Commando Duck) to argue propaganda is not only the enemy's tool and not always wrong. Hume's 'slave of the passions' explains why The Spirit of '43 works through the Thrifty-versus-Spendthrift slugfest rather than its implicit argument, and Mill's fallibility-corrigibility case for free expression gives even propaganda a seat in public discourse — though Mill's caveat against expression that instigates mischievous acts marks the real limit, which the contrast with the Axis's 'barefaced lies' (and the Yensid thought experiment) is meant to satisfy."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Intergenerational Ships and Sustainable Duties.md",
+   "kind": "chapter",
+   "philosophers": [
+    "leopold"
+   ],
+   "concepts": [
+    "anthropocentrism",
+    "land-ethic",
+    "climate-ethics"
+   ],
+   "relation": "Hackett uses WALL-E's lone plant and the Buy n Large Axiom to ask what we owe nature and future generations: WALL-E's tender care of the seedling models treating nature as a rights-bearing 'person' (via Gaia-superorganism thinking), while BnL's obese, screen-hooked passengers on the Axiom satirize capitalist individualism that acknowledges no obligations beyond contracts. He proposes a 'Principle of Sustainable Duties' — minimize net environmental damage and weigh long-term impact — and reads the film's open ending, extending Leopold's expansion of moral community to the biotic whole, as a Platonic aporia about whether an Anthropocene humanity can actually change in time."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - “Real Life Is Messy”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "nussbaum"
+   ],
+   "concepts": [
+    "state-of-nature",
+    "social-contract",
+    "utopia-dystopia"
+   ],
+   "relation": "The chapter tests Zootopia's 'where anyone can be anything' against three ideals: the founding play's predator-prey war is a Hobbesian state of nature ('man is a wolf to man') pacified by social order; Judy's parking duty and Nick's 'you can only be what you are' expose how stereotyping confuses artificial barriers with real biological limits to self-determination; and the evolved end of predation frames a just multispecies society, read through Donaldson and Kymlicka's Zoopolis case for animal citizenship. Nussbaum's hint at 'the gradual supplanting of the natural by the just' is weighed against the dystopia of turning the wild into a world-sized zoo, leaving Zootopia aspirational rather than achieved."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Part VI “THE WONDERFUL WORLDVIEW OF DISNEY”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Things Worth Believing.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx",
+    "marcuse",
+    "adorno"
+   ],
+   "concepts": [
+    "marx-alienation",
+    "one-dimensional-man",
+    "culture-industry"
+   ],
+   "relation": "Butterfield stages the Frankfurt School critique of her own Disney love: Marx's three alienations (from work, from others, from species-being) explain the Seven Dwarfs' 'dig dig dig' and the FastPass-scheduled vacation that converts leisure into consumption, while Marcuse's One-Dimensional Man diagnoses the parks' engineered euphoria and 'false needs' as a 'comfortable, smooth, reasonable, democratic unfreedom' that blunts protest — with Adorno adding that consumers see through the advertising and buy anyway. Against the critic, she argues a Disney trip done right can challenge alienation by reviving play, family togetherness, and childlike belief in 'things worth believing.'"
+  },
+  {
+   "n": 39,
+   "file": "ch39 - Hey Goofy! Somebody Just Slipped My Culture a Mickey….md",
+   "kind": "chapter",
+   "philosophers": [
+    "jung"
+   ],
+   "concepts": [
+    "jung-archetypes",
+    "simulacra",
+    "hegemony"
+   ],
+   "relation": "Schuchardt argues Disney's real product is 'getting you in there' — colonizing the geography of the imagination: Pirates of the Caribbean is read as an allegory of corporate globalization, White Wilderness fabricated the lemming-suicide myth, and the parks' visual containment keeps visitors inside a world with 'more reality than nature' (Eco's hyperreality, in Baudrillard's territory). He claims Disney built this on Jung's archetypes via Joseph Campbell's Hero's Journey under the mantra 'We Create the Mythology of the Future,' so that media consolidation (the Fox merger shrinking six conglomerates to five) narrows the Overton Window and Disney's manufactured mythology displaces Christianity as the reigning worldview."
+  },
+  {
+   "n": 40,
+   "file": "ch40 - I think we've all arrived at a very special place, eh Spiritually Ecumenically Grammatically —Captain Jack Spa.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "epicurus",
+    "lucretius",
+    "confucius",
+    "aquinas"
+   ],
+   "concepts": [
+    "epicurean-death",
+    "immortality",
+    "confucian-filiality"
+   ],
+   "relation": "Miller uses Disney deaths to stage the philosophy of death: Plato's immortal soul and Phaedo's affinity argument illuminate Frollo's lust-driven plunge into hellfire, while Epicurus's atomism, his 'death is nothing to us' argument applied to Marlin's terror in Finding Nemo, and Lucretius's symmetry argument are tested against Coco, where Ernesto's forgotten 'final death' versus Hector's restored place on the ofrenda makes posthumous harm plausible. Aquinas's 'my soul is not me' grounds embodiment, Confucius makes Mulan's risking death for father, ancestors, and country a virtuous Confucian death, and Deloria's indigenous web of relations reads Mufasa's Circle of Life, Moana's grandmother, and Brother Bear's ancestral spirits."
+  },
+  {
+   "n": 41,
+   "file": "ch41 - “Look at This Stuff; Isn't It Neat ” disney and the Commodification of Political Values.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke"
+   ],
+   "concepts": [
+    "social-contract",
+    "democracy-theory"
+   ],
+   "relation": "Dale and Foy tour the parks' political philosophy: Cinderella's Castle looming over Liberty Square embodies the contradiction between princess hierarchy and Lockean self-government, since Locke's Second Treatise grounds rule in consent and majority will, forbids special rights for rulers, and justifies revolution — the very ideals the 'Declaration salad' celebrates under a monarchy's silhouette. The Epcot World Showcase, judged through Kymlicka, Benhabib, and Taylor's recognition-based multiculturalism, reduces eleven cultures to a consumable menu, so that per Barber's 'McWorld' Disney sells pre-packaged 'freedom' and 'multiculturalism' as spectator values that reinforce rather than transform."
+  },
+  {
+   "n": 42,
+   "file": "ch42 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 43,
+   "file": "ch43 - End User License Agreement.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 30,
+   "type": "philosopher",
+   "suggested_slug": "jean-luc-marion",
+   "name": "Jean-Luc Marion",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "French phenomenologist whose Erotic Phenomenon analyzes love as the risky question 'Does anyone out there love me?' rather than an ego-certifying declaration.",
+   "why": "Chapter 30's entire reading of Frozen — Anna's knocking, Hans's vanity, love overcoming fear — is built on Marion's philosophy of love."
+  },
+  {
+   "ch": 33,
+   "type": "philosopher",
+   "suggested_slug": "max-scheler",
+   "name": "Max Scheler",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "German phenomenologist of value whose ethics holds that we first learn the good through moral exemplars rather than universal rules or consequences.",
+   "why": "Chapter 33's resolution — that clumsy, earnest Goofy teaches goodness as a moral exemplar — rests on Scheler after its Kantian and utilitarian readings fail."
+  },
+  {
+   "ch": 36,
+   "type": "concept",
+   "suggested_slug": "zoopolis-animal-citizenship",
+   "name": "Zoopolis (animal citizenship)",
+   "philosopher": "",
+   "domain": "environment-animal",
+   "what": "Donaldson and Kymlicka's political theory of animal rights on which domesticated animals should be recognized as co-citizens of human communities.",
+   "why": "Chapter 36's second half reads Zootopia's multispecies society through Zoopolis's citizenship model rather than through classic animal-rights arguments."
+  },
+  {
+   "ch": 39,
+   "type": "concept",
+   "suggested_slug": "hero-journey",
+   "name": "The Hero's Journey (monomyth)",
+   "philosopher": "jung",
+   "domain": "mind-language-metaphysics",
+   "what": "Joseph Campbell's monomyth: the universal hero-adventure pattern built on Jungian archetypes that modern blockbusters follow.",
+   "why": "Chapter 39 claims Disney consciously constructs its mythology on Campbell's hero's journey ('We Create the Mythology of the Future'), and the taxonomy has only Jung's archetypes."
+  },
+  {
+   "ch": 40,
+   "type": "philosopher",
+   "suggested_slug": "vine-deloria",
+   "name": "Vine Deloria Jr.",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Native American thinker for whom life is a sacred web of relationships in which the dead remain present and moral responsibility is shared by all beings.",
+   "why": "Chapter 40 uses Deloria's indigenous relationality as its main lens for the Circle of Life, Moana's grandmother, and Brother Bear's ancestral spirits."
+  },
+  {
+   "ch": 41,
+   "type": "concept",
+   "suggested_slug": "multiculturalism-recognition",
+   "name": "Multiculturalism (politics of recognition)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The view (Kymlicka, Taylor, Benhabib) that a just society must recognize and protect cultures on their own terms, not merely display them.",
+   "why": "Chapter 41 judges Epcot's World Showcase against multicultural recognition theory and finds a commodified counterfeit of it."
+  },
+  {
+   "ch": 41,
+   "type": "concept",
+   "suggested_slug": "mcworld",
+   "name": "McWorld",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Benjamin Barber's term for the homogenizing global commodity market that packages and sells culture in shallow form for consumption.",
+   "why": "Chapter 41's closing argument is that 'Disneyfication' sells political values like freedom and multiculturalism as McWorld-style commodities."
+  }
+ ]
+}

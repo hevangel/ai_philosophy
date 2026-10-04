@@ -1,0 +1,267 @@
+{
+ "book": "087 - Adventure Time and Philosophy - The Handbook for Heroes",
+ "unit": "u141",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Adventure Time and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Adventure Time and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Adventure Time and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Adventure Time and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editor's introduction argues that Adventure Time is philosophy in disguise: its theme-song promise of 'very distant lands' describes the philosopher's trek into unpopular, even hated ideas, and the show treats 'crazy' questions as fun rather than frightening. It names the questions the book will chase—whether Finn was fated to lose his arm, whether the Ice King is really a bad guy, what evil really means—and claims that since common sense has always turned out to be wrong (matter isn't solid, the Earth moves), the childlike willingness to reconsider everything is a philosophical virtue. Philosophy, like the show, is an adventure best taken with a friend."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Adventure Time and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "popper"
+   ],
+   "concepts": [
+    "falsification",
+    "moral-psychology"
+   ],
+   "relation": "Karavitis argues Finn's 'Finn-losophy' is a metaphysics that prefers magic over Princess Bubblegum's science, and that this choice shapes his ethics: magic is the 'easy way out' requiring no understanding (Jake's stretching, the Glasses of Nerdicon), while science demands observation, experiment, and falsifiable ideas—'reality is the ultimate spell-checker.' Because magic promises instant gratification, Finn rushes into danger ('Wizard,' 'Donny,' the Goblin Kingdom) behind an inflexible hero code, and his altruism misfires, as the never-ending prize-winning battles of the 'Mystery Train' episode illustrate. The chapter concludes that your view of how the world works—magical or scientific—determines whether you can grow ethically at all."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger"
+   ],
+   "concepts": [
+    "heidegger-technology"
+   ],
+   "relation": "Leonard reads Ooo through Heidegger's contrast between technological and poetic frames of mind: Princess Bubblegum's BGCCTV, Goliad, and the James clone mission treat candy people as manipulable stock, while the Lich is technological thinking perfected—pure efficiency aimed at 'the extinction of all life'—and Finn is the poet who values things for what they are, risks Heidegger's 'venture,' and battles Death in 'Death in Bloom' as if in a concert. On Heidegger's definition of art as 'the setting-itself-into-work of truth,' Marceline's songs and Jake's imagined lava show creation disclosing reality. Magic, spread by the Mushroom War, sits between the two modes, and only Finn's poetic exuberance can check Bubblegum's slide toward order at any cost."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes"
+   ],
+   "concepts": [
+    "social-contract"
+   ],
+   "relation": "Caballeros argues that political legitimacy in Ooo runs through parenthood: Princess Bubblegum rules the citizens she created ('You made me... you are my Glob'), the Ice King is redeemed when we learn Simon protected child Marceline, and the Flame King and Hunson Abadeer forfeit standing as fathers. Using Hobbes's view that a ruler is legitimate insofar as he protects his subjects, the chapter asks whether Bubblegum's protection-cum-manipulation—sabotaging Finn to let James die, jailing Tree Trunks—still counts, and it contrasts justified rebellion (Flame Princess deposing her father, Marceline resisting Abadeer) with Lumpy Space Princess's disastrous one. Good parenting, like good government, earns obedience; bad parenting loses the crown."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "locke",
+    "rousseau"
+   ],
+   "concepts": [
+    "state-of-nature",
+    "social-contract",
+    "locke-natural-rights",
+    "rousseau-natural-goodness"
+   ],
+   "relation": "Gale and Barkman treat post-Mushroom-War Ooo as a state-of-nature laboratory for liberalism's three founders. The Forest Wizard who cages Finn in 'Storytelling' is Hobbes's Leviathan, kept in power by fear yet moderated by self-interest (Goblin King Xergiok's fall shows the leash); Princess Bubblegum's Candy Kingdom is Locke's civil society where citizens trade private revenge for impartial law—her lawful bow to Lemongrab shows she rules by contract, not fear; and 'City of Thieves' illustrates Rousseau's claim that property corrupts natural goodness, with Finn and Jake as his uncorrupted natural people. The chapter concludes that the rights language these thinkers forged is what keeps both Ooo and our world from sliding back into a war of all against all."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aquinas"
+   ],
+   "concepts": [
+    "aquinas-double-effect",
+    "categorical-imperative",
+    "utilitarianism",
+    "drowning-child"
+   ],
+   "relation": "Montoya tests Simon's choice to sacrifice his sanity by wearing the crown to save child Marceline against three ethical theories. Aquinas's doctrine of double effect clears him because the intended good (saving her life) outweighs the merely foreseen side effect (her tears, his possible future evils); Kant's categorical imperative rules out universalizing 'let children die to save myself,' since a world of universal using destroys the rule itself; and a fountain case where Finn must choose between world-saving plans and a drowning candy child separates act from rule utilitarianism, with rule utilitarianism preserving the duty to rescue. All three converge on the verdict that Simon, not Finn, is Ooo's greatest hero."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "forgiveness",
+    "moral-psychology",
+    "moral-luck"
+   ],
+   "relation": "McCrossin asks why Finn and Jake forgive Marceline although she tries to kill Jake, evicts them twice, drains Princess Bubblegum, and never shows remorse. Jake's change of heart ('my fear was based on ignorance') comes from witnessing her father Hunson Abadeer's cruelty and her abandoned childhood, so her bad acts flow from causes outside her control rather than pure choice. The chapter presses the remaining problem: we normally forgive the penitent offender, not the unrepentant one, and Marceline—unlike the moping vampires of Twilight, Underworld, and True Blood—never regrets, leaving readers to decide whether understanding without remorse can ground trust and friendship."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Adventure Time and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume"
+   ],
+   "concepts": [
+    "hume-induction",
+    "skepticism"
+   ],
+   "relation": "Michaud plays the 'David Hume' Card Wars deck against Princess Bubblegum's confidence in science: following Hume's problem of induction, every scientific law rests on observation and is only probabilistic—we never observe the necessary connection between cause and effect, whether in magnetism, Jake's hunger-induced jerkiness, or the first law of thermodynamics. Humans are pattern-makers who project causal order onto the world (seeing Gunter in clouds, blaming one bubblegum incident), while quantum physics reveals genuine randomness that Einstein hated. Ooo's residents, who watch Tree Trunks explode and simply move on, may grasp reality better than we do, because they never smuggle in stable, lawlike expectations that the show—and the universe—keep violating."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "free-will-determinism",
+    "compatibilism",
+    "punishment-theory"
+   ],
+   "relation": "Littmann uses Adventure Time as a stockpile of thought experiments against free will: Finn excuses Billy (possessed by the Lich), hug-wolf Finn, amulet-Marceline, red-starved Marceline, the magically animated hat Little Dude, and crown-cursed Simon, yet punishes the Lich and Lemongrab, whose destructive desires are exactly as unchosen—Lemongrab even protests 'you made me like this.' Since deterministic causation and randomness exhaust the options, we are 'machines made of meat' wearing ice crowns inside our skulls, so deserved suffering makes no sense. The chapter concludes that just-deserts retribution (Princess Cookie's life sentence, America's prisons) should give way to deterrence, protection, and rehabilitation—freeing the Simon Petrikovs underneath."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "free-will-determinism",
+    "fate-vs-free-will",
+    "compatibilism"
+   ],
+   "relation": "Miller argues from Jake's croak dream, the Cosmic Owl, and the Dungeon Train's future crystal that Ooo's future is real, visible, and changeable—hence a case of soft determinism: the dream of Jake dying in space is what caused Finn to accompany him and avert it, so the only being who could have intended the change, the Owl, is the sole certain free agent in Ooo. Every alternate Finn is missing his right arm—Shoko the thief, Farmworld Finn, pillow-world Finn, the Dungeon Train elder—hinting at an epic destiny, yet Finn altered the train future once he saw where it led Jake. The chapter closes on the open question of whether choosing one's fate differs from having it thrust on one, since every choice is caused by the past no one can change."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "leibniz"
+   ],
+   "concepts": [
+    "best-possible-world",
+    "problem-of-evil",
+    "possible-worlds"
+   ],
+   "relation": "Montoya asks whether Prismo, Adventure Time's wish-granting stand-in for God, produced the best possible world when he restored Ooo over Farmworld. After explaining Leibniz's answer to the problem of evil—that an all-good, all-knowing God permits some evil because every possible world contains some, and ours contains the least—the chapter compares Farmworld (no Lich, but Finn becomes the Ice King, Jake mutates into the Lich, Marceline dies ancient and insane) with Ooo, where the same characters flourish as heroes. Prismo, no omnibenevolent deity, remakes Ooo out of friendship with Jake, and Farmworld's horrors vindicate the Leibnizian point that wishing one evil out of existence can unleash far worse."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "death-of-god",
+    "spinoza-monism"
+   ],
+   "relation": "Namvol argues that 'Glob' is the post-apocalyptic corpse of the Christian God: combining Don Cupitt's claim that gods live only in worship and practice with Nietzsche's 'God is dead,' he traces how the Mushroom War destroyed the believers, churches, and rituals that kept God alive, leaving Ooo an empty exclamation. Pantheism fails as a rescue because evil is native to Ooo's nature (Gunter, the eternally self-existing Abadeer), so God cannot simply have become the land. Against Dostoevsky's 'without God all things are permitted,' the chapter sides with Žižek—that morality's shadow, guilt, outlives God—as when Finn's self-regulation kicks in after 'All the Little People' and 'Dungeon Train,' making Finn, not Glob, the true savior of a godless world."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Adventure Time and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "paradox-of-fiction"
+   ],
+   "relation": "Muniz uses the 'Ocean of Fear' material to stage the paradox of fiction—we know Finn, Jake, and the Lich are drawings, yet we genuinely fear for the child hero in danger—and works through its three sentences: we respond emotionally only to what we believe real, we disbelieve fiction, yet we respond to fiction constantly. Distinguishing passive startle from active dwelling, he tests escape routes: fear at Marceline's abandonment may really be fear for our own children, the robot attack in 'Business Men' may become 'real' to a viewer, and some philosophers call our responses mere 'fictional emotions.' Finding no sentence safely deniable, he concludes that our emotional responses to Adventure Time are, strictly speaking, irrational—but no less honest for it."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gadamer"
+   ],
+   "concepts": [
+    "gadamer-hermeneutics"
+   ],
+   "relation": "Jones reads Adventure Time through Gadamer's account of play in Truth and Method: play is the 'mode of being' of the artwork, and Finn's all-in commitment—the 'sacred seriousness' that makes a spoilsport of anyone who mocks the rules, as in 'Slumber Party Panic' or Finn's bloodlust in 'Morituri Te Salutamus'—is why the show counts as art. The finished episode is Gadamer's 'transformation into structure,' and like a festival or a favorite board game it exists in its return, episode after episode. Interpreting the show is itself play: holding our world and Ooo's world in two palms brought together is Gadamer's fusion of horizons, through which Finn corrects our concepts of a boy or a hero and makes new understanding, even empathy, possible."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "hume",
+    "berkeley"
+   ],
+   "concepts": [
+    "plato-cave",
+    "berkeley-idealism",
+    "hume-bundle",
+    "skepticism"
+   ],
+   "relation": "Arp uses King Worm's dream-within-dreams to pose the perception-reality problem: distinguishing perceiver, perceptions, and perceived, he maps the triad onto Plato's allegory of the cave, then contrasts epistemological and metaphysical realism (the fallen tree fort still makes sound waves unheard; Pythagoras discovered rather than invented his theorem) with idealism and antirealism, whose dead end is solipsism—Lumpy Space Princess locked in a private movie theater of perceptions. Hume's picture of the mind as a theater of successive perceptions and Berkeley's Hylas-and-Philonous worry that we are trapped inside perceptual reality give the skeptical threat its force. The chapter sides with Jake—'You gotta focus on what's real, man'—while conceding that after 'King Worm' Finn and Jake can never be certain they escaped the hypnotism."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "paradox-of-fiction",
+   "name": "The Paradox of Fiction",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The puzzle that we feel genuine emotions for characters we know do not exist, even though emotion seems to require believing its object is real.",
+   "why": "Chapter 22 is built entirely on this paradox (fear during 'Ocean of Fear', sadness for Marceline and Simon) and evaluates each of its three sentences, but the taxonomy has no slug for the philosophy of fiction or emotion."
+  }
+ ]
+}

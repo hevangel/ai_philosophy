@@ -1,0 +1,172 @@
+{
+  "book": "280 - Gardening \u2013 Philosophy for Everyone - Cultivating Wisdom",
+  "unit": "u398",
+  "chapters": [
+    {
+      "n": 2,
+      "file": "ch02 - CYCLING.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 3,
+      "file": "ch03 - CYCLING.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 4,
+      "file": "ch04 - CYCLING.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 5,
+      "file": "ch05 - CYCLING.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 6,
+      "file": "ch06 - CYCLING.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 7,
+      "file": "ch07 - CYCLING.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 8,
+      "file": "ch08 - CYCLING.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 9,
+      "file": "ch09 - CYCLING.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "epicurus", "hume", "plato"],
+      "concepts": ["virtue-ethics", "epicurean-pleasure", "aristotle-eudaimonia"],
+      "relation": "O'Brien's editorial introduction frames gardening as engaging core philosophical questions and previews the volume. It argues that gardening promotes a good life not through hedonistic pleasure but through virtuous traits like patience and a Stoic-tinged tranquility that ancient philosophers from Epicurus to Hume prized, and it invokes Kant to cast the gardener as a visual artist. It also sketches gardens as cosmic symbols (Pythagorean ratios at Versailles) and closes on Plato's Phaedrus image of educating the soul as tending plants."
+    },
+    {
+      "n": 10,
+      "file": "ch10 - CYCLING.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 11,
+      "file": "ch11 - GARDENING.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle"],
+      "concepts": ["virtue-ethics", "aristotle-eudaimonia"],
+      "relation": "Isis Brook argues that gardening objectively improves both the land (through composting, nurturing plants, and Warwick Fox's 'responsive cohesion' with wider contexts) and the gardener's moral character. Taking a virtue-ethics approach and drawing on David Cooper, she holds that gardening practices incidentally cultivate patience, humility, recognition of reality, care for others, and open-heartedness. She uses concrete cases\u2014Sackville-West's white garden at Sissinghurst, her own failed Cerinthe and thriving ferns\u2014to show how collaborating with nature nurtures these flourishing-related virtues."
+    },
+    {
+      "n": 12,
+      "file": "ch12 - GARDENING.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["virtue-ethics"],
+      "relation": "Meghan Ray reads classical agrarian texts to show that Greeks and Romans invested cultivating the soil with civic, moral, and religious meaning. Through Hesiod's Works and Days and Xenophon's Oeconomicus (with its Gardener/King Cyrus), and the Roman Scriptores Rei Rusticae (Cato, Varro, Columella) plus Virgil's Georgics, she argues farming was portrayed as the only honorable, pious profession that builds character\u2014diligence, endurance, justice\u2014and sustains the state. The chapter connects horticulture to a virtue-centered vision of the good and righteous life."
+    },
+    {
+      "n": 13,
+      "file": "ch13 - GARDENING.md",
+      "kind": "chapter",
+      "philosophers": ["regan"],
+      "concepts": ["anthropocentrism", "animal-rights"],
+      "relation": "Matthew Hall challenges the exclusion of plants from gardening ethics, tracing it to the Garden of Eden where plants are denied life and given only instrumental value for humans. Against this he sets kincentric alternatives\u2014the Achuar mothering manioc, the Raramuri treating plants as kin, and the living apple trees of the Hesperides\u2014and Albert Schweitzer's reverence-for-life ethic. He proposes gardeners offer plants three 'gifts': acknowledging their autonomy, giving them care, and giving weeds space, extending moral consideration to plant life itself."
+    },
+    {
+      "n": 14,
+      "file": "ch14 - GARDENING.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["food-ethics", "wilderness-ethics"],
+      "relation": "Helene Gammack surveys the seventeenth-century self-sufficient English estate as a fusion of pleasure and productivity, using Schellinks's account of Bridge Place, Celia Fiennes's journals, and figures like John Evelyn and Sir William Temple (whose Upon the Gardens of Epicurus links fruit to health and tranquility). She traces dovecotes, fishponds, deer parks, orchards, and glasshouse exotics, and connects the modern 'grow your own' revival\u2014driven by sustainability, food miles, and provenance\u2014to that older harmony of beauty and use in cultivating food."
+    },
+    {
+      "n": 15,
+      "file": "ch15 - CYCLING.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 16,
+      "file": "ch16 - GARDENING.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["wilderness-ethics"],
+      "relation": "Jo Day uses archaeological and textual evidence to argue that the earliest elite gardens of Mesopotamia, Egypt, and Minoan Crete carried symbolic roles beyond pleasure. Assyrian kings like Sennacherib and Ashurnasirpal II displayed captured exotic plants as 'botanical imperialism' and tokens of power over nature and conquered lands, while Egyptian temple and tomb gardens (Hatshepsut's incense trees, plants tied to deities) served ritual and mythic functions. The chapter shows the ancient garden as a stage for status, military prowess, and religious performance."
+    },
+    {
+      "n": 17,
+      "file": "ch17 - GARDENING.md",
+      "kind": "chapter",
+      "philosophers": ["heidegger", "merleau-ponty"],
+      "concepts": ["virtue-ethics", "embodiment"],
+      "relation": "Michael Moss examines how the British grew Brussels sprouts and other 'English' vegetables across the Empire to recreate home and 'put down roots,' reading gardens as tropes of Britishness and imperial identity. He draws on David Cooper's claim\u2014rooted in Heidegger's and Merleau-Ponty's notions of dynamic, embodied engagement\u2014that 'certain garden practices necessarily induce virtues,' which colonial writers invoked to justify gardening's moral and civilizing purpose. He exposes the irony that most 'British' vegetables were themselves appropriated introductions, mirroring Kew's plant-hunting empire."
+    },
+    {
+      "n": 18,
+      "file": "ch18 - GARDENING.md",
+      "kind": "chapter",
+      "philosophers": ["locke"],
+      "concepts": ["locke-natural-rights"],
+      "relation": "Laura Auricchio shows how General Lafayette made his estate at La Grange an embodiment of liberal, transatlantic political ideals. Inspired by Washington as a Cincinnatus figure and by Arthur Young's agrarian reform, Lafayette imported American plants and English husbandry, keeping meticulous farm records and staging tours that framed the land around liberty (Fox's planted ivy, self-sufficiency, beneficent stewardship). The chapter argues his cultivation of crops and identity presented the garden as 'American ground' expressing natural rights and republican virtue."
+    },
+    {
+      "n": 19,
+      "file": "ch19 - GARDENING.md",
+      "kind": "chapter",
+      "philosophers": ["marx", "aristotle"],
+      "concepts": ["class-struggle", "political-animal"],
+      "relation": "Elizabeth Scott argues that the wartime allotment gardens of East London's Poplar were engines of working-class political development. Through allotment associations, laboring men learned letter-writing, accounting, public speaking, and democratic self-governance, negotiating with borough councils and the Port of London Authority and building solidarity that fed movements like the Poplar Rates Rebellion. She reads the 10-rod plot as restoring self-sufficiency and citizenship to a disenfranchised class, making gardening a grassroots site of cooperation, socialist activism, and political enfranchisement."
+    }
+  ],
+  "holes": [
+    {
+      "ch": 13,
+      "type": "philosopher",
+      "suggested_slug": "schweitzer",
+      "name": "Albert Schweitzer",
+      "philosopher": "",
+      "domain": "environment-animal",
+      "what": "Theologian-philosopher whose 'reverence for life' ethic extends moral consideration to all living things, including plants.",
+      "why": "Chapter 13 builds its constructive plant-ethics argument directly on Schweitzer's reverence-for-life principle, which the taxonomy has no slug for."
+    },
+    {
+      "ch": 13,
+      "type": "concept",
+      "suggested_slug": "plant-ethics",
+      "name": "Plant Ethics / Moral Status of Plants",
+      "philosopher": "",
+      "domain": "environment-animal",
+      "what": "The view that plants can be objects of moral consideration, possessing autonomy and interests warranting care and respect.",
+      "why": "Chapter 13's central thesis is the moral standing of plants specifically, which is distinct from animal-rights or generic anthropocentrism and has no dedicated taxonomy slug."
+    }
+  ]
+}

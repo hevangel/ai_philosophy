@@ -1,0 +1,80 @@
+{
+ "unit": "u380",
+ "book": "263 - Stephen King and Philosophy",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\263 - Stephen King and Philosophy",
+ "range": [
+  2,
+  12
+ ],
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Title Page.md",
+   "words": 340
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Introduction.md",
+   "words": 4316
+  },
+  {
+   "n": 4,
+   "file": "ch04 - There Is No God in Desperation.md",
+   "words": 9084
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Female Subjectivity in Carrie.md",
+   "words": 4210
+  },
+  {
+   "n": 6,
+   "file": "ch06 - \u201cSometimes Dead Is Better\u201d.md",
+   "words": 8160
+  },
+  {
+   "n": 7,
+   "file": "ch07 - \u201cGan Is Dead\u201d.md",
+   "words": 4041
+  },
+  {
+   "n": 8,
+   "file": "ch08 - R\u0101ma of Gilead.md",
+   "words": 5438
+  },
+  {
+   "n": 9,
+   "file": "ch09 - What\u2019s Wrong with Roland.md",
+   "words": 6560
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Stephen King and Aristotelian Friendship.md",
+   "words": 7028
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Propaganda and Pedagogy for Apt Pupils.md",
+   "words": 5570
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Shining \u2019s Overlook Hotel as Heterotopia.md",
+   "words": 5412
+  }
+ ],
+ "content": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ]
+}

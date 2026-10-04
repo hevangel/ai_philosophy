@@ -1,0 +1,102 @@
+{
+ "unit": "u122",
+ "book": "073 - The Wire and Philosophy - This America, Man",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\073 - The Wire and Philosophy - This America, Man",
+ "range": [
+  25,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 25,
+   "file": "ch25 - The Wire and Philosophy.md",
+   "words": 4095
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Wire and Philosophy.md",
+   "words": 4737
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Wire and Philosophy.md",
+   "words": 4288
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Wire and Philosophy.md",
+   "words": 4
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The Wire and Philosophy.md",
+   "words": 4798
+  },
+  {
+   "n": 30,
+   "file": "ch30 - The Wire and Philosophy.md",
+   "words": 3866
+  },
+  {
+   "n": 31,
+   "file": "ch31 - The Wire and Philosophy.md",
+   "words": 7132
+  },
+  {
+   "n": 32,
+   "file": "ch32 - The Wire and Philosophy.md",
+   "words": 3
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Wire and Philosophy.md",
+   "words": 5741
+  },
+  {
+   "n": 34,
+   "file": "ch34 - The Wire and Philosophy.md",
+   "words": 3782
+  },
+  {
+   "n": 35,
+   "file": "ch35 - The Wire and Philosophy.md",
+   "words": 4071
+  },
+  {
+   "n": 36,
+   "file": "ch36 - The Wire and Philosophy.md",
+   "words": 4440
+  },
+  {
+   "n": 37,
+   "file": "ch37 - The Wire and Philosophy.md",
+   "words": 1725
+  },
+  {
+   "n": 38,
+   "file": "ch38 - The Wire and Philosophy.md",
+   "words": 2228
+  },
+  {
+   "n": 39,
+   "file": "ch39 - The Wire and Philosophy.md",
+   "words": 1471
+  }
+ ],
+ "content": [
+  25,
+  26,
+  27,
+  29,
+  30,
+  31,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39
+ ]
+}

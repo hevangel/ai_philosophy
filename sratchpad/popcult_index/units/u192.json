@@ -1,0 +1,272 @@
+{
+ "unit": "u192",
+ "book": "127 - Blade Runner 2049 and Philosophy - This Breaks the World",
+ "part": "1/1",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\127 - Blade Runner 2049 and Philosophy - This Breaks the World",
+ "range": null,
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Blade Runner 2049 and Philosophy This Breaks the World.md",
+   "words": 1149
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "words": 28
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "words": 134
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Contents.md",
+   "words": 371
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Thanks.md",
+   "words": 804
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Philosophy and Reality in Blade Runner 2049.md",
+   "words": 643
+  },
+  {
+   "n": 9,
+   "file": "ch09 - I What Makes Us Human.md",
+   "words": 5
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 1. Do You Long for Having Your Heart Interlinked.md",
+   "words": 3284
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 2. Is Joi a Person.md",
+   "words": 3097
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 3. Are You for Real.md",
+   "words": 2883
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 4. The Aesthetics of Being a Person.md",
+   "words": 2837
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 5. A Replicant\u2019s Guide to Becoming Human.md",
+   "words": 3560
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 6. You Don\u2019t Need to Be Human to Have a Human Hand.md",
+   "words": 2514
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 7. More Human than Humans.md",
+   "words": 2601
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 8. Ode to Joi.md",
+   "words": 2866
+  },
+  {
+   "n": 18,
+   "file": "ch18 - II A Miracle Delivered.md",
+   "words": 4
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 9. Replicant Birth, Moral Miscarriage.md",
+   "words": 2918
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 10. Should Humans Dream of Designer Babies.md",
+   "words": 2552
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 11. Conceiving AI.md",
+   "words": 2936
+  },
+  {
+   "n": 22,
+   "file": "ch22 - III Cells Interlinked.md",
+   "words": 3
+  },
+  {
+   "n": 23,
+   "file": "ch23 - 12. The Riddle of Niander Wallace.md",
+   "words": 3026
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 13. Flow My Tears, Rick Deckard Said.md",
+   "words": 2871
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 14. After the Blackout.md",
+   "words": 2598
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 15. The Phenomenology of Replicant Life and Death.md",
+   "words": 2636
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 16. Who Am I to You.md",
+   "words": 3298
+  },
+  {
+   "n": 28,
+   "file": "ch28 - IV The Kingdom of God.md",
+   "words": 5
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 17. You\u2019ve Never Seen a Miracle.md",
+   "words": 3130
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 18. K\u2019s Most Excellent Kierkegaardian Pilgrimage.md",
+   "words": 3257
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 19. And God Created Replicants in His Own Image.md",
+   "words": 3246
+  },
+  {
+   "n": 32,
+   "file": "ch32 - 20. Sympathy for the Existential Devils.md",
+   "words": 2790
+  },
+  {
+   "n": 33,
+   "file": "ch33 - V A Real Girl Now.md",
+   "words": 5
+  },
+  {
+   "n": 34,
+   "file": "ch34 - 21. The Trouble with Joi.md",
+   "words": 2411
+  },
+  {
+   "n": 35,
+   "file": "ch35 - 22. Rachael, Weeping for Her Children.md",
+   "words": 3042
+  },
+  {
+   "n": 36,
+   "file": "ch36 - 23. The Future Is Female \u2026 Robots!.md",
+   "words": 3066
+  },
+  {
+   "n": 37,
+   "file": "ch37 - VI The World Is Built on a Wall.md",
+   "words": 8
+  },
+  {
+   "n": 38,
+   "file": "ch38 - 24. A Modern utopia.md",
+   "words": 2861
+  },
+  {
+   "n": 39,
+   "file": "ch39 - 25. Less Human than Human.md",
+   "words": 2735
+  },
+  {
+   "n": 40,
+   "file": "ch40 - 26. Do Replicants Have Nightmares of Ethnic Discrimination.md",
+   "words": 2863
+  },
+  {
+   "n": 41,
+   "file": "ch41 - 27. Who Keeps a Dead Tree.md",
+   "words": 2083
+  },
+  {
+   "n": 42,
+   "file": "ch42 - 28. Replicants of California, Unite!.md",
+   "words": 2730
+  },
+  {
+   "n": 43,
+   "file": "ch43 - I Know What\u2019s Real.md",
+   "words": 693
+  },
+  {
+   "n": 44,
+   "file": "ch44 - References.md",
+   "words": 1643
+  },
+  {
+   "n": 45,
+   "file": "ch45 - Those Who Hunt Them Still Go by the Name \u2026.md",
+   "words": 1483
+  },
+  {
+   "n": 46,
+   "file": "ch46 - Index.md",
+   "words": 578
+  },
+  {
+   "n": 47,
+   "file": "ch47 - Blade Runner 2049 and Philosophy This Breaks the World.md",
+   "words": 0
+  }
+ ],
+ "content": [
+  3,
+  6,
+  7,
+  8,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  19,
+  20,
+  21,
+  23,
+  24,
+  25,
+  26,
+  27,
+  29,
+  30,
+  31,
+  32,
+  34,
+  35,
+  36,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46
+ ]
+}

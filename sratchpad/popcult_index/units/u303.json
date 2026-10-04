@@ -1,0 +1,106 @@
+{
+ "unit": "u303",
+ "book": "212 - The Olympics and Philosophy",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\212 - The Olympics and Philosophy",
+ "range": [
+  5,
+  20
+ ],
+ "chapters": [
+  {
+   "n": 5,
+   "file": "ch05 - The Olympics and Philosophy.md",
+   "words": 277
+  },
+  {
+   "n": 6,
+   "file": "ch06 - The Olympics and Philosophy.md",
+   "words": 1765
+  },
+  {
+   "n": 7,
+   "file": "ch07 - The Olympics and Philosophy.md",
+   "words": 4
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Olympics and Philosophy.md",
+   "words": 5274
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Olympics and Philosophy.md",
+   "words": 4189
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Olympics and Philosophy.md",
+   "words": 4213
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Olympics and Philosophy.md",
+   "words": 3
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Olympics and Philosophy.md",
+   "words": 8446
+  },
+  {
+   "n": 13,
+   "file": "ch13 - The Olympics and Philosophy.md",
+   "words": 6190
+  },
+  {
+   "n": 14,
+   "file": "ch14 - The Olympics and Philosophy.md",
+   "words": 5217
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Olympics and Philosophy.md",
+   "words": 3
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Olympics and Philosophy.md",
+   "words": 5675
+  },
+  {
+   "n": 17,
+   "file": "ch17 - The Olympics and Philosophy.md",
+   "words": 5390
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Olympics and Philosophy.md",
+   "words": 4601
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Olympics and Philosophy.md",
+   "words": 3
+  },
+  {
+   "n": 20,
+   "file": "ch20 - The Olympics and Philosophy.md",
+   "words": 3859
+  }
+ ],
+ "content": [
+  5,
+  6,
+  8,
+  9,
+  10,
+  12,
+  13,
+  14,
+  16,
+  17,
+  18,
+  20
+ ]
+}

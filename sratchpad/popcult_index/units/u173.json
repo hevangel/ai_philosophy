@@ -1,0 +1,227 @@
+{
+ "unit": "u173",
+ "book": "109 - Mr. Robot and Philosophy - Beyond Good and Evil Corp",
+ "part": "1/1",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\109 - Mr. Robot and Philosophy - Beyond Good and Evil Corp",
+ "range": null,
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - ii.md",
+   "words": 989
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "words": 0
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "words": 125
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Dedication.md",
+   "words": 10
+  },
+  {
+   "n": 7,
+   "file": "ch07 - vi.md",
+   "words": 43
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Contents.md",
+   "words": 275
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Thanks.md",
+   "words": 98
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Real, This Book.md",
+   "words": 399
+  },
+  {
+   "n": 11,
+   "file": "ch11 - I. We\u2019re All Living in Each Other\u2019s Paranoia.md",
+   "words": 10
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 1. The Deed of F\u2019ing Society.md",
+   "words": 2963
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 2. If I Don\u2019t Listen to My Imaginary Friend, Why the Fuck Should I Listen to Yours.md",
+   "words": 3609
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 3. Click Bait for Black Fish.md",
+   "words": 3807
+  },
+  {
+   "n": 15,
+   "file": "ch15 - II. Control Is an Illusion.md",
+   "words": 5
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 4. The End of Privacy.md",
+   "words": 3018
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 5. We Become the Grid.md",
+   "words": 4101
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 6. Who Has the Power.md",
+   "words": 3373
+  },
+  {
+   "n": 19,
+   "file": "ch19 - III. They All Think I\u2019m the Ringleader.md",
+   "words": 8
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 7. What Kind of Revolutionary Is Mr. Robot.md",
+   "words": 2861
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 8. Mr. Robot, Mad Son of Noir.md",
+   "words": 4208
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 9. What Elliot Doesn\u2019t Know Won\u2019t Hurt You (Or Will It ).md",
+   "words": 2974
+  },
+  {
+   "n": 23,
+   "file": "ch23 - IV. Politics Is for Puppets.md",
+   "words": 5
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 10. If It Isn\u2019t Justified Is It Still My Revolution.md",
+   "words": 3007
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 11. The Gods Are Dead and Elliot Has Killed Them.md",
+   "words": 2944
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 12. Why Angela Drops the Whistle.md",
+   "words": 3255
+  },
+  {
+   "n": 27,
+   "file": "ch27 - V. Power Belongs to the People Who Take It.md",
+   "words": 9
+  },
+  {
+   "n": 28,
+   "file": "ch28 - 13. How to Become a Revolutionary.md",
+   "words": 3293
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 14. Is E Corp an Evil Person.md",
+   "words": 3859
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 15. Reset Virtues.md",
+   "words": 2148
+  },
+  {
+   "n": 31,
+   "file": "ch31 - VI. Is Any of It Real.md",
+   "words": 6
+  },
+  {
+   "n": 32,
+   "file": "ch32 - 16. 0n-keeping-everyb0dy-1n-the-d4rk.docx.md",
+   "words": 3344
+  },
+  {
+   "n": 33,
+   "file": "ch33 - 17. Our Lying Eyes.md",
+   "words": 3492
+  },
+  {
+   "n": 34,
+   "file": "ch34 - 18. Psycho-Politics in a Burnout Society.md",
+   "words": 3307
+  },
+  {
+   "n": 35,
+   "file": "ch35 - 19. Please Tell Me You\u2019re Seeing This Too.md",
+   "words": 3203
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Bibliography.md",
+   "words": 918
+  },
+  {
+   "n": 37,
+   "file": "ch37 - phsociety.md",
+   "words": 1479
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Index.md",
+   "words": 1047
+  },
+  {
+   "n": 39,
+   "file": "ch39 - 231.md",
+   "words": 0
+  },
+  {
+   "n": 40,
+   "file": "ch40 - 233.md",
+   "words": 304
+  }
+ ],
+ "content": [
+  3,
+  8,
+  10,
+  12,
+  13,
+  14,
+  16,
+  17,
+  18,
+  20,
+  21,
+  22,
+  24,
+  25,
+  26,
+  28,
+  29,
+  30,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  40
+ ]
+}

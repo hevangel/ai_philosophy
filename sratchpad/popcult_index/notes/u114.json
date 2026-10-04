@@ -1,0 +1,304 @@
+{
+ "book": "068 - The Walking Dead and Philosophy - Zombie Apocalypse Now",
+ "unit": "u114",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - The Walking Dead and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - The Walking Dead and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - The Walking Dead and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - The Walking Dead and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - The Walking Dead and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Walking Dead and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Walking Dead and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "chalmers",
+    "hobbes"
+   ],
+   "concepts": [
+    "philosophical-zombies",
+    "state-of-nature",
+    "cartesian-dualism"
+   ],
+   "relation": "Editor Wayne Yuen's introduction argues that zombies are worth doing philosophy over: an apocalyptic world without government, law enforcement, or private property raises live questions about how survivors should treat one another, whether life becomes 'nasty, brutish, and short', and whether it is wrong to kill a walker. He frames walkers philosophically through Descartes's mindless human-looking automatons and David Chalmers's P-zombies, creatures functionally like us with no inner life. Morgan keeping photo albums instead of supplies in 'Days Gone Bye' shows that what we leave behind after the apocalypse is how we lived - our philosophy."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Walking Dead and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "chalmers",
+    "descartes",
+    "dennett",
+    "ryle"
+   ],
+   "concepts": [
+    "philosophical-zombies",
+    "cartesian-dualism",
+    "hard-problem",
+    "what-is-it-like"
+   ],
+   "relation": "Gordon Hawkes uses the P-zombie debate to ask whether there is something in a person no walker can eat. Rick telling Morgan over zombified Duane that 'that's just his body' voices Cartesian dualism, while Dr. Jenner's TS-19 scan - the neocortex 'you part' that never comes back - voices materialism, as does Dr. Stevens's dying claim that he is 'just evolving into a different, worse life form'. The chapter stages Chalmers's zombie argument (a molecule-identical twin with no inner experience) against Dennett's zimbo objection, with Ryle's 'ghost in the machine' marking the interaction problem for dualism, and closes on the intuition that no brain scan of Test Subject 19 reveals what the zombie fever feels like."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dennett"
+   ],
+   "concepts": [
+    "personal-identity",
+    "philosophical-zombies",
+    "hard-problem",
+    "functionalism"
+   ],
+   "relation": "Greg Littmann asks whether 'you' survive a walker bite, testing bodily identity, behaviorism, and functionalism as theories of personal survival against Jenner's verdict that after death 'everything you ever were... gone'. His centerpiece adapts Daniel Dennett: survivors yoke walkers to plows and tanks, dangle meat to move them between positions labeled 1 and 0, and gradually build a rope-and-corpse computer functionally identical to a human brain - which behaviorism and functionalism must call conscious, yet which we can conceive as utterly dark inside. The lesson is that we cannot know whether any system, walker, animal, or AI, is conscious, so treatment of non-human systems may need to err on the side of caution."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "gettier-problem",
+    "reliabilism"
+   ],
+   "relation": "Richard Greene asks what, if anything, walkers know. Rick's optimistic feeling that Lori and Carl survived turns out true, yet is not knowledge - true belief is necessary but insufficient, the gap Gettier cases exploit - and since walkers can never weigh evidence or think about their thoughts, only externalist, reliability-based accounts of knowledge can count them as knowers. Walker behavior defeats Jenner's 'mindless instinct' line: Jenny turning the handle of her old house, the little girl walker retrieving her teddy bear, a walker smashing the department store window with a rock, and the horde seeing through Rick and Glenn's gut disguise once rain washes the scent away. Zombie knowledge is real but limited to simple things recalled from the person's past, the more complex the task the less likely they know it."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aquinas",
+    "boethius",
+    "singer"
+   ],
+   "concepts": [
+    "kant-respect",
+    "speciesism",
+    "personal-identity"
+   ],
+   "relation": "Delfino and Taylor ask whether Morgan's zombified wife is still a person, which decides whether shooting her is murder. On the dominant Western view - Boethius's 'individual substance of a rational nature', Aquinas's image-of-God intellect, Kantian dignity against Singer's speciesism challenge - walkers lack intelligence and so are not persons, so Morgan should shoot. They then argue walkers are metaphysically impossible beings, square-circles: dead tissue that somehow sees, smells, and runs down prey without functioning organs, energy intake, or the reanimated neocortex that movement and sensation require. Zombies fascinate because they are projections of our fears - dead yet moving, an afterlife of horror - a Hamlet-like caught-between-being-and-nonbeing."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "kant-autonomy"
+   ],
+   "relation": "McKendry and Da Silva build a Kantian case that walkers deserve respect as 'residual humans': Rick dwelling on organ-donor Wayne Dunlap before harvesting his corpse for camouflage shows that bodies carry the dead's chosen ends, so using Wayne is honoring, not using, him. Because walkers are corpses bound by the presumptive wishes of the deceased, and retain residual subjectivity (Jenny returning again and again to her family's door), survivors wrong them by treating them as mere objects - Merle's sport killing of walkers on the rooftop is the moral low, Rick's swift, risk-accepting headshots of Hannah and Deputy Leon the respectful execution. Jim's informed choice to be left by the road to turn, over Shane's and Rick's objections, shows the autonomy of the infected that no one else may override."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - The Walking Dead and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nagel"
+   ],
+   "concepts": [
+    "what-is-it-like",
+    "personal-identity"
+   ],
+   "relation": "Dave Beisecker amplifies Noel Carroll's paradox of horror: why would anyone enjoy watching, let alone compete for, AMC's 'stagger-on role' as a repulsive walker? Curiosity fails as an answer, since by Nagel's bat argument no amount of staggering around a set tells us what it is like to be a zombie - and since zombification destroys memory, desire, and self-concern, we would not survive it as persons in any interesting sense anyway. His solution is that zombies are the endearing losers and clowns of the undead world: playing one is a way to celebrate our inner awkward nerd and laugh at universal human ineptitude, which is exactly why Kirkman's shambling walkers, unlike fast zombies or glamorous vampires, invite impersonation."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "hobbes"
+   ],
+   "concepts": [
+    "state-of-nature",
+    "locke-labor-property",
+    "social-contract",
+    "locke-natural-rights"
+   ],
+   "relation": "Jason Walker argues the zombie apocalypse is a Lockean rather than Hobbesian state of nature: rights to life, liberty, and property persist without government. Rick's 'I don't think those rules apply anymore' to Andrea over the mermaid necklace is justified by Locke's spoilage and 'enough and as good' provisos - the owner is almost certainly dead and the necklace would otherwise lie forever wasted - while Morgan's house-squatting, which protects the Thompsons' home, and Rick voluntarily sharing guns with Guillermo's nursing-home defenders show self-ownership and norms at work. The counter-cases, Chris's cannibal band ('a man's gotta eat') and the Governor, who treat persons as mere means, live out Hobbes's war of all against all and are destroyed by the Lockean right to punish that victims retain."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "feminism",
+    "gender-performativity",
+    "stoicism"
+   ],
+   "relation": "Ashley Barkman argues that feminism is unrealistic and inefficient in the apocalypse: citing sex-difference research such as Bandura's Bobo doll experiments, she claims masculine aggression and strength are what leadership requires when authority must be asserted physically, as when Rick pipes Merle and shoves Daryl, or Shane tackles Ed and Jim. The quarry laundry scenes stage the debate - Jacqui's protest at 'all the Hattie McDaniel work' versus Lori's 'this isn't about women's rights... doing what needs to be done' - and Barkman sides with Lori, treating the division of labor as survival logistics under a natural-law premise that it is moral to act according to nature. Andrea the sharpshooter and Michonne the swordswoman show women can excel as heroic exceptions without leading, and the chapter concludes leadership should stay with good men like Rick."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "butler",
+    "rorty"
+   ],
+   "concepts": [
+    "gender-performativity",
+    "feminism",
+    "heteronormativity"
+   ],
+   "relation": "Pye and O'Sullivan use Judith Butler's claim that gender is performative to read the walkers as genderless: they keep the trappings of biological sex but perform no gender, and like drag queens they 'trouble gender' when the little girl walker turns to face Rick. The survivors, by contrast, drag patriarchy along as cultural baggage - Lori telling Carl 'I'm a girl, you talk to him' while Shane teaches frogs, Ed bullying the laundry line, the men confiscating Andrea's gun while Daryl keeps his crossbow - though counter-examples (Andrea and Amy fishing for the camp, Guillermo's camp of caretaking 'vatos' led by a former custodian and a nurse, Rick teaching Andrea the safety) show gender can be learned differently. Invoking Rorty's thought that assumptions become visible only when their contradictories sound plausible, they argue survival itself demands shedding these roles, since the genderless dead threaten everyone equally."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Walking Dead and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "camus",
+    "nagel"
+   ],
+   "concepts": [
+    "the-absurd",
+    "sisyphus",
+    "camus-revolt",
+    "meaning-of-life"
+   ],
+   "relation": "Rachel Robison-Greene reads the survivors through Camus: walkers are mere digger wasps, living tedious, meaningless loops without the consciousness that would make it agonizing, but the living - Morgan longing for the real Jenny back, Andrea losing Amy - face the absurd confrontation between human longing and an indifferent universe, just like Oran in Camus's The Plague. Of Camus's options, suicide (Jacqui and Dr. Jenner staying in the exploding CDC) and religion ('GOD FORGIVE US' on the farmhouse wall) are escapist, so she offers the absurd hero: Sisyphus with his rock, Rieux with his plague, matched by Rick hunting Atlanta for his family, Merle's self-preservation, and Daryl fighting uphill with an arrow in his side. Against Nagel's ironic alternative, she argues we cheer Rick when he alone will shoot Sophia in Hershel's barn because his subjective commitments stay noble even with no objective meaning behind them."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - The Walking Dead and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "machiavelli"
+   ],
+   "concepts": [
+    "machiavelli-ends",
+    "state-of-nature",
+    "political-realism"
+   ],
+   "relation": "Si Sheppard grades The Walking Dead's three settlements by political Realism: the Governor's Woodbury - cohesive, feared rather than loved, feeding his people arena spectacle to keep them from turning on him - beats Rick's West Central Prison, which never becomes a state at all. Rick lets Tyreese's vigilante murder pass, ruling as a first-among-equals with no institutions, no constitution, and no monopoly of legitimate force in Weber's sense, then covertly guns down Thomas and Dexter while hiding behind his cop credibility - 'it's me or you' reasoning indistinguishable from Shane's. Realism cares about power, not morality, so Rick's flaw is not cruelty but the absence of institution-building: he was never a bad father, just a bad founding father, who only becomes a Realist after Alexandria falls."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "functionalism",
+   "name": "Functionalism (mental states as functional roles)",
+   "philosopher": "putnam",
+   "domain": "mind-language-metaphysics",
+   "what": "The view that mental states are defined by their causal-functional role relating stimuli, other mental states, and behavior, rather than by what they are made of.",
+   "why": "Chapter 13's entire argument about whether walkers are conscious runs through philosophical behaviorism and functionalism, and its walker-computer thought experiment is a functionalist scenario, but the taxonomy has no behaviorism or functionalism slug."
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "paradox-of-horror",
+   "name": "The Paradox of Horror",
+   "philosopher": "",
+   "domain": "kant-german-idealism",
+   "what": "Noel Carroll's puzzle (The Philosophy of Horror, 1990) that audiences voluntarily seek out horror fiction whose monsters aim to produce fear and disgust, usually answered via curiosity, discovery, and the disclosure of the categorically interstitial.",
+   "why": "Chapter 18 frames its whole question - why people compete for a 'stagger-on role' as a zombie - as an amplified version of Carroll's paradox, and the taxonomy has no aesthetics-of-horror concept to map it onto."
+  },
+  {
+   "ch": 18,
+   "type": "philosopher",
+   "suggested_slug": "noel-carroll",
+   "name": "Noel Carroll",
+   "philosopher": "",
+   "domain": "kant-german-idealism",
+   "what": "Contemporary philosopher of art whose The Philosophy of Horror (1990) defines the horror genre by 'art-horror' monsters and the paradox of horror.",
+   "why": "Chapter 18 is built directly on Carroll's account of horror monsters and the paradox, naming him and his book as its theoretical foundation, but he is absent from the taxonomy."
+  },
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "political-realism",
+   "name": "Political Realism (power over morality in statecraft)",
+   "philosopher": "machiavelli",
+   "domain": "political-social",
+   "what": "The tradition (Machiavelli, Morgenthau) holding that relations between states are governed by power, security, and survival rather than morality, that the worst state beats anarchy, and that a prince is better feared than loved.",
+   "why": "Chapter 24 evaluates Rick's prison, Woodbury, and Alexandria entirely through Realist state-formation theory (including second anarchy and war as state-builder), and no taxonomy slug captures Realism as such; machiavelli-ends only covers the ends-justify-means piece."
+  }
+ ]
+}

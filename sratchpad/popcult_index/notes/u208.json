@@ -1,0 +1,302 @@
+{
+ "book": "141 - Avatar_ The Last Airbender and Philosophy - Wisdom from Aang to Zuko",
+ "unit": "u208",
+ "chapters": [
+  {
+   "n": 26,
+   "file": "ch26 - The Proud Disabled Person as Counterstory.md",
+   "kind": "chapter",
+   "philosophers": [
+    "fricker"
+   ],
+   "concepts": [
+    "disability-philosophy",
+    "epistemic-injustice",
+    "narrative-identity"
+   ],
+   "relation": "Argues that Toph Beifong is not the harmful 'Supercrip' stereotype (an exceptional individual who overcomes disability through talent and grit, which blames ordinary disabled people for their disadvantage) but a 'Proud Disabled Person' counterstory. Her blindness is a disability gain: it led her to learn earthbending from the badgermoles, the original earthbenders, and to live immersed in bending as her constant way of navigating the world, deepening her mastery. Using Hilde Lindemann's master narratives and counterstories and Elizabeth Barnes's mere-difference view, the chapter shows Toph fits neither the 'better off dead' nor the 'irrationally happy' stereotype: she is grumpy, nuanced (adapting her teaching of Aang in 'Bitter Work'), and a central driver of the plot rather than a moral prop. Fricker's hermeneutical injustice explains why disabled viewers struggle to make sense of flourishing with a disability, and why Toph's portrait gives them permission to celebrate it."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Buck Stops Here.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mills",
+    "fricker"
+   ],
+   "concepts": [
+    "epistemic-injustice",
+    "power-knowledge"
+   ],
+   "relation": "Argues that Earth King Kuei, not Grand Secretariat Long Feng, bears the real responsibility for Ba Sing Se's fall, because he willfully maintained ignorance of the war and of his own capital's poverty so he could enjoy palace privilege, playing with his bear Bosco and never once riding the monorail among his people. The city's ring walls work as architectural exclusion that keeps the lower ring's refugees out of elite sight, while the Dai Li's brainwashing ('there is no war in Ba Sing Se', Jet's reconditioning at Lake Laogai) actively manufactures the ignorance the King depends on. Drawing on Charles Mills's epistemology of ignorance and Fricker and Medina's work, the chapter reads Kuei's 'I can't believe I never knew' as epistemic ignorance retained because knowing would cost him his lifestyle, so the buck stops with the seemingly childlike king rather than the arch-villain behind the throne."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - What Can We Learn.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha"
+   ],
+   "concepts": [
+    "four-noble-truths",
+    "yin-yang"
+   ],
+   "relation": "Argues that ATLA teaches the rejection of false alternatives by first setting up one-sided stereotypes of earth and then dissolving them: Bumi is both crazy and rational, Toph both tough and sensitive (enjoying the Fancy Lady Day Spa), and earthbending originates in love and secrecy, not rock-throwing, in the tale of Oma and Shu. The chapter explicitly imports the Buddha's first sermon's middle way between sensual indulgence and self-mortification, applying it to Aang's refusal of both killing Ozai and being killed: energybending dissolves the 'kill or be killed' framework rather than picking a side, just as Bumi's 'neutral jing' refuses both attack and retreat. Oma ending the war by building Omashu with both villages, and the compromise over Yu Dao in The Promise, are read as dissolutions of us-vs-them framing, while the duality of Sozin and Roku ('anyone's capable of great good and great evil') shows two-sidedness as the condition of Zuko's redemption."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - PART IV FIRE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Every Soul Experiences the Battle Within.md",
+   "kind": "chapter",
+   "philosophers": [
+    "confucius",
+    "xunzi",
+    "mencius"
+   ],
+   "concepts": [
+    "confucian-ren",
+    "xunzi-bad-nature",
+    "mencius-good-nature",
+    "confucian-filiality"
+   ],
+   "relation": "Reads the Fire Nation royal family as a philosophical battle between Legalism (Han Fei, taking Xunzi's dictum that human nature is evil, so order requires terrifying sanctions: Ozai burning Zuko in the agni kai so 'suffering will be your teacher', Azulon's death sentence on Zuko, the Fire Nation Oath recited in schools) and Confucianism (Iroh teaching ren, that true honor cannot be had apart from humaneness, preferring honorable begging over theft, and talking a would-be mugger into tea). Zuko's 'battle within' is the legacy of his two great-grandfathers, Sozin's Legalism versus Roku's line, and it is resolved when he disowns Ozai, calls Iroh his 'real father', and is adopted into Team Avatar, whose filial bonds (Katara's care, Hakoda's sacrifice) contrast with the scheming royal family. The chapter closes with Solzhenitsyn's image of the line between good and evil passing through every human heart to explain why Zuko's inner war resonates."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Opening Up Possibilities.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-psychology",
+    "forgiveness",
+    "personal-identity"
+   ],
+   "relation": "Argues, through Hilde Lindemann's relational account of personhood, that Zuko genuinely is all of the identities others hold him in (disappointing son, villain, ally) because being a person is a social practice of expression, recognition, and response. Aang's decision to hear Zuko out at the Western Air Temple, Iroh's stubborn refusal to accept Ozai's script for him (his anger itself recognizing Zuko as an agent capable of choosing otherwise), and Katara's historically-sensitive slow trust open up the possible future in which Zuko can become trustworthy, while the Earth Kingdom villagers' rejection of him in 'Zuko Alone' shows how weight of history and stereotype can shut possibility down. The chapter insists this is not letting wrongdoers off the hook: genuine apology, repair, and moral anger remain required (contrasting the Brock Turner case), but only a moral community that holds people in personhood makes redemption possible, so society should be arranged to give everyone the Iros and Aangs that Zuko was lucky to have."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - A Zhuangzian Sage All Along.md",
+   "kind": "chapter",
+   "philosophers": [
+    "zhuangzi",
+    "confucius"
+   ],
+   "concepts": [
+    "wu-wei",
+    "taoism"
+   ],
+   "relation": "Argues that Iroh's Book One laziness and foolishness is a Zhuangzian pose rather than genuine folly: like Zhuangzi's fictional Confucius counseling Yan Hui not to lecture the young, willful lord of Wei, Iroh never pressures Zuko directly, keeps himself unthreatening by playing the fool over tea and Pai Sho, and practices the 'use of uselessness' so he is never a tool of the prince's quest, 'singing' his wisdom only when Zuko is ready to hear it. The couple's falling out in 'Avatar Day', triggered precisely when Iroh offers explicit moral advice, confirms the strategy, since Zuko rejects both the advice and the uncle. The authors add an empirical study (Prolific participants rating clips): even viewers totally unfamiliar with the series rate Book One Iroh as wise and suspect his foolishness is strategic, supporting the interpretation that he is a Zhuangzian sage all along, and that ATLA in turn illuminates Zhuangzi's cryptic political advice."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Becoming Good at Being Good.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "korsgaard"
+   ],
+   "concepts": [
+    "dasein",
+    "korsgaard-constructivism",
+    "moral-psychology"
+   ],
+   "relation": "Argues that Zuko's cry 'Why am I so bad at being good?' after burning Toph shows that changing one's explicit self-conception (Korsgaard's practical identity, the description under which you value yourself) does not by itself change one's being-in-the-world (Heidegger): Zuko's perception, dispositions, and rage-fueled firebending still run on the residual identity of the banished prince seeking his father's approval. The chapter traces this friction through the series: releasing Appa triggers a metamorphosis fever, but he still sides with Azula at the Crossroads of Destiny; the regained 'honor' of Book Three leaves him empty ('I should be happy now, but I'm not'); and only after renouncing Ozai, apologizing to Toph, and re-learning fire from the Sun Warriors without rage do his conscious commitments and existential engagement begin to align, culminating in taking Azula's lightning for Katara. Aspiration, in Agnes Callard's sense, is thus a deep change in how one sees and feels, requiring retraining of bodily skills and practical perception, not just new stated values."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Sometimes We Can Let Go.md",
+   "kind": "chapter",
+   "philosophers": [
+    "seneca",
+    "nussbaum"
+   ],
+   "concepts": [
+    "forgiveness",
+    "stoicism",
+    "buddhism",
+    "moral-psychology"
+   ],
+   "relation": "Sets the intuition that angry blame is how we hold people responsible (Strawson; Katara's useful fury at Pakku's sexism, Iroh's 'whatever you do to that spirit, I will unleash on you tenfold') against the Senecan and Buddhist verdict that anger is greedy for revenge, and reads ATLA as modeling ways to hold people responsible without toxic anger. In 'The Southern Raiders' Katara neither forgives Yon Rha nor kills him, showing that blame can be set down when expressing it is pointless, while she forgives Zuko in Lucy Allais's 'wiping the slate clean' sense because his past betrayal no longer speaks to his present character. Iroh's handling of the mugger in Ba Sing Se ('I was never angry; I was afraid that you had lost your way') models responding to the suffering behind wrongdoing with compassion instead of blame, and Zuko's self-anger is diagnosed as hypocritical self-blame whose antidote is self-compassion: acknowledging how he himself was hurt is what finally lets him take ownership of his wrongs."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - PART V AIR.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Silent Wounds.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "power-knowledge"
+   ],
+   "relation": "Argues that the Fire Nation's empire, like the United States, was founded on genocide that national narratives erase: Sozin's extermination of the Air Nomads to remove the one check on his ambitions parallels manifest destiny and massacres of Indigenous peoples such as Sand Creek and the Wiyot killings at Tuluwat. The chapter shows erasure at work inside ATLA itself, as Gran Gran repeats Fire Nation propaganda by calling the Air Nomads 'extinct' rather than victims of genocide, and the refugees of the Northern Air Temple appropriate the annihilated people's home, identity, and sacred murals for a bathhouse. Aang's discovery of Gyatso's skeleton and his grief-block on the Avatar State are read as the 'silent wounds' of genocidal trauma, with the caveat that Guru Pathik's chakra cure is far simpler than the real, ongoing healing Indigenous communities require."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - The Anarchist You Are.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kropotkin"
+   ],
+   "concepts": [
+    "anarchism",
+    "state-of-nature"
+   ],
+   "relation": "Argues that anarchism, understood through David Graeber's consensus-based action, Noam Chomsky's demand that hierarchies justify themselves, and Kropotkin's mutual aid, runs all through ATLA even though no character calls themselves an anarchist. The Dai Li are an unjustified hierarchy that delivers Ba Sing Se to the very conquest it claims to prevent, High Monk Pasang's arbitrary rank authority over Gyatso and Aang causes the century-long catastrophe, and Zhao embodies domination justified by 'fire is the superior element', whereas justified power is self-effacing (Iroh mentoring Zuko without coercion, Katara teaching Aang waterbending). Toph's insistence that she can 'carry my own weight' in 'The Chase' dramatizes the mutual-aid lesson that letting those who love you help you is part of the cooperative human nature Kropotkin opposed to the Hobbesian view, and Zaheer in Korra, who rules by fear, shows that a chaos-bringer is no anarchist at all, while playful, communal Aang is."
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Fearlessness and Power.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha"
+   ],
+   "concepts": [
+    "buddhism",
+    "buddhist-non-self",
+    "buddhist-compassion"
+   ],
+   "relation": "Argues that Aang's energybending victory over Ozai vindicates a Buddhist conception of power against Ozai's equation of power with domination: the Lion Turtle's 'unbendable spirit' is not resistance but thorough vulnerability, achieved through the true heart (overcoming the five hindrances mapped onto Aang's sensory desire, ill will, dullness, restlessness, and doubt across the series) and the true mind (overcoming the fundamental delusion of a self separate from others, learned from Huu in 'The Swamp' and Guru Pathik). The merging of Aang's and Ozai's spirits is pictured by the metaphor of Indra's net, and Indra's own Jataka victory, halting his assault to protect eagle hatchlings and disorienting the demons, parallels Aang's refusal to win by killing. Drawing on a Zen story of the abbot who could 'be run through by a sword without batting an eye', the chapter concludes that Aang's fearlessness flows from compassion, so that weakness by Ozai's standard is precisely the power that defeats him."
+  },
+  {
+   "n": 39,
+   "file": "ch39 - Overcoming Dilemmas.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha",
+    "gandhi"
+   ],
+   "concepts": [
+    "ahimsa",
+    "buddhism",
+    "yin-yang",
+    "buddhist-compassion"
+   ],
+   "relation": "Frames Aang's conflict between his Avataric duty to restore balance even by killing Ozai and his Air Nomad duty of ahimsa as a genuine dilemma only if both obligations are non-negotiable (Tessman's negotiable and non-negotiable duties), then argues the show resolves it because Sublime Ahimsic Practice, the Four Sublime States joined to non-harm, reshapes the very conditions the dilemma rests on. Aang's cultivation of loving-kindness and his grasp of dependent origination (Huu's banyan-grove insight that everything is interconnected) keep him open to the world, which is what leads him to the Lion Turtle; energybending then lets him stop Ozai without killing, dissolving the kill-or-be-killed framework rather than choosing a horn. The Avataric role itself is read as Daoist yin-yang balance-keeping, and the chapter links Aang's triumph to the lessons of Gandhi, Martin Luther King Jr., and nonviolent movements: becoming different people changes which options the world affords."
+  },
+  {
+   "n": 40,
+   "file": "ch40 - Journey’s End and a Vision of a New Community.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha"
+   ],
+   "concepts": [
+    "buddhism",
+    "buddhist-compassion",
+    "buddhist-non-self"
+   ],
+   "relation": "Reads Aang's quest through the Karmapa Ogyen Trinley Dorje's book Interconnected: like the seventeenth Karmapa, identified at age seven and taken from his family, Aang learns that an exalted title complicates friendship and that freedom is self-control rather than the rugged individualism of the American hero's quest. Training episodes (Katara's jealous competition in 'The Waterbending Scroll', Jeong Jeong's warnings, the Toph-versus-Katara sifu debate in 'Bitter Work') show moral training as communal, widening from Team Avatar as adoptive family toward universal compassion, with Aang's refusal to open the seventh chakra illustrating how local attachment can obstruct universal love. Zuko's counter-arc from competition, isolation, and betrayal to humility, forgiveness, and contentment shows compassion turning an enemy into a friend, and the finale's simultaneous battles (White Lotus liberating Ba Sing Se, Sokka and Toph destroying the fleet) affirm that Aang wins as an 'interdependent individual', never alone."
+  },
+  {
+   "n": 41,
+   "file": "ch41 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 42,
+   "file": "ch42 - End User License Agreement.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "narrative-identity",
+   "name": "Narrative Identity (master narratives and counterstories)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Hilde Lindemann's view that identities are woven from first- and third-person stories, damaged by oppressive master narratives, and repaired by counterstories that depict a person as morally worthy.",
+   "why": "Chapter 26's whole argument (Toph as a Proud Disabled Person counterstory rather than a Supercrip) and chapter 31's argument (Zuko's redemption through being held in personhood) both run on this framework, which taxonomy.json lacks."
+  },
+  {
+   "ch": 30,
+   "type": "philosopher",
+   "suggested_slug": "han-fei",
+   "name": "Han Fei",
+   "philosopher": "xunzi",
+   "domain": "eastern-world",
+   "what": "Chinese Legalist philosopher (c. 280-233 BC) who took from Xunzi that human nature is bad and argued order requires strict laws, censure, and severe punishments under an absolute sovereign.",
+   "why": "Chapter 30 reads Ozai's Fire Nation, from the agni kai punishment to the school oath and Azula's rule by fear, as Han Fei's Legalism in action, quoting the Han Feizi throughout."
+  },
+  {
+   "ch": 30,
+   "type": "concept",
+   "suggested_slug": "legalism",
+   "name": "Legalism (fa-jia)",
+   "philosopher": "xunzi",
+   "domain": "eastern-world",
+   "what": "The classical Chinese school holding that people are selfish by nature, so social order comes from clear ranks, strict law, and harsh sanctions rather than virtue or ritual.",
+   "why": "Chapter 30 is organized as a battle between Confucianism and Legalism, and taxonomy.json has no slug for the Legalist side beyond the Xunzi tag it borrows."
+  },
+  {
+   "ch": 33,
+   "type": "concept",
+   "suggested_slug": "aspiration",
+   "name": "Aspiration (the agency of becoming)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Agnes Callard's notion of a deep, value-laden change in what a person values and who they are, pursued over time and characteristically marked by backsliding and confusion.",
+   "why": "Chapter 33 explains Zuko's 'Why am I so bad at being good?' through Callard's aspiration, and no existing taxonomy slug covers aspirational self-transformation."
+  },
+  {
+   "ch": 36,
+   "type": "concept",
+   "suggested_slug": "settler-colonialism",
+   "name": "Settler Colonialism (the logic of elimination)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Patrick Wolfe's account of colonial regimes built on eliminating and replacing Indigenous peoples, sustained by narratives that erase the founding violence as inevitable or extinct.",
+   "why": "Chapter 36's comparison of Sozin's genocide of the Air Nomads with US manifest destiny, narrative erasure, and appropriation of sacred places is framed entirely by this concept, which no taxonomy slug covers."
+  },
+  {
+   "ch": 37,
+   "type": "philosopher",
+   "suggested_slug": "kropotkin",
+   "name": "Pyotr Kropotkin",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Russian anarchist thinker (1842-1921) whose Mutual Aid argues that cooperation is an evolutionary tendency of human nature and the basis of a stateless ethics.",
+   "why": "Chapter 37 builds its account of Team Avatar's camp life and the villages of the four nations on Kropotkin's mutual aid, and taxonomy.json has an anarchism concept but no Kropotkin."
+  },
+  {
+   "ch": 37,
+   "type": "philosopher",
+   "suggested_slug": "chomsky",
+   "name": "Noam Chomsky",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Linguist and anarchist thinker (b. 1928) who holds that any hierarchy or authoritarian institution bears the burden of justifying its own existence.",
+   "why": "Chapter 37 uses Chomsky's justified-hierarchies test as its main analytic tool, from the Toph-on-the-cliffside example to the Dai Li's unjustifyable secret police."
+  },
+  {
+   "ch": 40,
+   "type": "philosopher",
+   "suggested_slug": "karmapa-ogyen-trinley-dorje",
+   "name": "Ogyen Trinley Dorje (the 17th Karmapa)",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "Contemporary Tibetan Buddhist leader whose book Interconnected develops an ethics of interdependence, compassion, self-control, and moral training within widening communities.",
+   "why": "Chapter 40 reads Aang's journey, the shared burden of exalted titles, and Zuko's repentance entirely through the Karmapa's Interconnected, a thinker absent from taxonomy.json."
+  }
+ ]
+}

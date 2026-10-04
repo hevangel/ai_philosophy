@@ -1,0 +1,463 @@
+{
+ "book": "040 - Transformers and Philosophy - More than Meets the Mind",
+ "unit": "u065",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Transformers and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Transformers and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Transformers and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Transformers and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Transformers and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "turing"
+   ],
+   "concepts": [
+    "turing-test",
+    "personal-identity",
+    "applied-ethics"
+   ],
+   "relation": "The editors' introduction frames the volume around First Contact with a robotic civilization: citing SETI's Seth Shostak, they argue aliens are more likely to be AI machines than little green men, with the Autobot-Decepticon civil war catching humans in between on a moral as well as physical plane. They pose the book's questions about Optimus Prime and Megatron: whether Transformers have moral status and minds despite passing the Turing Test, whether they have souls and are capable of Platonic or erotic love, and what makes Optimus the same being whether robot or vehicle. Probing Transformer nature, they conclude, is really probing human nature, since Transformers are our own creations."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Transformers and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Transformers and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "applied-ethics"
+   ],
+   "relation": "Hall predicts what real alien Transformers would be like: any starfaring civilization is at least Kardashev Type 1 and would send nanotechnological, shape-shifting robots rather than biological explorers, since minds upload into machine bodies and colonies go all-robot. He proposes a logarithmic 'Hall scale' of ethics, arguing that interstellar cooperation requires Level 10 morality whose expanding inclusiveness would give visitors enough concern for indigenous species to leave Earth as a nature preserve, since robots need only the matter and energy of Mercury and the outer planets, not our biosphere."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Transformers and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "turing"
+   ],
+   "concepts": [
+    "turing-test"
+   ],
+   "relation": "Shook dismantles the four assumptions behind the argument that advanced aliens would already be here (that they want to find us, that travel is easy, that visits would leave traces, and that disguised visitors must be benign), showing the Transformers scenario - a warring robotic civilization that crashes into Earth unnoticed and disguises itself as Chevys and boomboxes like Bumblebee and Frenzy - is more probable than SETI's radio-based angel-alien mythology. War, not peace, drives the technology of real civilizations, as Trailbreaker's 'Simple. Disguise!' explanation of transformation shows, so First Contact will likely be with militaristic strangers absorbed in their own conflicts, not missionaries."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Transformers and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Transformers and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "merleau-ponty",
+    "descartes",
+    "berkeley",
+    "husserl"
+   ],
+   "concepts": [
+    "embodiment",
+    "phenomenology",
+    "cartesian-dualism"
+   ],
+   "relation": "Using the hidden sides of Transformers - a robot inside a Camaro, a tank inside a robot - the authors stage the philosophy of perception: Descartes's innate geometrical rules and Berkeley's bodily cross-referencing both fail to explain how Sam Witwicky can know the steelyard robot is his Camaro, while Merleau-Ponty's embodied account of focus, background, and 'indeterminate vision' explains it through the perceiver's lived body. They extend this to the 'Autobot Spike' mind-transfer episode and to CGI: virtual Transformers on screen feel hollow because light-created images have no hidden surfaces for our bodies to investigate and grasp."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Transformers and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "locke",
+    "thomson",
+    "aquinas"
+   ],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity",
+    "aristotle-soul",
+    "aristotle-potentiality"
+   ],
+   "relation": "Spicher argues that when Bumblebee trades his beat-up 1976 Camaro for a shiny 2007 model only his appearance changes (an accidental change), never his identity, because transforming is part of a Transformer's essence like a human wearing a mask. Locke's memory continuity and Thomson's bodily criterion each fail - the embryo, coma, and corpse problems, plus the thought experiment of Megatron's memories transplanted into another body - so he defends an Aristotelian composite of form and matter in which the Spark is the soul-like form organizing the machine body, preserving identity through transformation as form guides matter toward actuality."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Transformers and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "skepticism"
+   ],
+   "relation": "Steiff reads the 2007 movie as a sustained lesson in perceptual error: Sam's Porsche disappointment at the dealership, the parents' 'earthquake' misperception, and the Camaro that no one at Bobby B's lot suspects show that we see what context, expectation, and conditioning (the kitten experiments) lead us to see. She distinguishes illusion - misperceiving an object really present, as Sam misperceives Bumblebee as just a car - from hallucination, and weighs direct realism against representative realism's 'veil of perception' using film tricks from Melies's jammed camera to the Lumiere brothers' panic-inducing train, leaving Sam's knowledge resting on fallible but indispensable sense experience."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Transformers and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Transformers and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "searle",
+    "turing",
+    "descartes"
+   ],
+   "concepts": [
+    "chinese-room",
+    "turing-test",
+    "cartesian-dualism",
+    "problem-of-other-minds"
+   ],
+   "relation": "Pike asks what the All Spark's zap would have to do to give brought-to-life vending machines and steering wheels genuine minds, testing logical behaviorism's dispositions and Turing's conversation test against Searle's Chinese Room ('syntax is insufficient for semantics'), and weighing Descartes's God-given soul against physicalist alternatives: functionalism, Searle's biological naturalism, and reductive physicalism. Since we can never access another mind from the inside, he concludes that by abductive inference to the best explanation - Optimus Prime's mourning, planning, and moral decision-making being too complex for mere programming - we have as much reason to credit a Transformer with a mind as any human around us."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Transformers and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-soul",
+    "aristotle-virtue-ethics",
+    "immortality"
+   ],
+   "relation": "Eyestone argues Transformers are genuinely alive with souls by applying Aristotle's De Anima: self-motion, perception, and intellect fit Ratchet (who tells Buster 'I'm a machine, and I hear you!'), and even the troublesome nutritive faculty is secured, since Energon ingestion, agelessness, and building each other suit naturally immortal, semimortal beings whose reproduction resembles Primus's creation. He extends arete to machines - Megatron has the excellence of a military leader but not of a person, while Optimus's chosen, trained goodness (Grimlock's 'Autobot training,' the Aerialbots' decision in 'War Dawn') makes him virtuous - and answers his title question 'why not?', since Aristotle's mortal soul gives Transformers no worse a shot at heaven than we have."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Transformers and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-psychology"
+   ],
+   "relation": "A fictional five-session counseling narrative in which a burned-out Optimus Prime - running out of gas, embarrassed by 'WASH ME' written in his own dirt - secretly sees therapist Dr. Sara Sawyer. Through the empty-chair technique he speaks to the dead Jazz, admitting the survivor guilt of a leader who was fighting Megatron when Jazz fell, and confesses the night he nearly smashed a human teenager's car mistaken for a Decepticon; the Miracle Question helps him imagine peace. The dialogue dramatizes an internal transformation: the machine learns to name grief, anger, and sadness, admit mistakes to his team, and take R and R - in the authors' phrase, becoming more human."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Transformers and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Transformers and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "applied-ethics"
+   ],
+   "relation": "Arp defines personhood through five capacities (rationality, robust mental states, genuine language rather than information transmission, social relationships, and free autonomous action) and argues Transformers meet them all: Bumblebee's homing-signal syllogism, Frenzy's Air Force One hack, Megatron's curses when foiled, and Optimus's fatherly bond with Sam. A thought experiment of gradually replacing a man's brain, then body, with silicon shows that cognitive capacities, not carbon, make a person, so deceiving Decepticons are morally responsible persons who deserve blame and 'robot jail' rather than the scrapping reserved for mindless machines."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Transformers and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "kant",
+    "zeno-citium",
+    "empedocles"
+   ],
+   "concepts": [
+    "platonic-love",
+    "aristotle-friendship",
+    "stoic-cosmopolitanism",
+    "kant-respect"
+   ],
+   "relation": "Watson and Arp ask whether Ironhide and Chromia's embrace means Autobots can love, rejecting programmed loving behavior, implanted souls, and wired-in human brains as insufficient for genuine personhood, then sort Transformer relationships into Western conceptions of love. Empedoclean cosmic Love and Strife map onto Primus versus Unicron; Platonic philia ascends to the Form of Beauty, with Transformer souls originating in and returning to the All Spark; Aristotle's three friendships separate Optimus and Sparkplug's virtue-friendship from Megatron and Starscream's mere utility; and Stoic-Kantian equal love explains Autobots saving Decepticons who immediately try to kill them, alongside Christian agape in Autobot family bonds."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Transformers and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Transformers and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "hobbes",
+    "ayn-rand"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "kant-humanity-formula",
+    "moral-egoism"
+   ],
+   "relation": "Michaud reads the Autobot-Decepticon war as a contest of ethical systems: Optimus's fair fighting, his refusal to ignore human casualties, and Bumblebee's friendship with the inferior Spike instantiate Kant's categorical imperative and the treatment of rational beings as ends in themselves. The Decepticons run through the egoist tradition - Hobbes's psychological egoism from Leviathan, Starscream's self-defeating normative egoism, and Megatron as Ayn Rand's rational egoist taunting 'You still fight for the weak; that is why you lose' - leaving the reader to choose between Kant's world of peaceful obligation and Rand's world of power where, like Starscream, you die alone."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Transformers and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "plato"
+   ],
+   "concepts": [
+    "master-slave-morality",
+    "ubermensch",
+    "moral-relativism"
+   ],
+   "relation": "Barkman takes the 1986 movie poster's 'Beyond Good. Beyond Evil.' as a Nietzsche allusion and argues the cartoon refutes it: Skyfire's 'It is wrong,' Orion Pax's repudiation of admired power in 'War Dawn,' and Optimus's humble 'Thrones are for Decepticons' make Megatron a would-be superman and villain while Optimus is a Platonic guardian of a universal moral law binding even Unicron and the Quintessons. A reductio against cultural relativism (the Decepticon invasion of Earth, First Aid's failed pacifism in 'The Ultimate Weapon') plus C.S. Lewis-style archetypes explain why Optimus - a Christ-type who died saving the world - endures while GoBots do not."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Transformers and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "joseph-campbell"
+   ],
+   "concepts": [
+    "virtue-ethics"
+   ],
+   "relation": "Neil maps Optimus Prime onto Joseph Campbell's hero's journey: the naive dock worker Orion Pax is deceived and nearly killed by Megatron, rebuilt by the ancient Primus as the first Autobot, and raised to leadership through the four stages of separation, trials, supernatural aid, and return. Evolutionary 'group-fitness' psychology explains why children wept at his 1986 death, and his cooperative coaching-style leadership is cataloged episode by episode - honoring the duel he lost to Megatron's cheating in 'Heavy Metal War,' refusing to condemn Mirage without evidence, exposing the evil clone by insisting on rescuing Spike, and turning Omega Supreme from revenge to save San Francisco before his sacrificial passing of the Matrix."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Transformers and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Transformers and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "william-james"
+   ],
+   "concepts": [
+    "fascism"
+   ],
+   "relation": "Shook diagnoses Megatron through William James's expansive, possessive self turned pathological: a megalomaniac whose self encompasses everything and who must control it all ('My hunger for power!', 'Compassion is for fools!'). Reconstructing Megatron's pronouncements into a 'philosophy of Strength' - might makes right, perpetual war against the weak, 'Peace through tyranny' echoing Orwell - he identifies it as fascism on the model of Hitler and Mussolini's perpetual-war state, against which Optimus's cooperative 'till all are one' Community is not a rival regime but an ethical ideal that only we can put into practice."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Transformers and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "searle",
+    "turing",
+    "dennett"
+   ],
+   "concepts": [
+    "chinese-room",
+    "turing-test",
+    "applied-ethics",
+    "philosophical-zombies"
+   ],
+   "relation": "Koepsell accepts that Autobots are virtuous and Decepticons vicious, then asks whether ethical war-bots are even possible, using the military's autonomous-weapons program, Asimov's Three Laws, and a kitten-sensing washing machine to argue that designed-in 'ethics' is only the designer's morality, like A Clockwork Orange's conditioned Alex, because it involves no real choice. Searle's Chinese Room and Turing's test then cast doubt on whether any mind, even our own, makes genuinely free choices, so he concludes that the appearance of virtue - behavior that reliably works - is all we ever have for humans or Autobots alike, and we should build machines as well as Optimus Prime and Bumblebee."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Transformers and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "foot"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia",
+    "aristotle-virtue-ethics",
+    "aristotle-practical-wisdom",
+    "locke-natural-rights"
+   ],
+   "relation": "Plauche grounds Optimus Prime's line 'Freedom is the right of all sentient beings' in 'Aristotelian liberalism': since Energon, like our food, is scarce and requires labor and creativity, any volitional artificial life needs a moral code whose standard is flourishing (following Foot's natural goodness), cultivating intellectual and moral virtues from prudence, independence, and honesty to benevolence and courage. Ricardo and Mises's law of association - illustrated by Ratchet and a human mechanic both profiting from specialization despite Ratchet's absolute superiority - plus the ruinous cost of war give even superior aliens reason to respect our rights to life, liberty, and property rather than enslave or exterminate us, as Megatron would."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Transformers and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Transformers and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 9,
+   "type": "concept",
+   "suggested_slug": "mind-uploading",
+   "name": "Mind Uploading",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The proposed transfer or copying of a human mind from a biological brain onto a computer substrate, producing an uploaded, non-biological person.",
+   "why": "Chapter 9 claims advanced civilizations become robotic because the most adventurous members upload their minds into machine bodies, making all-robot starfaring colonies the likeliest source of Transformer-like visitors."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "fermi-paradox",
+   "name": "The Fermi Paradox",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The tension between estimates that many extraterrestrial civilizations should exist and the complete absence of any observed evidence that they have visited or contacted Earth.",
+   "why": "Chapter 10's core argumentative move is refuting the four assumptions behind the 'if aliens existed they would already be here' reasoning, which is precisely the Fermi-paradox style argument the Transformers scenario escapes."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "representative-realism",
+   "name": "Representative Realism (indirect realism)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The view that we perceive the external world only indirectly, through internal mental representations or sense data that mediate between mind and world.",
+   "why": "Chapter 14 organizes Sam's misperception of Bumblebee around the dispute between direct realism and this representative view, treating the Transformers' disguises as a sustained argument from illusion."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "problem-of-other-minds",
+   "name": "The Problem of Other Minds",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The skeptical puzzle that, since we only ever observe others' outward behavior, we can never verify that anyone or anything besides ourselves genuinely has a mind.",
+   "why": "Chapter 16's guiding question is whether we can ever know that Optimus Prime has a mind rather than merely acts as if he has one, which is the problem of other minds extended to machines."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "moral-personhood",
+   "name": "Moral Personhood",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The cluster of capacities (rationality, mental states, language, social relationships, autonomous action) that qualify a being as a person who can be held morally responsible.",
+   "why": "Chapter 20 builds its entire case that Decepticons deserve blame and punishment on defining these personhood criteria and showing Transformers meet them despite metal bodies."
+  },
+  {
+   "ch": 21,
+   "type": "philosopher",
+   "suggested_slug": "empedocles",
+   "name": "Empedocles",
+   "philosopher": "",
+   "domain": "ancient",
+   "what": "Presocratic Greek philosopher (c. 492-432 BC) who saw Love and Strife as the two cosmic forces that respectively unite and separate the elements in an endless cycle.",
+   "why": "Chapter 21 uses Empedocles's Love-and-Strife cosmology as its first conception of love, mapping the generative Primus and the destructive Unicron onto its two poles."
+  },
+  {
+   "ch": 23,
+   "type": "philosopher",
+   "suggested_slug": "ayn-rand",
+   "name": "Ayn Rand",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Twentieth-century novelist-philosopher of Objectivism, holding that rational self-interest is the only moral standard and that altruism is a disservice to both helper and helped.",
+   "why": "Chapter 23 stages Megatron as a Randian rational egoist whose 'You still fight for the weak; that is why you lose' is set directly against the Kantian duty of the Autobots."
+  },
+  {
+   "ch": 24,
+   "type": "philosopher",
+   "suggested_slug": "carl-jung",
+   "name": "Carl Jung",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Swiss psychologist and founder of analytical psychology who proposed a collective unconscious populated by universal archetypes shared across myths and cultures.",
+   "why": "Chapter 24 invokes Jung's universal archetypes (with C.S. Lewis and Joseph Campbell) to explain Optimus Prime as an archetypal noble leader and Christ-type whose mythic resonance outlasts mere toy marketing."
+  },
+  {
+   "ch": 25,
+   "type": "philosopher",
+   "suggested_slug": "joseph-campbell",
+   "name": "Joseph Campbell",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Mythologist whose 'hero with a thousand faces' monomyth describes the universal pattern of separation, trials, supernatural aid, and return found in hero legends worldwide.",
+   "why": "Chapter 25 argues Optimus Prime is a classic hero by mapping his Orion Pax origin, betrayal by Megatron, and rebirth by Primus onto Campbell's four-stage hero's journey."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "fascism",
+   "name": "Fascism",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "A militaristic political philosophy holding that a supreme leader must perpetually unify and mobilize the people for war, demanding absolute obedience, crushing dissent, and glorifying strength over the weak.",
+   "why": "Chapter 27 diagnoses Megatron's 'Peace through tyranny' and philosophy of Strength as fascism in the mold of Hitler and Mussolini, set against the Autobots' cooperative Community ideal."
+  },
+  {
+   "ch": 28,
+   "type": "concept",
+   "suggested_slug": "asimov-three-laws",
+   "name": "Asimov's Three Laws of Robotics",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Isaac Asimov's fictional hierarchical robot code: a robot may not harm a human, must obey humans, and may protect itself, each rule subordinate to the previous.",
+   "why": "Chapter 28 argues the Three Laws are merely good design expressing the programmer's intentions, not machine morality, using the kitten-protecting washing machine and A Clockwork Orange's Alex as analogies."
+  },
+  {
+   "ch": 29,
+   "type": "concept",
+   "suggested_slug": "comparative-advantage",
+   "name": "The Law of Association (comparative advantage)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Ricardo's economic law, generalized by Mises, that even a party superior in every activity gains from specialization and trade, making cooperation mutually beneficial.",
+   "why": "Chapter 29 uses the law - via a numeric example of Ratchet trading with a human mechanic - to argue that even all-superior alien robots have material reasons to trade with and respect humans rather than enslave them."
+  }
+ ]
+}

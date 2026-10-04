@@ -1,0 +1,191 @@
+{
+ "book": "161 - Family Guy and Philosophy - A Cure for the Petarded",
+ "unit": "u442",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Front matter.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - You Better Not Read This, Pal An Introduction to Family Guy and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "philosophy-of-humor"
+   ],
+   "relation": "Wisnewski's mock-hostile introduction argues that Family Guy is 'both really deep and really stupid': the show's vulgarity (Stewie's matricidal schemes, Quagmire's perversions, jokes about religion and disability) occasions genuine insight into the human condition. Its central claim is that the show's offense is exactly what we need, because being forced to laugh at what we hold sacred demands that we account for ourselves and admit our commitments may not be necessary. The introduction thereby defends the very project of doing philosophy on a cartoon, including 'the aesthetics of the fart joke.'"
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Part I Those Good Ole' Fashion Values on which we used to rely.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Killing the Griffins A Murderous Exposition of Postmodernism.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard",
+    "lyotard",
+    "foucault"
+   ],
+   "concepts": [
+    "simulacra",
+    "grand-narratives",
+    "power-knowledge"
+   ],
+   "relation": "Wisnewski stages a mock murder of the Griffin family to argue that Family Guy 'oozes the postmodern.' Baudrillard's Disneyland analysis explains why the Griffins are dangerously real: they know they are cartoons (the 'we've been cancelled' scene listing failed Fox shows), so their family is no less real than ours, which is likewise modeled on TV images. Lyotard's 'incredulity toward meta-narratives' is embodied in the show's joke-about-everything: the Petoria episode mocking the UN and dictators (Milosevic, Hussein, Khadafi) who party over Seinfeld. The chapter's twist is that Foucault's power/knowledge rescues postmodernism from cynicism: labeling Quagmire a 'pervert' situates him in power relations, but like Socrates, Jesus, Buddha, and Gandhi, deviants may just act uniquely, so we can be cynics about grand stories yet still fight locally (against the FCC, for tolerance)."
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Family Guy and God Should Believers Take Offense.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aristotle"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "aristotle-golden-mean"
+   ],
+   "relation": "VanArragon, a believer and fan, compares Family Guy's religious mockery (Peter asking at communion whether Christ was 'wasted 24 hours a day', God hitting on women in a bar, the pope left dangling from a statue, the fake Passion of the Christ II trailer) with The Simpsons' gentler treatment (dream-God, Barney's innocent blunders), finding Family Guy deliberately offensive without tact or sympathy. He tests two defenses: Kant's requirement to treat people as ends rather than means (mocking believers for laughs uses them as mere means) and Aristotle's virtue of moderation in laughter (the show pushes toward the extreme of nothing-is-sacred, unlike Gary Larson's Far Side). Conceding the show raises real questions (transubstantiation, God's gender, Stewie finding God 'deliciously evil' in the Old Testament), he concludes the offense is not justified by any benefit, yet the portrayals are so absurd that believer-fans do not actually laugh at God and need not take offense."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Quagmire Virtue and Perversity.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-golden-mean",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "Miller uses Aristotle to assess whether Quagmire's sex obsession is a vice. Eudaimonia, not the fleeting pleasure of 'giggity-giggity', is the telos of action, and Quagmire aims at pleasure, so he is not flourishing; Aristotle's dissipated person, pained by absent pleasures, 'must have been thinking of Quagmire.' The Cleveland-Loretta-Quagmire affair episode ('The Cleveland-Loretta Quagmire') supplies paradigm cases of the Golden Mean: Cleveland first shows a deficiency of anger (apologizing to his cheating wife) then an excess (near-homicide), while Quagmire's boxing match shows courage between rashness and cowardice. On temperance, Quagmire is a slave to his sex drive (roofies, the diary 'Jackpot'), yet the chapter ends by defending him: he cares for Joan, distracts the social worker to rescue Stewie, and is honest about his passions, making him 'the most virtuous pervert he can be.'"
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Francis Griffin and the Church of the Holy Fonz Religious Exclusivism and Real Religion.md",
+   "kind": "chapter",
+   "philosophers": [
+    "clifford",
+    "william-james",
+    "plantinga"
+   ],
+   "concepts": [
+    "ethics-of-belief",
+    "will-to-believe",
+    "sorites-paradox"
+   ],
+   "relation": "Johnson argues that Francis Griffin's Catholic exclusivism (condemning Lois the Protestant to purgatory, calling Meg a harlot, founding Peter's Church of the Holy Fonz an 'abomination') is unjustified and immoral. Using Plantinga on exclusivism and a Quagmire-style inductive argument ('SHiTE' — Scripture, Historical tradition, religious Experience — leads rival religions to incompatible truths, so it is an unreliable witness like Quagmire's false alibis), he holds that no one's religious beliefs are adequately justified. Weighing Clifford's ethics of belief (the unseaworthy ship) against James's will to believe, he concludes one may hold beliefs without evidence but may not harm others or forcibly evangelize on their basis. The heap/sorites puzzle shows no criterion marks Fonzieism as an 'unreal' religion — Peter's founding experience parallels Joseph Smith's — so the moral is religious acceptance: disagree freely, but keep your SHiTE to yourself."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Part II Lucky there's a family guy! (And what a family!).md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Let Us Now Praise Clueless Men Peter Griffin and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "hobbes",
+    "nagel"
+   ],
+   "concepts": [
+    "unexamined-life",
+    "philosophy-of-humor"
+   ],
+   "relation": "Samet analyzes Peter's cluelessness through the 'I Need a Jew' song from 'When You Wish Upon a Weinstein', where Peter eagerly embraces stereotypes and anti-Semitic cliches with no reflection — making him the antiphilosopher, a paradigm of Socrates' unexamined life not worth living. Borrowing Berenson on Giotto, he argues Family Guy, like great painting, gives us a 'realer than real' window on the unreflective, stimulus-response layer of our own cognition (the toddler clinging at day care, the Onion kitten 'thinking of nothing but murder'). Hobbes's theory of laughter as 'sudden glory' at deformity in another explains why Peter's fictional cluelessness is funny while real deformity evokes sympathy: comedy lets us glory that 'there but for reflection go I.' Finally, philosophy's Nagelian 'view from nowhere' totality is inherently unfunny because humor lives in the sheer particularity of experience."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Lois Portrait of a Mother (Or, Nevermind Death, Motherhood is a Bitch).md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "care-ethics",
+    "feminism",
+    "virtue-ethics",
+    "maternal-thinking"
+   ],
+   "relation": "Empey frames mothering (following Sara Ruddick's 'Maternal Thinking') as a disciplined response to a child's demands of preservation, growth, and social acceptability — even for a matricidal psychopath like Stewie. Lois cultivates the virtues of prudence (safeguarding the Rainy Day Fund against Peter's volcano insurance), tolerance, and peacefulness (enduring Stewie's lamp blows and Peter's laziness; her two Christmas and 'Lethal Weapons' violent eruptions are cured by appeals to her motherhood). The chapter then turns political: drawing on Okin, Williams, and Hays, it shows mothers' vulnerability by marriage, the incompatibility of the 'ideal worker' and 'intensive mother' models, and Peter's devaluing of Lois's theater directing. Peter's basement bar, where Lois sings nightly while minding the kids, models the institutional coordination (family plus economy) mothers need — until Peter's jealousy wrecks it."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Mmmyez Stewie and the Seven Deadly Sins.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "aquinas",
+    "freud"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "oedipus-complex",
+    "original-sin"
+   ],
+   "relation": "Kaye argues Stewie is funny because he portrays a truth we repress: Augustine's doctrine of original sin (defended as the only answer to why God lets the innocent suffer, and grounded in the pear-tree and jealous-infant episodes of the Confessions) — no one is innocent, not even babies. Systematically cataloging Stewie through Aquinas's Seven Deadly Sins, she shows lust (the Rupert-the-gay-teddy-bear projection, 'wee-wee stricken with rigor mortis', inverting Freud's Oedipal complex since Stewie hates his mother and barely tolerates his father), gluttony (hoarding Lois's breast milk, an orgy of fig newtons), sloth as Aquinas's 'oppressive sorrow' and malicious indignation ('Why don't you burn in hell?'), avarice, anger as revenge (bombs and graham crackers), envy (locking Jeremy in the car trunk), and pride, the Queen of Vices — Stewie's god complex ('Omnipotence. Gotta get me some of that'). Stewie's lone possibly-decent moment (warning Brian not to mock upside-down Jake Tucker's face) is left as the one loose thread."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Other Children The Importance of Meg and Chris.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "sartre"
+   ],
+   "concepts": [
+    "bad-faith",
+    "situationism",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Dohnimm argues Meg and Chris matter because they lack essence: unlike predictable one-gag characters (pervert Quagmire, homicidal Stewie), their traits are accidental — Meg stays Meg after her 'Don't Make Me Over' makeover, Chris stays Chris despite flashes of artistic talent. On Aristotle's Nicomachean Ethics, character (hexis) explains action, but Meg and Chris are inexplicable (Chris hitting on his mother, claiming 'My dad is smarter than your dad' when they share one). The Isen and Levin dime-in-the-phone-booth helping experiment grounds the situationist alternative: tiny situational factors, not character, predict helping — Quagmire is predictable, but Chris (speaking hip-hop, covering himself in honey for ants) is not. Finally, Sartre's bad faith reframes them: appealing to fixed character is fleeing our radical freedom, so the 'anti-characters' Meg and Chris are the show's most realistic and philosophically honest figures."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 7,
+   "type": "concept",
+   "suggested_slug": "sorites-paradox",
+   "name": "The Sorites Paradox (vagueness)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The heap paradox: adding or removing single grains never seems to turn a non-heap into a heap, yet heaps exist, suggesting there is no sharp boundary for vague predicates.",
+   "why": "Chapter 7 deploys the pile/heap puzzle to argue there may be no objective criterion distinguishing 'real' from 'unreal' religions, leaving Fonzieism a borderline case."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "maternal-thinking",
+   "name": "Maternal Thinking (Sara Ruddick)",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Sara Ruddick's account of mothering as an intellectual discipline responding to a child's demands for preservation, growth, and social acceptability, from which virtues like prudence, tolerance, and peacefulness are cultivated.",
+   "why": "Chapter 10's entire framework — mothering as a discipline like math or science, with its own standards of truth and virtues — is Ruddick's theory, cited repeatedly, and no existing slug captures it."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "original-sin",
+   "name": "The Doctrine of Original Sin",
+   "philosopher": "augustine",
+   "domain": "religion-meaning",
+   "what": "Augustine's doctrine that all humans are born with evil in their hearts, developed from the Confessions' pear-tree and jealous-infant observations and serving as an answer to why God lets the innocent suffer.",
+   "why": "Chapter 11's central thesis is that Stewie vindicates original sin — we laugh at the evil baby because it is true about all children — and taxonomy has Augustine's City of God, time, and divided will but not this doctrine."
+  }
+ ]
+}

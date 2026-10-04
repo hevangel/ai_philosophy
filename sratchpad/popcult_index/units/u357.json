@@ -1,0 +1,37 @@
+{
+ "unit": "u357",
+ "book": "242 - Joss Whedon as Philosopher",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\242 - Joss Whedon as Philosopher",
+ "range": [
+  8,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 8,
+   "file": "ch08 - Conclusion.md",
+   "words": 6363
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Bibliography.md",
+   "words": 1926
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Index.md",
+   "words": 1293
+  },
+  {
+   "n": 11,
+   "file": "ch11 - About the Author.md",
+   "words": 146
+  }
+ ],
+ "content": [
+  8,
+  9,
+  10
+ ]
+}

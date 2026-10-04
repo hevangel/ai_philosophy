@@ -1,0 +1,140 @@
+{
+  "book": "039 - Jimmy Buffett and Philosophy - The Porpoise Driven Life",
+  "unit": "u063",
+  "chapters": [
+    {
+      "n": 2,
+      "file": "ch02 - Jimmy Buffett and Philosophy.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 3,
+      "file": "ch03 - Popular Culture and Philosophy Series Editor George A. Reisch.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 4,
+      "file": "ch04 - Title Page.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 5,
+      "file": "ch05 - Jimmy Buffett, Cultural Infidel.md",
+      "kind": "chapter",
+      "philosophers": ["dewey", "plato"],
+      "concepts": ["pragmatism", "dewey-experience", "meaning-of-life"],
+      "relation": "The editors argue Buffett is a philosopher despite his own denials, in the sense of Royce and Dewey: philosophy is critical reflection on living that returns to ordinary experience, and Buffett's songs, books, and concerts pass Dewey's test of rendering everyday predicaments 'more significant, more luminous, more fruitful.' They compare 'Margaritaville' to Plato's Republic — not equal in pedigree but equal in kind as occasions for philosophical practice — to defend meaning-making as a democratic practice open to Parrotheads, not just professors. Reading the album 'Changes in Latitudes, Changes in Attitudes' as a guide, they set Buffett's 'Porpoise Driven Life,' where purpose is found by sailing your own waters in the company of friends, against Rick Warren's revelation-based 'Purpose Driven Life.'"
+    },
+    {
+      "n": 6,
+      "file": "ch06 - Coral Reefer Reason.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 7,
+      "file": "ch07 - That’s His Story and He’s Stickin’ to It.md",
+      "kind": "chapter",
+      "philosophers": ["epicurus", "diogenes-cynic"],
+      "concepts": ["epicurean-pleasure", "cynicism"],
+      "relation": "Aaron Pratt places Buffett's 'island escapism' in the lineage of the ancient 'graceful life' philosophies: like Diogenes the Cynic, Buffett flouts social convention (pirates over Civil War generals, the beach over the rat race, 'Be good and you will be lonesome'), and like Epicurus he preaches pleasure with prudence rather than mere indulgence. 'Cheeseburger in Paradise' becomes Epicurus's command to know what you want and go get it, while the hung-over confession of 'Margaritaville' — 'I know it's my own damn fault' — supplies the Epicurean proviso that overindulgence ruins the pleasure it promises. The chapter closes by arguing that counter-cultures like Parrotheadism carry built-in safety features: careers and families force Epicurean prudence, keeping escapism a periodic liberation rather than social collapse."
+    },
+    {
+      "n": 8,
+      "file": "ch08 - Too Much Tequila, Or Not Quite Enough.md",
+      "kind": "chapter",
+      "philosophers": ["seneca", "emerson", "thoreau"],
+      "concepts": ["stoicism", "dichotomy-of-control"],
+      "relation": "Doug Anderson reads Buffett as an 'American Stoic' — unlike his friend the Cynic Hunter S. Thompson, who dropped out and died, Buffett accepts his fated world of competitive capitalism and controls the one thing Stoics say we can: his own attitudes, 'changes in latitudes, changes in attitudes.' He leans on Seneca's advice to Serenus that wine and dreaming liberate the mind ('drink washes cares away') to interpret the dialectic of dreaming and drinking in 'Margaritaville,' 'Five o'Clock Somewhere,' and 'License to Chill' as Stoic self-renewal — the margarita even frees the singer to admit his own fault — with Emerson's intoxication-speaking poet as the American model. Excess is the failure mode: the expatriates of 'Banana Republics' who mistake the dream for an end state and Buffett's late-thirties hangover reckoning mark the Stoic middle path between deadening routine and 'too much tequila.'"
+    },
+    {
+      "n": 9,
+      "file": "ch09 - Jimmy Buffett “Singer of Inordinate Tunes” and Heideggerian Troubadour.md",
+      "kind": "chapter",
+      "philosophers": ["heidegger", "levinas", "augustine"],
+      "concepts": ["thrownness", "being-toward-death", "authenticity"],
+      "relation": "Drew Dalton takes Buffett's claim that 'we don't just enjoy our escapism — we NEED it' as an admission that being itself is burdensome, overturning the Plato–Augustine–Leibniz consensus that it is good to be. Since 'Margaritaville is nowhere' — it is on no map and can never be reached — what we long for is not a better vacation but release from having to be at all, which is why even on holiday in Key West we still dream of escape. Heidegger's Being and Time supplies the framework: thrownness, being-toward-death, anxiety, and guilt reveal existence as a weight we never chose, so the escapist longing to be otherwise than ourselves is the 'inauthentic' flight Heidegger describes (without moral condemnation), and Levinas's On Escape confirms that 'it is precisely from all that is weighty in being that escaping sets forth.'"
+    },
+    {
+      "n": 10,
+      "file": "ch10 - “Trip Around the Sun”.md",
+      "kind": "chapter",
+      "philosophers": ["william-james", "thoreau", "russell"],
+      "concepts": ["pragmatism", "will-to-believe"],
+      "relation": "Phil Oliver pairs Buffett with William James: both hold that philosophy is 'not a technical matter' but each person's sense of what life deeply means, had in non-verbal moments of elevation as much as argued in words. The chapter's core is James's 'moral holiday' — a morally legitimate respite from care and struggle — naturalized in Buffett's 'License to Chill' and 'Trip Around the Sun' ('it's good to know it's out of my control'), joined by James's lightness about error from 'The Will to Believe' and Russell's and Dawkins's responses to cosmic annihilation. Against those who hear mere hedonism, Oliver insists Jamesian holidays are care-free but never care-less: like Thoreau's 'live deliberately' echoed in 'Growing Older But Not Up,' they renew us for the return to work, and James's ambivalence about alcohol in The Varieties of Religious Experience mirrors the risk of Buffett's frozen concoctions."
+    },
+    {
+      "n": 11,
+      "file": "ch11 - Parrotology.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 12,
+      "file": "ch12 - “Livin’ It Up”.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": [],
+      "relation": "Amanda Feller reads Buffett's life and lyrics through Jack Mezirow's transformative learning theory: a disorienting dilemma (the Holiday Inn has-been singer, the 1994 seaplane crash, the near-divorce) unhinges one's compass, and growth requires disorientation, framed exploration of one's governing assumptions, and re-orientation. She reads the arc of 'Margaritaville' — 'I know it's nobody's fault' to 'hell, it could be my fault' to 'my own damn fault' — as exactly this movement, and Buffett's post-crash fly-fishing for the small bass as embodied, whole-self reflection through which he 'rediscovered his saline psyche.' The chapter's sharpest warning is that escapism is not transformation: the blogger who moved to the beach found that no matter where you go, there you are, because only introspection, not a change of venue, transforms."
+    },
+    {
+      "n": 13,
+      "file": "ch13 - “When the Coast is Clear”.md",
+      "kind": "chapter",
+      "philosophers": ["kant"],
+      "concepts": ["kant-perpetual-peace", "cosmopolitanism-ethics"],
+      "relation": "Celia Bardwell-Jones asks how Parrothead tourism can be ethical when mass-market tourism walls the Caribbean inside an 'environmental bubble' of consumption — the 'ugly, stupid' tourist of Jamaica Kincaid's Antigua who never encounters the toured other as a fellow agent. Kant's Perpetual Peace sets the standard of hospitality, the stranger's right not to be treated as an enemy, and the chapter asks what duties fall on the traveler in return when tourist industries pressure host cultures 'not to be so damn foreign.' Buffett's novel A Salty Piece of Land supplies the alternative: Tully Mars is saved from free-floating survival when he drops anchor in the relationship with Cleopatra Highbourne — the 'song of the ocean' meeting 'a salty piece of land' — so that escape is redeemed by home, boundary-crossing, and self-reflection with culturally different others."
+    },
+    {
+      "n": 14,
+      "file": "ch14 - Piratology.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 15,
+      "file": "ch15 - The Missionary.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche", "wittgenstein", "sartre", "marx"],
+      "concepts": ["death-of-god", "authenticity", "existence-precedes-essence", "marx-alienation"],
+      "relation": "Christopher Hoyt reads Buffett's escape from Catholicism as a case study in secular meaning-making after Nietzsche's death of God, taking the Mardi Gras ritual of Folly swatting Death out of town as Buffett's core spiritual attitude — interpreted the way Wittgenstein criticized Frazer, as an expression of our stance toward death rather than mere magic. Sartre's 'existence precedes essence' frames the post-1960s task of self-definition without God, while Marx's alienation explains what the persona of *Jimmy* refuses: the impersonal work and borrowed values that leave moderns living an alien narrative, like McGuane's character Skelton in Ninety-Two in the Shade. The twist is that *Jimmy*'s pop-culture vocabulary — Tully Mars built from Donovan's Reef and Slim Pickens, Bogart, the Brylcreem jingle — is itself authentic, and the 'semi-true story' of the myth tells deeper truths than a literal biography could, making Buffett something like a pop prophet for late modernity."
+    }
+  ],
+  "holes": [
+    {
+      "ch": 10,
+      "type": "concept",
+      "suggested_slug": "moral-holiday",
+      "name": "The Moral Holiday",
+      "philosopher": "william-james",
+      "domain": "pragmatism-american",
+      "what": "William James's term (in Pragmatism) for a morally legitimate respite from care, worry, and moral struggle that renews us before we return to the fray.",
+      "why": "Chapter 10 is built entirely on the claim that Buffett's 'license to chill' is a Jamesian moral holiday — care-free but never care-less — and no existing taxonomy slug captures this specific concept."
+    },
+    {
+      "ch": 12,
+      "type": "concept",
+      "suggested_slug": "transformative-learning",
+      "name": "Transformative Learning (the disorienting dilemma)",
+      "philosopher": "",
+      "domain": "pragmatism-american",
+      "what": "Jack Mezirow's theory that a disorienting dilemma that unhinges core assumptions triggers disorientation, critical exploration of how those assumptions were formed, and re-orientation — a fundamental shift in how one makes meaning.",
+      "why": "Chapter 12 maps Buffett's life narrative onto Mezirow's four-stage transformative process (dilemma, disorientation, exploration, re-orientation), which is the chapter's entire analytic frame and is covered by no existing taxonomy slug."
+    }
+  ]
+}

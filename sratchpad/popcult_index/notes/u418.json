@@ -1,0 +1,39 @@
+{
+  "book": "301 - Comics as Philosophy",
+  "unit": "u418",
+  "chapters": [
+    {
+      "n": 3,
+      "file": "ch03 - index.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 4,
+      "file": "ch04 - index.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 5,
+      "file": "ch05 - index.md",
+      "kind": "chapter",
+      "philosophers": ["leibniz", "descartes", "mill"],
+      "concepts": ["possible-worlds", "best-possible-world", "harm-principle"],
+      "relation": "This composite chapter opens with the volume's Introduction and then runs several essays. Jeff McLaughlin's 'What If?' reads DC's Crisis on Infinite Earths and Marvel's What If? series as literal illustrations of Leibniz's possible-worlds metaphysics: the multiverse of Earth-1, Earth-2 and the 3,000 doomed universes dramatizes counterfactuals and Leibniz's Theodicy argument (via the principle of sufficient reason) that God actualizes only the best of infinitely many possible worlds, with Descartes invoked on why a perfect God permits imperfection. Amy Kiste Nyberg's essay analyzes the 1954 Senate hearings on EC horror comics (Gaines's 'The Orphan') as an applied-ethics clash between publishers' free expression and protecting children, explicitly deploying Mill's On Liberty and harm principle to argue why the child-audience framing defeats the anti-censorship case. Stanford Carpenter's piece treats the Black Captain America (Truth: Red, White, and Black) as an epistemology-of-authorship problem."
+    },
+    {
+      "n": 6,
+      "file": "ch06 - index.md",
+      "kind": "chapter",
+      "philosophers": ["plato", "sartre", "nietzsche", "heidegger"],
+      "concepts": ["existentialism", "bad-faith", "plato-cave", "deconstruction"],
+      "relation": "This composite chapter argues philosophy through several comics. Jeremy Barris pairs Plato's dialogues with Amazing Spider-Man, using the allegory of the cave, the Forms, and Platonic love/eros to show that Spider-Man's bodily beauty, awkwardness, and self-trivializing irony draw readers toward goodness the way Plato says lust for beautiful bodies leads the soul upward to truth. Iain Thomson reads Moore and Gibbons's Watchmen as a 'deconstruction of the hero,' running Rorschach, Ozymandias and Dr. Manhattan through Nietzsche's Ubermensch and 'do not throw away the hero in your soul,' Heidegger's authentic 'choosing one's hero' and the uncanny, Kierkegaard's knight of faith, and Baudrillard's idea that an extreme realization destroys its own idea. Laura and Paul Canis read Daniel Clowes's Ghost World through Sartre's existentialism: Enid's post-high-school 'three o'clock' limbo enacts thrownness, abandonment, radical freedom and the flight from it into bad faith, contrasting Enid's authentic self-creation with Rebecca's settled conformity. Aldo Regalado's essay treats Tarzan, Superman, Captain America and the Black Panther as responses to modernity and race."
+    }
+  ],
+  "holes": []
+}

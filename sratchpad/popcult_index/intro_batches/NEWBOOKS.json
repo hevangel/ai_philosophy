@@ -1,0 +1,373 @@
+[
+ {
+  "key": "darshana",
+  "name": "Darshana (systematic 'view' or school)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "eastern-world"
+ },
+ {
+  "key": "vedic-sacrifice",
+  "name": "Vedic Sacrifice (yajna)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "eastern-world"
+ },
+ {
+  "key": "dependent-origination",
+  "name": "Dependent Origination (pratityasamutpada)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "eastern-world"
+ },
+ {
+  "key": "abhidharma",
+  "name": "Abhidharma (dharma analysis)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "eastern-world"
+ },
+ {
+  "key": "yogacara-mind-only",
+  "name": "Yogacara 'Mind-Only' (cittamatra)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "eastern-world"
+ },
+ {
+  "key": "classical-yoga",
+  "name": "Classical Yoga (Patanjali)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "eastern-world"
+ },
+ {
+  "key": "samkhya-dualism",
+  "name": "Samkhya Dualism (purusha and prakriti)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "eastern-world"
+ },
+ {
+  "key": "vaisheshika-categories",
+  "name": "Vaisheshika Categories (padartha)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "eastern-world"
+ },
+ {
+  "key": "nyaya-five-limb-inference",
+  "name": "Nyaya Five-Membered Inference",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "eastern-world"
+ },
+ {
+  "key": "mimamsa",
+  "name": "Mimamsa (Vedic exegesis)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "eastern-world"
+ },
+ {
+  "key": "semiotics-signifier-signified",
+  "name": "Semiotics (signifier and signified)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "mind-language-metaphysics"
+ },
+ {
+  "key": "anti-psychologism",
+  "name": "Anti-Psychologism",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "mind-language-metaphysics"
+ },
+ {
+  "key": "intrinsic-vs-instrumental-value",
+  "name": "Intrinsic vs Instrumental Value",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "ethics-moral-psychology"
+ },
+ {
+  "key": "sorites-paradox",
+  "name": "Sorites Paradox (vagueness)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "mind-language-metaphysics"
+ },
+ {
+  "key": "maternal-thinking",
+  "name": "Maternal Thinking (Sara Ruddick)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "feminism-gender-race"
+ },
+ {
+  "key": "original-sin",
+  "name": "Original Sin",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "religion-meaning"
+ },
+ {
+  "key": "parasocial-relationship",
+  "name": "Parasocial Relationships",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "ethics-moral-psychology"
+ },
+ {
+  "key": "reputation",
+  "name": "Reputation (social epistemology of)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "knowledge-science-reality"
+ },
+ {
+  "key": "repetition-and-difference",
+  "name": "Repetition and Difference (Deleuze)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "political-social"
+ },
+ {
+  "key": "archive-fever",
+  "name": "Archive Fever (Derrida)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "mind-language-metaphysics"
+ },
+ {
+  "key": "philosophy-of-grief",
+  "name": "Philosophy of Grief",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "ethics-moral-psychology"
+ },
+ {
+  "key": "affective-injustice",
+  "name": "Affective Injustice",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "feminism-gender-race"
+ },
+ {
+  "key": "philosophy-of-anger",
+  "name": "Philosophy of Anger",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "ethics-moral-psychology"
+ },
+ {
+  "key": "standpoint-epistemology",
+  "name": "Feminist Standpoint Epistemology",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "feminism-gender-race"
+ },
+ {
+  "key": "beauty-myth",
+  "name": "The Beauty Myth (Naomi Wolf)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "feminism-gender-race"
+ },
+ {
+  "key": "reproductive-justice",
+  "name": "Reproductive Justice",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "feminism-gender-race"
+ },
+ {
+  "key": "race-as-social-construct",
+  "name": "Race as Social Construct",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "feminism-gender-race"
+ },
+ {
+  "key": "wrongful-discrimination",
+  "name": "Wrongful Discrimination",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "feminism-gender-race"
+ },
+ {
+  "key": "speech-acts",
+  "name": "Speech Acts (performative utterances)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "mind-language-metaphysics"
+ },
+ {
+  "key": "mimetic-desire",
+  "name": "Mimetic Desire (Girard)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "ethics-moral-psychology"
+ },
+ {
+  "key": "scapegoat-mechanism",
+  "name": "Scapegoat Mechanism (Girard)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "ethics-moral-psychology"
+ },
+ {
+  "key": "becoming-other",
+  "name": "Becoming-Other (Deleuzian becoming)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "political-social"
+ },
+ {
+  "key": "open-interpretation",
+  "name": "Open Interpretation (multiple valid readings)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "mind-language-metaphysics"
+ },
+ {
+  "key": "popular-parody",
+  "name": "Popular Parody (homage vs art parody)",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "mind-language-metaphysics"
+ },
+ {
+  "key": "phil:panini",
+  "name": "Panini",
+  "kind": "philosopher",
+  "dates": "c. 4th c. BCE",
+  "domain": "eastern-world"
+ },
+ {
+  "key": "phil:ramanuja",
+  "name": "Ramanuja",
+  "kind": "philosopher",
+  "dates": "1017–1137",
+  "domain": "eastern-world"
+ },
+ {
+  "key": "phil:arthur-danto",
+  "name": "Arthur Danto",
+  "kind": "philosopher",
+  "dates": "1924–2013",
+  "domain": "mind-language-metaphysics"
+ },
+ {
+  "key": "phil:linda-zagzebski",
+  "name": "Linda Zagzebski",
+  "kind": "philosopher",
+  "dates": "",
+  "domain": "ethics-moral-psychology"
+ },
+ {
+  "key": "phil:heather-widdows",
+  "name": "Heather Widdows",
+  "kind": "philosopher",
+  "dates": "",
+  "domain": "feminism-gender-race"
+ },
+ {
+  "key": "phil:paul-ricoeur",
+  "name": "Paul Ricoeur",
+  "kind": "philosopher",
+  "dates": "1913–2005",
+  "domain": "mind-language-metaphysics"
+ },
+ {
+  "key": "phil:michael-cholbi",
+  "name": "Michael Cholbi",
+  "kind": "philosopher",
+  "dates": "",
+  "domain": "ethics-moral-psychology"
+ },
+ {
+  "key": "phil:edith-stein",
+  "name": "Edith Stein",
+  "kind": "philosopher",
+  "dates": "1891–1942",
+  "domain": "mind-language-metaphysics"
+ },
+ {
+  "key": "phil:w-d-ross",
+  "name": "W. D. Ross",
+  "kind": "philosopher",
+  "dates": "1877–1971",
+  "domain": "ethics-moral-psychology"
+ },
+ {
+  "key": "phil:peter-geach",
+  "name": "Peter Geach",
+  "kind": "philosopher",
+  "dates": "1916–2013",
+  "domain": "ethics-moral-psychology"
+ },
+ {
+  "key": "phil:helene-cixous",
+  "name": "Hélène Cixous",
+  "kind": "philosopher",
+  "dates": "1937–",
+  "domain": "feminism-gender-race"
+ },
+ {
+  "key": "phil:ibram-x-kendi",
+  "name": "Ibram X. Kendi",
+  "kind": "philosopher",
+  "dates": "1982–",
+  "domain": "feminism-gender-race"
+ },
+ {
+  "key": "phil:reinhold-niebuhr",
+  "name": "Reinhold Niebuhr",
+  "kind": "philosopher",
+  "dates": "1892–1971",
+  "domain": "political-social"
+ },
+ {
+  "key": "phil:axel-honneth",
+  "name": "Axel Honneth",
+  "kind": "philosopher",
+  "dates": "1949–",
+  "domain": "political-social"
+ },
+ {
+  "key": "phil:thomas-paine",
+  "name": "Thomas Paine",
+  "kind": "philosopher",
+  "dates": "1737–1809",
+  "domain": "political-social"
+ },
+ {
+  "key": "phil:ruth-benedict",
+  "name": "Ruth Benedict",
+  "kind": "philosopher",
+  "dates": "1887–1948",
+  "domain": "ethics-moral-psychology"
+ },
+ {
+  "key": "phil:malinowski",
+  "name": "Bronisław Malinowski",
+  "kind": "philosopher",
+  "dates": "1884–1942",
+  "domain": "knowledge-science-reality"
+ },
+ {
+  "key": "phil:graham-greene",
+  "name": "Graham Greene",
+  "kind": "philosopher",
+  "dates": "1904–1991",
+  "domain": "religion-meaning"
+ },
+ {
+  "key": "phil:linda-hutcheon",
+  "name": "Linda Hutcheon",
+  "kind": "philosopher",
+  "dates": "",
+  "domain": "mind-language-metaphysics"
+ }
+]

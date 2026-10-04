@@ -1,0 +1,660 @@
+{
+ "book": "128 - Mister Rogers and Philosophy - Wondering through the Neighborhood",
+ "unit": "u193",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Mister Rogers and Philosophy Wondering through the Neighborhood.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Welcome to the Neighborhood.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Editor Holly Mohr's introduction recounts receiving Plato's Republic and Apology for a summer program and realizing she had been philosophizing since childhood, and that Fred Rogers would not have been surprised: wonder is what children do best and what philosophy is. She argues Rogers takes children seriously as full persons, shows through his visits to workers, farmers, and children with disabilities that wonder is available in every life, and that meaning is made together in the Neighborhood, in community rather than solitude."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Thanks.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - I Did You Know It’s All Right to Wonder.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 1. The Wonderful Feeling of Being Alive.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [],
+   "relation": "Jacob Graham reads the show's behind-the-scenes honesty (episode 1530's studio tour, Rogers showing the puppets dead in his bag) through Plato's Theaetetus claim that philosophy begins in the feeling of wonder and its call for the philosopher's leisurely slowness (skole), which Rogers built into television through silence and a low pace. Drawing also on Aristotle's Metaphysics, he argues wonder at the sheer being of ordinary things ends in reverent silence before each person's unrepeatable uniqueness, which Rogers treats as axiomatic: 'I like us just the way we are.'"
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 2. Mesmeric Mister Rogers.md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud",
+    "benjamin"
+   ],
+   "concepts": [
+    "freud-unconscious"
+   ],
+   "relation": "Marlene Clark argues Fred Rogers was a mesmerist in the lineage of Franz Mesmer's animal magnetism, a hypnotic appeal that survived mesmerism's debunking by passing into Freud and Breuer's psychoanalytic transference and into the primitive, unconscious sex appeal of screen idols like Brad Pitt. She details episode 1588, where Rogers defuses bathtub-drain fears with 'You Can Never Go Down the Drain' and scuba-suited Neighbor Aber frightens Henrietta Pussycat, and the 1969 Senate hearing where reciting 'What Do You Do with the Mad That You Feel?' visibly entranced Senator Pastore into awarding PBS 20 million dollars."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 3. Wonder and Philosophy as a Way Home.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "aquinas",
+    "pythagoras"
+   ],
+   "concepts": [
+    "platonic-love",
+    "socratic-ignorance",
+    "pythagorean-harmony"
+   ],
+   "relation": "Nathan and Leilani Mueller argue the theme song's 'neighborly day in this beautywood' makes beauty a transcendental leading to wisdom, as in Plato's Symposium ascent to loving the beautiful itself and Aquinas's convertibility of truth, goodness, and beauty. Reading Rogers's questioning of batteries and boxes (episode 1655) through the Meno's genuine curiosity and Pierre Hadot's account of philosophy as a way of life, they tour the show's three philosophical spaces: the domestic living room, the community visit (blind saxophonist Eric Kloss), and Make-Believe as thought experiment."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 4. The Gently Socratic Inquiry of Fred Rogers.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "plato"
+   ],
+   "concepts": [
+    "socratic-method",
+    "socratic-ignorance"
+   ],
+   "relation": "Ben Lukey and Steve Bein, veterans of p4c Hawai'i, argue Rogers ran a 'gently Socratic' community of inquiry on television: unlike Socrates the public gadfly who made asses of interlocutors, Rogers created intellectual safety, treating Daniel Striped Tiger's 'What does assassination mean?' (after MLK's murder) and the Officer Clemmons kiddie-pool scene as philosophy with children. Using Dr. Tom Jackson's Good Thinker's Toolkit to show children are philosophers, they defend 'little p philosophy' as activity over 'Big P Philosophy' as content, casting Rogers and Socrates as midwives rather than lecturers."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - II What Do You Do with the Mad that You Feel.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 5. Another Day in the Neighborhood.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "kant",
+    "heidegger"
+   ],
+   "concepts": [
+    "plato-tripartite-soul",
+    "kant-autonomy",
+    "authenticity",
+    "das-man"
+   ],
+   "relation": "Sydney Ball and Eric Mohr interleave a college student's Tuesday with her six-year-old self watching the show: Plato's Republic (439c) on the rational part overruling the appetitive frames procrastination and lost youthful energy, Kant's autonomy frames doing what you should without being told, and Heidegger's 'They' frames her supermarket jealousy, dissolved by complimenting a stranger's shoes just as Henrietta Pussycat overcame jealousy of Grandpere's fancy granddaughter Collette (episodes 1176-1180). The lesson, learned from Mister Rogers's words about stopping, is authenticity: 'I like you just the way you are.'"
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 6. Peace through Emotional Development.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Nathaniel McDonald and Frank Scalambrino read the show as a Montessori 'prepared environment': like Montessori's planes of development, Rogers designed every consistent transition, song, and set detail (shoe swap, Trolley, feeding fish) for children's developmental needs, aiming at self-regulation so the child can manage 'the mad that you feel.' Grounding 'It's You I Like' in Carl Rogers's unconditional positive regard and Montessori's syllogism that education is the work of peace, they rebut the entitlement critique as a correlation-causation fallacy and a misinterpretation of freedom-with-responsibility."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 7. Feelings, Mentionable and Manageable.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "phenomenology"
+   ],
+   "relation": "Jonathan Heaps takes Rogers's Senate line that 'feelings are mentionable and manageable' and supplies its philosophical engine in Eugene Gendlin's theory of experiencing and symbolization: there is the anger and there is feeling-the-anger, and attending to that felt quality, as Henrietta does when X the Owl bosses her during fruit salad (episode 1508), lets a symbol like 'mad' or the image of 'a big scary animal on a chain' name it. Because symbolizing changes the felt meaning of the experience, mentioning feelings genuinely manages them, which is why the 'What Do You Do with the Mad That You Feel?' song works."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - III By Pretending You Can Be Most Anything You Can Think About.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 8. The Virtues of Art.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dewey"
+   ],
+   "concepts": [
+    "dewey-experience"
+   ],
+   "relation": "David Boersema, opening with Mister Miyagi's chores in The Karate Kid, argues Rogers used the arts for four virtues: affective meaning (King Friday is 'pigheaded' where another is 'firm'), art as both product and process (pottery lessons and Eric Hill's studio, episodes 1644-1645), art as communication and community (Robert Troll's portrait of Lady Elaine softening her; sharing children's Trolley drawings as love), and art as transformation, from Aristophanes' Lysistrata to Dewey's dictum that art is not a thing but an experience, with Rogers's tree and fish songs as gentle social activism."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 9. Fred’s Felt Friends.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Daniel Leonard explains children's devotion to the Make-Believe puppets through Donald Winnicott's transitional objects: soft puppets work like blankies bridging inner and outer reality, as when Rogers answered a toddler's letter that Make-Believe has no time 'like the timelessness of love.' Adding Bandura's observational learning and Horton and Wohl's parasocial interaction, he argues the show's structure (attention, retention, initiation, motivation) makes Lady Aberlin's 'You're no mistake' duet with Daniel Striped Tiger a safe mediated space where children rehearse being persons."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 10. Play in the Real World.md",
+   "kind": "chapter",
+   "philosophers": [
+    "peirce",
+    "william-james",
+    "dewey",
+    "george-herbert-mead"
+   ],
+   "concepts": [
+    "pragmatism",
+    "dewey-experience"
+   ],
+   "relation": "Elizabeth Cooke reads Rogers's double movement, demystifying reality (the studio reveal in episode 1530, the otoscope that cannot see into minds) while insisting 'anything is possible in make-believe,' as pragmatist epistemology: rejecting Plato's two worlds and Cartesian doubt, Rogers agrees with Peirce's open-ended 'musement,' Santayana's play as a 'holiday' revealing truer selves, and James's malleable world that our creativity 'adds to.' Pretend, as when Daniel wonders if he is a mistake or children take others' perspectives in competition episodes, is how children actively learn what is most real, with George Herbert Mead explaining how perspective-taking builds the self."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 11. Mister Rogers’s Pseudonyms.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard"
+   ],
+   "concepts": [],
+   "relation": "Hoon Lee argues Rogers never appears in the Neighborhood of Make-Believe because the puppets are his pseudonyms, reproducing Kierkegaard and Hamann's indirect communication: the child works through fear and anger at a safe distance, as when Daniel Tiger asks Lady Aberlin what 'assassination' means, before the Trolley returns to Rogers's direct speech. He extends the point to the show's contemplative aesthetics (silence, slow cake-piping), the coded '143' for 'I love you,' and the 1969 kiddie-pool scene with Officer Clemmons as indirect communication against segregation."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - 12. Puppets Are People Too.md",
+   "kind": "chapter",
+   "philosophers": [
+    "haraway"
+   ],
+   "concepts": [
+    "anthropocentrism"
+   ],
+   "relation": "Sara Lindey and Jason King argue that making puppets persons, from King Friday's 'Life is good. Being a person is good. Breathing air is good' to interspecies cousins and adoptions (Ana the puppet adopting costumed Bob Dog), resists the Anthropocene's human exceptionalism and its exploitation of a world of mere resources. Via Timothy Morton's solidarity with nonhuman people and Donna Haraway's cyborg blurring of human, animal, and machine, they read the puppeteer as an emotionally enhanced cyborg and the 1990 trash-cataclysm week, solved by recycling goats, as Rogers's ecological family of neighbors."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 13. Won’t You Be My Posthuman Neighbor.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "anthropocentrism",
+    "posthumanism"
+   ],
+   "relation": "Fernando Pagnoni Berns reads the show as posthumanist: the toy-model opening credits leave it unclear whether Rogers himself is a toy, Trolley refuses orange juice yet speaks (an object with a will), Lady Aberlin uses a bass as a dance partner, and Audrey Duck's 'You're as real as you want to be' collapses human, animal, and hand puppet. Invoking Bruno Latour's quasi-human 'non-humans' that channel human desires, he argues the Neighborhood dissolves the humanist hierarchy that enthrones the white Western male over women, animals, objects, and plants."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - IV You Are My Friend, You Are Special to Me.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 14. A Party to Celebrate the Personal.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "max-scheler"
+   ],
+   "concepts": [
+    "aristotle-soul",
+    "personalism"
+   ],
+   "relation": "Eric Mohr reads the 'Everybody's Special' week, Prince Tuesday shedding his royal cape because 'It's what's inside you that makes you special,' the plate factory that discards irregular plates, and King Friday's sameness mask-edict undone by Lady Elaine, as Max Scheler's personalism: persons are unique, unrepeatable 'individual value-essences' whose value only love discloses, which is why Corney's birthday party matters. Against the Aristotelian view that the soul is one universal form and our bodies merely individuate us, Scheler and Rogers hold the inner self is where difference deepens."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 15. I, Thou, and the Neighborhood.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buber",
+    "sartre",
+    "augustine"
+   ],
+   "concepts": [
+    "i-thou",
+    "philosophy-of-love"
+   ],
+   "relation": "James McLachlan pairs Rogers's 'holy ground' between television set and viewer with Buber's turn from ecstatic religion to the everyday after failing the young visitor of 1914 who came to him in need: the I-You relation of full presence versus the I-It of use is what 'It's You I Like' sings. Against Sartre's 'Hell is other people' and Augustine's reading of the burning bush as the omnipotent God, Rogers and Buber (with Rosenzweig's translation of God's name as 'the One who will be present') make listening, presence, and everyday 'twinklings' the substance of neighborly love."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - 16. Loved into Being.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "authenticity"
+   ],
+   "relation": "Scott Parker argues Fred Rogers converged on Carl Rogers's person-centered approach without ever studying it: genuineness ('The greatest gift you ever give is your honest self'), acceptance (unconditional positive regard: 'I like you just the way you are'), and empathic understanding (the nursery-school doggie-ear exchange) form the facilitative climate that lets children grow toward Kierkegaard's 'that self which one truly is.' With Margaret McFarland's 'attitudes aren't taught, they're caught' and her 'love clay in front of the children,' he shows Mister Rogers as the teacher who liked his viewers into being."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 17. A Word from a Man Mister Rogers Ruined.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [
+    "forgiveness",
+    "aristotle-golden-mean"
+   ],
+   "relation": "Nicolas Michaud, whose mother was murdered and who asked that her killer get help rather than die, constructs and then refutes the case that Rogers ruined boys by teaching gentleness: against the Thrasymachus line from Republic Book I that justice is for suckers and competition is everything, he argues Rogers's 'three ways to ultimate success: be kind' defines success as happiness; against 'forgiveness is weakness,' he deploys Aristotle's virtue of mildness, being ready to pardon rather than exact penalty, and a rereading of 'turn the other cheek' as claiming equal standing, so that forgiving is strength, not submission."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 18. Lessons from Fred Rogers’s Dao.md",
+   "kind": "chapter",
+   "philosophers": [
+    "zhuangzi",
+    "laozi"
+   ],
+   "concepts": [
+    "taoism",
+    "wu-wei",
+    "authenticity"
+   ],
+   "relation": "John Thompson reads Rogers as a Zhuangzian sage without claiming he was a Daoist: the show's spare sets and simple cast embody the uncarved block and Zhuangzi's Dao present 'in the piss and shit' of the everyday; its refusal of 'bombardment' pace is Cook Ding slowly carving the ox and xiaoyaoyou, free and easy wandering, as when X the Owl must wait for Cousin Mary's visit. The post-9/11 'look for the helpers' PSAs, the Burger King parody he publicly rebuffed, and the Emmys ten seconds of silence mark Rogers as a zhenren, a genuine person at home in ziran."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 19. If Everyone’s Special, … Is Anyone Special.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "regan",
+    "socrates"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "unexamined-life"
+   ],
+   "relation": "Grace Wehniainen defends 'you are special' against the Fox & Friends 'evil man' charge by separating intrinsic from extrinsic value: on Rogers's 1 Corinthians 12 and Genesis 1:27 reading, worth is God-given and unearned, like the family dog whose napping life has intrinsic value (with Tom Regan's agreement) regardless of tricks. Specialness as 'belonging specifically to a particular person' needs no trophies, only Socratic self-examination before the mirror, Aristotle's true versus vulgar self-love from the Nicomachean Ethics, and Albert Ellis's self-acceptance over performance-based self-esteem."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - V There Are Many Ways to Solve a Problem.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - 20. What Would Mister Rogers Say.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "virtue-ethics",
+    "food-ethics"
+   ],
+   "relation": "Jennifer Shaw Fischer and Bob Fischer apply Rogers's ideal of 'making goodness attractive' to the 2018 family-separation crisis: knowing his own son's abrupt, unexplained surgical separation caused lifelong trauma, and that his King Friday bomb-scare arc rejects trigger-happy generals for 'Generals of peace,' they argue any policy requiring border agents to lie that children are 'going to a shower' is too ugly to balance our values rightly. Rogers's unpushy vegetarianism ('I don't want to eat anything that has a mother') shows the difference between having a reason and being virtuous: making goodness lovely rather than argumentative."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - 21. Mister Rogers’s Lesson for Democracy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "habermas",
+    "sartre"
+   ],
+   "concepts": [
+    "public-sphere",
+    "democracy-theory"
+   ],
+   "relation": "Matthew Ussia maps the Trolley's transition between Rogers's house and the Neighborhood of Make-Believe onto Habermas's public sphere: the first-week crisis, Lady Elaine's rearranging of the neighborhood, King Friday's barbed-wire wall and 'Down with the Changes!,' Chef Brockett's humiliation, shows fear collapsing the space where a democracy works through conflict. Like Habermas, who feared television debates would hijack real public talk (and contra Sartre's 'Hell is other people'), Rogers used puppets to say the unsayable, modeling the deliberative space privatized modern life threatens to close."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - 22. Won’t You Be My Comrade.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx",
+    "hegel"
+   ],
+   "concepts": [
+    "marx-alienation",
+    "historical-materialism",
+    "class-struggle",
+    "marx-ideology"
+   ],
+   "relation": "Christopher Innes runs Marx's critique of Hegel's idealism against Mister Rogers: the show treats problems (divorce, war, the Clemmons pool scene) ideally, as symbolic gestures rather than material change, much as Hegel's storybook individuals miss money's role. Measured against Capital's alienated worker, 'an appendage to the machine,' contrasted with the suitcase worker who 'knows her work,' and the Communist Manifesto's 'bourgeois socialist' who demands reform not liberation, Rogers emerges as a progressive bourgeois socialist whose make-believe may console children for, or subtly resist, their future exploitation."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - 23. The Neighborhood Is Us.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rousseau",
+    "voltaire"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "rousseau-natural-goodness",
+    "rousseau-social-contract"
+   ],
+   "relation": "Trip McCrossin frames the show, via Susan Neiman, as Rousseau's answer to the problem of evil: bad things (including bad television) happen to good kids, but education can mitigate evil, which is why Rogers prefers Rousseau's demand to make evil intelligible to Voltaire's Candidean refusal and Pangloss's best-of-all-possible-worlds. Rogers pursued only Emile's second prong, making us as we ought to be by loving children 'just the way they are,' and the post-9/11 PSAs before King Friday's empty castle merge Make-Believe into reality, the last 'modulation' of his thirty-four-year ministry."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - 24. Fred Rogers and the Ethics of Care.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gilligan",
+    "noddings"
+   ],
+   "concepts": [
+    "care-ethics",
+    "care-ethics-noddings"
+   ],
+   "relation": "A.G. Holdier places Rogers squarely in the care ethics of Gilligan and Noddings: against Kohlberg's justice stages (the Heinz dilemma recast with Henrietta Pussycat and X the Owl), care means Joan Tronto's four elements of attentiveness, responsibility, competence, and responsiveness, shown in the Clemmons kiddie pool, the Soviet guest understood through an interpreter, and 'just the way you are.' Extending care to animals via Rogers's vegetarianism and Carol Adams's 'absent referent,' and to the self via the closing benediction, he argues Rogers embodied care as particular, embodied practice rather than formula."
+  },
+  {
+   "n": 38,
+   "file": "ch38 - References.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 39,
+   "file": "ch39 - Author Bios.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 40,
+   "file": "ch40 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 41,
+   "file": "ch41 - Index of Episodes.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "wonder",
+   "name": "Wonder as the Beginning of Philosophy",
+   "philosopher": "plato",
+   "domain": "ancient",
+   "what": "The feeling (thaumazein) with which philosophy begins, per Plato's Theaetetus and Aristotle's Metaphysics, a giddy yet quieting confrontation with the being of things.",
+   "why": "Chapter 10's entire argument reads Mister Rogers's slow, silent show as the cultivated leisure in which this feeling of wonder, not mere curiosity, opens philosophy."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "mesmerism",
+   "name": "Mesmerism (animal magnetism)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Franz Mesmer's theory of 'animal magnetism', debunked as science but surviving as hypnosis and the idea of magnetic personal charisma.",
+   "why": "Chapter 11 argues Mister Rogers literally mesmerized children and Senator Pastore, tracing his hypnotic appeal from Mesmer through Freudian transference to screen charisma."
+  },
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "pierre-hadot",
+   "name": "Pierre Hadot",
+   "philosopher": "",
+   "domain": "ancient",
+   "what": "Historian of ancient philosophy who argued philosophy was originally a way of life, spiritual exercises aimed at inner transformation, not doctrine.",
+   "why": "Chapter 12 uses Hadot's 'philosophy as a way of life' as its central framework: Mister Rogers philosophizes as a communal way of life, not academic discourse."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "philosophy-way-of-life",
+   "name": "Philosophy as a Way of Life",
+   "philosopher": "pierre-hadot",
+   "domain": "ancient",
+   "what": "Hadot's account of ancient philosophy as lived practice yielding peace of mind and inner freedom, in service of the human community.",
+   "why": "Chapter 12 needs it to claim Rogers's neighborhood is philosophy itself as lived practice rather than discourse about philosophy."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "philosophy-for-children",
+   "name": "Philosophy for Children (P4C / community of inquiry)",
+   "philosopher": "",
+   "domain": "pragmatism-american",
+   "what": "Lipman and Jackson's movement bringing philosophy into K-12 schooling through intellectually safe 'communities of inquiry'.",
+   "why": "Chapter 13 argues Mister Rogers's show did on television exactly what p4c Hawaii does in classrooms, and the authors practice P4C themselves."
+  },
+  {
+   "ch": 16,
+   "type": "philosopher",
+   "suggested_slug": "maria-montessori",
+   "name": "Maria Montessori",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Italian physician and educator whose 'planes of development' and 'prepared environment' treat education as an aid to the child's self-construction and the work of peace.",
+   "why": "Chapter 16 argues the show is a Montessori prepared environment, with every transition and set detail developmentally aimed at peace through emotional growth."
+  },
+  {
+   "ch": 17,
+   "type": "philosopher",
+   "suggested_slug": "eugene-gendlin",
+   "name": "Eugene Gendlin",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Philosopher-psychologist whose theory of 'experiencing' and symbolization (and the practice of Focusing) holds that naming felt meaning changes it.",
+   "why": "Chapter 17 builds entirely on Gendlin's experiencing-and-symbols framework to explain how mentioning feelings makes them manageable."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "transitional-object",
+   "name": "Transitional Object (Winnicott)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Winnicott's 'first not-me possession' (blanket, soft toy) that bridges the child's inner and outer reality and weans it from the caregiver.",
+   "why": "Chapter 20 argues the Make-Believe puppets function as transitional objects and phenomena, which is why toddlers love them and Mister Rogers disappears behind them."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "parasocial-interaction",
+   "name": "Parasocial Interaction",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Horton and Wohl's one-sided relationships in which audiences treat mediated television personas as friends and intimates.",
+   "why": "Chapter 20 needs it to explain how a child on a couch can genuinely befriend, imitate, and learn from Mister Rogers and his puppets through a screen."
+  },
+  {
+   "ch": 21,
+   "type": "philosopher",
+   "suggested_slug": "george-santayana",
+   "name": "George Santayana",
+   "philosopher": "",
+   "domain": "pragmatism-american",
+   "what": "American philosopher whose 'The Soul at Play' defends pretend play as a holiday in which the self's deepest truths surface.",
+   "why": "Chapter 21 leans on Santayana's play essays to argue that Rogers's make-believe uncovers reality better than plain empiricism."
+  },
+  {
+   "ch": 21,
+   "type": "philosopher",
+   "suggested_slug": "george-herbert-mead",
+   "name": "George Herbert Mead",
+   "philosopher": "",
+   "domain": "pragmatism-american",
+   "what": "Pragmatist who held the self emerges socially by taking the perspectives of others, first in play.",
+   "why": "Chapter 21 uses Mead to explain how pretending to be teacher, mailman, or mommy in the show builds the child's individual self through perspective-taking."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "indirect-communication",
+   "name": "Indirect Communication (pseudonyms)",
+   "philosopher": "kierkegaard",
+   "domain": "existentialism-phenomenology",
+   "what": "Kierkegaard and Hamann's method of writing through pseudonyms and fiction so readers must appropriate truth for themselves instead of being told.",
+   "why": "Chapter 22 argues the Neighborhood of Make-Believe and Rogers's puppets are precisely this indirect communication, the puppets serving as his pseudonyms."
+  },
+  {
+   "ch": 23,
+   "type": "philosopher",
+   "suggested_slug": "haraway",
+   "name": "Donna Haraway",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Feminist philosopher of science whose 'Cyborg Manifesto' troubles the boundaries between human, animal, and machine.",
+   "why": "Chapter 23 uses the cyborg to argue the puppeteer is a human enhanced by the puppet, blurring exactly the boundaries the Anthropocene polices."
+  },
+  {
+   "ch": 23,
+   "type": "philosopher",
+   "suggested_slug": "timothy-morton",
+   "name": "Timothy Morton",
+   "philosopher": "",
+   "domain": "environment-animal",
+   "what": "Philosopher of ecology who calls for 'solidarity with nonhuman people', extending personhood and kinship beyond humankind.",
+   "why": "Chapter 23 cites Morton's Humankind to ground the claim that Rogers's puppets and animal neighbors make nonhuman persons part of the family."
+  },
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "posthumanism",
+   "name": "Posthumanism",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The movement that dissolves humanist hierarchies by refusing the human/animal/object divide and the Western male center it secures.",
+   "why": "Chapter 24 argues the show's toy credits, speaking Trolley, and Audrey Duck make it a posthumanist land where categories of human, animal, and thing blur."
+  },
+  {
+   "ch": 26,
+   "type": "philosopher",
+   "suggested_slug": "max-scheler",
+   "name": "Max Scheler",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "Phenomenologist of values whose personalism holds each person is a unique, unrepeatable value-essence disclosed only in love.",
+   "why": "Chapter 26 reads 'you are special' as Scheler's personalism against Aristotle's shared rational essence, with King Friday's mask edict as the depersonalizing foil."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "personalism",
+   "name": "Personalism",
+   "philosopher": "max-scheler",
+   "domain": "existentialism-phenomenology",
+   "what": "The ethical view that persons are valuable as unique, unrepeatable individuals rather than as rational agents or social role-bearers.",
+   "why": "Chapter 26 needs it to name the tradition (with its social corollary that community exists for persons, not vice versa) that Rogers's specialness message instantiates."
+  },
+  {
+   "ch": 28,
+   "type": "philosopher",
+   "suggested_slug": "carl-rogers",
+   "name": "Carl Rogers",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Humanistic psychologist whose person-centered approach grounds growth in genuineness, acceptance, and empathic understanding.",
+   "why": "Chapter 28 argues Fred Rogers independently embodied Carl Rogers's three therapeutic conditions, making the show a growth climate for whole persons."
+  },
+  {
+   "ch": 28,
+   "type": "concept",
+   "suggested_slug": "unconditional-positive-regard",
+   "name": "Unconditional Positive Regard",
+   "philosopher": "carl-rogers",
+   "domain": "ethics-moral-psychology",
+   "what": "Carl Rogers's principle of affirming a person and their feelings totally and without judgment, the precondition of psychological growth.",
+   "why": "Chapter 28 identifies it as the engine of 'I like you just the way you are'; chapter 16 likewise grounds the show's educational ethic in it."
+  },
+  {
+   "ch": 31,
+   "type": "concept",
+   "suggested_slug": "intrinsic-value",
+   "name": "Intrinsic vs Instrumental Value",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The distinction between what is good in itself, without qualification, and what is good only as a means to further ends.",
+   "why": "Chapter 31 defends 'you are special' as a claim of intrinsic worth against critics who read specialness as earned, extrinsic distinction."
+  },
+  {
+   "ch": 36,
+   "type": "philosopher",
+   "suggested_slug": "voltaire",
+   "name": "Voltaire",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "Enlightenment satirist whose Candide mocked Leibnizian optimism and held that evil is not to be rationalized but outlived by cultivating one's garden.",
+   "why": "Chapter 36 frames Mister Rogers's show as taking Rousseau's side against Voltaire on whether education must make evil intelligible."
+  },
+  {
+   "ch": 37,
+   "type": "concept",
+   "suggested_slug": "heinz-dilemma",
+   "name": "The Heinz Dilemma",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Kohlberg's thought experiment about stealing an unaffordable drug to save a dying spouse, used to stage his stages of moral reasoning.",
+   "why": "Chapter 37 recasts it with Henrietta Pussycat and X the Owl to contrast Gilligan's care-based response with Kohlberg's justice-based stages."
+  }
+ ]
+}

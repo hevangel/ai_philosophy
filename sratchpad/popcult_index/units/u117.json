@@ -1,0 +1,77 @@
+{
+ "unit": "u117",
+ "book": "069 - Curb Your Enthusiasm and Philosophy - Awaken the Social Assassin Within",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\069 - Curb Your Enthusiasm and Philosophy - Awaken the Social Assassin Within",
+ "range": [
+  23,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 23,
+   "file": "ch23 - Curb Your Enthusiasm and Philosophy.md",
+   "words": 5331
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Curb Your Enthusiasm and Philosophy.md",
+   "words": 6237
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Curb Your Enthusiasm and Philosophy.md",
+   "words": 6
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Curb Your Enthusiasm and Philosophy.md",
+   "words": 5312
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Curb Your Enthusiasm and Philosophy.md",
+   "words": 4803
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Curb Your Enthusiasm and Philosophy.md",
+   "words": 4
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Curb Your Enthusiasm and Philosophy.md",
+   "words": 6187
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Curb Your Enthusiasm and Philosophy.md",
+   "words": 4
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Curb Your Enthusiasm and Philosophy.md",
+   "words": 13237
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Curb Your Enthusiasm and Philosophy.md",
+   "words": 1394
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Curb Your Enthusiasm and Philosophy.md",
+   "words": 1707
+  }
+ ],
+ "content": [
+  23,
+  24,
+  26,
+  27,
+  29,
+  31,
+  32,
+  33
+ ]
+}

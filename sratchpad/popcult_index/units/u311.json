@@ -1,0 +1,94 @@
+{
+ "unit": "u311",
+ "book": "216 - The Philosophy of Charlie Kaufman",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\216 - The Philosophy of Charlie Kaufman",
+ "range": [
+  3,
+  16
+ ],
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - ii.md",
+   "words": 316
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title.md",
+   "words": 13
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "words": 165
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Contents.md",
+   "words": 237
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Acknowledgments.md",
+   "words": 283
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Introduction.md",
+   "words": 8089
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Part 1. On Being and Not Being One\u2019s Self.md",
+   "words": 9
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Charlie Kaufman, Screenwriter.md",
+   "words": 10033
+  },
+  {
+   "n": 11,
+   "file": "ch11 - On Being John Malkovich and Not Being Yourself.md",
+   "words": 8773
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Divided Self Kaufman, Kafka, Wittgenstein, and Human Nature.md",
+   "words": 9443
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Unauthorized Autobiography Truth and Fact in Confessions of a Dangerous Mind.md",
+   "words": 8208
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Part 2. Being, or Trying to Be, with Others.md",
+   "words": 8
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Me and You Identity, Love, and Friendship in the Films of Charlie Kaufman.md",
+   "words": 8961
+  },
+  {
+   "n": 16,
+   "file": "ch16 - I Don\u2019t Know, Just Wait Remembering Remarriage in Eternal Sunshine of the Spotless Mind.md",
+   "words": 10433
+  }
+ ],
+ "content": [
+  3,
+  6,
+  7,
+  8,
+  10,
+  11,
+  12,
+  13,
+  15,
+  16
+ ]
+}

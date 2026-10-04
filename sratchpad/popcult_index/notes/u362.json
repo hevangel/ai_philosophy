@@ -1,0 +1,349 @@
+{
+ "book": "247 - The Ultimate Supernatural and Philosophy - Saving People, Killing Things, the Family Business",
+ "unit": "u362",
+ "chapters": [
+  {
+   "n": 6,
+   "file": "ch06 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Thanks.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Part I “What’s done is done. All that matters now, all that’s ever mattered, is that we’re together. So shut u.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - 1. Human, All Too Human.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "death-of-god",
+    "amor-fati",
+    "ubermensch"
+   ],
+   "relation": "Holdier reads Supernatural's finale through Nietzsche, arguing that Chuck's exposure as a cruel author-God and his defeat by the Winchesters dramatizes the 'death of God' as the freedom to invent one's own meaning. Dean and Sam's stubborn refusal to 'stay down' on the lakeshore against Chuck embodies amor fati—saying yes to circumstance—while Jack, birthed and taught by ordinary humans, becomes the Ubermensch who replaces God, showing humanity as a bridge to something greater than itself."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 2. The Winchesters’ Revolt Against the Divine Plan.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "rousseau",
+    "spinoza"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "compatibilism",
+    "will-to-power",
+    "rousseau-social-contract"
+   ],
+   "relation": "Steele argues the Winchesters' fifteen-season revolt against Chuck's authored 'divine plan' stages the free-will-versus-determinism debate: Chuck writes their lives yet Sam shooting God shows the plan can be surprised, leaving 'free will in the details' as compatibilism. She frames the cosmic contest of angels, demons, and Chuck as Nietzsche's competing wills to power, but concludes Supernatural finally rejects Nietzsche for Rousseau, championing individual free will and a General Will where Sam and Dean rebuild Heaven to match their own choices."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 3. Why Do I Have to Be Some Kind of Hero.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dostoevsky"
+   ],
+   "concepts": [
+    "moral-psychology",
+    "philosophy-of-love"
+   ],
+   "relation": "Zanin reads the Winchesters' sense of moral responsibility through Dostoevsky's The Karamazov Brothers, mapping Dean onto the sensualist/atheist Dmitri-Ivan and Sam onto the faithful Alyosha. Via Father Zossima's dictum that we are 'responsible to all for all,' she argues Sam and Dean's brotherhood is Christian self-sacrificial 'love in action'—shown in Dean choosing Sam over a normal life in 'Bad Boys' and the djinn world—which grounds why they keep saving strangers even after rejecting God's plan."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 4. A Muscle Car and a Mythic Quest.md",
+   "kind": "chapter",
+   "philosophers": [
+    "jung",
+    "hegel",
+    "kierkegaard",
+    "sartre",
+    "joseph-campbell"
+   ],
+   "concepts": [
+    "jung-archetypes",
+    "jung-collective-unconscious",
+    "hegel-dialectic",
+    "the-look"
+   ],
+   "relation": "Huntingford reads Sam and Dean as the Cowboy incarnation of Jung's universal Mythic Hero archetype, their Impala road-trip an odyssey of Campbell's monomyth and Jungian individuation confronting the 'shadow' (Amara as the Darkness). She uses Hegel to cast the brothers' alienation as the start of self-discovery toward absolute knowledge, Kierkegaard to praise their nonconformity over the crowd, and Sartre's 'hell is other people' and freedom-as-otherness to argue the Quest requires killing the false narrative self—Chuck the Trickster—to become free."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Part II “Every soul here is a monster. This is where they come to prey upon each other for all eternity.”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 5. Could Hell Be Any Worse than Doc Benton’s Immortality.md",
+   "kind": "chapter",
+   "philosophers": [
+    "williams",
+    "locke"
+   ],
+   "concepts": [
+    "immortality",
+    "personal-identity",
+    "meaning-of-life"
+   ],
+   "relation": "Hellwig uses Dean's choice of Hell over Doc Benton's organ-replacement immortality in 'Time Is on My Side' to examine medical immortality. He pairs Dean's worry—that maiming and replacing your body makes you unrecognizably human—with Bernard Williams's Makropulos argument that immortality ends in categorical-desire-exhausting boredom, adding a third condition to Williams: a recognizably human life requires being able to self-identify with one's own body, illustrated by real disfigurement cases and Aubrey de Grey's biogerontology."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 6. How the Hell Are We Supposed to Kill an Idea.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-justice",
+    "applied-ethics",
+    "simulacra"
+   ],
+   "relation": "Simsek reads the 'Hell House' tulpa—a monster made real by mass belief on the HellHoundsLair website—as a philosophical challenge about the power of ideas and how one 'kills' an idea, which the brothers can only attempt by seeding a counter-belief. She invokes Socrates' call in the Republic to censor the arts that shape moral character, and the Streisand Effect, to argue that internet-amplified ideas (memes, conspiracy theories, gender and racial norms) take on autonomous, hard-to-kill life much as fandom overrides creators' intent."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 7. More Mothers, Lovers, and Other Monsters.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "kant-autonomy",
+    "objectification"
+   ],
+   "relation": "Brace surveys the later-season mother figures—Mary, Kelly, Jody, Rowena, Mrs. Butters, Charlie—arguing they are repeatedly used as emotional tools against the Winchesters, which she reads through Kant's warning against treating persons merely as means. She stresses loss of free will and agency: Mary's British Men of Letters 'realignment' and Mrs. Butters's coercive programming strip their autonomy and reduce them to objects/killers, while their reclaimed agency and self-sacrifice restore their Kantian standing as ends in themselves."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Part III “Dude, you were hallucinating sheep on the road.”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 8. Which Brother Is the Good One.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "consequentialism",
+    "deontology",
+    "moral-psychology"
+   ],
+   "relation": "Browning contrasts the brothers' ethics: Dean is a consequentialist who judges hunts by outcomes ('the ends justify the means,' killing werewolf Madison or faith-healer Roy for the greater good), while Sam is a deontologist who treats lying, stealing, and killing as wrong in themselves. Tracking episodes like 'Bloodlust,' 'Croatoan,' and 'Fresh Blood,' he argues the murder-versus-kill distinction and the blurring line between human and monster show Dean's darker consequentialism is better suited to the Hunter's war, though both are driven to do good."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 9. God the Programmer Is Dead.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "hobbes"
+   ],
+   "concepts": [
+    "deontology",
+    "social-contract",
+    "utilitarianism",
+    "death-of-god"
+   ],
+   "relation": "De Vries defines a 'monster' in Supernatural as one who breaks the social contract, then argues Sam and Dean are deontologists loyal to a rigid duty—but a 'social contract of two' (family) that produces double standards toward Cas and Jack. She contrasts the angels' box-checking utilitarianism and Hobbesian collapse without God, Hell's contractual capitalist democracy, and Chuck as a controlling 'programmer God' whose perfection cannot tolerate imperfection; Jack's hands-off deity and Chuck's Nietzschean death-of-God let humanity write its own moral code."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 10. Cas Is Family.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia",
+    "aristotle-friendship",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Doll traces Castiel's arc from a cold Divine-Command/utilitarian 'hammer of the Lord' to a member of the Winchester family through Aristotle's ethics. She argues Cas learns to contemplate and act on the chief good under Dean's tutelage, pursuing eudaimonia by habituation despite repeated failures (becoming a false god, the Leviathans), and that his bond with Sam and Dean grows through Aristotle's three friendships—utility, pleasure, and finally the rare true friendship of virtuous character—culminating in his self-sacrificing declaration of love that defeats Billie."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 11. Why Sacrifice Yourself.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "moral-psychology",
+    "meaning-of-life"
+   ],
+   "relation": "Browning interrogates the nobility of the Winchesters' repeated self-sacrifice, asking whether their deals (Dean's soul for Sam, John's soul for Dean) are selfless or selfish—driven by codependency, fear of being alone, and ego. He weighs utilitarian justification (sacrificing one who saves the world) against the trickster's 'Mystery Spot' lesson that 'nothing good comes' of it, and invokes Kant's notion of a true gift expecting nothing in return, alongside Milbank on life-as-gift, to question whether self-sacrifice is the 'ultimate ethical agent' when death isn't final."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Part IV “There’s no higher power; there’s no God. There’s just chaos and violence and random, unpredictable ev.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 23,
+   "file": "ch23 - 12. Finally Free.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "leibniz"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "free-will-determinism",
+    "meaning-of-life"
+   ],
+   "relation": "McCrossin argues Supernatural is a rare popular treatment of the theological (not merely secular) problem of evil, with Dean's rant echoing Job and the Book of John's Lazarus (why does God let good people suffer, and why withhold guidance?). Tracing the four showrunner 'eras' as a theodicy incubator, he reads Cas's consolation—life is an obstacle course whose obstacles Chuck may have designed but whose race 'we' ran—through Kant on freedom under determinism, concluding the show's novel theodicy is that meaning comes from being the storytellers of our own lives once Chuck stops writing them."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 13. Does God Have the Right to Destroy the Universe.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke"
+   ],
+   "concepts": [
+    "locke-natural-rights",
+    "locke-labor-property",
+    "social-contract",
+    "problem-of-evil"
+   ],
+   "relation": "Foresman asks whether Chuck has a negative right to destroy the multiverse, rejecting the question-begging 'God can do whatever God wants' and the bare creation/ownership argument (using the scrambled-eggs example) as insufficient. Drawing on Locke's Two Treatises—property arises from mixing labor, but even in the state of nature one may not destroy a creature except for a 'nobler use,' and hoarding beyond use is illegitimate—he concludes Chuck is a Lockean tyrant destroying universes he could simply recreate, so Sam and Dean's rebellion is justified."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 14. Baby’s Identity.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plutarch",
+    "aristotle"
+   ],
+   "concepts": [
+    "ship-of-theseus",
+    "personal-identity",
+    "aristotle-four-causes"
+   ],
+   "relation": "Doll uses the Winchesters' Impala 'Baby'—repeatedly totaled and rebuilt from replaced parts—as a running Ship of Theseus (from Plutarch) to probe what makes an object or person the same over time. She tests Aristotle's four causes (favoring the formal cause) and Theodore Sider's four-dimensionalism, both of which falter, then notes Supernatural's souls solve personal identity for the resurrected Winchesters and alternate-universe doubles; since soulless Baby has no such thread, her identity rests on the subjective, family meaning the Winchesters invest in her."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 15. God Is Good (Chuck Not So Much).md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "paley",
+    "aristotle"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "watchmaker-argument",
+    "faith-vs-reason"
+   ],
+   "relation": "Graves contrasts the Judeo-Christian God of scripture with Chuck, arguing Chuck fails theodicy: he neither shares human suffering (as Jesus does) nor pursues justice for the oppressed (as Yahweh does in Psalm 82), and using evolution to create sapient life guarantees disease, war, and injustice that Paley's Natural Theology design argument cannot excuse. He reads Amara's wish to unwind creation as arguably 'good,' rejects the Winchesters' fallacy that Nephilim Jack must inherit Lucifer's evil (nature versus nurture), and diagnoses Chuck as a pathological narcissist paralleling despotic real-world leaders."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Lore.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Team Free Will.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 220.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 221.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 11,
+   "type": "philosopher",
+   "suggested_slug": "dostoevsky",
+   "name": "Fyodor Dostoevsky",
+   "philosopher": "dostoevsky",
+   "domain": "nineteenth-century",
+   "what": "Nineteenth-century Russian novelist-philosopher of faith, free will, and moral responsibility to one's fellow man, especially in The Karamazov Brothers.",
+   "why": "Chapter 11 is built almost entirely on Dostoevsky's The Karamazov Brothers and Father Zossima's ethic of universal brotherly responsibility, with no adequate taxonomy philosopher covering him."
+  },
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "joseph-campbell",
+   "name": "Joseph Campbell",
+   "philosopher": "joseph-campbell",
+   "domain": "mind-language-metaphysics",
+   "what": "Comparative mythologist who formulated the monomyth or Hero's Journey in The Hero with a Thousand Faces.",
+   "why": "Chapter 12 applies Campbell's Hero's Journey / monomyth as its central structuring framework for the Winchesters' quest, and no taxonomy slug captures the monomyth (Jung's archetypes only partly overlap)."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "monomyth-heros-journey",
+   "name": "The Monomyth (Hero's Journey)",
+   "philosopher": "joseph-campbell",
+   "domain": "mind-language-metaphysics",
+   "what": "Campbell's cross-cultural narrative pattern in which a hero departs, is initiated through trials and a descent, and returns transformed.",
+   "why": "The chapter's core analysis maps Sam and Dean stage-by-stage onto the Hero's Journey (call to adventure, quest, descent, reward), which no existing concept slug represents."
+  }
+ ]
+}

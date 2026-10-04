@@ -1,0 +1,230 @@
+{
+ "book": "031 - Johnny Cash and Philosophy - The Burning Ring of Truth",
+ "unit": "u049",
+ "chapters": [
+  {
+   "n": 20,
+   "file": "ch20 - From Cash to Kant—and Back Again.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kingdom-of-ends",
+    "categorical-imperative",
+    "kant-humanity-formula",
+    "golden-rule"
+   ],
+   "relation": "Yolanda Estes pairs Cash with Kant as two duty-based moralists: Cash's Golden Rule in 'The Preacher Said, Jesus Said' parallels Kant's formula of humanity (never treating persons merely as means), and Cash's 'good heart' matches Kant's good will, since songs like 'Sam Hall,' 'Folsom Prison Blues' (the man shot in Reno 'just to watch him die'), and 'I Hung My Head' weigh inner motives over outcomes. Because earthly law never balances the moral scale, she reads Kant's kingdom of ends and Cash's apocalyptic kingdom of God in 'When the Man Comes Around' and 'God's Gonna Cut You Down' as parallel objects of faith: we must live as if perfect justice already prevails, working to improve this world rather than waiting for the next."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - PART IV - Justice.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Good, The Bad, and The Ugly.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "socrates"
+   ],
+   "concepts": [
+    "punishment-theory",
+    "utilitarianism",
+    "harm-principle"
+   ],
+   "relation": "Johnson and Schmitz argue that Cash, through songs like 'San Quentin,' 'Jacob Green,' and his cover of 'The Mercy Seat,' championed reforming prisons from a retributive to a rehabilitative model and abolishing capital punishment (songs like 'Joe Bean' and 'Long Black Veil' center executed innocents). They defend Cash with Mill: Socrates shows vengeful retributive sentiment is immoral, Mill's harm principle says government may coerce only to prevent harm, so punishment should be justified only by future deterrence and rehabilitation. Since the death penalty's deterrent effect is empirically weak (California, Missouri-vs-Iowa murder rates) and wrongful convictions are common, Mill today would join Cash in calling for abolition."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - “Unchained” The Inspired Anger of a Religious Man.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "plato",
+    "aquinas"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "intentionality",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Dan Haggerty uses Aristotle's account of anger as a virtuous mean—felt at the right people, time, and degree—to show that songs like 'San Quentin,' 'The Man in Black,' and 'Oney' express justified anger at real injustices done to prisoners and workingmen, contra pop psychology's blanket rejection of anger. He then coins 'inspired anger' (drawing on Plato's Ion: the artist possessed and blown away by emotion): a painful, hopeless desire for a justice or restoration that can never be, exemplified by Cash's 'Hurt' video and its regret over irrecoverable time—mourning rather than self-pity or depression. The chapter closes with 'Unchained' as a prayer showing how a Christian like Cash can live with this futile desire rather than argue it away."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - What Is Justice.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rawls",
+    "plato",
+    "gandhi"
+   ],
+   "concepts": [
+    "veil-of-ignorance",
+    "justice-as-fairness",
+    "plato-justice"
+   ],
+   "relation": "Johnny Huss extracts multiple theories of justice from 'Jacob Green'—desert (traced to Plato's Republic), equal treatment, conventionalism, and systemic injustice—and argues that desert collapses once responsibility is pushed back to factors beyond our control (Cash's God-given voice, the 'victim of the times'). Rawls's veil of ignorance supplies the standard for judging institutions: since anyone could be Jacob Green, we could not accept principles that let anyone 'get done like Jacob Green got done.' The chapter extends this to social justice for Native Americans via 'The Ballad of Ira Hayes' and 'As Long as the Grass Shall Grow,' including the flooded Cornplanter Tract, and closes insisting justice requires action, not just principles."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - PART V - God.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Memories Are Made of This.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "plutarch",
+    "aristotle"
+   ],
+   "concepts": [
+    "personal-identity",
+    "ship-of-theseus",
+    "locke-personal-identity",
+    "immortality"
+   ],
+   "relation": "Randall Jensen asks whether Cash's hope of reunion with the dead ('Meet Me in Heaven,' 'If We Never Meet Again This Side of Heaven') is even coherent, using the 'One Piece at a Time' Cadillac and a hypothetical 1954 Plymouth to retell the Ship of Theseus puzzle about identity through part replacement. He canvasses Platonic dualism from the Phaedo (Cash is his soul, the body a rusty cage), the materialist hope that God can reassemble a resurrected body despite dispersed matter, and the psychological-continuity view that persons are 'made of memories,' ending on the duplication problem: if God made two heavenly bodies both carrying Cash's memories, which one would be Cash?"
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Redemption.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "aquinas"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "problem-of-evil",
+    "aquinas-virtues",
+    "soul-making-theodicy"
+   ],
+   "relation": "Stephen Bilynskyj tests John Hick's soul-making theodicy—that God allows suffering because virtues like courage, temperance, and compassion need pain to form—against Cash's life and songs. Using Aristotle on habituation by pleasure and pain (Cash's first amphetamine euphoria and the ostrich-attack painkillers as missed occasions for temperance) and Aquinas on innate aptitude and divinely infused virtue, he argues virtue can form without suffering (by genes or miracle), so soul-making alone cannot justify evil, as Cash himself implies about his mother's grief after Jack's death. Cash instead locates redemption in Christ's suffering ('Redemption,' 'Why Me, Lord?'), while the intervention by his son John Carter shows pain still occasioning real growth in temperance."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - “A Boy Named Sue” A Cashian Theodicy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "leibniz",
+    "plato"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "augustine-will",
+    "best-possible-world"
+   ],
+   "relation": "Jamie Carlin Watson reads Cash's Christian worldview as Augustinian: evil is not a positive substance but a privation or corruption of good (contra the monism Leibniz risks and the Manichean dualism Augustine rejected), so humans alone bear blame for moral evil through freely corrupting good things—'Cocaine Blues,' 'The Wall,' the Folsom prisoner who admits he 'had it coming,' and the divided self of 'The Beast in Me' echoing Romans 7. Natural evil, as in 'Guess Things Happen That Way' and the flood of 'Five Feet High and Rising' (Cash's mother's 'blessing' of rich river dirt), serves punishment or greater goods. 'A Boy Named Sue' dramatizes the residual tension: the father's get-tough-or-die theodicy convinces neither Sue nor us that the sheer amount of evil is justified."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Christmas in Jamaica.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plantinga",
+    "hume",
+    "epicurus",
+    "aquinas"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "compatibilism",
+    "free-will-determinism"
+   ],
+   "relation": "David Werther frames Jack Cash's saw death—which Cash told Nick Tosches he considered murder—and the 1982 armed robbery at Cinnamon Hill as tests of Epicurus's old questions (quoted via Hume): could a good, powerful God have prevented these evils? Distinguishing the evidential from the logical problem, he answers the logical problem with Plantinga's libertarian free will: not even God could ensure Cash freely 'walked the line' with Vivian, since guaranteeing fidelity would eliminate freedom. He rebuts the compatibilist counterobjection by arguing, with Aquinas, that nothing can be the cause of its own nature, and argues heaven can still fulfill Johnny and June's hope of meeting 'on the far side banks of the Jordan' even if the redeemed can no longer act wrongly."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - About the Authors.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Johnny Cash and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - ALSO FROM OPEN COURT.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Johnny Cash and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "inspired-anger",
+   "name": "Inspired Anger",
+   "philosopher": "plato",
+   "domain": "ethics-moral-psychology",
+   "what": "Desire accompanied by pain and sorrow but without hope, for a justice, restitution, or restoration that can never be, directed creatively into art (built on Plato's Ion account of poetic inspiration as being possessed or blown away).",
+   "why": "Chapter 23's central, original category: Cash's 'Hurt' exemplifies this futile, mourning anger, which is distinct from Aristotle's justified anger and from no taxonomy slug covers it."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "soul-making-theodicy",
+   "name": "Soul-Making Theodicy (John Hick)",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "John Hick's answer to the problem of evil: God permits suffering because virtues like courage, fortitude, compassion, and temperance can only form in a world containing danger, pain, and deprivation.",
+   "why": "Chapter 27's whole argument tests whether suffering-driven character formation can justify God's permission of evil and concludes the theodicy is too weak on its own."
+  },
+  {
+   "ch": 28,
+   "type": "concept",
+   "suggested_slug": "privation-of-evil",
+   "name": "Privation Theory of Evil (privatio boni)",
+   "philosopher": "augustine",
+   "domain": "religion-meaning",
+   "what": "Augustine's view that evil has no positive existence but is a corruption or falling-away from good, as darkness is merely the absence of light.",
+   "why": "Chapter 28 builds its Augustinian reading of Cash on this definition, contrasting it with monist and dualist accounts of the nature of evil, none of which taxonomy captures."
+  }
+ ]
+}

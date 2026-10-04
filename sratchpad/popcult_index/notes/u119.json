@@ -1,0 +1,216 @@
+{
+ "book": "070 - Dungeons and Dragons and Philosophy - Raiding the Temple of Wisdom",
+ "unit": "u119",
+ "chapters": [
+  {
+   "n": 22,
+   "file": "ch22 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "clark",
+    "chalmers",
+    "deleuze",
+    "democritus"
+   ],
+   "concepts": [
+    "extended-mind",
+    "atomism"
+   ],
+   "relation": "Levi Bryant argues the D&D universe models a 'flat ontology' of active substances whose powers (affects) actualize differently under local conditions, asking Democritus-style individuation questions about whether a band of ogres at a tavern is one entity or many. Characters and their gear form alliances that generate genuinely new beings, so the blind man with his cane, or Moorcock's Elric fed by the soul-drinking sword Stormbringer, is a different entity than without it, and he borrows Clark and Chalmers' extended mind hypothesis to deny that thinking happens only inside the head. The dice then supply chance that generates necessity: the Dungeon Master's throws conjure traps, wraiths and saving throws that form 'regimes of attraction' to which every player and monster must respond."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plutarch"
+   ],
+   "concepts": [
+    "personal-identity",
+    "ship-of-theseus"
+   ],
+   "relation": "Monica Evans argues that D&D is identity play in which players explore who they are through characters they create, perform and try to keep alive, opening with Plutarch's Ship of Theseus to ask whether a character re-rolled under a new edition, or replayed by another player, is still 'the same' character. She tests theories of the player-character bond (Gee's virtual, real and projective identities; Fine and Worch's 'identity bubble') on Wil Wheaton's Avenger Aeofel, whose in-character oath made Wheaton split the party and lose him rather than metagame. Bartle's four player types and the bulette-knowledge example show how each player manages the line between what they know and what their character knows, in a shared fiction where a glorious failure can be better than winning."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Dungeons and Dragons and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein",
+    "socrates"
+   ],
+   "concepts": [
+    "socratic-method",
+    "family-resemblance",
+    "paradox-of-fiction"
+   ],
+   "relation": "Carl Ehrett and Sarah Worth ask whether D&D is really a game (imagining Bill and Ted challenging Death to a campaign) and model the search for a definition of 'game' on Socrates dismantling Euthyphro's attempted definitions of piety, only for Wittgenstein's family resemblance to dissolve the project. On that view D&D still counts as a game despite lacking winning and losing, because its rule-governedness survives 'rule 0' license to bend rules whenever bending them crafts a better story. To explain why players who know the world is not real are nonetheless engrossed, they present Radford's paradox of fiction and adopt Walton's make-believe theory: the miniature on the table is a prop prescribing the imagining of an owlbear, so genuine quasi-emotions respond to truths in the fiction, making D&D an unusually gripping interactive story."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-aesthetics"
+   ],
+   "relation": "Pete Wolfendale and Tim Franklin argue that D&D founded a genuinely new art form because role-playing yields a distinctively Kantian aesthetic experience: not passive button-pushing like a kitten video, but the disinterested 'free play' of the cognitive faculties whose exercise is itself pleasurable. In a D&D session that free play just is the collaborative simulation of a world, where dice and DM rulings let consequences spiral beyond anyone's plan, as when a Polymorph Other turns a spider demon into a small purple platypus or a fumbled Bluff check lands the whole party in jail. They call this autonomous, unforefillable quality the 'depth' of a game world, and the pleasure of role-playing is feeling our own world-building power cope with a friction that mimics reality."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Chris Bateman uses Kendall Walton's make-believe (or 'prop') theory of representation to argue that the rules of D&D exist chiefly to prescribe what players imagine, not to regulate conduct. The Dungeon Master's word is law because he authorizes which player-submitted propositions become fictional truths, while dice supply narrative intensity by tying the gambler's 'favor of destiny' to a character's life or death, from Saving Throws against petrification to critical hits and fumbles. Classes, the six abilities (including Gygax's distinction between Intelligence and Wisdom), character sheets, modules, maps and miniatures are all props that let even less imaginative players share the fictional world, which is why Bateman concludes that tabletop RPGs are the purest games of make-believe and therefore art."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "turing"
+   ],
+   "concepts": [
+    "turing-test"
+   ],
+   "relation": "Adam Brackin takes on the ludology-versus-narratology debate over whether games are rule systems or stories and argues that D&D dissolves it, since 'roll-play' and role-play need each other. He surveys the designers quoted in Rules of Play (Crawford, Juul, Laurel, Costikyan), the April Fool's 'Roll-Playing for Roleplaying' parody, and Fourth Edition's simplifications and failed Skill Challenges to show that legislating either side breaks the game. Computer games mark the limit: D&D Online is a closed, on-rails system, and no AI passes the Turing test of replacing a creative human Dungeon Master, while the open 'border region' between game and story is where tabletop play, flow theory, ARGs and McGonigal's 'epic win' all live."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "zen"
+   ],
+   "relation": "Timothy Christopher opens with the Zen archer who never fires but lets the arrow fall, using it as a model of Dungeon Mastering: the planned campaign, once released among the players, goes where it will. He plots DM control on two axes (control of the game world and of the player characters) and profiles four archetypes: the balanced guide, the hands-off host, the rule-enforcing arbiter who is the closest thing to a computer game, and the puppet master who railroads players toward a pre-written story, each with its own criterion of success. Knowing your archetype lets the table agree on the DM-player relationship in advance, though a crafty DM, unlike the archer, can still bend wind and gravity to nudge the arrow in flight."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Jason Rose tells the 'gunpowder crisis' of his Second Edition campaign, in which a player's dwarf alchemist legitimately mixed gunpowder from sulfur, charcoal and salt peter gathered in a hobgoblin mine, and the unprepared DM could only ban it outright, breaking the group's immersion. He argues this was a metagaming failure: players must keep out-of-character knowledge (real-world chemistry, monster statistics) out of their characters' heads, while DMs can metagame well, for instance by fudging the alchemy check behind the screen for the players' sake. His central tool is the inversion of choice and chance between perspectives (dice make success chance for the player but skill for the character, while a chosen background is choice for the player but fate for the character), supplemented by narrative mechanics like hero points in Mutants and Masterminds that build storytelling into the rules."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Dungeons and Dragons and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "husserl"
+   ],
+   "concepts": [
+    "phenomenology"
+   ],
+   "relation": "David Aldridge uses Gadamer's hermeneutics to ask how players know their characters and whether the rulebooks' ban on metagaming makes sense. Collingwood's re-enactment thesis ('to know my character as he knows himself') underlies immersionist ideals of play, but total re-enactment is impossible once battle maps and third-person talk intrude, and Collingwood's own 're-enactment plus' model instead demands a dual awareness akin to Husserl's bracketing, knowing what my character knows plus knowing that I am representing him. Gadamer's fusion of horizons goes further: out-of-character knowledge cannot be separated out at all, our prejudices enable understanding and we are 'brought up short' when the character sheet fails, so knowing one's character 'differently' is a transformative event that may even edify us."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Dungeons and Dragons and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Dungeons and Dragons and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Dungeons and Dragons and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "flat-ontology",
+   "name": "Flat Ontology",
+   "philosopher": "deleuze",
+   "domain": "mind-language-metaphysics",
+   "what": "The view that all entities, human and nonhuman, living and nonliving, are equally substances endowed with powers (affects) and individuated by their history and capacities rather than by their current qualities.",
+   "why": "Chapter 22 reads D&D's world of alliances, enchanted items and dice-driven encounters (Elric and Stormbringer, warriors in armor, ogre war bands) as an instance of Bryant's Deleuze-Latour flat ontology, for which the taxonomy has only the philosopher Deleuze and no concept."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "paradox-of-fiction",
+   "name": "The Paradox of Fiction",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The puzzle that we have genuine emotional responses to characters and events we know do not exist, since we neither react to what we merely pretend is real nor believe fictions are real.",
+   "why": "Chapter 25 states Radford's paradox and uses Walton's quasi-emotions answer to explain why players who know the campaign world is not real are nonetheless genuinely engrossed in their characters' fates."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "family-resemblance",
+   "name": "Family Resemblance",
+   "philosopher": "wittgenstein",
+   "domain": "mind-language-metaphysics",
+   "what": "Wittgenstein's idea that many concepts, notably 'game', have no common essence but are united by a criss-crossing network of overlapping similarities, like the shared features of a family.",
+   "why": "Chapter 25 applies family resemblance to decide whether D&D is a game, arguing it belongs to the family despite lacking central features such as winning and losing."
+  },
+  {
+   "ch": 27,
+   "type": "philosopher",
+   "suggested_slug": "walton",
+   "name": "Kendall Walton",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "American philosopher of art whose make-believe (prop) theory holds that paintings, novels and games are props that prescribe imaginings, within which propositions are fictional, that is, true in a fictional world.",
+   "why": "Chapter 27 is built on Walton's prop theory, treating D&D rules, dice, classes, character sheets, maps and miniatures as props prescribing imagination, and chapter 25 uses the same theory to answer the paradox of fiction."
+  },
+  {
+   "ch": 28,
+   "type": "concept",
+   "suggested_slug": "ludology-narratology",
+   "name": "Ludology vs Narratology Debate",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The game-studies debate over whether games should be understood primarily as rule-based systems (ludology) or as extensions of narrative and storytelling (narratology).",
+   "why": "Chapter 28 frames the whole role-play versus gameplay dispute through this debate and argues D&D's 'border region' fuses the two rather than choosing sides."
+  },
+  {
+   "ch": 30,
+   "type": "concept",
+   "suggested_slug": "metagaming",
+   "name": "Metagaming (player vs character knowledge)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The use of out-of-character player knowledge in play, together with the inversion of choice and chance between the player's perspective (dice rolls) and the character's perspective (race, background, abilities).",
+   "why": "Chapter 30 uses the gunpowder-crisis anecdote to show how metagaming can wreck or enrich a campaign, and how dice and character creation redistribute accountability between player and character."
+  },
+  {
+   "ch": 31,
+   "type": "philosopher",
+   "suggested_slug": "gadamer",
+   "name": "Hans-Georg Gadamer",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "German philosopher of philosophical hermeneutics who analyzed understanding as an 'event' in which the interpreter's prejudices play an enabling role and interpreter and interpreted fuse their horizons.",
+   "why": "Chapter 31 develops its three models of knowing a D&D character (Collingwood's re-enactment, bracketing, fusion of horizons) directly from Gadamer's Truth and Method to reassess metagaming, and Gadamer is absent from the taxonomy."
+  }
+ ]
+}

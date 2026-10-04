@@ -1,0 +1,428 @@
+{
+ "book": "081 - How I Met Your Mother and Philosophy - Being and Awesomeness",
+ "unit": "u133",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - How I Met Your Mother and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - How I Met Your Mother and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - How I Met Your Mother and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - How I Met Your Mother and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - How I Met Your Mother and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - How I Met Your Mother and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "adam-smith"
+   ],
+   "concepts": [
+    "paradox-of-fiction"
+   ],
+   "relation": "The chapter poses the 'Barney Paradox': viewers identify and empathize with a character who is utterly awful (selling a woman, the Scuba Diver con that dupes all his friends), even though we would shun him in real life. Nanay tests and finds insufficient several explanations - Barney is just immature, we only feel schadenfreude at his slap-bet punishments, or his emotions are simply contagious - since none explains why Barney's badness increases our engagement. Using Hitchcock's bomb-under-the-table example and Adam Smith's idea of imagining ourselves in another's situation, he argues identification targets the character's situation, which is not itself evil. The appeal is vicarious badness: fiction lets us be 'virtual tourists' in immorality we would never choose for real."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - How I Met Your Mother and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "william-james",
+    "sartre"
+   ],
+   "concepts": [],
+   "relation": "The chapter takes Barney's 'when I get sad, I stop being sad and be awesome instead' as a serious thesis about emotional control. Goffin surveys somatic theories (William James: control the body, fake it till you make it), cognitivist judgment theories (Sartre and Robert Solomon: Ted's rage at Barney for sleeping with Robin is a judgment of betrayal), and Jesse Prinz's 'embodied appraisal' synthesis, concluding emotions are two-stage processes of direct appraisal plus narrative monitoring. Because we partly author the narratives wrapping our appraisals - as Barney did when reinventing himself after Shannon dumped him, and as Lily does by owning her failure as a painter - we can responsibly 'awesomize' our emotions."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - How I Met Your Mother and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [
+    "moral-egoism",
+    "plato-ring-of-gyges",
+    "aristotle-friendship"
+   ],
+   "relation": "The chapter argues Barney is best understood as a committed ethical egoist, distinguishing egoism from egotism, immoralism, and moral skepticism through the Playbook's Scuba Diver scam. Ainsworth rejects psychological egoism (Joey's view in Friends) using evolution and apparent counterexamples like Marshall's Christmas Eve deliveries, then uses Glaucon's ring of Gyges from the Republic to ask whether anyone would resist injustice with guaranteed impunity. The friendship objection is dissolved via Aristotle's 'a friend is another self': once friends are included in the ego, saving Marshall's relationship or rushing to Ted's hospital bed counts as self-interest, constrained like chess by absolute rules such as the Bro Code's Article 150."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - How I Met Your Mother and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gilligan"
+   ],
+   "concepts": [
+    "feminism"
+   ],
+   "relation": "The chapter reads Robin's series-long arc as an argument for non-essentialist feminism against Carol Gilligan's suggestion that all women share fundamental traits and rules. Caught between Lily's Dreamhouse-Barbie domesticity and the Career-Barbie ideal her father forcibly raised her into - mocked by kindergartners at career day, 'called slut' by Marshall for a one-night stand in 'The Naked Man' - Robin keeps trying to live one prescribed path entirely and is miserable both times. Only when she stops choosing between the boxes, marrying Barney while still never wanting children, does the show endorse the non-essentialist feminism of Deborah Rhode and Drucilla Cornell: a woman may custom-tailor her own happy ending."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - How I Met Your Mother and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre"
+   ],
+   "concepts": [
+    "bad-faith",
+    "sartre-freedom",
+    "existence-precedes-essence"
+   ],
+   "relation": "The chapter uses Sartre to diagnose Barney's fixed persona of suits, womanizing, and Bro Code worship as bad faith: having freely chosen to become the suited businessman who stole Shannon, Barney now acts as if those are his only options, denying his radical freedom. Hardy maps Sartre's own examples onto the show - Wendy the Waitress play-acting a stereotypical waitress, the woman who ignores the knee-touch, Barney tuning out criticism with 'I'm awesome' - and reads emotions, via Sartre's Sketch for a Theory of the Emotions, as magical transformations of the world like Marshall's 'best burger' quest and the Bob Barker paternity story. Barney's love for Robin and his secret reunion of Marshall and Lily are the moments he breaks out of bad faith and chooses freely against his persona."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - How I Met Your Mother and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - How I Met Your Mother and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "aristotle"
+   ],
+   "concepts": [
+    "hegemony",
+    "aristotle-friendship",
+    "feminism"
+   ],
+   "relation": "The chapter argues the Bro Code's real value lies not in getting laid but in structuring homosocial bonds, listing its best articles (loyalty, equality, generosity) alongside its most sexist ones (the Hot/Crazy Scale, Article 101). Karioris explains men's competitive relations through hegemonic masculinity - the school-bully dominance that forces all masculinities to compete and pushes women out - and invokes Foucault's 'Friendship as a Way of Life' for how bonds between men can escape taboo and emotional distance. Robin as wingwoman ('a better Ted than Ted') and the gang's gender transgressions show the Code can be amended toward equality, with Aristotle's friendship of mutual cooperation and benefit, 'quid pro bro', as the standard."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - How I Met Your Mother and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel"
+   ],
+   "concepts": [
+    "hegel-history"
+   ],
+   "relation": "The chapter reads Future Ted's narration as Hegel's philosophy of history scaled down to one love life: like Hegel's development of freedom, Ted's dating disasters are necessary stages whose rational order appears only retroactively, when the owl of Minerva flies at dusk. Against Marshall and Lily's 'let the universe decide' readings of doppelgangers and apartment signs, Ted's line that 'we only see what we want to see when we're ready to see it' captures belated necessity: the Lucky Penny chain and the Right Place, Right Time walk become one necessary story only through reflection. Meeting the Mother, the final end of Ted's history, redeems the goat beating, the broken engagement, and the lost Chicago interview as contributions to the narrative."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - How I Met Your Mother and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis"
+   ],
+   "concepts": [
+    "truth-in-fiction"
+   ],
+   "relation": "The chapter asks what is true in the fiction of HIMYM, distinguishing explicit 'primitive' truths (Robin is Canadian) from 'derivative' truths (Barney's conquests do not pop in and out of existence; his awesome gland is not real even in the story). Testing candidate accounts - carry over real-world truths, then restrict to shared community beliefs - against the college sub that is obviously a joint, the authors deploy David Lewis's pretense analysis of truth in fiction and Gregory Currie's fictional narrator, which the show's fallible, lying narrator Ted makes both nearly indispensable and insufficient. The upshot: ordinary viewers know exactly what is true in the show (they were smoking dope), while the theories strain to keep up - 'yeah, not so quick.'"
+  },
+  {
+   "n": 17,
+   "file": "ch17 - How I Met Your Mother and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "categorical-imperative",
+    "kant-respect"
+   ],
+   "relation": "The chapter evaluates Marshall and Lily's promise to tell each other everything through Kant: lying violates the universalizable duty of truthfulness and treats the deceived as a mere means, as with Lily's hidden credit card debt in 'Dowisetrepla', the realtor's sewage-plant omission, and Barney's fully staged seduction of Meg that blocks her informed choice. Even Marshall's kindly lie about the doppelganger fails Kant's test, alongside his infamous refusal to lie to the murderer at the door. Yet Kant's letters on reticence in friendship and his grim view of marriage as shared ends where spouses may use each other 'as if' they were things suggest that telling each other everything may itself corrode respect - the tension Lily's never-opened bathroom door dramatizes."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - How I Met Your Mother and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - How I Met Your Mother and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "adam-smith"
+   ],
+   "concepts": [
+    "hume-sentimentalism",
+    "invisible-hand",
+    "golden-rule"
+   ],
+   "relation": "The chapter presents Barney as a Humean moral philosopher: reason is the slave of the passions, and norms like the Bro Code are invented conventions that evolve, Adam Smith's invisible-hand style, rather than being designed, revealed, or deduced. The Platinum Rule ('never, ever love thy neighbor') is grounded in Humean reciprocity: the eight-stage arc of attraction to fallout in Barney's Wendy the Waitress disaster, the Gerards' brunch tyranny, and Robin's romance with co-worker Curt shows the retaliation costs that make the norm a rational solution to coordination failures. Against the Golden Rule's painterly elegance, the anatomist's cautious observation of behavior explains why a norm banning neighborly love emerges even in a society of non-saints."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - How I Met Your Mother and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gilligan",
+    "aristotle"
+   ],
+   "concepts": [
+    "care-ethics",
+    "aristotle-eudaimonia",
+    "aristotle-golden-mean",
+    "feminism"
+   ],
+   "relation": "The chapter argues HIMYM offers two complementary feminist icons: Robin embodies personal autonomy and independence - fighting from 'but, um' early-morning shifts to lead anchor, and grieving infertility as stolen autonomy rather than lost motherhood - while Lily, and even more Marshall, exemplify Carol Gilligan's feminist care ethics with its emphasis on emotion over impartiality, cooperation over competition, and partiality toward loved ones. Aristotle's golden mean supplies the test Robin passes by balancing career and love instead of pushing one to an extreme. The twist that a male character best exemplifies care ethics, with Lily bridging the two moral outlooks, is offered as the show's progressive complexity about gender."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - How I Met Your Mother and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "kierkegaard"
+   ],
+   "concepts": [
+    "authenticity",
+    "das-man",
+    "thrownness",
+    "leap-of-faith"
+   ],
+   "relation": "The chapter diagnoses the show's identity crises through Heidegger's Being and Time: Marshall's Goliath National Bank drudgery is anxiety over thrownness - the rent, the bills, the situation he never chose - while Lily's prom-night bolt to San Francisco is anxiety over freedom and possibility, and both fail anticipatory resoluteness, the commitment to be yourself while shouldering what you did not choose. das Man ('everybody's doing it') explains the gang's absorbed everydayness. Kierkegaard supplies the problem of time (life understood backwards but lived forwards) and Fear and Trembling's contrast between Abraham's leap of faith into the absurd and the 'demonic': Barney courts legendary moments yet manipulates uncertainty so he never becomes anyone new - the identity crisis that never ends."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - How I Met Your Mother and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The chapter models Ted's annual Slutty Pumpkin vigil as a decision-theory problem: multiplying Ted's subjective probability (0.1) by his utility (9) yields an expected utility of 0.9, beaten by the Victoria's Secret party's 2.5, and two further irrationalities are added - misjudging the objective probability and acting on harmful desires. Yet Ted's impulse purchase of the derelict house in 'Home Wreckers', which becomes his future family home, shows expected-utility reasoning failing when unknowable scenarios multiply. The authors conclude that when the future becomes incalculable, gut feelings are the only remaining and legitimate guides - sometimes it is better to be a happy lunatic waiting on the roof than a rational but unhappy sage."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - How I Met Your Mother and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - How I Met Your Mother and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "william-james"
+   ],
+   "concepts": [
+    "pragmatic-truth",
+    "will-to-believe",
+    "pragmatism"
+   ],
+   "relation": "The chapter compares Barney's 'True story' pronouncements with William James's pragmatism, using James's squirrel anecdote and the 'Zoo or False' monkey-mugging to ask when an evidentially undecidable dispute becomes a live practical question. Like James's pragmatic cases for free will and religious comfort, Barney's monkey story and the twenty-eight-year-old 'with some sun damage' are beliefs made true by their practical (mostly entertainment) value, then replaced like outdated theories when new evidence arrives, as James's consistency requirement demands. The divergence: the Barney Stinson (BS) theory of truth is self-serving, engineering unverifiable stories others cannot disprove, while James weighs what works for everyone's experience."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - How I Met Your Mother and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "moore",
+    "aristotle"
+   ],
+   "concepts": [
+    "hume-is-ought",
+    "naturalistic-fallacy",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "Framed as a sports broadcast with Aristotle as commentator, the chapter tests an evolutionary ethics ('BEES': the good is the naturally desirable, so the Pleistocene Stinson strategy of spreading genes grounds Barney's womanizing) against its classic critics. Hume's is-ought gap and Moore's open question argument are deployed against deriving Barney's right to pursue tail from human nature, while William Casebeer's evolutionary ethics replies that 'good' can be defined by present reproductive success - under which lying and eternal bachelorhood fail, since commitment is what reproduces genomes in urban New York ('BIRDS'). The chapter concludes that evolutionary ethics can support the Bro Code only by contestable redefinition, and the lying objection stands."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - How I Met Your Mother and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger"
+   ],
+   "concepts": [
+    "personal-identity",
+    "narrative-identity"
+   ],
+   "relation": "The chapter reads the show's storytelling as identity construction through Paul Ricoeur's narrative identity, built on Heidegger's insight that human being is fundamentally temporal: we live in memories and future possibilities, so 'damn you, past Ted!' collisions between selves are structural. Ricoeur's two times - linear cosmological time versus fragmented phenomenological time - explain the show's looped, goat-intruding storytelling, while Giddens's reflexive project of the self (dubbed 'reflexibility') and Turkle's new-media multiple windows explain our fragmented, self-designed identities. Goffman's dramaturgy completes the picture: Barney's womanizer persona is a Goffmanesque masquerade that collapses, the yips, when his first lover reveals the founding story was false."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - How I Met Your Mother and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "hegel",
+    "graham-priest"
+   ],
+   "concepts": [
+    "hegel-dialectic",
+    "dialetheism"
+   ],
+   "relation": "The chapter defends Barney's 'possimpible' as real philosophy. Aristotle's three formulations of the law of non-contradiction (from the Metaphysics) and Duns Scotus's ex falso quodlibet explosion argument show why classical logic must ban the possible and impossible becoming one - from one true contradiction, 'bimbos love studying formal logic' follows. Hegel's Science of Logic (the limit of the beer, the finite that is itself only by passing into its not-being) and Graham Priest's dialetheism from In Contradiction then argue limits are inherently contradictory, so the possimpible names the real turning point where opposites become each other - lived, the chapter claims, in Barney's transformation from lame hippie into suited bro."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - How I Met Your Mother and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - How I Met Your Mother and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 8,
+   "type": "concept",
+   "suggested_slug": "paradox-of-fiction",
+   "name": "The Paradox of Fiction",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The puzzle of why we feel genuine emotions for characters and events we know do not exist.",
+   "why": "Chapter 8 distinguishes its 'Barney Paradox' of identifying with an immoral character from the classic paradox of fiction, which it explicitly names and builds on."
+  },
+  {
+   "ch": 9,
+   "type": "concept",
+   "suggested_slug": "cognitive-theory-of-emotion",
+   "name": "Cognitive Theory of Emotion",
+   "philosopher": "sartre",
+   "domain": "existentialism-phenomenology",
+   "what": "The view that emotions are judgments or appraisals rather than mere bodily feelings, so they can be chosen and reshaped.",
+   "why": "Chapter 9 evaluates whether Barney can 'stop being sad and be awesome instead' by weighing somaticist (James), cognitivist (Sartre, Solomon), and embodied-appraisal (Prinz) theories of emotion, none of which the taxonomy covers."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "feminist-anti-essentialism",
+   "name": "Feminist Anti-Essentialism (non-essentialism)",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "The view that women share no fixed set of defining traits and no single path a woman's life must take.",
+   "why": "Chapter 11 explicitly frames Robin's entire arc as a lesson in the non-essentialist feminism of Deborah Rhode and Drucilla Cornell, a doctrine no existing slug captures."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "truth-in-fiction",
+   "name": "Truth in Fiction",
+   "philosopher": "lewis",
+   "domain": "mind-language-metaphysics",
+   "what": "The question of which propositions are true within a fictional work, given explicit statements plus background beliefs and implication.",
+   "why": "Chapter 16 is wholly about deriving primary and derivative fictional truths in HIMYM, testing Lewis's pretense account and Currie's fictional narrator against the sub-versus-joint case."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "personal-autonomy",
+   "name": "Personal Autonomy",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Self-governance: setting one's own priorities and living by values that are genuinely one's own, historically withheld from women.",
+   "why": "Chapter 20 reads Robin as a feminist icon of autonomy, defining it through Marilyn Friedman and treating oppression as withheld autonomy; kant-autonomy (will autonomy) is a different concept."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "expected-utility",
+   "name": "Expected Utility Theory",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The theory that rational agents choose by maximizing probability-weighted satisfaction of their desires (expected utility).",
+   "why": "Chapter 22's whole analysis of Ted's Slutty Pumpkin vigil is an expected-utility calculation, and its conclusion about gut feelings is a critique of rational choice theory, which the taxonomy lacks."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "narrative-identity",
+   "name": "Narrative Identity",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Ricoeur's view that the self is constituted by the stories it tells about itself, unifying past, present, and future.",
+   "why": "Chapter 26 applies Ricoeur's narrative identity to Ted's narration and the gang's storytelling; personal-identity alone misses the narrative-constitution thesis the chapter defends."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "law-of-non-contradiction",
+   "name": "Law of Non-Contradiction",
+   "philosopher": "aristotle",
+   "domain": "mind-language-metaphysics",
+   "what": "Aristotle's principle that contradictory propositions cannot both be true at the same time and in the same sense.",
+   "why": "Chapter 27 quotes all three of Aristotle's formulations of the law and sets them, with Duns Scotus's explosion principle, against dialetheism to judge the possimpible; the taxonomy has no formal-logic concepts."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "dialetheism",
+   "name": "Dialetheism (true contradictions)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Graham Priest's thesis that some contradictions are true, developed via paraconsistent logic to tame the principle of explosion.",
+   "why": "Chapter 27's positive argument uses Priest's dialetheism (In Contradiction, Beyond the Limits of Thought) to vindicate the possimpible; hegel-dialectic alone does not cover paraconsistent logic."
+  },
+  {
+   "ch": 27,
+   "type": "philosopher",
+   "suggested_slug": "graham-priest",
+   "name": "Graham Priest",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Contemporary logician and philosopher, leading proponent of dialetheism and paraconsistency.",
+   "why": "Chapter 27 stages Priest as Barney's wingman, drawing directly on In Contradiction and Beyond the Limits of Thought for the chapter's defense of true contradictions."
+  },
+  {
+   "ch": 27,
+   "type": "philosopher",
+   "suggested_slug": "duns-scotus",
+   "name": "Duns Scotus",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "Medieval philosopher-tradition associated with the principle of explosion (ex falso quodlibet).",
+   "why": "Chapter 27 features Duns Scotus as a character who derives anything whatsoever from Barney's possimpible contradiction via ex falso quodlibet, and the taxonomy lacks him entirely."
+  }
+ ]
+}

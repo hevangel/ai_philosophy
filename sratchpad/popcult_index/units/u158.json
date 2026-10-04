@@ -1,0 +1,139 @@
+{
+ "unit": "u158",
+ "book": "098 - The Princess Bride and Philosophy - Inconceivable!",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\philosophy_pop_culture\\markdown\\098 - The Princess Bride and Philosophy - Inconceivable!",
+ "range": [
+  3,
+  24
+ ],
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - ii.md",
+   "words": 984
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "words": 0
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "words": 111
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Dedication.md",
+   "words": 2
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Contents.md",
+   "words": 660
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Thanks.md",
+   "words": 103
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Hello, My Name is Inigo Montoya. You Bought This Book. Prepare to Enjoy!.md",
+   "words": 318
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Part I Deceptive Words.md",
+   "words": 17
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 1. True Love and False Fronts.md",
+   "words": 3414
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 2. Why Men of Action Don\u2019t Lie.md",
+   "words": 5837
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 3. The Magic of a Promise.md",
+   "words": 4182
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 4. That Moron Aristotle on the Means of Persuasion.md",
+   "words": 2780
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 5. Does It Mean What Vizzini Thinks It Means.md",
+   "words": 2734
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Part II Courage and Reason.md",
+   "words": 20
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 6. To the Pain.md",
+   "words": 3817
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 7. Who Should Have Won the Battle of Wits.md",
+   "words": 3459
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 8. I Will Never Doubt Again.md",
+   "words": 3153
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Part III Getting Even.md",
+   "words": 24
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 9. Why Revenge Is So Sweet.md",
+   "words": 3697
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 10. Making the Punishment Fit the Crime.md",
+   "words": 3271
+  },
+  {
+   "n": 23,
+   "file": "ch23 - 11. Have Fun Overthrowing This Evil Government!.md",
+   "words": 3726
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 12. Should I Really Stop That Rhyming.md",
+   "words": 4555
+  }
+ ],
+ "content": [
+  3,
+  7,
+  9,
+  11,
+  12,
+  13,
+  14,
+  15,
+  17,
+  18,
+  19,
+  21,
+  22,
+  23,
+  24
+ ]
+}

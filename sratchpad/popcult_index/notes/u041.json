@@ -1,0 +1,288 @@
+{
+ "book": "027 - Hitchcock and Philosophy - Dial M for Metaphysics",
+ "unit": "u041",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Hitchcock and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Popular Culture and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Previews and Opening Credits.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "existentialism",
+    "authenticity"
+   ],
+   "relation": "The editors' introduction argues that Hitchcock is a profound artist whose classic films are organized around ideas, citing Chabrol and Rohmer's claim that each film rests on a 'formal postulate,' so that philosophical issues arise directly from his cinematic motifs. It previews four features of Hitchcock's vision the volume will explore: an anti-utopian outlook on a fallen world perpetually at risk of chaos, an existentialist affirmation of self-definition through choice and commitment, a construal of spectatorship as flight from commitment and authenticity, and an anticipation of later thinking on the social roles of women. It closes with acknowledgments to the contributors, series editor Bill Irwin, and Open Court."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - I - The Mystery of Everyday Life.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Violence Against Utopia.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "utopia-dystopia",
+    "terrorism-violence"
+   ],
+   "relation": "Drumin reads Sabotage as Hitchcock's anti-utopian statement: against perfectible societies imagined from Plato's Republic to Skinner, Freud and Dostoyevsky show that the psyche's attraction to chaos cannot be planned or conditioned away. In four scenes, the aquarium meeting where 'monsters from the Id' watch over Verloc's bomb deal, the bird shop where explosives sit among a child's toys, the conspiracy hatched behind a movie screen whose audience laughs at on-screen chaos, and Stevie's death on the bus, the film shows a quiet family man rationalizing mass murder by 'abstracting' its victims into a mere list of names. Hitchcock punishes the audience too, implicating its own safe enjoyment of represented violence, and concludes that only constant individual vigilance, never social engineering, keeps the potential for chaos in check."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Plato’s Cave Again.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "kant",
+    "mill",
+    "william-james"
+   ],
+   "concepts": [
+    "plato-cave",
+    "categorical-imperative",
+    "utilitarianism",
+    "care-ethics"
+   ],
+   "relation": "Curran uses Shadow of a Doubt to teach epistemology: Charlie's claim to 'know' her uncle distinguishes knowledge by acquaintance from propositional knowledge as justified true belief, with the permanently stuck 'Til Two clock showing a true belief that is not knowledge because its warrant is unreliable. Coherence (Hegel, Blanshard), pragmatist (James, Dewey), and correspondence theories of truth are tested against the townspeople's false but convenient beliefs about Uncle Charlie, and only correspondence survives. Kant's absolute duty not to lie is weighed against Mill's act and rule utilitarianism for the detectives' deceptions, and a feminist care-ethics perspective assesses Charlie's shielding her mother from the truth. Plato's cave frames the cinema itself: film can deceive like shadows on a wall, yet the detectives' unused photograph shows the camera can also reveal truth, so movies help us face facts, at the price, as Charlie pays, of lost innocence."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Rupert’s Response and Responsibility.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "ubermensch",
+    "will-to-power",
+    "death-of-god"
+   ],
+   "relation": "Biderman and Jacobowitz read Rope through Nietzsche: Brandon and Philip strangle their classmate David as would-be Nietzschean supermen, acting on mentor Rupert Cadell's cocktail-party theory that murder can be an art for a superior few. The chapter explains the will to power, the Ubermensch, and the death of God, then argues Brandon is no superman: he kills from weakness and a bully's need for an audience, mistaking crass destruction for the refined self-creation Nietzsche demanded, just as the fascist appropriation of Nietzsche fails. Rupert's horrified final speech, renouncing 'superior or inferior beings' and insisting each of us is 'a separate human being,' raises whether a teacher can disavow responsibility when students act out his provocative ideas: ideas have consequences, and the only true test of a philosophy is whether we can live by it."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - II - Horrors Without End.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - A Proper Answer.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "augustine",
+    "plantinga"
+   ],
+   "concepts": [
+    "problem-of-evil"
+   ],
+   "relation": "Tallon takes Psycho as a case study in the problem of evil: after Hume's Epicurean challenge, Marion's shower murder and Norman's shattered psyche exemplify Marilyn McCord Adams's 'horrendous evils,' whose grotesque disproportion between any crime and its fate threatens to destroy the positive meaning of a life. The free will defense (Plantinga, Augustine) fails because Marion's death is bad luck rather than punished choice, and Hick's soul-making theodicy fails because evil here shatters character rather than building it. Carroll's definition of monsters is revised so that monsters are beings of severe disorder and disproportion, which Norman, Dracula, and Hitler all display, and Swinburne's Principle of Honesty offers the closest answer: God allows horrors because systematically preventing them would deceive us about the truth that evil is the privation of proper order, inherently grotesque and disordered."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - To Nest or Not to Nest.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates",
+    "nussbaum"
+   ],
+   "concepts": [
+    "platonic-love",
+    "plato-forms",
+    "philosophy-of-love"
+   ],
+   "relation": "Halwani and Jones read The Birds as Hitchcock's warning about romantic love: love compromises autonomy through joint decision-making, emotional dependence, and exposure to contingencies like jealousy, betrayal, sickness, and death. Plato's Symposium stages the alternatives, Socrates's ladder of love culminating in the eternal Form of Beauty versus Alcibiades's speech for the painful, contingent love of a unique person, and Nussbaum's reading underscores that these two visions of romantic love are mutually exclusive. In the film, bird attacks strike whenever Melanie, Mitch, Annie, or Lydia treat love as a game or possession, while the caged lovebirds, the only birds that never attack, show that only love sealed in a 'gilded cage' could be cost-free; lovers must instead face love's price wisely, maturely, and courageously."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - “Your Heavenly Father Feeds Them”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "descartes",
+    "rousseau",
+    "hobbes",
+    "plato",
+    "diogenes-cynic"
+   ],
+   "concepts": [
+    "aristotle-soul",
+    "political-animal",
+    "state-of-nature",
+    "free-will-determinism"
+   ],
+   "relation": "Calef takes the Tides restaurant scene ('Who are you? What are you?') and Diogenes's plucked rooster versus Plato's 'featherless biped' as a springboard for testing every classic criterion of humanity against the film. Aristotle's rational soul fails because Mrs. Bundy's 'brain pans' reasoning is wrong and some humans cannot reason; Descartes's language test fails because the myna bird can learn to talk while horrified humans go mute; Rousseau's free will fails because the birds behave unpredictably and resist instinct while humans are trapped, caged, and herd-like; Aristotle's political animal and Hobbes's social contract fail because the town's hoods and lawbreakers contrast with birds that flock together across species. Even the appeal to God's favor turns dark, as the drunk quotes scripture while Revelation's birds gather for a supper of human flesh, leaving the film a mirror in which we must examine ourselves."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Bad Faith.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "buber",
+    "heidegger"
+   ],
+   "concepts": [
+    "bad-faith",
+    "i-thou",
+    "authenticity"
+   ],
+   "relation": "Lee reads the 'Breakdown' episode of Alfred Hitchcock Presents existentially: when the executive Callou coldly fires Humka and hangs up on his despair, he treats a person as a thing, Buber's 'I-It' pseudo-listening where Humka sought an 'I-Thou' dialogue with the godlike source of authority in his world. Heidegger's account of inauthenticity explains the mask of rational control behind which Callou hides, and Sartre's bad faith names the self-deception by which he pretends his godlike management of others is justifiable. Paralyzed and taken for a corpse after a car crash, Callou can be saved only when rational strategy fails and he finally weeps: the single tear reveals his caring nature, Jessie addresses him person-to-person, and, vulnerable before God and others, he becomes an authentic self, Hitchcock's pointed moral for bosses who give an employee the sack."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - III - The Reeling Mind.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Knots.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "plato"
+   ],
+   "concepts": [
+    "philosophy-of-love"
+   ],
+   "relation": "Carroll argues that Vertigo rewards repeated viewing not because of its wildly improbable crime plot but because its double love story is a contribution to the philosophy of love: citing Aristotle's Poetics on drama as a 'concrete universal,' he treats Scottie and Judy as ideal character types, the projective fantasist and the enabler, whose sequential romances invite viewers to compare them and so discover love's inherent fault line, fantasy. Fantasy legitimately fuels infatuation, courtship, idealization, and the imagined future lovers share, but Scottie's remodeling of Judy (the grey suit, the hair, the necklace) becomes blinding projection that denies the beloved's irreplaceable particularity despite her plea to be loved 'just the way I am.' Judy's need to be loved makes her complicit in her own erasure, a Laingian 'knot' in which acting on her motive defeats it, while the film maieutically draws this analysis from the viewer, as Socrates drew geometry from the slave in the Meno."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Vertigo and Epistemological Vertigo.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "aristotle",
+    "kuhn",
+    "descartes",
+    "chalmers"
+   ],
+   "concepts": [
+    "hume-sentimentalism",
+    "paradigm-shift",
+    "skepticism",
+    "logical-positivism"
+   ],
+   "relation": "Flory reads Vertigo as an epistemological parable: Scottie's 'hardheaded Scot' method, collecting facts and deducing from universal principles, fails three times (the step-stool 'cure' for his acrophobia, explaining away Madeleine's 'possession' with the horse statue, forcing Judy up the bell tower for confirmation), delivering an implicit critique of Vienna Circle positivism in the manner of Carnap and Ayer. Against Scottie, the chapter mobilizes Kuhn's theory-laden facts, Aristotle's point that human conduct resists codification by exceptionless laws, and Hume's 'slave of the passions,' with Descartes's automata and Chalmers's philosophical zombies framing the problem of other minds. Midge, who knows people emotionally as well as factually, models the alternative: philosophers who fear 'epistemological vertigo' should give up epistemological training wheels and accept that minds, especially emotions, escape law-like rules."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Identities, Selves, and Others.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "parfit",
+    "sartre",
+    "aristotle",
+    "charles-taylor"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "personal-identity",
+    "existence-precedes-essence"
+   ],
+   "relation": "Patterson uses Thornhill's being mistaken for the fictitious George Kaplan to test theories of personal identity: the body theory fails a CIA thought experiment in which a Kaplan double is slowly rebuilt from Thornhill's own replaced cells; Locke's memory theory fails on amnesia scenarios and circularity, since one cannot have memories of a self unless one already has a self; and Parfit's psychological continuity survives, with Thornhill drifting along a 'Psychological Spectrum' toward 'one hundred percent Kaplan' as he plays the spy. The chapter then turns existentialist: with Sartre, no essential nature fixes who Thornhill is, so he is totally responsible for the self his choices create, from 'Expedient Exaggerations' to risking death on Mount Rushmore. Charles Taylor's claim that a self exists only in dialogue with a community explains why Eve and others literally help make Thornhill into the person he becomes."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Turning the Tables.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "care-ethics"
+   ],
+   "relation": "Wartenberg argues that North by Northwest pits two defective ethical stances against each other: the Professor's 'zealous patriotism,' exposed as callous in the USIA scene where he lets the innocent Thornhill be killed as the Kaplan decoy and spends Eve in the line of danger ('War is hell, Mr. Thornhill, even when it's a cold one'), and Thornhill's 'ethical particularism,' akin to the feminist ethics of care, exposed as headstrong when love-driven rashness leaves both lovers dangling on Mount Rushmore and only the Professor's intervention saves them. Yet the ending's match cut from Rushmore to the train berth reveals Hitchcock's real McGuffin: the Professor fails less as a moralist than as a bad director whose staged deceptions misfire, and the film's true philosophical claim is self-reflexive, that only film has the power to reconcile patriotism and romantic love, an optimistic world existing only in the artifice of the camera."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 8,
+   "type": "philosopher",
+   "suggested_slug": "freud",
+   "name": "Sigmund Freud",
+   "philosopher": "",
+   "domain": "nineteenth-century",
+   "what": "Founder of psychoanalysis who modeled the psyche as a conflict between instinctual drives (the id) and internalized social restraint (the superego), drives that repression can check but never eliminate.",
+   "why": "Chapter 8's reading of Sabotage rests on Freud: the aquarium's 'monsters from the Id' symbolize the chaotic drives Verloc fails to watch, grounding Hitchcock's anti-utopian claim that chaos cannot be planned out of the psyche."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "horrendous-evils",
+   "name": "Horrendous Evils",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Marilyn McCord Adams's term for evils of such grotesque disproportion and disorder that they threaten to destroy the positive meaning of the lives of both victim and perpetrator.",
+   "why": "Chapter 12 argues Psycho's shower murder and Norman's fate are horrendous evils, an aesthetic category of unfittingness that strengthens the logical problem of evil beyond what the generic problem-of-evil slug captures."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "laing-knots",
+   "name": "Knots (R.D. Laing)",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "R.D. Laing's term for entangled binds in which acting on a motive brings, by a 'crazy' but inexorable logic, exactly the opposite of what one hoped for.",
+   "why": "Chapter 17's closing move names the Scottie-Judy relationship a knot: Judy's need to be loved makes her feed the projective fantasy that prevents Scottie from loving her, and the chapter title 'Knots' names this concept."
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "logical-positivism",
+   "name": "Logical Positivism (Vienna Circle)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The Vienna Circle program (Carnap, Ayer) holding that science is the only proper model for philosophy and that only observation- and logic-anchored, verifiable claims are meaningful.",
+   "why": "Chapter 18's section 'Vertigo and the Vienna Circle' reads Scottie's fact-collecting, rule-deducing method as an implicit critique of positivism, which cannot accommodate the emotions and noncodifiable behavior that guide human minds."
+  },
+  {
+   "ch": 19,
+   "type": "philosopher",
+   "suggested_slug": "charles-taylor",
+   "name": "Charles Taylor",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Canadian philosopher who argues the self is not a possession like a heart or liver but is constitutively formed through self-interpretation in ongoing dialogue with a community of others.",
+   "why": "Chapter 19 closes on Taylor's view that 'one cannot be a self on one's own,' using it to explain how Eve and the Kaplan role help make Thornhill into a new person."
+  }
+ ]
+}

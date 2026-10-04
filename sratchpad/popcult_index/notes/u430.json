@@ -1,0 +1,71 @@
+{
+ "book": "308 - The Palgrave Handbook of Popular Culture as Philosophy",
+ "unit": "u430",
+ "chapters": [
+  {
+   "n": 44,
+   "file": "ch44 - 41. Blade Runner as Philosophy What Does It Mean to Be Human.md",
+   "kind": "chapter",
+   "philosophers": ["descartes", "locke", "plato", "merleau-ponty", "epicurus", "nietzsche"],
+   "concepts": ["personal-identity", "plato-cave", "cartesian-dualism", "meaning-of-life"],
+   "relation": "Shanahan argues Blade Runner is philosophical despite Ridley Scott's denial, using the replicants (Roy Batty, Rachael, Leon) as defamiliarizing 'mirrors' for the human condition. He shows the Nexus-6 replicants satisfy Descartes' two criteria for a thinking soul (linguistic flexibility, novel problem-solving) while human characters like Deckard prove as cold and empathy-deficient as the machines, collapsing the human/replicant distinction the Voight-Kampff test presumes. He then reads Rachael's implanted memories through Locke's memory theory of personal identity, Roy's 'tears in rain' death through Epicurean worries about finitude, and frames the whole via Plato's Cave line 'they are like us' — the replicants model our own concerns with memory, death, and the meaning of a temporally bounded life."
+  },
+  {
+   "n": 45,
+   "file": "ch45 - 42. Up in the Air as Philosophy Buddhism and the Middle Path.md",
+   "kind": "chapter",
+   "philosophers": ["buddha"],
+   "concepts": ["buddhism", "four-noble-truths", "buddhist-non-self", "buddhist-impermanence"],
+   "relation": "Duffy reads Ryan Bingham's arc in Up in the Air as a Zen Buddhist parable paralleling Hesse's Siddhartha. Ryan preaches an 'empty backpack' philosophy of nonattachment and treats the miles as their own point, but Duffy argues he only intellectually grasps the four noble truths — dukkha, its cause in attachment (tṛṣṇā), and the eightfold path — until his failed attachment to Alex and his mentorship of Natalie make him actually suffer. Like Siddhartha with his son, Ryan learns wisdom must be experienced, that the anattā (non-self) doctrine undercuts the identity he built on his job, and that the goal is not escaping the world but living the Middle Path within it, present to suffering rather than spinning silver linings."
+  },
+  {
+   "n": 46,
+   "file": "ch46 - 43. Ex Machina as Philosophy Mendacia Ex Machina (Lies from a Machine).md",
+   "kind": "chapter",
+   "philosophers": ["kant", "turing", "searle", "jackson", "plato"],
+   "concepts": ["categorical-imperative", "kant-humanity-formula", "turing-test", "knowledge-argument", "plato-ring-of-gyges", "chinese-room"],
+   "relation": "Grinnell argues Ex Machina is fundamentally about lying, read through Kant's deontology. He frames Nathan's rigged Turing test on Ava against Glaucon's Ring of Gyges challenge and Kant's two formulations of the categorical imperative, deriving three 'wrinkles': lying is heteronomous programming rather than the autonomy Nathan seeks; the experiment is defensible only if Ava fails, since a genuine person may not be manipulated (Formula of Humanity); and the cascade of lies among Nathan, Caleb, and Ava vindicates Kant's absolute prohibition on lying. He uses Caleb's telling of Frank Jackson's Mary's Room and Searle's weak/strong AI distinction to question whether Ava's 'pleasure response' amounts to genuine consciousness or personhood."
+  },
+  {
+   "n": 47,
+   "file": "ch47 - 44. Gattaca as Philosophy Genoism and Justice.md",
+   "kind": "chapter",
+   "philosophers": ["rawls", "appiah", "singer"],
+   "concepts": ["justice-as-fairness", "veil-of-ignorance", "difference-principle", "applied-ethics"],
+   "relation": "Grinnell argues Gattaca depicts a society built on 'intrinsic genoism' and diagnoses it with Rawls's justice as fairness. He adapts Appiah's distinction between racialism and intrinsic vs. extrinsic racism to genoism, showing that Valids like Josef, Anton, and Eugene treat In-valids like Vincent as inferior simply for being In-valid, discounting all counterevidence. Using Janet Radcliffe Richards's 'separate spheres' argument he shows the caste system is either superfluous or unjust, and via Kitcher's 'life theme' he argues nearly everyone — Vincent, Irene, Anton, Eugene — suffers a low quality of life from having their theme thrust upon them. He concludes that Rawls's veil of ignorance and difference principle would dismantle the separate spheres and give everyone a fair, autonomy-respecting shot at their chosen life."
+  },
+  {
+   "n": 48,
+   "file": "ch48 - 45. A.I. Artificial Intelligence as Philosophy Machine Consciousness and Intelligence.md",
+   "kind": "chapter",
+   "philosophers": ["turing", "searle"],
+   "concepts": ["turing-test", "hard-problem", "applied-ethics", "phenomenology"],
+   "relation": "Gamez uses Spielberg/Kubrick's A.I. to separate three things the film conflates: intelligence, consciousness, and emotion. He argues intelligence is a functional property (David could pass a Turing test but a skilled interrogator would spot him), whereas consciousness is a physical property that cannot be inferred from David's human-like behavior — only a mathematical theory mapping physical to conscious states could tell whether David really experiences the love, fear, and pain that drive our empathy in the Flesh Fair. He insists the ethics of destroying mechas should hinge on their consciousness, not their intelligence, and connects David's engineered, irreversible imprinting-love to Lorenz's ethology and Damasio/James theories of emotion, and his eerie early behavior to Mori's uncanny valley."
+  },
+  {
+   "n": 49,
+   "file": "ch49 - 46. The Shawshank Redemption as Philosophy Freedom and Panopticism.md",
+   "kind": "chapter",
+   "philosophers": ["sartre", "foucault", "nietzsche"],
+   "concepts": ["panopticon", "discipline", "sartre-freedom", "the-look"],
+   "relation": "Hooke reads The Shawshank Redemption through two lenses. From Sartre he takes 'hell is other people' and the objectifying look from No Exit and Being and Nothingness — Shawshank's warden and 'sisters' embody a worldly hell of 'never' and 'always' — but argues Andy and Red's friendship, Andy's Mozart broadcast, and the hopeful ending invert Sartre, making freedom the shared warmth of friendship rather than the devouring gaze. From Foucault's Discipline and Punish he reads the prison's shift from spectacle to disciplinary surveillance and solitary confinement as panopticism, extending Foucault's insight that prisons, schools, and hospitals mirror one another (illustrated by his COVID-era campus). He closes with Nietzschean genealogy and redemption through laughter, joy, and giving."
+  },
+  {
+   "n": 50,
+   "file": "ch50 - 47. Snowpiercer as Philosophy The Danger to Humanity.md",
+   "kind": "chapter",
+   "philosophers": ["rawls", "hobbes", "plato", "machiavelli", "nozick", "arendt", "aquinas", "mill", "singer", "spinoza"],
+   "concepts": ["veil-of-ignorance", "justice-as-fairness", "difference-principle", "utilitarianism", "noble-lie", "social-contract", "just-war-theory"],
+   "relation": "Marquez 'pierces the veils' of Snowpiercer to argue the greatest danger to humanity is humanity itself. He reads Wilford's authoritarian, precisely population-controlled train through Plato's noble lie / myth of the metals (Mason's 'know your place'), Hobbes's social contract against a cannibalistic state of nature, and Machiavellian ends-justify-means to weigh whether Gilliam's secret compromise with Wilford is morally acceptable. He tests the orchestrated revolution against utilitarianism's greatest-happiness principle (Bentham, Mill's taxation-of-the-wealthy, Singer's impartiality) and against Rawls's veil of ignorance and difference principle versus Nozick's entitlement objection and Aquinas's just-war criteria, concluding each character's actions can be read as 'just,' which exposes anthropocentrism as the real veil."
+  },
+  {
+   "n": 51,
+   "file": "ch51 - 48. The Matrix as Philosophy Understanding Knowledge, Belief, Choice, and Reality.md",
+   "kind": "chapter",
+   "philosophers": ["descartes", "hume", "searle", "rorty", "plato", "gettier", "reid", "aristotle"],
+   "concepts": ["cartesian-doubt", "descartes-cogito", "compatibilism", "free-will-determinism", "plato-cave", "gettier-problem"],
+   "relation": "Perez reads the Matrix trilogy as a sustained argument about how choosing what to believe and 'know' shapes the reality we live in. He opens with Descartes' dream problem and cogito, contrasting Descartes' foundationalism with Rorty's anti-foundationalism to explain Cypher's choice to reject reality for the Matrix's certitude, and uses Searle's brute vs. institutional facts (the cookies, the steak, 'there is no spoon') to show social reality is constructed. Against the fatalism of the Oracle, Architect, and Merovingian, he argues nearly every character makes free choices, and resolves the tension via Hume's compatibilism — liberty requires necessity, and choices gain meaning only in response to causality — while noting agent-causation objections (Reid, O'Connor, Rowe) that make Neo's 'Because I choose to' significant. Gettier's justified-true-belief critique and Plato's Cave frame the knowledge and enlightenment themes."
+  }
+ ],
+ "holes": []
+}
