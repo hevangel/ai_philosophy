@@ -1,0 +1,13 @@
+[2026-10-03 22:58:48] === chunk loop start (chunk=6, max 3.0 h, container=kb_camoufox) ===
+[2026-10-03 22:58:48] pending: 6
+[2026-10-03 22:58:48] running chunk: 7,9,12,14,15,17
+[2026-10-03 23:13:19]   [05:59:29] #007 no mirror link on edition page
+[2026-10-03 23:13:19]   [06:00:42] #009 OK -> book_0009.pdf (272 kB)
+[2026-10-03 23:13:19]   [06:03:57] #012 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-03 23:13:19]   [06:05:34] #014 ads page has no GET link
+[2026-10-03 23:13:19]   [06:10:29] #015 timeout: Timeout 240000ms exceeded while waiting for event "download"
+[2026-10-03 23:13:19]   [06:13:19] #017 OK -> book_0017.pdf (712 kB)
+[2026-10-03 23:13:19]   #009 saved -> 009 - Ecological Ethics - An Introduction.pdf
+[2026-10-03 23:13:20]   #017 saved -> 017 - Contemporary Moral Problems.pdf
+[2026-10-03 23:13:20] chunk done: 2 new files
+[2026-10-03 23:13:20] sleeping 289 min before next chunk

@@ -1,0 +1,66 @@
+{
+  "2": {
+    "status": "done",
+    "file": "002 - 李天命的思考藝術.epub",
+    "ext": "epub"
+  },
+  "4": {
+    "status": "done",
+    "file": "004 - On Manners.epub",
+    "ext": "epub"
+  },
+  "8": {
+    "status": "done",
+    "file": "008 - Gödel, Escher, Bach - An Eternal Golden Braid.epub",
+    "ext": "epub"
+  },
+  "11": {
+    "status": "done",
+    "file": "011 - What Darwin Got Wrong.epub",
+    "ext": "epub"
+  },
+  "18": {
+    "status": "done",
+    "file": "018 - Existentialism.epub",
+    "ext": "epub"
+  },
+  "1": {
+    "status": "pending_retry"
+  },
+  "3": {
+    "status": "pending_retry"
+  },
+  "5": {
+    "status": "pending_retry"
+  },
+  "6": {
+    "status": "pending_retry"
+  },
+  "7": {
+    "status": "no_result"
+  },
+  "9": {
+    "status": "no_result"
+  },
+  "10": {
+    "status": "pending_retry"
+  },
+  "12": {
+    "status": "no_result"
+  },
+  "13": {
+    "status": "pending_retry"
+  },
+  "14": {
+    "status": "no_result"
+  },
+  "15": {
+    "status": "no_result"
+  },
+  "16": {
+    "status": "pending_retry"
+  },
+  "17": {
+    "status": "no_result"
+  }
+}

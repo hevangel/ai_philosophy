@@ -1,0 +1,45 @@
+{
+  "9": {
+    "status": "done",
+    "file": "009 - Ecological Ethics - An Introduction.pdf",
+    "ext": "pdf"
+  },
+  "17": {
+    "status": "done",
+    "file": "017 - Contemporary Moral Problems.pdf",
+    "ext": "pdf"
+  },
+  "1": {
+    "status": "pending_retry"
+  },
+  "3": {
+    "status": "pending_retry"
+  },
+  "5": {
+    "status": "pending_retry"
+  },
+  "6": {
+    "status": "pending_retry"
+  },
+  "7": {
+    "status": "failed"
+  },
+  "10": {
+    "status": "pending_retry"
+  },
+  "12": {
+    "status": "pending_retry"
+  },
+  "13": {
+    "status": "pending_retry"
+  },
+  "14": {
+    "status": "pending_retry"
+  },
+  "15": {
+    "status": "pending_retry"
+  },
+  "16": {
+    "status": "pending_retry"
+  }
+}

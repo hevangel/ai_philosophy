@@ -1,0 +1,27 @@
+[
+ {
+  "book": "002 - 李天命的思考藝術",
+  "n_chapters": 21,
+  "total_words": 26062
+ },
+ {
+  "book": "004 - On Manners",
+  "n_chapters": 51,
+  "total_words": 71357
+ },
+ {
+  "book": "008 - Gödel, Escher, Bach - An Eternal Golden Braid",
+  "n_chapters": 46,
+  "total_words": 316913
+ },
+ {
+  "book": "011 - What Darwin Got Wrong",
+  "n_chapters": 24,
+  "total_words": 83285
+ },
+ {
+  "book": "018 - Existentialism",
+  "n_chapters": 18,
+  "total_words": 127618
+ }
+]

@@ -1,0 +1,57 @@
+[
+ {
+  "book": "002 - \u674e\u5929\u547d\u7684\u601d\u8003\u85dd\u8853",
+  "status": "ok",
+  "problems": [],
+  "spine_docs": 21,
+  "epub_words": 26062,
+  "md_files": 21,
+  "md_words": 26062,
+  "word_ratio": 1.0,
+  "paired_chapters": 21
+ },
+ {
+  "book": "004 - On Manners",
+  "status": "ok",
+  "problems": [],
+  "spine_docs": 51,
+  "epub_words": 71357,
+  "md_files": 51,
+  "md_words": 71357,
+  "word_ratio": 1.0,
+  "paired_chapters": 51
+ },
+ {
+  "book": "008 - G\u00f6del, Escher, Bach - An Eternal Golden Braid",
+  "status": "ok",
+  "problems": [],
+  "spine_docs": 46,
+  "epub_words": 316913,
+  "md_files": 46,
+  "md_words": 316913,
+  "word_ratio": 1.0,
+  "paired_chapters": 46
+ },
+ {
+  "book": "011 - What Darwin Got Wrong",
+  "status": "ok",
+  "problems": [],
+  "spine_docs": 24,
+  "epub_words": 83285,
+  "md_files": 24,
+  "md_words": 83285,
+  "word_ratio": 1.0,
+  "paired_chapters": 24
+ },
+ {
+  "book": "018 - Existentialism",
+  "status": "ok",
+  "problems": [],
+  "spine_docs": 18,
+  "epub_words": 127618,
+  "md_files": 18,
+  "md_words": 127618,
+  "word_ratio": 1.0,
+  "paired_chapters": 18
+ }
+]
