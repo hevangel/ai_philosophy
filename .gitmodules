@@ -1,3 +1,0 @@
-[submodule "data"]
-	path = data
-	url = http://localhost/gogs/data/philosophy
