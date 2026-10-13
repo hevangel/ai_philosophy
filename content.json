@@ -15,6 +15,21 @@
       "description_zh": "與人工智能對話而寫成的哲學文章。",
       "items": [
         {
+          "slug": "economics_of_salvation",
+          "title": "The Economics of Salvation: Individual Rationality, Institutional Survival, and the Value of Lukewarm Christians",
+          "title_zh": "救恩的經濟學：個人理性、組織存續，與不冷不熱基督徒的價值",
+          "summary": "If ordinary faithfulness is enough for salvation, what reason does a rational believer have to become a saint? An economic analysis of the gap between what salvation demands of individuals and what churches need to survive — and an argument that lukewarm Christians may be an institution's hidden assets.",
+          "summary_zh": "如果平凡的忠信已足以得救，理性的信徒還有甚麼理由成為聖人？本文以經濟學分析救恩對個人的要求與教會存續所需之間的落差，並論證不冷不熱的基督徒可能是宗教組織隱藏的資產。",
+          "path": "articles/economics_of_salvation/index.md",
+          "cover": "articles/economics_of_salvation/cover.png",
+          "cover_zh_text": [
+            "救恩的經濟學",
+            "個人理性、組織存續",
+            "與不冷不熱基督徒的價值"
+          ],
+          "date": "2026-10-12"
+        },
+        {
           "slug": "the_bridge_was_not_built_for_machines",
           "title": "The Bridge Was Not Built for Machines",
           "title_zh": "這座橋不是為機器而建",
