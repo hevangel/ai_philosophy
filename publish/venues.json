@@ -369,17 +369,25 @@
    "language": "en",
    "url": "https://eujap.uniri.hr/",
    "ai_status": "allowed",
-   "ai_policy": "'The Journal does not exclude the use of AI generated text. However, all authors (including reviewers and editors) take full responsibility for its factual accuracy.' One of the few philosophy journals with an explicitly permissive stance.",
+   "ai_policy": "'The Journal does not exclude the use of AI generated text. However, all authors (including reviewers and editors) take full responsibility for its factual accuracy and the proper acknowledgement of sources.' The norms REQUIRE acknowledging AI use in the manuscript (acknowledgement section or title page): identify the AI (e.g. ChatGPT + version/date) and the contribution level on the negligible/modest/substantial scale; 'substantial' needs a narrative description of the AI usage. Negligible (style/grammar only) is exempt from reporting. AI must NOT be listed as co-author. One of the few philosophy journals with an explicitly permissive stance.",
    "ai_source": "https://eujap.uniri.hr/norms-for-publishing-with-ai/",
    "policy_history": [
     {
      "date": "2026-09-11",
      "event": "First audit: permissive policy confirmed."
+    },
+    {
+     "date": "2026-10-13",
+     "event": "No status change; fuller live capture: in-manuscript acknowledgement requirement + negligible/modest/substantial contribution scale (from norms-for-publishing-with-ai page)."
+    },
+    {
+     "date": "2026-10-14",
+     "event": "Live portal check at submission time: classic OJS account registration disabled; login is eduGAIN/ORCID SSO only. Author guidelines specify email-to-editors submission route and title-page requirements."
     }
    ],
-   "checked": "2026-09-11",
+   "checked": "2026-10-14",
    "submission": {
-    "portal": "https://eujap.uniri.hr/ (OJS submission)",
+    "portal": "https://ojs.srce.hr/eujap (OJS 3, SSO ONLY: eduGAIN or ORCID - self-registration disabled, checked live 2026-10-14). Author guidelines also name an email route: manuscripts sent electronically to the Editors at eujap@ffri.uniri.hr (Word-compatible or PDF), blind manuscript + separate title page (abstract <=300 words, keywords, affiliation, email).",
     "formats": [
      "docx",
      "pdf"

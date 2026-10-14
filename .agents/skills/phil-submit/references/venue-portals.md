@@ -4,7 +4,11 @@ Concrete flow notes per portal type. Always verify against the live site — por
 Where a step needs the user (login, 2FA, captcha, payment), pause and ask.
 
 ## PhilArchive (https://philarchive.org)
-1. Log in with the owner's PhilPapers account (user handles login).
+1. Log in with the owner's PhilPapers account. Credentials live in the repo-root `.env`
+   (gitignored): `PHILPAPERS_EMAIL` / `PHILPAPERS_PASSWORD` — load with
+   `py -3 publish/scripts/portal_env.py PHILPAPERS_EMAIL` (or read `.env` directly).
+   The agent performs the login when credentials are present; hand the step back to the
+   user for CAPTCHA/2FA or a failed sign-in.
 2. "Add an item" / direct upload: choose *Submitted to PhilArchive* (preprint) or *Published*.
 3. Fill: title, abstract, keywords, subject areas (use PhilPapers categories), authors.
 4. Upload PDF only. OCR requirement: the PDF must have extractable text (our pandoc→Word→PDF
