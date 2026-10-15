@@ -15,6 +15,36 @@
       "description_zh": "與人工智能對話而寫成的哲學文章。",
       "items": [
         {
+          "slug": "amateur_revolt",
+          "title": "The Amateur Revolt: Artificial Intelligence, Academic Gatekeeping, and the Future of Intellectual Authority",
+          "title_zh": "業餘者的反抗：人工智能、學術把關，與知識權威的未來",
+          "summary": "AI will transform the professions with measurable outputs first; the humanities, where quality resists measurement, may hold out longest — and the engineers who master AI at work can turn it on philosophy at the weekend. An argument that AI-assisted amateurs may unseat academic gatekeeping, that self-selection is quietly assembling a pro-AI coalition inside and outside the universities, and that the ultimate winner may be AI itself, as the judge of intellectual work.",
+          "summary_zh": "AI 會先改寫成果可以量度的行業；質素難以量度的人文學科，或者抵抗得最久——而在職場上用慣 AI 的工程師，周末就可以用 AI 來做哲學。本文論證：藉 AI 助力的業餘者可能動搖學術把關；自我選擇正在大學內外悄悄集結一支親 AI 的陣營；而最終的贏家，可能是作為知識工作評審者的 AI 自身。",
+          "path": "articles/amateur_revolt/index.md",
+          "cover": "articles/amateur_revolt/cover.png",
+          "cover_zh_text": [
+            "業餘者的反抗",
+            "人工智能、學術把關",
+            "與知識權威的未來"
+          ],
+          "date": "2026-10-14"
+        },
+        {
+          "slug": "the_summit_is_not_the_climb",
+          "title": "The Summit Is Not the Climb: AI, Creative Value, and the Displacement Fallacy",
+          "title_zh": "山頂不是攀登：AI、創造價值，與取代謬誤",
+          "summary": "Jordan MacKenzie argues that generative AI threatens how we value twice over: by displacing meaningful creative processes, and by exposing a hidden discord in what people care about. This reply challenges the inferences behind both threats — automating a historically necessary process does not destroy the values it served, and preferring an AI-made poem is not indifference to human achievement. Grouse Mountain supplies the master image: the summit is not the climb.",
+          "summary_zh": "Jordan MacKenzie 認為生成式人工智能對人類價值實踐構成雙重威脅：既取代有意義的創造過程，又揭露人與人之間隱藏的價值分歧。本文反駁兩個威脅背後的推論——把歷史上必需的過程自動化，不等於摧毀它所服務的價值；偏好 AI 寫的詩，也不等於對人類成就漠不關心。Grouse Mountain 提供了主導意象：山頂不是攀登。",
+          "path": "articles/the_summit_is_not_the_climb/index.md",
+          "cover": "articles/the_summit_is_not_the_climb/cover.png",
+          "cover_zh_text": [
+            "山頂不是攀登",
+            "AI、創造價值",
+            "與取代謬誤"
+          ],
+          "date": "2026-10-14"
+        },
+        {
           "slug": "economics_of_salvation",
           "title": "The Economics of Salvation: Individual Rationality, Institutional Survival, and the Value of Lukewarm Christians",
           "title_zh": "救恩的經濟學：個人理性、組織存續，與不冷不熱基督徒的價值",
