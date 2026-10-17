@@ -1,0 +1,18 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: a steep forested mountain overlooking a coastal city and harbor; hikers strain upward on a long stairway cut into the slope while a gondola glides effortlessly up its cables beside them; both routes converge on the same radiant summit crowned with light; fine cross-hatching throughout."
+    },
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — vintage travel poster",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Vintage screen-printed travel poster with flat retro colors and bold simple shapes, purely pictorial: a steep green forested mountain rising above a coastal harbor city, hikers climbing a long winding stairway cut into the slope while a red gondola glides up cables beside them, both routes converging on a sunny summit under a bright sky."
+    }
+  ]
+}

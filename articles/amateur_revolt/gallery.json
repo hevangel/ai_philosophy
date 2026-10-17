@@ -1,0 +1,18 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: a tall ivory tower of learning with barred iron gates, robed professors watching anxiously from its battlements, while a great crowd of ordinary townspeople — craftsmen, engineers, clerks and laborers — marches up the hill toward the gates, led by a small mechanical scribe walking among them; fine cross-hatching throughout."
+    },
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — screen-printed protest poster",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Bold screen-printed protest poster in flat red, black and cream with a grainy print texture, purely pictorial: a crowd of ordinary working people — craftsmen with tools, engineers, clerks, students — marching together toward a tall ivory tower whose iron gates are swinging open, a small friendly robot walking in their midst, robed professors peering down from the tower's battlements."
+    }
+  ]
+}

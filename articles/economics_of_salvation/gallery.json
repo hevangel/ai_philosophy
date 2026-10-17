@@ -1,0 +1,18 @@
+{
+  "title": "Image gallery",
+  "title_zh": "圖片廊",
+  "images": [
+    {
+      "src": "gallery-copperplate.webp",
+      "caption": "Alternate cover — black-and-white copperplate engraving",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Black-and-white copperplate engraving in the manner of an 18th-century scientific engraving, purely pictorial: a great celestial staircase rising through clouds to the radiant gates of heaven; a plain, comfortable believer in ordinary dress ascends a smooth, gentle lower stair while a robed missionary climbs a steep, rocky path beside him carrying a heavy cross; between them stands a vast balance scale weighing a few modest coins of devotion against a mountain of sacrifice; fine cross-hatching throughout."
+    },
+    {
+      "src": "gallery-alt-cover.webp",
+      "caption": "Alternate cover — medieval illuminated manuscript",
+      "model": "Muse Image (Meta)",
+      "style_prompt": "Medieval illuminated manuscript painting with gold leaf, ultramarine blue and jewel tones, in the manner of a Book of Hours miniature, purely pictorial: two pilgrims journey toward a radiant golden gate of heaven in the clouds — one a plain believer strolling along a smooth, gentle path, the other a robed missionary climbing a steep rocky path carrying a heavy wooden cross — with a great golden balance scale standing between the two paths."
+    }
+  ]
+}
