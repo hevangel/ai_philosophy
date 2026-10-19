@@ -15,6 +15,21 @@
       "description_zh": "與人工智能對話而寫成的哲學文章。",
       "items": [
         {
+          "slug": "limits_of_devotional_obligation",
+          "title": "The Limits of Devotional Obligation: Prayer, Divine Self-Sufficiency, and the Rational Allocation of Religious Life",
+          "title_zh": "敬虔義務的界限：祈禱、上帝的自足，與宗教生活的理性分配",
+          "summary": "Christian traditions consistently affirm the importance of prayer, yet the goodness of prayer does not establish that more private prayer is always better. Drawing on divine self-sufficiency and omniscience, Aquinas's account of devotion, Luther's theology of vocation, and Wesley's priority of works of mercy over works of piety, this paper argues that the quantity of optional private prayer does not reliably measure religious commitment — additional devotion should be weighed against charity, family, theological study, and contemplation.",
+          "summary_zh": "基督宗教傳統一致肯定祈禱的重要，但祈禱的善並不能確立更多私人祈禱必然更好。本文援引神聖自足與全知的古典教義、阿奎那對敬虔的理解、路德的召命神學，以及衞斯理「憐憫的善工優先於敬虔的善工」的主張，論證自願私人祈禱的分量並不能可靠地量度宗教委身——額外的靈修，應當與慈善、家庭、神學研讀與沉思放在一起衡量。",
+          "path": "articles/limits_of_devotional_obligation/index.md",
+          "cover": "articles/limits_of_devotional_obligation/cover.png",
+          "cover_zh_text": [
+            "敬虔義務的界限",
+            "祈禱、上帝的自足",
+            "與宗教生活的理性分配"
+          ],
+          "date": "2026-10-18"
+        },
+        {
           "slug": "amateur_revolt",
           "title": "The Amateur Revolt: Artificial Intelligence, Academic Gatekeeping, and the Future of Intellectual Authority",
           "title_zh": "業餘者的反抗：人工智能、學術把關，與知識權威的未來",
