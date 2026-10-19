@@ -526,6 +526,14 @@
           "path": "knowledge-base/popcult-index/index.md",
           "cover": "knowledge-base/popcult-index/covers/003.webp",
           "date": "2026-09-27"
+        },
+        {
+          "slug": "readings-kb",
+          "title": "Philosophy Readings — A Problem-Based Knowledge Base",
+          "summary": "Fifty-three philosophy problems across nine subfields, built from twenty-six textbooks and anthologies: each entry opens with a 90-second lecture version, then sets out the positions with faithful premise–conclusion reconstructions of the canonical arguments, objections and replies, and a ladder from survey chapters to primary sources.",
+          "path": "knowledge-base/readings-kb/index.md",
+          "cover": "knowledge-base/readings-kb/cover.webp",
+          "date": "2026-10-19"
         }
       ]
     },

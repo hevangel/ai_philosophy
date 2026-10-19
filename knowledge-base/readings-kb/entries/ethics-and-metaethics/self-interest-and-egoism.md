@@ -1,0 +1,54 @@
+# Self-interest and Egoism
+*Subfield: Ethics & Metaethics (moral psychology) · Also known as: psychological egoism; the egoistic challenge to morality*
+
+## The question
+Is every human action, at bottom, self-interested? The rescuer, the martyr, the anonymous donor: does each act, however it appears, from a desire for the agent's *own* good — pleasure, relief, reputation, a quiet conscience — so that genuinely other-regarding motivation is an illusion? **Psychological egoism** is the descriptive thesis that this is so, universally. It is not a moral theory (it recommends nothing) but a claim about human motivation, and if it were true it would reshape moral psychology: benevolence would need re-describing, and morality's demands would have to work through self-interest or not at all — the route Hobbes took. Our textbook's question is the prior one: is the thesis even *true*, and what would count as showing it?
+
+## The 90-second version
+*No Carneades lecture is devoted to this problem; the following is distilled from the textbook (Jacobs, *Dimensions of Moral Theory*, ch. 2) and is marked accordingly, per the build rules.* The egoist's favourite evidence is a verbal slide. The donor is *pleased* by the recipient's relief; the rescuer *wanted* to help; so — the egoist concludes — each acted for his own pleasure, his own want: self-interest everywhere. The textbook presses the slide. That an action satisfies the agent's desire does not make its *object* the agent: I desire *that she be relieved*, and my pleasure is the by-product of getting what I wanted, which was her relief, not my pleasure. "It pleases me" is not the same as "it is in my interest," and a desire for another's good is not made selfish by being *mine* — every desire is someone's. Against the egoist's suspicion that benevolence is always disguised, the chapter sets Hume, Smith, and Mill: human beings have real social feelings — sympathy is a basic feature of our constitution, not a costume self-interest wears. Hobbes is the interesting middle case: he built morality *out of* self-interest (covenants kept because insecurity is worse) without needing the strong psychological thesis to be a definition. And Plato and Aristotle reverse the egoist's direction entirely: justice is not a tax on the soul's good but a constituent of it — the just person profits *in his soul* — so the opposition between morality and self-interest is itself the mistake.
+
+## Positions
+
+### Psychological egoism: all motivation is self-interested
+The thesis: every voluntary action is motivated, ultimately, by the agent's own interest or pleasure. In its crude form it trades on the slide diagnosed above; in careful forms it claims that apparent benevolence always has a self-regarding payoff (relief of one's own sympathetic distress, anticipated reciprocity, self-image) that is the real object of desire.
+
+**Canonical argument** (source: Jacobs, ch. 2 — a formalization of the egoist case as the chapter presents it):
+- P1. In every apparently benevolent action, the agent acts on his own desire, and its satisfaction gives him pleasure or relieves his discomfort.
+- P2. Acting to satisfy one's own desire, for the pleasure or relief its satisfaction brings, is acting self-interestedly.
+- ∴ C. Every action is self-interested; benevolence is self-interest under a description that hides it.
+
+**Objections** (the chapter's replies) — P2 is where the argument lives or dies, and it equivocates. (i) *Ownership vs object*: that the desire is the agent's does not make the agent its object. A desire *that the stranded motorist be helped* is satisfied by his being helped, whether or not the helper ever learns of it or feels anything; a desire for one's own pleasure is satisfied only by one's pleasure. The two have different objects and different satisfaction-conditions, and collapsing them is a verbal trick, not a discovery. (ii) *Pleasure as by-product*: the pleasure of benevolence *presupposes* the benevolent desire — you cannot take pleasure in her relief unless you first wanted her relieved for her sake; so pleasure cannot be the desire's original object without circularity. (iii) *Unfalsifiability*: if every counterexample is re-described as hidden self-interest, the thesis stops being an empirical discovery and becomes a definition in disguise — and as a definition it proves nothing about how people actually are. Jacobs's verdict on method (via the scepticism analogy below): the *possibility* of an egoistic redescription is not evidence of its truth.
+
+### Hobbes: morality constructed from self-interest
+Hobbes accepts something like the egoist's psychology but draws the opposite moral from the debunkers: precisely *because* agents pursue their own preservation and good, they have reason to covenant — to lay down the right to all things in exchange for security — and to keep covenants, since the war of all against all is the worst outcome for each. Morality and political obligation are *artifacts of* self-interest rationally pursued, not illusions exposed by it. The textbook's point in placing Hobbes here: egoistic premises do not by themselves settle anything against morality; everything depends on what is built on them.
+
+### The social-feelings reply (Hume, Smith, Mill)
+Benevolence is real and basic. Hume: the affection of humanity is "common to all men" and is the foundation of morals; Smith's impartial spectator (see [Moral Relativism and Subjectivism](moral-relativism-and-subjectivism.md)) works *because* sympathy is a genuine other-directed capacity; Mill treats the social feelings of mankind as a natural sentiment, "one of the principal ingredients" of moral motivation, needing cultivation rather than unmasking. On this view the egoist has the explanatory direction backwards: self-interest is the special case that sometimes needs explaining, not the universal solvent.
+
+### Plato and Aristotle: justice as the soul's profit
+The reversal. The question "why be just, if justice costs me?" assumes justice and the agent's good are rivals. Plato's *Republic* argues the just soul is the *ordered* soul — each part doing its work under reason's rule — and that injustice is a kind of psychic disorder, bad for its possessor as disease is bad for the body, whether or not it is detected. Aristotle likewise makes the excellent life *constitutively* the pleasant and flourishing one for the person whose desires are rightly formed. On this family of views, morality is not self-interest's competitor but its correct specification: the egoist and the moralist are both wrong to accept the dichotomy (compare the alignment thesis in [Moral Motivation](moral-motivation.md)).
+
+### The egoist as global sceptic (the chapter's methodological moral)
+Jacobs closes the section with an analogy this KB should preserve. The egoist's procedure — for every apparently benevolent act, produce a possible self-interested reinterpretation — mirrors the global sceptic's procedure in epistemology (for every belief, a possible deception scenario), and the replies mirror too: as Reid, Moore, Wittgenstein, and Chisholm argued in their different ways against scepticism, the bare *possibility* of a systematic reinterpretation does not dislodge the straightforward reading of the phenomena. Egoism, like scepticism, wins only if its reinterpretations are *better explanations*, and the chapter's burden is that — once the ownership/object equivocation is removed — they are not.
+
+## Thought experiments
+This problem is not driven by a single named thought experiment in the corpus; its working pressure is applied by counterexample-shaped cases. **The anonymous, unrewarded rescue**: a passer-by dives for a drowning stranger, is never identified, tells no one, and — press the case — dies in the attempt, so that no pleasure, relief, reputation, or even survival accrues. The egoist must locate the self-interest in the *anticipation*, and at that point the object/ownership distinction does its work: what was anticipated with satisfaction was the stranger's rescue, by an agent who would not live to enjoy anything. (The chapter's own discussion questions include the *failed* rescue and related cases; see [Moral Luck](moral-luck.md), where the same family of cases does different work.)
+
+## Source ladder
+- Start: no lecture covers this problem — begin with the Survey.
+- Survey: Jacobs, *Dimensions of Moral Theory*, ch. 2, "Self-interest."
+- Primary (as presented in Jacobs): Hobbes, *Leviathan*; Hume, *Enquiry Concerning the Principles of Morals*; Smith, *The Theory of Moral Sentiments*; Mill, *Utilitarianism* ch. 3; Plato, *Republic*; Aristotle, *Nicomachean Ethics*.
+- Full treatment: ch. 2 whole, with the motivation debate that frames it.
+
+## Where the debate stands
+The textbook's stance is unusually definite for this book, and the entry reports it as the textbook's stance, not as settled philosophy: crude psychological egoism rests on an equivocation, and the sophisticated version purchases immunity at the price of unfalsifiability; benevolence, on the Hume–Smith–Mill line, is a datum to be built on, not an appearance to be explained away. What remains genuinely open in the chapter: how *much* of actual motivation is other-regarding (an empirical question the text does not pretend to settle), and the normative question Hobbes and Plato answer in opposite directions — whether morality should be *founded on* self-interest (contract) or *identified with* the agent's deepest good (the soul's order) — which reappears in [Forms of Moral Theory](forms-of-moral-theory.md) as the contractarian and virtue-centred options.
+
+## Connections
+- [Moral Motivation](moral-motivation.md) — the parent problem: egoism is the claim that one item on the motorist's list of ten motives is secretly the whole list.
+- [Forms of Moral Theory](forms-of-moral-theory.md) — Hobbes's construction becomes the contractarian form; the Plato/Aristotle reversal becomes the virtue-centred form.
+- [Moral Relativism and Subjectivism](moral-relativism-and-subjectivism.md) — Hume's and Smith's social feelings do double duty: they ground morality's content there and its motivational reality here.
+- Epistemology's [External-World Skepticism](../epistemology/external-world-skepticism.md) — the methodological analogy is explicit in the text: egoism stands to moral psychology as global scepticism stands to epistemology, and the anti-sceptical replies transfer.
+
+## Sources read for this entry
+- Jacobs, *Dimensions of Moral Theory* (book 028), ch. 2: "Self-interest" — read in full (extraction file ch02/ch03 seam region of ch. 2), with the framing sections "Moral Motivation" and "Virtue and Motivation."
+- No lecture is used as a source for this entry; the 90-second version is textbook-distilled and is marked as such in place.
