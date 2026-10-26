@@ -240,3 +240,7 @@ sratchpad/libgen_batch/gluetun_configs/
 # Repo-local: gogs corpus mirror is machine-local only — a submodule pointer here breaks
 # GitHub Pages builds (runner cannot clone http://localhost/gogs/...)
 data/
+
+# Repo-local: downloaded book binaries (libgen corpus) — never publish copyrighted
+# epub files; commit their metadata/states only. Force-add a specific file if ever needed.
+*.epub
