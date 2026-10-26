@@ -1,0 +1,143 @@
+{
+  "book": "223 - The Philosophy of J.J. Abrams",
+  "unit": "u323",
+  "chapters": [
+    {
+      "n": 2,
+      "file": "ch02 - THE PHILOSOPHY OF POPULAR CULTURE.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 3,
+      "file": "ch03 - Title Page.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 4,
+      "file": "ch04 - Copyright.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 5,
+      "file": "ch05 - The Philosophy of Stanley Kubrick.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 6,
+      "file": "ch06 - Contents.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 7,
+      "file": "ch07 - Acknowledgments.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 8,
+      "file": "ch08 - Introduction.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche", "camus", "heidegger", "kierkegaard"],
+      "concepts": ["existentialism", "the-absurd", "authenticity"],
+      "relation": "Editor Jerold Abrams argues Kubrick's whole filmography forms a coherent 'cinematic existentialism' in which a free subject stands against a cold, uncaring world, synthesized with strands of Stoicism and pragmatism. He surveys the volume's essays as variations on this theme: Camus' absurd in Fear and Desire and Dr. Strangelove, Nietzschean flux in Full Metal Jacket, Heideggerian being-toward-death and authenticity in Paths of Glory, and Nietzsche's overman as the Star Child in 2001. The essay ties specific films (the ape's femur, HAL, Humbert, the Overlook) to the claim that each Kubrick subject must invent its own meaning in a meaningless universe."
+    },
+    {
+      "n": 9,
+      "file": "ch09 - Part One The Subject at War.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 10,
+      "file": "ch10 - Understanding the Enemy The Dialogue of Fear in Fear and Desire and Dr. Strangelove Elizabeth F. Cooke.md",
+      "kind": "chapter",
+      "philosophers": ["camus", "sartre", "descartes"],
+      "concepts": ["the-absurd", "existentialism", "bad-faith"],
+      "relation": "Cooke reads Kubrick's Fear and Desire and Dr. Strangelove through Camus' absurdism, arguing that facing fear and meaninglessness is a task each person must do alone. In Fear and Desire the detached Lieutenant is Camus' lucid 'stranger,' while mad Sidney and death-seeking Mac fail by fleeing into fantasy or false hope; the interchangeable soldiers and doubled enemy general dramatize the sheer contingency of which side one is on. In Dr. Strangelove the individual is dissolved into insane institutions (Ripper, Strangelove, the Doomsday Machine, the War Room round table), so that Sartrean bad faith becomes systemic and no one can face the absurd honestly."
+    },
+    {
+      "n": 11,
+      "file": "ch11 - Chaos, Order, and Morality Nietzsche\u2019s Influence on Full Metal Jacket Mark T. Conard.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche", "heraclitus"],
+      "concepts": ["will-to-power", "heraclitean-flux", "death-of-god", "master-slave-morality"],
+      "relation": "Conard argues Full Metal Jacket dramatizes Nietzsche's flux metaphysics: reality is ceaseless becoming with no fixed identities, so Sergeant Hartman's attempt to erase the recruits' individuality (shaved heads, nicknames, identical drills) is a doomed imposition of order on chaos. Private Pyle, who alone keeps his real name and uniqueness, embodies the folly of that project; his murder of Hartman and suicide unleash the chaos of the film's Vietnam half. Reading collapsed oppositions (combatant/civilian, male/female, sacred/profane) and Hartman's 'God has a hard-on for marines' line, Conard concludes that in a Nietzschean world after the death of God, absolutist morality fails and not all killings are alike\u2014Joker's mercy killing of the sniper being humane where Pyle's is senseless."
+    },
+    {
+      "n": 12,
+      "file": "ch12 - Existential Ethics Where the Paths of Glory Lead Jason Holt.md",
+      "kind": "chapter",
+      "philosophers": ["sartre", "heidegger", "aristotle"],
+      "concepts": ["authenticity", "bad-faith", "existentialism", "being-toward-death"],
+      "relation": "Holt uses Paths of Glory to illustrate existential ethics, framing the doomed 701st Regiment as 'thrown' beings-toward-death who retain full freedom in how they meet their fate. He resolves the 'paradox of existentialism' (denying objective values while commanding authenticity) by treating authenticity as a formal, second-order virtue like integrity: Colonel Dax is sincere and consistent, General Mireau an inauthentic hypocrite acting in bad faith. Addressing weakness of will (Roget's cowardice) and the condemned Paris 'dying well' before the firing squad, Holt argues that courage\u2014an Aristotelian character virtue\u2014is the smuggled-in content that grounds any formalist existential ethics."
+    },
+    {
+      "n": 13,
+      "file": "ch13 - Part Two The Subject in Love.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 14,
+      "file": "ch14 - Where the Rainbow Ends Eyes Wide Shut Karen D. Hoffman.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "kierkegaard"],
+      "concepts": ["philosophy-of-love", "moral-luck", "existentialism", "categorical-imperative"],
+      "relation": "Hoffman reads Eyes Wide Shut as Kubrick's most optimistic film, tracing how Bill and Alice Harford are 'awakened' to the uncontrollable power of sexual desire and thereby strengthen their marriage. Bill's Kantian confidence\u2014that principled duty guarantees fidelity\u2014is shattered by Alice's confession of overwhelming desire for the naval officer, which exposes their fidelity as mere moral luck. Through the models, Marion, Domino, and the anonymous masked orgy at Somerton (where sex is impersonal 'bodies touching bodies'), Bill seeks but fails to feel Eros; the couple finally choose a consciously chosen fidelity, and Alice's closing 'fuck' insists raw desire belongs inside marriage, which Hoffman links to Kierkegaard's view of marital love living and winning in time."
+    },
+    {
+      "n": 15,
+      "file": "ch15 - Knockout! Killer\u2019s Kiss, the Somatic, and Kubrick Kevin S. Decker.md",
+      "kind": "chapter",
+      "philosophers": ["merleau-ponty", "socrates", "plato", "foucault"],
+      "concepts": ["embodiment", "phenomenology", "existentialism", "pragmatism"],
+      "relation": "Decker reads Killer's Kiss (and later 2001, A Clockwork Orange, Eyes Wide Shut) through Merleau-Ponty's phenomenology of the lived body ('I am my body'), recovering the somatic that Socrates and Plato's Phaedo denigrated. In Killer's Kiss the boxing match, the mannequin-warehouse fight where bodies become weapons, spatial camera work, and the theme of contingency foreground embodiment; 2001 makes viewers feel their own bodies in space, and A Clockwork Orange's Ludovico 'cure' rewires the body-mind. Drawing on pragmatists Shusterman and Sullivan and on Foucault's biopower, he argues the anonymous masked bodies of Eyes Wide Shut turn Merleau-Ponty's projective intentionality into domination rather than communication."
+    },
+    {
+      "n": 16,
+      "file": "ch16 - The Logic of Lolita Kubrick, Nabokov, and Poe Jerold J. Abrams.md",
+      "kind": "chapter",
+      "philosophers": ["peirce"],
+      "concepts": ["pragmatic-method", "personal-identity"],
+      "relation": "Abrams argues Kubrick's and Nabokov's Lolita is a philosophical detective story descended from Poe's Dupin tales, and that Humbert fails as a detective because he lacks the right logic. Using Peirce's abduction (and Eco's overcoded/undercoded/creative types), he shows Humbert excels at 'overcoded' guesses\u2014spotting a nymphet at a glance\u2014but cannot make the 'undercoded' abductions needed to see that Quilty is shadowing him, because he is all chess-like calculation and no playful 'musement' or acumen. Humbert (the resolvent) and Quilty (the creative) split Poe's 'bi-part' double-Dupin; Quilty the changeling-Minotaur controls the labyrinth and dies behind Lolita's portrait as a self without a unified identity."
+    },
+    {
+      "n": 17,
+      "file": "ch17 - Part Three The Subject and the Meaning of Life.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 18,
+      "file": "ch18 - Rebel without a Cause Stanley Kubrick and the Banality of the Good Patrick Murray and Jeanne Schuler.md",
+      "kind": "chapter",
+      "philosophers": ["hume", "marx", "sartre", "camus", "hegel", "seneca"],
+      "concepts": ["skepticism", "the-absurd", "existentialism", "meaning-of-life"],
+      "relation": "Murray and Schuler argue Kubrick's unifying sensibility is a dogmatic Hellenistic-style skepticism (via Hume's 'The Sceptic' and Seneca) that yields 'the banality of the good': in a world of cosmic futility and near-state-of-nature human nature, decent characters like Dax are helpless while the wicked (Barry Lyndon, Alex, Quilty) have vitality. They read Kubrick's Playboy remarks on human insignificance as Humean size/duration tropes, and diagnose his Sartrean 'create your own meaning' answer as a self-refuting false philosophy. Using Marx's critique of Hegel's accommodation to capitalism, they contend Kubrick's skepticism and irony merely reflect the 'bourgeois horizon' rather than comprehending it, ending in present-pleasure hedonism ('fuck' as the last word of Eyes Wide Shut)."
+    }
+  ],
+  "holes": []
+}

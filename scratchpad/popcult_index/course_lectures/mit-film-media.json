@@ -1,0 +1,102 @@
+{
+  "course": "mit-film-media",
+  "source_note": "MIT OpenCourseWare 24.209 'Philosophy In Film and Other Media' (Spring 2004): Calendar page (session table, https://ocw.mit.edu/courses/24-209-philosophy-in-film-and-other-media-spring-2004/pages/calendar/), Syllabus page, and Video Lectures gallery (four sessions recorded for OCW, no per-session prose); fetched 2026-10-21.",
+  "lectures": [
+    {
+      "n": 1,
+      "title": "Introduction",
+      "kind": "lecture",
+      "summary": "Opening session of the course. The calendar pairs the introduction with a screening of Sturges's The Lady Eve.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 2,
+      "title": "Singer, Reality Transformed; The Lady Eve commentary",
+      "kind": "lecture",
+      "summary": "The session is built around Irving Singer's book Reality Transformed together with his commentary on The Lady Eve, the film screened in the opening session.",
+      "concepts": ["philosophy-of-art"],
+      "philosophers": []
+    },
+    {
+      "n": 3,
+      "title": "Singer, 'Imagination' and 'Idealization'; Jeunet, Amélie",
+      "kind": "lecture",
+      "summary": "Two of Singer's essays, 'Imagination' and 'Idealization,' are read in connection with a screening of Jeunet's Amélie.",
+      "concepts": ["philosophy-of-art"],
+      "philosophers": []
+    },
+    {
+      "n": 4,
+      "title": "James, Washington Square; Holland, Washington Square",
+      "kind": "lecture",
+      "summary": "James's Washington Square is read alongside Holland's film of the same title, continuing the course's pairing of literature with cinema.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 5,
+      "title": "Singer, 'Consummation'; Wyler, The Heiress",
+      "kind": "lecture",
+      "summary": "Singer's essay 'Consummation' is paired with a screening of Wyler's The Heiress.",
+      "concepts": ["philosophy-of-love"],
+      "philosophers": []
+    },
+    {
+      "n": 6,
+      "title": "Shaw, Pygmalion (including the prose Epilogue); Asquith, Pygmalion",
+      "kind": "lecture",
+      "summary": "Shaw's Pygmalion, including its prose Epilogue, is read together with Asquith's film version of Pygmalion.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 7,
+      "title": "Bédier, The Romance of Tristan and Iseult; Delannoy, The Eternal Return",
+      "kind": "lecture",
+      "summary": "Bédier's The Romance of Tristan and Iseult is read in connection with Delannoy's film The Eternal Return.",
+      "concepts": ["philosophy-of-love"],
+      "philosophers": []
+    },
+    {
+      "n": 8,
+      "title": "James, The Turn of the Screw; Weigl, The Turn of the Screw",
+      "kind": "lecture",
+      "summary": "James's The Turn of the Screw is read alongside Weigl's film adaptation of the same title.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 9,
+      "title": "Singer, 'Alfred Hitchcock'; Hitchcock, Vertigo",
+      "kind": "lecture",
+      "summary": "Singer's essay on Alfred Hitchcock accompanies a screening of Vertigo. The first paper is due at this session.",
+      "concepts": ["philosophy-of-art"],
+      "philosophers": []
+    },
+    {
+      "n": 10,
+      "title": "Joyce, 'The Dead'; Huston, The Dead",
+      "kind": "lecture",
+      "summary": "Joyce's 'The Dead' is read together with Huston's film adaptation of the same title.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 11,
+      "title": "Singer, 'The Meaning of Death' and 'The Love of Life'; Bergman, The Seventh Seal",
+      "kind": "lecture",
+      "summary": "Two Singer essays, 'The Meaning of Death' and 'The Love of Life,' are paired with a screening of Bergman's The Seventh Seal.",
+      "concepts": ["meaning-of-life"],
+      "philosophers": []
+    },
+    {
+      "n": 12,
+      "title": "Discussion of Previous Readings and Screenings",
+      "kind": "other",
+      "summary": "Concluding discussion session reviewing the course's previous readings and screenings. The second paper is due at this session.",
+      "concepts": [],
+      "philosophers": []
+    }
+  ]
+}

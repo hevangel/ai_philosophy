@@ -1,0 +1,107 @@
+[
+ {
+  "key": "phil:wittgenstein",
+  "name": "Ludwig Wittgenstein",
+  "kind": "philosopher",
+  "dates": "1889–1951",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:russell",
+  "name": "Bertrand Russell",
+  "kind": "philosopher",
+  "dates": "1872–1970",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:moore",
+  "name": "G.E. Moore",
+  "kind": "philosopher",
+  "dates": "1873–1958",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:frege",
+  "name": "Gottlob Frege",
+  "kind": "philosopher",
+  "dates": "1848–1925",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:quine",
+  "name": "W.V.O. Quine",
+  "kind": "philosopher",
+  "dates": "1908–2000",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:kripke",
+  "name": "Saul Kripke",
+  "kind": "philosopher",
+  "dates": "1940–2022",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:lewis",
+  "name": "David Lewis",
+  "kind": "philosopher",
+  "dates": "1941–2001",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:ryle",
+  "name": "Gilbert Ryle",
+  "kind": "philosopher",
+  "dates": "1900–1976",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:jackson",
+  "name": "Frank Jackson",
+  "kind": "philosopher",
+  "dates": "b. 1943",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:nagel",
+  "name": "Thomas Nagel",
+  "kind": "philosopher",
+  "dates": "b. 1937",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:parfit",
+  "name": "Derek Parfit",
+  "kind": "philosopher",
+  "dates": "1942–2017",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:mctaggart",
+  "name": "J.M.E. McTaggart",
+  "kind": "philosopher",
+  "dates": "1866–1925",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:clark",
+  "name": "Andy Clark",
+  "kind": "philosopher",
+  "dates": "b. 1957",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:vann-inwagen",
+  "name": "Peter van Inwagen",
+  "kind": "philosopher",
+  "dates": "b. 1942",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:bergson",
+  "name": "Henri Bergson",
+  "kind": "philosopher",
+  "dates": "1859–1941",
+  "domain": "Mind, Language & Metaphysics"
+ }
+]

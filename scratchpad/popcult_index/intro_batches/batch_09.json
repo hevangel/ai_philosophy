@@ -1,0 +1,107 @@
+[
+ {
+  "key": "phil:nozick",
+  "name": "Robert Nozick",
+  "kind": "philosopher",
+  "dates": "1938–2002",
+  "domain": "Political & Social Philosophy"
+ },
+ {
+  "key": "phil:sandel",
+  "name": "Michael Sandel",
+  "kind": "philosopher",
+  "dates": "b. 1953",
+  "domain": "Political & Social Philosophy"
+ },
+ {
+  "key": "phil:walzer",
+  "name": "Michael Walzer",
+  "kind": "philosopher",
+  "dates": "b. 1935",
+  "domain": "Political & Social Philosophy"
+ },
+ {
+  "key": "phil:arendt",
+  "name": "Hannah Arendt",
+  "kind": "philosopher",
+  "dates": "1906–1975",
+  "domain": "Political & Social Philosophy"
+ },
+ {
+  "key": "phil:foucault",
+  "name": "Michel Foucault",
+  "kind": "philosopher",
+  "dates": "1926–1984",
+  "domain": "Political & Social Philosophy"
+ },
+ {
+  "key": "phil:derrida",
+  "name": "Jacques Derrida",
+  "kind": "philosopher",
+  "dates": "1930–2004",
+  "domain": "Political & Social Philosophy"
+ },
+ {
+  "key": "phil:deleuze",
+  "name": "Gilles Deleuze",
+  "kind": "philosopher",
+  "dates": "1925–1995",
+  "domain": "Political & Social Philosophy"
+ },
+ {
+  "key": "phil:baudrillard",
+  "name": "Jean Baudrillard",
+  "kind": "philosopher",
+  "dates": "1929–2007",
+  "domain": "Political & Social Philosophy"
+ },
+ {
+  "key": "phil:lyotard",
+  "name": "Jean-François Lyotard",
+  "kind": "philosopher",
+  "dates": "1924–1998",
+  "domain": "Political & Social Philosophy"
+ },
+ {
+  "key": "phil:gramsci",
+  "name": "Antonio Gramsci",
+  "kind": "philosopher",
+  "dates": "1891–1937",
+  "domain": "Political & Social Philosophy"
+ },
+ {
+  "key": "phil:marcuse",
+  "name": "Herbert Marcuse",
+  "kind": "philosopher",
+  "dates": "1898–1979",
+  "domain": "Political & Social Philosophy"
+ },
+ {
+  "key": "phil:adorno",
+  "name": "Theodor Adorno",
+  "kind": "philosopher",
+  "dates": "1903–1969",
+  "domain": "Political & Social Philosophy"
+ },
+ {
+  "key": "phil:benjamin",
+  "name": "Walter Benjamin",
+  "kind": "philosopher",
+  "dates": "1892–1940",
+  "domain": "Political & Social Philosophy"
+ },
+ {
+  "key": "phil:habermas",
+  "name": "Jürgen Habermas",
+  "kind": "philosopher",
+  "dates": "b. 1929",
+  "domain": "Political & Social Philosophy"
+ },
+ {
+  "key": "phil:peirce",
+  "name": "Charles Sanders Peirce",
+  "kind": "philosopher",
+  "dates": "1839–1914",
+  "domain": "Pragmatism & American Philosophy"
+ }
+]

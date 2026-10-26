@@ -1,0 +1,478 @@
+{
+ "book": "207 - Wonder Woman and Philosophy - The Amazonian Mystique",
+ "unit": "u296",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Series.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Wonder Woman and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Contributors The Myndi Mayer Foundation.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Acknowledgments.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Editor's Note.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Note.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir"
+   ],
+   "concepts": [
+    "ethics-of-ambiguity",
+    "becoming-woman",
+    "woman-as-other"
+   ],
+   "relation": "Held's introduction frames Wonder Woman as an ambiguous figure - a sexy superhero, feminist icon, even a god - and borrows Simone de Beauvoir's term 'ambiguity' from The Second Sex to name women's bind: acquiesce to gender norms and lose yourself, or become yourself and lose your place. He runs through Diana's either/ors (Steve Trevor, Themyscira or Boston, mortal or god, American or cosmopolitan) and argues she creates an identity only by defining herself against each expectation. Because everyone is torn between what they are and what they want to become, he concludes we should embrace Wonder Woman's contradictions and stake our commitments while living in ambiguity."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Part I You are a Wonder Woman.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir",
+    "friedan",
+    "sartre"
+   ],
+   "concepts": [
+    "becoming-woman",
+    "woman-as-other",
+    "ethics-of-ambiguity",
+    "feminine-mystique"
+   ],
+   "relation": "Wright reads Wonder Woman's 75-year history through Beauvoir's 'One is not born, but rather becomes, a woman,' arguing Diana's move from Paradise Island to Man's World - surrendering eternal life for Steve Trevor - enacts the hard-won transcendence of immanence that The Second Sex demands. She shows the comics alternating between empowerment (Marston's 'woman of tomorrow,' an unpatriotic George Washington scolding women war workers) and regression (Trevor persuading Wonder Woman to marry and type memos about women's place being the home, the 1990s hyper-sexualized art), evidence that woman remains the Other to man's Subject. Wonder Woman's durability, she says, lies in exactly this ambiguity, and like Beauvoir's woman of tomorrow she models forging identity through projects in the world."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir",
+    "butler",
+    "foucault"
+   ],
+   "concepts": [
+    "woman-as-other",
+    "gender-performativity",
+    "panopticon",
+    "existence-precedes-essence"
+   ],
+   "relation": "Donovan uses the New 52 Azzarello run's gods as a catalogue of gender stereotypes - jealous Hera hunting Zola, woman-incinerating Apollo, hyper-masculine First Born, self-sacrificing Demeter - then tracks Hera's transformation after Apollo makes her mortal as a Beauvoirian passage from immanence (being Zeus's Other, defined by his desire) to transcendence (charting an independent identity, aiding baby Zeke). Foucault's Panopticon explains how gender norms are internalized without an enforcer, and Butler's drag example grounds the claim that Wonder Woman accepting the god of war mantle - leading a female Amazon army 'not as your princess but as the god of war' - is a subversive performance of gender."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-practical-wisdom",
+    "aristotle-virtue-ethics",
+    "objectification"
+   ],
+   "relation": "A mother-daughter pair tracks Wonder Woman's and Harley Quinn's costume histories (the 1990s Artemis-era near-thong Diana, the New 52 brothel-styled Harley) and argues with Aristotle that sexualized drawing strips both characters of phronesis, the practical wisdom a virtuous agent needs - the wisdom by which an outmatched Wonder Woman talks Strife into carrying her to safety and Harley exploits the Joker's vanity to beat him. The paradox: the more provocatively each is drawn, the less she can succeed as moral hero or anti-hero, since objectification replaces goal-directed cunning with one-dimensional sex display. The New 52's armor-clad, Hephaestus-consulting Wonder Woman shows phronesis restored."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "problem-of-evil",
+    "supererogation"
+   ],
+   "relation": "McCrossin builds a six-part definition of heroism (systematic, moral, altruistic, radically atypical, supererogatory, replicable safeguarding) using Wesley Autrey's Harlem subway save against Captain Sullenberger's Hudson landing, and argues Wonder Woman is genuinely heroic because her mission is voluntary and supererogatory - she wins the contest to leave Paradise Island and can retire to it at will, unlike a compulsory Superman. He then uses the demoted, powerless Diana Prince era with I Ching to show her deeds stay in principle replicable, like Batman's rather than Superman's. The payoff: Wonder Woman works only as a 'super hero' who inspires imitation, which is how 'we' answer the problem of evil - why innocent people suffer destructive, ruthless evil."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Part II Dispatches from Man's World.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir"
+   ],
+   "concepts": [
+    "becoming-woman",
+    "woman-as-other",
+    "ethics-of-ambiguity"
+   ],
+   "relation": "Zanin surveys 75 years of Wonder Woman - Marston's bondage-inflected feminism (the Ordeal of a Thousand Links, bracelets that forfeit power to any man who chains them), Kanigher's romance-era drift, the 1968 Diana Prince fashion-bouticless era that opened just as feminists protested Miss America, and the Taco Whiz years - to ask whether 'wonder woman' has become an unattainable ideal that belittles women. Reading through Beauvoir's analyses of woman as Other, imposed femininity as immanence, and the body as situation, she argues the superwoman 'have it all' standard is a feminist faux pas, yet closes with Beauvoir's Ethics of Ambiguity: rather than resent her perfection, women should accept the challenge on their own terms instead of acquiescing in mediocrity."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "zizek"
+   ],
+   "concepts": [
+    "objectification",
+    "marx-ideology"
+   ],
+   "relation": "Brake applies Zizek's distinction between symptom and fetish to Grant Morrison's treatment of Wonder Woman: in Final Crisis, making her Darkseid's masked, bondage-suited thrall is a symptomal reading that forces the repressed kinky truth of Marston's origin to the surface, while the industry's chant that she is a 'feminist icon' works as a fetish - a fetishistic disavowal letting misogynist comics practice continue ('they know very well what they are doing, but still, they are doing it'). He extends the analysis to Earth One, where Hippolyta's clay-birth story is the primordial lie founding the Amazon community, Diana herself being the fetish that lets her mother sustain a separatist utopia while raising a weapon against Man's World."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "kant"
+   ],
+   "concepts": [
+    "aristotle-friendship",
+    "heteronormativity"
+   ],
+   "relation": "Hoffman and Kolmes use Aristotle's friendship as 'another self' and Kant's 'exchange of welfare' to value the pre-New 52 Superman-Wonder Woman friendship (Rucka's heart-to-hearts, Superman choosing to save Wonder Woman over Lois's father), then argue DC's 2011 reboot of the pair into a romance exemplifies Brake's amatonormativity and the heteronormative 'When Harry Met Sally' assumption that cross-gender closeness must be sexual. Diana's answer to Lois - 'We're just good friends' - becomes a refusal to rank friendship below romance. The erasure matters beyond comics: it denies role models for cross-gender friendship and stigmatizes bi and pansexual people as incapable of friendship at all."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Part III When I Deal with Them, I Deal with Them.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "beauvoir",
+    "gandhi",
+    "plato",
+    "mill",
+    "confucius"
+   ],
+   "concepts": [
+    "kant-autonomy",
+    "ethics-of-ambiguity",
+    "care-ethics",
+    "plato-cave"
+   ],
+   "relation": "Johnson-Moxley tests Perez's lasso of truth - which makes people face truths about themselves, like being dragged from Plato's cave - against four ethical touchstones: Kantian duty (truth-telling as a perfect duty, respect for autonomy), utilitarianism, virtue ethics, and care ethics. Cases drive the argument: binding Ares so he sees his apocalypse annihilates what he rules, freeing Vanessa from Dr. Psycho's false memories only with her permission, and lashing two warlords into 'twins of pain' to end bloodshed. She concludes via Beauvoir's Ethics of Ambiguity that compelling truth is justified only to restore someone's rational self-direction, never paternalistically, with Gandhi's satyagraha ('truth-force') as the model of active, compassionate truth-telling."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "deontology",
+    "consequentialism",
+    "virtue-ethics",
+    "utilitarianism"
+   ],
+   "relation": "White reconstructs the 'Sacrifice' storyline - Maxwell Lord mind-controlling Superman, telling lasso-bound Wonder Woman 'Kill me,' and her snapping his neck - and asks whether it was right. He argues Wonder Woman reasons as a threshold deontologist: her usual respect for life holds until the certain cost of letting Lord live (he would wield Superman to kill again) crosses the threshold where the consequentialist body-count argument takes over, and she was justified, so she would do it again. The contrast with Batman's refusal to kill the Joker shows his refusal is virtue-ethical self-definition ('I won't become them'), while Diana, regretting the necessity but feeling no remorse, is an Amazon warrior for whom lethal protection of lives is sometimes exactly the job."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gilligan",
+    "noddings",
+    "sun-tzu",
+    "mill",
+    "aristotle",
+    "kant"
+   ],
+   "concepts": [
+    "care-ethics",
+    "care-ethics-noddings",
+    "sun-tzu-strategy",
+    "bushido"
+   ],
+   "relation": "Bein argues Wonder Woman uniquely fuses two supposedly incompatible moralities: bushido - Nitobe's eight samurai virtues, Sun Tzu's benevolence of ending war swiftly, worthy-opponent rituals mirrored in superhero costumes - and the feminist ethics of care Gilligan and Noddings built against a Western canon (Aristotle, Kant) that called women too emotional for morality. Wonder Woman's killing of Maxwell Lord to free Superman is re-read as the care-ethical beach case: saving your own child over a stranger's is not a failure of impartiality, and in his Gotham-versus-Themyscira invasion thought experiment she would defend Gotham because its people are vulnerable non-combatants, not because a utilitarian ledger favors it."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "deontology",
+    "utilitarianism",
+    "aquinas-natural-law"
+   ],
+   "relation": "Barkman and Tokbergenova defend 'just torture': Wonder Woman's lasso interrogations of Captain Nazi, the double agent Marcia in the 1970s pilot (saving the Brooklyn Navy Yard's 70,000 workers), and the terrorist Nikos Aegeus are ticking-bomb cases of the sort Henry Shue concedes, and the authors answer Luban's slippery-slope objection with absolute limits (never the innocent or the family) and Dershowitz-style torture warrants. Citing Aristotle's Rhetoric that coerced testimony is often false, they propose trained professional torturers, and conclude that since the right thing is not always the ideal thing, torture should be legalized, rare, and conducted openly - as Wonder Woman models."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-practical-wisdom",
+    "aristotle-friendship"
+   ],
+   "relation": "Tobienne reads Wonder Woman as sophia personified and a rhetorician in Aristotle's sense, whose real weapon is persuasion: he dissects the Rucka 'Lies' dialogue where she talks the feral Cheetah back to her humanity ('You are a WOMAN... You are my FRIEND!') and her verbal disarmament of a mind-sick Power Girl while holding her in a headlock. Nicomachean Ethics VI grounds the claim that practical wisdom recognizes the need for friends - each woman needs the other - and Wonder Woman's own submission to Athena and Aphrodite explains how the lasso of loving authority, not brute force, disarms Man's World."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Part IV God(s), Country, Sorority.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rachels"
+   ],
+   "concepts": [
+    "meaning-of-life",
+    "faith-vs-reason"
+   ],
+   "relation": "Held asks what a god is and which gods deserve worship, using Rachels's definition (all-powerful, perfectly good, perfectly wise) to show no DC deity - dying Zeus, cruel Darkseid, creation-unmaking Parallax - qualifies, and that mere power generates fear, not the moral authority that could ground worship-worthiness or a parent-like right to command. Against the Christian campaigner Darrel Keyes, who calls Wonder Woman's cults idolatrous, he notes her gods visibly exist while his God is both unprovable and, per the Anselmian concept problem, indescribable without ceasing to be supreme. The chapter ends by relocating worship on earth: since we need orienting values whether or not gods exist, 'we could do worse than submit to the loving authority' of the justice, care, and integrity Diana embodies - pray to 'yourself, your own strength and character.'"
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel",
+    "hobbes"
+   ],
+   "concepts": [
+    "hegel-history",
+    "hegel-dialectic",
+    "state-of-nature"
+   ],
+   "relation": "Knepp reads the Paul Dini/Alex Ross 'Origin of Wonder Woman' as Hegel's three-stage philosophy of history in miniature: the Amazons begin in a Hobbesian war of all against all, negate it by retreating to Themyscira where only some are free, and Diana's disguised contest win supplies the second negation that carries Amazon ideals to all people - celebrated by the splash of red, white, and blue. He then traces the WWII stakes: Hegel tied history's culmination to German unification, German-American Hegelians transplanted the classical-freedom story to America, and Marston - ex-assistant to the anti-feminist German psychologist Munsterberg - turned the lie detector into the lasso, reclaiming truth-telling from misogynist German science for a feminist America fighting Hitler."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "heteronormativity",
+    "feminism",
+    "utopia-dystopia"
+   ],
+   "relation": "Cano Abadia imagines Wonder Woman and Themyscira's Amazons joining Monique Wittig's Guerrieres in a three-front war on patriarchy: the literal war Diana declares, a social revolution of lesbian, BDSM, and polyamorous relations lived outside the heterosexual contract, and a linguistic revolution that destroys the sex binary - 'elles' as the universal subject, no he and she. With Virginia Woolf's Society of Outsiders supplying experimental 'new ways of doing things' and Luce Irigaray's revaluation of feminine symbolism explaining the Amazons' feminaries and Hera-centered genealogy, Diana becomes the bridge between two generations of fighters whose post-patriarchal world 'is yet to come.'"
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Part V Tying Up Loose Ends.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "philosophy-of-love",
+    "feminism"
+   ],
+   "relation": "Mahon debunks three myths about the original magic lasso: it is not a magic lie detector (Diana already runs a real polygraph on the spy Elva Dove), it is not an enslavement device (slavery is domination, and even the chained Amazons never submitted), and its truth-compulsion is no coincidence. Reading Marston's four-emotion psychology, he shows the lasso and the bracelets of submission are metaphors for love's asymmetric inducement/submission bond - Aphrodite captivates, the Amazons submit - and since lying is precisely an attempt to impose one's will and dominate the hearer (Rotenstreich), a perfectly lassoed person lacks all dominance emotion and so can only submit, and therefore cannot lie. The lasso's later depowering into a mere 'lasso of truth' becomes evidence of the comic industry's discomfort with feminine power."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gilligan",
+    "noddings"
+   ],
+   "concepts": [
+    "care-ethics",
+    "care-ethics-noddings",
+    "punishment-theory"
+   ],
+   "relation": "Chavez, Gavaler, and Goldberg trace Marston's 'Love Leader' kink - bracelets of submission, Venus girdles, Paradise Island bondage games, Earth One's collaring of Steve Trevor - to nineteenth-century maternalist feminism, then map the care ethics of Gilligan, Noddings, and Tronto onto both the comic and real-world BDSM. Reform (later Transformation) Island embodies a care-based alternative to punishment: rather than retribution, von Gunther and Irene are transformed by loving authority into people who save their captors, and Wonder Woman rescues the drowning villain Eviless because 'Aphrodite's Law commands us to save lives always - enemies or not.' The BDSM community's 4Cs (consent, communication, caring, caution) turn out to be Tronto's four elements of care, so the good dominant just is the good care-giver."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "liar-paradox"
+   ],
+   "relation": "Cook and Kellen formalize two rules of the golden lasso (the bound must answer, and must say what they believe true) and derive the Paradox of the Golden Lasso - 'Will your answer to this question be no?' - as a Liar Paradox variant, complete with a Revenge version that survives allowing 'maybe' as an answer. Bizarra's opposite-speaking lasso generates knights-and-knaves puzzles in the Smullyan style, a Wonder Woman/Bizarra/Harley Quinn variant of Boolos's Hardest Logic Puzzle Ever, and solutions exploiting what the bound believe rather than say. They end by using Bizarro #1 snapping the lasso and the Queen of Fables' huntsman doing the same to illustrate objective truth and the philosophy of fiction - what is fictionally true of characters who do not literally exist."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - EULA.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "supererogation",
+   "name": "Supererogation (Saints and Heroes)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Acts that are morally good and praiseworthy but beyond duty - neither obligatory nor forbidden.",
+   "why": "Chapter 14 defines heroism through Urmson's supererogation, contrasting Sullenberger's trained obligation with Autrey's subway rescue and Wonder Woman's voluntary, unowed mission to Man's World."
+  },
+  {
+   "ch": 17,
+   "type": "philosopher",
+   "suggested_slug": "zizek",
+   "name": "Slavoj Zizek",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Slovenian Lacanian social theorist of ideology, cynical reason, and the symptom/fetish distinction with fetishistic disavowal.",
+   "why": "Chapter 17's entire reading of Final Crisis and Earth One runs on Zizek's apparatus, concluding Wonder Woman is the comic industry's fetish that disavows its misogyny."
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "amatonormativity",
+   "name": "Amatonormativity",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Elizabeth Brake's term for the assumption that a central, exclusive romantic relationship is a universal goal everyone should pursue above friendship.",
+   "why": "Chapter 18 argues DC's New 52 Superman-Wonder Woman romance erases a valuable cross-gender friendship under precisely this amatonormative assumption."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "bushido",
+   "name": "Bushido (the way of the warrior)",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "The samurai honor code - honor, courage, justice, loyalty, honesty, politeness, self-control, benevolence - codified for Western readers by Inazo Nitobe.",
+   "why": "Chapter 22's title argument is that Wonder Woman uniquely reconciles bushido's warrior virtues with feminist care ethics, and no existing slug names the code itself."
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "ticking-bomb-scenario",
+   "name": "The Ticking Bomb Scenario",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Henry Shue's thought experiment in which torturing a terrorist is the only way to learn the location of an imminent bomb, testing whether torture is ever permissible.",
+   "why": "Chapter 23 builds its case for legalized 'just torture' on Wonder Woman's lasso interrogations as ticking-bomb cases (Shue, Luban, Dershowitz), a dilemma the trolley-problem slug does not cover."
+  },
+  {
+   "ch": 28,
+   "type": "philosopher",
+   "suggested_slug": "wittig",
+   "name": "Monique Wittig",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "French feminist novelist and theorist who framed heterosexuality as a political contract ('the straight mind') and imagined women's revolutionary war in Les Guerrieres.",
+   "why": "Chapter 28 is explicitly built on Wittig: Themyscira's Amazons become her Guerrieres waging social and linguistic revolution against the heterosexual contract."
+  },
+  {
+   "ch": 30,
+   "type": "concept",
+   "suggested_slug": "philosophy-of-deception",
+   "name": "Philosophy of Lying and Deception",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The analysis of what lying is - roughly asserting what one believes false in order to mislead - and why it is wrong.",
+   "why": "Chapter 30's core claim that the magic lasso necessarily prevents lying rests on a theory of deception as attempted domination of the hearer."
+  },
+  {
+   "ch": 32,
+   "type": "concept",
+   "suggested_slug": "liar-paradox",
+   "name": "The Liar Paradox",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The self-referential sentence 'This sentence is false,' true if and only if it is false, exposing incoherence in our ordinary concept of truth.",
+   "why": "Chapter 32 derives its 'Paradox of the Golden Lasso' as a Liar variant and uses revenge liars to argue our concept of truth needs philosophical repair."
+  }
+ ]
+}

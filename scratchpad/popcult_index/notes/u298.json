@@ -1,0 +1,175 @@
+{
+  "book": "209 - Basketball and Philosophy - Thinking Outside the Paint",
+  "unit": "u298",
+  "chapters": [
+    {
+      "n": 1,
+      "file": "ch01 - The Philosophy of Popular Culture.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 2,
+      "file": "ch02 - Title Page.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 3,
+      "file": "ch03 - Copyright Page.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 4,
+      "file": "ch04 - Dedication Page.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 5,
+      "file": "ch05 - Contents.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 6,
+      "file": "ch06 - Power Foreword.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 7,
+      "file": "ch07 - Acknowledgments.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 8,
+      "file": "ch08 - Tip-Off.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": [],
+      "relation": "The editors' introduction surveys how basketball is woven into American pop culture (Jordan, Shaq, films like Hoosiers and White Men Can't Jump, March Madness) and previews the volume's questions: how to measure greatness, whether intentional fouling is unethical, whether Zen improves a jump shot. It frames fans' MVP arguments (citing Ric Bucher's joke acronyms) as implicitly philosophical in their demand for defined terms, and notes Naismith was himself a philosophy major, making hoops 'the thinking person's game.' It applies no single philosophical doctrine, serving instead as a roadmap to the essays that follow."
+    },
+    {
+      "n": 9,
+      "file": "ch09 - First Quarter Baseline Values, Enduring Lessons.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 10,
+      "file": "ch10 - Building Communities One Gym at a Time.md",
+      "kind": "chapter",
+      "philosophers": ["macintyre", "sandel", "walzer", "hobbes"],
+      "concepts": ["communitarianism", "aristotle-friendship"],
+      "relation": "Webb uses Indiana high school basketball to argue the communitarian case against liberal individualism: drawing on MacIntyre, Sandel, and Walzer, he contends communities (not rights-bearing individuals) are the source of meaning, and that small-town gyms like the New Castle Fieldhouse were public spaces that built genuine community. He reads Rick Mount's choice of hometown fame over the pros, the Milan miracle, and the abolition of Indiana's single-class tournament as evidence that mass media and national sport replace real 'face-to-face' communities with 'virtual' ones, using Conseco Fieldhouse's nostalgic theming as his prime example of that loss."
+    },
+    {
+      "n": 11,
+      "file": "ch11 - To Hack or Not to Hack.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "kant", "mill"],
+      "concepts": ["aristotle-virtue-ethics", "deontology", "utilitarianism", "aristotle-practical-wisdom"],
+      "relation": "Kennedy asks how a great player like Kareem (the NBA's career foul leader) can be excellent while fouling so much, and answers that deontology (Kant's categorical imperative) and utilitarianism (Mill's greatest-happiness principle) can condemn dangerous 'goon' fouling but cannot explain why the legal Hack-a-Shaq strategy still feels 'clownish.' Invoking Shaq's self-nickname 'the Big Aristotle,' he argues Aristotelian virtue ethics fits better: the excellent player, like the person of good character, perceives the situation rightly and fouls (or risks a foul) at the right time in the right way, so excellence is a habit of seeing well rather than rule-following."
+    },
+    {
+      "n": 12,
+      "file": "ch12 - Basketball Purists.md",
+      "kind": "chapter",
+      "philosophers": ["searle", "macintyre", "mill"],
+      "concepts": ["communitarianism", "macintyre-tradition", "mill-liberty"],
+      "relation": "Kretchmar defends a 'modified purist' view that team-oriented, fundamentals-based basketball is generally better than the individualist modernist game, offering three arguments. The functionalist argument borrows Searle's account of constitutive rules to say ten-person interactive complexity makes a richer, more durable 'test' (like chess vs. tic-tac-toe); the variety argument uses Mill's On Liberty to warn that market pressures homogenize basketball toward football; and the communitarian argument uses MacIntyre's notion of a 'practice' with internal goods to show ESPN Streetball's isolated one-on-one feats erode basketball as a cooperative practice."
+    },
+    {
+      "n": 13,
+      "file": "ch13 - Hardwood Dojos.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "seneca", "epictetus", "marcus-aurelius"],
+      "concepts": ["aristotle-eudaimonia", "stoicism", "dichotomy-of-control", "aristotle-virtue-ethics"],
+      "relation": "Bassham and Hamilton distill six success principles from coaches Smith, Pitino, Summitt, and Krzyzewski and show each echoes great philosophers, treating the court as a 'dojo' or place of enlightenment. Setting goals and pursuing excellence through habit map to Aristotle's eudaimonia and doctrine of habituation (Shaq the 'Big Aristotle' given the Nicomachean Ethics by Phil Jackson); the emphasis on outworking adversity and controlling only one's own effort maps to Stoics like Seneca, Epictetus, and Marcus Aurelius, as when Summitt and Dean Smith tell players to control what they can and accept the rest."
+    },
+    {
+      "n": 14,
+      "file": "ch14 - What Would Machiavelli Do.md",
+      "kind": "chapter",
+      "philosophers": ["machiavelli", "locke", "hobbes", "kant"],
+      "concepts": ["state-of-nature", "machiavelli-ends", "social-contract"],
+      "relation": "Reitsma treats the refereeless pickup game as a Lockean state of nature and asks how to beat the 'strategic ticky-tacker' who calls phantom fouls to win. He condemns first-strike cheating as wrong on Kantian grounds (the cheat 'makes an exception of himself') and by an ideal of Homeric athletic honor, then asks whether retaliatory ticky-tacking is justified. Reading Machiavelli's 'dirty hands' argument alongside Locke's claim that in a state of nature each person may punish transgressors, he concludes proportionate tit-for-tat cheating can make one a legitimate 'agent of justice' when no referee exists."
+    },
+    {
+      "n": 15,
+      "file": "ch15 - Basketball, Violence, Forgiveness, and Healing.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["forgiveness"],
+      "relation": "Witte recounts the 1972 Ohio State-Minnesota brawl in which he was beaten unconscious, and reflects on his decades-long path from 'moral hatred' (a concept he draws from Murphy and Hampton) to forgiveness. Using Anne Minas's four senses of 'forgive,' he identifies his task as the fourth: giving up resentment without condoning the act, excusing punishment, or reversing his judgment. He frames forgiveness as 'setting it right,' the first step in a healing process, and narrates his eventual reconciliation with attackers Corky Taylor and Clyde Turner as evidence that no game is worth the loss of a relationship."
+    },
+    {
+      "n": 16,
+      "file": "ch16 - The Breaks of the Game.md",
+      "kind": "chapter",
+      "philosophers": ["dennett", "williams"],
+      "concepts": ["moral-luck", "free-will-determinism"],
+      "relation": "Davison analyzes luck and fairness in basketball, using Dennett's claim that the more skill (control) a player has, the less luck is involved, so luckiness is relative to persons and times (a fan's half-court shot versus Meadowlark Lemon's). Distinguishing fairness as equality from fairness as desert, and invoking Bernard Williams's 'constitutive luck,' he argues that the game's mechanisms (spherical ball, jump ball, many possessions, referees) minimize luck, and that famous lucky plays like Robert Horry's shot, NC State over Houston, and the phantom foul on Scottie Pippen do not make outcomes unfair, since fallible human refs are a necessary part of the game."
+    },
+    {
+      "n": 17,
+      "file": "ch17 - The Beauty of the Game.md",
+      "kind": "chapter",
+      "philosophers": ["hume", "plato", "aristotle"],
+      "concepts": ["plato-forms", "kant-aesthetics", "aristotle-friendship"],
+      "relation": "The Brands stage a broadcast-booth debate about whether a championship game was 'beautiful,' with Dickie V defending Hume's subjectivism ('beauty is in the eye of the beholder' and the expert's delicacy of taste) and Billy defending Plato's objective Form of Beauty. Jim exposes each side's flaw (Hume's circular appeal to experts, Plato's third-man regress from the Parmenides/Aristotle) and proposes a synthesis: games have 'outer beauty' (universally observable fluid motion, like improvised jazz or dance) and 'inner beauty' (the strategy and reason the knowledgeable fan grasps), reconciling the objective and subjective."
+    },
+    {
+      "n": 18,
+      "file": "ch18 - Second Quarter Prime-Time Players, Coaches, and Sages.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 19,
+      "file": "ch19 - The Zen Master and the Big Aristotle.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "buddha", "frankfurt"],
+      "concepts": ["zen", "aristotle-virtue-ethics", "four-noble-truths", "buddhist-non-self"],
+      "relation": "Allhoff and Vaidya argue against the skeptic that philosophy is useless 'bullshit' (nodding to Frankfurt's book) by showing how Phil Jackson's coaching applies it. Jackson's Zen Buddhism, especially zazen meditation and selfless 'triangle offense' play, teaches players to empty the ego and stay in the present, transforming Jordan from point-maker to play-maker; and Jackson's gift of Aristotle's Nicomachean Ethics to Shaquille O'Neal, who then dubbed himself 'the Big Aristotle,' illustrates Aristotle's doctrine that excellence (his improved free-throw shooting, his generosity) is a habit built by repetition."
+    },
+    {
+      "n": 20,
+      "file": "ch20 - Wilt Versus Russell.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "rousseau", "emerson", "machiavelli"],
+      "concepts": ["political-animal", "emerson-self-reliance", "machiavelli-virtu"],
+      "relation": "O'Connor frames the boyhood 'Wilt or Russell?' debate as a version of Aristotle's Politics puzzle that a man outside community is 'either a beast or a god': is dominator Wilt a basketball beast or a divine king, and is executive-team-player Russell the higher human ideal? He links Wilt's romantic individualism to Rousseau ('J.-J.') and Emerson's genius awaiting 'practical power,' and Aristotle's discussion of the natural king to the coaching dilemma of whether to make a gifted player dominate or blend. He ends by rejecting Machiavelli's 'realist' dismissal of ideals, insisting the Russellite ideal of teamwork can be higher even when domination wins more."
+    },
+    {
+      "n": 21,
+      "file": "ch21 - The Wizard versus the General.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "emerson"],
+      "concepts": ["aristotle-practical-wisdom", "virtue-ethics"],
+      "relation": "Walls argues Bob Knight ('the General') is a greater coach than John Wooden ('the Wizard') on two criteria. First, drawing on Aristotle's remark that a good general makes the most of the troops at his disposal and Mortimer Adler's proportional standard of achievement, he says Knight won three titles with far less NBA talent while Wooden always had all-stars like Alcindor and Walton. Second, on integrity (Sophocles' 'fail with honor' over 'win by cheating'), he contrasts Knight's clean, high-graduation-rate program against widely alleged NCAA violations by UCLA booster Sam Gilbert, concluding Knight's temper flaws damage his legacy less than cheating damages Wooden's."
+    }
+  ],
+  "holes": []
+}

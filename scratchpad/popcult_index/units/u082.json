@@ -1,0 +1,108 @@
+{
+ "unit": "u082",
+ "book": "050 - Facebook and Philosophy - What's on Your Mind_",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\data\\philosophy_pop_culture\\markdown\\050 - Facebook and Philosophy - What's on Your Mind_",
+ "range": [
+  23,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 23,
+   "file": "ch23 - 12 - Care Ethics, Friendship, and facebook.md",
+   "words": 3826
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 13 - What Are Friends For.md",
+   "words": 4204
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Social Networking - How to Win Virtual Friends and Influence Virtual People.md",
+   "words": 4624
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 15 - Gossip and the Evolution of facebook.md",
+   "words": 2564
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 16 - facebook as an Excess of Seeing.md",
+   "words": 3813
+  },
+  {
+   "n": 28,
+   "file": "ch28 - 17 - Do Status Updates Have Any Value.md",
+   "words": 3346
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 18 - Gatekeeper, Moderator, Synthesizer.md",
+   "words": 4580
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Activity and Passivity - Maybe Se Puede!.md",
+   "words": 6
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 19 - facebook, Surveillance and Power.md",
+   "words": 5093
+  },
+  {
+   "n": 32,
+   "file": "ch32 - 20 - Wall to Wall or Face to Face.md",
+   "words": 3392
+  },
+  {
+   "n": 33,
+   "file": "ch33 - 21 - facebook as Playground and Factory.md",
+   "words": 4346
+  },
+  {
+   "n": 34,
+   "file": "ch34 - 22 - The Proles and Cons of facebook.md",
+   "words": 3904
+  },
+  {
+   "n": 35,
+   "file": "ch35 - 23 - Faking It on facebook.md",
+   "words": 3814
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Keyword Search.md",
+   "words": 1336
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Facebook and Philosophy.md",
+   "words": 2965
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Copyright Page.md",
+   "words": 161
+  }
+ ],
+ "content": [
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37
+ ]
+}

@@ -1,0 +1,584 @@
+{
+ "book": "003 - The Matrix and Philosophy - Welcome to the Desert of the Real",
+ "unit": "u002",
+ "chapters": [
+  {
+   "n": 52,
+   "file": "ch52 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "epicurus"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "atomism"
+   ],
+   "relation": "This section lays out causal determinism through Laplace's demon: an intelligence that knew every force and every position could compute the entire future, leaving no one free or responsible, so people in the Matrix would be no worse off than we are. It notes that both sides of the nature-nurture debate (including B.F. Skinner) agree behavior is caused by forces beyond our control, and turns to Epicurus, who posited random atomic 'swerves' to make room for free will. Modern quantum indeterminacy, it concludes, likewise expels determinism from physics and at least makes free will possible, though randomness alone cannot ground responsibility."
+  },
+  {
+   "n": 53,
+   "file": "ch53 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "fate-vs-free-will",
+    "free-will-determinism"
+   ],
+   "relation": "The chapter argues that the Oracle's predictions come true not because the future is fixed but because they are self-fulfilling: her remark about the vase is what brings about its breaking ('would you still have broken it if I hadn't said anything?'), and Morpheus's 'she told you exactly what you needed to hear' shows she shapes rather than reads the future. On this reading the Oracle needs no real foreknowledge, only believers who trust that she knows the path. Only so can Neo be in control of his life in a world where 'anything, within the bounds of reason, is possible.'"
+  },
+  {
+   "n": 54,
+   "file": "ch54 - Down the Rabbit Hole of Ethics and Religion.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 55,
+   "file": "ch55 - There Is No Spoon A Buddhist Mirror.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 56,
+   "file": "ch56 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha"
+   ],
+   "concepts": [
+    "buddhist-non-self",
+    "buddhism",
+    "zen",
+    "buddhist-impermanence"
+   ],
+   "relation": "Brannigan reads the film's mirror imagery through the Buddha's mirror instruction to his son Rahula: Neo touching the dripping mirror and becoming the mirror marks his awakening to the naked truth (aletheia as nakedness) that his world is a programmed illusion, Smith's dark sunglasses distort while Morpheus's mirrored glasses clarify, and Neo's reflection in the spoon-bending boy's spoon signals clarity. 'There is no spoon' parallels the Zen mondo where neither flag nor wind moves but only mind, and shows that reflected images are not reality - the world is maya. The deepest lesson is anatman: just as there is no spoon there is no Neo, no fixed self, and Rahula's lesson grounds the interdependence (pratityasamutpada) of all actions on others."
+  },
+  {
+   "n": 57,
+   "file": "ch57 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha"
+   ],
+   "concepts": [
+    "zen",
+    "four-noble-truths"
+   ],
+   "relation": "This section develops the other edge of the mirror: the mind must not only reflect but be freed from reflection. Neo loses the Construct kumite because his mind 'stops' - Takuan Soho's detained mind that fixes on the sword instead of acting with mushin, no-mind - and his doubts before the Oracle show a mind still detained, since she never says he is not the One. Trinity's letting-go of fear revives Neo and his letting-go makes him the One, an instance of pratityasamutpada; the chapter maps the arc onto the Four Noble Truths, with Morpheus's 'prison for the mind' (for, not of) as the Third Truth's promise that liberation is possible through freeing the mind."
+  },
+  {
+   "n": 58,
+   "file": "ch58 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha"
+   ],
+   "concepts": [
+    "buddhist-compassion",
+    "ahimsa",
+    "buddhism"
+   ],
+   "relation": "Brannigan tests whether The Matrix is a Buddhist film and finds four incongruities: its Zoroastrian good-versus-evil dualism (the system and those in it as 'enemies') against karuna and metta, its glorified gun violence ('guns, lots of guns') against ahimsa, its crass language against right speech, and its human-centeredness against the Buddha-nature of all sentient beings, including 'sentient programs'. He concedes the slaughter might be read symbolically as slaying the mind's three poisons, as Manjusri's sword does, but rejects calling the result 'American Buddhism'. He concludes the film is a deliberate syncretism of Christianity, Platonism, and Buddhism that still conveys the Buddhist message of liberation from the mind."
+  },
+  {
+   "n": 59,
+   "file": "ch59 - The Religion of The Matrix and the Problems of Pluralism.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 60,
+   "file": "ch60 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "immortality"
+   ],
+   "relation": "This section catalogues the film's Christian typology, noting it was released on Easter weekend: Neo is the messianic 'One' (an anagram, and Greek for 'new'), Choi calls him 'my own personal Jesus Christ', Thomas Anderson means doubting Thomas and 'Son of man', his pod escape is a virgin birth, his hosing-down rescue a baptism, the Agents' temptation parallels the desert, and Trinity's kiss raises the genuinely dead Neo to a glorified body that flies - transfiguration and ascension included. Cypher is Judas/Lucifer, Zion the heavenly city, and the Nebuchadnezzar's plate cites Mark 3:11's 'You are the Son of God'."
+  },
+  {
+   "n": 61,
+   "file": "ch61 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "buddhism",
+    "buddhist-karma"
+   ],
+   "relation": "The chapter argues the film is by no means a Christian movie: Neo is a violent, far-from-sinless mere human savior; the fundamental human problem is ignorance and illusion (Gnostic and Eastern) rather than sin and alienation from God; the rebels' belief that Neo is the reincarnation of the earlier liberator mirrors the Dalai Lama search the Wachowskis cite, though reincarnation is rejected by all major Christian sects; and 'there is no spoon' asserts the illusoriness of empirical reality that Christianity denies. The film's malleable, cyclical time and the Wachowskis' answer that faith is 'in oneself' complete a syncretistic tapestry the essay goes on to examine as religious pluralism."
+  },
+  {
+   "n": 62,
+   "file": "ch62 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plantinga"
+   ],
+   "concepts": [
+    "faith-vs-reason",
+    "religious-pluralism"
+   ],
+   "relation": "Taking the film's cafeteria religion seriously as 'Neo-pluralism', the chapter distinguishes four varieties of religious pluralism and finds each wanting: extreme pluralism dies by simple logic since of 100,000 religions many contradict one another; fundamental-teachings pluralism fails because the great religions differ on genuinely fundamental doctrines (Islam's personal God versus Theravada's non-theism versus the Trinity); cafeteria pluralism produces incoherent transplantings (reincarnation fits Hinduism but not Buddhism or Christianity) and lacks any rational justification short of wishful thinking; and Hick's Kantian transcendental pluralism posits an unintelligible, wholly unknowable Real while demanding the doublethink - highlighted by Alvin Plantinga - of continuing to hold beliefs one recognizes as literally false."
+  },
+  {
+   "n": 63,
+   "file": "ch63 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plantinga"
+   ],
+   "concepts": [
+    "faith-vs-reason"
+   ],
+   "relation": "The chapter rebuts three pluralist objections to religious exclusivism: the 'equal fruits' argument confuses hard exclusivism with the common soft (inclusivist) form that freely admits salvation and authentic experience outside one tradition; the arrogance charge rests on a principle that would condemn every political and moral conviction held in the face of reasonable disagreement, and is self-refuting - Plantinga's 'philosophical tar baby'; and the arbitrariness charge begs the question, since pluralists assume rather than argue that no religion could have better evidence, which is precisely the point at issue between exclusivism and pluralism."
+  },
+  {
+   "n": 64,
+   "file": "ch64 - Unknown.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 65,
+   "file": "ch65 - Happiness and Cypher’s Choice Is Ignorance Bliss.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "locke"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia",
+    "meaning-of-life"
+   ],
+   "relation": "Opening Griswold's essay (with Locke's line on happiness disturbed by new uneasiness as epigraph), the chapter asks why happiness - the question of existential urgency that Aristotle treated as the ultimate end of our activities - has received so little philosophical treatment (no Platonic dialogue is devoted to it) while non-philosophers assume there is an answer to be found. It presents The Matrix as a rare clever movie that genuinely presses the question of what happiness is, whether the film's answer is tenable, and how we would construct a better one of our own, with Cypher's choice as the test case."
+  },
+  {
+   "n": 66,
+   "file": "ch66 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-cave"
+   ],
+   "relation": "The chapter reads the pod farms as Plato's cave from Republic VII: prisoners chained from birth who mistake projected images for reality and 'do not know that they are prisoners', insisting on the truth of their world. Morpheus, named for the god of dreams, is the liberator-expert who can rouse sleepers in the right sequence, and Neo's sense of not being sure he is awake parallels the prisoner's primeval recollections. With Plato, it argues that happiness is objective like health - one can say 'I am happy' and be wrong, as the battery-humans are - so true happiness and freedom depend on knowledge of what is real."
+  },
+  {
+   "n": 67,
+   "file": "ch67 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "second-order-desires",
+    "meaning-of-life"
+   ],
+   "relation": "Through Cypher's steak deal the chapter separates contentment - the subjective tranquility of satisfied desire, as in the contented slave, the happy tyrant, or a dog - from happiness, which must be answerable to an objective arrangement of one's life. Four thought experiments (a painless Ataraxy drug, an impostor posing as Keanu Reeves, the heating-vent fantasist imagining he is Mr. Onassis, the drunk's morning-after mirror) and Othello show self-deluded 'happiness' is unstable, truncated, and not the real thing. Happiness therefore requires reflective second-order endorsement of one's desires - wanting the desires one has - as when Neo takes the hard path of saving Morpheus, and this links happiness to a conception of the life worth living."
+  },
+  {
+   "n": 68,
+   "file": "ch68 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia",
+    "stoicism"
+   ],
+   "relation": "The chapter proposes three theses: happiness is centrally tranquillity (ataraxia), whose enemy is anxiety - the 'splinter in your mind' that things are out of kilter; the rival Aristotelian view treats happiness as activity (energeia) of soul in accordance with excellence (arete), an objectivism that explains how a contented 'human battery' or happy slave is mistaken about being happy; and neither view suffices alone, since a passionless apatheia is barren and dry. Lived happiness is instead equipoise - settledness in one's basic stance that is compatible with turbulent passions and commitments, more like Neo's active decision-making and discovery than a lazy virtual tryst with the woman in red."
+  },
+  {
+   "n": 69,
+   "file": "ch69 - Unknown.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 70,
+   "file": "ch70 - We Are (the) One! Kant Explains How to Manipulate the Matrix.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 71,
+   "file": "ch71 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "descartes"
+   ],
+   "concepts": [
+    "transcendental-idealism"
+   ],
+   "relation": "The chapter introduces the Kantian reading of the pod-bank revelation: since Plato and the Buddha philosophers have called the everyday world mere appearance, but Kant gives the most sophisticated version, arguing that even the objective properties of physics rest on projections of human consciousness. Crucially, unlike Descartes's malicious demon, no external deceiver is responsible for the hoax: we project and reify the world of experience ourselves, and this self-imposed illusion is the 'matrix' of the socio-economic and political world in which we alienate our own freedom."
+  },
+  {
+   "n": 72,
+   "file": "ch72 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "transcendental-idealism"
+   ],
+   "relation": "Reading Agent Smith's revelation that the first Matrix was a perfect world 'where none suffered' that 'no one would accept', the chapter argues that captive humanity itself vetoes its illusions: because human beings 'define their reality through suffering and misery', the machines had to rebuild the Matrix as the rat-race world of 1999, the 'peak of your civilization'. This is the film's version of Kant's self-imposed appearance - even under alien captors, sleeping humanity holds a veto over possible Matrices and instinctively gets what it wants."
+  },
+  {
+   "n": 73,
+   "file": "ch73 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "plato"
+   ],
+   "concepts": [
+    "philosopher-king",
+    "kant-autonomy"
+   ],
+   "relation": "The chapter contrasts two theories of liberation: the Platonic one, where an exceptional external liberator - a philosopher-king, or the traditional God-man savior the film's characters initially expect - leads humanity out of illusion, and Kant's Enlightenment alternative that 'the slaves can only be truly free if they free themselves', with Jesus recast as the model of our own inner potential rather than a miracle-working savior. The film's arc, it argues, moves from Choi's 'my own personal Jesus Christ' (a caricature of liberation) to a finale that overturns all expectations of an external savior."
+  },
+  {
+   "n": 74,
+   "file": "ch74 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aristotle"
+   ],
+   "concepts": [
+    "transcendental-idealism"
+   ],
+   "relation": "Through Copernicus the chapter explains Kant's Copernican revolution in philosophy: Aristotle's geocentrism was not stupidity but a faithful formulation of how the sky actually looks, and rejecting it means accepting that the perceived world is an illusion. Perception is inherently egocentric - the world each of us sees centers on our own body - and taking this body-centered appearance for reality is childish egocentrism in children and egotism in adults, which is the condition the Matrix universalizes."
+  },
+  {
+   "n": 75,
+   "file": "ch75 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-autonomy",
+    "free-will-determinism"
+   ],
+   "relation": "The chapter argues that egotism - each individual's spontaneous belief that he is 'the One', the center of the universe for which everything was made - is the fundamental moral error, and that morality demands recognizing our oneness with all intelligent beings. The red pill symbolizes the basic choice between two matrices: the world of separate egos, bodies colliding in space and time under deterministic causality, and the world of human unity and freedom seen from the standpoint of moral consciousness - and the initial choice must then survive a crisis in which its realizability is doubted."
+  },
+  {
+   "n": 76,
+   "file": "ch76 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "utopia-dystopia"
+   ],
+   "relation": "Reading Cypher's betrayal through Kant's Highest Good - the duty to create a world combining freedom and happiness - the chapter shows Cypher concluding from the controllers' overwhelming power that the crew's Zion is a mythical Promised Land: 'Free? All I do is what he tells me to do.' Trinity's reply, 'The Matrix isn't real!', is judged too shallow, and Cypher's counter that 'the Matrix could be more real than this world... there, you have to watch Apoc die' exposes that the initial contrast between illusion and reality is only the film's starting point - what captivates is life within the Matrix once its true nature is understood."
+  },
+  {
+   "n": 77,
+   "file": "ch77 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-autonomy",
+    "faith-vs-reason"
+   ],
+   "relation": "This section explains why the moral quest needs faith: because the ideal Matrix of morality seems powerless against the hard world built on separation and egotism, Kant postulates freedom, God, and immortality as what we must believe to remain faithful to our basic moral choice. It develops the first postulate - freedom: the essence of moral experience is anti-deterministic, scientific knowledge consists in deterministic explanation and so cannot know free will without reducing it to its opposite, therefore we must have faith in our power to choose - the creed of liberators on the way to 'the promised land of Zion, the kingdom of heaven on earth'."
+  },
+  {
+   "n": 78,
+   "file": "ch78 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "atman-brahman",
+    "kant-autonomy"
+   ],
+   "relation": "The chapter reinterprets Kant's second postulate: God is not the external distributor of justice whose theological counterpart is our sense of powerlessness before the all-powerful machines, but the power of united humanity - 'one for all and all for one', the third, still-unfinished Matrix of Zion. The spoon-bending boy supplies the illustration: we cannot bend the spoon so long as we believe reality is a separate material substance, but recognizing its unity with us, 'it is only yourself' that bends - and Neo's real lesson is not that he is a special being but that he is One with all existence."
+  },
+  {
+   "n": 79,
+   "file": "ch79 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "fate-vs-free-will",
+    "kant-autonomy"
+   ],
+   "relation": "Locating the Matrix's power in the fear of death - Neo frozen on the ledge, then discovering in the jump program that he must 'let it all go... fear, doubt, and disbelief' - the chapter reads 'the body cannot live without the mind' as meaning that even outside the Matrix the body depends on the mind's beliefs. The Oracle's either/or prophecy embodies the postulates: Neo's Fate is fulfilled through free choice (his life for Morpheus's) and through faith in our own Potential, so the God or savior we postulate is finally revealed as an extension of ourselves as we transcend separateness, not a separate miracle-worker."
+  },
+  {
+   "n": 80,
+   "file": "ch80 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "fate-vs-free-will",
+    "immortality"
+   ],
+   "relation": "The chapter presents the subway confrontation as the film's turning point: defying the crew's iron rule that one runs from Agents, and Cypher's 'realistic' sneering, Neo freely accepts death to save Morpheus, overcoming the fundamental fear that grounds the Matrix's power in both worlds. The Oracle's 'next life' prophecy is then fulfilled to the letter when Trinity - 'I'm not afraid anymore... you can't be dead. Because I love you' - refuses to believe in death, and Neo returns in his next life as the One."
+  },
+  {
+   "n": 81,
+   "file": "ch81 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "immortality",
+    "buddhist-karma"
+   ],
+   "relation": "The chapter argues the third postulate must be a this-worldly immortality: since no single lifetime suffices to realize the Highest Good, Kant himself (in Universal Natural History) imagined the soul reborn over and over as it climbs the ladder of human perfection, and Mahayana Buddhism's bodhisattva - who chooses to remain on the wheel of rebirth to enlighten all beings - matches the monkish boy 'Potential' and the Oracle's hints. The One accordingly appears in three incarnations: the earlier liberator who freed the first rebels, Neo's second life, and the third life glimpsed at the film's end."
+  },
+  {
+   "n": 82,
+   "file": "ch82 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "philosopher-king"
+   ],
+   "relation": "The chapter concludes that the One is a universal Teacher rather than an exceptional Superman-Savior: liberation cannot come from a Philosopher King or an all-powerful benefactor, since sleeping humanity already rejected the unearned happiness the AI's first Matrix offered. Neo's closing promise of 'a world without rules and controls, without borders or boundaries, a world where anything is possible' echoes Jesus's 'the works that I do, shall he do also' - he shows others how to be like him, so 'the One may be the first superhuman being, but he is not the last'."
+  },
+  {
+   "n": 83,
+   "file": "ch83 - Virtual Themes.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 84,
+   "file": "ch84 - Notes from Underground Nihilism and The Matrix.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "nihilism"
+   ],
+   "relation": "Opening Hibbs's essay, the chapter sets The Matrix at the point where high culture's debates about AI, folk psychology, and cloning merge with low culture's Terminator-style entertainments, and argues the film replays older debates about Enlightenment modernity: the commitment to mastering nature through technological progress risks degrading humanity, just as the celebration of individual freedom paradoxically courts the homogenization of mankind. Liberal modernity itself, it warns, is a potential source of nihilism - a human existence void of any ultimate purpose or fundamental meaning, in which the great questions no longer register in the human soul."
+  },
+  {
+   "n": 85,
+   "file": "ch85 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "dostoevsky"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "utopia-dystopia"
+   ],
+   "relation": "The chapter reads the film through Dostoevsky's Notes from Underground, a satire of Chernyshevsky's rationalist-utopian What Is to Be Done?: the underground man sees that social science's 'logarithm' of desire reduces us to piano keys governed by natural law, and responds with hyperconscious spite, inertia, and the deliberate choice of the harmful to prove he can will - anticipating Nietzsche's claim that humans would 'rather will nothing than not will'. Shigalyov's 'starting from unlimited freedom, I conclude with unlimited despotism' names the Enlightenment's contradiction, and the underground man's life is the reductio ad nihilum of theories his opponents only dare carry halfway."
+  },
+  {
+   "n": 86,
+   "file": "ch86 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "free-will-determinism",
+    "utopia-dystopia"
+   ],
+   "relation": "The chapter aligns the Nebuchadnezzar with the underground man's cell: in the 'desert of the real' the rebels begin from Morpheus's felt 'something is wrong' and live the quest ('it's the question that drives us') that The X-Files-style paranoia cannot complete, risking either permanent entrapment or Mark Edmundson's 'facile transcendence'. It contrasts Neo's shallow freedom-as-control ('No... because then I wouldn't be in control') with Morpheus's providential fate, reads Cypher as consciously relinquishing willing for comfort, and likens the Matrix's project of changing 'the human being into a battery' to Diderot's piano-key man and Agent Smith's utopian 'we're the cure'."
+  },
+  {
+   "n": 87,
+   "file": "ch87 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The chapter finds the ending ambiguous: the Hollywood action finale lets Neo's superhuman technique - stopping bullets, diving inside Smith - overshadow the distinctively human capacities (loyalty, love, sacrifice) that actually defeat the impersonal, interchangeable Agents, whose generic name 'Smith' marks the contrast. Trinity's love revives Neo, but the underdeveloped romance cannot bear that dramatic weight, and Neo's closing speech risks promising 'facile transcendence' - perhaps even another utopia like the one that created AI - sacrificed to sequel-minded platitudes."
+  },
+  {
+   "n": 88,
+   "file": "ch88 - Popping a Bitter Pill Existential Authenticity in The Matrix and Nausea.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "camus",
+    "heidegger"
+   ],
+   "concepts": [
+    "authenticity",
+    "bad-faith",
+    "the-absurd"
+   ],
+   "relation": "The chapter frames Neo's red/blue choice as the existential choice between authenticity - honest awareness of a condition without inherent purpose or design - and inauthenticity, named as Sartre's bad faith, Camus's intellectual suicide, and Heidegger's 'levelling down of all possibilities'. It notes the irony that although existentialists praise authenticity, their literary portraits make authentic characters anxious, alienated, and near-mad while the inauthentic remain tranquil - raising the possibility that ignorance is bliss and the blue pill is wiser - before promising an argument, via The Matrix and Sartre's Nausea, for the red pill."
+  },
+  {
+   "n": 89,
+   "file": "ch89 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "authenticity",
+    "plato-cave"
+   ],
+   "relation": "The chapter sets Neo and Cypher as the two poles of authenticity: Neo's unplugging is agony, like the prisoner dragged from Plato's cave - atrophied limbs, eyes that hurt because 'never used them before', and the cognitive shock of the 'desert of the real' - while Cypher, freed young and worn down by years of fear and gag-inducing goop, sells out the crew for a steak he knows does not exist: 'ignorance is bliss'. McMahon asks us to sympathize with Cypher, since in his place, facing perpetual annihilation, 'we too might opt for the illusion'."
+  },
+  {
+   "n": 90,
+   "file": "ch90 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre"
+   ],
+   "concepts": [
+    "authenticity",
+    "existence-precedes-essence"
+   ],
+   "relation": "The chapter walks through Nausea as the ordinary-world twin of the red pill: Roquentin, an unremarkable 1930s historian, is unravelled by a beach pebble, a handshake like 'a fat white worm', a door-knob that seems to grab him back, and finally the chestnut tree's 'naked World' - discovering that existence is a gelatinous, unjustifiable 'messy suffering' and that the order, names, and values we take for reality are only a veneer consciousness projects onto an indeterminate whole. His nausea is the horror of authenticity before it becomes anything else, the price Neo pays for swallowing the pill."
+  },
+  {
+   "n": 91,
+   "file": "ch91 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "heidegger",
+    "camus"
+   ],
+   "concepts": [
+    "authenticity",
+    "bad-faith",
+    "thrownness"
+   ],
+   "relation": "The chapter concedes authenticity's costs - the truths of death, suffering, and meaninglessness are hard to stomach, and inauthenticity is the social norm that makes the authentic person feel alienated and even mad (Roquentin's 'crazy loon category', The Matrix's 'hardware' people who fight unplugging) - but argues the red pill still wins. Inauthenticity never eradicates anxiety (the 'splinter in the mind'), only misattributes it to mundane causes like jobs and cars, and it costs freedom and genuinely informed choice; authenticity ends the flight from being and yields a serenity Roquentin finds when existence becomes 'a perfect free gift'."
+  },
+  {
+   "n": 92,
+   "file": "ch92 - The Paradox of Real Response to Neo-Fiction.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The chapter opens Worth's essay by grouping The Matrix with Fight Club, eXistenZ, The Thirteenth Floor, and Star Trek's Holodeck as fictions about being caught inside constructed realities, all descended from Brazil, Total Recall, and The Truman Show. Its twist: while we watch Neo struggle to choose between the worlds of the red and blue pills, we viewers are simultaneously choosing the red-pill world ourselves - the more we lose ourselves in the fiction the film creates, the more we enter an altered reality psychologically just as he does."
+  },
+  {
+   "n": 93,
+   "file": "ch93 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The chapter shifts the question from the venerable problem of appearance versus reality to spectators: how do we get emotionally caught up in a fiction we know is invented? Because extended narrative communicates more than a bare report - documentaries, docudramas, and fictions all move us, and the better-developed the narrative the fuller the response - our emotional lives are keyed to storytelling itself, setting up the puzzle of why we enjoy and respond to what we know is not real."
+  },
+  {
+   "n": 94,
+   "file": "ch94 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "paradox-of-fiction"
+   ],
+   "relation": "The chapter states the paradox of fiction formally - we respond emotively only to what we believe real, we do not believe fiction is real, yet we respond - and rejects both Coleridge's 'willing suspension of disbelief' and simple empathy as explanations. Using The Matrix's special effects and IMAX-scale immersion, it argues our engagement tracks how the story is told rather than belief in its reality, and with Kendall Walton's make-believe suggests that entering a fiction is cognitively akin to Neo entering the Matrix, which would make the real/unreal belief condition irrelevant."
+  },
+  {
+   "n": 95,
+   "file": "ch95 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The chapter argues we do not 'willingly suspend disbelief' - belief is not subject to the will any more than we can believe it is snowing against all sensory cues - but rather exercise a creative faculty, actively creating belief as we learn to enter fictional spaces, just as Neo follows the White Rabbit tattoo down the rabbit hole and the audience, 'feeling a bit like Alice', tumbles with him. Neo's 'residual self-image' crossing between worlds and Cypher's inability to give up the taste of steak show that knowing something is unreal does not change our responses, so the line between appearance and reality may need to be made to disappear."
+  },
+  {
+   "n": 96,
+   "file": "ch96 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The chapter argues reality is already story-shaped: in life we must fill knowledge-gaps with guesses, prejudices, and culturally shaped perspectives just as we flesh out fiction from a carefully built skeleton narrative, so 'we are, in a sense, making up our own stories - and these stories are our lives'. Quoting Roger Schank on how telling a story creates the memory structure that holds its gist, it concludes that once reality and fiction are both seen as narratives we construct, the belief-requirement behind the paradox of emotional response is misguided."
+  },
+  {
+   "n": 97,
+   "file": "ch97 - Unknown.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The chapter concludes that although the epistemological and ontological distinction between fiction and reality stands forever, we make sense of both in the same way - through narrative and story-telling - so the belief requirement that generates the paradox is a false dichotomy. Since technology makes narratives increasingly vivid and immersive, our ever-stronger affective responses to The Matrix's effects are no paradox: we experience Neo's new reality in parallel with him, as we were always meant to."
+  },
+  {
+   "n": 98,
+   "file": "ch98 - Real Genre and Virtual Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "descartes"
+   ],
+   "concepts": [
+    "plato-cave",
+    "skepticism",
+    "free-will-determinism"
+   ],
+   "relation": "Knight and McKnight argue The Matrix must be read as a mixed-genre film: pure genres are 'a theorist's fiction', and the film's genre inheritance supplies the narrative roots of its philosophical thematics - Plato's cave from the Republic, Descartes's Dream Hypothesis from the Meditations, Nietzsche's Ubermensch, Zen Buddhism, and apocalyptic Christianity. Recognizing the genre mix explains both why the film raises questions about justified true belief in a virtual world, free will versus deterministic control, and appearance versus reality, and why it offers no philosophical answers, only genre ones."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 84,
+   "type": "concept",
+   "suggested_slug": "nihilism",
+   "name": "Nihilism",
+   "philosopher": "nietzsche",
+   "domain": "nineteenth-century",
+   "what": "The crisis condition in which life is seen as having no ultimate purpose, value, or meaning - for Nietzsche the aftermath of the death of God, to be passed through toward affirmation rather than dwelt in.",
+   "why": "Chapter 84 defines Hibbs's whole essay - The Matrix as a replay of Enlightenment-modernity debates that make liberal modernity 'a potential source of nihilism, a human existence void of any ultimate purpose' - and chapters 85-87 ask whether the film escapes it, but the taxonomy has no nihilism slug."
+  },
+  {
+   "ch": 85,
+   "type": "philosopher",
+   "suggested_slug": "dostoevsky",
+   "name": "Fyodor Dostoevsky",
+   "philosopher": "",
+   "domain": "nineteenth-century",
+   "what": "Russian novelist (1821-1881) whose Notes from Underground polemicizes against rationalist utopian socialism and defends irrational, spiteful free will against scientific determinism.",
+   "why": "Chapters 85-87 build their entire reading of The Matrix on Dostoevsky's underground man - the piano-key metaphor, hyperconscious paralysis, and reductio ad nihilum of Enlightenment social science - yet he is absent from the taxonomy."
+  },
+  {
+   "ch": 62,
+   "type": "concept",
+   "suggested_slug": "religious-pluralism",
+   "name": "Religious Pluralism",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "The family of views (extreme, fundamental-teachings, cafeteria, and Hick's transcendental pluralism) that many or all religions are equally valid routes to the same ultimate reality.",
+   "why": "Chapters 62-63 are devoted to defining four varieties of religious pluralism, testing the film's syncretic 'Neo-pluralism' against them, and answering pluralist objections to exclusivism; no taxonomy slug names this concept, and 'faith-vs-reason' only covers the justification side."
+  },
+  {
+   "ch": 94,
+   "type": "concept",
+   "suggested_slug": "paradox-of-fiction",
+   "name": "The Paradox of Fiction",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The puzzle that we have genuine emotional responses to characters and events we know do not exist, although emotion seemingly requires belief in the reality of its object.",
+   "why": "Chapter 94 states the paradox's three premises and canvasses solutions (Coleridge's suspension of disbelief, Walton's make-believe) as the engine of Worth's essay on why viewers of The Matrix respond to a world they know is staged; the taxonomy has no philosophy-of-art concept for it."
+  }
+ ]
+}

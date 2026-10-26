@@ -1,0 +1,308 @@
+{
+ "book": "170 - House and Philosophy - Everybody Lies",
+ "unit": "u249",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Series.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Title page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Table of Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Introduction Contemplating a House of Cards.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [],
+   "relation": "The introduction reads Frank Underwood's opening mercy-killing of the injured dog and his unpunished rise from scorned congressman to president ('Democracy is so overrated') as a picture of politics where people do not reap what they sow. It argues the show channels real American anxieties — economic stagnation, the unfulfilled postracial promise, corporate money, inequality — so the titular house of cards may actually tumble. It frames the book's project as the contemplative life: withdrawing from politics to think before returning to action, invoking Plato's and Aristotle's claim that wonder is the beginning of philosophy and that wonder begets courage."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - PART I SOCRATES, PLATO, AND FRANK.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates"
+   ],
+   "concepts": [
+    "plato-ring-of-gyges",
+    "plato-justice"
+   ],
+   "relation": "Argues House of Cards is a modern version of the Sophistical challenge in Books 1-2 of Plato's Republic: Thrasymachus' claim that justice is the advantage of the stronger and the unjust life is preferable. It maps Frank's proprietary 'my people' attitude and his shepherd-and-flock use of Russo, Stamper, Sharp, Meechum and his Gaffney constituents onto Thrasymachus' reversal of Socrates' shepherd analogy, and reads the Secretary of State snub, Blythe's naivety and Dunbar's descent into dirty tricks as proofs that the just are dupes. Frank's Sentinel ring and 'craft' make him Glaucon's perfectly unjust man of the Ring of Gyges story — unjust while seeming just — while the framed Lucas Goodwin plays the perfectly just man punished for a reputation for injustice. The chapter ends by arguing Frank falls short of the ideal tyrant (his conscience, his church visits asking 'what Justice is') and is coming to live the Book 9 tyrant's friendless 'worst sort of life' as Claire and the others abandon him."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "plato",
+    "machiavelli"
+   ],
+   "concepts": [
+    "plato-ring-of-gyges",
+    "unexamined-life",
+    "socratic-ignorance"
+   ],
+   "relation": "Argues that Underwood's fourth-wall asides are the show's device for dramatizing the Platonic being-versus-seeming distinction: his public performances (reassuring Blythe over the leaked education bill, the confessional letter typed on the Underwood typewriter to destroy Walker, goading the President into appointing a special prosecutor) are contradicted point by point by what he tells the camera. The chapter reads Frank as a Ring of Gyges success story — the show so far teaches it is better to be the bad guy who seems good — while Socrates' examined life from the Apology and Crito shows Frank never asks why he wants power, and his cockiness is the opposite of Socratic ignorance. It closes with the Gorgias' contrast of Sophistic rhetoric (producing belief, not knowledge) and Machiavelli's advice to feign, casting Frank as the manipulator of opinion Socrates called a tyrant's politics."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - PART II IMAGINING POSSIBILITIES AMERICAN IDEALS IN HOUSE OF CARDS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rawls",
+    "hume",
+    "adam-smith"
+   ],
+   "concepts": [
+    "justice-as-fairness",
+    "invisible-hand"
+   ],
+   "relation": "Argues that Rawls' ideal theory rests on a 'strict compliance' assumption — citizens and politicians who pursue justice rather than self-interest — which makes his ideal society look like The West Wing, while House of Cards depicts the real one: teachers' unions fighting performance standards, Senator Haas blocking the omnibus bill for electoral fear, Jackie Sharp trading favors, and SanCorp's Remy Danton buying votes against Russo's watershed bill. The chapter traces the competing 'every man a knave' tradition — Smith's invisible hand converting the butcher's self-love into our dinner, Hume's maxim for constitution-designers, Madison's 'ambition counteract ambition', and Buchanan's public choice revival — and uses the theory of the second best to argue we must design institutions (publicly financed elections, balanced-budget and inflation amendments, a generality constraint) that assume Underwoods run for Congress."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "max-scheler"
+   ],
+   "concepts": [
+    "ressentiment",
+    "will-to-power"
+   ],
+   "relation": "Argues the Underwoods act out historian James Truslow Adams' warning that the American dream, severed from the question of values, degenerates into a means-first pursuit of power — 'burning the barn to find our penny in the hay'. Using Nietzsche's ressentiment and above all Max Scheler's account of its systematic repression of emotion, the chapter reads Claire's repressed longings for motherhood (the 'What will we leave behind?' scene), integrity and love erupting as spite against those who embody what she sacrificed: firing and persecuting the pregnant Gillian Cole, destroying Adam Galloway, and abandoning Megan Hennessey. Michael Corrigan's suicide in his Russian cell — an integrity she cannot drag down to her level — finally shatters her ressentiment, and the chapter ends with her walking out of the White House as the escape Adams' question demands."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - PART III CHARACTERIZING FRANK ÜBERMENSCH OR THE PRINCE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "ubermensch",
+    "will-to-power",
+    "last-man",
+    "master-slave-morality"
+   ],
+   "relation": "Argues Frank is a Nietzschean Übermensch figure whose power play is staged through the show's postmodern techniques: the wave and the asides as metafiction that destroys our suspension of disbelief, self-referentiality in the mirror monologue ('Hunt or be hunted'), and a flattening of affect that lets us watch Zoe's murder at the train station with numbed indifference. Zarathustra's fearless overman is set against the risk-averse last man and the lambs-and-birds-of-prey passage against Christian slave morality, mapping onto Frank's breaking of Russo at the shipyard, the martyr's-sword maneuver on Blythe, and his spitting on the crucifix before taking 'God's ear'. The chapter reads Frank's ascent as will to power in both the political and personal Nietzschean sense, while warning that by Season 3 his hunger has cost him Jackie, Remy and Claire."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "ubermensch",
+    "master-slave-morality",
+    "amor-fati"
+   ],
+   "relation": "Argues against the title claim of the previous chapter: Frank is a Nietzschean master type — he defines good as good-for-him, embraces pain as strength, and keeps no allegiances once Walker and Vasquez break their promise — while Peter Russo is the paradigmatic reactive slave who cannot command himself and blames others, exactly Nietzsche's 'he who cannot command himself is commanded'. But the overman requires self-overcoming, the sublimation of drives into creation, and amor fati, and Frank only dominates others for vengeful ends: his whole scheme grows from ressentiment over the Secretary of State snub, he affirms other wills merely as investments, and in Season 3 he becomes a slave to his own position. The chapter uses the Cesare Borgia misreading (better a Borgia than a Parsifal as raw material, but Borgia was no overman), Napoleon's corruption, and Goethe's creative wholeness to conclude that Frank remains 'all-too-human' — destruction without creation."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "machiavelli"
+   ],
+   "concepts": [
+    "machiavelli-ends",
+    "machiavelli-virtu"
+   ],
+   "relation": "Argues Frank's rise is a genuinely successful illustration of The Prince: Machiavelli's advice to be prepared not to be virtuous shows in his lying (feigning loyalty to Walker while engineering his impeachment, promising Russo the governorship), his strategic murders of Russo and Zoe, his audacity in making his own luck ('turn over the table'), and his cultivation of a pious family-man image while privately spitting on the crucifix. The chapter also lets Machiavelli criticize Frank — revenge on Tusk (better to pamper or crush), Claire's fruitless generosity at CWI, alliances with the stronger, and being feared to the point of being hated, which costs him Sharp, Remy and Claire. Finally it tests The Prince against modern democracy — party discipline, sex-scandal politics, Obama's donated Nobel money, birther smears — concluding that since Machiavellians will always adapt to whatever system exists, citizens must reward results and stop judging by image."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "machiavelli",
+    "rousseau"
+   ],
+   "concepts": [
+    "machiavelli-ends"
+   ],
+   "relation": "Runs through everything Frank does for a single project — the education reform bill: leaking Blythe's draft, gutting collective bargaining after promising Spinella ('I revised the parameters of my promise'), the Rasmussen speakership coup he then 'exposes', the shipyard-for-base trade, and the staged brick incident and strike-breaking — to show he endorses being 'other than good'. It then argues Machiavelli would not be impressed: Frank fails to keep up the appearance of integrity (Blythe, Feng and Vasquez all stop trusting him), inspires hatred rather than fear alone, and seeks power purely for its own sake where Machiavelli wanted it for the state's stability and liberty — the BBC's Francis Urquhart, who read The Prince and serves England, is the better Machiavellian. The chapter closes by weighing ironic and exposé readings of The Prince (Benner's critique, Rousseau's view that Machiavelli was unmasking princes, Dietz's sabotaging-gift reading) and concludes Frank fails even on the technique, not just the morality."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "walzer",
+    "sartre",
+    "machiavelli"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "deontology",
+    "dirty-hands"
+   ],
+   "relation": "Uses Sartre's play Dirty Hands and Walzer's 'Political Action: The Problem of Dirty Hands' to ask whether Frank's willingness to do the 'necessary thing' — from the opening mercy-killing of the dog to the Season 3 drone strike — could ever count in favor of an Underwood presidency, with utilitarians (nothing wrong with dirty hands) and absolutists like the bishop ('Love God, and love each other. Period.') dissolving the problem from opposite sides. Walzer's later 'supreme emergency' standard and threshold deontology frame the Jordan Valley staring contest with Petrov and the resulting deal as the one case where Frank's capability might genuinely matter, while Heather Dunbar's reluctance (her refusal of Stamper's offer of Claire's diary, then her reversal) tests the ideal of a leader both capable of and averse to dirtying her hands. The verdict: Frank's only advantage over Dunbar is his capacity for dirty hands, and even that fails because he lacks the scruples to keep them clean when it is not necessary."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - PART IV CLASSICAL LIBERALISM AND DEMOCRACY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes"
+   ],
+   "concepts": [
+    "social-contract",
+    "state-of-nature"
+   ],
+   "relation": "Casts Frank as the 'Foole' of Leviathan chapter 15 — the man who grants that covenants exist but thinks injustice can 'stand with reason' — and documents his befriend-then-betray pattern: Russo groomed for governor then gassed in his car, Zoe fed stories then pushed under a train, Walker befriended, helped and maneuvered into resigning, all to reap the contract's benefits while breaking it for 'the getting of a kingdom'. The chapter then defends Hobbes' reply via Kavka: the Foole's vainglory makes him overestimate his ability to deceive, and a detailed audit of Frank's two murders (fingerprints, witnesses, electronic traces, forensic evidence, alibis, high-stakes deception 'tells') shows them contingency-riddled and irrational. Even Frank's success is no defense — his presidency rests on others' errors and luck (Skorsy, Orsay, Tusk, Stamper, and above all Claire all remain loose ends), so he exemplifies the vainglorious Foole acting against the reason of his preservation rather than a rational violator of the social contract."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes"
+   ],
+   "concepts": [
+    "state-of-nature",
+    "democracy-theory"
+   ],
+   "relation": "Argues Frank is 'Hobbesian to the core': for him democracy is just the state of nature with elections, which is why it produces mediocre, fearful presidents like Walker (a Xanax-taking incumbent undone by a mere legislator) while a real sovereign like Frank — or the autocrat Petrov, with whom Frank shares cigars precisely because no common power enforces rules between them — gets things done. The chapter reads Frank's appetites (ribs at Freddy's, power over money against Remy and Tusk, contempt for sleep and death) through Hobbes' pleasure-and-pain psychology and his account of conflict arising when equals want the same thing, which finally drives Claire from the White House. Frank's church scenes ('I pray to myself, for myself') illustrate Hobbes' subordination of religion to civil power, the Kate Baldwin 'he is the tyrant' charge illustrates that a tyrant is only a king disliked, and the closing appeal is to Madison's Federalist 51: only the ambition of others can contain this one."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "hobbes",
+    "hegel",
+    "marx",
+    "mill"
+   ],
+   "concepts": [
+    "philosopher-king",
+    "plato-tripartite-soul",
+    "historical-materialism",
+    "democracy-theory"
+   ],
+   "relation": "Argues the Underwoods' success is not far-fetched fiction but the structural outcome four critics of democracy predict. Plato's Republic supplies the spine: the kallipolis of philosopher-guardians decays through timocracy and oligarchy into democracy, whose love of freedom invites the tyrant — Peter Russo with his random desires is the democratic soul, Frank the tyrannical soul ruled by one illicit appetite, doomed to the fear and friendlessness Book 9 describes (which Season 3 delivers). Hobbes and Hegel then explain why monarchy may beat popular rule (the monarch's private interest aligns with the public's; the monarch lets a people will as one), and Marx reframes the whole show economically — SanCorp, Tusk and Feng as capitalists, the laid-off shipyard workers as proletariat, and AmWorks as self-interested politicians flirting with expropriation. Against all four, Mill's Considerations on Representative Government gives the democratic reply — elections force responsiveness, participation educates citizens — so the burden falls on viewers to keep elections fair, the press free, and checks on unscrupulous politicians effective."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 10,
+   "type": "philosopher",
+   "suggested_slug": "james-buchanan",
+   "name": "James M. Buchanan",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Nobel-winning economist and father of public choice theory who insisted politics be analyzed 'without romance', assuming self-interested politicians rather than romantic statesmen.",
+   "why": "Chapter 10's central positive argument is that Buchanan's demand to design institutions under the assumption that people like Frank Underwood run for Congress corrects Rawlsian ideal theory."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "public-choice",
+   "name": "Public Choice Theory (politics without romance)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The application of self-interest assumptions to politicians and voters, weighing government failures against market failures when designing institutions.",
+   "why": "Chapter 10 argues House of Cards vindicates public choice: SanCorp's rent-seeking, politicians' high discount rates, and Frank's self-dealing show why Rawls' strict-compliance ideal fails."
+  },
+  {
+   "ch": 11,
+   "type": "philosopher",
+   "suggested_slug": "max-scheler",
+   "name": "Max Scheler",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "German phenomenologist of values who extended Nietzsche's ressentiment, diagnosing the modern industrial ethos as an engine of systematically repressed, spiteful emotion.",
+   "why": "Chapter 11 relies on Scheler's Ressentiment more than any other source to explain Claire's hatred of Gillian Cole, Adam Galloway and Michael Corrigan's unbending integrity."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "postmodernism",
+   "name": "Postmodernism (metafiction and self-referentiality)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "A movement rejecting Enlightenment faith in progress and objective representation, playing with irony, parody, and the collapse of the boundary between fiction and reality.",
+   "why": "Chapter 13 reads Frank's fourth-wall wave, his self-referential asides, and the show's flattening of affect at Zoe's death as postmodern techniques that seduce viewers into his nihilism."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "dirty-hands",
+   "name": "The Problem of Dirty Hands",
+   "philosopher": "walzer",
+   "domain": "political-social",
+   "what": "Walzer's problem that governing sometimes requires leaders to do what is morally wrong, so a good ruler must be capable of dirtying her hands yet reluctant to do so.",
+   "why": "Chapter 17's entire argument tests whether Frank's willingness to order drone strikes and face down Petrov makes him fitter for office than Heather Dunbar."
+  }
+ ]
+}

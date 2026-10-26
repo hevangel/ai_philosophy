@@ -1,0 +1,394 @@
+{
+ "book": "076 - The Good Wife and Philosophy - Temptations of Saint Alicia",
+ "unit": "u127",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - The Good Wife and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - The Good Wife and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - The Good Wife and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - The Good Wife and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - The Good Wife and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "authenticity",
+    "feminism"
+   ],
+   "relation": "The editors introduce the book by contrasting The Good Wife with earlier law shows like Law and Order: for the first time we see lawyers at home, and the central figure is Alicia Florrick, juggling teenagers, a firm in bankruptcy, and a marriage wrecked by Peter's prostitution scandal while keeping up appearances as the 'good wife' and taking lover Will Gardner. They argue the show refuses a single right answer - her choices are selfish, cowardly, vengeful, or simply her being true to herself - and that her growth as a woman, mother, and lawyer challenges preconceived social norms about women and about lawyers. Philosophy enters as the natural sequel: ethics, justice, feminism, privacy rights, epistemology, and social-political philosophy are all sewn into the episodes."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Good Wife and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "applied-ethics",
+    "mill-liberty"
+   ],
+   "relation": "Judith Andre uses the show's cases - Alicia's overnight prison visit to Peter for case information in 'Conjugal', snatching evidence before the police in 'Hi', Kalinda's inadmissible but coercive evidence in 'Heart', and Will's advice to use perjured testimony in 'Long Way Home' - to ask whether the profession's zealous advocacy actually serves justice. She explains the adversary system's two-level defense (each side's pursuit of victory supposedly forces truth out, mirroring sport) and its weaknesses: money decides outcomes, and no one in the courtroom is responsible for the truth, as the buried Childs tapes in 'Hybristophilia' show. Individual liberty against state power justifies criminal defense at most, and she endorses David Luban's sober conclusion that the system is justified yet 'cannot mandate lawyers to cut throats', with Alicia remaining the show's uneasy, unreconciled conscience."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aquinas",
+    "augustine",
+    "cicero"
+   ],
+   "concepts": [
+    "just-war-theory",
+    "applied-ethics"
+   ],
+   "relation": "Jai Galliott takes the Season Three episode 'Whiskey Tango Foxtrot', in which Nevada-based drone operator Sergeant Elkins kills twelve Afghan civilians and is convicted of murder despite Alicia's scapegoating defense, as a case study in the ethics of drone warfare. Tracing just war theory from the Mahabharata through Augustine to Aquinas's jus ad bellum and jus in bello framework, he applies proportionality and discrimination to the strike and argues that sensor limits and the physical and emotional distance of push-button killing (Grossman's spectrum from knife combat to drones) erode operators' capacity for discriminate targeting. He concludes that drones are a moral hazard but a legitimate asset, and that blame must be apportioned among operator, manufacturer, and commanders rather than dumped on Elkins alone."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bentham",
+    "mill"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "consequentialism"
+   ],
+   "relation": "Rod Carveth maps Bentham's act-utilitarianism onto Lockhart Gardner's defense-side reasoning and Mill's rule-utilitarianism onto the prosecution's, then tests the pairing on the firm's recurring client Colin Sweeney. Sweeney's cases - the wrongful-death suit in 'Bad' where Alicia says 'Of course' he killed his wife, the manslaughter plea and merger opportunism in 'Hybristophilia', and the perjured testimony Alicia may still use in 'Long Way Home' - show the firm letting the end of client and firm gain justify the means. Sweeney walking free, restored to his company, and a father despite admitting the murder is the counter-intuitive consequence that makes Carveth question whether act-utilitarianism should ground our decisions at all."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - The Good Wife and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates"
+   ],
+   "concepts": [
+    "platonic-love",
+    "philosophy-of-love",
+    "feminism"
+   ],
+   "relation": "Celine Morin reads Alicia's love life through the Greek triad agape, eros, and philia as laid out in Plato's Symposium: her unconditional agape for Peter is eroded by his demands for forgiveness ('Stripped', 'Boom'), while the Socratic myth of Eros born from Penia's lack explains why she tells Will their affair is 'romantic because it didn't happen'. She argues Alicia abandons the romantic soul-mate model of her pearl-necklace marriage for Giddens's egalitarian 'pure relationship' with Will, but stays moored to the old family structure, hesitating on the doorstep in the Season Three cliffhanger 'The Dream Time'. Her discovery of feminism through Diane Lockhart is what lets Alicia weigh leaving that structure without destroying her family."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gilligan",
+    "kant",
+    "noddings"
+   ],
+   "concepts": [
+    "care-ethics",
+    "categorical-imperative",
+    "care-ethics-noddings"
+   ],
+   "relation": "Kathleen Poorman Dougherty sets Kant's universal, emotion-free morality (echoed in Kohlberg's justice stages and Judge Abernathy's 'blind court' claim in 'Infamy') against Carol Gilligan's care ethic, which she says fits Saint Alicia far better: Alicia's practical advice to Jennifer Lewis in the pilot, driving Kenny home in 'Home', and telling Kenny's father 'I care a lot more about your son than he does' show connection producing both better morality and better lawyering. Feminist theorists like Nel Noddings and Sara Ruddick treat this care orientation as morally superior, not merely different, but the chapter's later sections weigh the cost: Kalinda's burnout warning, Alicia's resentment at always hand-holding clients, and the double bind by which women absorb society's unpaid caring labor. The verdict is that care is genuinely moral, but it must become a shared burden."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Good Wife and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Mark D. White uses the show's bench - umpire-like Judge Park, the 'cleanse'-addled judge of 'Double Jeopardy', Judge Lessner's 'in my opinion' ritual, liberal Judge Abernathy, and Judge Baxter's sentencing kickbacks in 'Lifeguard' - to ask how far judicial bias infects rulings. He walks through legal formalism's chess-like model, legal realism (Holmes's law as 'prophecies of what the courts will do in fact', Will's lesson to Ms. Cabrini in 'Mock'), Hart's open texture of law, and Dworkin's principles-and-integrity theory, on which Abernathy and Lessner facing the same case would each reach their own 'right answer'. The upshot: judges cannot be neutral umpires, so winning lawyers like Will predict the judge, not just the law."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "pascal"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "pascals-wager",
+    "epistemology-of-testimony"
+   ],
+   "relation": "Lisa McNulty asks what could oblige us to believe someone: Peter's lying fails Kant's Categorical Imperative (a world of universal liars makes lying impossible), while friendship explains Alicia's readiness to believe client Kenny Chatham even before the evidence does. The 'Death Zone' libel trial over an Everest death shows that one's position of power fixes whom one owes presumptive belief - a reader should side with Cardiff, a judge must presume Lambrose innocent - and Pascal's Wager supplies the method of 'behaving like a believer': withholding rumors, withholding conviction, and Alicia publicly playing the wife and sleeping with Peter in a bid to believe in her marriage again. She concludes Peter forfeited any right to be believed, so Alicia has no moral obligation to behave like a good wife."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "kant"
+   ],
+   "concepts": [
+    "moral-psychology",
+    "deontology"
+   ],
+   "relation": "James Edwin Mahon sorts the show's plots by the gap between deed and motive: Patti Nyholm helps save Marjorie Garnett's liver in 'In Sickness' purely to leverage her firm, Lockhart Gardner sues Chumhum in 'Great Firewall' for the mercenary reason Alicia laments, and the Demorys bribe a juror in 'Fixed' out of altruism. Working through Mill's exchange with Llewellyn Davies and Kant's shopkeeper, he argues motives can be good or bad but never right or wrong, and that no good motive makes a wrong action right - Kant denied even a philanthropic right to lie. Hence Alicia's persuading Shen Yuan to lie about his torture, however compassionate, was wrong."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - The Good Wife and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 21,
+   "file": "ch21 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-ring-of-gyges",
+    "moral-psychology"
+   ],
+   "relation": "Skyler King and Robert Arp catalogue the excuses cheating men offer - 'my wife let herself go', 'so much eye candy', 'a moment of weakness' - and add evolutionary psychology's parental investment theory to explain why Peter Florrick-types stray while women like Alicia cheat less. The centerpiece is Glaucon's Ring of Gyges story from Book II of Plato's Republic: politicians such as Peter, Bill Clinton, and Eliot Spitzer wear the invisibility ring of power and come to think moral rules no longer bind them. The chapter closes with prudential and moral reasons against infidelity - scorned spouses, broken promises, wounded children - capped by Eli Gold fielding questions about a Brazil-shaped birthmark in 'Anatomy of a Joke'."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-psychology"
+   ],
+   "relation": "Roger Hunt treats Louis Canning, Peter Florrick, and Colin Sweeney as psychiatric cases read through Freud's later drive theory, in which a life drive (Eros) and a death drive (Thanatos) fuse in varying proportions. Sweeney is the purest death-driven type, deriving low-grade sadistic pleasure while feigning personhood to escape punishment; Peter's paranoia assembles a protective barrier of handlers (Eli, Jackie, Alicia, the DNC); Canning may convert self-attack into the very tardive dyskinesia symptoms he weaponizes before juries. The chapter's claim is that the show's evil is not absolute lawlessness but pathology seen from the other characters' perspective, and that the death drive accounts for much of the wickedness on screen."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Good Wife and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "Jennifer Swanson asks whether Alicia can 'have it all', starting from Aristotle: Peter fails the moral virtues (faithfulness, honesty, courage), Jackie's intrusive moments undermine her kindness since Aristotle's unity of the virtues ties them together, and Eli Gold's perfect frankness leaves no room for perfect tact. Following Michael Slote's partial values and impossibility of perfection, she argues career and family are paired values in which gaining one loses the other, as Alicia discovers being pulled between Molly the nanny, Cary's 'she'll have something to fall back on', Diane's partner-track warning, and dumping Will after Grace's twelve butt-dials in 'Parenting Made Easy'. Since perfection is impossible in principle, the answer is balance across all the values of a good life, not Caitlin's retreat into 'I just want to be a mom'."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "friedan"
+   ],
+   "concepts": [
+    "feminine-mystique",
+    "feminism"
+   ],
+   "relation": "Karen Adkins argues the show exposes the 'choice' to stay home as neither free nor innocent: Betty Friedan's Feminine Mystique and Linda Hirshman's Get to Work frame how Alicia's more-promising-than-Will-or-Peter career was sacrificed to Peter's ambitions and now constrains her, while Peter's 'thanks for playing the breadwinner', Cary's condescension in 'Fleas', and Jackie's 'we stay in the shadows' speech treat her work as a hobby. The show's feminism goes bland, she contends, when Alicia declines to fight Caitlin's resignation in 'Long Way Home' and endorses choice feminism against her own history. The chapter's evidence runs both ways, though: the 'We're not the cops, honey' double standard, and Alicia's mom skills and lawyer skills flowing productively between nursery and deposition room."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Good Wife and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-eudaimonia",
+    "aristotle-friendship"
+   ],
+   "relation": "John Fitzpatrick asks whether voters should care that Alicia stands beside Peter, from the Season One resignation press conference to the finale's withheld hand. After a rapid tour of right-action theories grounded in the show - Eli Gold's egoism, Peter's 'pitted' evidence tip as consequentialism, Alicia keeping Jonas Stern's dementia secret as deontology, the Florrick-Childs no-children pact as social contract - he turns to Aristotle's Nicomachean Ethics: eudaimonia as a life weaving pleasure, friendship, and practical activity, in which mentors like Will and Diane let us contemplate virtue in others and improve our own character. His conclusion: Alicia's endorsement matters not because she is a good wife but because she is a good person whose judgment reveals Peter's character."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [
+    "plato-justice",
+    "aristotle-virtue-ethics",
+    "moral-egoism"
+   ],
+   "relation": "The Azevedos read Plato's Republic Book I as a manual for professionalism: Socrates argues the practitioner - doctor, ruler, lawyer - serves the patient, citizen, and client rather than himself, while Thrasymachus's cynicism that injustice pays and people only seem just is embodied by Eli Gold ('I lie for a living') and by stunt lawyers Nancy Crozier, Patti Nyholm, Louis Canning, and the secretive Jonas Stern. Alicia answers with Aristotle's virtue ethics: professionalism as a cluster virtue cultivated through habituated action, hitting the mean and doing the right thing at the right time for the right reasons. Saint Alicia shows how costly being good all the time is, yet the chapter sides with her striving for virtue over Thrasymachus's goldbrick glory."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "feminism"
+   ],
+   "relation": "Offered as a salute to The Good Wife's female lawyers (Alicia, Diane, Caitlin, Geneva Pine, Dana Lodge, Elsbeth Tascioni), this piece collects good, bad, and memorable real women attorneys: pioneers Bettisia Gozzadini, Arabella Mansfield, Myra Bradwell - barred by Justice Bradley's 'wife and mother' dictum in Bradwell v. Illinois - and Charlotte E. Ray; notorious figures like accused murderer Mary Leonard; and trailblazers Gloria Allred, Sandra Day O'Connor, Constance Baker Motley, and Ruth Bader Ginsburg. The parade of firsts grounds the show's fictional women in the real feminist struggle to enter and practice the legal profession."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "protagoras",
+    "bentham",
+    "cicero",
+    "plutarch",
+    "averroes",
+    "bacon",
+    "descartes",
+    "leibniz"
+   ],
+   "concepts": [],
+   "relation": "This companion piece profiles philosophers who actually practiced law or rhetoric: the sophists Thrasymachus and Protagoras (whose 'man is the measure' relativism was rhetoric for hire and whom Plato and Aristotle despised), Demosthenes, Cicero - called 'the closest thing to a Philosopher King any society has ever seen' - Plutarch with his virtue-and-vice maxims, Cordoba's jurist Averroes, legal-team veteran Francis Bacon, natural-law theorist of war Hugo Grotius, law-degree holders Descartes and Leibniz, Montesquieu of the separation of powers, Bentham (panopticon architect whose utilitarianism lets ends justify means like waterboarding), and legal positivists Hart and Dworkin. Its running joke is that the lawyer-sophist connection is as old as philosophy itself, which is precisely the stereotype The Good Wife plays against."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - The Good Wife and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The book's comic interlude: eleven numbered lawyer jokes, from the vacuum-cleaner dirt bag and the drowning lawyer thrown his partners to 'God doesn't think he's a lawyer' and the closer that 'only three lawyer jokes exist; the rest are true stories'. The list spikes the same lawyers-are-scoundrels stereotype that Judith Andre's opening chapter analyzed seriously and that the editors' introduction answered with Dick the Butcher's 'first thing we do, let's kill all the lawyers'."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - The Good Wife and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Good Wife and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 22,
+   "type": "philosopher",
+   "suggested_slug": "freud",
+   "name": "Sigmund Freud",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Founder of psychoanalysis who modeled the mind as a battlefield of drives, famously dividing motivation into a life drive (Eros) and a death drive (Thanatos) alongside the id-ego-superego structure.",
+   "why": "Chapter 22 reads Colin Sweeney, Peter Florrick, and Louis Canning as psychoanalytic cases in which the death drive dominates the life drive, making Freud the chapter's central framework."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "death-drive",
+   "name": "The Death Drive (Thanatos)",
+   "philosopher": "freud",
+   "domain": "ethics-moral-psychology",
+   "what": "In Freud's drive theory, the destructive impulse toward aggression, distance, and death that in healthy people serves the life drive but in pathology dominates and directs it.",
+   "why": "Chapter 22 uses the death drive to explain the show's everyday evil, from Sweeney's sadistic pleasure to Canning's self-attacking symptoms and Peter's paranoid barricade of protectors."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "legal-realism",
+   "name": "Legal Realism",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The jurisprudential thesis that judges actually decide cases from personality, bias, mood, and politics rather than by logically deriving outcomes from legal rules.",
+   "why": "Chapter 17 tests legal realism against Judge Park's formalism, Judge Lessner's quirks, and Judge Baxter's kickbacks before turning to Hart's open texture and Dworkin's integrity theory."
+  },
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "partial-values",
+   "name": "Partial Values (Slote)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Michael Slote's paired values (tact and frankness, career and family) that cannot be possessed fully together, grounding his thesis that human perfection is impossible.",
+   "why": "Chapter 24 leans on Slote's partial values to argue Alicia can never perfectly combine career and family, so the good life is about balance rather than having it all."
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "epistemology-of-testimony",
+   "name": "Epistemology of Testimony",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The branch of epistemology asking when believing someone on their word is justified, and whether speakers can have a right, or hearers a duty, to be believed.",
+   "why": "Chapter 18 argues that positions of power - judge, jury, reader of Lambrose's book - carry role-dependent moral duties of presumptive belief, applied to Peter's lies and the Death Zone libel trial."
+  }
+ ]
+}

@@ -1,0 +1,197 @@
+[
+ {
+  "num": 1,
+  "group": "read",
+  "title": "Sophie's World",
+  "subtitle": "A Novel About the History of Philosophy",
+  "full_title": "Sophie's World: A Novel About the History of Philosophy",
+  "author": "Jostein Gaarder",
+  "query": "Sophie's World Gaarder"
+ },
+ {
+  "num": 6,
+  "group": "read",
+  "title": "The Problems of Philosophy",
+  "subtitle": "",
+  "full_title": "The Problems of Philosophy",
+  "author": "Bertrand Russell",
+  "query": "Problems of Philosophy Russell"
+ },
+ {
+  "num": 7,
+  "group": "read",
+  "title": "Human Knowledge",
+  "subtitle": "Classical and Contemporary Approaches",
+  "full_title": "Human Knowledge: Classical and Contemporary Approaches",
+  "author": "Paul K. Moser, Arnold vander Nat",
+  "query": "Human Knowledge Moser vander Nat"
+ },
+ {
+  "num": 12,
+  "group": "read",
+  "title": "Contemporary Political Philosophy",
+  "subtitle": "An Anthology",
+  "full_title": "Contemporary Political Philosophy: An Anthology",
+  "author": "Robert E. Goodin, Philip Pettit",
+  "query": "Contemporary Political Philosophy Goodin Pettit Anthology"
+ },
+ {
+  "num": 14,
+  "group": "read",
+  "title": "Contemporary Political Philosophy",
+  "subtitle": "An Introduction",
+  "full_title": "Contemporary Political Philosophy: An Introduction",
+  "author": "Will Kymlicka",
+  "query": "Contemporary Political Philosophy Kymlicka"
+ },
+ {
+  "num": 15,
+  "group": "read",
+  "title": "An Introduction to Aesthetics",
+  "subtitle": "",
+  "full_title": "An Introduction to Aesthetics (Introducing Philosophy)",
+  "author": "Dabney Townsend"
+ },
+ {
+  "num": 16,
+  "group": "read",
+  "title": "On Bullshit",
+  "subtitle": "",
+  "full_title": "On Bullshit",
+  "author": "Harry G. Frankfurt",
+  "query": "On Bullshit Frankfurt"
+ },
+ {
+  "num": 22,
+  "group": "read",
+  "title": "A Good Book, In Theory",
+  "subtitle": "A Guide to Theoretical Thinking",
+  "full_title": "A Good Book, In Theory: A Guide to Theoretical Thinking",
+  "author": "Alan Sears",
+  "query": "Good Book In Theory Sears"
+ },
+ {
+  "num": 23,
+  "group": "read",
+  "title": "Writing Philosophy",
+  "subtitle": "A Student's Guide to Writing Philosophy Essays",
+  "full_title": "Writing Philosophy: A Student's Guide to Writing Philosophy Essays",
+  "author": "Lewis Vaughn",
+  "query": "Writing Philosophy Vaughn"
+ },
+ {
+  "num": 25,
+  "group": "read",
+  "title": "The One-Minute Philosopher",
+  "subtitle": "",
+  "full_title": "The One-Minute Philosopher",
+  "author": "Montague Brown"
+ },
+ {
+  "num": 29,
+  "group": "read",
+  "title": "The Story of Philosophy",
+  "subtitle": "",
+  "full_title": "The Story of Philosophy",
+  "author": "Bryan Magee"
+ },
+ {
+  "num": 30,
+  "group": "read",
+  "title": "First Philosophy, Volume II",
+  "subtitle": "Knowledge and Reality: Fundamental Problems and Readings in Philosophy",
+  "full_title": "First Philosophy, Volume II: Knowledge and Reality — Fundamental Problems and Readings in Philosophy",
+  "author": "Andrew Bailey",
+  "query": "First Philosophy Knowledge Reality Bailey"
+ },
+ {
+  "num": 32,
+  "group": "read",
+  "title": "Core Questions in Philosophy",
+  "subtitle": "A Text with Readings",
+  "full_title": "Core Questions in Philosophy: A Text with Readings",
+  "author": "Elliott Sober",
+  "query": "Core Questions in Philosophy Sober"
+ },
+ {
+  "num": 33,
+  "group": "read",
+  "title": "Investigating Culture",
+  "subtitle": "An Experiential Introduction to Anthropology",
+  "full_title": "Investigating Culture: An Experiential Introduction to Anthropology",
+  "author": "Carol Delaney",
+  "query": "Investigating Culture Delaney"
+ },
+ {
+  "num": 34,
+  "group": "read",
+  "title": "The Theory of Knowledge",
+  "subtitle": "Classical and Contemporary Readings",
+  "full_title": "The Theory of Knowledge: Classical and Contemporary Readings",
+  "author": "Louis P. Pojman",
+  "query": "Theory of Knowledge Pojman"
+ },
+ {
+  "num": 35,
+  "group": "read",
+  "title": "A Theory of Justice",
+  "subtitle": "",
+  "full_title": "A Theory of Justice",
+  "author": "John Rawls",
+  "query": "Theory of Justice Rawls"
+ },
+ {
+  "num": 38,
+  "group": "read",
+  "title": "The Prince",
+  "subtitle": "",
+  "full_title": "The Prince",
+  "author": "Niccolò Machiavelli",
+  "query": "Prince Machiavelli"
+ },
+ {
+  "num": 40,
+  "group": "read",
+  "title": "The Philosophy of Language",
+  "subtitle": "Fourth Edition",
+  "full_title": "The Philosophy of Language, International 4th Edition",
+  "author": "A. P. Martinich",
+  "query": "Philosophy of Language Martinich"
+ },
+ {
+  "num": 41,
+  "group": "read",
+  "title": "Environmental Ethics",
+  "subtitle": "An Anthology",
+  "full_title": "Environmental Ethics: An Anthology",
+  "author": "Andrew Light, Holmes Rolston III",
+  "query": "Environmental Ethics Light Rolston"
+ },
+ {
+  "num": 42,
+  "group": "read",
+  "title": "An Introduction to the Philosophy of Language",
+  "subtitle": "",
+  "full_title": "An Introduction to the Philosophy of Language",
+  "author": "Michael Morris",
+  "query": "Introduction to Philosophy of Language Morris"
+ },
+ {
+  "num": 9,
+  "group": "read",
+  "title": "Ecological Ethics",
+  "subtitle": "An Introduction",
+  "full_title": "Ecological Ethics: An Introduction",
+  "author": "Patrick Curry",
+  "query": "Ecological Ethics Curry"
+ },
+ {
+  "num": 17,
+  "group": "read",
+  "title": "Contemporary Moral Problems",
+  "subtitle": "",
+  "full_title": "Contemporary Moral Problems",
+  "author": "James E. White",
+  "query": "Contemporary Moral Problems White"
+ }
+]

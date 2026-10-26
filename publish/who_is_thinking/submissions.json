@@ -1,0 +1,33 @@
+{
+  "article": "who_is_thinking",
+  "updated": "2026-10-03",
+  "submissions": [
+    {
+      "venue": "aipc2026",
+      "venue_name": "AI Philosophy Competition 2026 (Goodsell/Thornley, Forethought Research)",
+      "status": "submitted",
+      "history": [
+        {
+          "date": "2026-10-03",
+          "event": "preparation started",
+          "method": "agent",
+          "confirmation": "venue-aipc2026/ staged: anonymized-manuscript.md (3,838 words ex-refs) + eligibility audit in notes.md (verdict: unclear, blocked on owner's methodology details)"
+        },
+        {
+          "date": "2026-10-04",
+          "event": "methodology received; audit updated; report drafted",
+          "method": "agent",
+          "confirmation": "Owner's prompt log (sratchpad/methodology.md): FB exchange → 3 prompts to GPT-5.6 Sol high-thinking (ChatGPT app) → repo GLM-5.3 agents. Verdict now 'eligible (one disclosed grey area: entrant's FB reply in AI context)'. anonymized methodology-report.md drafted; pending owner decisions on prior publication (live site article + LinkedIn post), report sign-off, chat-log export."
+        },
+        {
+          "date": "2026-10-11",
+          "event": "submitted",
+          "method": "api",
+          "confirmation": "OpenReview note 9WYF5UJQlG (submission #212), forum https://openreview.net/forum?id=9WYF5UJQlG — essay PDF + methodology-report.pdf uploaded; AI_involvement 'AI-driven'; name attached; verified in browser (shots/submitted-212-forum.png)"
+        }
+      ],
+      "ai_disclosure_sent": true,
+      "notes": "SUBMITTED 2026-10-11 as submission #212. Deadline was 2026-10-31 AOE; finalists early Dec 2026. Outstanding: export the ChatGPT conversation (GPT-5.6) as retained chat log (rules require retention even if not submitted)."
+    }
+  ]
+}

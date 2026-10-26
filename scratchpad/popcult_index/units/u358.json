@@ -1,0 +1,79 @@
+{
+ "unit": "u358",
+ "book": "243 - The Philosophy of Christopher Nolan",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\data\\philosophy_pop_culture\\markdown\\243 - The Philosophy of Christopher Nolan",
+ "range": [
+  1,
+  11
+ ],
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Cover.md",
+   "words": 0
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Title Page.md",
+   "words": 343
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Introduction.md",
+   "words": 1706
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Deceit, Desire, and Mimetic Doubling in the Films of Christopher Nolan.md",
+   "words": 8571
+  },
+  {
+   "n": 5,
+   "file": "ch05 - “So You Can Be My ‘John G.’”.md",
+   "words": 6385
+  },
+  {
+   "n": 6,
+   "file": "ch06 - White Nights of the Soul.md",
+   "words": 5125
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Love, Value, and the Human Destiny in Interstellar.md",
+   "words": 7075
+  },
+  {
+   "n": 8,
+   "file": "ch08 - “They Turned to a Man They Didn’t Fully Understand”.md",
+   "words": 4362
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Vale of Top Hats.md",
+   "words": 7781
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Plato, Habermas, and the Demonic Cobb.md",
+   "words": 4548
+  },
+  {
+   "n": 11,
+   "file": "ch11 - “Are You Watching Closely ”.md",
+   "words": 6572
+  }
+ ],
+ "content": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ]
+}

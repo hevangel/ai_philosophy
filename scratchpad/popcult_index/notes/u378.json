@@ -1,0 +1,111 @@
+{
+ "book": "262 - Dr. Seuss and Philosophy - Oh, the Thinks You Can Think!",
+ "unit": "u378",
+ "chapters": [
+  {
+   "n": 6,
+   "file": "ch06 - Preface.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Acknowledgments.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Editor\u2019s Note.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Unsettled Meddling An Introduction in Verse.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Oh, the Places You\u2019ll Go! The Examined, Happy Life.md",
+   "kind": "chapter",
+   "philosophers": ["socrates", "plato"],
+   "concepts": ["unexamined-life", "socratic-method", "aristotle-eudaimonia"],
+   "relation": "Benjamin Rider reads Oh, the Places You'll Go! through Socrates' claim that the unexamined life is not worth living. He argues the Sneetches' star-obsession, Yertle's tower, Gertrude McFuzz's feathers, and the Once-ler's 'biggering' are the false, unexamined beliefs about wealth and status that Socrates said wreck the soul, while Bartholomew Cubbins and Horton model the wise, courageous endurance Socrates seeks but fails to define with the generals Laches and Nicias in Plato's Laches. The 'Waiting Place' becomes the life of someone who never questions what really makes him happy, and Seuss's call to use 'the brains in your head' echoes Socrates' insistence in the Crito and Phaedo on living by rational reflection."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - My Troubles Are Going to Have Troubles with Me Schopenhauer, Pessimism, and Nietzsche.md",
+   "kind": "chapter",
+   "philosophers": ["schopenhauer", "nietzsche"],
+   "concepts": ["schopenhauer-pessimism", "schopenhauer-pendulum", "eternal-recurrence", "amor-fati"],
+   "relation": "Jacob Held pits Schopenhauer's pessimism against Nietzschean affirmation using I Had Trouble in Getting to Solla Sollew. He reads Schopenhauer's will-to-life and 'pendulum between pain and boredom' into Seuss's endlessly striving characters, and treats the mirage-towns Solla Sollew and Boola Boo Ball as proof there is no escape from suffering. The protagonist's final line, 'I've bought a big bat... now my troubles are going to have troubles with me,' becomes Nietzsche's yes-saying: instead of the ascetic renunciation Schopenhauer prescribes, Seuss's child-hero affirms life, redeeming its accidents the way Nietzsche's eternal-recurrence thought experiment and 'become a child' passage in Zarathustra demand."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Gertrude McFuzz Should\u2019ve Read Marx, or Sneetches of the World Unite.md",
+   "kind": "chapter",
+   "philosophers": ["marx", "hegel"],
+   "concepts": ["marx-alienation", "commodity-fetishism", "culture-industry"],
+   "relation": "Jacob Held uses the Once-ler, Pontoffel Pock, the Sneetches, and Gertrude McFuzz to explain Marx's theory of alienation. The Once-ler is the capitalist owning the means of Thneed production; Pontoffel Pock's dull pickle-works job shows labor severed from the worker's essence as a free, conscious producer (an idea Held traces to Hegel on self-expression through work). The Sneetches buying stars from Sylvester McMonkey McBean and Gertrude popping pill-berries dramatize how alienated people chase belonging through consumption, which Held elaborates via Fromm's 'having vs being' and Horkheimer and Adorno's culture industry, concluding the fault lies not in the characters but in a society that denies self-realization through labor."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Socratic Seuss Intellectual Integrity and Truth-Orientation.md",
+   "kind": "chapter",
+   "philosophers": ["socrates", "frankfurt", "plato"],
+   "concepts": ["frankfurt-bullshit", "socratic-method", "plato-euthyphro"],
+   "relation": "Matthew Pierlott casts Seuss as a Socratic gadfly for intellectual integrity, built on Frankfurt's distinction between the liar (who respects truth) and the bullshitter (who is indifferent to it). Sam-I-Am's reluctant friend in Green Eggs and Ham is 'bullshitting' to be left alone; the boasting rabbit and bear of 'The Big Brag' are humbled by a worm who plays Socrates as in Plato's Euthyphro; Horton Hatches the Egg and Mulberry Street show self-delusion (believing what we wish were true); and 'What Was I Scared Of?' shows fear distorting the interpretation of evidence, all mapped against Pierlott's five aspects of intellectual integrity."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Neither Here, nor There, nor Anywhere.md",
+   "kind": "chapter",
+   "philosophers": ["peirce"],
+   "concepts": ["pragmatism", "pragmatic-method", "skepticism"],
+   "relation": "Randall Auxier reads Green Eggs and Ham as a primer in Peircean pragmatism. The contrarian 'C' illustrates how thinking only begins when a problem interrupts action, and Peirce's distinction between 'genuine doubt' and settled belief-as-habit explains why C clings to 'I do not like them' without ever trying them. Auxier runs C's stubbornness through Peirce's four methods of fixing belief (Authority, A Priori, Tenacity, Science), arguing C relies on tenacity, and likens Sam-I-Am to Saint Monica pestering Augustine into genuine doubt, so that even after C eats the eggs he only knows they settled belief in one context."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - McElligot\u2019s Pool Epistemology (with Fish!).md",
+   "kind": "chapter",
+   "philosophers": ["descartes", "locke", "berkeley", "quine"],
+   "concepts": ["skepticism", "cartesian-doubt", "berkeley-idealism"],
+   "relation": "Ron Novy uses Marco's faith that unseen fish swim in McElligot's Pool to survey theories of knowledge as justified true belief. The farmer's empiricism and Marco's inference from a book frame a tour through Descartes's evil-genius doubt and skepticism, Locke's primary/secondary qualities (indirect realism), Berkeley's idealism ('to be is to be perceived'), and rationalist a priori knowledge, before turning to feminist epistemology (Schott, Kant's 'intuitions without concepts are blind,' Nietzsche on perspectival seeing) and Quine's naturalized epistemology to argue knowers are situated and the pool may indeed be 'bigger than you or I know.'"
+  },
+  {
+   "n": 16,
+   "file": "ch16 - On Beyond Modernity, or Conrad and a Postmodern Alphabet.md",
+   "kind": "chapter",
+   "philosophers": ["lyotard", "foucault", "kant", "nietzsche"],
+   "concepts": ["grand-narratives", "power-knowledge", "kant-phenomena-noumena"],
+   "relation": "Jacob Held explains postmodernism as Lyotard's 'incredulity toward metanarratives' using On Beyond Zebra! Conrad's twenty-six-letter alphabet is the metanarrative that fixes what can be said and known, while the narrator's invented letters (Yuzz, Snee, Floob) show language expanding to present the unpresentable. Held casts Kant's three Critiques, phenomena/noumena, and his defining of the mind's 'alphabet' as the exemplary modern grand narrative Lyotard rejects, then turns to Foucault's Nietzschean genealogy, using You're Only Old Once! for the medicalization of life and (via a Beauvoir quotation) the claim that gender is a constructed mechanism of control that can be transgressed."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - From There to Here, from Here to There, Diversity Is Everywhere.md",
+   "kind": "chapter",
+   "philosophers": ["fanon", "dewey", "buber"],
+   "concepts": ["i-thou", "objectification", "moral-relativism"],
+   "relation": "Tanya Jeffcoat builds a philosophy of diversity around 'normative hubris' and 'totalizing tendencies,' using the Sneetches, the butter-battling Yooks and Zooks, and Daisy-Head Mayzie as cases of in-group/out-group dehumanization. Encountering the Other is framed through Buber's I-It versus I-Thou (Yertle treating his subjects as a throne), Fanon on the psychic violence and alienation of the oppressed, McIntosh's invisible knapsack of privilege, and Freire's humanization. Horton and the Lorax model standing with the disenfranchised, and Jeffcoat rebuts moral relativism via universal human rights and Dewey's democracy as a personal way of life that condemns intolerance."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - What Would You Do If Your Mother Asked You A Brief Introduction to Ethics.md",
+   "kind": "chapter",
+   "philosophers": ["kant", "mill", "aristotle"],
+   "concepts": ["categorical-imperative", "utilitarianism", "aristotle-virtue-ethics"],
+   "relation": "Jacob Held and Eric Wilson introduce ethics by first dispatching cultural and normative relativism (the Butter Battle Book's Yooks and Zooks, the Once-ler's 'we're each allowed our own opinion') as a cowardly refusal to judge, then present three theories through Seuss characters. Horton is the paragon of Kantian dignity ('a person's a person, no matter how small') and the categorical imperative, tested against lying in The Cat in the Hat. Thidwick the Big-Hearted Moose dramatizes Mill's utilitarianism and its sacrifice of the individual to the greatest happiness, while Thidwick, courage, and Life's 'Great Balancing Act' illustrate Aristotle's doctrine of the mean, virtue as habituated character, and eudaimonia."
+  }
+ ],
+ "holes": []
+}

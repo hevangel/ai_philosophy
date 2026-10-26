@@ -1,0 +1,449 @@
+{
+ "book": "136 - 30 Rock and Philosophy - We Want to Go to There",
+ "unit": "u201",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - 30 Rock and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - The Blackwell Philosophy and Pop Culture Series.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Acknowledgments.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [],
+   "relation": "Editor J. Jeremy Wisnewski argues that Plato, who used the popular dialogue form to draw people into philosophy and filled his dialogues with jokes about self-importance and incompetence, would have been a television writer today. He claims 30 Rock is a modern analogue: a show that imitates a show, just as Plato's Republic is a written speech reporting a fictional dialogue, an imitation twice removed from living philosophical exchange. Invoking Aristotle's claim that philosophy begins in wonder, the introduction frames the book as answers to the questions the TGS writers' room keeps raising about race, the good life, friendship, and knowledge."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - PART ONE - WHAT WOULD OPRAH DO ETHICS AND THE GOOD LIFE AT 30 ROCK.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Olympic Tetherball A Final Lesson on Moral Frailty.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aristotle"
+   ],
+   "concepts": [
+    "deontology",
+    "aristotle-practical-wisdom",
+    "moral-psychology"
+   ],
+   "relation": "The chapter asks whether Kenneth the page is a Kantian rule absolutist who never makes exceptions, or an Aristotelian 'contextual absolutist' who sees that the right act depends on circumstances, as when he runs the Hill Witch ruse to scare Tracy into eating well. Jack's lifeboat hypothetical and rigged-elevator test bounce off Kenneth's refusal to believe in hypothetical situations, but Jack's gift of illegal cable exposes Kenneth's moral frailty when he enjoys the stolen channels. It concludes that Kenneth's gullibility, trust, and loyalty make his simple moral vision both admirable and easily corrupted, and that the real lesson is facing our failures with resolve rather than shame."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - When Life Gives You Liz’s Lemons, Can You Make Lemonade.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx",
+    "adorno",
+    "freud"
+   ],
+   "concepts": [
+    "marx-alienation",
+    "marx-ideology"
+   ],
+   "relation": "Hinzmann reads Liz Lemon's workaholism through Marx and his successors: she gives NBC-Universal-Shinehardt her best years, but her alienation is social and existential rather than the classic alienated labor of the factory, since her creative job leaves her unable to connect with people or to choose love, as with Dennis and Floyd. Drawing on Adorno and the Frankfurt School, the chapter argues Liz cannot see her job as the problem because capitalist ideologies like meritocracy and free will make self-blame feel natural, and the 'Jackie Jormp-Jomp' fight-club episode shows even a life of leisure turns miserable without purpose. Freud's dictum that happiness requires work and love frames the diagnosis: Liz's work gives her life meaning precisely by shutting out everything else that could."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Aristotle to the Rescue.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-friendship",
+    "aristotle-virtue-ethics",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "Yim applies Aristotle's three kinds of friendship from the Nicomachean Ethics to the show: Tracy with Grizz and Dot Com in 'Hardball', and Tracy with Jenna in 'Flu Shot', are friendships of utility that dissolve when the benefit ends, while Liz and Jenna's long shared history looks deep but remains mutual usefulness between ambitious colleagues. Liz and Jack, by contrast, evolve from David-versus-Goliath adversaries in the pilot into something like virtuous friendship, culminating in 'Retreat to Move Forward' when Liz humbles herself with a terrible improv routine and a shirt-ripping dance to save Jack's standing before the Six Sigma crowd. The chapter argues the show thereby dramatizes that self-sacrificial goodwill is what makes a friendship worth the risk."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - “Well, It Got Big Laughs”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "confucius",
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "confucian-ren",
+    "aristotle-practical-wisdom",
+    "confucian-li"
+   ],
+   "relation": "Barkman uses Confucius (ren, yi, li, and zheng ming, treating each person according to what he or she is) and Aristotle (eudaimonia, virtue as a habituated mean between extremes, practical wisdom) to indict 30 Rock for valorizing Jack's 'semi-virtuous path', the smug middle between best and worst announced in 'Do-Over'. He catalogues injustices the show laughs off: Liz's serial lies about her age, hobbies, and adoption; Jack's priority flu shots for the powerful in 'Flu Shot'; Tracy's insubordination about dogfighting in 'Rosemary's Baby'; and Kenneth's servility as everyone's punching bag. On liberality and piety, Jack's confession that 'capitalism is my religion' and Liz's 'I pretty well do whatever Oprah tells me' show the show settling for semi-virtue, which the chapter says even comedy must not endorse."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - PART TWO - THE GIRLIE SHOW GENDER, RACE, AND SEXUAL ORIENTATION AT 30 ROCK.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Tracy Plays the Race Card.md",
+   "kind": "chapter",
+   "philosophers": [
+    "appiah",
+    "fanon"
+   ],
+   "concepts": [
+    "black-skin-white-masks"
+   ],
+   "relation": "Wisnewski argues races are socially real but biologically spurious, deploying Appiah's critique of racialism through Tracy's crisis over Dr. Spaceman's DNA results and his dream in which Dream Jefferson tells him 'It's not about who you were. It's about who you are right now.' Fanon's account of the sexual myth of black virility explains why Tracy performs the sex-addicted wildman stereotype while Harvard grad Toofer gets branded not 'really' black. Liz's accidental racism ('Bling bling, that is ghetto fabulous' to Angie, assuming Tracy cannot read) shows racist assumptions operating beneath conscious intent, and the 'Natural Order' equality experiment with Liz and Tracy shows that equal treatment cannot mean identical treatment: equality demands equal consideration of different interests."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Being Gay for Jamie (or, How to Rethink Sexuality).md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud",
+    "butler"
+   ],
+   "concepts": [
+    "heteronormativity"
+   ],
+   "relation": "The chapter uses Devon Banks's failed Practicology conversion and Liz's blind date with Gretchen Thomas to argue sexual orientation is not chosen, then brings in Freud's view that infants are polymorphously perverse with culture training undirected desire, which explains Athenian pederasty, same-sex behavior in over 200 mammalian species, and Frank going 'gay for Jamie' in 'Cougars'. It argues homophobia rests on anchoring gender to sex under a normative heterosexuality, so Jack reads Liz's shoes, the Floyd bromance, and Devon's every remark as sexual signs. Against Liz's claim that being gay for just one person 'isn't a thing', the chapter contends our either/or homo/hetero categories arbitrarily essentialize orientation given the messy chromosomal and genital facts about biological sex."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Liz Meets the Elephant in the Room.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "sartre"
+   ],
+   "concepts": [
+    "existence-precedes-essence",
+    "feminism",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "Barkman reads 'Rosemary's Baby' as staging second-wave feminism in Rose Howard's comfort-sacrificing activism against third-wave feminism in Liz, who sells her dignity for the $10,000 Followship Award and likes comfort and the status quo. Sartre's existence precedes essence supplies third-wave feminism's non-essentialist claim that anyone can be a feminist in any manner, while an Aristotelian essentialist standard of human flourishing shows Liz's 'have it all' optimism, from the wedding dress bought in 'SeinfeldVision' to the adoption schemes of 'Do-Over', is a delusion because career and family each demand everything. Jack's confession that 'you have to choose' lands the chapter's verdict that the third-wave promise leaves women in Liz's predicament."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - PART THREE - DEALBREAKER! CORPORATIONS, PROFESSIONS, AND POLITICS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - “Medicine’s Not a Science!”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx",
+    "habermas",
+    "plato"
+   ],
+   "concepts": [
+    "commodity-fetishism",
+    "applied-ethics"
+   ],
+   "relation": "Decker explains the paradox of Dr. Leo Spaceman, incompetent ('Science is whatever we want it to be'), paternalistic, yet beloved by Tracy and Jack, through social theory: Parsons's pattern variables and professional ethics codes that Leo flouts, Marx's commodity fetishism, which makes patients desire medicalized enhancements the way direct-to-consumer pharma ads teach them to want Cialis and Viagra. Habermas's colonization of the lifeworld by systems organizations names the deeper diagnosis: managed-care bureaucracy and the market have reorganized medicine's social meanings, so 'medicine's not a science' because health itself has become a fashionable commodity. The chapter adds that 30 Rock works as satire because it shows the lifeworld pushing back against the system."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Too Big to Function.md",
+   "kind": "chapter",
+   "philosophers": [
+    "macintyre",
+    "adam-smith"
+   ],
+   "concepts": [
+    "macintyre-tradition",
+    "corporate-personhood"
+   ],
+   "relation": "Terjesen argues Jack's combined title, Vice President of East Coast Television and Microwave Oven Programming, exhibits the corporate mentality: following Robert Jackall's Moral Mazes, credit flows up (Jack's Trivection oven) and blame flows down (Greenzo, the fireworks fiasco), so managers learn to avoid decisive action. Peter French's thesis that corporations are moral persons explains why GE runs fine with Don Geiss in a coma and Kathy Geiss playing with unicorns, so no one at the top needs to understand the businesses they oversee. MacIntyre's distinction between practices with internal goods and external rewards shows profit-thinking erasing comedy's internal good, turning TGS into 'pos-mens' and product integration, and Adam Smith's attack on distant, ignorant regulators is turned against conglomerate central management itself."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Where’s Kenneth We Need to Blame Someone!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "marx-alienation",
+    "corporate-personhood"
+   ],
+   "relation": "Michaud takes seriously Jack's love of GE: if Peter French is right that corporations have actorship through their corporate internal decision structure, showing intentionality, rational decision, and behavior change as in the Challenger launch that no individual willed, then GE is a moral person. Following Marvin Brown, he draws the uncomfortable conclusion that we have enslaved corporations: they are designed by stockholders to want only profit, programmed toward corporate suicide in buyouts, with no ethics built into the CID structure. Marx's wage slavery of workers unable to express their creative will is mirrored from above, and the chapter closes by relocating blame: when corporations do evil, the culpable party is us, the free-market supporters who designed the system."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - “I Truly Don’t Like You as a Person. Can’t One Human Being Not Like Another.md",
+   "kind": "chapter",
+   "philosophers": [
+    "charles-taylor"
+   ],
+   "concepts": [
+    "communitarianism"
+   ],
+   "relation": "Michaud sets Liz's communitarianism, in which communities constitute identity and positive rights matter, against Jack's libertarianism of negative rights, self-making, and 'Capitalism is my religion', and asks how their friendship can be real if the philosophies are incompatible. The reconciliation runs through two concessions: Jack proves no one is self-made since his mother, GE, and Liz shape him, and he even takes a mail-room job rather than leave GE, while communitarianism is shown to make sense only because individuals first value their own welfare. Liz and Jack's friendship thus models a rational compromise in which community and individual interest turn out to need each other."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - PART FOUR - MIND GRAPES (TO NOURISH YOUR THINKING).md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - The Danger of Thinking “Science Is Whatever We Want It to Be”; or, the.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-cave",
+    "atman-brahman",
+    "buddhist-karma"
+   ],
+   "relation": "Barkman reads the 30 Rock cast as prisoners who prefer delusion, using Plato's allegory of the cave and the Upanishadic scheme of samsara, karma, maya, and moksha, in which Atman is realized as one with Brahman, as twin diagnoses. Drew's 'bubble' of good looks, Liz's false memory of being a harmless nerd in 'Reunion' and her belief she can have it all, Jack's pride about his terrible sketch ideas, Kenneth's unexamined dogma ('I can't handle the truth!'), Jenna's age-hiding, and Tracy's white myths about diabetes and Colorado all illustrate ignorance of reality that costs happiness. The Hindu-Platonic lesson is that knowledge of reality, not Dr. Spaceman's 'science is whatever we want it to be', is the route to happiness, because ignorance is not bliss."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Liz Lemon and High School The More Things Change, the More They Don’t.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "augustine",
+    "ryle",
+    "rousseau"
+   ],
+   "concepts": [
+    "hume-bundle",
+    "augustine-time",
+    "personal-identity"
+   ],
+   "relation": "Shores uses Jack's cookie jar collection and his fiftieth-birthday home movies in 'Apollo, Apollo', plus Liz's catastrophic high-school reunion in 'Reunion', to examine personal identity over time. Hume's bundle theory denies any self beyond a flux of perceptions, Whitehead offers three senses of a person over time, and Augustine locates past, present, and future in the mind as memory, sight, and expectation, which explains why Jack cannot recover his tenth-birthday joy by buying the Apollo Lunar Module toy yet feels 'like a kid' after laughing until he vomits. Ryle's 'elusiveness of I' and Rousseau on happiness as a fleeting state frame the conclusion that we continually reinterpret the past from the present, so the self is a stretched-out temporal continuity."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - You Can Take the Man out of Cleveland . ..md",
+   "kind": "chapter",
+   "philosophers": [
+    "searle"
+   ],
+   "concepts": [
+    "moral-relativism"
+   ],
+   "relation": "Da Silva and Found take Liz's stint as a Cleveland model in the episode 'Cleveland' as an entry into social constructivism: following Ian Hacking's account of socially constructed Xs and Marcia Eaton's socially constructed aesthetic response, taste is learned, culture-bound, and class-marked, so Jack's Manhattan standards condemn Liz's Burger King attire while Cleveland calls her a model. They then warn that aesthetic relativism ('you can't question taste') leaves no ground for condemning Tracy's solid gold boots or for resisting the powerful, since celebrities and the Black Crusaders have platforms that let them impose their standards. Searle's non-relativist account of social facts is floated as an escape route, and Liz's persistence as a New Yorker shows identity and values are constructed gradually through social belonging."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - “Nothing Unusual. Russian Mobs, Invisible Motorcycles, Sex Pooping.”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "hume",
+    "clifford"
+   ],
+   "concepts": [],
+   "relation": "Arp uses Tracy Jordan's truth bombs, from the moon as Oprah's spy satellite to vampires who golf and Godzilla's indifference to humans, to teach the Theaetetus analysis of knowledge as justified true belief together with the correspondence theory of truth. He shows why Tracy's claims fail, as with 'it's still illegal to be black in Arizona', and when they succeed, as with the Jamaican meat-pie building and his stories about his dad, cataloguing justification by perception, testimony, and deductive arguments like Tracy's 'I can't be normal' syllogism about Quincy Jones. Clifford's ethics of belief supplies the moral punchline that believing on insufficient evidence is wrong always and everywhere, so Tracy's delusions are not just funny but immoral, and Hume's proportioning of belief to evidence is the corrective."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Final Act.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "butler",
+    "nietzsche",
+    "plato"
+   ],
+   "concepts": [
+    "bad-faith",
+    "gender-performativity",
+    "sartre-freedom",
+    "authenticity"
+   ],
+   "relation": "Shaw argues everyone at 30 Rock performs a role that shields them from Sartrean radical freedom: Kenneth is Sartre's cafe waiter in bad faith, believing television is America's true art form and willing to 'die at my post' for NBC, while Jack psyches himself up with corporate slogans and Jenna's 'Black Tie' candor about marrying the last Hapsburg to be taken care of is the rare moment of good faith. Butler's gender performativity explains Jack's masculinity as a repeated script, from his Glengarry Glen Ross 'always be talking' allusion to Baldwin's brass-balls speech to his homosocial man-crushes on Don Geiss and Dick Cheney. Plato's wariness of imitation, Nietzsche on hypocrisy hardening into character, and Santayana's tragic mask frame the closing thought: the actors know they are performing, but the characters, like us, do not."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - APPENDIX 1.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - APPENDIX 2.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - CONTRIBUTORS.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - INDEX.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 15,
+   "type": "concept",
+   "suggested_slug": "racialism",
+   "name": "Racialism (Appiah)",
+   "philosopher": "appiah",
+   "domain": "feminism-gender-race",
+   "what": "The view, criticized by Appiah, that humanity divides into a small number of races whose members share fundamental, heritable physical, moral, intellectual, and cultural characteristics.",
+   "why": "Chapter 15's core argument that race is socially real but biologically spurious is built directly on Appiah's diagnosis of racialism, seen in Tracy's essentialist crisis over his DNA results."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "polymorphous-perversity",
+   "name": "Polymorphous Perversity",
+   "philosopher": "freud",
+   "domain": "mind-language-metaphysics",
+   "what": "Freud's view that infants possess undirected sexual drives in every direction, which culture and training then channel into specific adult orientations.",
+   "why": "Chapter 16's argument that sexual orientation is neither chosen nor innate but culturally trained rests on Freud's polymorphous-perversity picture of desire."
+  },
+  {
+   "ch": 19,
+   "type": "concept",
+   "suggested_slug": "colonization-of-the-lifeworld",
+   "name": "Colonization of the Lifeworld",
+   "philosopher": "habermas",
+   "domain": "political-social",
+   "what": "Habermas's thesis that bureaucratic 'systems organizations' (markets, administrations) increasingly invade and reorganize the shared cultural lifeworld, producing modernity's irrationalities.",
+   "why": "Chapter 19 uses this Habermasian thesis as its central explanation of how managed-care bureaucracy and the market have distorted the social meaning of medicine and doctors like Dr. Spaceman."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "corporate-personhood",
+   "name": "Corporate Moral Personhood (CID structure)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Peter French's thesis that corporations are moral persons because their corporate internal decision structure forms an intention-bearing, rational actor independent of any individual member.",
+   "why": "Chapter 20 leans on French's view to explain why GE functions identically with Don Geiss in a coma and why responsibility for corporate acts cannot be located in individual executives."
+  },
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "corporate-personhood",
+   "name": "Corporate Moral Personhood (CID structure)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Peter French's thesis that corporations are moral persons because their corporate internal decision structure forms an intention-bearing, rational actor independent of any individual member.",
+   "why": "Chapter 21 is built entirely on French's actorship and CID structure, from which it derives its provocative conclusion that corporations are our designed slaves."
+  },
+  {
+   "ch": 22,
+   "type": "philosopher",
+   "suggested_slug": "charles-taylor",
+   "name": "Charles Taylor",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Canadian communitarian philosopher who argues that communities and the identities they supply are constitutive of the self, not optional attachments.",
+   "why": "Chapter 22 explicitly names Taylor as the communitarian source for its claim that communities make us who we are, the premise on which its reconciliation of Liz and Jack's philosophies turns."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "social-construction",
+   "name": "The Social Construction of X (Hacking)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Ian Hacking's account of social-construction claims: X need not have existed or need not be as it is, because it is shaped by social practices rather than determined by nature.",
+   "why": "Chapter 26's whole argument that Liz is 'a model in Cleveland' and that taste is community-relative runs on Hacking's social constructivism and Eaton's construction of aesthetic response."
+  },
+  {
+   "ch": 27,
+   "type": "philosopher",
+   "suggested_slug": "wk-clifford",
+   "name": "W.K. Clifford",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Victorian philosopher famous for the ethics of belief: 'it is wrong always, everywhere, and for anyone, to believe anything upon insufficient evidence.'",
+   "why": "Chapter 27's conclusion that Tracy's unearned beliefs are not merely funny but immoral rests on Clifford's shipbuilder argument for evidential responsibility."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "justified-true-belief",
+   "name": "Knowledge as Justified True Belief",
+   "philosopher": "plato",
+   "domain": "knowledge-science-reality",
+   "what": "The classical analysis of knowledge, from Plato's Theaetetus, as belief that is true and adequately justified, with true belief by accident insufficient for knowledge.",
+   "why": "Chapter 27 is organized entirely around this tripartite analysis, testing Tracy Jordan's claims for belief, truth, and justification in turn."
+  }
+ ]
+}

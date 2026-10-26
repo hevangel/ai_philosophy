@@ -1,0 +1,214 @@
+{
+  "course": "yale-human-nature",
+  "source_note": "Official Yale Open Courses: https://oyc.yale.edu/philosophy/phil-181 (course/lecture listing) plus per-lecture pages https://oyc.yale.edu/philosophy/phil-181/lecture-1 through /lecture-26 (official titles and Overview texts); fetched 2026-10-21",
+  "lectures": [
+    {
+      "n": 1,
+      "title": "Introduction",
+      "kind": "lecture",
+      "summary": "Professor Gendler explains the interdisciplinary nature of the course: work from philosophy, psychology, behavioral economics, and literature is brought to bear on the topic of human nature. The three main topics of the course—happiness and flourishing, morality, and political philosophy—are introduced, along with examples of some of the course's future topics.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 2,
+      "title": "The Ring of Gyges: Morality and Hypocrisy",
+      "kind": "lecture",
+      "summary": "After introducing Plato's Republic, the lecture takes up Glaucon's Book II challenge to defend the claim that acting justly is valuable in itself rather than as a means to the reputation one gets from seeming just, illustrated by the Ring of Gyges thought experiment. Daniel Batson's experimental results—suggesting that in certain controlled settings people care more about seeming moral than actually acting fairly—are discussed as apparent support for Glaucon's hypothesis.",
+      "concepts": ["plato-ring-of-gyges"],
+      "philosophers": ["plato"]
+    },
+    {
+      "n": 3,
+      "title": "Parts of the Soul I",
+      "kind": "lecture",
+      "summary": "Four instances of intrapersonal division drawn from philosophy, literature, psychology, and neuroscience are reviewed: Plato's split among reason, spirit, and appetite; Hume's split between reason and passion; Freud's split among id, ego, and superego; and Jonathan Haidt's four divisions (mind/body, left brain/right brain, old brain/new brain, controlled/automatic). The lecture ends with a discussion of a vivid passage from Plato's Phaedrus.",
+      "concepts": ["plato-tripartite-soul", "hume-sentimentalism"],
+      "philosophers": ["plato", "hume"]
+    },
+    {
+      "n": 4,
+      "title": "Parts of the Soul II",
+      "kind": "lecture",
+      "summary": "The lecture begins with a demonstration of sampling bias and the problems it raises for empirical psychology, then returns to divisions of the soul through contemporary research: dual-processing accounts of cognition (with the Wason selection task and belief biases) and Kahneman and Tversky's heuristics-and-biases work alongside the Asian disease experiment. Gendler then introduces her own notion of alief, with examples distinguishing it from belief.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 5,
+      "title": "The Well-Ordered Soul: Happiness and Harmony",
+      "kind": "lecture",
+      "summary": "Plato's analogy between the city-state and the soul is introduced, along with his response to Glaucon's challenge: justice is a kind of health of the soul's parts, and hence intrinsically valuable. Psychological work on the 'progress principle' and 'hedonic treadmill' develops the theme, and Aristotle's claim that reasoning is humanity's function—and thus the highest good—is introduced.",
+      "concepts": ["plato-tripartite-soul", "plato-justice", "aristotle-eudaimonia"],
+      "philosophers": ["plato", "aristotle"]
+    },
+    {
+      "n": 6,
+      "title": "The Disordered Soul: Thémis and PTSD",
+      "kind": "lecture",
+      "summary": "Aristotle's conception of virtue as structuring one's life so that instinctive responses align with reflective commitments is introduced: becoming virtuous requires habituation—acting as if one were virtuous, much as musicians master instruments by playing them. When behavior or experience is out of line with reflective commitments, dissonance ensues, exemplified by Vietnam veterans with PTSD, whose experiences Jonathan Shay relates to those of Greek soldiers in the Iliad, where the commitment to 'what's right' (themis) is betrayed by commanding officers, with a resulting loss of social trust.",
+      "concepts": ["aristotle-virtue-ethics"],
+      "philosophers": ["aristotle"]
+    },
+    {
+      "n": 7,
+      "title": "Flourishing and Attachment",
+      "kind": "lecture",
+      "summary": "The discussion of the disordered soul continues with Stanley Milgram's famous studies, in which participants were directed to perform acts against their reflective moral commitments, and asks what proximity of commander and victim has to do with the effect. The lecture then connects attachment to flourishing, covering Harlow's wire- and cloth-mother primate experiments, infant attachment-style research, and cross-cultural studies demonstrating the importance of social relationships for flourishing and health.",
+      "concepts": ["aristotle-eudaimonia"],
+      "philosophers": []
+    },
+    {
+      "n": 8,
+      "title": "Flourishing and Detachment",
+      "kind": "lecture",
+      "summary": "The Stoic philosopher Epictetus's argument is presented: once we recognize that some things are up to us and others are not, we can see that happiness requires detaching ourselves from our desires and focusing instead on our attitudes and interpretations; three pieces of Epictetus's advice for cultivating such detachment are given with contemporary examples. A similar theme from Boethius is discussed, followed by Admiral James Stockdale's experiences as a prisoner of war as a practical example of the benefits of detachment.",
+      "concepts": ["stoicism", "dichotomy-of-control"],
+      "philosophers": ["epictetus"]
+    },
+    {
+      "n": 9,
+      "title": "Virtue and Habit I",
+      "kind": "lecture",
+      "summary": "The lecture explores Aristotle's central insight that we become virtuous by acting as if we are virtuous, beginning with how Aristotle's method can allow us to turn normative laws into descriptive ones. It then considers what practical strategies can turn reflective behavior into automatic behavior, exploring surprising parallels between Pavlovian conditioning of animals, successful parenting strategies, and techniques for acquiring virtue by habit.",
+      "concepts": ["aristotle-virtue-ethics"],
+      "philosophers": ["aristotle"]
+    },
+    {
+      "n": 10,
+      "title": "Virtue and Habit II",
+      "kind": "lecture",
+      "summary": "A close reading of Aristotle's text shows that, on his account, it is not enough to act rightly: one must knowingly act virtuously for its own sake, from a stable character, and do so with pleasure. Julia Annas's proposal that Csikszentmihalyi's concept of flow may illuminate why one takes pleasure in the virtuous act is presented, followed by John Doris's situationist critique of virtue ethics, which supplies experimental evidence casting doubt on the existence of stable character traits.",
+      "concepts": ["aristotle-virtue-ethics", "situationism"],
+      "philosophers": ["aristotle"]
+    },
+    {
+      "n": 11,
+      "title": "Weakness of the Will and Procrastination",
+      "kind": "lecture",
+      "summary": "After recapping the situationist critique of virtue ethics, the lecture presents counter-evidence that some personality traits are stable, citing Walter Mischel's work showing a strong correlation between an early capacity to delay gratification and subsequent academic and social success. Aristotle's account of weakness of will is then paired with contemporary behavioral-economics work on hyperbolic discounting, and—drawing on Aristotle, Mischel, George Ainslie, and Robert Nozick—three self-regulation strategies are offered: preventing yourself from acting on the temptation, manipulating incentive structures, and acting on principles.",
+      "concepts": ["moral-psychology"],
+      "philosophers": ["aristotle"]
+    },
+    {
+      "n": 12,
+      "title": "Utilitarianism and its Critiques",
+      "kind": "lecture",
+      "summary": "The lecture opens with a general introduction to moral theories—what they are and what questions they answer—and briefly sketches virtue theories, deontological theories, and consequentialist theories, before introducing at greater length John Stuart Mill's utilitarianism. A dilemma is posed that appears to challenge Mill's Greatest Happiness Principle—is it morally right for many to live happily at the cost of one person's suffering?—illustrated via a short story by Ursula Le Guin and paralleled with contemporary scenarios.",
+      "concepts": ["utilitarianism", "greatest-happiness"],
+      "philosophers": ["mill"]
+    },
+    {
+      "n": 13,
+      "title": "Deontology",
+      "kind": "lecture",
+      "summary": "The lecture opens with Bernard Williams's final criticism of utilitarianism: in some cases a good person should feel reluctant to do an act which brings about the greatest happiness, even if it is the right thing to do. The second half introduces Kant's deontological moral theory, on which it is not the outcome of actions but the will of the agent performing them that matters for their moral valence, presenting the outlines of the theory to be continued in the next lecture.",
+      "concepts": ["deontology", "williams-integrity"],
+      "philosophers": ["kant", "williams"]
+    },
+    {
+      "n": 14,
+      "title": "The Trolley Problem",
+      "kind": "lecture",
+      "summary": "The discussion of Kant continues with a statement and explication of his first formulation of the categorical imperative—act only in such a way that you can will your maxim to be a universal law—and shows how Kant uses it to argue for particular moral duties such as keeping promises. The second half introduces Philippa Foot's Trolley Problem, which poses the problem of reconciling two conflicting moral intuitions; a critique of Foot's solution is explored, and the lecture closes with Judith Jarvis Thomson's alternative proposal.",
+      "concepts": ["categorical-imperative", "trolley-problem"],
+      "philosophers": ["kant", "foot", "thomson"]
+    },
+    {
+      "n": 15,
+      "title": "Empirically-informed Responses",
+      "kind": "lecture",
+      "summary": "Taking up the prior lecture's puzzle of an apparent inconsistency in our moral intuitions about trolley cases, the lecture reviews several 'non-classic' responses that aim to reconcile judgments across the two cases. The three responses considered differ not only in their conclusions but also in their methodologies, showing how different techniques might be brought to bear on philosophical puzzles.",
+      "concepts": ["trolley-problem"],
+      "philosophers": []
+    },
+    {
+      "n": 16,
+      "title": "Philosophical Puzzles",
+      "kind": "lecture",
+      "summary": "After finishing the discussion of non-standard responses to the Trolley Problem, the lecture gives a general discussion of heuristics and biases in the context of risk regulation and introduces the puzzle of ducking vs. shielding (due to Christopher Boorse and Roy Sorensen) and the puzzle of moral luck. While the ducking/shielding puzzle seems solvable via heuristics, moral luck—the fact that an action can seem more or less blameworthy depending on consequences entirely outside the agent's control—resists heuristic explanation and leads to deeper problems of free will and moral responsibility.",
+      "concepts": ["trolley-problem", "moral-luck"],
+      "philosophers": []
+    },
+    {
+      "n": 17,
+      "title": "Punishment I",
+      "kind": "lecture",
+      "summary": "After examining differing responses to hypothetical and actual examples, including an actual example of a Trolley Problem, the lecture introduces its central topic: punishment. Having defined civil punishment, Gendler explores the various justifications offered for the practice, distinguishing forward-looking from backward-looking and victim-directed from offender-directed approaches, connected to the moral views presented in earlier lectures: utilitarianism and deontology.",
+      "concepts": ["punishment-theory"],
+      "philosophers": []
+    },
+    {
+      "n": 18,
+      "title": "Punishment II",
+      "kind": "lecture",
+      "summary": "The lecture considers the traditional consequentialist account of punishment, on which punishment is justified by how well it deters future crime, along with traditional criticisms of the view, and then presents Rawls's two-level theory as a way to avoid those criticisms by bringing consequentialist and deontological justifications together in a single account. Empirical research on punishment intuitions—including data on moral outrage and the 'Knobe effect'—is reviewed, and the lecture closes with a brief discussion of how moral luck interacts with intuitions about punishment.",
+      "concepts": ["punishment-theory", "moral-luck"],
+      "philosophers": ["rawls"]
+    },
+    {
+      "n": 19,
+      "title": "Contract & Commonwealth: Thomas Hobbes",
+      "kind": "lecture",
+      "summary": "The lecture concludes the discussion of punishment by exploring how Alan Kazdin's research on effective parenting provides insights about techniques for rehabilitating individuals who violate societal norms, then moves to the third large unit of the course: the question of the legitimacy and structure of the state. Hobbes's answer is presented: life without government in a 'state of nature' would be 'nasty, poor, solitary, brutish, and short' due to violent competition for resources, so rational individuals should give up some rights for the benefits of a centralized state, to the extent that others are also willing to do so.",
+      "concepts": ["state-of-nature", "social-contract"],
+      "philosophers": ["hobbes"]
+    },
+    {
+      "n": 20,
+      "title": "The Prisoner's Dilemma",
+      "kind": "lecture",
+      "summary": "Two game-theoretical problems—the Prisoner's Dilemma and the Problem of the Commons—are explored in detail. Both collective decision-making scenarios are structured such that all parties making rational choices ensures a less desired outcome for each than if each had chosen individually-less-preferred options; the lecture concludes by discussing various strategies that can be used to address both problems.",
+      "concepts": ["prisoners-dilemma", "tragedy-of-the-commons", "game-theory"],
+      "philosophers": []
+    },
+    {
+      "n": 21,
+      "title": "Equality",
+      "kind": "lecture",
+      "summary": "The discussion of the legitimacy of government continues with John Rawls's A Theory of Justice and his central claims: that 'justice is the first virtue of social institutions,' and that the just society is what rational, self-interested individuals would choose from behind a 'veil of ignorance'—not knowing what role in society they would occupy. The lecture concludes with the two substantive principles of justice Rawls derives from his framework: the equal liberty principle and the difference principle.",
+      "concepts": ["justice-as-fairness", "veil-of-ignorance", "difference-principle"],
+      "philosophers": ["rawls"]
+    },
+    {
+      "n": 22,
+      "title": "Equality II",
+      "kind": "lecture",
+      "summary": "Robert Nozick's Anarchy, State, and Utopia is presented as a counterpoint to Rawls: in contrast to Rawls's emphasis on justice, Nozick holds that the primary notion should be rights or liberties, and on that assumption argues that a minimal state is the only just state, with anything beyond it violating fundamental liberties. The lecture covers chapter seven of Nozick's book—including justice in acquisition, justice in transfer, and the Lockean Proviso—and ends with Nozick's well-known Wilt Chamberlain argument that state-sponsored economic redistribution is unjust.",
+      "concepts": ["minimal-state"],
+      "philosophers": ["nozick"]
+    },
+    {
+      "n": 23,
+      "title": "Social Structures",
+      "kind": "lecture",
+      "summary": "After recapping the topic of state legitimacy and framing the Rawls–Nozick disagreement as one about what states ought to do given the phenomena of moral luck, the lecture turns to how social and cultural structures influence both our characters and our perception of the world, starting with how this theme appears in the work of Aristotle and John Stuart Mill. It then covers recent empirical research, including a body of anthropological and psychological literature suggesting that people raised in Western, educated, industrialized, rich, and democratic (WEIRD) societies have highly atypical responses in a wide range of cases.",
+      "concepts": ["situationism"],
+      "philosophers": []
+    },
+    {
+      "n": 24,
+      "title": "Censorship",
+      "kind": "lecture",
+      "summary": "The lecture explores aspects of the question of what sorts of non-rational persuasion are legitimate for a government to engage in, beginning with two modern examples that illustrate Plato's view on state censorship. Plato's argument is outlined in detail: since we are vulnerable to non-rational persuasion, and since a powerful source of such persuasion is imitative poetry, such poetry must be censored by the state; drawing on earlier course themes, the lecture then discusses how our limited ability to rationally regulate our non-rational responses to representations makes fiction both potentially powerful and potentially dangerous.",
+      "concepts": ["mimesis"],
+      "philosophers": ["plato"]
+    },
+    {
+      "n": 25,
+      "title": "Tying up Loose Ends",
+      "kind": "lecture",
+      "summary": "After introductory remarks about the course's methodology and its approach to reading and presenting articles, the lecture discusses Cass Sunstein's work on social norms, particularly his account of the willingness-to-pay/willingness-to-accept distinction, and considers how that distinction—and the heuristic reasoning that gives rise to it—might explain our responses to the trolley problem. The final segment offers a way of thinking systematically about relations among the political philosophical views of Thomas Hobbes, John Rawls, and Robert Nozick.",
+      "concepts": ["trolley-problem"],
+      "philosophers": []
+    },
+    {
+      "n": 26,
+      "title": "Concluding Lecture",
+      "kind": "lecture",
+      "summary": "Professor Gendler charts four paths through the course: how the course's three main goals were realized (introducing philosophy through central texts and considering questions in light of alternative approaches from related disciplines); students' changing grasp of the main topics of happiness and flourishing, morality, and political legitimacy and social structures; three unifying themes—the multi-part soul, luck and control, and the relation between the individual and society; and three central quotations, from Plato, Aristotle, and Epictetus.",
+      "concepts": [],
+      "philosophers": []
+    }
+  ]
+}

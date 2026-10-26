@@ -1,0 +1,271 @@
+{
+ "book": "002 - The Simpsons and Philosophy - The D'oh! of Homer",
+ "unit": "u439",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - section-1.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - The Simpsons and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Epigraph.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - The Simpsons and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - The Simpsons and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Acknowledgements.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editors (Irwin, Conard, Skoble) introduce the volume's project: writing serious philosophical essays sparked by The Simpsons, which they call one of television's most intelligent and literate comedies, rich in satire, allusion, parody, and self-referential humor. They stress this is not 'the philosophy of The Simpsons' or the show as philosophy, but philosophical significance highlighted by the contributors, illustrating the range with Daniel Barwick on Mr. Burns and the nature of happiness, Mark Conard on whether Nietzsche can justify Bart's bad behavior, and Jason Holt on Springfield hypocrisy. They defend pop-culture philosophy by conceding the show is not Sophocles or Shakespeare, but arguing it is 'just deep enough, and certainly funny enough, to warrant serious attention' and serves as a vehicle for reaching non-specialist readers."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Part I - The Characters.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 1 - Homer and Aristotle.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-practical-wisdom",
+    "aristotle-friendship",
+    "moral-psychology"
+   ],
+   "relation": "Raja Halwani evaluates Homer against Aristotle's four character types (virtuous, continent, incontinent, vicious), arguing Homer is not virtuous and is genuinely vicious in the domain of food and drink (eating Frank Grimes's marked sandwich, the 64 slices of American cheese), while shuttling between continence and incontinence elsewhere. He catalogues Homer's lack of practical wisdom (phronesis) through gaffes like inferring the Bear Patrol works because there are no bears, and his lack of genuine friendship since he has only drinking buddies. Homer is judged neither malicious nor wholly vicious, so we pity him for his Springfield upbringing and the Simpson gene, and the chapter closes by crediting his 'in-your-face humanity'—his unregulated 'love of life'—as an admirable but dangerous ethical trait that does not make him an admirable person."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 2 - Lisa and American Anti-intellectualism.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "philosopher-king",
+    "informal-fallacies",
+    "sophist-relativism"
+   ],
+   "relation": "Aeon Skoble argues Lisa's treatment on the show captures America's love-hate relationship with expertise: she saves Homer's life by talking Dr. Nick through heart surgery and exposes political corruption, yet her intellectualism is itself made the butt of jokes. He sorts legitimate appeal to authority from the informal fallacy version and from the relativism that declares all opinions equally valid, tracing the problem to democratic equality. The Mensa episode 'They Saved Lisa's Brain'—where Lisa, Professor Frink, and the Comic Book Guy rule Springfield with censorious, Star Trek-inspired decrees—is read as satirizing not only Homer's mob but Plato's philosopher-kings themselves, whose utopian rule of the wise proves unstable and foolish."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 3 - Why Maggie Matters Sounds of Silence, East and West.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "heidegger",
+    "wittgenstein"
+   ],
+   "concepts": [
+    "authenticity",
+    "taoism",
+    "zen"
+   ],
+   "relation": "Eric Bronson uses Maggie's shooting of Mr. Burns and her pacifier-blocked silence to ask whether a being without language can think, citing Wittgenstein's 'limits of my language mean the limits of my world' and the baby-translator episode 'Brother, Can You Spare Two Dimes?'. He reads Maggie through Sartre's study of Flaubert in The Family Idiot—speech as the means of integration into society and the parental 'mandate to live'—noting that Maggie flourishes and starts speaking under the Flanderses' attention. Contrasting the Western word-worship begun with Socrates with Eastern traditions of silence (Confucius, the Tao Te Ching, Zen enlightenment), he ends darkly with Heidegger, whose praise of authentic silence over idle talk is condemned by his own silence during the Nazi era, drawing the lesson that voices like Maggie's must be heard, not drowned out."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 4 - Marge’s Moral Motivation.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "plato"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-golden-mean",
+    "aristotle-eudaimonia",
+    "plato-euthyphro"
+   ],
+   "relation": "Gerald Erion and Joseph Zeccardi present Marge as an everyday Aristotelian whose bravery (The Springfield Connection, escaping the Movementarian commune), temperance, and generosity each hit the mean between Springfield's vicious extremes, and whose eudaimonia is achieved through the good of her family. They contrast her reason-driven conscience with Ned Flanders's divine command theory—consulting Reverend Lovejoy over whether to play capture-the-flag on the sabbath—and side with Marge, invoking Plato's Euthyphro to argue that morality cannot simply be a function of God's commands. Marge emerges as a 'Christian-flavored Aristotelian' who cultivates virtue by habituation and models it for Lisa and Bart."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 5 - Thus Spake Bart On Nietzsche and the Virtues of Being Bad.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "schopenhauer"
+   ],
+   "concepts": [
+    "master-slave-morality",
+    "ressentiment",
+    "ubermensch",
+    "nihilism"
+   ],
+   "relation": "Mark Conard asks whether Bart could be a Nietzschean ideal, tracing Nietzsche's path from Schopenhauer's will/representation split in The Birth of Tragedy—where art redeems us from the horror of existence, with Lisa cast as the Socratic theoretical optimist whose reason never fixes Springfield's absurdity—to the later view that there is no 'being behind the doing', a condition cartoons embody perfectly since Bart is nothing but the sum of his misdeeds. He explains master and slave morality, with Nelson's bullying as master morality and the slaves' ressentiment inventing 'evil', before concluding Bart fails as Übermensch: he defines himself only reactively against authority, as Lisa diagnoses in the Brad Goodman episode, and collapses when the repressive milieu disappears. Bart thus exemplifies the post-Nietzschean danger of nihilism, though the show itself may perform the artistic 'discharge of the nausea of absurdity' Nietzsche praised in Greek comedy."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Part II - Simpsonian Themes.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 6 - The Simpsons and Allusion “Worst Essay Ever”.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "philosophy-of-art",
+    "allusion"
+   ],
+   "relation": "William Irwin and J.R. Lombardo define allusion as an intended reference demanding associations beyond mere substitution of a referent, distinguishing it from 'accidental associations' like reading Marge's Realty Bites career as an allusion to American Beauty (anachronistic, since the episode aired first). They develop an aesthetics of allusion—pleasure of recognition and getting the joke, the game-like invitation to play, and the cultivation of intimacy and community between writers and audience—through examples like the Ayn Rand School for Tots, Homer's Mary Tyler Moore hat-throw, and the 'Kang is My Co-pilot' double allusion. They argue The Simpsons' allusions to films, shows, and literature build a context and tradition for the show while blending so seamlessly that missing them never spoils the episode."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 7 - Popular Parody The Simpsons Meets the Crime Film.md",
+   "kind": "chapter",
+   "philosophers": [
+    "linda-hutcheon"
+   ],
+   "concepts": [
+    "popular-parody",
+    "gadamer-hermeneutics"
+   ],
+   "relation": "Deborah Knight uses 'Bart the Murderer' to distinguish intrinsic from extrinsic referencing: the episode incorporates the gangster film's generic conventions—Fat Tony's mob, the impressionable youth's rise, the contrast between crime family and ordinary family—directly into its narrative structure, with Goodfellas and The Public Enemy as targets. She argues Linda Hutcheon's art-parody theory, with its privileging of ironic inversion and critical self-interrogation, does not fit this case; the episode works as popular parody, comic homage rather than critique, its selectivity omitting the genre's violence and epic timespan. Whether Bart's return to his family after the charges are dismissed is read as irony at the expense of American family life depends on which hermeneutic circle the viewer stands in."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 8 - The Simpsons, Hyper-Irony, and the Meaning of Life.md",
+   "kind": "chapter",
+   "philosophers": [
+    "arthur-danto",
+    "rorty",
+    "kuhn",
+    "feyerabend"
+   ],
+   "concepts": [
+    "philosophy-of-humor",
+    "grand-narratives"
+   ],
+   "relation": "Carl Matheson argues The Simpsons is defined by quotationalism—rapid-fire pop-culture allusions like the Ayn Rand School, The Great Escape score, and The Birds tableau in 'A Streetcar Named Marge'—and hyper-ironism, positions put forward only to be undercut. He links both to a pervasive crisis of authority in art, science, and philosophy: Danto's 'end of art', Kuhn and Feyerabend against scientific progress, and Rorty's Derrida recasting philosophy as conversation. Reading the Frank Grimes funeral and 'Scenes from the Class Struggle in Springfield' as refusing any stable moral ground, he concludes the heart-warming family endings exist mainly to let viewers tolerate the next round of cruelty, papering over a paradox of comedy."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 9 - Simpsonian Sexual Politcs.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "feminism"
+   ],
+   "relation": "Dale and James Snow use head counts of Springfield's population, episode listings, and guest stars to show the show extends rather than satirizes television's conservative sexual politics: a roughly 4:1 male-to-female recurring cast with four to five times as many episodes centered on Homer or Bart as on Marge or Lisa. Marge, they argue, remains Virginia Woolf's 'Angel in the House'—continuous with June Cleaver and the 1950s sitcom mother rather than a gross exaggeration of motherhood like Burns's capitalism—and her way of life is openly despised even by Lisa. Lisa the feminist idealist is needed for psychic balance but kept to roughly 15 percent of episodes, and the authors close by crediting her slow moral influence on Bart and Homer while noting the dumb guys still hold center stage."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Part III - I Didn’t Do It Ethics and The Simpsons.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 10 - The Moral World of the Simpson Family A Kantian Perspective.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "kant-autonomy",
+    "deontology"
+   ],
+   "relation": "James Lawler reads the Simpson family through Kant's conflict of duty and desire: Homer rationalizes 'duty' to please Moe in 'Dumbell Indemnity' yet achieves moral heroism renouncing General Sherman for his marriage, while Bart's limit-case ('Even I know stealing from the collection basket is wrong') shows morality from the negative side. Marge's honesty as a realtor in 'Realty Bites' dramatizes Kantian duty to self and the highest good in which happiness should flow from duty, and Lisa embodies inner-determined morality—testing maxims for universalizability when she becomes a vegetarian—though she learns tolerance from Apu. Lisa's isolation and her doleful saxophone ('Moaning Lisa') express the sacrifice morality demands of a sensitive child, giving the comedy its undertone of tragedy."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - 11 - The Simpsons Atomistic Politics and the Nuclear Family.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "nietzsche"
+   ],
+   "concepts": [
+    "philosopher-king",
+    "utopia-dystopia",
+    "communitarianism"
+   ],
+   "relation": "Paul Cantor argues that beneath the satire The Simpsons affirms the nuclear family: the foster-care episode, where the children go to the Flanderses and Homer and Marge to a 'family skills class', shows they belong with their real parents not for piety or child-rearing expertise but because of attachment to one's own—against both the therapeutic nanny state and Flanders-style self-righteous religiosity. He connects this defense of the family to Springfield as a classical polis of local, accessible institutions (Skinner, Wiggum, Quimby, even locally produced Itchy & Scratchy), where distrust of remote power cuts across party lines. The Mensa utopia episode serves as a comic refutation of Plato's philosopher-kings—Homer leads the 'counterrevolution of the stupid' and Stephen Hawking pronounces that 'the smartest of us can be the most childish'—echoing Nietzsche's remark that Kant defended the common man against the learned."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "allusion",
+   "name": "Allusion (intended reference beyond substitution)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "An intended reference that calls for associations going beyond mere substitution of a referent, rewarding recognition with aesthetic pleasure, intimacy, and community between author and audience.",
+   "why": "Chapter 17 is squarely about the aesthetics of allusion and carefully distinguishes allusion from parody, quotation, and 'accidental associations', but the taxonomy only offers popular-parody, which chapter 18 reserves for parody proper.",
+   "accepted": true
+  }
+ ]
+}

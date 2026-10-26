@@ -1,0 +1,46 @@
+{
+  "article": "value_of_making_and_experiencing",
+  "updated": "2026-10-14",
+  "submissions": [
+    {
+      "venue": "philarchive",
+      "status": "published",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "event": "v3 manuscript staged (PDF 243KB); title 'The Summit Is Not the Climb: AI, Creative Value, and the Displacement Fallacy'",
+          "method": "n/a",
+          "confirmation": null
+        },
+        {
+          "date": "2026-10-14",
+          "event": "submitted via browser automation (logged in with owner's PhilPapers account from .env): type Article or Chapter, status Unpublished, author Chan Horace (PhilPeople profile 553), language English, abstract 1759 chars, PDF uploaded (manuscript.pdf 243185 bytes via CORS-server DataTransfer workaround for the iframe uploader), categories Aesthetics + Philosophy of Artificial Intelligence, 7 keywords. Site response: 'Your requested changes will be reviewed before being posted. This may take up to one business day.'",
+          "method": "browser-auto",
+          "confirmation": "venue-philarchive/shots/form-complete-before-submit.png + submitted-confirmation.png"
+        },
+        {
+          "date": "2026-10-14",
+          "event": "MODERATION APPROVED same day; record LIVE: https://philarchive.org/rec/CHATSI-21 (title + abstract + PDF download + 7 keywords; archival date 2026-10-14). Categories stored on entry as author suggestions (Quick Categories: Philosophy of Artificial Intelligence + Aesthetics) - applied when PhilPapers ingests.",
+          "method": "browser-auto",
+          "confirmation": "venue-philarchive/shots/live-record-CHATSI-21.png"
+        }
+      ],
+      "ai_disclosure_sent": true,
+      "notes": "LIVE at philarchive.org/rec/CHATSI-21. PDF served via philpapers.org/archive/CHATSI-21.pdf. Reply relation to MacKenzie MACFAL-5 established via abstract; will surface in citations once PhilPapers indexes."
+    },
+    {
+      "venue": "eujap",
+      "status": "planned",
+      "history": [
+        {
+          "date": "2026-10-14",
+          "event": "v3 blinded DOCX staged for EUJAP Article category (7,080 body / 7,239 with refs)",
+          "method": "n/a",
+          "confirmation": null
+        }
+      ],
+      "ai_disclosure_sent": false,
+      "notes": "OJS portal ojs.srce.hr/eujap — account registration required (owner email). AI policy 'allowed' re-verified 2026-10-13; in-manuscript acknowledgement satisfies their norms."
+    }
+  ]
+}

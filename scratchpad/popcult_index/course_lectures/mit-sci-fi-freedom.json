@@ -1,0 +1,190 @@
+{
+  "course": "mit-sci-fi-freedom",
+  "source_note": "MIT OpenCourseWare Readings page (https://ocw.mit.edu/courses/21l-434-the-science-fiction-of-freedom-fall-2024/pages/readings/) for the official 23-session listing, with the Syllabus page (https://ocw.mit.edu/courses/21l-434-the-science-fiction-of-freedom-fall-2024/pages/syllabus/) for the course description, exam, and assignment details; fetched 2026-10-21.",
+  "lectures": [
+    {
+      "n": 1,
+      "title": "Syllabus and Introductions",
+      "kind": "lecture",
+      "summary": "Opening session devoted to the syllabus and introductions, with no assigned readings. The course pairs philosophy and science fiction to consider speculative techniques for imagining freedom, asking what it means to be free.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 2,
+      "title": "Gattaca (film)",
+      "kind": "lecture",
+      "summary": "Session on Andrew Niccol's 1997 film Gattaca. An optional reading from Alfred Mele's 'My Compatibilist Proposal' accompanies an announced in-class discussion of Mele's zygote argument, tying the film to the debate over free will and determinism.",
+      "concepts": ["free-will-determinism", "compatibilism", "eugenics"],
+      "philosophers": []
+    },
+    {
+      "n": 3,
+      "title": "Le Guin, 'The Ones Who Walk Away from Omelas'; Rawls, A Theory of Justice",
+      "kind": "lecture",
+      "summary": "Pairs Ursula K. Le Guin's 'The Ones Who Walk Away from Omelas (Variations on a Theme by William James)' with two chapters from John Rawls's A Theory of Justice, 'The Veil of Ignorance' and 'The Rationality of the Parties.'",
+      "concepts": ["utopia-dystopia", "veil-of-ignorance", "justice-as-fairness"],
+      "philosophers": ["rawls"]
+    },
+    {
+      "n": 4,
+      "title": "Judith Jarvis Thomson, 'A Defense of Abortion'",
+      "kind": "lecture",
+      "summary": "Discussion of Judith Jarvis Thomson's 1971 article 'A Defense of Abortion' from Philosophy & Public Affairs, the session's sole assigned reading.",
+      "concepts": ["thomson-violinist"],
+      "philosophers": ["thomson"]
+    },
+    {
+      "n": 5,
+      "title": "Louise Erdrich, Future Home of the Living God, part I (pp. 3-119)",
+      "kind": "lecture",
+      "summary": "First of three sessions on Louise Erdrich's novel Future Home of the Living God, one of the course's three required books; this meeting covers part I (pp. 3-119).",
+      "concepts": ["utopia-dystopia"],
+      "philosophers": []
+    },
+    {
+      "n": 6,
+      "title": "Louise Erdrich, Future Home of the Living God, part II (pp. 123-209)",
+      "kind": "lecture",
+      "summary": "Second session on Future Home of the Living God, covering part II (pp. 123-209).",
+      "concepts": ["utopia-dystopia"],
+      "philosophers": []
+    },
+    {
+      "n": 7,
+      "title": "Louise Erdrich, Future Home of the Living God, part III (pp. 213-267)",
+      "kind": "lecture",
+      "summary": "Concluding session on Future Home of the Living God, covering part III (pp. 213-267).",
+      "concepts": ["utopia-dystopia"],
+      "philosophers": []
+    },
+    {
+      "n": 8,
+      "title": "Octavia Butler, 'Bloodchild'; Isaiah Berlin, 'Two Concepts of Liberty'",
+      "kind": "lecture",
+      "summary": "Pairs Octavia Butler's story 'Bloodchild' (the opening of Bloodchild and Other Stories, pp. 1-32) with sections I-III of Isaiah Berlin's essay 'Two Concepts of Liberty.'",
+      "concepts": ["berlin-two-liberties"],
+      "philosophers": ["isaiah-berlin"]
+    },
+    {
+      "n": 9,
+      "title": "Harlan Ellison, 'I Have No Mouth, and I Must Scream'; Sartre, Existentialism Is a Humanism",
+      "kind": "lecture",
+      "summary": "Pairs Harlan Ellison's story 'I Have No Mouth, and I Must Scream' with an excerpt from Jean-Paul Sartre's Existentialism Is a Humanism.",
+      "concepts": ["existentialism", "sartre-freedom"],
+      "philosophers": ["sartre"]
+    },
+    {
+      "n": 10,
+      "title": "Content Exam 1",
+      "kind": "other",
+      "summary": "First of the course's two in-class content exams, which the syllabus says evaluate the formal concepts identified in readings, handouts, and slides. Worth 15% of the final grade.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 11,
+      "title": "Charles Yu, How to Live Safely in a Science Fictional Universe, Module Alpha (pp. 3-91); Hume, A Treatise of Human Nature",
+      "kind": "lecture",
+      "summary": "Opens Charles Yu's novel How to Live Safely in a Science Fictional Universe (Module Alpha, pp. 3-91), a required text, paired with Part III, Sections 1 and 2 of David Hume's A Treatise of Human Nature.",
+      "concepts": ["metafiction"],
+      "philosophers": ["hume"]
+    },
+    {
+      "n": 12,
+      "title": "Charles Yu, How to Live Safely in a Science Fictional Universe, Modules Beta & Gamma (pp. 95-187)",
+      "kind": "lecture",
+      "summary": "Second session on How to Live Safely in a Science Fictional Universe, covering Modules Beta and Gamma (pp. 95-187).",
+      "concepts": ["metafiction"],
+      "philosophers": []
+    },
+    {
+      "n": 13,
+      "title": "Charles Yu, How to Live Safely in a Science Fictional Universe, Module Delta-Appendix A (pp. 191-233)",
+      "kind": "lecture",
+      "summary": "Concluding session on How to Live Safely in a Science Fictional Universe, covering Module Delta through Appendix A (pp. 191-233).",
+      "concepts": ["metafiction"],
+      "philosophers": []
+    },
+    {
+      "n": 14,
+      "title": "Philip K. Dick, Do Androids Dream of Electric Sheep?, Chs. 1-5; Nozick, Anarchy, State, and Utopia",
+      "kind": "lecture",
+      "summary": "Opens Philip K. Dick's novel Do Androids Dream of Electric Sheep? (Chs. 1-5, pp. 3-57), a required text, paired with selections from Robert Nozick's Anarchy, State, and Utopia.",
+      "concepts": ["personhood"],
+      "philosophers": ["nozick"]
+    },
+    {
+      "n": 15,
+      "title": "Philip K. Dick, Do Androids Dream of Electric Sheep?, Chs. 6-11 (pp. 58-119)",
+      "kind": "lecture",
+      "summary": "Second session on Do Androids Dream of Electric Sheep?, covering chapters 6-11 (pp. 58-119).",
+      "concepts": ["personhood"],
+      "philosophers": []
+    },
+    {
+      "n": 16,
+      "title": "Philip K. Dick, Do Androids Dream of Electric Sheep?, Chs. 12-22 (pp. 120-224)",
+      "kind": "lecture",
+      "summary": "Concluding session on Do Androids Dream of Electric Sheep?, covering chapters 12-22 (pp. 120-224).",
+      "concepts": ["personhood"],
+      "philosophers": []
+    },
+    {
+      "n": 17,
+      "title": "Franz Kafka, 'The Metamorphosis'",
+      "kind": "lecture",
+      "summary": "Discussion of Franz Kafka's novella 'The Metamorphosis' (course-pack reading), following the unit on Dick's android novel.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 18,
+      "title": "Ursula K. Le Guin, 'Nine Lives'",
+      "kind": "lecture",
+      "summary": "Pairs Ursula K. Le Guin's story 'Nine Lives' with an announced in-class discussion of Derek Parfit on identity; Parfit's 'Why Our Identity Is not What Matters' from Reasons and Persons is the optional reading.",
+      "concepts": ["personal-identity"],
+      "philosophers": ["parfit"]
+    },
+    {
+      "n": 19,
+      "title": "Content Exam 2",
+      "kind": "other",
+      "summary": "Second of the course's two in-class content exams. Worth 15% of the final grade per the syllabus.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 20,
+      "title": "Henry David Thoreau, 'Where I Lived, and What I Lived For' (Walden)",
+      "kind": "lecture",
+      "summary": "Discussion of 'Where I Lived, and What I Lived For,' the chapter assigned from Henry David Thoreau's Walden.",
+      "concepts": ["thoreau-walden"],
+      "philosophers": ["thoreau"]
+    },
+    {
+      "n": 21,
+      "title": "Workshop on Presentations",
+      "kind": "other",
+      "summary": "In-class workshop preparing the course's final assignment, the speculative thought experiment presentation, worth 15% of the grade per the syllabus. No assigned readings.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 22,
+      "title": "Presentations on Speculative Thought Experiments",
+      "kind": "other",
+      "summary": "First session of student presentations on speculative thought experiments, the course's final assignment. No assigned readings.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 23,
+      "title": "Presentations on Speculative Thought Experiments",
+      "kind": "other",
+      "summary": "Student presentations on speculative thought experiments continue. No assigned readings.",
+      "concepts": [],
+      "philosophers": []
+    }
+  ]
+}

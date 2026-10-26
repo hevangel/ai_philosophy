@@ -1,0 +1,318 @@
+{
+ "book": "062 - Inception and Philosophy - Ideas to Die For",
+ "unit": "u100",
+ "chapters": [
+  {
+   "n": 20,
+   "file": "ch20 - The End.md",
+   "kind": "chapter",
+   "philosophers": [
+    "zhuangzi",
+    "laozi"
+   ],
+   "concepts": [
+    "zhuangzi-perspectivism",
+    "taoism",
+    "the-tao"
+   ],
+   "relation": "Chan contrasts Zhuangzi's butterfly dream, where dream and reality form one transformable whole and the self is forgotten, with Inception's dreams, which are rigidly structured and must be kept strictly separate from reality for Cobb to function. She shows that the film's motifs (the dream machine, the spinning top, the faceless children) work as narrative codes marking each dream layer, making Inception an example of 'dream explaining' rather than Tarkovsky-style 'dream worshipping'. The chapter concludes that Inception's 'dreams' are really a meta-space narrative device, as in Nolan's short Doodlebug, and that the film lacks the Daoist sense of the whole, so Cobb can never transform into the butterfly."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Level 4 - The Most Resilient Parasite.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Kick—Back to ‘Reality’.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "plato",
+    "hume",
+    "peirce"
+   ],
+   "concepts": [
+    "cartesian-doubt",
+    "plato-cave",
+    "descartes-cogito",
+    "phenomenology"
+   ],
+   "relation": "The authors read the film in descending layers: reality as an ideology of touch and unreliable sensory experience, framed by Descartes's wax thought experiment and dream argument, with the kick explained through Hume's account of belief as custom and the totems as broken game pieces marking broken people (Mal's choice of the dream echoing prisoners returning to Plato's cave). The heist is then read as an existentialist drama where Cobb's 'downwards is the only way forwards' rejects the passive waiting of Beckett's Waiting for Godot and the pharmacy dreamers, with Jaspers's analysis of solitude making Limbo a hell of lonely regret that only an encounter with another can end. The chapter then argues the film is reflexively about movies (the crew mirrors a film crew, the Penrose stairs expose cinema's flat illusions, crosscutting manufactures time) before ending on Descartes's unresolved doubt about whether the final reality deserves our trust."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - An Old Man, Filled with Regret . ..md",
+   "kind": "chapter",
+   "philosophers": [
+    "bostrom",
+    "baudrillard"
+   ],
+   "concepts": [
+    "simulacra",
+    "simulation-hypothesis",
+    "skepticism"
+   ],
+   "relation": "Brophy argues Cobb's shared dreams are best modeled on MMORPG virtual worlds like Second Life and World of Warcraft: Ariadne is a world-building architect in the mold of Second Life's Escher Relativity House, dreamers are avatars, and the film's looping architectures mirror the toroidal grids of game worlds. Reading the film as an addict's 'long con', he claims the real inception was planting in Cobb's own head the idea that his game-world is real: Mal is a 'gamer's widow' whose in-game suicide deleted her character, and Cobb is the avatar of an unseen addicted player who has forgotten the game. Borges's map that covers the empire, Baudrillard's claim that the simulacrum becomes the preferred reality, Bostrom's simulation argument, and Homer's lotus-eaters all support the warning that we already prefer simulated worlds, so the last shot means the real Cobb will one day wake as an old man filled with regret."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Architecture and the Dream Machine.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard",
+    "democritus",
+    "benjamin"
+   ],
+   "concepts": [
+    "simulacra",
+    "atomism",
+    "benjamin-aura",
+    "memetics"
+   ],
+   "relation": "Botz-Bornstein argues Inception presents dreams neither as separate worlds nor as Freudian symbols but as hackable programs, making the film itself a 'thinking machine' in Jean Epstein's sense: it synchronizes kicks, safe codes and the Piaf countdown like a computer coordinating contradictory layers of time. He links inception to Dawkins's meme theory, with the planted idea growing 'like a cancer' in Mal, and to the projections of Solaris, showing how the film unusually combines cognitive and psychoanalytic models in one vertical dream structure. Democritus's atomism frames Epstein's 'grains of reality' and the film's atomized media-images of the real world, while Benjamin and Baudrillard let him read Cobb's Limbo dystopia, Mombasa and Dubai's empty skyscrapers as an allegory of a globalized world of hackable neoliberal dream machines."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Eternal Iteration.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [],
+   "relation": "Garcia uses Aristotle's definition of time as 'a number of change in respect of the before and after' to explain how the dreaming mind, which creates and perceives movements itself, can fold an hour of dream life into five measured minutes, as with Cobb and Ariadne's first lesson. He distinguishes two senses of eternity (endless temporal succession versus timeless changelessness) and argues that the remembered objects Cobb and Mal rebuild in Limbo, and Cobb's looping projections of Mal and the children, are timeless 'eternal nows' detached from genuine before-and-after. Borges's 'The Secret Miracle', in which a condemned writer completes his play within a single suspended instant, supplies the contrast between physical and mental time, and the top that never topples leaves Cobb's ending suspended in circular, atemporal time."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Level 5 - Downwards Is the Only Way Forwards.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Epilog.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Floury reads the entire film as the single dream of the neurotic Cobb asleep in his seat on the plane home, its characters drawn from fellow passengers and airport strangers, staging his conflict between the desire to go on living as if Mal were alive and the counter-desire to complete his mourning. Following Lacan's definition of the neurotic subject who does not want what he desires, the dream levels chart Cobb's gradual acceptance of the counter-desire, culminating in his shooting of the Mal projection and the choice of life over melancholic self-enclosure. On this reading the spinning top is not a reality test but Mal's expelled object put back in its place, Miles embodies the life instinct pushing Cobb toward reality, the Piaf song marks the mourning's progress, and the film loops like Finnegans Wake."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Guilt Can be a Real Bitch.md",
+   "kind": "chapter",
+   "philosophers": [
+    "husserl"
+   ],
+   "concepts": [
+    "intentionality",
+    "phenomenology"
+   ],
+   "relation": "Howard treats Inception as a lesson in Husserlian phenomenology: perceiving, remembering and dreaming are distinct intentional states, each with its own mode of givenness, standards of evidence and horizon of expectations, and the film's dream architecture dramatizes what happens when those modes are artificially crossed. Cobb's prohibition on building dreams from memories shows the disorientation caused by severing a memory's intrinsic temporal signature from the dream image, while the totems work because dreamed physics violates the continuity and intersubjective verifiability of the shared life-world. The chapter ends with guilt as the Ariadne's thread of the plot: dreams and memories hold only 'shades' of other people, so Cobb's guilt over Mal is what drags him back to the waking life-world where real others exist in their own right."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Risks of Faith.md",
+   "kind": "chapter",
+   "philosophers": [
+    "tillich"
+   ],
+   "concepts": [
+    "phenomenology",
+    "faith-vs-reason"
+   ],
+   "relation": "Ringer argues inception is philosophically impossible because dream consciousness lacks genuine apperception, the filling-in of an external world that structures waking experience, so Cobb's team must instead manufacture 'because of' motives, like the planted 528-491 safe combination, that let Fischer mistake his own dream for waking life. Working with the phenomenology of everyday consciousness, perception versus apperception and the coffee-cup example, he reads the totem as a sacred, untouchable object through which private revelation of reality is mediated. Tillich's distinction between faith as ultimate concern and mere evidential belief then diagnoses Mal: by locking the totem in the safe and choosing the dream world as her reality she commits idolatry, a misplaced faith whose price is her suicide."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Dreams and Nightmares.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger"
+   ],
+   "concepts": [],
+   "relation": "Husson reads the film through Heidegger's account of building and dwelling: Ariadne's architecture supplies durable outlines while the dreamer's unconscious keeps creating, so that to dwell in a dream just is to keep building it, and the dream, like a poem, is a creation ex nihilo from an unfathomable Emptiness. Freud and Lacan supply the cathartic mechanism, the dream as the concealed fulfillment of repressed desire arising from an unconscious marked by a blank, and Cobb's guilt over Mal turns his dream into a nightmare, 'the reign of the uninhabitable'. The chapter casts the mission as a new Odyssey in which Ariadne and her thread lead Cobb through the peril of undecidable dream and reality back to a habitable world, closing on Hölderlin's 'Man dwells poetically on Earth'."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Does the Totem Tumble.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bergson",
+    "whitehead"
+   ],
+   "concepts": [
+    "bergson-memory",
+    "bergson-duration",
+    "leap-of-faith"
+   ],
+   "relation": "Auxier brings Bergson's memory theory, the past gnawing into the present, all dreaming as remembering, and Whitehead's process philosophy to Nolan's 'pathologies of temporal experience', defending the film's supposedly selective physics: with each deeper level the same five minutes disperses across a larger dream space, diluting the carry-over of effects while time expands geometrically, because 'space is frozen time'. He then re-reads the ending through the narrative gaps the audience was lured across: the top was Mal's totem, which Cobb spin as an act of mourning after handling it and betraying her, and Cobb's real totem is his gun, which Saito uses to shoot them both out of Limbo. The top's tumbling in the finale matters only as a sign that Cobb, the coward who once needed total control over Mal, has finally learned the leap of faith of trusting another person."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Some of Our Totems.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Just Projections of Someone’s Subconscious.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Architectural Code.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Inception and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 22,
+   "type": "philosopher",
+   "suggested_slug": "karl-jaspers",
+   "name": "Karl Jaspers",
+   "philosopher": "karl-jaspers",
+   "domain": "existentialism-phenomenology",
+   "what": "Existential philosopher for whom being human means grasping our existence, with solitude revealing nothingness and the encounter with another person the way out of despair.",
+   "why": "Chapter 22 quotes Jaspers's Philosophy of Existence to frame Limbo as lonely, fragmentary nothingness and to make the encounter with another the film's way out of it."
+  },
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "memetics",
+   "name": "Memetics (Dawkins's meme)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Richard Dawkins's theory that culture replicates through memes (tunes, ideas, catch-phrases) passed from brain to brain by imitation, like genes in biology.",
+   "why": "Chapter 24 grounds inception itself in meme theory: the planted idea grows 'like a cancer' and can come to define or destroy the subject's world, as with Mal."
+  },
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "filmosophy",
+   "name": "Cinema as a Thinking Machine (filmosophy)",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "The film-theory view, from Jean Epstein's cinema as a 'robot brain' to Daniel Frampton's 'filmind', that film does not represent reality but itself thinks time and space.",
+   "why": "Chapter 24's central claim is that Inception is designed from the outset as a thinking machine that 'thinks' its dream levels, and no taxonomy slug covers film-thinking."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "aristotle-time",
+   "name": "Time as the Number of Motion",
+   "philosopher": "aristotle",
+   "domain": "ancient",
+   "what": "Aristotle's account of time as 'a number of change in respect of the before and after', an aspect of movement rather than an independent reality, with the now as its durationless boundary.",
+   "why": "Chapter 25 uses this theory, together with Aristotle's sleepers of Sardinia, to explain dream time dilation and the timeless 'eternal nows' of Limbo; no existing slug covers his philosophy of time."
+  },
+  {
+   "ch": 27,
+   "type": "philosopher",
+   "suggested_slug": "sigmund-freud",
+   "name": "Sigmund Freud",
+   "philosopher": "sigmund-freud",
+   "domain": "mind-language-metaphysics",
+   "what": "Founder of psychoanalysis who read dreams as the (often concealed) fulfillment of repressed desires, built by dream-work from the day's residues and marked by an uninterpretable 'navel'.",
+   "why": "Chapter 27 interprets the whole film as Cobb's single Freudian dream of mourning, complete with day residues from the airplane passengers and the dream's navel in the children."
+  },
+  {
+   "ch": 27,
+   "type": "philosopher",
+   "suggested_slug": "jacques-lacan",
+   "name": "Jacques Lacan",
+   "philosopher": "jacques-lacan",
+   "domain": "mind-language-metaphysics",
+   "what": "French psychoanalyst who held that the unconscious is structured like a language and that the neurotic subject does not desire what he wants nor want what he desires.",
+   "why": "Chapter 27's epigraph and framework are Lacanian: Cobb's desire/counter-desire split is the neurotic subject's structure, resolved only when it becomes a 'steady desire'."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "mourning-and-melancholia",
+   "name": "Mourning and Melancholia",
+   "philosopher": "sigmund-freud",
+   "domain": "mind-language-metaphysics",
+   "what": "Freud's distinction between the slow work of detaching from a lost loved one and melancholia, the self-enclosed inability to let the lost object go.",
+   "why": "Chapter 27 frames the entire plot as Cobb's impossible mourning of Mal, a melancholic life 'under the seal of death' that the dream finally lets him complete."
+  },
+  {
+   "ch": 28,
+   "type": "concept",
+   "suggested_slug": "lifeworld",
+   "name": "The Life-World (Lebenswelt)",
+   "philosopher": "husserl",
+   "domain": "existentialism-phenomenology",
+   "what": "Husserl's term for the pre-given, shared world of everyday waking experience that grounds all praxis and is the ultimate touchstone of meaningful experience.",
+   "why": "Chapter 28 quotes the Crisis on the life-world to argue that waking perception's shared dependability, not dreams full of mere 'shades' of people, is what Cobb's guilt finally returns him to."
+  },
+  {
+   "ch": 29,
+   "type": "philosopher",
+   "suggested_slug": "alfred-schutz",
+   "name": "Alfred Schutz",
+   "philosopher": "alfred-schutz",
+   "domain": "existentialism-phenomenology",
+   "what": "Phenomenological sociologist who analyzed the paramount reality of everyday life, its multiple provinces of meaning with distinct 'cognitive styles', and in-order-to and because-of motives.",
+   "why": "Chapter 29 builds its account of how Cobb deceives Fischer on Schutz's paramount reality and motive analysis, and Schutz appears nowhere in the taxonomy."
+  },
+  {
+   "ch": 29,
+   "type": "concept",
+   "suggested_slug": "ultimate-concern",
+   "name": "Ultimate Concern (Tillich's definition of faith)",
+   "philosopher": "tillich",
+   "domain": "religion-meaning",
+   "what": "Paul Tillich's account of faith as the state of being grasped by an ultimate concern, where treating preliminary concerns as ultimate constitutes idolatry.",
+   "why": "Chapter 29 uses ultimate concern to diagnose Mal's locking away of her totem as idolatrous misplaced faith in the dream world, a different Tillich concept from the ground of being."
+  },
+  {
+   "ch": 30,
+   "type": "concept",
+   "suggested_slug": "poetic-dwelling",
+   "name": "Building, Dwelling, Thinking (poetic dwelling)",
+   "philosopher": "heidegger",
+   "domain": "existentialism-phenomenology",
+   "what": "Heidegger's account that humans dwell poetically: building is a poetic act of creating and appropriating places, and the work of art originates from an unfathomable nothing.",
+   "why": "Chapter 30's whole argument casts the dream as a poetic dwelling built ex nihilo and Cobb's nightmare as the uninhabitable, and no existing Heidegger slug covers building and dwelling."
+  },
+  {
+   "ch": 31,
+   "type": "philosopher",
+   "suggested_slug": "whitehead",
+   "name": "Alfred North Whitehead",
+   "philosopher": "whitehead",
+   "domain": "pragmatism-american",
+   "what": "Process philosopher for whom reality is change, understood through narratives co-ordinated in imagined spaces, with 'generic contrasts' as accretions of value and space as frozen time.",
+   "why": "Chapter 31 leans on Whitehead's process philosophy, generic contrasts, narrative and geometric space, to explain how the film's dream layers co-ordinate time, and he is absent from the taxonomy."
+  }
+ ]
+}

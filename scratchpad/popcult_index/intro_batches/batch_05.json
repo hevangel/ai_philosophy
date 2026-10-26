@@ -1,0 +1,107 @@
+[
+ {
+  "key": "phil:singer",
+  "name": "Peter Singer",
+  "kind": "philosopher",
+  "dates": "b. 1946",
+  "domain": "Utilitarianism & Consequentialism"
+ },
+ {
+  "key": "phil:kierkegaard",
+  "name": "Søren Kierkegaard",
+  "kind": "philosopher",
+  "dates": "1813–1855",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "phil:husserl",
+  "name": "Edmund Husserl",
+  "kind": "philosopher",
+  "dates": "1859–1938",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "phil:heidegger",
+  "name": "Martin Heidegger",
+  "kind": "philosopher",
+  "dates": "1889–1976",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "phil:sartre",
+  "name": "Jean-Paul Sartre",
+  "kind": "philosopher",
+  "dates": "1905–1980",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "phil:beauvoir",
+  "name": "Simone de Beauvoir",
+  "kind": "philosopher",
+  "dates": "1908–1986",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "phil:camus",
+  "name": "Albert Camus",
+  "kind": "philosopher",
+  "dates": "1913–1960",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "phil:merleau-ponty",
+  "name": "Maurice Merleau-Ponty",
+  "kind": "philosopher",
+  "dates": "1908–1961",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "phil:frankl",
+  "name": "Viktor Frankl",
+  "kind": "philosopher",
+  "dates": "1905–1997",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "phil:levinas",
+  "name": "Emmanuel Levinas",
+  "kind": "philosopher",
+  "dates": "1906–1995",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "phil:turing",
+  "name": "Alan Turing",
+  "kind": "philosopher",
+  "dates": "1912–1954",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:searle",
+  "name": "John Searle",
+  "kind": "philosopher",
+  "dates": "b. 1932",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:putnam",
+  "name": "Hilary Putnam",
+  "kind": "philosopher",
+  "dates": "1926–2016",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:chalmers",
+  "name": "David Chalmers",
+  "kind": "philosopher",
+  "dates": "b. 1966",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "phil:dennett",
+  "name": "Daniel Dennett",
+  "kind": "philosopher",
+  "dates": "1942–2024",
+  "domain": "Mind, Language & Metaphysics"
+ }
+]

@@ -1,0 +1,55 @@
+{
+ "unit": "u326",
+ "book": "224 - The Philosophy of Joss Whedon",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\data\\philosophy_pop_culture\\markdown\\224 - The Philosophy of Joss Whedon",
+ "range": [
+  12,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 12,
+   "file": "ch12 - The Russell-Wartenberg Debate.md",
+   "words": 11078
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Exploring The Cabin in the Woods.md",
+   "words": 12149
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Angel, Angelus, and Personal Identity.md",
+   "words": 12458
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Conclusion.md",
+   "words": 6363
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Bibliography.md",
+   "words": 1926
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Index.md",
+   "words": 1293
+  },
+  {
+   "n": 18,
+   "file": "ch18 - About the Author.md",
+   "words": 146
+  }
+ ],
+ "content": [
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ]
+}

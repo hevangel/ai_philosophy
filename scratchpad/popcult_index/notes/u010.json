@@ -1,0 +1,258 @@
+{
+ "book": "008 - Woody Allen and Philosophy - You Mean My Whole Fallacy Is Wrong_",
+ "unit": "u010",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Woody Allen and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Popular Culture and Philosophy™.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Foreword.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Acknowledgements.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Introduction.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Act I - Morality, Interpretation, and the Meaning of Life.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Failure of Our Attempts at Meaning.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "meaning-of-life",
+    "immortality"
+   ],
+   "relation": "Conard argues that Allen's films converge on one position: life is inherently meaningless because nothing in the universe is permanent, so only something eternal (God) could ground value — and God is a self-deception ('tradition is the illusion of permanence' in Deconstructing Harry; Rabbi Ben's 'blind faith' in Crimes and Misdemeanors). He traces the impermanence argument from Mickey Sachs's mortality panic in Hannah and Her Sisters and young Alvy's dread of the expanding universe in Annie Hall, to Lloyd's 'temporary convulsion' speech in September, Sandy Bates's 'Ozymandias Melancholia' in Stardust Memories, and Louis Levy's suicide. Since real value would require permanence, Conard concludes, Allen's characters' attempts at meaning through romance (Peter's 'I have to sleep alone tonight' in September) and art (Renata's failed faith in posterity in Interiors) are merely distractions and self-deceptions we need 'like we need the air'."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Why Not to Buy the Porsche.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [
+    "plato-tripartite-soul",
+    "aristotle-virtue-ethics",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "Skoble uses Manhattan's confrontation scene — Isaac telling Yale 'you're too easy on yourself... you'd rather buy the Porsche' over the hominid skeleton — to build an account of integrity as fidelity to correct moral principles, requiring an integrated character in which reason and desire agree. He distinguishes integrity from mere consistency (the 'consistent Nazi') and from stubbornness, and models it on Plato's just person who 'harmonizes the three parts of himself'. Aristotle's account of habituation defends Isaac's slippery slope: Yale's repeated lies for expediency are forming the kind of character who would inform on friends, so integrity is an objective yardstick of a well-lived life, as Isaac's amends to Tracy at the end confirms."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - From Knowledge to Faith.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "adam-smith",
+    "hobbes"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "faith-vs-reason",
+    "immortality",
+    "problem-of-evil"
+   ],
+   "relation": "Lawler reads Crimes and Misdemeanors through Kant's problem of the Highest Good: Judah's unpunished murder of Dolores shows a world where the wicked prosper and the good (Cliff, the blind Ben) suffer, the scandal Job complains of, while Levy's suicide shows that a bare existentialist 'yes' to life fails without love. Kant's 'I had to deny knowledge to make room for faith' is applied to the film's two visions: the deterministic, dog-eat-dog world of science and Adam Smith's economic egoism (with Hobbes's war of all against all) is only appearance, not reality. Kant's gallows example shows Judah could have discovered authentic freedom by respecting Dolores's dignity rather than seeing 'the black eyes of an insect', and the postulates of freedom, God, and immortality ground Ben's not-really-blind faith — so it is Judah who is truly blind."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Hope and Despair.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "meaning-of-life"
+   ],
+   "relation": "Jarvie argues Allen is a 'pragmatic optimist': since dramatizing is not arguing, no character's philosophy (not Sol's 'choose God over truth', not Levy's) can be imputed to Allen, but the ongoing act of filmmaking itself affirms that life is worth continuing. He maps optimism and despair across four films — Mickey's gun and Duck Soup epiphany in Hannah and Her Sisters, the reconstituted couples' self-deceiving rationalizations in Husbands and Wives, Harry's writer's block, and Crimes and Misdemeanors, where Judah literally gets away with murder and Ben's moral-structure faith is shown as naive. Against Sander Lee's hopeful reading of the ending, he develops criteria for interpretation: avoid the biographical fallacy and 'eisegesis', respect authorial statements unless there is overwhelming argument against them."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Act II - Woody’s Craft.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Interpretive Communities.md",
+   "kind": "chapter",
+   "philosophers": [
+    "roland-barthes"
+   ],
+   "concepts": [],
+   "relation": "Wallace argues Allen's prose is a 'mousetrap' for intellectuals: the dense allusions of 'Sing, You Sacher Tortes', 'The Whore of Mensa', and 'The Kugelmass Episode' invite interpretation, while satires of critics ('Fabrizio's: Criticism and Response', 'The Irish Genius', the Marshall McLuhan scene in Annie Hall) spring on readers who presume to have mastered the text. Using Barthes's 'Death of the Author' (in Allen's persona-shifting essays 'it is the language which speaks, not the author'), Iser's gap-filling implied reader (Allen's non sequiturs make 'the gaps themselves the meaning'), and Fish's 'interpretive communities' (Wallace's own exclusion from Jewish humor like 'No Kaddish for Weinstein'), he concludes Allen demands a 'hermeneutics of modesty' — no single reader or community can exhaust his works."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Don’t Speak.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein"
+   ],
+   "concepts": [],
+   "relation": "Holt extracts from Allen's films a theory of aesthetic appreciation as a balance of intellectual and emotional response, neither alone sufficient. Over-intellectualizers fail — Mary's 'marvelous negative capability' patter in Manhattan, Sally dissecting Mahler's Ninth in Husbands and Wives, the McLuhan-scene professor on Fellini, Lester reciting Dickinson by rote — and so do indiscriminate feelers like Dusty, who buys art 'by the yard' in Hannah and Her Sisters. Against skeptics about aesthetic experience he argues all genuine aesthetic experiences are 'resolutive', easing the head/heart conflict Cliff laments, and he reads Allen's terse verdicts ('Great', 'Terrific') through Wittgenstein's Tractatus: 'whereof one cannot speak, thereof one must say little.'"
+  },
+  {
+   "n": 17,
+   "file": "ch17 - And There Is No Escape.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "nietzsche",
+    "hegel"
+   ],
+   "concepts": [
+    "panopticon",
+    "death-of-god",
+    "ubermensch",
+    "hegel-master-slave"
+   ],
+   "relation": "Abrams reads Allen through Foucault's panopticon: modern society is unlimited voyeurism in which the medieval God whose 'eyes are on us always' has been replaced by the omniscient gaze of Film — Cliff's exposé documentary forcing Lester to watch his own life in Crimes and Misdemeanors, Tom Baxter stepping off the screen in The Purple Rose of Cairo, and the nested eavesdropping layers of Another Woman, which he counts to infinity via Noël Carroll's 'mass art'. Against Mary Nichols's virtue-ethics reading, he argues Allen's ethics is Nietzschean self-fashioning: Judah lives 'beyond good and evil' where Raskolnikov failed, Allan Felix sheds the Bogart alter ego and 'gives style' to his character in Play It Again, Sam, while Eve in Interiors stages Hegel's master–slave dialectic, the 'master' artist dependent for her identity on those she objectifies."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - “Just What They Say It for I Never Knew”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "philosophy-of-love",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "South argues Allen's signature old recordings from the American songbook are a philosophical device grounded in Aristotle: the Rhetoric's view that emotions carry cognitive orientations that reshape judgment, and the Politics' claim that music forms character, explain why songs comment on the plots they score. He reads Hannah and Her Sisters through 'You Made Me Love You', 'Bewitched, Bothered and Bewildered', and 'I'm in Love Again' — scoring Elliot's inconstancy, Mickey's 'You don't deserve Cole Porter' judgment of Holly, and her growth into someone whose new musical taste signals ethical maturity — and Everyone Says I Love You as a darker cycle where fantasy and finitude ('It's Later Than You Think') drive the compulsion to love again. The happy ending is precisely why Allen called the film a 'cop out': its music says love fades and is out of our control, while the plot pretends otherwise."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Humor and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "schopenhauer"
+   ],
+   "concepts": [
+    "philosophy-of-love",
+    "incongruity-theory-humor"
+   ],
+   "relation": "Ascione deploys Schopenhauer's theory of laughter — the sudden, paradoxical subsumption of an object under a heterogeneous concept — as the framework for showing how Annie Hall's gags do philosophical work. The subtitled balcony conversation exposes the self-monitoring deception of new romance, the street-interview 'love fades' scene smuggles in the unpopular thesis that lasting romantic love is mythical (culminating in the dead-shark line), the grammar-school reunion raises questions about what shapes adult character, and the 'dynamite ham' dinner, the pastrami-on-white-with-mayo, and the California scenes diagnose Alvy's own New York provincialism. Because humor suspends judgment and deflects resistance, Allen can deliver social and cultural analysis that audiences would reject if stated straight."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "authorial-intention",
+   "name": "Authorial Intention and the Intentional Fallacy",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The debate over whether an artist's actual intentions may settle or constrain the correct interpretation of a work (the 'intentional fallacy').",
+   "why": "Chapter 13 grounds its 'pragmatic optimism' reading in interpretive criteria — avoid biographical fallacy and eisegesis, and don't override Allen's own statements (against Sander Lee) without overwhelming argument."
+  },
+  {
+   "ch": 15,
+   "type": "philosopher",
+   "suggested_slug": "roland-barthes",
+   "name": "Roland Barthes",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "French literary theorist whose 'The Death of the Author' holds that a text's unity lies in its destination, not its origin — 'it is language which speaks, not the author'.",
+   "why": "Chapter 15 claims Allen's persona-filled prose exemplifies Barthes's theses and uses them to block biographical readings of Allen's stories and essays."
+  },
+  {
+   "ch": 15,
+   "type": "philosopher",
+   "suggested_slug": "wolfgang-iser",
+   "name": "Wolfgang Iser",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Phenomenological literary theorist whose 'implied reader' actively fills a text's gaps and indeterminacies to compose the 'virtual text'.",
+   "why": "Chapter 15 applies Iser's gap-filling reader to Allen's non sequiturs, arguing that in Allen 'the gaps themselves are the meaning'."
+  },
+  {
+   "ch": 15,
+   "type": "philosopher",
+   "suggested_slug": "stanley-fish",
+   "name": "Stanley Fish",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Literary and legal theorist who holds that 'interpretive communities' — shared reading strategies, not isolated texts or individuals — produce a work's meaning.",
+   "why": "Chapter 15's title concept is Fish's interpretive communities, used to explain which readers can 'get' Allen's allusions, genres, and Jewish humor."
+  },
+  {
+   "ch": 15,
+   "type": "concept",
+   "suggested_slug": "reader-response-criticism",
+   "name": "Reader-Response Criticism",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Family of 1970s literary theories on which a work's meaning is produced in the act of reading, guided by the text but completed by readers.",
+   "why": "Chapter 15 uses reader-response theory to argue Allen's texts trap pretentious critics while still requiring readerly participation without runaway subjectivism."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "aesthetic-appreciation",
+   "name": "Aesthetic Appreciation",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The philosophical account of what genuinely appreciating an artwork involves — here, a balanced engagement of intellect and emotion in which neither predominates.",
+   "why": "Chapter 16 builds a theory of aesthetic appreciation out of Allen's films, treating over-intellectualized and purely emotional responses as sham substitutes for it."
+  },
+  {
+   "ch": 19,
+   "type": "concept",
+   "suggested_slug": "incongruity-theory-humor",
+   "name": "Incongruity Theory of Humor",
+   "philosopher": "schopenhauer",
+   "domain": "kant-german-idealism",
+   "what": "Schopenhauer's account of laughter as the sudden apprehension of an incongruity between a concept and the real object unexpectedly subsumed under it.",
+   "why": "Chapter 19 adopts this theory as its explanatory framework for how Annie Hall's jokes (subtitles, 'love fades', 'dynamite ham') deliver philosophical social analysis."
+  }
+ ]
+}

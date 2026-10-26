@@ -1,0 +1,70 @@
+{
+  "course": "oxford-ethics",
+  "source_note": "Oxford Podcasts series page https://podcasts.ox.ac.uk/series/romp-through-ethics-complete-beginners plus each individual episode page (parts 1-7 and 'Further reading and more...'); fetched 2026-10-21.",
+  "lectures": [
+    {
+      "n": 1,
+      "title": "Rules, truths and theories: an introduction to ethical reasoning",
+      "kind": "lecture",
+      "summary": "Introduces ethical reasoning by examining moral dilemmas, moral truth and moral knowledge, and freewill and determinism.",
+      "concepts": ["moral-dilemmas", "free-will-determinism"],
+      "philosophers": []
+    },
+    {
+      "n": 2,
+      "title": "Freedom, knowledge and society: the preconditions of ethical reasoning",
+      "kind": "lecture",
+      "summary": "Examines the preconditions of ethical reasoning and makes a comparison between the law of the land and the moral law.",
+      "concepts": ["free-will-determinism"],
+      "philosophers": []
+    },
+    {
+      "n": 3,
+      "title": "Virtue Ethics: virtue, values and character",
+      "kind": "lecture",
+      "summary": "Reflects on Aristotle's account of morality and the centrality of the virtues within it.",
+      "concepts": ["aristotle-virtue-ethics"],
+      "philosophers": ["aristotle"]
+    },
+    {
+      "n": 4,
+      "title": "Humean Ethics: Non-Cognitivism, the passions and moral motivation",
+      "kind": "lecture",
+      "summary": "Reflects on Hume's account of morality and his rejection of reason as the source of morality, covering non-cognitivism, the passions and moral motivation.",
+      "concepts": ["hume-sentimentalism"],
+      "philosophers": ["hume"]
+    },
+    {
+      "n": 5,
+      "title": "Deontology: Kant, duty and the moral law",
+      "kind": "lecture",
+      "summary": "Reflects on Kant's account of morality, including the categorical imperative.",
+      "concepts": ["deontology", "categorical-imperative"],
+      "philosophers": ["kant"]
+    },
+    {
+      "n": 6,
+      "title": "Utilitarianism: Mill and the utility calculus",
+      "kind": "lecture",
+      "summary": "Reflects on Mill's account of morality and the greatest happiness of the greatest number, together with the utility calculus.",
+      "concepts": ["utilitarianism", "greatest-happiness", "hedonic-calculus"],
+      "philosophers": ["mill"]
+    },
+    {
+      "n": 7,
+      "title": "Making Up Your Mind",
+      "kind": "lecture",
+      "summary": "The final episode takes stock and brings together all the strands considered across the series.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 8,
+      "title": "Further reading and more...",
+      "kind": "other",
+      "summary": "A closing resource item telling listeners who have finished the series where to go from here.",
+      "concepts": [],
+      "philosophers": []
+    }
+  ]
+}

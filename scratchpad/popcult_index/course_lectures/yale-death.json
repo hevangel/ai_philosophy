@@ -1,0 +1,214 @@
+{
+  "course": "yale-death",
+  "source_note": "Open Yale Courses PHIL 176 Death (Shelly Kagan, Spring 2007): course page https://oyc.yale.edu/death/phil-176 for titles/order, plus individual lecture pages https://oyc.yale.edu/philosophy/phil-176/lecture-1 through lecture-26 for official overviews and reading assignments; fetched 2026-10-21",
+  "lectures": [
+    {
+      "n": 1,
+      "title": "Course Introduction",
+      "kind": "lecture",
+      "summary": "Professor Kagan introduces the course and clarifies which questions about death it will address and which it will steer away from. The first half of the semester takes up metaphysical questions about the nature of death; the second half focuses on value theory.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 2,
+      "title": "The Nature of Persons: Dualism vs. Physicalism",
+      "kind": "lecture",
+      "summary": "Kagan compares the two leading answers to what a person is: the dualist position, on which a person is a body plus a soul, and the physicalist position, on which a person is just a body — one with a wide range of abilities and capacities for activity.",
+      "concepts": ["cartesian-dualism", "physicalism"],
+      "philosophers": []
+    },
+    {
+      "n": 3,
+      "title": "Arguments for the Existence of the Soul, Part I",
+      "kind": "lecture",
+      "summary": "The first attempt to establish that the soul exists begins with the method of inference to the best explanation: we posit the existence of things we cannot see in order to explain something else that is generally agreed to take place.",
+      "concepts": ["abduction", "cartesian-dualism"],
+      "philosophers": []
+    },
+    {
+      "n": 4,
+      "title": "Introduction to Plato's Phaedo; Arguments for the Existence of the Soul, Part II",
+      "kind": "lecture",
+      "summary": "After a short introduction to Plato's Phaedo, Kagan presents further dualist arguments for an immaterial soul, focusing on the claim that believing in a soul is needed to explain free will — something no purely physical thing could possess.",
+      "concepts": ["cartesian-dualism", "free-will-determinism"],
+      "philosophers": ["plato"]
+    },
+    {
+      "n": 5,
+      "title": "Arguments for the Existence of the Soul, Part III: Free Will and Near-Death Experiences",
+      "kind": "lecture",
+      "summary": "Kagan examines the free-will argument for an immaterial soul — we have free will, nothing subject to determinism has free will, and all purely physical systems are subject to determinism — and explains why he does not find it persuasive. The lecture also covers near-death experiences and the Cartesian argument in depth.",
+      "concepts": ["cartesian-dualism", "free-will-determinism"],
+      "philosophers": ["descartes"]
+    },
+    {
+      "n": 6,
+      "title": "Arguments for the Existence of the Soul, Part IV; Plato, Part I",
+      "kind": "lecture",
+      "summary": "After finishing the discussion of the Cartesian argument and its weaknesses, Kagan turns to Plato's metaphysics in the Phaedo: beyond the ordinary empirical world there is a second realm of Platonic forms such as beauty, justice, and goodness. Because it is the soul that conceives of the forms, Plato concludes that the soul outlives the body and lasts forever.",
+      "concepts": ["cartesian-dualism", "plato-forms"],
+      "philosophers": ["descartes", "plato"]
+    },
+    {
+      "n": 7,
+      "title": "Plato, Part II: Arguments for the Immortality of the Soul",
+      "kind": "lecture",
+      "summary": "Kagan presents further Phaedo arguments for the soul's existence and immortality: the argument from the nature of the forms (whatever grasps non-physical forms must itself be non-physical), the argument from recycling, and the argument from recollection.",
+      "concepts": ["plato-forms", "immortality"],
+      "philosophers": ["plato"]
+    },
+    {
+      "n": 8,
+      "title": "Plato, Part III: Arguments for the Immortality of the Soul (cont.)",
+      "kind": "lecture",
+      "summary": "The lecture centers on a single Phaedo argument, the argument from simplicity: destruction requires taking something apart, so since the soul is simple or partless, Plato concludes it cannot be destroyed.",
+      "concepts": ["immortality"],
+      "philosophers": ["plato"]
+    },
+    {
+      "n": 9,
+      "title": "Plato, Part IV: Arguments for the Immortality of the Soul (cont.)",
+      "kind": "lecture",
+      "summary": "Kagan elaborates the argument from simplicity — the soul as simple, changeless, and therefore indestructible — and presents the final Platonic argument, from essential properties. The lecture ends by asking whether the physicalist needs to argue for physicalism at all.",
+      "concepts": ["immortality", "physicalism"],
+      "philosophers": ["plato"]
+    },
+    {
+      "n": 10,
+      "title": "Personal Identity, Part I: Identity Across Space and Time and the Soul Theory",
+      "kind": "lecture",
+      "summary": "Kagan asks what serves as the metaphysical basis of personal identity — what makes a present person identical with some future person — and considers the first candidate, the soul theory, on which sameness of person is sameness of soul, along with problems for that view whether or not souls actually exist.",
+      "concepts": ["personal-identity"],
+      "philosophers": []
+    },
+    {
+      "n": 11,
+      "title": "Personal Identity, Part II: The Body Theory and the Personality Theory",
+      "kind": "lecture",
+      "summary": "Two further views on the metaphysical key to personal identity: the body view, which identifies an individual in terms of his or her continuing physical body, and the personality view, which identifies a person with his or her unique set of beliefs, desires, memories, and goals.",
+      "concepts": ["personal-identity"],
+      "philosophers": []
+    },
+    {
+      "n": 12,
+      "title": "Personal Identity, Part III: Objections to the Personality Theory",
+      "kind": "lecture",
+      "summary": "Kagan presses objections to the personality theory, centered on duplication: thought experiments in which a single personality is transferred to more than one body, including Bernard Williams-style cases of mind-swapping, amnesia, and a Napoleon example. Intuitions pull both toward the body and personality views, and adding a no-branching condition seems to make identity depend on extrinsic facts in an unappealing way.",
+      "concepts": ["personal-identity"],
+      "philosophers": ["williams"]
+    },
+    {
+      "n": 13,
+      "title": "Personal Identity, Part IV: What Matters?",
+      "kind": "lecture",
+      "summary": "The personality theory is revised so that identity requires the same personality provided there is no branching, and similar no-branching conditions are attached to the rival theories. Kagan then proposes reframing the question of survival away from what it takes to survive and toward what matters in survival.",
+      "concepts": ["personal-identity"],
+      "philosophers": []
+    },
+    {
+      "n": 14,
+      "title": "What Matters (cont.); The Nature of Death, Part I",
+      "kind": "lecture",
+      "summary": "Kagan develops the proposal that what matters in survival is that a person with a personality similar to one's own exists in the future. The lecture then shifts to the question of what it is to die, beginning with the bodily and mental functions crucial to defining the moment of death.",
+      "concepts": ["personal-identity"],
+      "philosophers": []
+    },
+    {
+      "n": 15,
+      "title": "The Nature of Death (cont.); Believing You Will Die",
+      "kind": "lecture",
+      "summary": "Kagan examines what it means to be dead, arguing that the apparent equation of death with a person's permanently stopping P-functioning needs a more careful account to handle cases like sleep and coma. He then suggests that on some level nobody believes that he or she is going to die, using Tolstoy's Ivan Ilych as an example.",
+      "concepts": [],
+      "philosophers": ["tolstoy"]
+    },
+    {
+      "n": 16,
+      "title": "Dying Alone; The Badness of Death, Part I",
+      "kind": "lecture",
+      "summary": "Kagan reads Tolstoy's Ivan Ilyich as a typical attitude toward mortality — knowing death is coming without ever truly believing it — until illness makes it shockingly real. He then examines the saying that everyone dies alone, offering several rebuttals, and closes by asking whether death's worst harm might fall on those the dead person leaves behind.",
+      "concepts": [],
+      "philosophers": ["tolstoy"]
+    },
+    {
+      "n": 17,
+      "title": "The Badness of Death, Part II: The Deprivation Account",
+      "kind": "lecture",
+      "summary": "Kagan lays out the deprivation account of death's badness: being dead is not bad in itself, but only comparatively bad, because one is deprived of the good things in life one would otherwise have enjoyed — sunsets, music, philosophical discussion. The session's assigned readings are Thomas Nagel's 'Death' and Fred Feldman's 'Some Puzzles About the Evil of Death'.",
+      "concepts": [],
+      "philosophers": ["nagel"]
+    },
+    {
+      "n": 18,
+      "title": "The Badness of Death, Part III; Immortality, Part I",
+      "kind": "lecture",
+      "summary": "Kagan asks whether it is also bad that we did not exist before birth, drawing on contemporary philosophers such as Thomas Nagel, Fred Feldman, and Derek Parfit, and then explores whether living forever would be desirable and under what circumstances. The lecture ends with Bernard Williams' view that no kind of human life can continue to be enjoyable and attractive for eternity.",
+      "concepts": ["immortality"],
+      "philosophers": ["nagel", "parfit", "williams"]
+    },
+    {
+      "n": 19,
+      "title": "Immortality Part II; The Value of Life, Part I",
+      "kind": "lecture",
+      "summary": "After further exploration of whether it is desirable to live forever, Kagan asks what makes a life worth living, examining the common view of hedonism and the experience machine thought experiment, which suggests that this view may be inadequate.",
+      "concepts": ["immortality", "experience-machine"],
+      "philosophers": []
+    },
+    {
+      "n": 20,
+      "title": "The Value of Life, Part II; Other Bad Aspects of Death, Part I",
+      "kind": "lecture",
+      "summary": "Kagan weighs two views of life's value: the neutral container theory, which treats life's value as simply a function of its contents, both pleasant and painful, and the valuable container theory, which assigns value to being alive itself. The lecture then begins examining other aspects of death that may contribute to its badness — its inevitability, variability, and unpredictability.",
+      "concepts": ["intrinsic-vs-instrumental-value"],
+      "philosophers": []
+    },
+    {
+      "n": 21,
+      "title": "Other Bad Aspects of Death, Part II",
+      "kind": "lecture",
+      "summary": "Kagan considers further bad aspects of death, including ubiquity — the fact that death may occur at any time and strike anyone — and asks students to imagine death-free times, places, and activities. He then evaluates the value of the human condition of life followed by death, and whether it could ever be fitting to refuse to face facts about mortality, distinguishing facts that give one a reason to behave differently from facts that merely cause a change in behavior.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 22,
+      "title": "Fear of Death",
+      "kind": "lecture",
+      "summary": "Kagan examines how thinking about death might shape how we live, asking whether fear is a fitting emotional response to death and under what circumstances. He distinguishes fearing the process of dying from fearing death itself or what follows it, and considers whether other emotions — anger, sadness, sorrow — are appropriate responses to death and dying.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 23,
+      "title": "How to Live Given the Certainty of Death",
+      "kind": "lecture",
+      "summary": "Kagan invites students to pose the question of how one should live knowing that life will certainly end in death: how to choose and pursue goals bearing in mind the time constraints, how mortality affects the quality of our work and accomplishments, and how we decide what is worth doing in life.",
+      "concepts": ["meaning-of-life"],
+      "philosophers": []
+    },
+    {
+      "n": 24,
+      "title": "Suicide, Part I: The Rationality of Suicide",
+      "kind": "lecture",
+      "summary": "The first of three lectures on suicide distinguishes two contexts for the topic: its rationality — when ending one's life makes sense — and its morality — whether it can ever be ethically justified. This session takes up the rational side, with cases showing that ending one's life may, in certain circumstances, be rationally sound.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 25,
+      "title": "Suicide, Part II: Deciding under Uncertainty",
+      "kind": "lecture",
+      "summary": "Kagan continues the discussion of suicide with additional cases about when ending one's life might be rational, then asks how to decide between continuing or ending life when the future cannot be known with certainty. The lecture closes with two quick moral arguments concerning suicide that rest on theological premises.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 26,
+      "title": "Suicide, Part III: The Morality of Suicide and Course Conclusion",
+      "kind": "lecture",
+      "summary": "Kagan considers how a suicide affects the person and those around them, and whether consequences are the only morally relevant factor, as utilitarians claim, or whether other factors also matter, as deontologists hold — including the moral relevance of a deontological prohibition against harming the innocent. The lecture closes with a course summary.",
+      "concepts": ["utilitarianism", "deontology"],
+      "philosophers": []
+    }
+  ]
+}

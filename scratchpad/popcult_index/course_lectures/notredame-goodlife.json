@@ -1,0 +1,230 @@
+{
+  "course": "notredame-goodlife",
+  "source_note": "Official course calendar https://godandgoodlife.nd.edu/topics/ (Justin Christy section, 28 topics) with each session's own topic page (https://godandgoodlife.nd.edu/topic/...) and the course overview https://godandgoodlife.nd.edu/the-course/; fetched 2026-10-21.",
+  "lectures": [
+    {
+      "n": 1,
+      "title": "Welcome to GGL",
+      "kind": "lecture",
+      "summary": "Opening session framing the course as a philosophical journey through the biggest questions about how to live, focused on each student's own ideas and vision of the good life. Students read the syllabus and the digital essay 'The Experience Machine,' based on Robert Nozick's text.",
+      "concepts": ["experience-machine"],
+      "philosophers": ["nozick"]
+    },
+    {
+      "n": 2,
+      "title": "Learn to Live Well",
+      "kind": "lecture",
+      "summary": "Asks whether happiness can be learned and, if so, how, presenting Aristotle's answer in Nicomachean Ethics I.7 and II.1-4 on eudaimonia, the function argument, and virtue. Students also preview the semester-long 'Map to the Good Life' project, which includes a personal virtue development plan.",
+      "concepts": ["aristotle-eudaimonia", "aristotle-virtue-ethics", "aristotle-golden-mean"],
+      "philosophers": ["aristotle"]
+    },
+    {
+      "n": 3,
+      "title": "Alleviate Suffering",
+      "kind": "lecture",
+      "summary": "Opens the course's exploration of morality with utilitarianism: the claim that acting morally means doing whatever alleviates suffering and promotes pleasure, with moral consideration owed to anything capable of feeling pain or pleasure. Reading is Mill's Utilitarianism (Book II), with consequentialism, the greatest happiness principle, equal consideration, and the felicific calculus as key concepts.",
+      "concepts": ["utilitarianism", "consequentialism", "greatest-happiness", "hedonic-calculus"],
+      "philosophers": ["mill"]
+    },
+    {
+      "n": 4,
+      "title": "Do Your Duty",
+      "kind": "lecture",
+      "summary": "Covers Kant's ethics: that morality is grounded in rationality rather than personal desires, with inviolable imperatives to be followed regardless of circumstances and an unconditional duty to respect the freedom and dignity of rational beings. The interactive essay 'Act from Duty' covers the good will, duty versus inclination, and the categorical imperative.",
+      "concepts": ["categorical-imperative", "deontology", "kant-humanity-formula"],
+      "philosophers": ["kant"]
+    },
+    {
+      "n": 5,
+      "title": "Reason Like A Champion",
+      "kind": "lecture",
+      "summary": "A skills session on philosophy's defining commitment to rigorous, logical reasoning for questions observation alone cannot settle. Class time builds the critical-thinking and argument-mapping skills of the thinkARGUMENTS lessons, which recur through the semester's discussions and the Apology essay.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 6,
+      "title": "Cultivate Your Character",
+      "kind": "lecture",
+      "summary": "Introduces a moral theory focused neither on consequences nor intentions but on forming your own character, and asks why we should be good at all. Reading is Book II of Plato's Republic, with the instrumental-versus-intrinsic goods distinction and the Ring of Gyges thought experiment.",
+      "concepts": ["plato-ring-of-gyges", "intrinsic-vs-instrumental-value", "virtue-ethics"],
+      "philosophers": ["plato"]
+    },
+    {
+      "n": 7,
+      "title": "Don't Obsess About Morality",
+      "kind": "lecture",
+      "summary": "Asks whether living well requires maximizing morality: whether a moral saint could also be a good friend, whether being morally good differs from being all-around good, and whether some goals matter more than morality. Reading is Susan Wolf's 'Moral Saints,' on loving and rational saints and nonmoral virtues.",
+      "concepts": ["moral-psychology"],
+      "philosophers": ["wolf"]
+    },
+    {
+      "n": 8,
+      "title": "Argument Capstone",
+      "kind": "other",
+      "summary": "First of two capstone assessments for the thinkARGUMENTS course, testing the skills built in lessons 1-6. Students prepare by reviewing those lessons and practicing argument mapping.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 9,
+      "title": "Question Everything",
+      "kind": "lecture",
+      "summary": "Takes up Socrates' view that the unexamined life is not worth living and asks whether any of our beliefs should remain unquestioned. Reading is Plato's Apology, with Socratic ignorance and the elenchus as key concepts.",
+      "concepts": ["socratic-method", "socratic-ignorance", "unexamined-life"],
+      "philosophers": ["socrates"]
+    },
+    {
+      "n": 10,
+      "title": "Escape Your Cave",
+      "kind": "lecture",
+      "summary": "Introduces Plato's Republic and the Allegory of the Cave, exploring Socrates' style of questioning, his view of 'converting' others in philosophical debate, and ancient and modern debates over sophistry and relativism.",
+      "concepts": ["plato-cave", "sophist-relativism"],
+      "philosophers": ["plato"]
+    },
+    {
+      "n": 11,
+      "title": "Argument Workshop",
+      "kind": "other",
+      "summary": "TA-led workshop reviewing students' first Argument Capstone results; recommended especially for students who scored below 10/12.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 12,
+      "title": "Doubt Everything",
+      "kind": "lecture",
+      "summary": "Considers whether trust, traditionally a virtue, can ever be a vice, through Descartes' Enlightenment case for skeptical philosophical inquiry and rooting out bias. The class asks how far doubt should extend, from skeptical scenarios about dreaming to simple arithmetic, and what role doubt plays in the good life; the reading covers the method of doubt, skeptical scenarios, and the cogito.",
+      "concepts": ["cartesian-doubt", "descartes-cogito", "skepticism"],
+      "philosophers": ["descartes"]
+    },
+    {
+      "n": 13,
+      "title": "Trust Tradition",
+      "kind": "lecture",
+      "summary": "Considers whether some important philosophical truths are best learned by observing tradition and trusting authorities, cultivating a deferential kind of intellectual humility. Reading is Henrich's The Secret of Our Success, with causal opacity, cultural evolution, and overimitation as key concepts.",
+      "concepts": ["epistemology-of-testimony", "intellectual-virtues"],
+      "philosophers": []
+    },
+    {
+      "n": 14,
+      "title": "Believe Your Truth",
+      "kind": "lecture",
+      "summary": "Examines how disagreement relates to the good life: the relationship between rationality, disagreement, and respect, what it means to respect those who disagree with us, and concerns about forming beliefs in an echo chamber. Reading is Mill's On Liberty on seeking disagreement.",
+      "concepts": ["mill-liberty", "echo-chamber"],
+      "philosophers": ["mill"]
+    },
+    {
+      "n": 15,
+      "title": "Take A Leap Of Faith",
+      "kind": "lecture",
+      "summary": "Asks whether we should ever believe something without sufficient evidence, whether we have any control over our beliefs, and whether believing before the evidence arrives can be wise, centering William James' pragmatic case for leaps of faith in choosing forms of life. The reading covers the ethics of belief, doxastic voluntarism, Clifford's Principle, and James' three conditions for a leap of faith.",
+      "concepts": ["will-to-believe", "ethics-of-belief"],
+      "philosophers": ["william-james"]
+    },
+    {
+      "n": 16,
+      "title": "There Is A God",
+      "kind": "lecture",
+      "summary": "Considers how belief in God relates to the good life, examining arguments that every rational person should believe God exists and what role observation and rational argument should play in religious belief. Reading is 'Natural Theology in Aquinas and Anselm,' covering natural theology, the Five Ways, and the ontological argument.",
+      "concepts": ["faith-vs-reason", "aquinas-five-ways", "ontological-argument"],
+      "philosophers": ["aquinas", "anselm"]
+    },
+    {
+      "n": 17,
+      "title": "Argument Workshop",
+      "kind": "other",
+      "summary": "TA-led workshop focused on the argument component of students' Apology essays, with the essay's first section due October 31.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 18,
+      "title": "Embrace The Absurd",
+      "kind": "lecture",
+      "summary": "Examines whether faith is absurd or paradoxical and what authentic religious faith means, through Kierkegaard's meditation on Abraham's willingness to sacrifice Isaac as an apparent act of absurdity and immorality. Key concepts include fideism versus rationalism, the Problem of Abraham, and the teleological suspension of the ethical.",
+      "concepts": ["leap-of-faith", "teleological-suspension"],
+      "philosophers": ["kierkegaard"]
+    },
+    {
+      "n": 19,
+      "title": "There Is No God",
+      "kind": "lecture",
+      "summary": "Covers natural a-theology: arguments that no rational person should believe that a god exists, focused on the Problem of Evil and guided by Ivan Karamazov's 'Rebellion' speech from The Brothers Karamazov. Key concepts include natural versus moral evil, the free will defense, the soul-making defense, and skeptical theism.",
+      "concepts": ["problem-of-evil", "soul-making-theodicy"],
+      "philosophers": ["dostoevsky"]
+    },
+    {
+      "n": 20,
+      "title": "Choose Your Meaning",
+      "kind": "lecture",
+      "summary": "Contrasts Aristotle's view that humans have an inherent function as rational animals whose virtues lead to flourishing with the existentialist claim that humans have no set essence and create meaning through their actions and choices. Reading is 'Choose Your Meaning: Jean-Paul Sartre and James Baldwin,' on existence preceding essence, being condemned to be free, and authenticity versus bad faith.",
+      "concepts": ["existentialism", "meaning-of-life", "existence-precedes-essence", "authenticity", "bad-faith"],
+      "philosophers": ["sartre"]
+    },
+    {
+      "n": 21,
+      "title": "Make Friends",
+      "kind": "lecture",
+      "summary": "Explores love's role in the good life through Aristotle's writings on philia and his three categories of friendship that contribute to a good life, along with objections to his view that top-tier friendships require virtue. Reading is selections from Nicomachean Ethics VIII, with eros, philia, and agape as key concepts.",
+      "concepts": ["aristotle-friendship", "philosophy-of-love"],
+      "philosophers": ["aristotle"]
+    },
+    {
+      "n": 22,
+      "title": "Find Meaning In Tradition",
+      "kind": "lecture",
+      "summary": "Examines whether and how far tradition can be a source of life's meaning, drawing on the Confucian tradition in classical Chinese philosophy and its emphasis on familial obligations and rituals as key parts of a good life. Reading is excerpts from Stephen Angle's Growing Moral: A Confucian Guide to Life, with filial piety and li as key concepts.",
+      "concepts": ["meaning-of-life", "confucian-filiality", "confucian-li"],
+      "philosophers": []
+    },
+    {
+      "n": 23,
+      "title": "Work And The Good Life",
+      "kind": "lecture",
+      "summary": "Examines work's role in achieving eudaimonia through Karl Marx's critique of work: class struggle and alienation, and how the commodification of labor may conflict with living well, alongside Marx's view of work as potential self-fulfillment. Reading is 'Work and Identity: Karl Marx and Max Weber,' with class struggle, proletariat versus bourgeoisie, capitalism, and the Protestant work ethic as key concepts.",
+      "concepts": ["marx-alienation", "class-struggle"],
+      "philosophers": ["marx"]
+    },
+    {
+      "n": 24,
+      "title": "Reflect On Your Death",
+      "kind": "lecture",
+      "summary": "Frames death as a major challenge to living well: what it is to die, whether the state of death differs from the process of dying, and how death could be bad for us if we no longer exist. Reading is on Bernard Williams and Samuel Scheffler, covering the tedium-of-immortality argument, conditional versus categorical desires, and Lucretian symmetry.",
+      "concepts": ["immortality"],
+      "philosophers": ["williams", "lucretius"]
+    },
+    {
+      "n": 25,
+      "title": "Argument Workshop",
+      "kind": "other",
+      "summary": "TA-led workshop helping students finish the last two sections of their Apology essays, due December 6.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 26,
+      "title": "The Life Of Pleasure",
+      "kind": "lecture",
+      "summary": "Explores Epicureanism and its founder Epicurus on what role pleasure should play in life and how much is too much: like other hedonists, Epicureans see pleasure as the intrinsic good all actions aim at, while cautioning against over-indulging desires. Reading is Epicurus' Letter to Menoeceus, distinguishing Epicurean from Cyrenaic hedonism and classifying groundless, natural, and necessary desires.",
+      "concepts": ["epicurean-pleasure"],
+      "philosophers": ["epicurus"]
+    },
+    {
+      "n": 27,
+      "title": "The Life Of Action",
+      "kind": "lecture",
+      "summary": "Asks where to focus your time for a more meaningful life, whether philosophy should serve action or contemplation, and considers the view that the good life is one dedicated to justice and action on behalf of the good. Reading is Martin Luther King Jr.'s Letter from Birmingham Jail, under the theme of active nonviolence, with civil disobedience and 'nonviolent gadflies' as key concepts.",
+      "concepts": ["civil-disobedience"],
+      "philosophers": []
+    },
+    {
+      "n": 28,
+      "title": "The Life Of Contemplation",
+      "kind": "lecture",
+      "summary": "Closes the course with two philosophers advocating contemplative virtues: Marcus Aurelius, the Roman emperor associated with Stoicism, and Henry David Thoreau, the American naturalist associated with Transcendentalism. Students read their work and evaluate points of agreement and difference in their accounts of the good life.",
+      "concepts": ["stoicism", "transcendentalism"],
+      "philosophers": ["marcus-aurelius", "thoreau"]
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+ "book": "060 - SpongeBob SquarePants and Philosophy - Soaking Up Secrets Under the Sea!",
+ "unit": "u096",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - SpongeBob SquarePants and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Popular Culture and Philosophy Series Editor George A. Reisch.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - SpongeBob SquarePants and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - SpongeBob SquarePants and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Acknowledgments.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Who Teaches Philosophy Under the Sea.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Editor Joseph Foy's introduction recounts SpongeBob's rise from the 1999 Nickelodeon debut to a global staple (seven Emmys, nine million viewers for 'Atlantis SquarePantis', fans from President Obama to a Mexican 'Bob Esponja Presidente' mural), and argues the show's eight-to-eighty appeal comes from philosophical seeds beneath the whimsy: identity and the self, obligations toward others, the individual in community, principles of the marketplace, and environmental ethics. The volume's stated aim is to use the sponge to kindle interest in philosophy's big questions among fans young and old."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - PART I - I’m Ready, I’m Ready, I’m Ready.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Why Is It the Best Day Ever.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "aristotle-virtue-ethics",
+    "aristotle-eudaimonia",
+    "aristotle-friendship"
+   ],
+   "relation": "Nicole Pramik argues SpongeBob is Aristotle's self-mastered man: his daily cheerfulness is eudaimonia, a happiness earned by practicing virtue as the mean between vices of excess and deficiency. The chapter tests each mean with episodes — courage between cowardly isolation ('I Had an Accident') and recklessness ('A Life in a Day'), honor between Patrick's under-the-rock humility and Squidward's Easter-Island vanity, honesty in 'Hooky' and 'Wet Painters', and good temper mended with Patrick in 'New Student Starfish' and 'The Fry Cook Games'. His moderation in pleasure and wealth, contrasted with Mr. Krabs's stinginess, and his F.U.N. Song friendship (Aristotle's greatest external good) show the golden mean served up on a sesame seed bun."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - How Can I Compete with Geniusness.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "socrates"
+   ],
+   "concepts": [
+    "higher-lower-pleasures",
+    "utilitarianism",
+    "moral-relativism"
+   ],
+   "relation": "Timothy Dunn uses 'Patrick SmartPants', where a brain-coral transplant turns Patrick into a genius who abandons SpongeBob, to ask whether the happy ignoramus or the discontented genius lives better. After sketching a subjectivist defense of Patrick's choice to revert ('knowledge can never replace friendship'), the chapter tests Mill's hedonistic utilitarianism: since competent judges rank higher pleasures qualitatively above lower ones, Mill's dictum that it is better to be Socrates dissatisfied than a fool satisfied condemns Patrick's destruction of his own higher capacities. Dunn then presses two objections — that people's actual lower-pleasure preferences may be genuine rather than socially produced, and that the capacity for higher pleasure seems worthless without its actual experience — leaving Mill's verdict in tension."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - I Listen to Public Radio.md",
+   "kind": "chapter",
+   "philosophers": [
+    "schopenhauer"
+   ],
+   "concepts": [
+    "schopenhauer-will",
+    "schopenhauer-pessimism",
+    "plato-forms"
+   ],
+   "relation": "Natasha Liebig reads Squidward as Schopenhauer made flesh: his endless craving for musical fame and revenge on Squilliam exemplifies the blind, irrational will-to-live whose frustration just is suffering, so even success could never satisfy him and others' joys (SpongeBob and Patrick playing) become his bellum omnium. Yet Squidward's clarinet, self-portraits and dance are Schopenhauer's aesthetic escape — will-less contemplation of universal Ideas, with music the most metaphysical art — granting fleeting moments of peace until his neighbors interrupt. The chapter closes on the irony that Schopenhauer's genius is childlike, so SpongeBob and Patrick's effortless wonder may make them the truer artists."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - So, You Tried to Kill Me Over a Little New Age Management, Eh.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx",
+    "aristotle",
+    "adam-smith",
+    "ayn-rand"
+   ],
+   "concepts": [
+    "marx-alienation",
+    "commodity-fetishism",
+    "aristotle-eudaimonia",
+    "unexamined-life"
+   ],
+   "relation": "Joseph Foy weighs Mr. Krabs against Ayn Rand's celebration of money-making, Marx's charge that Krabs commodifies his employees — wagering SpongeBob to Plankton in 'Welcome to the Chum Bucket' and working him 43 days without a break in 'Fear of a Krabby Patty' — and Aristotle's and Adam Smith's insistence that wealth is merely instrumental to flourishing. The verdict: Krabs inverts means and ends, fetishizing money until he sells SpongeBob's soul for 62 cents ('Born Again Krabs') and trades his own body for his millionth dollar ('Clams'). His real failing is the unexamined life — he never asks what would actually make him happy — which makes him tragically human rather than simply villainous."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - After All, Who’s the Toughest Critter in Bikini Bottom.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "feminism"
+   ],
+   "relation": "Denise Du Vernay argues Sandy Cheeks is the show's one proof of feminist messaging: a liberal feminist who attains equality within the status quo as scientist, bodybuilder and 'smartest one in Bikini Bottom', while a materialist feminist reading would worry most about SpongeBob's exploitation as Mr. Krabs's worker and property ('Welcome to the Chum Bucket'). She reads 'Squirrel Jokes' as a lesson in how stereotypes spread ('stupidity isn't a virus, but it sure is spreading like one'), catalogs the show's tired female stereotypes (nagging Karen, bratty Pearl), and defends SpongeBob and Sandy against Focus on the Family's 2005 gay-panic attacks as the sexualizing of asexual children's characters."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - That Naive Cube! How Long Must I Suffer This.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "schopenhauer"
+   ],
+   "concepts": [
+    "will-to-power",
+    "ubermensch",
+    "master-slave-morality"
+   ],
+   "relation": "Nicholas Michaud inverts the show's morality through Nietzsche: Plankton's tenacity, ambition and self-overcoming make him a super-organism driven by the will to power (traced to Schopenhauer's will to live), while Bikini Bottom's lionizing of SpongeBob's mediocrity is slave morality that judges by intentions to keep the strong down. Quoting the lambs and birds of prey from On the Genealogy of Morals and the 'incurably mediocre' passage from Beyond Good and Evil, he argues Plankton is the unsung hero who treats SpongeBob as an equal, Krabs a mere exploiter — and SpongeBob, who makes mediocrity contagious, the true villain."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - PART II - Welcome to Bikini Bottom.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 18,
+   "file": "ch18 - An Island of Milk and Honey or Rock Bottom.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nozick",
+    "marx",
+    "aristotle",
+    "hobbes",
+    "locke",
+    "hume"
+   ],
+   "concepts": [
+    "anarchism",
+    "minimal-state",
+    "marx-ideology",
+    "utopia-dystopia"
+   ],
+   "relation": "Shaun Young asks whether governmentless Bikini Bottom refutes political philosophy's claim that the good life needs a state: it is not the anarchism of Godwin and Kropotkin (police fines, health inspectors and the Fry Cooks Union constrain liberty), not Marx's communism (Krabs keeps exploiting SpongeBob, whose 'false consciousness' surfaces only briefly in 'Clams'), not the utopias of Plato, Bacon or More (Squidward and Plankton are miserable), and not Nozick's night-watchman state (SpongeBob is arrested for failing to invite police to his party). The lesson he draws: expect neither utopia nor Rock Bottom, because no single theory captures a real (or imaginary undersea) society."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Ideal Candidate.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "mill"
+   ],
+   "concepts": [
+    "democracy-theory",
+    "philosopher-king",
+    "mill-liberty"
+   ],
+   "relation": "Nathan Zook uses the 'Royal Krabby' election from Vote for SpongeBob and the global-warming plot of SpongeBob Goes Green to weigh democracy. Mr. Krabs's rigged election, run only to sell patties, exemplifies C. Wright Mills's power elite manipulating the appearance of popular rule; Plato would bar Producer-class SpongeBob and Squidward from ruling and prefers educated Guardians, while Mill defends each citizen's liberty to choose and democracy's alliance with education (SpongeBob learns about global warming from Sandy). Aristotle's polity — citizens administering the state for the common interest — makes SpongeBob the ideal candidate because he saves Bikini Bottom without claiming power."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Yours Is Superior, therefore I Concede to You.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [
+    "aquinas-virtues",
+    "aristotle-practical-wisdom"
+   ],
+   "relation": "Adam Barkman evaluates King Neptune's kingship through Dante's De Monarchia: kingship is God-ordained, justice means treating each being according to its nature, and a true king is a servant-leader who must possess the four cardinal virtues and three theological ones. Neptune ('I'm the king. That's what I do', before executing a crown polisher and smiting at every problem) has courage but lacks prudence and temperance; Triton has prudence without courage; and levelheaded Mindy would be the best ruler, though Dante's tradition would disqualify her because she is female. The chapter concludes neither Neptune nor Triton has enough virtue or political knowledge to be a good king, and reform rather than deposition is the Dantean answer."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - No Matter How You Flip the Patty . ..md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "hobbes",
+    "hume"
+   ],
+   "concepts": [
+    "locke-labor-property",
+    "state-of-nature",
+    "social-contract",
+    "tragedy-of-the-commons"
+   ],
+   "relation": "Michael Dodge asks whether Krabs may guard the Krabby Patty formula, sorting Bikini Bottom's property into collective, communal (Jellyfish Fields) and private, and deploying the tragedy of the commons — Krabs's jellyfish-squeezing factory in 'Jellyfish Hunter' — to show why shared resources get rationally overexploited. Hobbes grounds Krabs's right in sovereign enforcement (without the law, 'Pineapple Fever''s chalk-line household collapses into animals fighting over the fridge), Locke in labor-mixing, with Krabs's identity bound to his patties since 'Help Wanted', and Hume in conventions of justice born of selfishness and scarcity. All three support Krabs's legal and moral right to his secret recipe against Plankton."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Friends—Don’t Leave Home without ’Em.md",
+   "kind": "chapter",
+   "philosophers": [
+    "thoreau",
+    "emerson"
+   ],
+   "concepts": [
+    "transcendentalism",
+    "thoreau-walden",
+    "wilderness-ethics"
+   ],
+   "relation": "Greg Ahrenhoerster places SpongeBob in literary history between Transcendentalism and naturalism: 'Nature Pants' is a failed Walden — SpongeBob gives away his possessions for Jellyfish Fields but his 'jellyfish instincts' fail as badly as self-reliance in London's 'To Build a Fire' — while 'Squidville' shows the industrial city's cold indifference as in Crane's Maggie. 'Jellyfish Hunter' warns that trying to exploit nature (Krabs's jelly factory) invites nature's reprisal, since civilized beings without instinct are at nature's mercy. The naturalist moral, against Transcendentalist solitude, is that we survive only through each other: visit Jellyfish Fields, but bring a friend."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - PART III - You’re Like a Steamed Vegetable, Only Smarter.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Do I Even Care if I’m Dreaming.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes"
+   ],
+   "concepts": [
+    "cartesian-doubt",
+    "skepticism"
+   ],
+   "relation": "Kate Elson Anderson reads 'Sleepy Time' — SpongeBob's tour of his neighbors' dream clouds, from Gary's library to Patrick's quarter-fed kiddie ride to Krabs's Moby Dollar — through Descartes's First Meditation dream argument that no sure mark distinguishes waking from dreaming. Norman Malcolm's claim that one cannot even ask 'Am I dreaming?' while asleep is contradicted by SpongeBob's lucid wandering, and Patrick's mundane dream (he would not even conjure another quarter) proves Descartes's point that dreams can be indistinguishable from reality. SpongeBob's final move — asking the question but never waiting for an answer — leaves Descartes baffled by a truth-seeker immune to skepticism."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - What You Really Wanted Was Inside You All Along.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "free-will-determinism",
+    "moral-psychology"
+   ],
+   "relation": "Robert Kincaid maps Freud's structural model of the psyche onto Conch Street: Patrick under his rock is the pleasure-principle Id, guilt-administering Squidward the Super-Ego, and mediating SpongeBob the Ego, so 'Mermaid Man and Barnacle Boy IV' becomes the Ego minimizing, rationalizing and literally shrinking its own conscience and desires to dodge guilt over the belt. Episodes missing one member ('Squidville', 'SB-129', 'Big Pink Loser') dramatize egolessness and what each part contributes, and the chapter closes by asking whether Freudian psychic causation — the mind 'outnumbering itself' in 'Squilliam Returns' — undermines moral responsibility for what SpongeBob does."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Future of Sandy Cheeks.md",
+   "kind": "chapter",
+   "philosophers": [
+    "popper",
+    "leopold"
+   ],
+   "concepts": [
+    "falsification",
+    "ockham-razor",
+    "land-ethic"
+   ],
+   "relation": "Wilson González-Espada assesses Sandy Cheeks as a portrait of the scientist: she explodes the 'Draw a Scientist' stereotype — female, socially popular, working in an open treedome that mirrors peer review — yet the show muddles the nature of science, calling inventions 'experiments' and a clipboard of math 'science'. The chapter applies Popper's falsifiability to SpongeBob's one-sided evidence that Squidward is a true friend and Newton's principle of parsimony to Sandy's ghost scare, then closes with Aldo Leopold's land ethic, reading 'Jellyfish Hunter' and 'SpongeBob's Last Stand' as environmental parables about habitat and overexploitation."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Secret Revealed . . . I Wonder.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "hobbes",
+    "cicero"
+   ],
+   "concepts": [
+    "socratic-ignorance",
+    "moral-psychology"
+   ],
+   "relation": "Robert Vuckovich reads 'The Secret Box' through Plato's Theaetetus — wonder as the birth of philosophy, with Patrick playing Socratic midwife to SpongeBob's desire to know — and Hobbes's diagnosis of curiosity as 'a lust of the mind' that obsesses and torments until satisfied. SpongeBob's masked break-in turns epistemic desire into what Cicero condemns as 'knavery that wears the mask of wisdom', nearly destroying the friendship, while the Charmides ideal of self-knowledge as temperance is exactly what he lacks. The episode ends like a Platonic dialogue in aporia: SpongeBob peeks but does not search, learns nothing, and Patrick still guards the secret."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Denizens of the Deep.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - SpongeBob SquarePants and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 14,
+   "type": "philosopher",
+   "suggested_slug": "ayn-rand",
+   "name": "Ayn Rand",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Novelist-philosopher of Objectivism who defended rational self-interest and free-market capitalism, treating money as the tool of producers.",
+   "why": "Chapter 14 uses Francisco d'Anconia's Atlas Shrugged money speech as the main defense of Mr. Krabs's pursuit of wealth before turning to Marx to condemn it."
+  },
+  {
+   "ch": 19,
+   "type": "philosopher",
+   "suggested_slug": "c-wright-mills",
+   "name": "C. Wright Mills",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "American sociologist who argued that a 'power elite' of corporate, political and military leaders manipulates democratic politics behind the scenes.",
+   "why": "Chapter 19 casts Mr. Krabs as the power elite rigging the Royal Krabby election, making popular voting a sham that serves elite interests."
+  },
+  {
+   "ch": 20,
+   "type": "philosopher",
+   "suggested_slug": "dante",
+   "name": "Dante Alighieri",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "Medieval Christian poet-philosopher whose De Monarchia defends God-ordained monarchy and the ruler's need for both cardinal and theological virtues.",
+   "why": "Chapter 20 builds its entire evaluation of King Neptune's kingship, justice and the seven virtues on Dante's De Monarchia."
+  },
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "tragedy-of-the-commons",
+   "name": "The Tragedy of the Commons",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The dynamic in which individuals rationally overuse a shared resource until it is destroyed for everyone who depends on it.",
+   "why": "Chapter 21 uses the near-extinction of Jellyfish Fields in 'Jellyfish Hunter' as its central argument for private property over communal commons."
+  },
+  {
+   "ch": 25,
+   "type": "philosopher",
+   "suggested_slug": "freud",
+   "name": "Sigmund Freud",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Founder of psychoanalysis who divided the mind into Id, Ego and Super-Ego and named the unconscious defense mechanisms (denial, repression, regression).",
+   "why": "Chapter 25 reads Patrick, SpongeBob and Squidward as Id, Ego and Super-Ego and analyzes the show's episodes entirely through Freudian defense mechanisms."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "id-ego-superego",
+   "name": "Id, Ego and Super-Ego (structural model of the psyche)",
+   "philosopher": "freud",
+   "domain": "mind-language-metaphysics",
+   "what": "Freud's division of the mind into the instinctual Id, the reality-mediating Ego and the moralizing Super-Ego, managed by unconscious defense mechanisms.",
+   "why": "Chapter 25 casts the Conch Street trio in exactly these three roles to explain SpongeBob's denial and the comedy of inner conflict."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "wonder-and-curiosity",
+   "name": "Wonder and the Desire to Know",
+   "philosopher": "plato",
+   "domain": "ancient",
+   "what": "The view that philosophy begins in wonder (Theaetetus), against Hobbes's account of curiosity as a 'lust of the mind' that can obsess its bearer.",
+   "why": "Chapter 27 reads 'The Secret Box' entirely through the tension between wonder as philosophy's birth and curiosity as a morally dangerous lust."
+  }
+ ]
+}

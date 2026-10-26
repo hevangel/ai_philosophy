@@ -1,0 +1,1100 @@
+[10-17 00:42:26] book 006 (queue position 1/20)
+[10-17 00:43:27]   [07:43:27] #006 OK -> book_0006.epub (808 kB)
+[10-17 00:43:27]   book 006: failed this attempt (done)
+[10-17 00:43:27]   sleeping 59 s
+[10-17 00:44:26] book 007 (queue position 2/20)
+[10-17 00:44:58]   [07:44:58] #007 no epub result row
+[10-17 00:44:58]   book 007: no_result on mirror
+[10-17 00:44:58]   sleeping 56 s
+[10-17 00:45:54] book 009 (queue position 3/20)
+[10-17 00:45:55]   KeyError: 9
+[10-17 00:45:55]   book 009: failed this attempt (killed)
+[10-17 00:45:55]   sleeping 75 s
+[10-17 00:47:11] book 012 (queue position 4/20)
+[10-17 00:48:53]   [07:48:53] #012 OK -> book_0012.epub (6156 kB)
+[10-17 00:48:53]   book 012: failed this attempt (done)
+[10-17 00:48:53]   sleeping 84 s
+[10-17 00:50:17] book 014 (queue position 5/20)
+[10-17 00:53:27] book 006 (queue position 1/19)
+[10-17 00:54:18]   [epub] [07:54:18] #006 OK -> book_0006.epub (808 kB)
+[10-17 00:54:18]   book 006: DONE as epub
+[10-17 00:54:18]   sleeping 51 s
+[10-17 00:55:09] book 009 (queue position 2/19)
+[10-17 00:55:10]   [epub] KeyError: 9
+[10-17 00:55:12]   [pdf] KeyError: 9
+[10-17 00:55:12]   book 009: failed this attempt
+[10-17 00:55:12]   sleeping 80 s
+[10-17 00:56:31] book 012 (queue position 3/19)
+[10-17 00:57:38]   [epub] [07:57:38] #012 OK -> book_0012.epub (6156 kB)
+[10-17 00:57:38]   book 012: DONE as epub
+[10-17 00:57:38]   sleeping 70 s
+[10-17 00:58:48] book 014 (queue position 4/19)
+[10-17 01:04:30] book 009 (queue position 1/17)
+[10-17 01:17:40]   [pdf] [08:17:40] #009 download invalid: b'%PDF-1.4'
+[10-17 01:17:40]   book 009: failed this attempt
+[10-17 01:17:40]   sleeping 77 s
+[10-17 01:18:57] book 014 (queue position 2/17)
+[10-17 01:33:00]   [pdf] [08:33:00] #014 timeout: Timeout 90000ms exceeded.
+[10-17 01:33:00]   book 014: failed this attempt
+[10-17 01:33:00]   sleeping 82 s
+[10-17 01:34:22] book 015 (queue position 3/17)
+[10-17 01:34:57]   [epub] [08:34:57] #015 no epub result row
+[10-17 01:34:58]   book 015: no epub on mirror, trying pdf
+[10-17 01:36:47]   [pdf] [08:36:47] #015 OK -> book_0015.pdf (889 kB)
+[10-17 01:36:47]   book 015: DONE as pdf
+[10-17 01:36:47]   sleeping 74 s
+[10-17 01:38:02] book 016 (queue position 4/17)
+[10-17 01:39:51]   [epub] [08:39:51] #016 timeout: Timeout 89493ms exceeded.
+[10-17 01:40:36]   [pdf] [08:40:36] #016 download invalid: b'%PDF-1.3'
+[10-17 01:40:36]   book 016: failed this attempt
+[10-17 01:40:36]   sleeping 86 s
+[10-17 01:42:02] book 017 (queue position 5/17)
+[10-17 01:42:27]   [epub] [08:42:27] #017 no epub result row
+[10-17 01:42:27]   book 017: no epub on mirror, trying pdf
+[10-17 01:43:25]   [pdf] [08:43:25] #017 download invalid: b'%PDF-1.4'
+[10-17 01:43:26]   book 017: failed this attempt
+[10-17 01:43:26]   sleeping 854 s
+[10-17 01:57:40] book 022 (queue position 6/17)
+[10-17 01:58:10]   [epub] [08:58:10] #022 no epub result row
+[10-17 01:58:10]   book 022: no epub on mirror, trying pdf
+[10-17 01:59:30]   [pdf] [08:59:30] #022 OK -> book_0022.pdf (424 kB)
+[10-17 01:59:30]   book 022: DONE as pdf
+[10-17 01:59:30]   sleeping 79 s
+[10-17 02:00:49] book 023 (queue position 7/17)
+[10-17 02:01:19]   [epub] [09:01:19] #023 no epub result row
+[10-17 02:01:19]   book 023: no epub on mirror, trying pdf
+[10-17 02:13:19]   book 023: no_result on mirror (epub+pdf)
+[10-17 02:13:19]   book 023: failed this attempt
+[10-17 02:13:19]   sleeping 65 s
+[10-17 02:14:24] book 029 (queue position 8/17)
+[10-17 02:14:50]   [epub] [09:14:50] #029 no epub result row
+[10-17 02:14:51]   book 029: no epub on mirror, trying pdf
+[10-17 02:16:41]   [pdf] [09:16:41] #029 OK -> book_0029.pdf (63798 kB)
+[10-17 02:16:46]   book 029: DONE as pdf
+[10-17 02:16:46]   sleeping 62 s
+[10-17 02:17:49] book 030 (queue position 9/17)
+[10-17 02:19:02]   [epub] [09:19:02] #030 no files for query
+[10-17 02:19:02]   book 030: no epub on mirror, trying pdf
+[10-17 02:20:11]   [pdf] [09:20:11] #030 no files for query
+[10-17 02:20:11]   book 030: no_result on mirror (epub+pdf)
+[10-17 02:20:11]   book 030: failed this attempt
+[10-17 02:20:11]   sleeping 64 s
+[10-17 02:21:15] book 032 (queue position 10/17)
+[10-17 02:21:43]   [epub] [09:21:43] #032 no epub result row
+[10-17 02:21:43]   book 032: no epub on mirror, trying pdf
+[10-17 02:33:44]   book 032: no_result on mirror (epub+pdf)
+[10-17 02:33:44]   book 032: failed this attempt
+[10-17 02:33:44]   sleeping 615 s
+[10-17 02:43:59] book 033 (queue position 11/17)
+[10-17 02:44:26]   [epub] [09:44:26] #033 no epub result row
+[10-17 02:44:26]   book 033: no epub on mirror, trying pdf
+[10-17 02:46:52]   [pdf] [09:46:52] #033 OK -> book_0033.pdf (24826 kB)
+[10-17 02:46:52]   book 033: DONE as pdf
+[10-17 02:46:52]   sleeping 58 s
+[10-17 02:47:50] book 034 (queue position 12/17)
+[10-17 02:48:18]   [epub] [09:48:18] #034 no epub result row
+[10-17 02:48:18]   book 034: no epub on mirror, trying pdf
+[10-17 02:49:15]   [pdf] [09:49:15] #034 OK -> book_0034.pdf (3767 kB)
+[10-17 02:49:15]   book 034: DONE as pdf
+[10-17 02:49:15]   sleeping 55 s
+[10-17 02:50:10] book 035 (queue position 13/17)
+[10-17 02:51:06]   [epub] [09:51:05] #035 OK -> book_0035.epub (391 kB)
+[10-17 02:51:06]   book 035: DONE as epub
+[10-17 02:51:06]   sleeping 61 s
+[10-17 02:52:07] book 038 (queue position 14/17)
+[10-17 02:53:02]   [epub] [09:53:02] #038 OK -> book_0038.epub (3993 kB)
+[10-17 02:53:02]   book 038: DONE as epub
+[10-17 02:53:02]   sleeping 58 s
+[10-17 02:54:00] book 040 (queue position 15/17)
+[10-17 02:54:28]   [epub] [09:54:28] #040 no epub result row
+[10-17 02:54:28]   book 040: no epub on mirror, trying pdf
+[10-17 02:55:53]   [pdf] [09:55:53] #040 OK -> book_0040.pdf (729 kB)
+[10-17 02:55:54]   book 040: DONE as pdf
+[10-17 02:55:54]   sleeping 809 s
+[10-17 03:09:22] book 041 (queue position 16/17)
+[10-17 03:22:31]   [pdf] [10:22:31] #041 no files for query
+[10-17 03:22:31]   book 041: no_result on mirror (epub+pdf)
+[10-17 03:22:31]   book 041: failed this attempt
+[10-17 03:22:31]   sleeping 55 s
+[10-17 03:23:26] book 042 (queue position 17/17)
+[10-17 03:23:58]   [epub] [10:23:58] #042 no epub result row
+[10-17 03:23:58]   book 042: no epub on mirror, trying pdf
+[10-17 03:35:59]   book 042: no_result on mirror (epub+pdf)
+[10-17 03:35:59]   book 042: failed this attempt
+[10-17 03:35:59] queue cycle complete
+[10-17 03:35:59] book 009 (queue position 1/9)
+[10-17 03:36:30]   [epub] [10:36:30] #009 no epub result row
+[10-17 03:36:30]   book 009: no epub on mirror, trying pdf
+[10-17 03:48:30]   book 009: no_result on mirror (epub+pdf)
+[10-17 03:48:30]   book 009: failed this attempt
+[10-17 03:48:30]   sleeping 70 s
+[10-17 03:49:41] book 014 (queue position 2/9)
+[10-17 04:13:42]   book 014: failed this attempt
+[10-17 04:13:42]   sleeping 67 s
+[10-17 04:14:49] book 016 (queue position 3/9)
+[10-17 04:15:42]   [epub] [11:15:42] #016 download invalid: b'%PDF-1.6'
+[10-17 04:16:32]   [pdf] [11:16:32] #016 download invalid: b'%PDF-1.3'
+[10-17 04:16:32]   book 016: failed this attempt
+[10-17 04:16:32]   sleeping 57 s
+[10-17 04:17:29] book 017 (queue position 4/9)
+[10-17 04:17:58]   [epub] [11:17:58] #017 no epub result row
+[10-17 04:17:58]   book 017: no epub on mirror, trying pdf
+[10-17 04:19:48]   [pdf] [11:19:48] #017 timeout: Timeout 89291ms exceeded.
+[10-17 04:19:48]   book 017: failed this attempt
+[10-17 04:19:48]   sleeping 68 s
+[10-17 04:20:56] book 023 (queue position 5/9)
+[10-17 04:32:57]   book 023: no epub on mirror, trying pdf
+[10-17 04:35:03]   [pdf] [11:35:03] #023 timeout: Timeout 90000ms exceeded.
+[10-17 04:35:03]   book 023: failed this attempt
+[10-17 04:35:03]   sleeping 859 s
+[10-17 04:49:22] book 030 (queue position 6/9)
+[10-17 04:50:30]   [epub] [11:50:29] #030 no files for query
+[10-17 04:50:30]   book 030: no epub on mirror, trying pdf
+[10-17 04:51:40]   [pdf] [11:51:40] #030 no files for query
+[10-17 04:51:40]   book 030: no_result on mirror (epub+pdf)
+[10-17 04:51:40]   book 030: failed this attempt
+[10-17 04:51:40]   sleeping 83 s
+[10-17 04:53:03] book 032 (queue position 7/9)
+[10-17 04:53:29]   [epub] [11:53:29] #032 no epub result row
+[10-17 04:53:29]   book 032: no epub on mirror, trying pdf
+[10-17 05:05:30]   book 032: no_result on mirror (epub+pdf)
+[10-17 05:05:30]   book 032: failed this attempt
+[10-17 05:05:30]   sleeping 73 s
+[10-17 05:06:42] book 041 (queue position 8/9)
+[10-17 05:18:43]   book 041: no epub on mirror, trying pdf
+[10-17 05:19:52]   [pdf] [12:19:52] #041 no files for query
+[10-17 05:19:52]   book 041: no_result on mirror (epub+pdf)
+[10-17 05:19:52]   book 041: failed this attempt
+[10-17 05:19:52]   sleeping 52 s
+[10-17 05:20:44] book 042 (queue position 9/9)
+[10-17 05:21:22]   [epub] [12:21:22] #042 no epub result row
+[10-17 05:21:23]   book 042: no epub on mirror, trying pdf
+[10-17 05:33:23]   book 042: no_result on mirror (epub+pdf)
+[10-17 05:33:23]   book 042: failed this attempt
+[10-17 05:33:23] queue cycle complete
+[10-17 05:33:23] book 009 (queue position 1/9)
+[10-17 05:45:24]   book 009: no epub on mirror, trying pdf
+[10-17 05:46:23]   [pdf] [12:46:23] #009 download invalid: b'%PDF-1.4'
+[10-17 05:46:23]   book 009: failed this attempt
+[10-17 05:46:23]   sleeping 83 s
+[10-17 05:47:46] book 014 (queue position 2/9)
+[10-17 05:48:14]   [epub] [12:48:14] #014 no epub result row
+[10-17 05:48:14]   book 014: no epub on mirror, trying pdf
+[10-17 06:00:14]   book 014: no_result on mirror (epub+pdf)
+[10-17 06:00:14]   book 014: failed this attempt
+[10-17 06:00:14]   sleeping 45 s
+[10-17 06:01:00] book 016 (queue position 3/9)
+[10-17 06:03:01]   [epub] [13:03:01] #016 timeout: Timeout 90000ms exceeded.
+[10-17 06:03:56]   [pdf] [13:03:56] #016 download invalid: b'%PDF-1.3'
+[10-17 06:03:56]   book 016: failed this attempt
+[10-17 06:03:56]   sleeping 61 s
+[10-17 06:04:57] book 017 (queue position 4/9)
+[10-17 06:05:27]   [epub] [13:05:26] #017 no epub result row
+[10-17 06:05:27]   book 017: no epub on mirror, trying pdf
+[10-17 06:06:46]   [pdf] [13:06:46] #017 timeout: Locator.click: Timeout 30000ms exceeded.
+[10-17 06:06:46]   book 017: failed this attempt
+[10-17 06:06:46]   sleeping 90 s
+[10-17 06:08:16] book 023 (queue position 5/9)
+[10-17 06:32:17]   book 023: failed this attempt
+[10-17 06:32:17]   sleeping 760 s
+[10-17 06:44:56] book 030 (queue position 6/9)
+[10-17 06:46:07]   [epub] [13:46:07] #030 no files for query
+[10-17 06:46:07]   book 030: no epub on mirror, trying pdf
+[10-17 06:58:08]   book 030: no_result on mirror (epub+pdf)
+[10-17 06:58:08]   book 030: failed this attempt
+[10-17 06:58:08]   sleeping 70 s
+[10-17 06:59:18] book 032 (queue position 7/9)
+[10-17 06:59:44]   [epub] [13:59:44] #032 no epub result row
+[10-17 06:59:44]   book 032: no epub on mirror, trying pdf
+[10-17 07:01:43]   [pdf] [14:01:43] #032 timeout: Timeout 90000ms exceeded.
+[10-17 07:01:43]   book 032: failed this attempt
+[10-17 07:01:43]   sleeping 86 s
+[10-17 07:03:08] book 041 (queue position 8/9)
+[10-17 07:04:19]   [epub] [14:04:18] #041 no files for query
+[10-17 07:04:19]   book 041: no epub on mirror, trying pdf
+[10-17 07:05:29]   [pdf] [14:05:29] #041 no files for query
+[10-17 07:05:29]   book 041: no_result on mirror (epub+pdf)
+[10-17 07:05:29]   book 041: failed this attempt
+[10-17 07:05:29]   sleeping 75 s
+[10-17 07:06:44] book 042 (queue position 9/9)
+[10-17 07:07:16]   [epub] [14:07:16] #042 no epub result row
+[10-17 07:07:16]   book 042: no epub on mirror, trying pdf
+[10-17 07:09:16]   [pdf] [14:09:16] #042 OK -> book_0042.pdf (1180 kB)
+[10-17 07:09:16]   book 042: DONE as pdf
+[10-17 07:09:16] queue cycle complete
+[10-17 07:09:16] book 009 (queue position 1/8)
+[10-17 07:09:45]   [epub] [14:09:45] #009 no epub result row
+[10-17 07:09:46]   book 009: no epub on mirror, trying pdf
+[10-17 07:10:52]   [pdf] [14:10:52] #009 download invalid: b'%PDF-1.4'
+[10-17 07:10:53]   book 009: failed this attempt
+[10-17 07:10:53]   sleeping 80 s
+[10-17 07:12:13] book 014 (queue position 2/8)
+[10-17 07:14:03]   [epub] [14:14:03] #014 timeout: Timeout 89571ms exceeded.
+[10-17 07:26:03]   book 014: failed this attempt
+[10-17 07:26:03]   sleeping 71 s
+[10-17 07:27:15] book 016 (queue position 3/8)
+[10-17 07:28:19]   [epub] [14:28:19] #016 download invalid: b'%PDF-1.6'
+[10-17 07:30:20]   [pdf] [14:30:20] #016 timeout: Timeout 90000ms exceeded.
+[10-17 07:30:20]   book 016: failed this attempt
+[10-17 07:30:20]   sleeping 89 s
+[10-17 07:31:49] book 017 (queue position 4/8)
+[10-17 07:32:21]   [epub] [14:32:21] #017 no epub result row
+[10-17 07:32:21]   book 017: no epub on mirror, trying pdf
+[10-17 07:33:23]   [pdf] [14:33:23] #017 download invalid: b'%PDF-1.4'
+[10-17 07:33:23]   book 017: failed this attempt
+[10-17 07:33:23]   sleeping 88 s
+[10-17 07:34:51] book 023 (queue position 5/8)
+[10-17 07:36:42]   [epub] [14:36:42] #023 timeout: Timeout 86383ms exceeded.
+[10-17 07:43:29]   [pdf] [14:43:29] #023 OK -> book_0023.pdf (18629 kB)
+[10-17 07:43:29]   book 023: DONE as pdf
+[10-17 07:43:29]   sleeping 717 s
+[10-17 07:55:26] book 030 (queue position 6/8)
+[10-17 07:56:41]   [epub] [14:56:41] #030 no files for query
+[10-17 07:56:41]   book 030: no epub on mirror, trying pdf
+[10-17 07:57:54]   [pdf] [14:57:54] #030 no files for query
+[10-17 07:57:54]   book 030: no_result on mirror (epub+pdf)
+[10-17 07:57:54]   book 030: failed this attempt
+[10-17 07:57:54]   sleeping 61 s
+[10-17 07:58:55] book 032 (queue position 7/8)
+[10-17 07:59:23]   [epub] [14:59:23] #032 no epub result row
+[10-17 07:59:23]   book 032: no epub on mirror, trying pdf
+[10-17 08:11:24]   book 032: no_result on mirror (epub+pdf)
+[10-17 08:11:24]   book 032: failed this attempt
+[10-17 08:11:24]   sleeping 76 s
+[10-17 08:12:40] book 041 (queue position 8/8)
+[10-17 08:13:53]   [epub] [15:13:53] #041 no files for query
+[10-17 08:13:53]   book 041: no epub on mirror, trying pdf
+[10-17 08:15:01]   [pdf] [15:15:01] #041 no files for query
+[10-17 08:15:01]   book 041: no_result on mirror (epub+pdf)
+[10-17 08:15:01]   book 041: failed this attempt
+[10-17 08:15:01] queue cycle complete
+[10-17 08:15:01] book 009 (queue position 1/7)
+[10-17 08:15:31]   [epub] [15:15:31] #009 no epub result row
+[10-17 08:15:31]   book 009: no epub on mirror, trying pdf
+[10-17 08:17:24]   [pdf] [15:17:23] #009 timeout: Timeout 89357ms exceeded.
+[10-17 08:17:24]   book 009: failed this attempt
+[10-17 08:17:24]   sleeping 65 s
+[10-17 08:18:28] book 014 (queue position 2/7)
+[10-17 08:18:57]   [epub] [15:18:57] #014 no epub result row
+[10-17 08:18:57]   book 014: no epub on mirror, trying pdf
+[10-17 08:30:57]   book 014: no_result on mirror (epub+pdf)
+[10-17 08:30:57]   book 014: failed this attempt
+[10-17 08:30:57]   sleeping 70 s
+[10-17 08:32:08] book 016 (queue position 3/7)
+[10-17 08:33:02]   [epub] [15:33:02] #016 download invalid: b'%PDF-1.6'
+[10-17 08:33:57]   [pdf] [15:33:57] #016 download invalid: b'%PDF-1.3'
+[10-17 08:33:57]   book 016: failed this attempt
+[10-17 08:33:57]   sleeping 59 s
+[10-17 08:34:57] book 017 (queue position 4/7)
+[10-17 08:35:22]   [epub] [15:35:22] #017 no epub result row
+[10-17 08:35:22]   book 017: no epub on mirror, trying pdf
+[10-17 08:36:35]   [pdf] [15:36:35] #017 download invalid: b'%PDF-1.4'
+[10-17 08:36:35]   book 017: failed this attempt
+[10-17 08:36:35]   sleeping 85 s
+[10-17 08:38:00] book 030 (queue position 5/7)
+[10-17 08:39:15]   [epub] [15:39:15] #030 no files for query
+[10-17 08:39:15]   book 030: no epub on mirror, trying pdf
+[10-17 08:40:27]   [pdf] [15:40:27] #030 no files for query
+[10-17 08:40:28]   book 030: no_result on mirror (epub+pdf)
+[10-17 08:40:28]   book 030: failed this attempt
+[10-17 08:40:28]   sleeping 765 s
+[10-17 08:53:12] book 032 (queue position 6/7)
+[10-17 08:53:41]   [epub] [15:53:41] #032 no epub result row
+[10-17 08:53:41]   book 032: no epub on mirror, trying pdf
+[10-17 09:05:42]   book 032: no_result on mirror (epub+pdf)
+[10-17 09:05:42]   book 032: failed this attempt
+[10-17 09:05:42]   sleeping 67 s
+[10-17 09:06:48] book 041 (queue position 7/7)
+[10-17 09:07:57]   [epub] [16:07:57] #041 no files for query
+[10-17 09:07:57]   book 041: no epub on mirror, trying pdf
+[10-17 09:09:07]   [pdf] [16:09:07] #041 no files for query
+[10-17 09:09:07]   book 041: no_result on mirror (epub+pdf)
+[10-17 09:09:07]   book 041: failed this attempt
+[10-17 09:09:07] queue cycle complete
+[10-17 09:09:07] book 009 (queue position 1/7)
+[10-17 09:09:40]   [epub] [16:09:40] #009 no epub result row
+[10-17 09:09:41]   book 009: no epub on mirror, trying pdf
+[10-17 09:11:08]   [pdf] [16:11:08] #009 download invalid: b'%PDF-1.4'
+[10-17 09:11:08]   book 009: failed this attempt
+[10-17 09:11:08]   sleeping 82 s
+[10-17 09:12:30] book 014 (queue position 2/7)
+[10-17 09:13:00]   [epub] [16:13:00] #014 no epub result row
+[10-17 09:13:01]   book 014: no epub on mirror, trying pdf
+[10-17 09:25:01]   book 014: no_result on mirror (epub+pdf)
+[10-17 09:25:01]   book 014: failed this attempt
+[10-17 09:25:01]   sleeping 75 s
+[10-17 09:26:16] book 016 (queue position 3/7)
+[10-17 09:28:21]   [epub] [16:28:21] #016 timeout: Timeout 90000ms exceeded.
+[10-17 09:29:17]   [pdf] [16:29:17] #016 download invalid: b'%PDF-1.3'
+[10-17 09:29:17]   book 016: failed this attempt
+[10-17 09:29:17]   sleeping 66 s
+[10-17 09:30:23] book 017 (queue position 4/7)
+[10-17 09:30:50]   [epub] [16:30:50] #017 no epub result row
+[10-17 09:30:50]   book 017: no epub on mirror, trying pdf
+[10-17 09:32:58]   [pdf] [16:32:58] #017 timeout: Timeout 90000ms exceeded.
+[10-17 09:32:58]   book 017: failed this attempt
+[10-17 09:32:58]   sleeping 77 s
+[10-17 09:34:15] book 030 (queue position 5/7)
+[10-17 09:35:25]   [epub] [16:35:25] #030 no files for query
+[10-17 09:35:25]   book 030: no epub on mirror, trying pdf
+[10-17 09:36:37]   [pdf] [16:36:37] #030 no files for query
+[10-17 09:36:37]   book 030: no_result on mirror (epub+pdf)
+[10-17 09:36:37]   book 030: failed this attempt
+[10-17 09:36:37]   sleeping 814 s
+[10-17 09:50:12] book 032 (queue position 6/7)
+[10-17 09:50:43]   [epub] [16:50:43] #032 no epub result row
+[10-17 09:50:43]   book 032: no epub on mirror, trying pdf
+[10-17 09:52:15]   [pdf] [16:52:15] #032 OK -> book_0032.pdf (15068 kB)
+[10-17 09:52:16]   book 032: DONE as pdf
+[10-17 09:52:16]   sleeping 46 s
+[10-17 09:53:01] book 041 (queue position 7/7)
+[10-17 09:54:10]   [epub] [16:54:10] #041 no files for query
+[10-17 09:54:10]   book 041: no epub on mirror, trying pdf
+[10-17 09:56:00]   [pdf] [16:56:00] #041 timeout: Timeout 89472ms exceeded.
+[10-17 09:56:00]   book 041: failed this attempt
+[10-17 09:56:00] queue cycle complete
+[10-17 09:56:00] book 009 (queue position 1/6)
+[10-17 09:56:28]   [epub] [16:56:27] #009 no epub result row
+[10-17 09:56:28]   book 009: no epub on mirror, trying pdf
+[10-17 09:57:34]   [pdf] [16:57:34] #009 download invalid: b'%PDF-1.4'
+[10-17 09:57:34]   book 009: failed this attempt
+[10-17 09:57:34]   sleeping 89 s
+[10-17 09:59:03] book 014 (queue position 2/6)
+[10-17 10:11:04]   book 014: no epub on mirror, trying pdf
+[10-17 10:23:04]   book 014: no_result on mirror (epub+pdf)
+[10-17 10:23:04]   book 014: failed this attempt
+[10-17 10:23:04]   sleeping 62 s
+[10-17 10:24:06] book 016 (queue position 3/6)
+[10-17 10:24:55]   [epub] [17:24:55] #016 download invalid: b'%PDF-1.6'
+[10-17 10:25:50]   [pdf] [17:25:50] #016 download invalid: b'%PDF-1.3'
+[10-17 10:25:50]   book 016: failed this attempt
+[10-17 10:25:50]   sleeping 57 s
+[10-17 10:26:47] book 017 (queue position 4/6)
+[10-17 10:27:18]   [epub] [17:27:18] #017 no epub result row
+[10-17 10:27:18]   book 017: no epub on mirror, trying pdf
+[10-17 10:29:21]   [pdf] [17:29:21] #017 timeout: Timeout 90000ms exceeded.
+[10-17 10:29:21]   book 017: failed this attempt
+[10-17 10:29:21]   sleeping 68 s
+[10-17 10:30:30] book 030 (queue position 5/6)
+[10-17 10:42:30]   book 030: no epub on mirror, trying pdf
+[10-17 10:44:21]   [pdf] [17:44:21] #030 timeout: Timeout 89374ms exceeded.
+[10-17 10:44:21]   book 030: failed this attempt
+[10-17 10:44:21]   sleeping 848 s
+[10-17 10:58:29] book 041 (queue position 6/6)
+[10-17 10:59:40]   [epub] [17:59:40] #041 no files for query
+[10-17 10:59:40]   book 041: no epub on mirror, trying pdf
+[10-17 11:00:51]   [pdf] [18:00:51] #041 no files for query
+[10-17 11:00:51]   book 041: no_result on mirror (epub+pdf)
+[10-17 11:00:51]   book 041: failed this attempt
+[10-17 11:00:51] queue cycle complete
+[10-17 11:00:51] book 009 (queue position 1/6)
+[10-17 11:02:23]   [epub] [18:02:23] #009 no epub result row
+[10-17 11:02:23]   book 009: no epub on mirror, trying pdf
+[10-17 11:03:46]   [pdf] [18:03:46] #009 download invalid: b'%PDF-1.4'
+[10-17 11:03:46]   book 009: failed this attempt
+[10-17 11:03:46]   sleeping 79 s
+[10-17 11:05:05] book 014 (queue position 2/6)
+[10-17 11:05:34]   [epub] [18:05:34] #014 no epub result row
+[10-17 11:05:34]   book 014: no epub on mirror, trying pdf
+[10-17 11:17:34]   book 014: no_result on mirror (epub+pdf)
+[10-17 11:17:34]   book 014: failed this attempt
+[10-17 11:17:34]   sleeping 74 s
+[10-17 11:18:48] book 016 (queue position 3/6)
+[10-17 11:19:38]   [epub] [18:19:37] #016 download invalid: b'%PDF-1.6'
+[10-17 11:31:38]   book 016: failed this attempt
+[10-17 11:31:38]   sleeping 54 s
+[10-17 11:32:32] book 017 (queue position 4/6)
+[10-17 11:45:53]   [pdf] [18:45:52] #017 timeout: Locator.click: Timeout 30000ms exceeded.
+[10-17 11:45:53]   book 017: failed this attempt
+[10-17 11:45:53]   sleeping 86 s
+[10-17 11:47:19] book 030 (queue position 5/6)
+[10-17 11:48:41]   [epub] [18:48:41] #030 no files for query
+[10-17 11:48:41]   book 030: no epub on mirror, trying pdf
+[10-17 11:49:51]   [pdf] [18:49:51] #030 no files for query
+[10-17 11:49:51]   book 030: no_result on mirror (epub+pdf)
+[10-17 11:49:51]   book 030: failed this attempt
+[10-17 11:49:51]   sleeping 741 s
+[10-17 12:02:12] book 041 (queue position 6/6)
+[10-17 12:03:28]   [epub] [19:03:28] #041 no files for query
+[10-17 12:03:28]   book 041: no epub on mirror, trying pdf
+[10-17 12:15:29]   book 041: no_result on mirror (epub+pdf)
+[10-17 12:15:29]   book 041: failed this attempt
+[10-17 12:15:29] queue cycle complete
+[10-17 12:15:29] book 009 (queue position 1/6)
+[10-17 12:16:05]   [epub] [19:16:05] #009 no epub result row
+[10-17 12:16:05]   book 009: no epub on mirror, trying pdf
+[10-17 12:28:06]   book 009: no_result on mirror (epub+pdf)
+[10-17 12:28:06]   book 009: failed this attempt
+[10-17 12:28:06]   sleeping 79 s
+[10-17 12:29:25] book 014 (queue position 2/6)
+[10-17 12:31:08]   [epub] [19:31:08] #014 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 12:32:52]   [pdf] [19:32:52] #014 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 12:32:53]   book 014: failed this attempt
+[10-17 12:32:53]   sleeping 77 s
+[10-17 12:34:10] book 016 (queue position 3/6)
+[10-17 12:35:54]   [epub] [19:35:54] #016 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 12:37:37]   [pdf] [19:37:37] #016 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 12:37:37]   book 016: failed this attempt
+[10-17 12:37:37]   sleeping 74 s
+[10-17 12:38:51] book 017 (queue position 4/6)
+[10-17 12:40:35]   [epub] [19:40:35] #017 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 12:42:20]   [pdf] [19:42:20] #017 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 12:42:20]   book 017: failed this attempt
+[10-17 12:42:20]   sleeping 61 s
+[10-17 12:43:21] book 030 (queue position 5/6)
+[10-17 12:45:07]   [epub] [19:45:07] #030 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 12:46:20]   [pdf] [19:46:20] #030 no files for query
+[10-17 12:46:20]   book 030: no_result on mirror (epub+pdf)
+[10-17 12:46:20]   book 030: failed this attempt
+[10-17 12:46:20]   sleeping 845 s
+[10-17 13:00:25] book 041 (queue position 6/6)
+[10-17 13:01:37]   [epub] [20:01:37] #041 no files for query
+[10-17 13:01:37]   book 041: no epub on mirror, trying pdf
+[10-17 13:02:46]   [pdf] [20:02:46] #041 no files for query
+[10-17 13:02:46]   book 041: no_result on mirror (epub+pdf)
+[10-17 13:02:46]   book 041: failed this attempt
+[10-17 13:02:46] queue cycle complete
+[10-17 13:02:46] book 009 (queue position 1/6)
+[10-17 13:03:13]   [epub] [20:03:12] #009 no epub result row
+[10-17 13:03:13]   book 009: no epub on mirror, trying pdf
+[10-17 13:15:13]   book 009: no_result on mirror (epub+pdf)
+[10-17 13:15:13]   book 009: failed this attempt
+[10-17 13:15:13]   sleeping 56 s
+[10-17 13:16:09] book 014 (queue position 2/6)
+[10-17 13:16:37]   [epub] [20:16:37] #014 no epub result row
+[10-17 13:16:37]   book 014: no epub on mirror, trying pdf
+[10-17 13:18:48]   [pdf] [20:18:48] #014 timeout: Timeout 90000ms exceeded.
+[10-17 13:18:48]   book 014: failed this attempt
+[10-17 13:18:48]   sleeping 73 s
+[10-17 13:20:01] book 016 (queue position 3/6)
+[10-17 13:20:52]   [epub] [20:20:52] #016 download invalid: b'%PDF-1.6'
+[10-17 13:23:00]   [pdf] [20:22:59] #016 timeout: Timeout 90000ms exceeded.
+[10-17 13:23:00]   book 016: failed this attempt
+[10-17 13:23:00]   sleeping 87 s
+[10-17 13:24:26] book 017 (queue position 4/6)
+[10-17 13:25:01]   [epub] [20:25:01] #017 no epub result row
+[10-17 13:25:01]   book 017: no epub on mirror, trying pdf
+[10-17 13:26:04]   [pdf] [20:26:04] #017 download invalid: b'%PDF-1.4'
+[10-17 13:26:04]   book 017: failed this attempt
+[10-17 13:26:04]   sleeping 46 s
+[10-17 13:26:50] book 030 (queue position 5/6)
+[10-17 13:28:03]   [epub] [20:28:02] #030 no files for query
+[10-17 13:28:03]   book 030: no epub on mirror, trying pdf
+[10-17 13:40:03]   book 030: no_result on mirror (epub+pdf)
+[10-17 13:40:03]   book 030: failed this attempt
+[10-17 13:40:03]   sleeping 828 s
+[10-17 13:53:51] book 041 (queue position 6/6)
+[10-17 13:55:02]   [epub] [20:55:02] #041 no files for query
+[10-17 13:55:03]   book 041: no epub on mirror, trying pdf
+[10-17 13:56:12]   [pdf] [20:56:12] #041 no files for query
+[10-17 13:56:12]   book 041: no_result on mirror (epub+pdf)
+[10-17 13:56:12]   book 041: failed this attempt
+[10-17 13:56:12] queue cycle complete
+[10-17 13:56:12] book 009 (queue position 1/6)
+[10-17 14:08:13]   book 009: no epub on mirror, trying pdf
+[10-17 14:10:15]   [pdf] [21:10:15] #009 timeout: Timeout 90000ms exceeded.
+[10-17 14:10:16]   book 009: failed this attempt
+[10-17 14:10:16]   sleeping 81 s
+[10-17 14:11:36] book 014 (queue position 2/6)
+[10-17 14:12:07]   [epub] [21:12:07] #014 no epub result row
+[10-17 14:12:07]   book 014: no epub on mirror, trying pdf
+[10-17 14:24:08]   book 014: no_result on mirror (epub+pdf)
+[10-17 14:24:08]   book 014: failed this attempt
+[10-17 14:24:08]   sleeping 89 s
+[10-17 14:25:36] book 016 (queue position 3/6)
+[10-17 14:27:34]   [epub] [21:27:34] #016 timeout: Timeout 90000ms exceeded.
+[10-17 14:39:34]   book 016: failed this attempt
+[10-17 14:39:34]   sleeping 48 s
+[10-17 14:40:22] book 017 (queue position 4/6)
+[10-17 14:53:29]   [pdf] [21:53:29] #017 download invalid: b'%PDF-1.4'
+[10-17 14:53:29]   book 017: failed this attempt
+[10-17 14:53:29]   sleeping 61 s
+[10-17 14:54:30] book 030 (queue position 5/6)
+[10-17 15:06:31]   book 030: no epub on mirror, trying pdf
+[10-17 15:07:47]   [pdf] [22:07:47] #030 no files for query
+[10-17 15:07:47]   book 030: no_result on mirror (epub+pdf)
+[10-17 15:07:47]   book 030: failed this attempt
+[10-17 15:07:47]   sleeping 727 s
+[10-17 15:19:54] book 041 (queue position 6/6)
+[10-17 15:21:07]   [epub] [22:21:07] #041 no files for query
+[10-17 15:21:07]   book 041: no epub on mirror, trying pdf
+[10-17 15:22:18]   [pdf] [22:22:18] #041 no files for query
+[10-17 15:22:18]   book 041: no_result on mirror (epub+pdf)
+[10-17 15:22:18]   book 041: failed this attempt
+[10-17 15:22:18] queue cycle complete
+[10-17 15:22:18] book 009 (queue position 1/6)
+[10-17 15:35:32]   [pdf] [22:35:32] #009 download invalid: b'%PDF-1.4'
+[10-17 15:35:32]   book 009: failed this attempt
+[10-17 15:35:32]   sleeping 81 s
+[10-17 15:36:53] book 014 (queue position 2/6)
+[10-17 15:37:26]   [epub] [22:37:26] #014 no epub result row
+[10-17 15:37:27]   book 014: no epub on mirror, trying pdf
+[10-17 15:38:42]   [pdf] [22:38:42] #014 OK -> book_0014.pdf (53443 kB)
+[10-17 15:38:45]   book 014: DONE as pdf
+[10-17 15:38:45]   sleeping 59 s
+[10-17 15:39:44] book 016 (queue position 3/6)
+[10-17 15:41:48]   [epub] [22:41:48] #016 timeout: Timeout 90000ms exceeded.
+[10-17 15:42:40]   [pdf] [22:42:40] #016 download invalid: b'%PDF-1.3'
+[10-17 15:42:40]   book 016: failed this attempt
+[10-17 15:42:40]   sleeping 81 s
+[10-17 15:44:01] book 017 (queue position 4/6)
+[10-17 15:44:31]   [epub] [22:44:31] #017 no epub result row
+[10-17 15:44:31]   book 017: no epub on mirror, trying pdf
+[10-17 15:56:31]   book 017: no_result on mirror (epub+pdf)
+[10-17 15:56:31]   book 017: failed this attempt
+[10-17 15:56:31]   sleeping 75 s
+[10-17 15:57:47] book 030 (queue position 5/6)
+[10-17 15:58:59]   [epub] [22:58:59] #030 no files for query
+[10-17 15:58:59]   book 030: no epub on mirror, trying pdf
+[10-17 16:00:10]   [pdf] [23:00:10] #030 no files for query
+[10-17 16:00:10]   book 030: no_result on mirror (epub+pdf)
+[10-17 16:00:10]   book 030: failed this attempt
+[10-17 16:00:10]   sleeping 681 s
+[10-17 16:11:31] book 041 (queue position 6/6)
+[10-17 16:12:42]   [epub] [23:12:42] #041 no files for query
+[10-17 16:12:42]   book 041: no epub on mirror, trying pdf
+[10-17 16:13:50]   [pdf] [23:13:50] #041 no files for query
+[10-17 16:13:50]   book 041: no_result on mirror (epub+pdf)
+[10-17 16:13:50]   book 041: failed this attempt
+[10-17 16:13:50] queue cycle complete
+[10-17 16:13:50] book 009 (queue position 1/5)
+[10-17 16:14:19]   [epub] [23:14:19] #009 no epub result row
+[10-17 16:14:19]   book 009: no epub on mirror, trying pdf
+[10-17 16:26:19]   book 009: no_result on mirror (epub+pdf)
+[10-17 16:26:19]   book 009: failed this attempt
+[10-17 16:26:19]   sleeping 73 s
+[10-17 16:27:33] book 016 (queue position 2/5)
+[10-17 16:28:28]   [epub] [23:28:28] #016 download invalid: b'%PDF-1.6'
+[10-17 16:29:18]   [pdf] [23:29:18] #016 download invalid: b'%PDF-1.3'
+[10-17 16:29:18]   book 016: failed this attempt
+[10-17 16:29:18]   sleeping 73 s
+[10-17 16:30:31] book 017 (queue position 3/5)
+[10-17 16:31:01]   [epub] [23:31:01] #017 no epub result row
+[10-17 16:31:01]   book 017: no epub on mirror, trying pdf
+[10-17 16:32:06]   [pdf] [23:32:06] #017 download invalid: b'%PDF-1.4'
+[10-17 16:32:06]   book 017: failed this attempt
+[10-17 16:32:06]   sleeping 51 s
+[10-17 16:32:57] book 030 (queue position 4/5)
+[10-17 16:34:12]   [epub] [23:34:12] #030 no files for query
+[10-17 16:34:12]   book 030: no epub on mirror, trying pdf
+[10-17 16:35:25]   [pdf] [23:35:25] #030 no files for query
+[10-17 16:35:25]   book 030: no_result on mirror (epub+pdf)
+[10-17 16:35:25]   book 030: failed this attempt
+[10-17 16:35:25]   sleeping 72 s
+[10-17 16:36:37] book 041 (queue position 5/5)
+[10-17 16:37:46]   [epub] [23:37:46] #041 no files for query
+[10-17 16:37:46]   book 041: no epub on mirror, trying pdf
+[10-17 16:38:56]   [pdf] [23:38:56] #041 no files for query
+[10-17 16:38:57]   book 041: no_result on mirror (epub+pdf)
+[10-17 16:38:57]   book 041: failed this attempt
+[10-17 16:38:57] queue cycle complete
+[10-17 16:38:57] book 009 (queue position 1/5)
+[10-17 16:39:24]   [epub] [23:39:24] #009 no epub result row
+[10-17 16:39:24]   book 009: no epub on mirror, trying pdf
+[10-17 16:40:49]   [pdf] [23:40:49] #009 download invalid: b'%PDF-1.4'
+[10-17 16:40:49]   book 009: failed this attempt
+[10-17 16:40:49]   sleeping 60 s
+[10-17 16:41:50] book 016 (queue position 2/5)
+[10-17 16:42:45]   [epub] [23:42:45] #016 download invalid: b'%PDF-1.6'
+[10-17 16:43:34]   [pdf] [23:43:34] #016 download invalid: b'%PDF-1.3'
+[10-17 16:43:34]   book 016: failed this attempt
+[10-17 16:43:34]   sleeping 83 s
+[10-17 16:44:57] book 017 (queue position 3/5)
+[10-17 16:45:27]   [epub] [23:45:27] #017 no epub result row
+[10-17 16:45:27]   book 017: no epub on mirror, trying pdf
+[10-17 16:57:28]   book 017: no_result on mirror (epub+pdf)
+[10-17 16:57:28]   book 017: failed this attempt
+[10-17 16:57:28]   sleeping 75 s
+[10-17 16:58:43] book 030 (queue position 4/5)
+[10-17 16:59:53]   [epub] [23:59:53] #030 no files for query
+[10-17 16:59:53]   book 030: no epub on mirror, trying pdf
+[10-17 17:01:00]   [pdf] [00:01:00] #030 no files for query
+[10-17 17:01:00]   book 030: no_result on mirror (epub+pdf)
+[10-17 17:01:00]   book 030: failed this attempt
+[10-17 17:01:00]   sleeping 60 s
+[10-17 17:02:00] book 041 (queue position 5/5)
+[10-17 17:03:09]   [epub] [00:03:09] #041 no files for query
+[10-17 17:03:09]   book 041: no epub on mirror, trying pdf
+[10-17 17:04:19]   [pdf] [00:04:19] #041 no files for query
+[10-17 17:04:19]   book 041: no_result on mirror (epub+pdf)
+[10-17 17:04:19]   book 041: failed this attempt
+[10-17 17:04:19] queue cycle complete
+[10-17 17:04:19] book 009 (queue position 1/5)
+[10-17 17:04:45]   [epub] [00:04:45] #009 no epub result row
+[10-17 17:04:46]   book 009: no epub on mirror, trying pdf
+[10-17 17:05:59]   [pdf] [00:05:59] #009 download invalid: b'%PDF-1.4'
+[10-17 17:05:59]   book 009: failed this attempt
+[10-17 17:05:59]   sleeping 62 s
+[10-17 17:07:02] book 016 (queue position 2/5)
+[10-17 17:08:53]   [epub] [00:08:53] #016 timeout: Timeout 89386ms exceeded.
+[10-17 17:20:54]   book 016: failed this attempt
+[10-17 17:20:54]   sleeping 90 s
+[10-17 17:22:23] book 017 (queue position 3/5)
+[10-17 17:22:51]   [epub] [00:22:51] #017 no epub result row
+[10-17 17:22:51]   book 017: no epub on mirror, trying pdf
+[10-17 17:24:44]   [pdf] [00:24:44] #017 timeout: Timeout 89307ms exceeded.
+[10-17 17:24:44]   book 017: failed this attempt
+[10-17 17:24:44]   sleeping 81 s
+[10-17 17:26:05] book 030 (queue position 4/5)
+[10-17 17:27:20]   [epub] [00:27:20] #030 no files for query
+[10-17 17:27:20]   book 030: no epub on mirror, trying pdf
+[10-17 17:28:31]   [pdf] [00:28:31] #030 no files for query
+[10-17 17:28:31]   book 030: no_result on mirror (epub+pdf)
+[10-17 17:28:31]   book 030: failed this attempt
+[10-17 17:28:31]   sleeping 74 s
+[10-17 17:29:45] book 041 (queue position 5/5)
+[10-17 17:30:54]   [epub] [00:30:54] #041 no files for query
+[10-17 17:30:54]   book 041: no epub on mirror, trying pdf
+[10-17 17:32:05]   [pdf] [00:32:05] #041 no files for query
+[10-17 17:32:06]   book 041: no_result on mirror (epub+pdf)
+[10-17 17:32:06]   book 041: failed this attempt
+[10-17 17:32:06] queue cycle complete
+[10-17 17:32:06] book 009 (queue position 1/5)
+[10-17 17:32:35]   [epub] [00:32:35] #009 no epub result row
+[10-17 17:32:35]   book 009: no epub on mirror, trying pdf
+[10-17 17:33:40]   [pdf] [00:33:40] #009 download invalid: b'%PDF-1.4'
+[10-17 17:33:40]   book 009: failed this attempt
+[10-17 17:33:40]   sleeping 88 s
+[10-17 17:35:09] book 016 (queue position 2/5)
+[10-17 17:36:00]   [epub] [00:36:00] #016 download invalid: b'%PDF-1.6'
+[10-17 17:48:01]   book 016: failed this attempt
+[10-17 17:48:01]   sleeping 78 s
+[10-17 17:49:19] book 017 (queue position 3/5)
+[10-17 17:49:47]   [epub] [00:49:47] #017 no epub result row
+[10-17 17:49:47]   book 017: no epub on mirror, trying pdf
+[10-17 17:51:08]   [pdf] [00:51:08] #017 download invalid: b'%PDF-1.4'
+[10-17 17:51:08]   book 017: failed this attempt
+[10-17 17:51:08]   sleeping 89 s
+[10-17 17:52:37] book 030 (queue position 4/5)
+[10-17 17:53:52]   [epub] [00:53:52] #030 no files for query
+[10-17 17:53:52]   book 030: no epub on mirror, trying pdf
+[10-17 17:55:03]   [pdf] [00:55:03] #030 no files for query
+[10-17 17:55:03]   book 030: no_result on mirror (epub+pdf)
+[10-17 17:55:03]   book 030: failed this attempt
+[10-17 17:55:03]   sleeping 79 s
+[10-17 17:56:22] book 041 (queue position 5/5)
+[10-17 17:57:32]   [epub] [00:57:32] #041 no files for query
+[10-17 17:57:33]   book 041: no epub on mirror, trying pdf
+[10-17 17:58:45]   [pdf] [00:58:45] #041 no files for query
+[10-17 17:58:45]   book 041: no_result on mirror (epub+pdf)
+[10-17 17:58:45]   book 041: failed this attempt
+[10-17 17:58:45] queue cycle complete
+[10-17 17:58:45] book 009 (queue position 1/5)
+[10-17 17:59:17]   [epub] [00:59:17] #009 no epub result row
+[10-17 17:59:17]   book 009: no epub on mirror, trying pdf
+[10-17 18:00:15]   [pdf] [01:00:15] #009 download invalid: b'%PDF-1.4'
+[10-17 18:00:15]   book 009: failed this attempt
+[10-17 18:00:15]   sleeping 72 s
+[10-17 18:01:27] book 016 (queue position 2/5)
+[10-17 18:02:23]   [epub] [01:02:23] #016 download invalid: b'%PDF-1.6'
+[10-17 18:03:18]   [pdf] [01:03:18] #016 download invalid: b'%PDF-1.3'
+[10-17 18:03:18]   book 016: failed this attempt
+[10-17 18:03:18]   sleeping 70 s
+[10-17 18:04:28] book 017 (queue position 3/5)
+[10-17 18:17:33]   [pdf] [01:17:33] #017 download invalid: b'%PDF-1.4'
+[10-17 18:17:33]   book 017: failed this attempt
+[10-17 18:17:33]   sleeping 56 s
+[10-17 18:18:29] book 030 (queue position 4/5)
+[10-17 18:19:41]   [epub] [01:19:41] #030 no files for query
+[10-17 18:19:41]   book 030: no epub on mirror, trying pdf
+[10-17 18:20:53]   [pdf] [01:20:53] #030 no files for query
+[10-17 18:20:54]   book 030: no_result on mirror (epub+pdf)
+[10-17 18:20:54]   book 030: failed this attempt
+[10-17 18:20:54]   sleeping 85 s
+[10-17 18:22:19] book 041 (queue position 5/5)
+[10-17 18:23:30]   [epub] [01:23:30] #041 no files for query
+[10-17 18:23:31]   book 041: no epub on mirror, trying pdf
+[10-17 18:24:39]   [pdf] [01:24:39] #041 no files for query
+[10-17 18:24:40]   book 041: no_result on mirror (epub+pdf)
+[10-17 18:24:40]   book 041: failed this attempt
+[10-17 18:24:40] queue cycle complete
+[10-17 18:24:40] book 009 (queue position 1/5)
+[10-17 18:25:09]   [epub] [01:25:09] #009 no epub result row
+[10-17 18:25:09]   book 009: no epub on mirror, trying pdf
+[10-17 18:37:10]   book 009: no_result on mirror (epub+pdf)
+[10-17 18:37:10]   book 009: failed this attempt
+[10-17 18:37:10]   sleeping 58 s
+[10-17 18:38:08] book 016 (queue position 2/5)
+[10-17 18:38:57]   [epub] [01:38:57] #016 download invalid: b'%PDF-1.6'
+[10-17 18:39:53]   [pdf] [01:39:52] #016 download invalid: b'%PDF-1.3'
+[10-17 18:39:53]   book 016: failed this attempt
+[10-17 18:39:53]   sleeping 66 s
+[10-17 18:40:59] book 017 (queue position 3/5)
+[10-17 18:41:29]   [epub] [01:41:29] #017 no epub result row
+[10-17 18:41:30]   book 017: no epub on mirror, trying pdf
+[10-17 18:42:36]   [pdf] [01:42:36] #017 download invalid: b'%PDF-1.4'
+[10-17 18:42:36]   book 017: failed this attempt
+[10-17 18:42:36]   sleeping 61 s
+[10-17 18:43:38] book 030 (queue position 4/5)
+[10-17 18:44:51]   [epub] [01:44:51] #030 no files for query
+[10-17 18:44:51]   book 030: no epub on mirror, trying pdf
+[10-17 18:46:01]   [pdf] [01:46:01] #030 no files for query
+[10-17 18:46:01]   book 030: no_result on mirror (epub+pdf)
+[10-17 18:46:01]   book 030: failed this attempt
+[10-17 18:46:01]   sleeping 79 s
+[10-17 18:47:20] book 041 (queue position 5/5)
+[10-17 18:48:33]   [epub] [01:48:33] #041 no files for query
+[10-17 18:48:33]   book 041: no epub on mirror, trying pdf
+[10-17 18:49:44]   [pdf] [01:49:43] #041 no files for query
+[10-17 18:49:44]   book 041: no_result on mirror (epub+pdf)
+[10-17 18:49:44]   book 041: failed this attempt
+[10-17 18:49:44] queue cycle complete
+[10-17 18:49:44] book 009 (queue position 1/5)
+[10-17 18:50:08]   [epub] [01:50:07] #009 no epub result row
+[10-17 18:50:08]   book 009: no epub on mirror, trying pdf
+[10-17 18:51:11]   [pdf] [01:51:11] #009 download invalid: b'%PDF-1.4'
+[10-17 18:51:11]   book 009: failed this attempt
+[10-17 18:51:11]   sleeping 61 s
+[10-17 18:52:11] book 016 (queue position 2/5)
+[10-17 18:52:57]   [epub] [01:52:57] #016 download invalid: b'%PDF-1.6'
+[10-17 18:53:46]   [pdf] [01:53:46] #016 ads page has no GET link
+[10-17 18:53:46]   book 016: failed this attempt
+[10-17 18:53:46]   sleeping 53 s
+[10-17 18:54:39] book 017 (queue position 3/5)
+[10-17 18:55:06]   [epub] [01:55:06] #017 no epub result row
+[10-17 18:55:06]   book 017: no epub on mirror, trying pdf
+[10-17 18:56:15]   [pdf] [01:56:15] #017 download invalid: b'%PDF-1.4'
+[10-17 18:56:15]   book 017: failed this attempt
+[10-17 18:56:15]   sleeping 66 s
+[10-17 18:57:21] book 030 (queue position 4/5)
+[10-17 18:58:32]   [epub] [01:58:32] #030 no files for query
+[10-17 18:58:32]   book 030: no epub on mirror, trying pdf
+[10-17 19:10:33]   book 030: no_result on mirror (epub+pdf)
+[10-17 19:10:33]   book 030: failed this attempt
+[10-17 19:10:33]   sleeping 50 s
+[10-17 19:11:23] book 041 (queue position 5/5)
+[10-17 19:12:33]   [epub] [02:12:33] #041 no files for query
+[10-17 19:12:33]   book 041: no epub on mirror, trying pdf
+[10-17 19:13:43]   [pdf] [02:13:43] #041 no files for query
+[10-17 19:13:43]   book 041: no_result on mirror (epub+pdf)
+[10-17 19:13:43]   book 041: failed this attempt
+[10-17 19:13:43] queue cycle complete
+[10-17 19:13:43] book 009 (queue position 1/5)
+[10-17 19:14:12]   [epub] [02:14:12] #009 no epub result row
+[10-17 19:14:12]   book 009: no epub on mirror, trying pdf
+[10-17 19:15:29]   [pdf] [02:15:29] #009 download invalid: b'%PDF-1.4'
+[10-17 19:15:29]   book 009: failed this attempt
+[10-17 19:15:29]   sleeping 72 s
+[10-17 19:16:41] book 016 (queue position 2/5)
+[10-17 19:17:34]   [epub] [02:17:33] #016 download invalid: b'%PDF-1.6'
+[10-17 19:29:34]   book 016: failed this attempt
+[10-17 19:29:34]   sleeping 79 s
+[10-17 19:30:53] book 017 (queue position 3/5)
+[10-17 19:31:23]   [epub] [02:31:23] #017 no epub result row
+[10-17 19:31:23]   book 017: no epub on mirror, trying pdf
+[10-17 19:32:44]   [pdf] [02:32:44] #017 download invalid: b'%PDF-1.4'
+[10-17 19:32:44]   book 017: failed this attempt
+[10-17 19:32:44]   sleeping 48 s
+[10-17 19:33:32] book 030 (queue position 4/5)
+[10-17 19:35:17]   [epub] [02:35:17] #030 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 19:36:29]   [pdf] [02:36:28] #030 no files for query
+[10-17 19:36:29]   book 030: no_result on mirror (epub+pdf)
+[10-17 19:36:29]   book 030: failed this attempt
+[10-17 19:36:29]   sleeping 50 s
+[10-17 19:37:18] book 041 (queue position 5/5)
+[10-17 19:38:29]   [epub] [02:38:29] #041 no files for query
+[10-17 19:38:29]   book 041: no epub on mirror, trying pdf
+[10-17 19:39:38]   [pdf] [02:39:38] #041 no files for query
+[10-17 19:39:38]   book 041: no_result on mirror (epub+pdf)
+[10-17 19:39:38]   book 041: failed this attempt
+[10-17 19:39:38] queue cycle complete
+[10-17 19:39:38] book 009 (queue position 1/5)
+[10-17 19:41:21]   [epub] [02:41:21] #009 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 19:42:16]   [pdf] [02:42:16] #009 download invalid: b'%PDF-1.4'
+[10-17 19:42:16]   book 009: failed this attempt
+[10-17 19:42:16]   sleeping 87 s
+[10-17 19:43:43] book 016 (queue position 2/5)
+[10-17 19:44:34]   [epub] [02:44:34] #016 download invalid: b'%PDF-1.6'
+[10-17 19:45:35]   [pdf] [02:45:35] #016 download invalid: b'%PDF-1.3'
+[10-17 19:45:35]   book 016: failed this attempt
+[10-17 19:45:35]   sleeping 88 s
+[10-17 19:47:03] book 017 (queue position 3/5)
+[10-17 19:48:13]   [epub] [02:48:13] #017 no results table and no Files-0 label
+[10-17 19:49:57]   [pdf] [02:49:56] #017 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 19:49:57]   book 017: failed this attempt
+[10-17 19:49:57]   sleeping 69 s
+[10-17 19:51:06] book 030 (queue position 4/5)
+[10-17 19:52:50]   [epub] [02:52:50] #030 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 19:54:33]   [pdf] [02:54:33] #030 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 19:54:33]   book 030: failed this attempt
+[10-17 19:54:33]   sleeping 80 s
+[10-17 19:55:54] book 041 (queue position 5/5)
+[10-17 19:57:38]   [epub] [02:57:38] #041 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 19:59:21]   [pdf] [02:59:20] #041 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 19:59:21]   book 041: failed this attempt
+[10-17 19:59:21] queue cycle complete
+[10-17 19:59:21] book 009 (queue position 1/5)
+[10-17 20:01:03]   [epub] [03:01:03] #009 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 20:02:45]   [pdf] [03:02:45] #009 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 20:02:45]   book 009: failed this attempt
+[10-17 20:02:45]   sleeping 82 s
+[10-17 20:04:07] book 016 (queue position 2/5)
+[10-17 20:05:50]   [epub] [03:05:50] #016 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 20:07:33]   [pdf] [03:07:33] #016 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 20:07:33]   book 016: failed this attempt
+[10-17 20:07:33]   sleeping 67 s
+[10-17 20:08:40] book 017 (queue position 3/5)
+[10-17 20:10:25]   [epub] [03:10:25] #017 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 20:12:08]   [pdf] [03:12:08] #017 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 20:12:08]   book 017: failed this attempt
+[10-17 20:12:08]   sleeping 72 s
+[10-17 20:13:21] book 030 (queue position 4/5)
+[10-17 20:15:06]   [epub] [03:15:06] #030 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 20:16:51]   [pdf] [03:16:51] #030 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 20:16:52]   book 030: failed this attempt
+[10-17 20:16:52]   sleeping 46 s
+[10-17 20:17:37] book 041 (queue position 5/5)
+[10-17 20:19:20]   [epub] [03:19:20] #041 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 20:21:05]   [pdf] [03:21:05] #041 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 20:21:05]   book 041: failed this attempt
+[10-17 20:21:05] queue cycle complete
+[10-17 20:21:05] book 009 (queue position 1/5)
+[10-17 20:21:32]   [epub] [03:21:32] #009 no epub result row
+[10-17 20:21:33]   book 009: no epub on mirror, trying pdf
+[10-17 20:22:38]   [pdf] [03:22:38] #009 download invalid: b'%PDF-1.4'
+[10-17 20:22:38]   book 009: failed this attempt
+[10-17 20:22:38]   sleeping 58 s
+[10-17 20:23:36] book 016 (queue position 2/5)
+[10-17 20:24:34]   [epub] [03:24:34] #016 download invalid: b'%PDF-1.6'
+[10-17 20:25:23]   [pdf] [03:25:23] #016 download invalid: b'%PDF-1.3'
+[10-17 20:25:23]   book 016: failed this attempt
+[10-17 20:25:23]   sleeping 47 s
+[10-17 20:26:10] book 017 (queue position 3/5)
+[10-17 20:26:39]   [epub] [03:26:39] #017 no epub result row
+[10-17 20:26:39]   book 017: no epub on mirror, trying pdf
+[10-17 20:27:48]   [pdf] [03:27:48] #017 download invalid: b'%PDF-1.4'
+[10-17 20:27:48]   book 017: failed this attempt
+[10-17 20:27:48]   sleeping 63 s
+[10-17 20:28:51] book 030 (queue position 4/5)
+[10-17 20:42:03]   [pdf] [03:42:03] #030 no files for query
+[10-17 20:42:03]   book 030: no_result on mirror (epub+pdf)
+[10-17 20:42:03]   book 030: failed this attempt
+[10-17 20:42:03]   sleeping 47 s
+[10-17 20:42:50] book 041 (queue position 5/5)
+[10-17 20:44:02]   [epub] [03:44:01] #041 no files for query
+[10-17 20:44:02]   book 041: no epub on mirror, trying pdf
+[10-17 20:45:12]   [pdf] [03:45:12] #041 no files for query
+[10-17 20:45:12]   book 041: no_result on mirror (epub+pdf)
+[10-17 20:45:12]   book 041: failed this attempt
+[10-17 20:45:12] queue cycle complete
+[10-17 20:45:12] book 009 (queue position 1/5)
+[10-17 20:45:39]   [epub] [03:45:39] #009 no epub result row
+[10-17 20:45:39]   book 009: no epub on mirror, trying pdf
+[10-17 20:57:40]   book 009: no_result on mirror (epub+pdf)
+[10-17 20:57:40]   book 009: failed this attempt
+[10-17 20:57:40]   sleeping 84 s
+[10-17 20:59:04] book 016 (queue position 2/5)
+[10-17 21:12:03]   [pdf] [04:12:03] #016 download invalid: b'%PDF-1.3'
+[10-17 21:12:03]   book 016: failed this attempt
+[10-17 21:12:03]   sleeping 81 s
+[10-17 21:13:24] book 017 (queue position 3/5)
+[10-17 21:26:22]   [pdf] [04:26:22] #017 download invalid: b'%PDF-1.4'
+[10-17 21:26:22]   book 017: failed this attempt
+[10-17 21:26:22]   sleeping 64 s
+[10-17 21:27:27] book 030 (queue position 4/5)
+[10-17 21:28:44]   [epub] [04:28:44] #030 no files for query
+[10-17 21:28:44]   book 030: no epub on mirror, trying pdf
+[10-17 21:29:54]   [pdf] [04:29:54] #030 no files for query
+[10-17 21:29:54]   book 030: no_result on mirror (epub+pdf)
+[10-17 21:29:54]   book 030: failed this attempt
+[10-17 21:29:54]   sleeping 81 s
+[10-17 21:31:15] book 041 (queue position 5/5)
+[10-17 21:32:27]   [epub] [04:32:27] #041 no files for query
+[10-17 21:32:27]   book 041: no epub on mirror, trying pdf
+[10-17 21:44:28]   book 041: no_result on mirror (epub+pdf)
+[10-17 21:44:28]   book 041: failed this attempt
+[10-17 21:44:28] queue cycle complete
+[10-17 21:44:28] book 009 (queue position 1/5)
+[10-17 21:45:13]   [epub] [04:45:13] #009 no epub result row
+[10-17 21:45:13]   book 009: no epub on mirror, trying pdf
+[10-17 21:46:31]   [pdf] [04:46:31] #009 download invalid: b'%PDF-1.4'
+[10-17 21:46:31]   book 009: failed this attempt
+[10-17 21:46:31]   sleeping 51 s
+[10-17 21:47:22] book 016 (queue position 2/5)
+[10-17 21:48:06]   [epub] [04:48:06] #016 ads page has no GET link
+[10-17 21:49:01]   [pdf] [04:49:01] #016 download invalid: b'%PDF-1.3'
+[10-17 21:49:01]   book 016: failed this attempt
+[10-17 21:49:01]   sleeping 60 s
+[10-17 21:50:01] book 017 (queue position 3/5)
+[10-17 21:50:32]   [epub] [04:50:32] #017 no epub result row
+[10-17 21:50:32]   book 017: no epub on mirror, trying pdf
+[10-17 22:02:32]   book 017: no_result on mirror (epub+pdf)
+[10-17 22:02:32]   book 017: failed this attempt
+[10-17 22:02:32]   sleeping 62 s
+[10-17 22:03:35] book 030 (queue position 4/5)
+[10-17 22:04:47]   [epub] [05:04:47] #030 no files for query
+[10-17 22:04:47]   book 030: no epub on mirror, trying pdf
+[10-17 22:05:57]   [pdf] [05:05:57] #030 no files for query
+[10-17 22:05:57]   book 030: no_result on mirror (epub+pdf)
+[10-17 22:05:57]   book 030: failed this attempt
+[10-17 22:05:57]   sleeping 77 s
+[10-17 22:07:15] book 041 (queue position 5/5)
+[10-17 22:08:25]   [epub] [05:08:25] #041 no files for query
+[10-17 22:08:25]   book 041: no epub on mirror, trying pdf
+[10-17 22:09:34]   [pdf] [05:09:34] #041 no files for query
+[10-17 22:09:34]   book 041: no_result on mirror (epub+pdf)
+[10-17 22:09:34]   book 041: failed this attempt
+[10-17 22:09:34] queue cycle complete
+[10-17 22:09:34] book 009 (queue position 1/5)
+[10-17 22:10:03]   [epub] [05:10:03] #009 no epub result row
+[10-17 22:10:03]   book 009: no epub on mirror, trying pdf
+[10-17 22:11:28]   [pdf] [05:11:28] #009 download invalid: b'%PDF-1.4'
+[10-17 22:11:28]   book 009: failed this attempt
+[10-17 22:11:28]   sleeping 70 s
+[10-17 22:12:38] book 016 (queue position 2/5)
+[10-17 22:13:27]   [epub] [05:13:27] #016 download invalid: b'%PDF-1.6'
+[10-17 22:14:22]   [pdf] [05:14:22] #016 download invalid: b'%PDF-1.3'
+[10-17 22:14:22]   book 016: failed this attempt
+[10-17 22:14:22]   sleeping 62 s
+[10-17 22:15:24] book 017 (queue position 3/5)
+[10-17 22:15:53]   [epub] [05:15:53] #017 no epub result row
+[10-17 22:15:53]   book 017: no epub on mirror, trying pdf
+[10-17 22:17:36]   [pdf] [05:17:36] #017 download invalid: b'%PDF-1.4'
+[10-17 22:17:36]   book 017: failed this attempt
+[10-17 22:17:36]   sleeping 77 s
+[10-17 22:18:53] book 030 (queue position 4/5)
+[10-17 22:20:04]   [epub] [05:20:04] #030 no files for query
+[10-17 22:20:04]   book 030: no epub on mirror, trying pdf
+[10-17 22:21:13]   [pdf] [05:21:13] #030 no files for query
+[10-17 22:21:13]   book 030: no_result on mirror (epub+pdf)
+[10-17 22:21:13]   book 030: failed this attempt
+[10-17 22:21:13]   sleeping 46 s
+[10-17 22:21:59] book 041 (queue position 5/5)
+[10-17 22:23:07]   [epub] [05:23:07] #041 no files for query
+[10-17 22:23:07]   book 041: no epub on mirror, trying pdf
+[10-17 22:24:17]   [pdf] [05:24:17] #041 no files for query
+[10-17 22:24:17]   book 041: no_result on mirror (epub+pdf)
+[10-17 22:24:17]   book 041: failed this attempt
+[10-17 22:24:17] queue cycle complete
+[10-17 22:24:17] book 009 (queue position 1/5)
+[10-17 22:24:43]   [epub] [05:24:43] #009 no epub result row
+[10-17 22:24:43]   book 009: no epub on mirror, trying pdf
+[10-17 22:26:01]   [pdf] [05:26:01] #009 ads page has no GET link
+[10-17 22:26:01]   book 009: failed this attempt
+[10-17 22:26:01]   sleeping 57 s
+[10-17 22:26:58] book 016 (queue position 2/5)
+[10-17 22:27:52]   [epub] [05:27:52] #016 download invalid: b'%PDF-1.6'
+[10-17 22:28:52]   [pdf] [05:28:52] #016 download invalid: b'%PDF-1.3'
+[10-17 22:28:52]   book 016: failed this attempt
+[10-17 22:28:52]   sleeping 45 s
+[10-17 22:29:37] book 017 (queue position 3/5)
+[10-17 22:30:14]   [epub] [05:30:14] #017 no epub result row
+[10-17 22:30:14]   book 017: no epub on mirror, trying pdf
+[10-17 22:31:44]   [pdf] [05:31:44] #017 download invalid: b'%PDF-1.4'
+[10-17 22:31:44]   book 017: failed this attempt
+[10-17 22:31:44]   sleeping 79 s
+[10-17 22:33:03] book 030 (queue position 4/5)
+[10-17 22:34:16]   [epub] [05:34:16] #030 no files for query
+[10-17 22:34:16]   book 030: no epub on mirror, trying pdf
+[10-17 22:35:24]   [pdf] [05:35:23] #030 no files for query
+[10-17 22:35:24]   book 030: no_result on mirror (epub+pdf)
+[10-17 22:35:24]   book 030: failed this attempt
+[10-17 22:35:24]   sleeping 68 s
+[10-17 22:36:32] book 041 (queue position 5/5)
+[10-17 22:37:41]   [epub] [05:37:41] #041 no files for query
+[10-17 22:37:41]   book 041: no epub on mirror, trying pdf
+[10-17 22:38:52]   [pdf] [05:38:52] #041 no files for query
+[10-17 22:38:52]   book 041: no_result on mirror (epub+pdf)
+[10-17 22:38:52]   book 041: failed this attempt
+[10-17 22:38:52] queue cycle complete
+[10-17 22:38:52] book 009 (queue position 1/5)
+[10-17 22:39:24]   [epub] [05:39:24] #009 no epub result row
+[10-17 22:39:24]   book 009: no epub on mirror, trying pdf
+[10-17 22:40:50]   [pdf] [05:40:50] #009 download invalid: b'%PDF-1.4'
+[10-17 22:40:50]   book 009: failed this attempt
+[10-17 22:40:50]   sleeping 52 s
+[10-17 22:41:42] book 016 (queue position 2/5)
+[10-17 22:42:34]   [epub] [05:42:34] #016 download invalid: b'%PDF-1.6'
+[10-17 22:43:41]   [pdf] [05:43:41] #016 download invalid: b'%PDF-1.3'
+[10-17 22:43:41]   book 016: failed this attempt
+[10-17 22:43:41]   sleeping 78 s
+[10-17 22:44:59] book 017 (queue position 3/5)
+[10-17 22:58:04]   [pdf] [05:58:04] #017 download invalid: b'%PDF-1.4'
+[10-17 22:58:04]   book 017: failed this attempt
+[10-17 22:58:04]   sleeping 59 s
+[10-17 22:59:03] book 030 (queue position 4/5)
+[10-17 23:00:16]   [epub] [06:00:16] #030 no files for query
+[10-17 23:00:17]   book 030: no epub on mirror, trying pdf
+[10-17 23:01:27]   [pdf] [06:01:27] #030 no files for query
+[10-17 23:01:27]   book 030: no_result on mirror (epub+pdf)
+[10-17 23:01:27]   book 030: failed this attempt
+[10-17 23:01:27]   sleeping 52 s
+[10-17 23:02:19] book 041 (queue position 5/5)
+[10-17 23:03:32]   [epub] [06:03:32] #041 no files for query
+[10-17 23:03:32]   book 041: no epub on mirror, trying pdf
+[10-17 23:05:19]   [pdf] [06:05:19] #041 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 23:05:19]   book 041: failed this attempt
+[10-17 23:05:19] queue cycle complete
+[10-17 23:05:19] book 009 (queue position 1/5)
+[10-17 23:05:45]   [epub] [06:05:45] #009 no epub result row
+[10-17 23:05:45]   book 009: no epub on mirror, trying pdf
+[10-17 23:07:56]   [pdf] [06:07:55] #009 download invalid: b'%PDF-1.4'
+[10-17 23:07:56]   book 009: failed this attempt
+[10-17 23:07:56]   sleeping 68 s
+[10-17 23:09:04] book 016 (queue position 2/5)
+[10-17 23:10:01]   [epub] [06:10:01] #016 download invalid: b'%PDF-1.6'
+[10-17 23:11:07]   [pdf] [06:11:07] #016 download invalid: b'%PDF-1.3'
+[10-17 23:11:07]   book 016: failed this attempt
+[10-17 23:11:07]   sleeping 67 s
+[10-17 23:12:14] book 017 (queue position 3/5)
+[10-17 23:13:03]   [epub] [06:13:03] #017 no epub result row
+[10-17 23:13:03]   book 017: no epub on mirror, trying pdf
+[10-17 23:14:50]   [pdf] [06:14:50] #017 download invalid: b'%PDF-1.4'
+[10-17 23:14:50]   book 017: failed this attempt
+[10-17 23:14:50]   sleeping 72 s
+[10-17 23:16:02] book 030 (queue position 4/5)
+[10-17 23:17:12]   [epub] [06:17:12] #030 no files for query
+[10-17 23:17:13]   book 030: no epub on mirror, trying pdf
+[10-17 23:18:22]   [pdf] [06:18:22] #030 no files for query
+[10-17 23:18:22]   book 030: no_result on mirror (epub+pdf)
+[10-17 23:18:22]   book 030: failed this attempt
+[10-17 23:18:22]   sleeping 62 s
+[10-17 23:19:24] book 041 (queue position 5/5)
+[10-17 23:20:44]   [epub] [06:20:44] #041 no files for query
+[10-17 23:20:44]   book 041: no epub on mirror, trying pdf
+[10-17 23:21:57]   [pdf] [06:21:57] #041 no files for query
+[10-17 23:21:58]   book 041: no_result on mirror (epub+pdf)
+[10-17 23:21:58]   book 041: failed this attempt
+[10-17 23:21:58] queue cycle complete
+[10-17 23:21:58] book 009 (queue position 1/5)
+[10-17 23:22:29]   [epub] [06:22:29] #009 no epub result row
+[10-17 23:22:29]   book 009: no epub on mirror, trying pdf
+[10-17 23:23:48]   [pdf] [06:23:48] #009 no mirror link on edition page
+[10-17 23:23:48]   book 009: failed this attempt
+[10-17 23:23:48]   sleeping 52 s
+[10-17 23:24:40] book 016 (queue position 2/5)
+[10-17 23:25:42]   [epub] [06:25:42] #016 download invalid: b'%PDF-1.6'
+[10-17 23:27:55]   [pdf] [06:27:55] #016 timeout: Timeout 86490ms exceeded.
+[10-17 23:27:55]   book 016: failed this attempt
+[10-17 23:27:55]   sleeping 79 s
+[10-17 23:29:14] book 017 (queue position 3/5)
+[10-17 23:29:44]   [epub] [06:29:44] #017 no epub result row
+[10-17 23:29:44]   book 017: no epub on mirror, trying pdf
+[10-17 23:31:37]   [pdf] [06:31:37] #017 download invalid: b'%PDF-1.4'
+[10-17 23:31:37]   book 017: failed this attempt
+[10-17 23:31:37]   sleeping 87 s
+[10-17 23:33:04] book 030 (queue position 4/5)
+[10-17 23:34:14]   [epub] [06:34:13] #030 no files for query
+[10-17 23:34:14]   book 030: no epub on mirror, trying pdf
+[10-17 23:35:31]   [pdf] [06:35:31] #030 no files for query
+[10-17 23:35:31]   book 030: no_result on mirror (epub+pdf)
+[10-17 23:35:31]   book 030: failed this attempt
+[10-17 23:35:31]   sleeping 56 s
+[10-17 23:36:28] book 041 (queue position 5/5)
+[10-17 23:37:38]   [epub] [06:37:38] #041 no files for query
+[10-17 23:37:38]   book 041: no epub on mirror, trying pdf
+[10-17 23:38:55]   [pdf] [06:38:55] #041 no files for query
+[10-17 23:38:55]   book 041: no_result on mirror (epub+pdf)
+[10-17 23:38:55]   book 041: failed this attempt
+[10-17 23:38:55] queue cycle complete
+[10-17 23:38:55] book 009 (queue position 1/5)
+[10-17 23:39:32]   [epub] [06:39:32] #009 no epub result row
+[10-17 23:39:33]   book 009: no epub on mirror, trying pdf
+[10-17 23:41:38]   [pdf] [06:41:38] #009 download invalid: b'%PDF-1.4'
+[10-17 23:41:38]   book 009: failed this attempt
+[10-17 23:41:38]   sleeping 77 s
+[10-17 23:42:55] book 016 (queue position 2/5)
+[10-17 23:44:38]   [epub] [06:44:38] #016 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[10-17 23:45:56]   [pdf] [06:45:56] #016 timeout: Locator.click: Timeout 30000ms exceeded.
+[10-17 23:45:56]   book 016: failed this attempt
+[10-17 23:45:56]   sleeping 69 s

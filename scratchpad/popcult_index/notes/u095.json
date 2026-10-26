@@ -1,0 +1,442 @@
+{
+ "book": "059 - Halo and Philosophy - Intellect Evolved",
+ "unit": "u095",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Halo and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Halo and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - UNSC Briefing.md",
+   "kind": "chapter",
+   "philosophers": [
+    "thoreau",
+    "socrates",
+    "aristotle"
+   ],
+   "concepts": [
+    "unexamined-life",
+    "aristotle-potentiality",
+    "thoreau-walden"
+   ],
+   "relation": "Fred Van Lente's introduction argues that Master Chief is deliberately an empty shell—faceless, ageless, mostly silent—so the player's identity grafted onto him brings both to life at once in Halo: Combat Evolved's opening cryo-wakeup tutorial. He frames the book with Thoreau's Walden claim that philosophy is living simplicity, mapping it onto the Chief's ascetic soldier existence, and on Socrates: a game worth playing is worth examining, since the unexamined game is not worth playing. He closes with Aristotle's potentiality and actuality: the game actualizes the Chief as a kicker of alien ass, and the book actualizes the series' social and philosophical potential."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Acknowledgements.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Eliminate Hostile Anti-Intellectual Units.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Luke Cuddy's editorial introduction traces Halo's ring structures to Larry Niven's Ringworld and Iain M. Banks's Culture orbitals, arguing the series is a genuine literature-game synthesis with a complex backstory (Forerunners, the Covenant, Halo fiction) and not just mindless alien shooting. He accuses Roger Ebert of committing a straw man against videogames as art—judging them from online clips without ever playing—and holds that critics owe any phenomenon a full, honest interpretation before condemning it. The chapter closes by laying out the book's guiding questions (camping, music, Plato, AI, war, Buddhism, Foucault) and warns that philosophy often explores rather than settles them."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Easy . . . er.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Mastering the Chief.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plutarch",
+    "locke",
+    "reid",
+    "hobbes"
+   ],
+   "concepts": [
+    "personal-identity",
+    "ship-of-theseus",
+    "locke-personal-identity"
+   ],
+   "relation": "Joyce Havstad asks which of the millions of player-instantiated Master Chiefs is real, and whether the flash-cloned John left behind on Eridanus II is the same boy. She runs the Ship of Theseus on the MJOLNIR armor—a technician rebuilds a second suit from every replaced piece—contrasting material with historical continuity, and adds Hobbes's reassembled-planks version. Locke's prince-and-cobbler memory criterion is reconstructed across John, John-117, and Master Chief, then broken by Reid's brave-officer objection, leaving psychological continuity as the best but imperfect criterion; the Flood's conversion of a Covenant soldier into a Combat Form shows identity lost once original sentience is gone."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Stoic Warrior.md",
+   "kind": "chapter",
+   "philosophers": [
+    "camus",
+    "epictetus"
+   ],
+   "concepts": [
+    "the-absurd",
+    "sisyphus",
+    "dichotomy-of-control"
+   ],
+   "relation": "Jeff Sharpless imagines a Spartan mourning Kurt-051 and asking what his abduction, augmentation, and endless war mean, concluding his life is absurd in Camus's sense: bred as an instrument by the very humanity he is celebrated for saving. Camus's Sisyphus supplies one answer—meaning in the defiant moment of turning back down the hill, which recasts Master Chief's 'I need a weapon' as either hollow absurdity or quiet revolt. Epictetus supplies the alternative: distinguish what is up to us from what is not, withhold assent from impressions like 'we are all going to die,' and the Chief's silence becomes Stoic tranquility—though the chapter concedes Stoicism risks minimizing the injustice done to the Spartan children."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Guardian Training.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "socrates"
+   ],
+   "concepts": [
+    "plato-cave",
+    "plato-forms"
+   ],
+   "relation": "Roger Travis argues Plato would welcome Halo as guardian training: mimesis is really 'playing epic pretend,' and Halo, like the Homeric epics that were Athens' textbooks, trains players in a way of life. Plato's Republic Book 10 critique—the painted bed as copy of a copy of the Form of Bed—warns that playing Master Chief could let appetite rule, yet the Laws' admission that the ideal city's politeia is itself a mimesis turns the tables: the Republic is its own training simulation of philosophic pretend. Re-imagining the cave as prisoners tied to couches playing Super Mario Bros, he argues Halo's dutiful NPCs and waking-to-duty player (literal cryo-wakeups in Combat Evolved and Halo 3) make it philosophy in Plato's own sense, with Aristotle's catharsis leavening the verdict."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Just Dust and Echoes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Monica Evans asks whether Halo is genuine science fiction or only its iconography—spaceships, aliens, a ringworld borrowed from Niven and Banks—and uses Half-Life 2's City 17 as the contrast case of a game that makes players live its questions about humanity. She finds Halo: Combat Evolved full of trappings but thin on philosophy, its two most human characters being the AIs Cortana and 343 Guilty Spark, whose cheerful willingness to wipe out all sentient life while treasuring archived records marks a truly alien intelligence. Halo 2 gains substance by humanizing the Covenant—the Arbiter's fall and crisis of faith, the Prophets' scheming, the Gravemind's politicking—while the sacrifice arcs of Keyes and Johnson and the Chief's Arthurian ending pull the series toward fantasy as much as science fiction."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Normal.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Uncertainty, the Dark Side of Learning.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Sébastien Hock-Koon recounts finishing Halo on legendary as a game-design student and what it taught him: progression is not one FPS skill but a vocabulary of independent skills (aiming, grenading, weapon-switching, melee) that each player assembles in a self-chosen order, per Gee's Multiple Route Principle. Weapons like the Needler and plasma grenades reveal their real worth only in heroic and legendary play, so gameplay depth is knowledge discovered through practice, and the two-weapon limit makes players stop, think, and care about load-outs ahead of the Hunters in the Truth and Reconciliation. Two emergent moments—a lucky stealth kill on an Elite and reading a Jackal's fire pattern—show Halo's scripted-but-not-fully-scripted design, and he concludes that learning in Halo is essentially uncertain because the game lets you win while understanding almost nothing."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Sound, Music, and Vision.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "philosophy-of-music"
+   ],
+   "relation": "Ben Abraham asks why Halo 2's music cannot keep up with a speedrun like Cody Miller's: Martin O'Donnell's pre-composed, linear scores have only an accidental 'forced marriage' with unpredictable player action, and cinematic scoring (the Psycho shower scene) would demand sacrificing agency as Guitar Hero and Rez do. Surveying definitions of music—Plato's song of words, mode, and rhythm in Republic Book 2, Schafer's Apollonian versus Dionysian origin myths, and African and gamelan challenges to the Western score-centered 'work'—he argues the incompatibility dissolves if music is redefined broadly. Halo 2's sound effects turn out to be secretly musical: the Covenant carbine's zoom sounds a perfect fourth (G-flat to D-flat), the plasma pistol charges to B-flat—pitched, rhythmic design already synchronized to onscreen action, bridging music and interactivity."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Where Parfit Went Wrong.md",
+   "kind": "chapter",
+   "philosophers": [
+    "parfit",
+    "locke",
+    "williams",
+    "putnam",
+    "chalmers",
+    "clark"
+   ],
+   "concepts": [
+    "personal-identity",
+    "parfit-teleportation",
+    "extended-mind"
+   ],
+   "relation": "Peter Ludlow and Chiara Repetti-Ludlow read Red vs. Blue as an intuition pump for personal identity, running through Locke's prince-and-cobbler, Bernard Williams's duplicated Guy Fawkes, Shoemaker's brain transplant, and Wiggins's split brain before aiming at Parfit. Project Freelancer's Director fractures the Alpha AI into fragments (Epsilon's memories, Omega's rage) recombined into the Meta, and they argue intuitions break against Parfit here: psychological continuity via small fractured pieces—unlike Parfit's fission into two substantial halves—does not secure the source's survival. Church's disembodied AI existence and the ever-present agent-AI voice (Agent Washington driven mad by Epsilon) illustrate Putnam's 'soul stuff' and the extended-mind hypothesis of Chalmers and Clark better than Chalmers waving his iPhone."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Halo as a Catalyst for a Buddhism Videogame.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis",
+    "leibniz",
+    "buddha"
+   ],
+   "concepts": [
+    "possible-worlds",
+    "buddhism",
+    "buddhist-non-self",
+    "four-noble-truths"
+   ],
+   "relation": "Luke Cuddy uses Halo 3 checkpoints and emulator save states—two mutually exclusive Flood-fight outcomes both in some sense true—to make David Lewis's possible worlds and modal truth concrete, with Leibniz as the doctrine's ancestor. Halo's infinite lives make players genuinely angry, and the chapter argues this is upaya territory: like the father in the Lotus Sutra's parable of the burning house, the game promises mastery (the goat-, deer-, and ox-carts) to lure players toward something greater outside it. Master Chief becomes a Bodhisattva whose avatar slides between extension of self and other, provoking the 'who am I?' crisis that reveals the ego as empty at the ultimate level of the Two-Fold Truth, while the Dalai Lama's enemies-as-teachers turns the seven-year-old who pwns you into practice in the first two Noble Truths' suffering and anger."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Heroic.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Videogame Apocalypses and Secularism.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "faith-vs-reason",
+    "free-will-determinism",
+    "meaning-of-life"
+   ],
+   "relation": "Rachel Wagner, Tyler DeHaven, and Chris Hendrickson argue Halo satisfies the Society of Biblical Literature definition of apocalypse: revelatory narrative, otherworldly mediators (Cortana, 343 Guilty Spark), predetermined eschatology, with Master Chief as a Davidic messiah whose name John-117 echoes the Gospel of John. The Covenant's Tower-of-Babel hubris versus human secularism, and the Flood read through the Book of Enoch's Watchers, turn the story into a critique of rampant consumption and blind religion. Where traditional apocalypses are quietist—God the programmer's deterministic script, salvation not depending on human action—Halo's procedural rhetoric hands agency to the player as messiah, and the chapter closes asking whether videogame apocalypse offers only temporary, magic-circle comfort for secular angst in a morally relativist age."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Who Me.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Michael Jenkins argues that playing Halo—especially willingly queueing into losing matches and dying repeatedly at the same spot—has the structure of non-suicidal self-injurious behavior: repetitive, low-lethality, non-fatal self-harm functioning as 'morbid self-help.' He maps Nock and Prinstein's four reinforcement functions onto gaming: automatic-negative (blowing off steam), automatic-positive (replacing loneliness with anger), social-negative (escapism from homework, parents, spouses), and social-positive (the attention of a headset full of nerdrage). Because players bond with the avatar and anonymity hides the behavior, Halo delivers SIB's self-medication and endorphin release without scars—which is exactly why, he ends, you should ask yourself why you keep hitting 'Find Game.'"
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Challenge to (Dis)connect.md",
+   "kind": "chapter",
+   "philosophers": [
+    "berkeley"
+   ],
+   "concepts": [
+    "berkeley-idealism"
+   ],
+   "relation": "Patrick Tiernan reads the fantasy of 'I am playing Halo' through Huizinga's play circle and Caillois's mimicry—players temporarily shed their personality for Master Chief's—then through Lacan, whose mirror stage and ideal ego explain projecting oneself onto the Chief's concealing mirrored visor, while Jungian archetypes (persona, animus/anima, self) make Chief, Cortana, and the Covenant resonate like people we know. Berkeley's 'to be is to be perceived' captures a gameworld that exists only as perceived, warning that escapist perception can dull players to real conflict in the Middle East and Africa. Teilhard de Chardin's noosphere—the true ego growing in inverse proportion to egoism—offers the social antidote, so escapism is healthy only if the player can still disconnect and remember it is only a game."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Turnabout’s Fair Play.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "game-theory"
+   ],
+   "relation": "Galen Foresman argues the war on campers dissolves once equivocation is cleared away: camping is just strategic positioning held over time, legitimate when it serves the game type (guarding the flag) and self-defeating when it does not. Game theory sharpens the point—waiting is a dominant strategy in slayer, so two smart players camp forever and never meet, making campers egocentric free riders who profit from the risk-takers who keep the game alive. Spawn camping, though, still produces a winner, so under the winning covering value it is the smartest play; objections that victory should require aim-skill, or that camping ruins other game types, turn out to be the unshared preferences of the unskillful, since 'fairness is a concept trotted out primarily by the losers.'"
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Legendary.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Silence of the Rookie.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "cicero",
+    "augustine",
+    "aquinas",
+    "clausewitz"
+   ],
+   "concepts": [
+    "just-war-theory"
+   ],
+   "relation": "Shane Fliger pairs Halo's two playable humans as two visions of war. Master Chief—knight-like MJOLNIR armor, right intent in a genocidal war of survival, proportionality against the Covenant, and the responsible refusal of 343 Guilty Spark's order to fire Halo—embodies the Just War Theory of Aristotle, Cicero, Augustine, and Aquinas, its jus ad bellum and jus in bello. The Rookie of Halo 3: ODST—unshielded, motion-trackerless, silent in a shattered New Mombasa, striking from shadows with a suppressed SMG and VISR-tagged targets—instead fights Clausewitz's absolute war of escalating force blended with Ludendorff's unrestrained total war, and Fliger concludes only the two together give players a complete picture of warfare."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Expansive Gameplay as Simulation.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "deleuze"
+   ],
+   "concepts": [
+    "power-knowledge"
+   ],
+   "relation": "Felan Parker coins 'expansive gameplay' for players adding optional rules inside Halo's fixed rules—speed runs, Pacifist and Zero Shots runs, the player-invented Zombie mode later made official as Infection, and Warthog jeep jumping over the Silent Cartographer archway. This mirrors Foucault's late ethics of aesthetic self-fashioning: within the constraints of Power-Knowledge, imposing personal optional rules makes existence a work of art, which Deleuze summarizes as rules 'at once ethical and aesthetic' inventing new possibilities of life. Parker tests three readings—expansive gameplay as metaphor for self-fashioning, as a genuine practice of freedom when players problematize Halo's militarist hero worship (the Pacifist Run), and finally as a simulation of rule-based systems letting players rehearse self-fashioning at a safe scale, with the gloomy alternative that it merely replaces real practices of freedom."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Would Cortana Pass the Turing Test.md",
+   "kind": "chapter",
+   "philosophers": [
+    "turing",
+    "searle"
+   ],
+   "concepts": [
+    "turing-test",
+    "chinese-room"
+   ],
+   "relation": "Sherol Chen asks whether Cortana would pass the Turing Test and answers that games need believability of behavior, not constitution of mind. Turing's imitation game sets the target; Searle's Chinese Room shows that performance without understanding suffices for the player's experience of Covenant AI and Cortana alike, while French's seagull test and associative-priming objection show the Turing Test really measures human-style intelligence—limits Halo happily ignores. Surveying game-storytelling workarounds (amnesia openings, Planescape's immortal death, Bioshock's 'Would you kindly'), she argues designers convert paidia's limits into narrative features, and Cortana would pass here and now—though in her own era newer tests would expose new limits."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - UNSC Debriefing.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Roger Ngim's closing piece traces how First Person Shooters changed gamespace: Halloween's killer-POV shots first placed him inside a filmic world, and Doom added the startling awareness of a 'behind me'—space that exists even when unrendered on screen, populated by rules and code rather than photographed sets. He punctures 'immersion' as a marketing term, contrasting the honest low-res reductionism of Atari-era games with film and games converging on the holodeck dream and 3D cinema. The upshot is phenomenological: FPS worlds are places to be rather than things to behold—and something may still be sneaking up behind you."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - UNSC Personnel.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Halo and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 8,
+   "type": "concept",
+   "suggested_slug": "straw-man-fallacy",
+   "name": "The Straw Man Fallacy",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "An informal fallacy in which an opponent's position or a phenomenon is distorted into a weaker caricature that is then refuted.",
+   "why": "Chapter 8 argues Roger Ebert's verdict against videogames as art attacks a straw man, judging Halo from online clips without ever playing it."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "platonic-mimesis",
+   "name": "Mimesis (imitation as playing pretend)",
+   "philosopher": "plato",
+   "domain": "ancient",
+   "what": "Plato's notion of pretend-performance, attacked in Republic Book 10 as copying that shapes character for the worse, yet reclaimed in the Laws as the ideal city's own educational art.",
+   "why": "Chapter 12's entire argument is that Halo is mimesis—epic pretend that trains players in nobility like Homeric epic trained Athenians—so no existing Plato slug covers its core concept."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "philosophy-of-music",
+   "name": "Philosophy of Music (what makes sound music)",
+   "philosopher": "",
+   "domain": "kant-german-idealism",
+   "what": "The aesthetics question of what defines music—whether organized sound requires words, tonal centers, notation, or the Western concept of a musical 'work.'",
+   "why": "Chapter 16 argues Halo 2's linear scores sit uneasily with interactivity and resolves this only by expanding the very definition of music to include pitched, rhythmic sound effects."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "magic-circle",
+   "name": "The Magic Circle of Play",
+   "philosopher": "",
+   "domain": "kant-german-idealism",
+   "what": "Johan Huizinga's idea from Homo Ludens that play occurs in a marked-off, rule-governed temporary world apart from ordinary life, like a temple or ritual space.",
+   "why": "Chapter 20 frames both religious apocalypse and the Halo universe as magic circles, and chapter 22 builds its play-as-escapism analysis on the same Huizinga passage."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "procedural-rhetoric",
+   "name": "Procedural Rhetoric",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Ian Bogost's term for how rule-based systems make arguments—the logics a program enforces define a 'possibility space' that persuades its users.",
+   "why": "Chapter 20 compares God's predetermined apocalyptic script to a game's procedural rhetoric, treating theology as the ultimate rule-based design."
+  },
+  {
+   "ch": 22,
+   "type": "philosopher",
+   "suggested_slug": "lacan",
+   "name": "Jacques Lacan",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "French psychoanalyst who divided the psyche into the real, imaginary, and symbolic orders and described the mirror stage as the ego's formation through identification with an image.",
+   "why": "Chapter 22 uses the mirror stage and the ideal ego to explain players projecting themselves onto Master Chief's concealing mirrored helmet."
+  },
+  {
+   "ch": 22,
+   "type": "philosopher",
+   "suggested_slug": "jung",
+   "name": "Carl Jung",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "Swiss psychoanalyst whose collective unconscious generates archetypes—persona, anima/animus, self—that recur across myths, dreams, and literature.",
+   "why": "Chapter 22 reads Master Chief, Cortana, and the Covenant as Jungian archetypes mirroring the relationships of players' everyday lives."
+  },
+  {
+   "ch": 22,
+   "type": "philosopher",
+   "suggested_slug": "teilhard-de-chardin",
+   "name": "Pierre Teilhard de Chardin",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Jesuit philosopher-paleontologist who envisioned evolution converging on the noosphere, a unified sphere of human consciousness drawn toward the Omega point.",
+   "why": "Chapter 22 invokes the noosphere—'the true ego grows in inverse proportion to egoism'—as the social antidote to the isolating individualism of Halo culture."
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "game-theory",
+   "name": "Game Theory (dominant strategies and free riders)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The formal study of strategic choice, including dominant strategies that are best regardless of what an opponent does and the free-rider problems they create.",
+   "why": "Chapter 23 argues camping is a dominant strategy in slayer matches that turns non-campers into exploited risk-takers, reframing the whole fairness debate about spawn camping."
+  },
+  {
+   "ch": 25,
+   "type": "philosopher",
+   "suggested_slug": "clausewitz",
+   "name": "Carl von Clausewitz",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Prussian officer and military theorist whose On War analyzes 'absolute war' as the reciprocal escalation of force, disarmament, and exertion between belligerents.",
+   "why": "Chapter 25 reads the Rookie's ODST campaign as Clausewitzian absolute war blended with Ludendorff's total war, set against Master Chief's idealized Just War."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "aesthetic-self-fashioning",
+   "name": "Aesthetic Self-Fashioning (care of the self)",
+   "philosopher": "foucault",
+   "domain": "political-social",
+   "what": "Foucault's late ethics in which individuals impose optional rules on themselves—ethical substance, mode of subjection, ethical work, telos—making life a work of art within power's constraints.",
+   "why": "Chapter 26 argues expansive gameplay like Halo speed runs, Pacifist runs, and Zombie rules mirrors, enacts, or simulates exactly this practice of freedom, and no existing Foucault slug covers it."
+  }
+ ]
+}

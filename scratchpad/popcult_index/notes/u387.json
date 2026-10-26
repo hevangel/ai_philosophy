@@ -1,0 +1,284 @@
+{
+  "book": "272 - Motherhood \u2013 Philosophy for Everyone - The Birth of Wisdom",
+  "unit": "u387",
+  "chapters": [
+    {
+      "n": 2,
+      "file": "ch02 - MOTHERHOOD.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 3,
+      "file": "ch03 - MOTHERHOOD.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 4,
+      "file": "ch04 - MOTHERHOOD.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 5,
+      "file": "ch05 - MOTHERHOOD.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 6,
+      "file": "ch06 - MOTHERHOOD.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 7,
+      "file": "ch07 - MOTHERHOOD.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 8,
+      "file": "ch08 - MOTHERHOOD.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 9,
+      "file": "ch09 - MOTHERHOOD.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 10,
+      "file": "ch10 - MOTHERHOOD.md",
+      "kind": "chapter",
+      "philosophers": ["kant"],
+      "concepts": [],
+      "relation": "Lintott's editor's introduction argues that motherhood is a site of serious philosophical significance rather than 'navel-gazing,' organizing the anthology's essays around Kant's three questions from the Critique of Pure Reason \u2013 what can I know, what ought I to do, what may I hope. She recasts these as the daily questions of contemporary mothers (about knowledge, ethical choices like breastfeeding or lying, and existential/spiritual meaning) and draws on Sara Ruddick's 'maternal thinking' to insist mothers are thinking beings. It is a framing essay connecting lived mothering to canonical philosophy rather than to a single pop-culture work."
+    },
+    {
+      "n": 11,
+      "file": "ch11 - MOTHERHOOD.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 12,
+      "file": "ch12 - MOTHERHOOD.md",
+      "kind": "chapter",
+      "philosophers": ["dewey"],
+      "concepts": ["pragmatism", "dewey-experience"],
+      "relation": "Sue Ellen Henry uses John Dewey's pragmatism, especially The Quest for Certainty and Democracy and Education, to diagnose her own 'quest for certainty' as a new mother mediating expert parenting books against her own instincts. She argues Dewey's rejection of the false dichotomy between knowledge and belief shows that a mother's home is her 'laboratory,' where experience is itself a form of knowledge; her La Leche League experience models Dewey's integrated, feedback-driven inquiry against the isolating authority of 'scientific motherhood' texts."
+    },
+    {
+      "n": 13,
+      "file": "ch13 - MOTHERHOOD.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "mill", "augustine"],
+      "concepts": ["categorical-imperative", "kant-humanity-formula", "utilitarianism"],
+      "relation": "Amy Kind examines the pervasiveness of parents lying to children (her own 'Bad Dream Spray') against Augustine's and Kant's absolute prohibition of lying, Mill's utilitarian permissiveness, and Sissela Bok's principle of veracity. She applies Kant's categorical imperative and formula of humanity \u2013 treating persons never merely as means \u2013 to argue that because young children have not fully developed their rational natures, the Kantian wrong of lying is mitigated, while illustrating the debate with South Park's Kyle reading Descartes, A Few Good Men's 'you can't handle the truth,' and Seinfeld's George Costanza ('it's not a lie if you believe it')."
+    },
+    {
+      "n": 14,
+      "file": "ch14 - MOTHERHOOD.md",
+      "kind": "chapter",
+      "philosophers": ["thomson", "kant"],
+      "concepts": ["thomson-violinist", "kant-humanity-formula"],
+      "relation": "Bertha Alvarez Manninen reconciles her deepened respect for fetal life (after seeing her daughter on ultrasound) with a pro-choice stance by deploying Judith Jarvis Thomson's violinist thought experiment and the real McFall v. Shimp bodily-integrity ruling. She argues that even granting the fetus full personhood, no one's right to life entitles them to another's body, buttressing this with Kant's formula of humanity that a woman must not be reduced to a mere incubating means, and calls for American mizuko-kuyo-style grieving rituals so 'pro-choice' is not conflated with 'pro-abortion.'"
+    },
+    {
+      "n": 15,
+      "file": "ch15 - MOTHERHOOD.md",
+      "kind": "chapter",
+      "philosophers": ["butler", "hooks"],
+      "concepts": ["gender-performativity"],
+      "relation": "Kim Anno recounts raising an intensely masculine adopted African-American son, Zack, as a lesbian mother, using Judith Butler's account of gender and desire (from Undoing Gender) and bell hooks's We Real Cool on black masculinity to interrogate the social construction of gender against Zack's seemingly 'hardwired' boyness. She reads his gendered choices in toys, clothes, and music (Black Eyed Peas hip-hop, Black Sabbath's 'Iron Man,' the Rocky theme) and his racialized treatment through these lenses, contrasting his family with the rigid gender scripts of I Love Lucy and The Jetsons and her own parents' Who's Afraid of Virginia Woolf dynamic."
+    },
+    {
+      "n": 16,
+      "file": "ch16 - MOTHERHOOD.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 17,
+      "file": "ch17 - MOTHERHOOD.md",
+      "kind": "chapter",
+      "philosophers": ["beauvoir", "sartre"],
+      "concepts": ["ethics-of-ambiguity", "existentialism", "sartre-freedom"],
+      "relation": "Elizabeth Butterfield reads her exhausting early motherhood through Simone de Beauvoir's The Ethics of Ambiguity and The Second Sex, arguing that 'the ideal mother,' like 'true womanhood,' is a social construction and that a mother is 'freedom in situation,' never a mother 'the way a stone is a stone.' She recasts Beauvoir's 'serious man' as the 'serious mother' who flees her freedom into the Motherhood Religion, and invokes Sartre's 'condemned to be free' and 'Hell is other people' (No Exit) to advocate the honest, self-aware 'genuine mother' over inauthentic self-sacrifice."
+    },
+    {
+      "n": 18,
+      "file": "ch18 - MOTHERHOOD.md",
+      "kind": "chapter",
+      "philosophers": ["buddha", "bentham"],
+      "concepts": ["four-noble-truths", "buddhist-impermanence", "buddhist-non-self"],
+      "relation": "Sheryl Tuttle Ross applies three of the Buddhist noble truths \u2013 pain is inevitable, pain arises from attachment, suffering can end \u2013 to contemporary mothering, contrasting the Buddhist acceptance of pain with Bentham's utilitarian pleasure-maximizing. Drawing on Thich Nhat Hanh's mindfulness and the doctrines of impermanence and no-self, she offers 'mommy meditations' (breathe, become aware, recognize social scripts, respond kindly) and reads the novel I Don't Know How She Does It, whose 'Court of Motherhood' dramatizes the guilt-inducing scripts mindfulness helps mothers see through to experience beauty in ordinary moments."
+    },
+    {
+      "n": 19,
+      "file": "ch19 - MOTHERHOOD.md",
+      "kind": "chapter",
+      "philosophers": ["hume"],
+      "concepts": [],
+      "relation": "Glenn Parsons asks whether mothers really perceive their own infants as more beautiful (cuter) than others do, and if so whether that taste is defective. He applies David Hume's 'Of the Standard of Taste' \u2013 the five marks of the 'true judge,' especially freedom from prejudice \u2013 to argue that a mother's love makes her a biased, poor critic like the egotistical artist or an author's friend. But drawing on Jerrold Levinson's account of why good taste matters, he concludes that since a mother cannot 'drop her homely baby like a bad paperback,' she has no aesthetic reason to correct her loving 'distortion,' unlike someone choosing Shakespeare over Danielle Steel."
+    },
+    {
+      "n": 20,
+      "file": "ch20 - MOTHERHOOD.md",
+      "kind": "chapter",
+      "philosophers": ["plato", "socrates"],
+      "concepts": ["plato-forms"],
+      "relation": "Laura Newhart narrates coming to know Kevin, her son adopted from Guatemala, first through monthly photographs and then in person, repeatedly finding her interpretations 'fuzzy and incomplete.' She frames this epistemic problem with Plato's Republic \u2013 Socrates' hierarchy in which a two-dimensional image is inferior in being and truth to the physical object, which is inferior to the eternal Form or soul \u2013 concluding that because we are bound to changing physical bodies, the soul is hardest to know, so she and Kevin may never fully know each other, a shared condition rather than a failure."
+    },
+    {
+      "n": 21,
+      "file": "ch21 - MOTHERHOOD.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 22,
+      "file": "ch22 - MOTHERHOOD.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["care-ethics", "applied-ethics"],
+      "relation": "Chris Mulford, a nurse and lactation consultant, analyzes infant feeding as an ethical question of rights, duties, and responsibilities, drawing on a feminist ethic of care and the claim that women learn empathy through caregiving (linked to oxytocin's role in birth and nursing). She argues that the right at stake is the mother-child dyad's 'protection from interference' with breastfeeding, that no mother is saddled with a solitary duty to breastfeed, and that the duty toward breastfeeding falls on the whole community; she frames the mother's dependency on 'the kindness of strangers' via A Streetcar Named Desire and the innate 'breast crawl.'"
+    },
+    {
+      "n": 23,
+      "file": "ch23 - MOTHERHOOD.md",
+      "kind": "chapter",
+      "philosophers": ["gilligan"],
+      "concepts": ["care-ethics", "objectification"],
+      "relation": "Maureen Sander-Staudt uses a feminist ethic of care \u2013 especially Carol Gilligan's mole-and-porcupine fable of reciprocal accommodation \u2013 to argue that pressuring women to nurse privately or covered imposes 'lactational burkas.' She runs public breastfeeding through the Miller obscenity test to show it is not obscene, opening with Gloria Steinem's 'If men could menstruate' to imagine 'milkmen,' and cites the Emily Gillette Freedom-flight ejection, Facebook's photo removal, the Janet Jackson Superbowl scandal, and PETA's human-milk proposal to expose hypocritical, biologically reductive double standards about the female breast."
+    },
+    {
+      "n": 24,
+      "file": "ch24 - MOTHERHOOD.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["utilitarianism", "deontology", "virtue-ethics"],
+      "relation": "Kevin and Janet Elliott argue that letting infants 'cry it out' (as advocated by Ferber and Weissbluth) is ethically problematic because all three major ethical theories \u2013 utilitarianism, deontology, and virtue ethics \u2013 condemn causing a child extended distress absent overriding reasons, with virtue ethics' compassion making the strongest case. They rebut claims that the crying causes little suffering and that co-sleeping is unsafe or ruins parental sleep, concluding that co-sleeping (historically near-universal) is often the ethically preferable alternative while stressing that the right choice varies by family and child."
+    },
+    {
+      "n": 25,
+      "file": "ch25 - MOTHERHOOD.md",
+      "kind": "chapter",
+      "philosophers": ["montaigne", "seneca"],
+      "concepts": ["stoicism", "virtue-ethics", "social-darwinism"],
+      "relation": "Jen Baker interrogates why unmedicated 'natural' childbirth is treated as morally superior, dissecting five senses of 'natural' and rejecting each, including a social-Darwinist appeal to evolution she deems dangerous. She engages Montaigne (via Cicero) on philosophizing as learning to die and cites Dylan Thomas and Neil Young on facing pain soberly, then turns to the Stoics' claim that pain 'is nothing to us' \u2013 arguing from a neo-Aristotelian/Stoic virtue ethics that pain has no moral value and that keeping one's wits with an epidural can preserve moral agency, so natural birth is an 'optional and amoral' thrill, not a virtue; she frames it with Bill Cosby's and Carol Burnett's labor jokes."
+    },
+    {
+      "n": 26,
+      "file": "ch26 - MOTHERHOOD.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 27,
+      "file": "ch27 - MOTHERHOOD.md",
+      "kind": "chapter",
+      "philosophers": ["plato", "rawls"],
+      "concepts": ["plato-ring-of-gyges", "brain-in-a-vat", "veil-of-ignorance"],
+      "relation": "Sara Goering uses the fantasy of a child 'off button' as a thought experiment, situating it alongside Plato's Ring of Gyges, the brain-in-a-vat, and personal-identity puzzles to argue that such control would be overused and would treat children as objects rather than developing subjects. She then turns reflexive, critiquing thought experiments themselves \u2013 including Rawls's veil of ignorance (via Okin and Benhabib) and Susan Brison's critique of personal-identity cases \u2013 for diverting from the messy real world, arguing that the off-button fantasy really signals the need for 'distributed mothering' and structural support; she illustrates with The Matrix, Multiplicity, Harry Potter, and Woolf's 'room of one's own.'"
+    },
+    {
+      "n": 28,
+      "file": "ch28 - MOTHERHOOD.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle"],
+      "concepts": ["virtue-ethics", "aristotle-eudaimonia", "aristotle-golden-mean"],
+      "relation": "Nin Kirkham applies neo-Aristotelian virtue ethics to define the 'virtues of motherhood' as character dispositions that let a mother flourish (achieve eudaimonia) qua mother. She elaborates three virtues \u2013 endurance (commitment, selflessness, and long-view 'vision,' likened to endurance running), liberality (knowing when to let a child go), and moral exemplarity \u2013 each analyzed as an Aristotelian mean between vices of excess and deficit, and argues good mothering is learned by example and does not license judging other mothers against one's own ideal."
+    },
+    {
+      "n": 29,
+      "file": "ch29 - MOTHERHOOD.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["feminism"],
+      "relation": "Clemence Due and Damien Riggs analyze how media images of celebrity mothers reproduce Sharon Hays's 'intensive mothering' ideology, reporting a study in which students judged Jodie Foster a 'good/normal' (if 'boring') mother for domestic self-sacrifice, Angelina Jolie a 'savior' but not fully 'good' because of her career, Nicole Richie a reformed 'bad-girl-come-good-mom,' and Britney Spears ('Toxic Mummy') a 'bad' mother. They argue readers uncritically absorb and extend these gendered norms \u2013 fathers escaping such scrutiny \u2013 and call, from a feminist standpoint, for mothers to be allowed to be 'good' in many ways while pursuing other interests."
+    },
+    {
+      "n": 30,
+      "file": "ch30 - MOTHERHOOD.md",
+      "kind": "chapter",
+      "philosophers": ["aquinas", "anselm", "aristotle"],
+      "concepts": ["problem-of-evil", "care-ethics-noddings"],
+      "relation": "George Dunn asks whether classical theism can call God 'Mother,' beginning with the Book of Job (taught in his Problem of Evil course) and the divine name Shadday's link to womb-love and 'blessings of breasts and womb.' He works through Anselm's 'that than which nothing greater can be conceived,' the attributes of impassibility and incorporeality, and Aquinas's doctrine of analogy, arguing Aquinas wrongly rejected maternal God-language because he swallowed Aristotle's biology of woman as 'defective and misbegotten'; drawing on Nel Noddings's caring 'receptivity' and Julian of Norwich, Dunn contends divine impassibility should yield to a maternal, receptive God, with a nod to Homer Simpson's burrito paradox."
+    },
+    {
+      "n": 31,
+      "file": "ch31 - MOTHERHOOD.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 32,
+      "file": "ch32 - MOTHERHOOD.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 33,
+      "file": "ch33 - MOTHERHOOD.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": [
+    {
+      "ch": 19,
+      "type": "concept",
+      "suggested_slug": "hume-standard-of-taste",
+      "name": "Hume's Standard of Taste",
+      "philosopher": "hume",
+      "domain": "medieval-early-modern",
+      "what": "Hume's account, in 'Of the Standard of Taste,' that the joint verdict of qualified 'true judges' \u2013 marked by delicacy, practice, comparison, freedom from prejudice, and good sense \u2013 fixes a standard for aesthetic beauty.",
+      "why": "Chapter 7 is built entirely on this specific Humean doctrine (true judges, freedom from prejudice) to assess maternal perceptions of infant beauty, and the taxonomy has no aesthetics/taste concept attached to Hume."
+    },
+    {
+      "ch": 29,
+      "type": "concept",
+      "suggested_slug": "intensive-mothering",
+      "name": "Intensive Mothering",
+      "philosopher": "",
+      "domain": "feminism-gender-race",
+      "what": "Sharon Hays's concept that contemporary Western culture demands mothers be selfless, child-centered, and make children their unconditional first priority above career or self.",
+      "why": "Chapter 15's entire analysis of celebrity-mom media rests on 'intensive mothering' as its organizing concept, and no existing taxonomy concept captures this distinct sociological-feminist idea."
+    }
+  ]
+}

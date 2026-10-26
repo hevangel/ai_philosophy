@@ -1,0 +1,465 @@
+{
+ "book": "201 - Veronica Mars and Philosophy - Investigating the Mysteries of Life (Which Is a Bitch Until You Die)",
+ "unit": "u289",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Veronica Mars and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Series page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Title page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Copyright page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Acknowledgments.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "the-absurd",
+    "skepticism"
+   ],
+   "relation": "George Dunn's introduction pitches Veronica herself as a philosopher of the noir: her Neptune is a world where 'the innocent suffer, the guilty go free,' nothing is what it seems (a shy geek turns out to be a psychopathic rapist, a beloved baseball-owning politician a child molester), and her rendering of Pope's Essay on Man as 'Life's a bitch until you die' is answered by her practical code 'get tough and get even.' It argues that the show's marriage of truth-seeking detective work to pervasive deception makes it natural ground for philosophical investigation of Neptune's racial and class divisions, the morality of law breaking, the nature of evil, injustices suffered by women at Neptune High and Hearst College, friendship, and good reasoning, all timed to the Kickstarter-funded movie revival that inspired the volume."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Part 1 Veronica Mars is Rich Dude Kryptonite.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Acknowledgment.md",
+   "kind": "chapter",
+   "philosophers": [
+    "epictetus",
+    "sartre",
+    "schopenhauer",
+    "marcus-aurelius",
+    "aristotle"
+   ],
+   "concepts": [
+    "dichotomy-of-control",
+    "the-look",
+    "schopenhauer-pessimism",
+    "stoicism"
+   ],
+   "relation": "William Irwin diagnoses Neptune, from the 09-ers down to the PCH-ers, with status anxiety (via Alain de Botton's Status Anxiety) and prescribes the Stoic remedy: Epictetus on the insult lying in our judgment rather than the insulter, and Marcus Aurelius, the emperor who chose serenity over vengeance, show how Keith and Veronica ground self-worth in virtue no one can take away. Sartre's 'hell is other people' and the look explain how Veronica is reduced to a dumb blonde and Duncan to a murderer until he flees to Cuba, while Schopenhauer's choice between loneliness and vulgarity frames Mac's switched-at-birth longing, Wallace's basketball-bought status, and Weevil's self-made standing as PCH leader. Irwin closes by offering the show itself as Aristotelian catharsis-through-comedy, art as therapy for the viewer's own status anxiety."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - “That Community’s a Lot More Wholesome and Functional than, Just for Example, Neptune Is”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates",
+    "kant"
+   ],
+   "concepts": [
+    "social-contract",
+    "civil-disobedience",
+    "categorical-imperative"
+   ],
+   "relation": "Paul Hammond asks whether Veronica's habitual lawbreaking — switching the evidence tapes in the 'Pilot,' stealing Duncan's medical file, tricking Principal Van Clemmons — can be morally justified. He constructs a social-contract defense: Neptune's corrupt, class- and race-skewed sheriff's department under Don Lamb has failed to deliver the protection and justice that purchase citizens' obedience, releasing Veronica from her end of the bargain. Testing that defense against the Laws' speech in Plato's Crito (lawbreaking destroys the city; staying in Athens constitutes consent) and Kant's requirement that genuine law be universal, he concludes that where Neptune's civil law diverges from the moral law, Veronica's crimes can rise to a civil disobedience that is sometimes 'really just.'"
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Mea culpa.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir",
+    "bourdieu"
+   ],
+   "concepts": [
+    "binary-oppositions",
+    "woman-as-other"
+   ],
+   "relation": "Correcting her own initial dismissal of the show as Nancy Drew redux, the author argues Neptune is structured by a white/Hispanic racial binary laid over the millionaire/work-for-millionaires class binary, enforced through Logan's 'spic and span' jab at Weevil, Mr. Daniels's 'pumping his gas' insult, and the 'coconut' label for Latinos who cross over. Borrowing Saussure's binary oppositions and de Beauvoir's account of how a dominant group constructs a stigmatized Other, she shows the 09-ers defining themselves against everyone else, with teacher Daniels quietly siding with wealth against both boys. Bourdieu's cultural capital then explains why Wallace (basketball, scholarship, colorblind friendships) can cross boundaries that leave Weevil working as a janitor, and she concludes the show keeps race admirably visible in a supposedly postracial era."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Part 2 Veronica Mars is a Triple Threat—Girl, Teenager, and Private Detective.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - “Haven’t Thought of You Lately at All”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "arendt"
+   ],
+   "concepts": [
+    "banality-of-evil",
+    "moral-psychology"
+   ],
+   "relation": "George Dunn uses Dr. Kinny's mock-prison experiment at Hearst — where 'cool guy' Rafe torments Horshack, even gentle Wallace turns taunting guard, and Mercer perhaps first bonded with his future victim Moe — as a rerun of Zimbardo's Stanford prison experiment, arguing that bad situations and corrupting power, not just bad apples, produce Neptune's villains. Against pure situationism he sets Hannah Arendt's diagnosis that great evil usually requires not wicked hearts but an 'inability to think': Woody Goodman's rehearsed excuses about neglected boys and Mercer's 'I'm just taking what you would have happily given' show wrongdoers rationalizing rather than reflecting. The chapter ends by suggesting the town's gulf between 09-ers and everyone else may be the situational 'apple barrel' breeding the arrogance, entitlement, resentment, and envy behind Neptune's crime wave."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - “I Know All of This Because I Have Done Everything I Can to Get to the Truth”.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "fate-vs-free-will"
+   ],
+   "relation": "Daniel Wack reads Veronica Mars as film noir refashioned for teen television: the class-riven town without a middle class supplies the corrupt noir milieu, but the genre's gender roles are reversed, so Logan becomes the homme fatal whose drunken promise of an 'epic' love offers the redemption-through-romance the femme fatale always dangles and never delivers. Following Cavell and Pippin, he argues the characters are trapped by a fatalism they did not choose — inherited zip codes, Aaron Echolls's abuse, Jake Kane's affair with Lianne — and Logan's dream of a private, redeemed world fails because accepting it would cost Veronica the active, truth-generating detective self she built after her rape. Investigating Lilly's murder, her mother's disappearance, and her own assault, she learns the truth restores nothing, but that detective work gives her a new way to order and survive her world."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - “Even the Experts Agree, a Girl Needs Closure”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "deleuze"
+   ],
+   "concepts": [],
+   "relation": "Paul Hammond applies Deleuze's theory of time to the show's flashback aesthetic — soft focus and colored tints setting the past apart as a 'pure past' with its own reality. Voluntary recollections (Veronica and Logan recalling the Homecoming Dance against Lilly's whitewashed memorial video) and involuntary ones (the song in Duncan's car triggering Veronica's flashback to Lilly's ominous 'Watch her') dramatize Deleuze's claim, via Proust, that the past persists and that involuntary memory packs scenes with meanings they could not have had when they occurred. Because such memories always present clues that never tell the whole story, experience itself becomes a detective story, and solving Lilly's case in 'Leave It to Beaver' closes one mystery — sealed by Lilly's poolside farewell, 'Don't forget about me, Veronica' — until the next one surfaces."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Part 3 Veronica Mars Doesn't Hang with the Evil and Morally Bankrupt.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - “Do You Not Instinctively Fear Me ”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "machiavelli",
+    "seneca",
+    "plato",
+    "socrates"
+   ],
+   "concepts": [
+    "moral-psychology",
+    "punishment-theory"
+   ],
+   "relation": "George Dunn weighs Veronica's creed that 'someone's always supposed to pay' — Carrie Bishop destroying Mr. Rooks for her friend, Logan getting himself jailed to beat Mercer, Veronica forfeiting the Kane Scholarship to watch Aaron Echolls convicted — against the case against vengeance running from Socrates' 'one must never do wrong in return' through Seneca's claim that the angry are insane and Plato's subordination of thumos to reason, with the ultimatum game showing people pay to punish even at their own expense. Nietzsche's creditor-debtor account explains the payoff: punishing the offender restores the status and self-esteem that humiliation stole, turning passive grief into an active grievance like Madison's crushed-and-cubed Mercedes. Yet Machiavelli's 'much safer to be feared than loved' finally vindicates a measure of payback, since Veronica's threats are how a disgraced outsider demands the respect fickle Neptune withholds from Meg."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - “See, This Dame Walks In”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-friendship",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Catlyn Origitano sorts Veronica's relationships through Aristotle's three kinds of friendship in the Nicomachean Ethics: Keith and Cliff McCormack's referral exchange is a friendship of utility, Logan and Dick's partying a friendship of pleasure, and Wallace's bond with Veronica utility fraying into his complaint 'How about you do me a favor for once?' when reciprocity turns one-sided. Perfect friendship of virtue requires mutual trust between genuinely good people, and the chapter's audit finds no one qualifies — Wallace lies and cheats, Logan supplied the GHB and ran from the Tijuana fire, and Veronica's snooping and 'I'm not built that way' refusal to trust disqualify her too. She concludes that noir Neptune itself, where 'the people you love let you down,' may block perfect friendship, though the movie-era Veronica, retired from detection, might at last be ready for one."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Acknowledgment.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Jon Robson distinguishes trusting from merely relying — Kant's Königsberg neighbors could set their watches by his walks without being betrayed when he deviated — and defines trust, with Katherine Hawley, as relying on someone's commitments, explicit or implicit, so its violation is betrayal rather than mere disappointment. He then argues Veronica in fact trusts no one: her 'Spy vs. Spy' surveillance of Keith, her refusal of Logan's alibi ('no one has to know where you were that night, no one except me'), and her inability to take even salt-of-the-earth Piz at his word. The anti-Veronica Meryl, whose unshakable faith in Sully survives every suspicious clue, shows both the risk and the point: without Laurence Thomas's 'revealing trust' — sharing secrets and believing testimony — one can never relax or be oneself with anyone."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Part 4 Veronica Mars is No Longer That Girl.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 21,
+   "file": "ch21 - “It Was a Mistake”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "applied-ethics"
+   ],
+   "relation": "James and Mona Rocha reconstruct the night of Shelly Pomeroy's party — Logan supplying the GHB, Dick drugging Madison's drink that reached Veronica, Dick and Sean goading Cassidy — and apply a three-part test of moral responsibility (causal contribution, foreseeability, intention) to conclude Dick and Sean deserve the most blame, Logan substantial negligence, and Madison very little since she did not know the drink was drugged. Veronica's own choices, crashing an unwelcoming party and taking an unknown drink, were prudential mistakes that put only herself at risk, not the moral wrongs that generate blame, so Cassidy remains fully culpable without Veronica sharing any of it. Even Kant's duty to safeguard one's own rational agency, they concede, at most makes taking the drink wrong in itself and never grounds blaming the victim, who deserves sympathy."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - “A Pamphlet’s Not Going to Cover It”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "crenshaw",
+    "butler"
+   ],
+   "concepts": [
+    "intersectionality",
+    "gender-performativity",
+    "feminism"
+   ],
+   "relation": "Kasey Butcher and Megan Peters argue Veronica embodies a third-wave, sex-positive feminism: as jury foreman in 'One Angry Veronica' she refuses the 'Barbie' role the captain of industry assigns her; her over-the-top masquerades (flirting with store clerk Duane Anders, the temptation scenario at Patrick Nevin's door, mimicking Logan's manspreading) expose gender as a performance; and her defense of Carmen Ruiz against Tad's blackmail shows her grasp of how race, class, and gender intersect, per Kimberlé Crenshaw. Against the show's caricature of Lilith House as humorless 'feminist killjoys' picketing the Hearst rapes, they contend Veronica models a feminism that keeps femininity, sexuality, and play — refusing slut shaming while fighting for rape victims, an incest survivor, and blackmailed girls."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Getting Tough and Getting Even.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "mackinnon"
+   ],
+   "concepts": [
+    "objectification",
+    "kant-humanity-formula",
+    "mackinnon-dominance"
+   ],
+   "relation": "Jordan Pascoe uses the 'Like a Virgin' purity test — Meg's fake 48 making her a 'slut' while a low score would make a guy a stud — to argue slut shaming strips girls of Kantian personhood, treating as things those autonomous beings who must be respected as ends in themselves. Kant's bleak view of sex as a desire for a body rather than a person explains why Tad's drugging and popsicle-video blackmail of Carmen reduce her to an object, and why objectification goes viral: once an object of one person's appetite, Kant warns, a person 'can be treated and used as such by everyone.' Catherine MacKinnon's power-based account then explains the double standard — men's pleasure in forcing the world to conform turns promiscuous men into studs and promiscuous women into sluts — so the fault lies with the slut sneezers, never Meg, Carmen, or Veronica, who must 'get tough, get even' to demand respect."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Part 5 Veronica Mars is Smarter Than Me.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Acknowledgment.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [],
+   "relation": "Dereck Coatney runs Nietzsche's question about the 'will to truth' through the series: Mars Investigations' clients assume truth is useful, but Geena Stafford is fired for publishing the bomb-threat exposé, exposing the Theta Beta grow room costs cancer patient Karen her insurance, and Lilly herself was murdered for the secret videotapes — while Keith admits 'I used to think that solving the case was the key to our happiness.' Principal Moorehead's self-serving 'do you really want to know?' ploy, Veronica shredding her paternity results ('blissful ignorance with a side of gnawing doubt'), and Mac's devastation at learning she was switched with Madison dramatize Nietzsche's suggestion that some falsehoods may be indispensable to life. Yet the chapter ends by embracing Nietzsche's Versucher, the risk-taking experimenter, admiring the sleuth-philosopher who pursues truth regardless of cost, since questioning truth's value keeps the love of truth alive."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - When Life Gives You Chlamydia.md",
+   "kind": "chapter",
+   "philosophers": [
+    "ockham",
+    "aristotle",
+    "russell"
+   ],
+   "concepts": [
+    "ockham-razor",
+    "skepticism"
+   ],
+   "relation": "Andrew Zimmerman Jones explains Veronica's casework as inductive reasoning: Occam's razor dispatches Meryl's 'space laser' speculation and identifies Gia's stalker via the simplest explanation (the stalker drove off in the pick-up), while Keith's refusal to accept Abel Koontz's confession shows the razor's limits — Sheriff Lamb's laziness being Sidney Brenner's 'Occam's broom,' whisking inconvenient facts like Lilly's body temperature under the rug. Distinguishing Aristotle's particulars-to-universal induction from deduction, the chapter teaches the probability fallacy through the Mercer evidence (clippers, cologne, and GHB make it likely the rapist owns them, not that their owner is the rapist — the same confusion fueling suspicion of PCH-ers) and catalogues the fallacies — false dilemma, false cause, ad hominem, appeal to emotion — that Veronica's jealousy-driven reasoning commits in the Sully case. The chlamydia diagnosis revealing Cassidy raped her is the final lesson: new evidence overturns even well-confirmed conclusions, so certainty is a sucker's bet."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Kickstarting Inductive Inference.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "descartes"
+   ],
+   "concepts": [
+    "hume-induction",
+    "cartesian-doubt",
+    "skepticism",
+    "abduction"
+   ],
+   "relation": "Daniel Wilkenfeld analyzes Veronica's 'magic trick' in the 'One Angry Veronica' juryroom and her season-long bus-crash solution as Peter Lipton's inference to the best explanation: the hypothesis 'Beaver is a killer' wins by consilience (explaining the explosion, the dead rat, Curly Moran, even her chlamydia), simplicity, and completeness. But the criteria face Hume's problem of induction — why think the future will resemble the past, when yesterday's popular girl is today's pariah? — and Descartes's evil demon undermines even what Veronica 'sees,' since Curly Moran could fake a bus crash, leaving no non-circular justification for inferential habits none of us can live without. Following Nelson Goodman, Wilkenfeld concludes the demand for justification is misplaced: what matters is that Veronica reasons consistently, in the juryroom as at the cliff."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Part 6 Veronica Mars is a Marshmallow.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Acknowledgment.md",
+   "kind": "chapter",
+   "philosophers": [
+    "cavell"
+   ],
+   "concepts": [
+    "personal-identity"
+   ],
+   "relation": "James South reads season one as Veronica forging a new identity after learning she is 'no longer that girl' — Lilly dead, Keith recalled, Lianne gone, herself raped — with her detective photography and knowing voiceovers enacting what Stanley Cavell calls viewing the world 'from behind the self,' an automatism that escapes subjectivity at the price of isolation and false certainty. The unicorn music box playing 'All You Need Is Love' marks the marshmallow beneath the noir shell: her detective work is really a quest to restore the fantasy family, which dies as she discovers her mother's alcoholism ('I bet on you, and I lost') and accepts the paternity results that let her choose Keith as father 'in a way that runs deeper than blood.' Renouncing the fantasy, she arrives at the new self who opens the door with 'I was hoping it would be you.'"
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Notes on Contributors.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - End User License Agreement.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 11,
+   "type": "philosopher",
+   "suggested_slug": "bourdieu",
+   "name": "Pierre Bourdieu",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "French sociologist-philosopher whose concepts of cultural capital and habitus explain how class-positioned dispositions reproduce social inequality.",
+   "why": "Chapter 11 uses Bourdieu's cultural capital to explain why Wallace converts school, sport, and white friendships into mobility while Weevil stays trapped in Neptune's racial binary."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "cultural-capital",
+   "name": "Cultural Capital",
+   "philosopher": "bourdieu",
+   "domain": "political-social",
+   "what": "Bourdieu's idea that habits, speech, tastes, and credentials function as a currency convertible into social standing and success.",
+   "why": "Chapter 11 needs it to analyze how Logan's mockery of Weevil's grammar and Wallace's 'colorblind' assimilation operate as moves in Neptune's racial and class economy."
+  },
+  {
+   "ch": 13,
+   "type": "philosopher",
+   "suggested_slug": "zimbardo",
+   "name": "Philip Zimbardo",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Psychologist whose 1971 Stanford prison experiment argued that bad situations and systems, not just bad apples, lead ordinary people to commit evil.",
+   "why": "Chapter 13 reads Dr. Kinny's Hearst mock-prison as 'SPE lite' and frames Neptune's corruption through Zimbardo's situationism before turning to Arendt."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "femme-fatale",
+   "name": "Femme Fatale (and the Homme Fatal)",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "The seductive, morally dangerous figure of film noir who promises love or redemption but draws the protagonist toward doom; Veronica Mars gender-flips her into Logan as the homme fatal.",
+   "why": "Chapter 14's central claim is that the show transposes noir's gender roles, making Logan the fatal figure whose 'epic love' promise Veronica must refuse to keep her detective independence."
+  },
+  {
+   "ch": 15,
+   "type": "concept",
+   "suggested_slug": "deleuze-pure-past",
+   "name": "The Pure Past and Involuntary Memory",
+   "philosopher": "deleuze",
+   "domain": "political-social",
+   "what": "Deleuze's view that the past exists in its own dimension of reality, accessed through voluntary recollection and Proustian involuntary memories whose scenes carry meanings they never had when lived.",
+   "why": "Chapter 15 reads the show's soft-focus flashbacks and the song-triggered memories of Lilly as dramatizations of Deleuze's ontology of time."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "vengeance",
+   "name": "Vengeance and Revenge",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The personal infliction of payback for perceived wrongs, contrasted with impartial justice; philosophers dispute whether getting even is a rational, dignity-restoring practice or a vice.",
+   "why": "Chapter 17 is devoted to evaluating Veronica's payback code through Socrates, Seneca, Nietzsche's creditor-debtor account, and Machiavelli on being feared rather than loved."
+  },
+  {
+   "ch": 19,
+   "type": "concept",
+   "suggested_slug": "trust",
+   "name": "Trust (vs Mere Reliance)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Relying on someone because of their commitments, so that violation is betrayal rather than mere disappointment; distinguished from prediction-based reliance on objects or habits.",
+   "why": "Chapter 19 argues Veronica, by second nature and vocation, cannot extend this attitude to anyone — not Keith, Logan, or even Piz — at the cost of 'revealing trust' in her closest bonds."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "will-to-truth",
+   "name": "The Will to Truth (and Its Value)",
+   "philosopher": "nietzsche",
+   "domain": "nineteenth-century",
+   "what": "Nietzsche's problem from Beyond Good and Evil and The Gay Science: why do we want truth rather than untruth, uncertainty, or ignorance, and is 'truth at any price' a metaphysical faith?",
+   "why": "Chapter 25 tests the value of truth through Geena Stafford's firing, Mac's devastation at her adoption, and Veronica shredding her paternity results."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "inductive-reasoning",
+   "name": "Inductive Reasoning (particulars to general)",
+   "philosopher": "aristotle",
+   "domain": "knowledge-science-reality",
+   "what": "Inference from observed particular cases to a general or probable conclusion, yielding likelihood rather than the certainty of deduction.",
+   "why": "Chapter 26 explains Veronica's casework — Koontz's confession, the Mercer evidence, the chlamydia clue — as induction graded by probability, with Occam's razor as its pruning tool."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "inference-to-best-explanation",
+   "name": "Inference to the Best Explanation",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The form of induction (developed by Peter Lipton) that treats the hypothesis best explaining the known facts — by consilience, simplicity, and completeness — as probably true.",
+   "why": "Chapter 27 analyzes Veronica's juryroom 'magic trick' and bus-crash solution as inference to the best explanation and asks whether the practice can be justified without circularity."
+  },
+  {
+   "ch": 29,
+   "type": "philosopher",
+   "suggested_slug": "cavell",
+   "name": "Stanley Cavell",
+   "philosopher": "",
+   "domain": "pragmatism-american",
+   "what": "American philosopher whose The World Viewed treats photography and film as automatisms satisfying the human wish to escape subjectivity and view the world 'from behind the self.'",
+   "why": "Chapter 29 reads Veronica's surveillance photography, voiceovers, and isolation almost entirely through Cavell's account of photography and subjectivity."
+  }
+ ]
+}

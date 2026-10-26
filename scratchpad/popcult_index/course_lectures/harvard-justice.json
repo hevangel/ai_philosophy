@@ -1,0 +1,198 @@
+{
+  "course": "harvard-justice",
+  "source_note": "Official lecture list at https://justiceharvard.org/justicecourse/ (justiceharvard.org, all 24 lectures with official titles and descriptions), fetched 2026-10-21.",
+  "lectures": [
+    {
+      "n": 1,
+      "title": "The Moral Side Of Murder",
+      "kind": "lecture",
+      "summary": "Sandel launches his course on moral reasoning with the hypothetical of killing one person to save five others versus doing nothing while five die. Students argue over what the right thing to do is.",
+      "concepts": ["trolley-problem", "moral-dilemmas"],
+      "philosophers": []
+    },
+    {
+      "n": 2,
+      "title": "The Case For Cannibalism",
+      "kind": "lecture",
+      "summary": "Sandel introduces the principles of the utilitarian philosopher Jeremy Bentham through a famous nineteenth-century law case: after nineteen days lost at sea, a shipwrecked captain kills the cabin boy, the weakest of the four, so the crew can feed on him to survive.",
+      "concepts": ["utilitarianism"],
+      "philosophers": ["bentham"]
+    },
+    {
+      "n": 3,
+      "title": "Putting A Price Tag On Life",
+      "kind": "lecture",
+      "summary": "Contemporary cases in which cost-benefit analysis was used to put a dollar value on human life give rise to objections to the utilitarian logic of seeking the greatest good for the greatest number. Sandel asks whether all values can be summed up and compared on a common measure like money.",
+      "concepts": ["utilitarianism"],
+      "philosophers": []
+    },
+    {
+      "n": 4,
+      "title": "How To Measure Pleasure",
+      "kind": "lecture",
+      "summary": "Sandel introduces J. S. Mill, who argues that seeking the greatest good for the greatest number is compatible with protecting individual rights and that utilitarianism can distinguish higher from lower pleasures. The theory is tested with clips from Shakespeare's Hamlet, the reality show Fear Factor, and The Simpsons.",
+      "concepts": ["utilitarianism", "greatest-happiness", "higher-lower-pleasures"],
+      "philosophers": ["mill"]
+    },
+    {
+      "n": 5,
+      "title": "Free To Choose",
+      "kind": "lecture",
+      "summary": "With humorous references to Bill Gates and Michael Jordan, Sandel introduces the libertarian notion that redistributive taxation, taxing the rich to give to the poor, is akin to forced labor.",
+      "concepts": ["minimal-state"],
+      "philosophers": []
+    },
+    {
+      "n": 6,
+      "title": "Who Owns Me?",
+      "kind": "lecture",
+      "summary": "Students discuss the arguments behind redistributive taxation: aren't you obligated to pay taxes under progressive taxation, and don't many rich people acquire wealth through sheer luck or family fortune? A group dubbed Team Libertarian volunteers to defend the libertarian philosophy against these objections.",
+      "concepts": ["minimal-state"],
+      "philosophers": []
+    },
+    {
+      "n": 7,
+      "title": "This Land Is Your Land",
+      "kind": "lecture",
+      "summary": "Sandel presents John Locke's view that individuals have rights to life, liberty, and property, given to us as human beings in the state of nature before government and laws, governed by a law of nature known by reason which says we can neither give them up nor take them away from anyone else.",
+      "concepts": ["locke-natural-rights", "state-of-nature"],
+      "philosophers": ["locke"]
+    },
+    {
+      "n": 8,
+      "title": "Consenting Adults",
+      "kind": "lecture",
+      "summary": "If our rights to life, liberty, and property are unalienable, how can a government enforce tax laws passed by a mere majority without taking property without consent? Locke's response is that by choosing to live in a society we give tacit consent to obey the tax laws passed by a majority.",
+      "concepts": ["locke-natural-rights", "social-contract"],
+      "philosophers": ["locke"]
+    },
+    {
+      "n": 9,
+      "title": "Hired Guns?",
+      "kind": "lecture",
+      "summary": "During the Civil War, drafted men could hire substitutes to fight in their place, a policy many students find unjust because it lets the affluent avoid serving by paying less privileged citizens to risk their lives. This opens a classroom debate on war and conscription, and on whether today's volunteer army is open to the same objection.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 10,
+      "title": "For Sale: Motherhood",
+      "kind": "lecture",
+      "summary": "Sandel examines the principle of free-market exchange as it relates to reproductive rights, moving from the business of egg and sperm donation to the famous Baby M legal battle and its unsettling question of who owns a baby. Students debate the nature of informed consent, the morality of selling a human life, and the meaning of maternal rights.",
+      "concepts": ["applied-ethics"],
+      "philosophers": []
+    },
+    {
+      "n": 11,
+      "title": "Mind Your Motive",
+      "kind": "lecture",
+      "summary": "Sandel introduces Immanuel Kant, who rejects utilitarianism: each of us has fundamental duties and rights that take precedence over maximizing utility, and morality is not about calculating consequences. Only when we act out of duty, doing something simply because it is right, do our actions have moral worth.",
+      "concepts": ["deontology"],
+      "philosophers": ["kant"]
+    },
+    {
+      "n": 12,
+      "title": "The Supreme Principle Of Mortality",
+      "kind": "lecture",
+      "summary": "Kant holds that what confers moral worth on our actions is the capacity to rise above self-interest and inclination and to act out of duty. Sandel illustrates with the true story of a thirteen-year-old boy who won a spelling bee contest and then admitted to the judges that he had misspelled the final word.",
+      "concepts": ["categorical-imperative"],
+      "philosophers": ["kant"]
+    },
+    {
+      "n": 13,
+      "title": "A Lesson In Lying",
+      "kind": "lecture",
+      "summary": "Kant believed that telling a lie, even a white lie, is a violation of one's own dignity. Sandel asks students to test Kant's theory with the case of a murderer at your door asking where your hiding friend is: would it be wrong to lie?",
+      "concepts": ["ethics-of-lying"],
+      "philosophers": ["kant"]
+    },
+    {
+      "n": 14,
+      "title": "A Deal Is A Deal",
+      "kind": "lecture",
+      "summary": "Sandel introduces the modern philosopher John Rawls, who argues that a fair set of principles would be the ones we would all agree to if we had to choose rules for our society and no one had any unfair bargaining power.",
+      "concepts": ["justice-as-fairness", "veil-of-ignorance", "social-contract"],
+      "philosophers": ["rawls"]
+    },
+    {
+      "n": 15,
+      "title": "What's A Fair Start?",
+      "kind": "lecture",
+      "summary": "Rawls argues that even meritocracy, a distributive system that rewards effort, doesn't go far enough in leveling the playing field because the naturally gifted will always get ahead. The naturally gifted can't claim much credit either, since their success often depends on factors as arbitrary as birth order.",
+      "concepts": ["justice-as-fairness"],
+      "philosophers": ["rawls"]
+    },
+    {
+      "n": 16,
+      "title": "What Do We Deserve?",
+      "kind": "lecture",
+      "summary": "Sandel discusses the fairness of pay differentials in modern society, comparing the salary of former Supreme Court Justice Sandra Day O'Connor with that of television's Judge Judy, and asks whether that is fair. According to John Rawls, it is not.",
+      "concepts": ["justice-as-fairness"],
+      "philosophers": ["rawls"]
+    },
+    {
+      "n": 17,
+      "title": "Arguing Affirmative Action",
+      "kind": "lecture",
+      "summary": "Sandel describes the 1996 court case of Cheryl Hopwood, a white woman denied admission to a Texas law school despite higher grades and test scores than some admitted minority applicants, who argued the school's affirmative action program violated her rights. Students discuss the pros and cons of affirmative action.",
+      "concepts": ["wrongful-discrimination"],
+      "philosophers": []
+    },
+    {
+      "n": 18,
+      "title": "What's The Purpose?",
+      "kind": "lecture",
+      "summary": "Sandel introduces Aristotle and his theory of justice, which disagrees with Rawls and Kant: justice is about giving people their due, what they deserve, and questions of distribution must consider the goal, the end, the purpose of what is being distributed.",
+      "concepts": [],
+      "philosophers": ["aristotle"]
+    },
+    {
+      "n": 19,
+      "title": "The Good Citizen",
+      "kind": "lecture",
+      "summary": "Aristotle believes the purpose of politics is to promote and cultivate the virtue of its citizens, the telos of the political community being the good life, with the greatest rewards going to those who contribute most to that purpose. Sandel asks how we can know the purpose of a community or a practice, leading to a contemporary debate about golf.",
+      "concepts": ["aristotle-virtue-ethics", "aristotle-eudaimonia"],
+      "philosophers": ["aristotle"]
+    },
+    {
+      "n": 20,
+      "title": "Freedom VS. Fit",
+      "kind": "lecture",
+      "summary": "How does Aristotle address individual rights and the freedom to choose? If our place in society is determined by where we best fit, doesn't that eliminate personal choice? Sandel addresses one of the most glaring objections to Aristotle's views on freedom, his defense of slavery as a fitting social role for certain human beings.",
+      "concepts": [],
+      "philosophers": ["aristotle"]
+    },
+    {
+      "n": 21,
+      "title": "The Claims of Community",
+      "kind": "lecture",
+      "summary": "Communitarians argue that in addition to voluntary and universal duties we have obligations of membership, solidarity, and loyalty that are not necessarily based on consent, since we inherit our past and our identities from our family, city, or country. What happens if these obligations conflict with our universal obligations to humanity?",
+      "concepts": ["communitarianism"],
+      "philosophers": ["sandel"]
+    },
+    {
+      "n": 22,
+      "title": "Where Our Loyalty Lies",
+      "kind": "lecture",
+      "summary": "Do we owe more to our fellow citizens than to citizens of other countries, and is patriotism a virtue or a prejudice for one's own kind? If our identities are defined by the particular communities we inhabit, Sandel asks, what becomes of universal human rights?",
+      "concepts": ["communitarianism", "cosmopolitanism-ethics"],
+      "philosophers": ["sandel"]
+    },
+    {
+      "n": 23,
+      "title": "Debating Same Sex Marriage",
+      "kind": "lecture",
+      "summary": "If principles of justice depend on the moral or intrinsic worth of the ends that rights serve, how should we deal with the fact that people hold different ideas and conceptions of what is good? Students debate in a heated exchange whether same-sex marriage should be legal, and whether the matter can be settled without discussing the moral permissibility of homosexuality or the purpose of marriage.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 24,
+      "title": "The Good Life",
+      "kind": "lecture",
+      "summary": "Sandel argues that government can't be neutral on difficult moral questions such as same-sex marriage and abortion, and asks why we shouldn't deliberate all issues, including economic and civic concerns, with the same moral and spiritual aspiration. In his final lecture he makes the case for a new politics of the common good.",
+      "concepts": ["communitarianism"],
+      "philosophers": ["sandel"]
+    }
+  ]
+}

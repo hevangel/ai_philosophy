@@ -1,0 +1,335 @@
+{
+ "book": "206 - The Witcher and Philosophy - Toss a Coin to Your Philosopher",
+ "unit": "u446",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Front matter.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Matthew Brake's introduction recounts discovering The Witcher through the Netflix series' first-episode fight with Renfri's men, then reading Sapkowski's books and playing Witcher 3. He frames the volume's guiding questions: how to navigate a world of imperfect moral choices, whether one should refuse to pick the 'lesser evil' as Geralt does with Stregobor and Renfri, whether destiny leaves room for free will, and what the Continent's racism and the condition of women there show about our own world. His claim is that The Witcher is a philosophical text in its own right, not merely a prop for philosophy."
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Part I Ethics.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - A Friend of Humanity.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "machiavelli",
+    "epictetus",
+    "marcus-aurelius"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "kant-humanity-formula",
+    "dichotomy-of-control",
+    "machiavelli-ends"
+   ],
+   "relation": "Vereb argues Geralt is at best a superficial Stoic: he lives by coin and contract, ignores Stoic justice and cosmopolitan concern, and chases neither wisdom nor the view that evildoers fit a rational Logos. Instead Geralt's refusal to choose between Stregobor's and Renfri's evils, his promise-keeping, and his protection of Ciri mark him as a Kantian who treats persons as ends and does good from duty even toward people he dislikes. Yennefer is the counterpoint, a Machiavellian fox who 'plays fair' never and uses mages as catapult fodder, while Jaskier embodies Kant's imperfect duties of benevolence and hope, completing what duty-only Geralt and egoist Yennefer each lack."
+  },
+  {
+   "n": 5,
+   "file": "ch05 - The Witcher's Code.md",
+   "kind": "chapter",
+   "philosophers": [
+    "williams",
+    "foot",
+    "thomson",
+    "sartre",
+    "nietzsche",
+    "w-d-ross",
+    "peter-geach"
+   ],
+   "concepts": [
+    "moral-dilemmas",
+    "trolley-problem"
+   ],
+   "relation": "Barta and Lee ask whether Geralt's quandaries are genuine conflicts of incommensurable duties or only apparent ones. An Idr-baiting variant of Foot and Thomson's trolley problem opens the analysis; the Blaviken conflict between Renfri and Stregobor, Nivellen and the bruxa Vereena, and the djinn's three wishes are read through Bernard Williams's view that tragic, remainder-generating conflicts are ineliminable, with Sartre's student example and Nietzsche's 'antagonism in the heart of the world' backing the tragic reading. Against this, the Striga-Adda curse and the contradictory duel commands of Sir Tailles show dilemmas dissolved by culpable origins, third options, or one duty overriding another, and the chapter concludes Geralt wisely treats every dilemma as if it were apparent."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Lesser of Two Evils.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bentham",
+    "popper",
+    "foot"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "trolley-problem",
+    "moral-dilemmas",
+    "pragmatism"
+   ],
+   "relation": "Horn reads the Blaviken conflict as a clash of two utilitarianisms: Stregobor locks up women born during the black sun on Benthamite grounds that maximizing humanity's happiness justifies evil, while Renfri's revenge on Stregobor follows Popper's negative utilitarianism of minimizing suffering, and Foot's runaway trolley shows both reasoning toward killing the one. Le Guin's Omelas, with its tortured child beneath a utopia, exposes where Stregobor's and Renfri's 'lesser evil' logic leads. Geralt rejects both because he deliberates as Raff Donelson's ethical pragmatist: he accepts the facts but tests options against the shared Witcher's Code values (kill only to save, never from fear), which is why he prefers not to choose at all."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Friendship in the Wild.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "george-herbert-mead"
+   ],
+   "concepts": [
+    "kant-respect",
+    "philosophy-of-love"
+   ],
+   "relation": "Vardar argues that the Witcher 3 ending players most prefer, Ciri becoming a witcher, is reached precisely when the player curbs curiosity and limits love with respect, as Kant requires of ideal friendship in the Metaphysics of Morals. She reads the snowball-fight encouragement, letting Ciri face the Lodge sorceresses alone, cheering the destruction of Avallac'h's lab, and refusing the visit to Emperor Emhyr as choices that balance Kantian love and respect, while the alternative choices wound Ciri's pride or undermine her autonomy. George Herbert Mead's 'taking the role of the other' explains how playing both Geralt and Ciri in turn lets the player develop the perspectives needed for this moral friendship, a lesson the game carries into real-life friendships."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Part II Free Will.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Destiny, Fate, and the Law.md",
+   "kind": "chapter",
+   "philosophers": [
+    "vann-inwagen",
+    "frankfurt"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "fate-vs-free-will",
+    "compatibilism"
+   ],
+   "relation": "Lee separates destiny (an outcome necessary given a person's purpose and character, per Robert Solomon) from fate, then tests three interpretations of free will against the Witcher 1 Glossary entries on Destiny and the Law of Surprise. Hard determinism fails because the Glossary says one can resist Destiny's path 'of one's own free will', and compatibilism (Frankfurt's willing agent) fails because the witcher demanding the Law's reward does not even know what he desires. The three invocations of the Law, Roegner's promising of Pavetta to Duny, Geralt's claims on Ciri via Duny and the merchant Yurga, all leave room for choices that need not have been made, so Lee concludes libertarian freedom in van Inwagen's sense best fits the Witcher world."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Compatibilism and the Law.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "compatibilism",
+    "free-will-determinism",
+    "fate-vs-free-will"
+   ],
+   "relation": "Ralston takes the opposite tack from Lee, arguing the Law of Surprise is best explained by compatibilism: the betrothal banquet in 'Of Banquets, Bastards, and Burials' shows Duny and Pavetta's fated bond fixed in advance yet freely lived out, and Geralt's grudging acceptance of Ciri shows that resisting destiny only narrows his options while accepting it restores his freedom. Drawing on Sara Bizarro's polythetic free will, he casts Geralt as a 'self-winding mechanism' whose fated choices remain voluntary, reasons-responsive, and self-constrained, with Yennefer's abandonment and Ciri's reunion with Geralt as further cases of shared destiny pursued along free paths. The Oedipus myth supplies the ancient parallel: fight the prophecy and you fulfill it."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Silver or Steel.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-dilemmas",
+    "moral-relativism"
+   ],
+   "relation": "Williams and Shump contrast Witcher 3's choice design with the illusory agency of immersive sims like BioShock, where the 'Would you kindly?' twist funnels players to one canonical good ending. In White Orchard's 'On Death's Bed' the witcher potion that saves Lena melts her mind, the succubus Salma in 'Deadly Delights' may be spared as a rational being who killed in self-defense, and Keira Metz's fate at Radovid's hands or Kaer Morhen topples dominoes that reach Lambert, so that good intentions yield random or grim outcomes. Drawing silver for monsters and steel for humans becomes the chapter's metaphor: every drawn sword is a classification that may condemn the wrong target, in a world where 'good' and 'bad' are relative points on an unpredictable spectrum."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Nothing Is Ever Black or White.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger"
+   ],
+   "concepts": [
+    "thrownness",
+    "das-man",
+    "authenticity"
+   ],
+   "relation": "Miechels maps Witcher 3 onto Heidegger's Being and Time: with no character creator, the player is thrown into Geralt's fixed identity, the 'Butcher of Blaviken' with cat eyes whom villagers spit at, in a war-torn Velen he did not choose. Projection appears in the Triss-or-Yennefer romance (where refusing to choose is still a choice) and in the Bloody Baron, whose guilt shows that his war trauma and alcoholism never excused his choices: 'nothing is ever black and white' does not absolve him. Falling into das Man shows up in Gwent rounds, map question marks, and above all online walkthroughs of the 'optimal choice' for Willis's burned forge, which let players evade the responsibility of deciding for themselves."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Part III Feminism.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - This Is the Version of Myself I Have to Be.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir",
+    "butler",
+    "firestone",
+    "crenshaw",
+    "audre-lorde"
+   ],
+   "concepts": [
+    "becoming-woman",
+    "gender-performativity",
+    "intersectionality",
+    "dialectic-of-sex",
+    "beauty-myth",
+    "maternal-thinking"
+   ],
+   "relation": "Pérez reads Yennefer's arc through a plurality of feminisms rather than one: Beauvoir's 'one is not born, but rather becomes, woman' explains her sacrifice of fertility at Aretuza and later choice of motherhood on her own terms, while Butler's performativity recasts Tissaia's mirror exercises as the enactment of a socially constructed sorceress role. Naomi Wolf's Beauty Myth and Iron Maiden expose her transformation as self-imposed captivity, Ruddick's maternal thinking marks the moment she truly becomes Ciri's mother, and Firestone's call to abolish sex distinction frames her infertility-for-power bargain. Finally Crenshaw's intersectionality and Lorde's 'master's tools' show that Yennefer's quarter-elf passing lets her beat the Brotherhood at its own game without dismantling it."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - They Took My Choice, So I Took Yours.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "feminism",
+    "eugenics",
+    "disability-philosophy",
+    "reproductive-justice"
+   ],
+   "relation": "Tongue argues Yennefer's 'they took my choice' grievance is best understood through reproductive justice: her sterilization by the enchanter, strapped down and told the price only at the last moment, mirrors real coerced sterilizations of disabled, Roma, and Indigenous women, so her 'choice' was coerced by ableist and anti-elven oppression. She contrasts Geralt, whose witcher infertility is unstigmatized and whose adoptive fatherhood of Ciri bucks gendered caregiver stereotypes ('biology is not destiny, adoption is'), with Yennefer's portrayal, which slides into the patriarchal 'infertile monster' trope shared by Daenerys Tragaryen and Wanda Maximoff. The chapter concludes the show handles infertility and nonbiological family admirably but still reinforces maternal-sacrifice and cure-the-disability stereotypes."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Ciri's Agency and Autonomy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "helene-cixous"
+   ],
+   "concepts": [
+    "feminism",
+    "relational-autonomy",
+    "objectification"
+   ],
+   "relation": "Vega and Barta read Ciri's Elder Blood power, which activates only through controlled female emotion, through Hélène Cixous's 'Laugh of the Medusa' and écriture féminine: her awakening scream at dying Calanthe's side and her cry of 'NO!' are forbidden female self-expression breaking patriarchal control. Renfri, silenced by Stregobor's narrative into villain and victim, and the bruxa Vereena, killed when her power exceeds her control, are the cautionary Medusas against which Ciri's mastery and the Lodge of Sorceresses' vote of 'sentimentality, gentleness, trust, and hope' to release her stand out. Calanthe's 'I bow to no law made by men who never bore a child' is pure écriture féminine undercut by her own complicity in auctioning Pavetta, and Ciri's final victory over Emhyr comes not through the sword but through tears, emotional expression defeating patriarchy's rationalizations."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Part IV Race and Culture.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Race and Racism in the World of the Witcher.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "race-as-social-construct"
+   ],
+   "relation": "Browning argues racism on the Continent runs along species and power lines rather than skin color: the haughty knight Sir Eyck killing a harmless hirikka embodies aristocratic privilege and ignorance, the 'Great Cleansing' of the elves echoes Holocaust language, and the chained elves of 'Redanian Intelligence' parallel imagery of enslaved Africans. He applies Critical Race Theory's claim that race is an unstable construct forged in political struggle, plus Naomi Zack's account of mixed-race identity as a destabilizing 'breakdown' of racial categories, to explain why Geralt insists 'Don't call me human' and why Yennefer's passing between elf and human worlds makes her a threat to the ruling order. The upshot is that Witcher racism is about power and social division, with the series inviting viewers to recognize our own prejudices in fantasy's mirror."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Disadvantage, Demeaning, and Discrimination.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "intersectionality",
+    "wrongful-discrimination"
+   ],
+   "relation": "Loh asks whether Geralt, called 'worse than lepers' at the Inn at the Crossroads, is actually a victim of discrimination or whether the franchise's 'public pedagogy' distorts what discrimination is. Geralt passes Lippert-Rasmussen's test of unjustified worse treatment of socially salient groups ('witcher' and 'stranger'), and statistical generalizations about dangerous strangers fail to treat him as an individual; Hellman's account of demeaning even marks the spitting and stone-throwing as expressing denial of equal moral worth. But demeaning requires a power asymmetry, and Geralt, a superhuman with higher status whom the villagers depend on against monsters, holds all the power, so the mistreatment is unjust without being discrimination, a caution the chapter extends to superhero narratives like the X-Men."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 5,
+   "type": "philosopher",
+   "suggested_slug": "w-d-ross",
+   "name": "W.D. Ross",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "British deontologist who held that moral duties are 'prima facie' or conditional: real duties that can nonetheless be overridden by a stronger duty in particular circumstances.",
+   "why": "Chapter 5 leans on Ross's prima facie duties for its 'apparent dilemmas' side, arguing that one of Geralt's conflicting duties overrides the other once the relevant facts of Blaviken are known."
+  },
+  {
+   "ch": 5,
+   "type": "philosopher",
+   "suggested_slug": "peter-geach",
+   "name": "Peter Geach",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Catholic philosopher who argued that a rational or omnipotent God would never permit genuine moral dilemmas, since conflicting inescapable commands are incompatible with divine providence.",
+   "why": "Chapter 5 applies Geach's argument to the cursed Striga-Adda case to suggest the magic of the Witcher world is arranged so that a capable moral agent never faces a genuinely irresoluble dilemma."
+  },
+  {
+   "ch": 6,
+   "type": "concept",
+   "suggested_slug": "ethical-pragmatism",
+   "name": "Ethical Pragmatism",
+   "philosopher": "",
+   "domain": "pragmatism-american",
+   "what": "Raff Donelson's view that moral decisions should be grounded in facts and shared community values open to justification, rather than in appeals to alleged moral truths.",
+   "why": "Chapter 6 uses Donelson's all-knowing Delphi thought experiment to cast Geralt's refusal of the lesser evil as ethical pragmatism: he deliberates on the facts against the Witcher's Code instead of following Stregobor's or Renfri's utilitarian principles."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "beauty-myth",
+   "name": "The Beauty Myth",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Naomi Wolf's thesis that socially imposed beauty standards work as a currency system that keeps male dominance intact, trapping women in a self-punishing 'Iron Maiden'.",
+   "why": "Chapter 14 interprets Yennefer's transformation and her pursuit of beauty as power through Wolf's Beauty Myth and Iron Maiden, showing her conforming to and being imprisoned by the standard at once."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "maternal-thinking",
+   "name": "Maternal Thinking",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Sara Ruddick's account of mothering as a practice of protection, nurturance, and training, a vocation rather than an identity that anyone, including men, can perform.",
+   "why": "Chapter 14 uses Ruddick's maternal thinking to pinpoint when Yennefer (and even Geralt) genuinely becomes a mother to Ciri through sacrificial care rather than biology."
+  },
+  {
+   "ch": 15,
+   "type": "concept",
+   "suggested_slug": "reproductive-justice",
+   "name": "Reproductive Justice",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "A feminist framework recognizing the social barriers that stop marginalized women from freely choosing to have or not have children, including coercive sterilization.",
+   "why": "Chapter 15 evaluates Yennefer's sterilization at Aretuza as a reproductive-justice injustice that mirrors real-world coerced sterilizations of disabled, Roma, and Indigenous women."
+  },
+  {
+   "ch": 16,
+   "type": "philosopher",
+   "suggested_slug": "helene-cixous",
+   "name": "Hélène Cixous",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "French feminist theorist of écriture féminine who, in 'The Laugh of the Medusa', urged women to write their bodies and reclaim repressed female expression and desire.",
+   "why": "Chapter 16 frames Ciri's scream, her 'NO!', Calanthe's defiance, and the 'Medusa' figures of Renfri and Vereena entirely through Cixous's essay, which is the chapter's central framework."
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "race-as-social-construct",
+   "name": "Race as Social Construct",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "The Critical Race Theory view (Omi and Winant's racial formation) that race is an unstable category created and transformed by political struggle and power, not a fixed biological kind.",
+   "why": "Chapter 18 applies this to the Continent, where racial lines are drawn by species, lineage, and political power rather than skin color, to explain anti-elven pogroms and the treatment of witchers."
+  },
+  {
+   "ch": 19,
+   "type": "concept",
+   "suggested_slug": "wrongful-discrimination",
+   "name": "Wrongful Discrimination",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "The contemporary account (Lippert-Rasmussen, Hellman, Eidelson) of discrimination as unjustified worse treatment of a socially salient group, with demeaning further requiring a power asymmetry.",
+   "why": "Chapter 19 tests Geralt's everyday mistreatment against these criteria and concludes it is unjust wronging but not discrimination, since his taunters lack the power to subordinate him."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+  "article": "who_owns_the_future",
+  "updated": "2026-10-11",
+  "submissions": [
+    {
+      "venue": "aipc2026",
+      "status": "submitted",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "eligibility audit on genesis prompts found human-supplied arguments retained load-bearing (patent analogy, non-circumvention scenario, tragic-scarcity permission) — first version judged INELIGIBLE and withdrawn before entry",
+          "method": "n/a",
+          "confirmation": null
+        },
+        {
+          "date": "2026-10-04",
+          "event": "owner-approved (b+) regeneration executed: 11 tainted passages deleted and re-derived by 3 blind agents from position-level seeds (FAQ-permitted); candidates generated and best selected per gap; anonymized manuscript (5,872 words ex-bibliography) + methodology report staged — NOT yet submitted",
+          "method": "n/a",
+          "confirmation": null
+        },
+        {
+          "date": "2026-10-11",
+          "event": "submitted",
+          "method": "api",
+          "confirmation": "OpenReview note oIBJtB2hr2 (submission #213), forum https://openreview.net/forum?id=oIBJtB2hr2 — essay PDF + methodology report uploaded; AI_involvement 'AI-driven'; name attached; verified in browser (venue-aipc2026/shots/submitted-213-forum.png)"
+        }
+      ],
+      "ai_disclosure_sent": true,
+      "notes": "SUBMITTED 2026-10-11 as submission #213. Finalists early Dec 2026; results end of Jan 2027. Genesis prompt log included with submission (who_owns: zipped with report)."
+    },
+    {
+      "venue": "philarchive",
+      "status": "planned",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "manuscript staged for PhilArchive (PDF via phil-format); not submitted",
+          "method": "manual",
+          "confirmation": null
+        }
+      ],
+      "ai_disclosure_sent": false,
+      "notes": "Default target: PhilArchive has no stated AI policy (venues.json). Venue alternatives for this AI-authored essay: EUJAP (explicitly permissive), MDPI Philosophies (disclosure + APC). Do NOT target ai-banned venues (Ethics, PPA). Actual submission requires owner sign-off on polished-en.md and live policy re-check."
+    }
+  ]
+}

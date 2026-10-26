@@ -1,0 +1,169 @@
+{
+ "book": "230 - The Philosophy of Spike Lee",
+ "unit": "u334",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - ii.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Preface.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - I. Justice, Value, and the Nature of Evil.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Symbolism of Blood in Clockers.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "McFarland reads Lee's Clockers through Paul Ricoeur's account of defilement and Greek tragedy, arguing the film treats spilt blood as an 'unspeakable' evil that resists narrative and legal containment. He compares the ulcer-ridden, cleanliness-obsessed dealer Strike to Philoctetes and Oedipus, tracing how bloodstain passes through family lines (Rodney, Errol, Tyrone, Victor) and how detective Rocco's law fails to purge the contagion. The final train-into-the-desert shot leaves Strike, like an exiled tragic figure, neither cleansed nor at home."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Prostitution Trap of Elite Sport in He Got Game.md",
+   "kind": "chapter",
+   "philosophers": [
+    "macintyre",
+    "marx"
+   ],
+   "concepts": [
+    "commodity-fetishism",
+    "marx-alienation",
+    "sartre-freedom"
+   ],
+   "relation": "Holt and Pitter argue that Lee's He Got Game exposes a 'prostitution trap' in which elite athletes, like literal prostitutes, become commodified bodies alienated from themselves. They read the parallel plots of star recruit Jesus Shuttlesworth, his father Jake pressured to broker a signing, and the prostitute Dakota as three versions of the same trap, invoking MacIntyre's internal-versus-external goods and Deci/Ryan's intrinsic-versus-extrinsic rewards to show how coercive money threatens Jesus's love of the game. Jesus escapes by exercising autonomy, negotiating on his own terms and skipping the press conference to reach an 'authentic realism.'"
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Aristotle and MacIntyre on Justice in 25th Hour.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "macintyre"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia",
+    "macintyre-tradition",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Conard uses Lee's 25th Hour to test Aristotle's claim that justice is inseparable from community and necessary for eudaimonia, and MacIntyre's charge that liberal individualist society lacks any common good. Comparing the greedy Wall Street broker Frank (an Aristotelian overreacher driven by pleonexia) with the drug dealer Monty (fairer, though convicted under unjust Rockefeller laws), he argues Monty is not unjust yet still cannot flourish in a fragmented New York. Monty's profane bathroom 'fuck you' soliloquy dramatizes the city's incommensurable values, while the post-9/11 fellow-feeling offers a fleeting glimpse of the shared good MacIntyre says modern society lacks."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - We Can’t Get Off the Bus A Commentary on Spike Lee and Moral Motivation.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sandel",
+    "macintyre"
+   ],
+   "concepts": [
+    "communitarianism",
+    "double-consciousness"
+   ],
+   "relation": "Beckles-Raymond reads Lee's Get on the Bus to defend a communitarian 'encumbered self' against the liberal 'unencumbered self,' arguing the Million Man March riders' racial identity is inseparable from their moral motivation. Drawing on Charles Taylor's strong evaluations and critiquing Tommie Shelby's thin-blackness solidarity, she shows each rider (George, Evan Sr., Jay, Jeremiah, Jamal, Xavier, Gary, Kyle, Randall) attends because being a good man is bound to being black, while the ejection of the self-hating Wendell marks the limits of thin identity. The film argues raced persons 'cannot get off the bus.'"
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Monsters and Moralism in Summer of Sam.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "banality-of-evil"
+   ],
+   "relation": "Palmer argues Lee's Summer of Sam is less ethnography than moralism about the diffuse 'evil energy' that spreads through an Italian American Bronx enclave during the 1977 Son of Sam killings. Against Dan Flory's reading of the film as a veiled lynching parable, he contends Lee dismantles any clean line between the psychopath Berkowitz and his supposed innocent victims: the vigilantes become victimizers, punk outsider Richie doubles the killer through his violent stage act, and Vinny destroys himself through compulsive infidelity. Evil is shown as symptomatic of a whole social order in decline rather than located in one monster."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - II. Race, Sexuality, and Community.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - (Still) Fighting the Power Public Space and the Unspeakable Privacy of the Other in Do the Right Thing.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein",
+    "arendt",
+    "mills"
+   ],
+   "concepts": [
+    "private-language",
+    "skepticism",
+    "public-sphere"
+   ],
+   "relation": "Finnegan reads Do the Right Thing as a dramatization of philosophical skepticism and the 'problem of other minds,' using Wittgenstein's private-language argument, Austin's speech acts, and Cavell to argue that racism is not an epistemic failure to 'know' the Other but an ethical refusal to acknowledge. She shows Lee's split cinematic style (naturalistic interiority for the Italian Americans, alienating canted wide-angle shots for Radio Raheem and the black characters) enacts what being 'othered' looks like, while the Racial Slur Montage stages words as perlocutionary acts and Arendt's 'space of appearances' explains the black characters' exclusion. Mookie's thrown trash can and Sal's Wall of Fame register powerlessness rather than resolution."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Coworking in the Kingdom of Culture Identity and Community in the Films of Spike Lee.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dubois"
+   ],
+   "concepts": [
+    "double-consciousness"
+   ],
+   "relation": "Peterson uses W.E.B. Du Bois's 'Of Our Spiritual Strivings' and its 'co-worker in the kingdom of culture' to read Lee's New York films as studies of hyphenated identity and the making of American community. He traces how the Italian Americans of Do the Right Thing and Jungle Fever secure a fragile 'whiteness' only in negation of blackness (Sal, Pino, Frankie's egg-cream lament), how Summer of Sam's enclave turns on the difference embodied by punk Richie, and how 25th Hour's post-9/11 New York is disaggregated in Monty's mirror monologue. Lee's vision is a heteroglot city with 'many gates to the Kingdom of Culture.'"
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Feminists and “Freaks” She’s Gotta Have It and Girl 6.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hooks",
+    "butler",
+    "beauvoir"
+   ],
+   "concepts": [
+    "gender-performativity",
+    "objectification",
+    "male-gaze"
+   ],
+   "relation": "Hoffman assesses whether Lee's She's Gotta Have It and Girl 6 offer liberated female sexuality, drawing on second- and third-wave feminism and bell hooks. She argues Nola Darling only appears empowered before the rape scene and her submission ('Yours') reveal her as an underdeveloped object of the male gaze, whereas Girl 6, as a phone-sex worker consciously performing gender for callers, better exposes gender as socially constructed in a Butler-like sense. Even so, Girl 6's real feminist force lies not in its heroine but in its exposure of oppressive industries, especially the opening Tarantino audition where only the director's gaze counts."
+  }
+ ],
+ "holes": []
+}

@@ -1,0 +1,198 @@
+{
+  "course": "yale-political",
+  "source_note": "Official Open Yale Courses pages: https://oyc.yale.edu/political-science/plsc-114 (course page with session list) plus individual lecture pages https://oyc.yale.edu/political-science/plsc-114/lecture-1 through /lecture-24 (per-lecture Overview texts); fetched 2026-10-21.",
+  "lectures": [
+    {
+      "n": 1,
+      "title": "Introduction: What Is Political Philosophy?",
+      "kind": "lecture",
+      "summary": "Professor Smith explores the nature and scope of political philosophy, \"the oldest of the social sciences,\" arguing that its study must begin with the works of Plato and Aristotle. The lecture examines the fundamental concepts of politics, raising questions such as which regimes are best and what makes good citizenship through a discussion of Plato's Apology.",
+      "concepts": [],
+      "philosophers": ["plato"]
+    },
+    {
+      "n": 2,
+      "title": "Socratic Citizenship: Plato, Apology",
+      "kind": "lecture",
+      "summary": "The lecture presents Plato's Apology as the ideal entry point into political philosophy: an emblem of suppressed free expression in which Socrates both justifies his way of life as a philosopher and argues for philosophy's usefulness to politics.",
+      "concepts": [],
+      "philosophers": ["socrates", "plato"]
+    },
+    {
+      "n": 3,
+      "title": "Socratic Citizenship: Plato, Crito",
+      "kind": "lecture",
+      "summary": "Building on the Apology's alternative to the Homeric model of citizenship — philosophical citizenship, relying on one's own powers of independent reason and judgment — the lecture turns to the Crito. Set in Socrates' prison cell, the dialogue concerns civil obedience, piety, and the duty of every citizen to respect and live by the community's laws.",
+      "concepts": [],
+      "philosophers": ["socrates", "plato"]
+    },
+    {
+      "n": 4,
+      "title": "Philosophers and Kings: Plato, Republic, I-II",
+      "kind": "lecture",
+      "summary": "An introduction to Plato's Republic and the areas — moral psychology, justice, poetry and myth, metaphysics — in which the work carries meaning. The Republic is also discussed as a utopia, presenting an extreme vision of a polis, Kallipolis, Plato's ideal city.",
+      "concepts": ["plato-justice", "utopia-dystopia"],
+      "philosophers": ["plato"]
+    },
+    {
+      "n": 5,
+      "title": "Philosophers and Kings: Plato, Republic, III-IV",
+      "kind": "lecture",
+      "summary": "The discussion of the Republic continues with an account of the various figures in the dialogue and their roles. Socrates challenges Polemarchus on justice and on how friends are to be distinguished from enemies, and puts forward the claim that all virtues require knowledge and reflection at their basis.",
+      "concepts": ["plato-justice"],
+      "philosophers": ["plato"]
+    },
+    {
+      "n": 6,
+      "title": "Philosophers and Kings: Plato, Republic, V",
+      "kind": "lecture",
+      "summary": "The Republic's grand theme of controlling the passions — above all thumos, or spiritedness — frames Socrates' three waves for constructing Kallipolis: restrictions on private property, the abolition of the family with the equal education of women, and the establishment of philosopher-kings. Justice is defined as harmony, each part of the soul and city performing its proper function, and the lecture closes with Plato's diagnosis of democracy and the thought that political reform begins with the reform of one's own soul.",
+      "concepts": ["plato-justice", "plato-tripartite-soul", "philosopher-king"],
+      "philosophers": ["plato"]
+    },
+    {
+      "n": 7,
+      "title": "The Mixed Regime and the Rule of Law: Aristotle, Politics, I, III",
+      "kind": "lecture",
+      "summary": "After surveying Aristotle's life and the thematic range of his works, from biology through ethics to politics, the lecture turns to the Politics and two of its key claims: that the city exists by nature, and that man is a political animal by nature.",
+      "concepts": ["political-animal"],
+      "philosophers": ["aristotle"]
+    },
+    {
+      "n": 8,
+      "title": "The Mixed Regime and the Rule of Law: Aristotle, Politics, IV",
+      "kind": "lecture",
+      "summary": "The lecture examines Aristotle's comparative politics through the concept of the regime as developed in Books III-VI of the Politics. A regime embraces both a community's formal enumeration of rights and duties and its characteristic customs, manners, and moral dispositions — and Aristotle asserts that it is precisely the regime that gives a people and a city their identity.",
+      "concepts": [],
+      "philosophers": ["aristotle"]
+    },
+    {
+      "n": 9,
+      "title": "The Mixed Regime and the Rule of Law: Aristotle, Politics, VII",
+      "kind": "lecture",
+      "summary": "The final lecture on Aristotle concerns the management of conflict between political factions. The polity — Aristotle's blend of oligarchic and democratic principles — is presented as the regime best suited to controlling factions, anticipating Madison's vision of separated powers with checks and balances and steering between the dangers of tyranny and civil war.",
+      "concepts": [],
+      "philosophers": ["aristotle"]
+    },
+    {
+      "n": 10,
+      "title": "New Modes and Orders: Machiavelli, The Prince (chaps. 1-12)",
+      "kind": "lecture",
+      "summary": "The lecture introduces Machiavelli's life and the political situation of Renaissance Florence, arguing that he should be regarded as the founder of the modern state. Machiavelli reconfigures elements of the Christian empire and the Roman republic into a new form of political organization — universalist in ambition yet freed from Christian and classical notions of virtue, and managed by a new type of leader, the prince, marked by ambition and a love of glory.",
+      "concepts": ["political-realism"],
+      "philosophers": ["machiavelli"]
+    },
+    {
+      "n": 11,
+      "title": "New Modes and Orders: Machiavelli, The Prince (chaps. 13-26)",
+      "kind": "lecture",
+      "summary": "The discussion of The Prince continues with Machiavelli as a reformer of the moral Christian and classical concepts of goodness and evil, proposing his own definitions of virtue and vice. Virtu is connected to manliness, force, ambition, and the drive to succeed at any cost, while fortuna must be conquered through force, brutality, and audacity; the lecture also examines the problem of \"dirty hands\" in political and philosophical literature.",
+      "concepts": ["machiavelli-virtu", "machiavelli-ends", "dirty-hands"],
+      "philosophers": ["machiavelli"]
+    },
+    {
+      "n": 12,
+      "title": "The Sovereign State: Hobbes, Leviathan",
+      "kind": "lecture",
+      "summary": "The lecture explores the paradoxes of Hobbes's political thought: a strong defense of absolutism, requiring a complete monopoly of power within a territory, grounded instead in the fundamental equality of humans, a state arising from contract among individuals, sovereign authority by consent of the governed, and a sovereign obliged to secure peace and security. Some have read these ideas as showing a liberal resistance to absolutism.",
+      "concepts": ["social-contract"],
+      "philosophers": ["hobbes"]
+    },
+    {
+      "n": 13,
+      "title": "The Sovereign State: Hobbes, Leviathan",
+      "kind": "lecture",
+      "summary": "The lecture explains three Hobbesian concepts: the state of nature, the condition of human life when there is no authority to impose rules, laws, or order; the individual, whose core traits on Hobbes's account are the capacity to exercise will and the ability to choose; and the laws of nature, the precepts of reason that prohibit us from doing anything destructive of life.",
+      "concepts": ["state-of-nature"],
+      "philosophers": ["hobbes"]
+    },
+    {
+      "n": 14,
+      "title": "The Sovereign State: Hobbes, Leviathan",
+      "kind": "lecture",
+      "summary": "Sovereignty is examined in Hobbesian terms: the sovereign as an office rather than a person, linked to what we now think of as executive power and authority. The lecture also addresses Hobbes's legal theories, including his distinction between \"just laws\" and \"good laws,\" and situates his ideas within the context of the modern state.",
+      "concepts": [],
+      "philosophers": ["hobbes"]
+    },
+    {
+      "n": 15,
+      "title": "Constitutional Government: Locke, Second Treatise (1-5)",
+      "kind": "lecture",
+      "summary": "The lecture discusses Locke's enormous influence on Thomas Jefferson — Locke might be considered an honorary American founding father — and his teaching that human beings are naturally equal and hold natural rights to life, liberty, and property, with legitimate government defined in terms Jefferson echoed in the Declaration of Independence. It also covers Locke's life and works and his reshaping of Machiavelli and Hobbes into a more liberal constitutional theory of the state.",
+      "concepts": ["locke-natural-rights"],
+      "philosophers": ["locke"]
+    },
+    {
+      "n": 16,
+      "title": "Constitutional Government: Locke, Second Treatise (7-12)",
+      "kind": "lecture",
+      "summary": "In the Second Treatise Locke \"rewrites\" the scriptural account of human beginnings, describing how people in a state of nature, with no authority to settle disputes, can hold property gained through their labor. The lecture addresses natural law and government by consent — Locke's most significant contribution to political philosophy, the Doctrine of Consent.",
+      "concepts": ["state-of-nature", "locke-labor-property", "social-contract"],
+      "philosophers": ["locke"]
+    },
+    {
+      "n": 17,
+      "title": "Constitutional Government: Locke, Second Treatise (13-19)",
+      "kind": "lecture",
+      "summary": "The lecture takes up two issues in Locke's Second Treatise: the role of the executive in relation to the legislative branch within Locke's theory of the constitutional state, and the connection between Locke's political theory and the American regime and contemporary American political thought. It concludes with Rawls's A Theory of Justice, examining how Rawls's general theory relates to Locke's political ideas.",
+      "concepts": [],
+      "philosophers": ["locke", "rawls"]
+    },
+    {
+      "n": 18,
+      "title": "Democracy and Participation: Rousseau, Discourse on Inequality (Author's Preface, Part I)",
+      "kind": "lecture",
+      "summary": "The lecture introduces Rousseau's life and works against the political context of France following the death of Louis XIV, presenting the Second Discourse on the roots of inequality and how time and history have shaped human beings. Rousseau examines qualities such as perfectibility, compassion, sensitivity, and goodness to determine which belong to humanity's original nature.",
+      "concepts": ["rousseau-natural-goodness"],
+      "philosophers": ["rousseau"]
+    },
+    {
+      "n": 19,
+      "title": "Democracy and Participation: Rousseau, Discourse on Inequality (Part II)",
+      "kind": "lecture",
+      "summary": "The lecture continues the Second Discourse on the origins of inequality, centering on amour-propre, the disposition related to pride, vanity, and conceit. It then turns to The Social Contract and the problem of freedom — how one person's wish to keep their freedom clashes with others' efforts to protect and defend their own — and presents the general will as Rousseau's answer to securing individual liberty.",
+      "concepts": ["rousseau-natural-goodness", "rousseau-social-contract"],
+      "philosophers": ["rousseau"]
+    },
+    {
+      "n": 20,
+      "title": "Democracy and Participation: Rousseau, Social Contract, I-II",
+      "kind": "lecture",
+      "summary": "The lecture centers on the general will, Rousseau's most significant contribution to political science and his response to civilization's gravest problems: inequality, amour-propre, and widespread discontent. The social contract is presented as the basis of the general will and the answer to the problem of natural freedom, and the lecture closes with Rousseau's legacy and influence on later nineteenth-century writers and philosophers.",
+      "concepts": ["rousseau-social-contract"],
+      "philosophers": ["rousseau"]
+    },
+    {
+      "n": 21,
+      "title": "Democratic Statecraft: Tocqueville, Democracy in America",
+      "kind": "lecture",
+      "summary": "As democracies emerged in early nineteenth-century Europe and the New World, political philosophers began rethinking the relationship between freedom and equality. Tocqueville saw the creation of new forms of social power that presented threats to human liberty, and wrote his most famous work for his French countrymen — still attached to restoring the monarchy — to convince them that the democratic social revolution he witnessed in America would equally shape France's future.",
+      "concepts": ["democracy-theory"],
+      "philosophers": ["tocqueville"]
+    },
+    {
+      "n": 22,
+      "title": "Democratic Statecraft: Tocqueville, Democracy in America",
+      "kind": "lecture",
+      "summary": "The lecture examines three features Tocqueville saw as central to American democracy: the value of local government, the idea of civil association, and the spirit of religion. The work is not merely a celebration of American democracy, since Tocqueville was deeply concerned about the potential for a democratic tyranny.",
+      "concepts": ["democracy-theory"],
+      "philosophers": ["tocqueville"]
+    },
+    {
+      "n": 23,
+      "title": "Democratic Statecraft: Tocqueville, Democracy in America",
+      "kind": "lecture",
+      "summary": "Professor Smith examines the moral and psychological dimensions of the democratic state through Tocqueville: the institutional development of democracy, the traits of the democratic individual, and the psychological roots of democratic character, including an ethic of self-interest described as an antidote to an ethic of fame and glory. Tocqueville is presented as a political educator, with his views on the role of statesmen in a democratic age.",
+      "concepts": ["democracy-theory"],
+      "philosophers": ["tocqueville"]
+    },
+    {
+      "n": 24,
+      "title": "In Defense of Politics",
+      "kind": "lecture",
+      "summary": "The course's final lecture is given in defense of politics, taking up the idea and definition of \"politics\" and \"the political\" with Kant and twentieth-century figures including Bernard Crick, E. M. Forster, and Carl Schmitt. It treats patriotism, nationalism, and cosmopolitanism as integral components of political life, and closes on the role of educators and \"old books\" in developing a proper understanding of the political.",
+      "concepts": ["political-realism"],
+      "philosophers": ["kant", "carl-schmitt"]
+    }
+  ]
+}

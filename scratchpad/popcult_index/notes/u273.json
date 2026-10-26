@@ -1,0 +1,230 @@
+{
+ "book": "188 - The Ultimate South Park and Philosophy - Respect My Philosophah!",
+ "unit": "u273",
+ "chapters": [
+  {
+   "n": 20,
+   "file": "ch20 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "popper"
+   ],
+   "concepts": [
+    "open-society",
+    "democracy-theory"
+   ],
+   "relation": "Argues that South Park performs Popper's defense of the open society by ridiculing 'enemies' on both flanks: Cartman as a Glenn Beck-style ranter in 'Dances with Smurfs' and a xenophobic border agent in 'The Last of the Meheecans', versus liberal fanatics like Rob Reiner in 'Butt Out', Rosie O'Donnell's recount antics in 'Trapper Keeper', and Tom Cruise's litigious Scientology in 'Trapped in the Closet'. The show does not silence extremists but lets them speak and then mocks them, which the authors read through Popper's paradox of tolerance: tolerance cannot be extended to those who suppress criticism, as the Church of Scientology's pressure campaigns showed. A closing section links this to Jefferson's Virginia Bill for Establishing Religious Freedom — 'truth is great and will prevail if left to herself' — making free, offensive argument and dissent the lifeblood of democracy."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "class-struggle",
+    "historical-materialism"
+   ],
+   "relation": "Uses 'The Last of the Meheecans' to argue that Marx's account of labor-power needs race built into it: once Butters is mistaken for a Mexican immigrant 'Mantequilla', the couple who hit him hand him Windex and a leaf blower and he sings 'Work, Mexican, work', showing how racialization assigns his labor a demeaned value. The episode's conflicting stereotypes (lazy shiftless 'Meheecans' versus the hard-working backbone of service labor) and the mass 'Orgullo de Mantequilla' migration home reveal a super-exploited population. The author then recovers Marx's own writings on Polish and Irish liberation, American slavery, and Lincoln's reelection ('labor in the white skin cannot emancipate itself where in the black skin it is branded') to show that for Marx, racial and national domination were always obstacles to working-class freedom."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "locke",
+    "habermas"
+   ],
+   "concepts": [
+    "democracy-theory",
+    "harm-principle",
+    "mill-liberty",
+    "social-contract"
+   ],
+   "relation": "Takes 'Douche and Turd' — Stan refusing to choose between Giant Douche and Turd Sandwich, Puff Daddy's gun-toting 'Vote or Die', and his banishment — plus the kindergarten tie in 'Trapper Keeper' (Flora's indecision, Rosie O'Donnell's recounts) to ask whether every vote counts in a two-party system. Through Locke, Stan's abstention becomes a withdrawal of consent to be governed by either mascot; through Mill, non-voting threatens the active participation that gives institutions legitimacy and wards off tyranny of the majority, even as the chapter catalogs real disincentives: the Electoral College's spectator states, the 2000 Florida debacle, and Commission rules excluding third parties like Nader. Habermas closes the chapter: the vote, read as positive liberty, is the paradigm of rights and inclusion in a community of equals."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rousseau"
+   ],
+   "concepts": [
+    "rousseau-social-contract",
+    "social-darwinism",
+    "class-struggle"
+   ],
+   "relation": "Reads '1%' — where Cartman's failed fitness test makes him the scapegoated one percent, and the school's 99% splinter into warring 83%, 30%, and 5% factions occupying the Red Robin (and its restroom) — through Rousseau's Social Contract on freedom and equality and the dismembered social body, showing how popular solidarity shatters into meaningless percentage tribes. 'Night of the Living Homeless' (the poor as zombies who 'feed on our change', Kyle's $20 spawning the swarm, the shotgun as the only remedy) dramatizes the dehumanizing social-Darwinist picture of the economic undead, and the underpants gnomes' business plan (Phase 1: Collect Underpants, Phase 2: ?, Phase 3: Profit) mocks CEOs who cannot say why they amass wealth. The chapter's own verdict: corporations as such are good (cars, computers, canned soup), and blame falls on the greedy individuals inside them, since death — Tolstoy's two meters of burial land — levels all players."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "adam-smith",
+    "plato"
+   ],
+   "concepts": [
+    "invisible-hand"
+   ],
+   "relation": "Cantor frames South Park with Plato's Silenus image from the Symposium — Socrates' ridiculous, ass-and-cobbler talk hiding wisdom inside — to argue the show's obscenity wraps genuinely philosophical libertarianism, just as Aristophanes' Clouds gave Socrates fart jokes about thunder. Reading 'Gnomes' closely (the gnomes' Collect Underpants/?/Profit plan, Mr. Tweek's slick nostalgia advertising and sale of his son into slavery rhetoric, the boys' flip on Prop 10), the chapter applies Smith's invisible hand: business activity looks like sneaky theft to outsiders, but Harbucks wins by serving consumers, while Mr. Tweek's real sin is enlisting government power against a rival. 'Cripple Fight' (Big Gay Al defending the Boy Scouts' freedom of association) and 'Something Wall Mart This Way Comes' (the store's heart is a mirror reflecting consumer desire) extend the same lesson — freedom cuts both ways, and the market answers to shoppers, not regulators."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "george-herbert-mead"
+   ],
+   "concepts": [
+    "harm-principle",
+    "mill-liberty",
+    "applied-ethics"
+   ],
+   "relation": "Challenges the received libertarian message of 'Medicinal Fried Chicken' — Randy giving himself testicular cancer for a marijuana prescription, Cartman bootlegging KFC in a Scarface parody after Colorado bans fast food — by pressing Mill's liberty principle on what 'harm' means: Mr. Garrison's plot to murder the Queer Eye cast is immediate harm, but the S&M Mr. Slave displays to schoolchildren in 'The Death Camp of Tolerance' is only indirect, psychologically mediated harm Mill cannot clearly handle. Addiction then undermines Mill's assumption of sovereign tastes: corporations can shape desire without coercing anyone, so the libertarian 'omnicompetent individual' is a myth. Mead's intersubjectivity (Randy smoking pot before Officer Barbrady, blind to how Jimbo sees him) grounds the constructive claim that selves are socially formed, and the shark-tank defecation and Prisoner's Dilemma examples show why collective harms need rules and regulation."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "kant",
+    "nozick",
+    "locke"
+   ],
+   "concepts": [
+    "harm-principle",
+    "deontology",
+    "consequentialism",
+    "kant-autonomy"
+   ],
+   "relation": "Defends South Park's anti-paternalism on both consequentialist and deontological grounds. 'Major Boobage' shows the futility of Gerald's cat ban meant to stop kids 'cheesing' — Kenny still gets high and Gerald himself relapses — while 'Medicinal Fried Chicken' shows how the KFC prohibition births a violent black market, with Cartman's $85 snack pushing him into the Colonel's Scarface-style drug war. On the deontological side, Mill's 'over himself, over his own body and mind, the individual is sovereign', Locke's self-ownership, and Kantian respect for rational agents (via Nozick's inviolability, and the authors' autarchy-versus-autonomy distinction) ground the claim that coercion is wrong even when benevolent: 'Butt Out' has Kyle and Stan tell Rob Reiner that forcing others to quit smoking is fascism, while Big Tobacco's Kevin Harris wins their approval simply by informing and letting people choose."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill"
+   ],
+   "concepts": [
+    "harm-principle",
+    "applied-ethics"
+   ],
+   "relation": "Uses 'Follow That Egg!' — Mrs. Garrison's jealous crusade to stop Mr. Slave marrying Big Gay Al, her two-daddy egg experiment where Stan and Kyle out-parent Cartman, and the governor's 'butt buddies' separate-but-equal compromise — to demolish the standard arguments against gay marriage (scripture, dictionary definition, procreation, tradition, harm to children, the slippery slope to polygamy and incest) as post-hoc rationalizations of disgust. Mill's harm principle and negative liberty supply the positive case: unlike under-age, incestuous, or polygamous marriage, gay marriage demonstrably harms no one, so no legitimate reason remains to ban it, and rights should never be put to a referendum anyway. The 'butt buddies' label fails because separate is never equal — marriage's social recognition, not just its 1,100 benefits, is what its defenders are denied."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer",
+    "mill"
+   ],
+   "concepts": [
+    "speciesism",
+    "animal-liberation",
+    "utilitarianism",
+    "moral-egoism"
+   ],
+   "relation": "Uses 'Fun with Veal' (the boys' bedroom standoff over baby calves, the FDA renaming veal 'tortured baby cows', Stan's meat strike punished by 'vaginitus'), 'Whale Whores' (the Japanese hating dolphins until Stan's doctored Enola Gay photo swaps in a cow and chicken), and 'Pee' (researchers peeing on rhesus monkeys) to pose the line-drawing problem: why do we protect cute animals and slaughter yummy ones? Neither intelligence (pigs versus dogs), utility, age, nor cuteness survives scrutiny as a morally relevant criterion — if it did, Nurse Gollum or Timmy would lose standing. Singer's speciesism analogy and the utilitarian inclusion of all who can suffer are then applied: Cartman, who draws his moral circle around himself, is the honest ethical egoist, while Kyle and Butters' selective vegetarianism and the adults' meat-eating inconsistency are exactly what Singer's view condemns."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "schopenhauer",
+    "sextus-empiricus",
+    "pythagoras"
+   ],
+   "concepts": [
+    "plato-tripartite-soul",
+    "schopenhauer-will",
+    "pythagorean-harmony",
+    "plato-forms"
+   ],
+   "relation": "Reads South Park's music through the Greek doctrine of ethos: Sextus Empiricus' story of Pythagoras sobering drunk youths with slow aulos tunes and Plato's banishment of the soft Ionian and Lydian modes anticipate episodes where music directly changes behavior — Slayer's 'Raining Blood' scattering the hippie horde in 'Die Hippie Die', Cher blasted at the ATF standoff, and the Brown Noise in 'World Wide Recorder Concert'. Plato's tripartite soul maps how the Succubus's 'Morning After' spell enchants Chef's appetitive soul until the boys reverse the melody, while the Sirens' cosmic harmony in the Republic's Myth of Er links back to pitch-planet correspondences. Against Plato's view of music as inferior imitation, Schopenhauer's claim that music copies the Will itself explains why Grandpa's Enya torture in 'Death' communicates despair better than argument; authenticity judgments (Phil Collins appreciated only on Ritalin, Cartman's cynically reworded Faith + 1 hits) echo Plato's demand that music imitate the good."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - THE ULTIMATE SOUTH PARK AND PHILOSOPHY.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 20,
+   "type": "philosopher",
+   "suggested_slug": "thomas-jefferson",
+   "name": "Thomas Jefferson",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "American Founding Father and democratic theorist who grounded complete intellectual and religious liberty in natural right ('God hath created the mind free'), holding that truth prevails in free argument and debate.",
+   "why": "Chapter 20 devotes a full section to Jefferson's Virginia Bill for Establishing Religious Freedom as the American counterpart to Popper's open society, and the taxonomy lacks him entirely."
+  },
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "labor-theory-of-value",
+   "name": "Labor Theory of Value",
+   "philosopher": "marx",
+   "domain": "nineteenth-century",
+   "what": "The Marxist doctrine that a commodity's value is determined by the labor required to produce it, with labor-power itself priced at subsistence and subject to a 'historical and moral element'.",
+   "why": "Chapter 21's whole argument is that 'The Last of the Meheecans' shows racialization modifying the value of Mantequilla's labor-power — a central Marxian concept the taxonomy's other Marx slugs (alienation, fetishism, ideology) do not cover."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "libertarianism",
+   "name": "Libertarianism",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The political philosophy that individual liberty — in markets and in personal life alike — is primary and trumps state intervention, descended from Smith, the Austrian School (Mises, Hayek), and Rothbard.",
+   "why": "Chapters 25 through 27 argue South Park expresses Parker and Stone's self-identified libertarianism (free markets, anti-paternalism, self-ownership), yet the taxonomy has no libertarianism concept, only pieces like minimal-state or invisible-hand."
+  },
+  {
+   "ch": 26,
+   "type": "philosopher",
+   "suggested_slug": "george-herbert-mead",
+   "name": "George Herbert Mead",
+   "philosopher": "",
+   "domain": "pragmatism-american",
+   "what": "American pragmatist philosopher and social psychologist who argued that the self emerges from the social process through 'taking the attitude of the other'.",
+   "why": "Chapter 26 builds its refutation of the libertarian 'omnicompetent individual' on Mead's intersubjectivity, using Randy's failure to see himself as Jimbo sees him in 'Medicinal Fried Chicken', and the taxonomy lacks Mead."
+  }
+ ]
+}

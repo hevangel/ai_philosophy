@@ -1,0 +1,187 @@
+{
+ "book": "223 - The Philosophy of J.J. Abrams",
+ "unit": "u324",
+ "chapters": [
+  {
+   "n": 19,
+   "file": "ch19 - The Big Score Fate, Morality, and Meaningful Life in The Killing Steven M. Sanders.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "seneca",
+    "mill"
+   ],
+   "concepts": [
+    "stoicism",
+    "meaning-of-life",
+    "virtue-ethics",
+    "fate-vs-free-will"
+   ],
+   "relation": "Sanders reads Kubrick's heist film The Killing through Stoic and Aristotelian ethics, casting Johnny Clay (Sterling Hayden) as a 'stoical cool' figure whose surrender line 'What's the difference?' embodies apatheia, acceptance of fate. He argues Clay's doom (the burst suitcase, Nikki's fatal horseshoe) works as Kubrick's fate-driven moral verdict but strains Aristotle's principle that a truly prudent agent would not suddenly go to pieces. Weighing Aristotelian character-evaluation against Mill's outcome-based ethics, Sanders questions why Clay 'must' fail and treats his lack of self-critical rationality as the real obstacle to a meaningful life."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Part Four The Subject in History.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Spartacus and the Second Part of the Soul Gordon Braden.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "plutarch"
+   ],
+   "concepts": [
+    "plato-tripartite-soul",
+    "plato-justice"
+   ],
+   "relation": "Braden argues that Kubrick's Spartacus, despite its chaotic production, coheres around Plato's tripartite soul as mediated by Plutarch's analysis of Roman politics. He maps the film's rivalries onto to thymoeides, the soul's 'second' spirited part governed by philotimia (love of honor): Crassus's obsessive hamilla with Gracchus, and his skewed contest with Spartacus over Varinia and Antoninus. Reading Draba's trident-throw and Crassus's closing 'now I fear him' as the spirited part's competitiveness overrunning reason, Braden shows the gladiatorial paired combat mirroring republican politics on its way to the Principate."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Shape of Man The Absurd and Barry Lyndon Chris P. Pliatska.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nagel",
+    "camus"
+   ],
+   "concepts": [
+    "the-absurd",
+    "sisyphus",
+    "meaning-of-life"
+   ],
+   "relation": "Pliatska reads Barry Lyndon through Camus's Sisyphus and, chiefly, Nagel's distinction between conventional absurdity (a discrepancy between aspiration and reality, like the mechanical digger wasp Sphex) and philosophical absurdity (the collision of participant and external viewpoints). He argues Kubrick's painterly tableaux, slow reverse zooms, and the detached narrator force viewers from identification into an external, sub specie historiae perspective, exposing Barry's ambitions as conventionally absurd. That recognition then turns back on the audience as the inescapable philosophical absurdity of the human condition, though Pliatska finds Kubrick's tone more lamenting than Nagel's ironic equanimity."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Shining and Anti-Nostalgia Postmodern Notions of History R. Barton Palmer.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard",
+    "jameson"
+   ],
+   "concepts": [
+    "simulacra",
+    "grand-narratives"
+   ],
+   "relation": "Palmer reads The Shining as a postmodern anti-nostalgia film using Fredric Jameson's account of late-capitalist culture as a depthless perpetual present that can only cannibalize the past as pastiche. He argues Kubrick invokes the ghost-story and nostalgia-film conventions of 1970s Hollywood only to reject them: Jack Torrance's endlessly retyped 'All work and no play' and his entrapment between the empty present and the 1921 ballroom photo dramatize the failing artist 'adrift in a kind of weightlessness,' echoing Baudrillard's post-deconstruction art that can only play with the pieces. The Citizen Kane homage that closes the film deliberately refuses the explanation its model provided."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Part Five The Subject of the Future.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Nihilism and Freedom in the Films of Stanley Kubrick Daniel Shaw.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "sartre"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "will-to-power",
+    "sartre-freedom"
+   ],
+   "relation": "Shaw surveys Kubrick's oeuvre to argue that, contrary to his nihilistic reputation, Kubrick affirms human free will. Centering on A Clockwork Orange, he reads the 'Ode to Joy' ending as celebrating Alex's recovered capacity for moral choice against the Ludovico technique's deterministic conditioning, invoking Burgess's 'clockwork orange' and the chaplain's warning. Using Kevin Stoehr's Nietzschean distinction between active and passive nihilism, and reading Eyes Wide Shut through Sartre's account of love and radical freedom, Shaw contends Kubrick's protagonists (Dax, Bowman, Joker, Bill Harford) exercise real choice, making dehumanization the loss of that choice."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - “Please Make Me a Real Boy” The Prayer of the Artificially Intelligent Jason T. Eberl.md",
+   "kind": "chapter",
+   "philosophers": [
+    "turing",
+    "hegel",
+    "aristotle",
+    "boethius"
+   ],
+   "concepts": [
+    "turing-test",
+    "hegel-master-slave",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "Eberl argues that HAL 9000 in 2001 and David in A.I. present sufficient evidence of personhood, testing them against the Turing test, behaviorism, and Boethius's definition of a person as an individual substance of a rational nature. He uses Hegel's master-slave dialectic of recognition to explain the deadly struggle between humans and their self-conscious creations, reading Bowman's disconnection of HAL and the Flesh Fair's destruction of Mechas as humans failing to recognize persons. Invoking Aristotle's telos and virtue, he claims the Flesh Fair's real moral crime is precluding Mechas from pursuing their own flourishing, while David's Pinocchio-like leap of faith marks him as person-like."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Nietzsche’s Overman as Posthuman Star Child in 2001 A Space Odyssey Jerold J. Abrams.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "plato",
+    "bostrom"
+   ],
+   "concepts": [
+    "ubermensch",
+    "death-of-god",
+    "last-man",
+    "noble-lie"
+   ],
+   "relation": "Abrams reads 2001 as a cinematic staging of Nietzsche's Thus Spoke Zarathustra, mapping the film's ape-to-human-to-Star-Child arc onto Zarathustra's evolutionary vision of the overman. He casts the discovery of the buried moon monolith as Kubrick's death of God (proving aliens, not God, seeded us) maintained by a Platonic noble lie, the astronauts as Nietzsche's higher men, and Bowman's decadent hotel-room decline plus Poole's fall as the last man and the dying tightrope walker. He then argues the prophecy may come true not via aliens but through Kurzweil's Singularity and Moravec's posthuman 'mind children'."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Filmography.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Contributors.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 23,
+   "type": "philosopher",
+   "suggested_slug": "jameson",
+   "name": "Fredric Jameson",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Marxist literary and cultural theorist who analyzed postmodernism as the cultural logic of late capitalism.",
+   "why": "Chapter 23's entire reading of The Shining is built on Jameson's account of the depthless postmodern present, pastiche, and the nostalgia film, and no taxonomy philosopher covers him."
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "pastiche-nostalgia",
+   "name": "Pastiche and the Nostalgia Film",
+   "philosopher": "jameson",
+   "domain": "political-social",
+   "what": "Jameson's idea that late-capitalist art, lacking a living present, produces blank imitation of past styles, exemplified by the nostalgia film.",
+   "why": "Chapter 23 turns on this specific postmodern mechanism to explain The Shining's anti-nostalgia; the nearest taxonomy slug, simulacra, names a related but distinct Baudrillardian idea."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "posthumanism-singularity",
+   "name": "Posthumanism and the Technological Singularity",
+   "philosopher": "bostrom",
+   "domain": "knowledge-science-reality",
+   "what": "The idea, developed by Kurzweil and Moravec, that accelerating AI will produce superintelligent 'mind children' and transcend biological humanity.",
+   "why": "Chapter 27's whole forward-looking argument rests on Kurzweil's Singularity and Moravec's mind children as the real route to Kubrick's Star Child, which no existing taxonomy concept captures."
+  }
+ ]
+}

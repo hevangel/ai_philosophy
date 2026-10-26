@@ -1,0 +1,228 @@
+{
+ "book": "093 - More Doctor Who and Philosophy - Regeneration Time",
+ "unit": "u149",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - ii.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Once More into the Time Vortex.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editors' introduction: it surveys what changed since the first Doctor Who and Philosophy volume (the War Doctor, the Trenzalore death and survival, the Impossible Girl, Dalek divine hatred, the Master becoming 'the Mistress') and previews the volume's questions—whether Clara is possible, whether the Doctor may lie, whether he could have avoided Trenzalore, and whether the Ninth Doctor's 'coward, any day' pacifism gave way to the Twelfth's less-pacifistic cowboy streak. It also introduces the fandom insiders (podcasters, convention runners, a Time Lord Rock musician) who serve as 'Time Lord Presiding' over each Serial, framing the book around the show's emphasis on personal identity and time paradoxes."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Serial 1 The Real Never-Ending Story.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Magnetic North.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["virtue-ethics", "moral-psychology"],
+   "relation": "Siler answers the Twelfth Doctor's question 'Am I a good man?' from 'Into the Dalek' by arguing that goodness is the Doctor's 'magnetic north'—the stable moral orientation his regenerations bend back toward, the force that drove him from Gallifrey's corrupt Time Lords. He concedes a dark side, from the would-be caveman killing of 'An Unearthly Child' to the 'Time Lord Victorious' arrogance of 'The Waters of Mars,' but insists character must be judged over a whole life, including the Doctor's effect on companions like Jo Grant, Leela, Ace, and Rose, whom he teaches 'a better way of livin' your life.' Clara's closing verdict—that he tries to be good and 'that's probably the point'—caps the claim that a settled direction of character, not perfection, makes him a good man."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 1. A Good Man Goes to War.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["virtue-ethics", "terrorism-violence"],
+   "relation": "Pless argues the Doctor's shift from the Ninth's self-avowed 'coward, any day' to the Eleventh's gun-toting action hero tracks real-world politics and markets rather than internal story logic: after the 7/7 London bombings and amid the War on Terror, and as the show's global export grew, a war-weary British ideal gave way to the decisive 'Oncoming Storm.' She traces the arc through the Tenth's gleeful xenocide of the Racnoss in 'The Runaway Bride,' the eternal punishment of the Family of Blood, the Eleventh brainwashing humanity to exterminate the Silence in 'Day of the Moon,' and the assault of 'A Good Man Goes to War,' before 'The Day of the Doctor' retcons the Time War so the Doctor never destroyed the Time Lords, validating the action-hero persona. Her conclusion: in a crisis culture demanding proactive heroes, cowardice—once the Doctor's honest self-assessment—was rebranded as vice."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 2. How Time Lords Invented TV.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Dray reads Doctor Who as a metaphor for television itself: the Doctor and his box emerge from a junkyard just after FCC chairman Newton Minow called TV a 'vast wasteland,' and the show turns the medium's supposed weaknesses—shaky effects, departing actors, budget limits—into its fiction, most famously converting William Hartnell's failing health into regeneration. Following 'An Unearthly Child' through the cancellation-era New Adventures novels, the flawed 1996 TV movie, and the Davies and Moffat eras (including Amy literally believing the erased Doctor back into existence in 'The Big Bang'), he argues television's iterative, audience-entangled, endlessly rewritable nature is the show's real subject. The TARDIS, 'bigger on the inside,' is television itself, and 'The Day of the Doctor' celebrates a medium that can remake the old anew—self-interrogating its own dangers in stories like 'The Idiot's Lantern' and 'Bad Wolf.'"
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 3. The Mystical Alchemy of “Midnight”.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Sas uses literary alchemy's three-stage magnum opus to read 'Midnight' as the nigredo—the black stage of dissolution that begins the Tenth Doctor's arc of purification, death, and rebirth ending in his regeneration in 'The End of Time.' She shows Russell T Davies loading the episode with nigredo imagery: the deadly Xtonic sunlight that calcinates bodies to ash, the planet of endless 'midnight' and witching-hour folklore, the Salem-style mob panic modeled on The Crucible as the mimicking Sky drives the passengers to demand a sacrificial victim, and the Doctor stripped of TARDIS, companion Donna, authority, and finally his voice. The Doctor's humbling—he solves nothing and is saved only by the Hostess's self-sacrifice—purges the ego that later swells into 'Time Lord Victorious,' while his reunion with the fiery Donna foreshadows the alchemical fusion of the DoctorDonna and eventual rebirth."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 4. How Possible Is the Impossible Girl.md",
+   "kind": "chapter",
+   "philosophers": ["freud", "jung", "aristotle", "plato"],
+   "concepts": ["personal-identity", "freud-unconscious", "jung-archetypes", "jung-collective-unconscious"],
+   "relation": "Smith asks how one Clara can exist as Oswin the converted Dalek, a Victorian governess, and a present-day nanny, and answers with philosophy of mind: after the real Clara steps into the Doctor's timeline on Trenzalore, the 'echoes' are best understood as manifestations within the Doctor's own subconscious, read through Freud's dream interpretation and id-ego-superego (the echoes act as his conscience) and Jung's archetypes, collective unconscious, individuation, and synchronicity—her name meaning clarity, her red wardrobe marking the copies, and the leaf of 'The Rings of Akhaten' as the meaningful coincidence that produced her. Aristotle's Categories frames what Oswin still shares with humanity after Dalek conversion, and the soufflé-is-the-recipe line together with social-cognition research on multiple selves supports the conclusion that the Claras are metaphysically the same person despite different bodies and roles—making the 'Impossible Girl' possible."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 5. Every Lonely Monster Needs a Companion.md",
+   "kind": "chapter",
+   "philosophers": ["aristotle", "plato", "hume"],
+   "concepts": ["aristotle-friendship", "plato-ring-of-gyges", "hume-is-ought", "care-ethics"],
+   "relation": "Gadsden asks why a near-omnipotent Time Lord needs companions at all and tests four hypotheses against his solo meltdowns—executing Solomon in 'Dinosaurs on a Spaceship,' nearly murdering Jex in 'A Town Called Mercy,' and declaring himself 'Time Lord Victorious' in 'The Waters of Mars.' He rejects the Lord Acton power-corrupts hypothesis via Glaucon's ring story in Plato's Republic, since powerless companions offer no threat of reprisal or dishonor, and qualifies J.J. Sylvia's care-ethics 'empathetic link' because the Doctor cares for non-human species like the Star Whale too. He favors two answers: Hume's fact/value gap as a millennium-long moral myopia ('I can't see it anymore,' the deleted 'Flesh and Stone' confession), and Aristotle's point in the Nicomachean Ethics that only virtuous friends—moral peers who mirror us—can expose the Doctor's blind spots, like his 'God Complex.'"
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Serial 2 Mind-Bending Impossibility-Shattering Jammie Dodgers.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - You’re Fantastic!.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["aristotle-potentiality"],
+   "relation": "Viguié's Serial 2 preface argues the show's ultimate philosophy is 'you're fantastic': the Doctor takes people yearning for something more—Rose the shop girl becoming Bad Wolf, Rory becoming the Last Centurion, Donna the temp becoming in a way the Doctor herself—and actualizes potential they never believed they had. He applies the lesson to his own life, describing how the show's belief in untapped human potential pushed him from a soul-sucking job to creating his Doctor Geek's Laboratory STEM-outreach audio show and Science Fair, urging readers to answer the Doctor's call and live up to what the Fourth Doctor called our 'inventive, invincible, indomitable' species' promise."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 6. Weeping Angels and Many Worlds.md",
+   "kind": "chapter",
+   "philosophers": ["aristotle"],
+   "concepts": ["free-will-determinism", "time-travel", "possible-worlds"],
+   "relation": "Sutton argues the causal loops of 'Blink' and 'The Angels Take Manhattan' need not destroy libertarian free will: the Doctor's claim that a known future is 'written in stone' conflates ordinary foreknowledge, which leaves agents free to make the knower wrong, with infallible knowledge that only exists because the act occurs. Adapting Hugh Everett's many-worlds interpretation of quantum mechanics to free choices, he shows how branching timelines let the Doctor read Melody Malone, decline to break River's wrist, and still close the loop—some parallel Doctor does what the book records—while Aristotle's future contingents in De Interpretatione secure the indeterminacy of what 'will' happen. Answering the objection that branch-splitting is really fatalism, he appeals to the subjective viewpoint (what matters is 'my me'), explains how Kathy and Billy's messages in 'Blink' reach Sally on at least one branch, and solves why the Doctor is always so lucky: we follow the one branch where he survives."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 7. What the Doctor Can and Can’t Change.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["free-will-determinism", "time-travel", "compatibilism", "fate-vs-free-will"],
+   "relation": "Delamont codifies the Whoniverse's four rules of time travel—time can be rewritten, fixed points cannot, knowing your future fixes it, and crossing your own timeline should be avoided—from cases like 'The Waters of Mars' (Adelaide's suicide restoring the fixed outcome), 'The Angels Take Manhattan' (Rory vanishing at the sight of his gravestone), 'Father's Day,' and 'The Girl Who Waited.' She then asks whether the Doctor could have avoided Trenzalore and argues the universe is hard-deterministic once amended with the laws of time travel, since rules 2–4 constrain action the way soft determinism's freedom from external forces would not allow. Tracing the causal dominoes back from the truth-field question through the Silence, River's creation, the Pandorica, and the Time Lords' pocket-universe broadcast to the crack in Amy's wall, she concludes he could not have avoided Trenzalore short of unwriting his entire history—'you can't change history if you're part of it.'"
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 8. Could the Doctor Have Avoided Trenzalore.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["free-will-determinism", "time-travel", "possible-worlds", "fate-vs-free-will"],
+   "relation": "Pigliucci treats the two Trenzalore timelines of 'The Name of the Doctor' and 'The Time of the Doctor' as allohistory—an if-then counterfactual in Livy's tradition about Alexander the Great—and argues Everettian many-worlds quantum mechanics best explains how the Time Lords' one decision (granting or withholding a new regeneration cycle) can go both ways across parallel worlds. Rejecting contra-causal free will as a theological leftover, he prefers the cognitive scientist's 'volition' and defends compatibilism: the split stems from ordinary quantum-random interaction during deliberation, not magic, so the Doctor's choices are real without violating physics. Distinguishing fate from free will via Oedipus and the Doctor's 'Destiny Trap,' he concludes the Doctor was fated to make his last stand on Trenzalore as a fixed point in time, while the outcome of the siege depended on a genuine choice that, as David Deutsch puts it, thickened the stack of universes where good things happen."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 9. How the Doctor Knows.md",
+   "kind": "chapter",
+   "philosophers": ["descartes", "goldman", "peirce", "plato"],
+   "concepts": ["brain-in-a-vat", "reliabilism", "cartesian-doubt", "descartes-cogito"],
+   "relation": "Smithka argues the Doctor is a reliabilist about knowledge rather than a Cartesian strong foundationalist: using 'Amy's Choice,' 'The Beast Below' (the glass of water, the engine room, Amy's inference that the Star Whale came willingly), 'Silence in the Library' (the chicken-leg experiment implicating the Vashta Nerada), and Davros's Dalek trials in 'Genesis of the Daleks,' she shows him trusting perception in the right causal chain and reasoning inductively and abductively—Peirce's inference to the best explanation—instead of demanding Cartesian certainty. Against Descartes's dream and evil-genius skepticism, updated as Putnam-style brain-in-a-vat scenarios via the Dream Crabs of 'Last Christmas' and the Dream Lord's two-worlds game, she deploys Goldman's three criteria for perceptual knowledge: justification is packed into reliable belief-forming processes, and doubt is warranted only in known abnormal contexts like funhouses or Dream Lord games."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 10. One Good, Solid Hope—the Impossible Girl.md",
+   "kind": "chapter",
+   "philosophers": ["locke", "plutarch"],
+   "concepts": ["locke-personal-identity", "ship-of-theseus", "personal-identity"],
+   "relation": "Elsby and Luzecky ask what stays constant across Clara's echoes and argue traditional identity theories fail her: Locke's memory-continuity and same-life account cannot apply because no echo remembers the others, and Plutarch's Ship of Theseus—invoked by the Doctor's broom speech in 'Deep Breath'—rules out bodily continuity, since the echoes have different bodies and minds. Their positive view is that Clara is less a particular than a universal, a 'recipe' or species whose instances share an essence ('the soufflé isn't the soufflé; the soufflé is the recipe'), with the modern-day Clara 'real' as the origin of the echoes. That essence, shown in climbing the ladder to the clouds in 'The Snowmen,' facing the parasite-god with the most important leaf in human history in 'The Rings of Akhaten,' stepping into the Doctor's torn timeline in 'The Name of the Doctor,' and persuading the Time Lords in 'The Time of the Doctor,' is hope itself."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 11. What the Soufflé Girl Could Teach Descartes.md",
+   "kind": "chapter",
+   "philosophers": ["descartes", "freud", "putnam", "turing", "ryle"],
+   "concepts": ["cartesian-doubt", "cartesian-dualism", "brain-in-a-vat", "turing-test"],
+   "relation": "Becker-Lindenthal uses 'Amy's Choice' to revise Descartes's dream skepticism: the Dream Lord is not an external evil demon but the Doctor's own repressed alter ego fed by psychic pollen, so the self-delusion Descartes dismissed becomes the real deceiver, read through Freud's Interpretation of Dreams (Rory's death as the Doctor's wish, Amy's choice as Thanatos). She then reads Oswin in 'Asylum of the Daleks' as a brain-in-a-vat variant (Putnam's Reason, Truth and History) with a crucial difference—Oswin hacks the Dalek program and follows her own agenda—so her self-deceptive soufflé-baking fantasy is a self-formation that preserves her 'I' inside Dalek hardware, complicating Ryle's rejection of the ghost in the machine. Finally, the Doctor judges Oswin by a Turing test plus Putnam's test of reference (the impossible milk and eggs), but her self-deception is vindicated when it lets her save the Doctor and the universe."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - 12. How to Build a TARDIS.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["time-travel"],
+   "relation": "Physicists Tippett and Tsang lay out a real general-relativistic 'TARDIS'—a Traversable Achronal Retrograde Domain in Spacetime: a bubble of curvature carrying occupants around a closed loop through space and time, with outside observers seeing two bubbles, one evolving forwards and one backwards, and interior events bound by Novikov's self-consistency condition. After touring the Alcubierre warp drive, Morris-Thorne wormholes with their twin-paradox time offset, the Tipler cylinder's frame dragging, and the Grandfather Paradox (with 'Father's Day' and 'Genesis of the Daleks' as illustrations), they show their geometry requires exotic, gravitationally repulsive faster-than-light matter violating the classical energy conditions. Splicing cut TARDIS segments could connect any two events in space and time, and a half-TARDIS would send its traveler emerging backwards in time as antimatter, as when Omega converts the Doctors in 'The Three Doctors.'"
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Serial 3 Values in the Time Vortex.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - The Doctor Who Masculine Romantic Ideal.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Spivey's Serial 3 preface proposes 'The Doctor Who Masculine Romantic Ideal': female fans are drawn to the Doctor's humor under fire (the banana daiquiri, the tie wrapped round his head), his lively intellect, and his 'broken while unattainable' past—the post-Time-War scars that kept him aloof from Rose, and the sense that he is a damaged man worth saving. Writing from his background in interpersonal communication and his experience as a Gallifrey-inspired rock musician dubbed 'Sexiest Man in Tampa Bay,' he argues the Doctor's appeal transfers by association to fandom men who share these traits, and that bookish 'cool savants' overlooked by traditional masculinity can cultivate this ideal—humor, intellect, and honorable wounds—as a genuine romantic alternative."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 13. Should the Doctor Eat His Companions.md",
+   "kind": "chapter",
+   "philosophers": ["bentham"],
+   "concepts": ["utilitarianism", "speciesism", "food-ethics"],
+   "relation": "Littmann turns the Doctor-companion relationship into a mirror for animal ethics: since the Doctor stands to humans as we stand to animals—deciding for Rose without asking in 'The End of the World,' implanting nanorecorders unconsented in 'Day of the Moon'—every standard justification for our treatment of animals (might makes right, superior intelligence, natural predation) would equally license him to eat Clara cutlets, yet he instead defends humanity from Daleks, Cybermen, and naturally predatory species like the Weeping Angels, the Minotaur, and the Swarm. Finding no non-arbitrary place to draw the intelligence line—what of the human-level gangers, the enslaved Ood, or mentally disabled humans?—he endorses Bentham's utilitarian suffering standard from 'Can they suffer?', concluding that eating humans fails the utilitarian test because the pleasure cannot outweigh a whole life's happiness, and that whether eating meat passes that same test is the question our own treatment of animals must answer."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 14. The Doctor’s Desire for Human Suffering.md",
+   "kind": "chapter",
+   "philosophers": ["nietzsche", "mill"],
+   "concepts": ["amor-fati", "will-to-power", "last-man"],
+   "relation": "Cooper reads 'Rise of the Cybermen' and 'The Age of Steel' as staging Nietzsche against Mill's pain-eradicating utilitarianism: John Lumic, who builds the Cybermen to abolish his sickness, exemplifies the life-denying herd—losing his creativity, craving 'unity and uniformity,' becoming 'a living brain with a heart of steel'—while the Doctor, answering that a life without pain would be 'you might as well kill me,' affirms suffering as the source of creativity, striving, and strength. She extends the Nietzschean reading to the Doctor's character: his guilt over the Time War double-genocide and his loneliness ('the only certainty left is that you'll end up alone') become the pain that makes him merciful, from offering Dalek Caan compassion after 'Evolution of the Daleks' to forgiving the Master in 'Last of the Time Lords,' so that mercy is, as the Genealogy of Morals says, 'the privilege of the most powerful man.'"
+  }
+ ],
+ "holes": [
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "philosophy-of-television",
+   "name": "Philosophy of Television (medium theory)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The philosophical study of television as a distinctive medium—its seriality, iterative evolution, liveness, and intimacy with its audience—and how the medium shapes the stories it carries.",
+   "why": "Chapter 11 argues Doctor Who is a metaphor for television itself, built on the medium's junkyard origins, regeneration-as-recasting, and audience co-creation—a genuine topic no taxonomy slug covers."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "literary-alchemy",
+   "name": "Literary Alchemy (nigredo, albedo, rubedo)",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "A symbolic framework descending from medieval and Renaissance alchemy in which writers depict a character's transformation through stages of dissolution (nigredo), purification (albedo), and rebirth (rubedo).",
+   "why": "Chapter 12's entire reading of 'Midnight' as the nigredo of the Tenth Doctor's death-and-rebirth arc depends on the concept of literary alchemy, which taxonomy.json lacks."
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+  "book": "215 - The Philosophy of the Beats",
+  "unit": "u310",
+  "chapters": [
+    {
+      "n": 20,
+      "file": "ch20 - High Off the Page Representing the Drug Experience in the Work of Jack Kerouac and Allen Ginsberg.md",
+      "kind": "chapter",
+      "philosophers": ["merleau-ponty", "deleuze"],
+      "concepts": ["embodiment", "phenomenology", "applied-ethics"],
+      "relation": "Erik Mortenson argues that Kerouac's and Ginsberg's drug writing works 'through the body' to transmit the altered temporality of intoxication to the reader, using Merleau-Ponty's account of original speech and the lived body as gesture, and Deleuze and Guattari's 'Body Without Organs' and speeds. Marijuana expands the present into Kerouac's long exfoliating sentences and empathetic 'digging' (Visions of Cody, On the Road), while Benzedrine contracts it into the accelerated confessional rush of The Subterraneans; Ginsberg's LSD poems ('Lysergic Acid,' 'Wales Visitation') hit the limit of representing timelessness. The chapter concludes the writing lets the nonuser get 'high off the page' without the dependency Deleuze and Guattari warn of."
+    },
+    {
+      "n": 21,
+      "file": "ch21 - Genius All the Time The Beats, Spontaneous Presence, and Primordial Ground.md",
+      "kind": "chapter",
+      "philosophers": ["buddha", "dogen"],
+      "concepts": ["zen", "buddhist-non-self", "nagarjuna-emptiness"],
+      "relation": "Marc Olmsted reads Beat spontaneity through Tantric (Vajrayana) Buddhism, arguing that 'first thought, best thought' and Kerouac's 'Mind is shapely, art is shapely' rest on the view that enlightenment/awareness is already present and need only be recognized. He maps Ginsberg's poetics onto the Tantric terms Ground, Path, and Fruition, tying shamatha-vipashyana practice and the doctrine of anatta (no-self) to the poet catching the first pre-conceptual thought. Ginsberg's Blake visions, his study under Trungpa and Gelek Rinpoche, and Burroughs's cut-up 'homemade yankee tantra' are offered as evidence that Beat composition enacts a Buddhist recognition of primordial, empty, self-existing awareness."
+    },
+    {
+      "n": 22,
+      "file": "ch22 - Spontaneity, Immediacy, and Difference Philosophy, Being in Time, and Creativity in the Aesthetics of Jack Ker.md",
+      "kind": "chapter",
+      "philosophers": ["shankara", "descartes"],
+      "concepts": ["atman-brahman", "bergson-duration"],
+      "relation": "David Need contrasts three theories of 'being in time' behind the aesthetics of spontaneity: Kerouac's debt to Spengler's organic cycles of civilization (a stereoscopic, dualist view where an arbitrary measure like a candle or page limns deep being), Olson's use of Whitehead's 'concrescence' in 'Projective Verse' (a monist, all-at-once projection of new monads), and Cage's use of Coomaraswamy's Vedanta, where silence is sabdabrahman and chance imitates Nature. He argues the real fault line is the old monist-vs-dualist divide (Advaita brahman vs. Cartesian dualism), and that each artist's notion of creative freedom follows from which metaphysical schema he borrowed, so our quarrels with the Beats reflect our own metaphysical stakes."
+    },
+    {
+      "n": 23,
+      "file": "ch23 - IV. Beat Politics Ethics and Affinities.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 24,
+      "file": "ch24 - Two Ways of Enduring the Flames The Existential Dialectics of Love in Kierkegaard and Bukowski.md",
+      "kind": "chapter",
+      "philosophers": ["kierkegaard", "lacan"],
+      "concepts": ["philosophy-of-love", "leap-of-faith", "kierkegaard-despair"],
+      "relation": "Andreas Seland argues that Kierkegaard and Bukowski offer opposed responses to a Romantic 'paradox of love': the beloved is a dialectical object, part inner imago (Shelley's veiled maid in 'Alastor,' Stendhal's crystallization, Lacan/Zizek) and part uncontrollable external person, and this gap breeds despair. Kierkegaard's Knight of Faith in Fear and Trembling resolves it by infinite resignation and the absurd leap, internalizing the gap and severing the tie to the real to love the princess only interiorly. Bukowski's Chinaski in Women does the opposite, deliberately choosing unstable 'Lydia-object' women who embody the gap, seeking the insecurity itself as a line of flight beyond bourgeois love and even beyond himself."
+    },
+    {
+      "n": 25,
+      "file": "ch25 - Anarchism and the Beats.md",
+      "kind": "chapter",
+      "philosophers": ["marx", "thoreau", "jung"],
+      "concepts": ["anarchism", "civil-disobedience", "class-struggle"],
+      "relation": "Ed D'Angelo argues the Beats had a philosophy after all: a romantic bohemian anarchism that made poetry a means to a religious transformation of consciousness, with political change following consciousness rather than the reverse. He shows Ginsberg inverting Plato's rationalist hierarchy (grounding reason in imagination and the body) and reads Beat 'criminality' as a shamanic journey to the unconscious underworld, distinct from Mailer's macho 'White Negro' hipster. He traces their lineage through Greenwich Village bohemia, Proudhon/Bakunin/Kropotkin anarchism, and pacifist anarchists like Rexroth and Dellinger, arguing the Beats rejected Marxist materialism and class warfare, and that the movement was 'born' out of Rexroth's anarchist poetry circle at the 1955 Six Gallery reading of 'Howl.'"
+    },
+    {
+      "n": 26,
+      "file": "ch26 - Between Social Ecology and Deep Ecology Gary Snyder\u2019s Ecological Philosophy.md",
+      "kind": "chapter",
+      "philosophers": ["naess", "spinoza", "dogen", "leopold"],
+      "concepts": ["deep-ecology", "nagarjuna-emptiness", "anthropocentrism"],
+      "relation": "Paul Messersmith-Glavin positions Snyder as a bridge between deep ecology and social ecology. He shows how Sessions and Devall enlist Snyder's Mahayana Buddhism (emptiness/sunyata, Dogen's 'Mind means trees, fence posts, tiles, and grasses') and Spinoza's monism for a biocentric, consciousness-changing deep ecology descended from Naess and Leopold's land ethic. Against this, he sets Bookchin's social ecology, which roots the ecological crisis in human hierarchy and attacks deep ecology's ahistorical 'cosmic oneness' and misanthropic Earth First! statements. Snyder's threefold nature/wild/wilderness distinction, bioregionalism, and reading of Marx and anarchism let him hold both, insisting environmental and social justice are 'all one front.'"
+    },
+    {
+      "n": 27,
+      "file": "ch27 - William Burroughs as Philosopher From Beat Morality to Third Worldism to Continental Theory.md",
+      "kind": "chapter",
+      "philosophers": ["sartre", "derrida", "marcuse", "fanon"],
+      "concepts": ["bad-faith", "one-dimensional-man", "deconstruction", "existence-precedes-essence"],
+      "relation": "Jones Irwin makes the case for 'Burroughs as philosopher,' tracing an 'impassioned moralism' and antihumanism (human as adjective, not noun) that separates him from other Beats and postmodernists. He links Burroughs's critique of alienation to Marcuse's One-Dimensional Man and to Sartrean existentialism and bad faith ('there are no victims, just accomplices'), and reads the Beats' 'third force' Third Worldism via Freire, Fanon's Wretched of the Earth, and Paz. Close readings of Naked Lunch's 'Bradley the Buyer' and the sex-and-death delirium of 'AJ's Annual Party' connect Burroughs to Artaud's body without organs, Bataille's Sadean tradition, and Derrida's deconstruction of embodiment and 'distance touching.'"
+    },
+    {
+      "n": 28,
+      "file": "ch28 - List of Contributors.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 29,
+      "file": "ch29 - Index.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 30,
+      "file": "ch30 - 292.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": [
+    {
+      "ch": 26,
+      "type": "philosopher",
+      "suggested_slug": "bookchin",
+      "name": "Murray Bookchin",
+      "philosopher": "",
+      "domain": "environment-animal",
+      "what": "American libertarian-socialist thinker who founded social ecology, arguing ecological domination is rooted in social hierarchy.",
+      "why": "Chapter 26 stages Snyder between deep ecology and Bookchin's social ecology, quoting Bookchin's polemics at length, but the taxonomy has no Bookchin slug."
+    },
+    {
+      "ch": 26,
+      "type": "concept",
+      "suggested_slug": "social-ecology",
+      "name": "Social Ecology",
+      "philosopher": "bookchin",
+      "domain": "environment-animal",
+      "what": "The view that the ecological crisis stems from social hierarchy and domination among humans, so its solution must be social.",
+      "why": "The chapter's central axis is deep ecology vs. social ecology; 'deep-ecology' exists in the taxonomy but there is no matching slug for social ecology."
+    }
+  ]
+}

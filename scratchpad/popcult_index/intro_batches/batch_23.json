@@ -1,0 +1,107 @@
+[
+ {
+  "key": "woman-as-other",
+  "name": "Woman as the Other",
+  "kind": "concept",
+  "philosopher": "Simone de Beauvoir",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "ethics-of-ambiguity",
+  "name": "The Ethics of Ambiguity",
+  "kind": "concept",
+  "philosopher": "Simone de Beauvoir",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "becoming-woman",
+  "name": "One Is Not Born a Woman",
+  "kind": "concept",
+  "philosopher": "Simone de Beauvoir",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "the-absurd",
+  "name": "The Absurd",
+  "kind": "concept",
+  "philosopher": "Albert Camus",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "sisyphus",
+  "name": "The Myth of Sisyphus",
+  "kind": "concept",
+  "philosopher": "Albert Camus",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "camus-revolt",
+  "name": "Rebellion and Revolt",
+  "kind": "concept",
+  "philosopher": "Albert Camus",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "embodiment",
+  "name": "Embodiment (the lived body)",
+  "kind": "concept",
+  "philosopher": "Maurice Merleau-Ponty",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "frankl-meaning",
+  "name": "Man's Search for Meaning (logotherapy)",
+  "kind": "concept",
+  "philosopher": "Viktor Frankl",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "levinas-face",
+  "name": "The Face of the Other",
+  "kind": "concept",
+  "philosopher": "Emmanuel Levinas",
+  "domain": "Existentialism & Phenomenology"
+ },
+ {
+  "key": "turing-test",
+  "name": "The Turing Test",
+  "kind": "concept",
+  "philosopher": "Alan Turing",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "chinese-room",
+  "name": "The Chinese Room",
+  "kind": "concept",
+  "philosopher": "John Searle",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "searle-intentionality",
+  "name": "Biological Naturalism / Intentionality",
+  "kind": "concept",
+  "philosopher": "John Searle",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "brain-in-a-vat",
+  "name": "Brain in a Vat",
+  "kind": "concept",
+  "philosopher": "Hilary Putnam",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "twin-earth",
+  "name": "Twin Earth (semantic externalism)",
+  "kind": "concept",
+  "philosopher": "Hilary Putnam",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "hard-problem",
+  "name": "The Hard Problem of Consciousness",
+  "kind": "concept",
+  "philosopher": "David Chalmers",
+  "domain": "Mind, Language & Metaphysics"
+ }
+]

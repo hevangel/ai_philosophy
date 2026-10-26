@@ -1,0 +1,608 @@
+{
+ "book": "013 - Superheroes and Philosophy - Truth, Justice, and the Socratic Way",
+ "unit": "u020",
+ "chapters": [
+  {
+   "n": 94,
+   "file": "ch94 - I Fought the Law and the Law Won.md",
+   "kind": "chapter",
+   "philosophers": ["socrates", "kant"],
+   "concepts": ["deontology", "utilitarianism"],
+   "relation": "Argues that Batman's warrantless raids, intimidation and evidence-free arrests violate negative duties that bind everyone regardless of role, so producing good (the utilitarian reply) cannot justify them, and superpowers earn no legal exemptions that we would deny police. When Spider-Man evades NYPD warrants, the chapter applies Socrates' argument in Plato's Crito that citizens owe the law their obedience even when wrongly accused, though it concedes that keeping a secret identity safe from villains who would torture or kill loved ones can override the duty to submit, a move consistent with non-Kantian nonconsequentialism since Kant could not abide any lie."
+  },
+  {
+   "n": 95,
+   "file": "ch95 - But It’s Just a White Lie!.md",
+   "kind": "chapter",
+   "philosophers": ["kant"],
+   "concepts": ["deontology", "kant-respect"],
+   "relation": "Asks whether superheroes may deceive the people they love, testing Kant's absolute duty not to lie against resolvable conflicts of negative duties: Peter may deceive Aunt May only because telling her would seriously harm her. But the chapter rejects the paternalistic silence Clark keeps from Lois and Peter from MJ, arguing that assuming the women cannot keep secrets or would crumble under worry fails to treat them with the respect owed to persons, so superheroes owe their loved ones the truth about who they are."
+  },
+  {
+   "n": 96,
+   "file": "ch96 - Chapter 15 - Why Be a Superhero Why Be Moral.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 97,
+   "file": "ch97 - The Problem for Spider-Man.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["plato-ring-of-gyges", "moral-egoism"],
+   "relation": "Sets up the chapter's question through the Spider-Man film: after the promoter cheats him, Peter lets the armed robber go with the taunt \"I missed the part where that's my problem,\" and the robber's escape gets Uncle Ben killed. The scene turns Uncle Ben's \"with great power comes great responsibility\" into the classic question \"Why be moral?\" — why not use superpowers for \"great personal satisfaction,\" an egoist's super life, when no payoff for virtue is guaranteed."
+  },
+  {
+   "n": 98,
+   "file": "ch98 - Phony Answers.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Interrogates the tendency to assume the strongest or overriding reasons always favor doing one's moral duty, imagining an all-powerful malevolent deity who eternally torments the virtuous and rewards the wicked to show that moral reasons could fail to be overriding. Whether morality is rational on this score is left as the live question the Spider-Man narrative will be used to answer."
+  },
+  {
+   "n": 99,
+   "file": "ch99 - Reasons to Be Moral.md",
+   "kind": "chapter",
+   "philosophers": ["plato", "kant", "aristotle"],
+   "concepts": ["plato-tripartite-soul", "aristotle-virtue-ethics", "categorical-imperative", "plato-ring-of-gyges"],
+   "relation": "Extracts two candidate answers from Spider-Man — Reason One, that immorality rebounds on you (Uncle Ben's death), tested and weakened by the Ms. Poore poverty-theft case, and Spider-Man's agonized \"Because it is right\" to the Green Goblin, the Kant-and-Bradley motive of duty — and finds both insufficient to show morality is rational. It then tests Plato's answer that only the moral have harmony of soul (reason governing appetite and spirit) against Flash Thompson and self-forgiving sinners, and Aristotle's \"virtue is its own reward\" against the thought experiment of virtuous Arachnid-Girl rotting in prison while the fraudulent Norm Osborne flourishes."
+  },
+  {
+   "n": 100,
+   "file": "ch100 - In It for the Long Run.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["immortality", "buddhist-karma"],
+   "relation": "Adds Reason Five — being moral always pays in the long run, where the long run includes life after death — arguing that a perfectly good and all-powerful God would not set up a moral order that penalizes virtue, so Peter Parker's virtue is guaranteed its reward beyond this life. It notes that Eastern reincarnation-plus-karma makes the same promise (the more virtuous this life, the better the next), and that since Peter, Uncle Ben and Aunt May would never water morality down, the morally serious are pushed toward these metaphysical guarantees."
+  },
+  {
+   "n": 101,
+   "file": "ch101 - Superheroes, Duty, and the Biggest of Big Pictures.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["watchmaker-argument", "buddhist-karma"],
+   "relation": "Argues that non-theistic karma undermines itself: the impersonal moral laws connecting each soul's deeds to its circumstances in the next life would be enormously complex and would serve the moral end of justice, and order that intricate serving a moral end demands an intelligent cause, so reincarnation becomes evidence for God. It closes the chapter by comparing the universe's moral order to a superhero's origin story — it would have to begin with something like a God."
+  },
+  {
+   "n": 102,
+   "file": "ch102 - Swinging from One Idea to Another.md",
+   "kind": "interlude",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 103,
+   "file": "ch103 - Chapter 16 - Superman and Kingdom Come The Surprise of Philosophical Theology.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["immortality"],
+   "relation": "Opens the philosophical-theology chapter by mapping Superman onto Christ: Kal-El sent by his father Jor-El from dying Krypton in a rocket parallels Jesus sent by the Father to Bethlehem, both alien saviors raised as small-town boys. It announces eschatology — final things, ultimate outcomes, whether the hope for justice is an empty utopian dream — as the lens through which the graphic novel Kingdom Come will be read."
+  },
+  {
+   "n": 104,
+   "file": "ch104 - The Background of Kingdom Come.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Explains the Kingdom Come title from the Lord's Prayer and the book's Revelation allusions, then recounts its premise: the retired heroes idle while vicious new \"heroes\" who \"no longer fight for the right\" run rampant and Batman rules Gotham by fear. Via Maggin's line \"The superhero is Everyman,\" it turns Superman's despair in the Fortress of Solitude into the reader's own predicament when facing pervasive injustice."
+  },
+  {
+   "n": 105,
+   "file": "ch105 - Hope, Obligation, and the Big Picture.md",
+   "kind": "chapter",
+   "philosophers": ["russell"],
+   "concepts": ["meaning-of-life", "immortality"],
+   "relation": "Argues whether Wonder Woman's \"must\" really binds Superman — whether he is obliged to leave the Fortress and fight again — depends on one's eschatology or big-picture worldview. It contrasts Christian theism's purposeful culmination with naturalism, whose outlook is fixed by Bertrand Russell's \"unyielding despair\" passage: accidental collocations of atoms, no preservation beyond the grave, and all human achievement buried beneath the debris of a ruined universe, heroism included."
+  },
+  {
+   "n": 106,
+   "file": "ch106 - Gloom, Doom, and Morality.md",
+   "kind": "chapter",
+   "philosophers": ["kant", "russell"],
+   "concepts": ["immortality", "faith-vs-reason"],
+   "relation": "Works out naturalism's moral cost: no purpose behind our existence, no blueprint for life, Russell's hope that sensitive souls can love the tragic beauty of it anyway, and the Wilson-Ruse claim that ethics is \"an illusion fobbed off on us by our genes,\" which loses its grip once seen through — like Macbeth's dagger. Against this it sets Kant's moral faith: morality makes rational sense only if we postulate God and immortality so virtue is finally rewarded, and the chapter concludes naturalism offers no deep basis for the life-risking duties a hero like Superman faces."
+  },
+  {
+   "n": 107,
+   "file": "ch107 - Worldviews, Values, and Superheroes.md",
+   "kind": "chapter",
+   "philosophers": ["socrates", "nietzsche"],
+   "concepts": ["moral-relativism"],
+   "relation": "Argues that in a naturalist universe of particles and force fields nothing grounds objective good and evil, so a defiant Superman who fights evil just because he wants to prizes sympathy while downplaying truth. Wonder Woman's challenge — \"Truth and justice\" — raises whether they are in league: Socrates and the classic tradition held truth, beauty and goodness are one, while Nietzsche, godfather of postmodernism, snarls that \"Truth is ugly,\" leaving naturalism a dilemma between believing in ultimate justice or accepting that it is an illusion."
+  },
+  {
+   "n": 108,
+   "file": "ch108 - A Theological Basis for Super-Heroics.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["immortality", "faith-vs-reason"],
+   "relation": "Proposes that Christian theism's doctrines of heaven, hell and Christ's return resolve the truth/justice tension by grounding moral obligation in God's perfectly moral nature and guaranteeing that justice prevails. It rebuts Maggin's claim that faith in a power greater than ours breeds inaction: God works through human co-creators, so Superman still has a duty to do what he can, and the objective hope of ultimate justice is exactly the corrective that despairing Superman and tyrannical, fear-ruling Batman in Kingdom Come both lack."
+  },
+  {
+   "n": 109,
+   "file": "ch109 - Hope and the Human Challenge.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["faith-vs-reason", "immortality"],
+   "relation": "Reads Superman's return — \"Up in the sky!\", the crowd hailing \"the second coming of Superman\" at the UN — as the enacted theology of Kingdom Come: hope in a greater power revives a world \"hungry for hope\" and draws the other heroes back to the fray. The Spectre's charge to the preacher Norman McCay, \"you exist to give hope,\" voices the chapter's conclusion that a supernatural eschatology holds hope, truth, and individual responsibility together in a way naturalism's unyielding despair cannot."
+  },
+  {
+   "n": 110,
+   "file": "ch110 - Part Four - Identity and Superhero Metaphysics.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 111,
+   "file": "ch111 - Chapter 17 - Questions of Identity Is the Hulk the Same Person as Bruce Banner.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["personal-identity"],
+   "relation": "Frames the chapter with a San Francisco criminal trial in which Bruce Banner's lawyer argues the Hulk — a large green figure — literally was not the same individual who now stands small and pale before the judge. Ruling requires criteria for \"continuity of personal identity over time\": what makes you the same person today as ten years ago, applied here to whether Banner should answer for the Hulk's rampage."
+  },
+  {
+   "n": 112,
+   "file": "ch112 - The Hulk’s Bodily Identity.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["personal-identity", "ship-of-theseus"],
+   "relation": "Tests the everyday bodily criterion of identity: the Hulk's body contains far more atoms than Banner's, but since all our cells turnover anyway — the \"Stan Lee Schooner\" has every part replaced yet stays the same boat, the Ship of Theseus problem — and the organ-donor case of \"Herb Trimpe\" shows a body with greater physical continuity to Kinghorn than to its owner, bodily continuity cannot be what personal identity consists in."
+  },
+  {
+   "n": 113,
+   "file": "ch113 - The Mental Realm of the Hulk.md",
+   "kind": "chapter",
+   "philosophers": ["locke", "reid"],
+   "concepts": ["locke-personal-identity", "personal-identity"],
+   "relation": "Applies Locke's memory theory: the shape-shifting Martian Manhunter and the irradiated Fantastic Four stay the same people through mental continuity, and the early comics' Banner-minded Hulk meets Locke's criterion — but the later \"Hulk smash!\" Hulk, who recognizes Betty Ross yet lacks Banner's memories, fails it. The chapter then breaks the criterion itself with Reid's brave-officer objection (the general both is and is not the flogged boy), Alzheimer's and Doc Ock's amnesia attack on Spider-Man, and the circularity of distinguishing genuine from false memory (the deluded fan who \"remembers\" starring in Adventures of Superman)."
+  },
+  {
+   "n": 114,
+   "file": "ch114 - A Causal Account of the Hulk’s Identity.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["personal-identity", "parfit-teleportation"],
+   "relation": "Proposes that the Hulk is Banner because Banner \"Hulks out\" — the monster state develops causally from Banner's body and mind through radiation, danger and anger, rather than one person being swapped for another. But a mad scientist's cloning accident that splits Banner into two simultaneous rampaging Hulks breaks the account, since both would be causally derived from Bruce yet could not both be the one person — the fission-style counterexample that afflicts every theory so far."
+  },
+  {
+   "n": 115,
+   "file": "ch115 - Is There No Way to Tell.md",
+   "kind": "chapter",
+   "philosophers": ["parfit"],
+   "concepts": ["parfit-teleportation", "personal-identity"],
+   "relation": "Presents Derek Parfit's challenge to the whole enterprise: just as there need be no answer to whether a repaired machine is \"the same\" machine, Parfit's divided-brain case — each half housed in a new body — suggests a person can \"survive as two different people without implying that I am these people,\" so identity questions may lack answers. Kinghorn resists the leap: difficulty finding the truth does not show there is none."
+  },
+  {
+   "n": 116,
+   "file": "ch116 - The Hulk’s Relational Identity.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["personal-identity"],
+   "relation": "Defends a relational account: a person's identity persists through continuing relationships with others (like a marriage or a corporation), against our post-Enlightenment fixation on private attributes. Objections — severed relationships, the castaway, others' biased projections — are answered by positing a God who relates to every person without distortion and guarantees each identity, and who, since divine power cannot do the logically impossible, could not make Banner identical with two numerically distinct Hulks at once."
+  },
+  {
+   "n": 117,
+   "file": "ch117 - What Should We Conclude.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["personal-identity"],
+   "relation": "Renders the verdict in the Banner trial: Bruce is the Hulk, because their relationships continue — when David Banner phones to say Betty Ross will be eliminated, Bruce forms the protective intention the Hulk then executes by destroying the three mutant poodles, and Betty, David and General Ross all relate to the Hulk as Bruce. Physical, mental and causal indicators are mere cues to the deeper continuity of relationships that constitutes who someone is."
+  },
+  {
+   "n": 118,
+   "file": "ch118 - Chapter 18 - Identity Crisis Time Travel and Metaphysics in the DC Multiverse.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Opens with Sherlock Holmes continuity errors — Watson's war wound migrating from shoulder to leg — and Conan Doyle's forced resurrection of Holmes, defining \"corrections\": later installments that change what is true of earlier ones. Unlike the finished Holmes serial, comics permit genuine correction across different authors, which is the machinery behind the retcons Crisis on Infinite Earths performs."
+  },
+  {
+   "n": 119,
+   "file": "ch119 - The DC Comics Multiverse.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["possible-worlds"],
+   "relation": "Recounts how DC resolved its Silver Age continuity mess: rather than treat Jay Garrick's adventures as a fiction-within-a-fiction, Flash #123 has Barry Allen cross into Earth-2 and meet Garrick — and one cannot meet a merely fictional character — so the multiverse is born. As alternative histories multiplied and heroes routinely world-hopped, the only correction strategy left was postulating yet another world, setting up 1985's Crisis."
+  },
+  {
+   "n": 120,
+   "file": "ch120 - Crisis on Infinite Earths The Story Unfolds.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["time-travel", "possible-worlds"],
+   "relation": "Summarizes Crisis: Krona's forbidden experiment splits one universe into a multiverse plus an antimatter universe whose Anti-Monitor devours worlds; the Monitor self-sacrifices to pocket five Earths; heroes and villains travel to the dawn of time, where the Spectre's intervention leaves a single positive-matter universe. The aftermath — Superman of Earth-2 mourning a Lois who \"never existed,\" three Supermen on one Earth — sets up the two metaphysical conjectures, time travel and multiverse, to be examined."
+  },
+  {
+   "n": 121,
+   "file": "ch121 - Time Travel and Wishful Thinking.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["time-travel"],
+   "relation": "Distinguishes changing the past from affecting it: a fan killing Marv Wolfman in 1984 contradicts what happened, while Superboy #85's failed rescue of Lincoln — Superboy immobilized by time-traveling Lex Luthor's red Kryptonite, so Booth shoots on schedule — is coherent because Luthor only \"helped make history.\" Crisis instead rewrites cosmic history wholesale, and Hanley notes the irony that time-travel theorists usually save coherence precisely by postulating multiple timelines: travelers don't change the world, they change worlds."
+  },
+  {
+   "n": 122,
+   "file": "ch122 - More Things in Heaven and Earth.md",
+   "kind": "chapter",
+   "philosophers": ["lewis"],
+   "concepts": ["possible-worlds"],
+   "relation": "Surveys real multiverse arguments: the Everett-Wheeler many-worlds reading of quantum mechanics, fine-tuning explained by every possible initial condition existing somewhere rather than by God, and David Lewis's modal realism, on which every way the world could have been is a causally isolated world — it was possible to write a shorter chapter because in some world Hanley did. Tegmark's physics multiverses round out the menu before the question: does any of this fit Crisis?"
+  },
+  {
+   "n": 123,
+   "file": "ch123 - A Multiversity.md",
+   "kind": "chapter",
+   "philosophers": ["lewis"],
+   "concepts": ["possible-worlds", "time-travel"],
+   "relation": "Rules out Lewis's modal realism for the DC multiverse (DC worlds interact; Lewis's are causally isolated) and standard branching many-worlds too, then proposes \"hypertime,\" a second time dimension that makes sense of a traveler arriving in another timeline's \"1984.\" Since Crisis speaks of the multiverse becoming one \"at the dawn of time\" — something that cannot happen in plain time or hypertime — Hanley posits a six-dimensional cosmos with \"supertime\" and superhistories."
+  },
+  {
+   "n": 124,
+   "file": "ch124 - Does Anything Change, or Not.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["time-travel"],
+   "relation": "Argues the superhistory picture still under-delivers: Joe only exchanges histories rather than making Crisis never exist, and the Anti-Monitor may well live on in the not-quite-native hyperhistory. What Crisis's writers really envisaged — Wonder Woman de-aging out of existence to be reborn with a different life — is \"dynamic change,\" making it so no history contains the event, and that, Hanley says, is incoherent."
+  },
+  {
+   "n": 125,
+   "file": "ch125 - Identity in Crisis.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["personal-identity", "possible-worlds"],
+   "relation": "Poses the persistence problem through Superman-1 and Superman-2: are they strictly identical? Perdurantism — persons as four-dimensional space-time worms made of temporal parts — makes them distinct worms with no parts in common, so Superman meeting his counterpart is no stranger than you meeting a friend; endurantism, with wholly present strict identity, could identify them across timelines but balks at the impossibility of Superman meeting himself."
+  },
+  {
+   "n": 126,
+   "file": "ch126 - Endurantist Past-Changing.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["time-travel", "personal-identity"],
+   "relation": "Chases the endurantist bullet: if one thing can differ across timelines, one and the same timeline can exist differently in different hyperhistories, letting Joe's murder of Wolfman make 1984 \"not the way he remembers it.\" Yet even this yields only switching, not the dynamic change Crisis dramatizes, so the six-dimensional cosmos stands; Hanley closes with Wolfman's own secret plot device for bringing back the killed Barry Allen Flash."
+  },
+  {
+   "n": 127,
+   "file": "ch127 - Chapter 19 - What’s Behind the Mask The Secret of Secret Identities.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Opens with the Lone Ranger, Zorro and the Princess Bride's masked heroes to ask why superheroes wear masks at all — Tom Morris noting the little raccoon masks fool no one at the office. The puzzle of what the point of disguise could be for heroes doing only admired, nonlethal good deeds sets up the more generic phenomenon of dual identity to be analyzed."
+  },
+  {
+   "n": 128,
+   "file": "ch128 - Dual Identities.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["personal-identity"],
+   "relation": "Lists the classic hero/normal identity pairs (Batman/Bruce Wayne, Spider-Man/Peter Parker, plus Woody Allen's joke alias) and separates costume as role-transition — the Fantastic Four's public uniforms, doctors' scrubs, Bob's garage shirt — from costume as tool, Batman's fear-theater aimed at \"a superstitious and cowardly lot\" and the female heroes' calculated \"gawk factor.\" What most superheroes do is the distinct third thing, masking: personas from the Latin for mask, keeping Peter's Spider-Man and Matt Murdock's Daredevil secret in both directions."
+  },
+  {
+   "n": 129,
+   "file": "ch129 - Keeping Secrets.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["deontology"],
+   "relation": "Takes up the objection that secret identities require the deception superheroes condemn, and answers that skillful deception within a legitimate context — quarterback fakes, a painter's perspective tricks — is acceptable, while even a lie bad in itself can be morally right or obligatory when needed to prevent great harm to the innocent. So Spider-Man's secrecy about being Peter Parker is justified, even praiseworthy, because a slipped secret would hand his enemies leverage over Aunt May and his friends."
+  },
+  {
+   "n": 130,
+   "file": "ch130 - Superman’s Interesting Motivation.md",
+   "kind": "chapter",
+   "philosophers": ["pascal"],
+   "concepts": ["meaning-of-life"],
+   "relation": "Argues Superman inverts the usual identity rule: Kal-El's powers precede any civilian persona, so Superman is the real identity and Clark Kent the ruse. Drawing on Pascal's point that celebrity otherness is a function of imagination — a movie star at your cafeteria table changes everything — and on Krishna's disguise as Arjuna's chariot driver in the Bhagavad-Gita and Christ's messianic secret, Morris reads Clark Kent not as operational cover but as Superman's quest to live the human condition from within, loved into humanity by the Kents and refusing to be an isolated \"Aristotelian God.\"\n"
+  },
+  {
+   "n": 131,
+   "file": "ch131 - Switching Identities.md",
+   "kind": "chapter",
+   "philosophers": ["aristotle", "plato", "william-james", "pascal"],
+   "concepts": ["aristotle-virtue-ethics", "authenticity", "plato-forms"],
+   "relation": "Maps Superman and Batman onto Plato and Aristotle — the otherworldly philosopher of the heavenly Good versus the this-worldly master of logic and applicable science — then argues that Bruce Wayne's years of intentional self-transformation may have swapped the mask, making Batman the core identity and Bruce the disguise. With Mark Waid, he sees Superman inwardly embracing his alien otherness as the path of authenticity, both cases yielding a fused \"heterosis\" of identities; Aristotle, Pascal and William James back the closing lesson that who we are is a matter of what we repeatedly do, so every mask may eventually become the face."
+  },
+  {
+   "n": 132,
+   "file": "ch132 - Wow! It Could Be the Greatest Gathering of Minds in Comic-Book History! Hold on.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 133,
+   "file": "ch133 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 134,
+   "file": "ch134 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 135,
+   "file": "ch135 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 136,
+   "file": "ch136 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 137,
+   "file": "ch137 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 138,
+   "file": "ch138 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 139,
+   "file": "ch139 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 140,
+   "file": "ch140 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 141,
+   "file": "ch141 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 142,
+   "file": "ch142 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 143,
+   "file": "ch143 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 144,
+   "file": "ch144 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 145,
+   "file": "ch145 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 146,
+   "file": "ch146 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 147,
+   "file": "ch147 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 148,
+   "file": "ch148 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 149,
+   "file": "ch149 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 150,
+   "file": "ch150 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 151,
+   "file": "ch151 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 152,
+   "file": "ch152 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 153,
+   "file": "ch153 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 154,
+   "file": "ch154 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 155,
+   "file": "ch155 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 156,
+   "file": "ch156 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 157,
+   "file": "ch157 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 158,
+   "file": "ch158 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 159,
+   "file": "ch159 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 160,
+   "file": "ch160 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 161,
+   "file": "ch161 - Superheroes and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 162,
+   "file": "ch162 - Superheroes and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 163,
+   "file": "ch163 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 105,
+   "type": "concept",
+   "suggested_slug": "eschatology",
+   "name": "Eschatology (doctrine of last things)",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "The branch of theology concerned with final things — death, judgment, the ultimate destiny of humanity and the cosmos.",
+   "why": "Chapter 16 (chs 103-109) argues that whether heroes like Superman are obliged to fight injustice depends on their eschatology, contrasting Christian theism's promised culmination with naturalism's 'unyielding despair'."
+  },
+  {
+   "ch": 106,
+   "type": "concept",
+   "suggested_slug": "evolutionary-ethics",
+   "name": "Evolutionary Ethics (morality as adaptive illusion)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The Wilson-Ruse view that evolution has programmed us to feel moral obligation although ethics is an illusion 'fobbed off on us by our genes' with no external grounding.",
+   "why": "Chapter 106 uses this debunking account as the naturalist's main alternative to theistic moral grounding, and asks whether an illusory dagger still cuts once its illusoriness is seen."
+  },
+  {
+   "ch": 118,
+   "type": "concept",
+   "suggested_slug": "retcon",
+   "name": "Retroactive Continuity (retcon)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The serial-fiction practice of later installments changing what is true of earlier ones ('corrections'), raising questions about truth and identity across a changing canon.",
+   "why": "Chapter 18 (chs 118-126) builds its entire DC Multiverse metaphysics on retcon 'corrections', from Watson's war wound to Crisis on Infinite Earths rewriting which universes ever existed."
+  },
+  {
+   "ch": 125,
+   "type": "concept",
+   "suggested_slug": "perdurantism-endurantism",
+   "name": "Perdurantism vs Endurantism (how things persist through change)",
+   "philosopher": "lewis",
+   "domain": "mind-language-metaphysics",
+   "what": "Two accounts of persistence: perdurantism treats persisting things as four-dimensional wholes with distinct temporal parts, while endurantism holds the whole thing is strictly identical and wholly present at each time it exists.",
+   "why": "Chapters 125-126 decide whether Superman-1 and Superman-2 are the same individual, and whether a timeline itself can change, by exactly this perdurantist/endurantist distinction."
+  }
+ ]
+}

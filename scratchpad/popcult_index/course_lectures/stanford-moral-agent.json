@@ -1,0 +1,158 @@
+{
+  "course": "stanford-moral-agent",
+  "source_note": "Official Stanford course page https://web.stanford.edu/class/cs186/ (CS 186 / PHIL 86, 'How to make a moral agent', Spring 2026, Jared Moore & David Gottlieb) — schedule of dated sessions with lecture titles and attached readings; fetched 2026-10-21.",
+  "lectures": [
+    {
+      "n": 1,
+      "title": "Agents and Moral Agents",
+      "kind": "lecture",
+      "summary": "First session of the course, introducing the distinction between agents and moral agents that frames its question of whether AI systems can be moral agents.",
+      "concepts": ["personhood"],
+      "philosophers": []
+    },
+    {
+      "n": 2,
+      "title": "Agents and Moral Agents",
+      "kind": "lecture",
+      "summary": "Second session on agents and moral agents; the assigned reading is Peter Railton's 'Ethical Learning, Natural and Artificial', and a page note says Railton may visit the class.",
+      "concepts": ["moral-psychology"],
+      "philosophers": []
+    },
+    {
+      "n": 3,
+      "title": "Moral Sentimentalism",
+      "kind": "lecture",
+      "summary": "Introduces moral sentimentalism through the primary texts of its classic proponents: Adam Smith's The Theory of Moral Sentiments and Hume's A Treatise of Human Nature.",
+      "concepts": ["hume-sentimentalism", "impartial-spectator"],
+      "philosophers": ["adam-smith", "hume"]
+    },
+    {
+      "n": 4,
+      "title": "Moral Sentimentalism",
+      "kind": "lecture",
+      "summary": "Continues the sentimentalism unit with Bernard Williams's 'Internal and External Reasons' as the assigned reading; the course project proposal is due this session.",
+      "concepts": ["hume-sentimentalism"],
+      "philosophers": ["williams"]
+    },
+    {
+      "n": 5,
+      "title": "Moral Rationalism",
+      "kind": "lecture",
+      "summary": "Introduces moral rationalism through Kant's Groundwork for the Metaphysics of Morals as the assigned reading.",
+      "concepts": ["deontology", "categorical-imperative"],
+      "philosophers": ["kant"]
+    },
+    {
+      "n": 6,
+      "title": "Moral Rationalism",
+      "kind": "lecture",
+      "summary": "Continues the rationalism unit with Christine Korsgaard's The Sources of Normativity as the assigned reading.",
+      "concepts": ["korsgaard-constructivism"],
+      "philosophers": ["korsgaard"]
+    },
+    {
+      "n": 7,
+      "title": "Identity and Self",
+      "kind": "lecture",
+      "summary": "Considers identity and the self through Derek Parfit's Reasons and Persons as the assigned reading.",
+      "concepts": ["personal-identity"],
+      "philosophers": ["parfit"]
+    },
+    {
+      "n": 8,
+      "title": "What makes us so righteous?",
+      "kind": "lecture",
+      "summary": "Opens the unit on the origins of morality, with Brian Skyrms's The Stag Hunt and the Evolution of Social Structure and Ken Binmore's Natural Justice as assigned readings.",
+      "concepts": ["evolutionary-ethics", "game-theory"],
+      "philosophers": []
+    },
+    {
+      "n": 9,
+      "title": "What makes us so righteous?",
+      "kind": "lecture",
+      "summary": "Continues the unit with chapter 2 of Joshua Greene's Moral Tribes: Emotion, Reason, and the Gap Between Us and Them as the assigned reading.",
+      "concepts": ["moral-psychology"],
+      "philosophers": []
+    },
+    {
+      "n": 10,
+      "title": "What makes us so righteous?",
+      "kind": "lecture",
+      "summary": "Continues the unit with Michael Tomasello's A Natural History of Human Morality (chapters 1, 2 skimmed, and 3) as the assigned reading.",
+      "concepts": ["evolutionary-ethics"],
+      "philosophers": []
+    },
+    {
+      "n": 11,
+      "title": "If it's bad that my AI lies, is it bad if I turn it off?",
+      "kind": "lecture",
+      "summary": "Opens the AI welfare unit with Robert Long et al.'s 'Taking AI Welfare Seriously' as the assigned reading; a page note says Rob Long visits the class, and the course project draft is due.",
+      "concepts": ["applied-ethics", "personhood"],
+      "philosophers": []
+    },
+    {
+      "n": 12,
+      "title": "If it's bad that my AI lies, is it bad if I turn it off?",
+      "kind": "lecture",
+      "summary": "Continues the unit with Peter Godfrey-Smith's 'Mind, Matter, and Metabolism' and Rosa Cao et al.'s 'Why biological naturalism? Because consciousness requires having your own good' as assigned readings.",
+      "concepts": ["searle-intentionality", "hard-problem"],
+      "philosophers": []
+    },
+    {
+      "n": 13,
+      "title": "How to make a moral agent?",
+      "kind": "lecture",
+      "summary": "Begins the unit on building moral agents, with Julia Haas et al.'s 'A roadmap for evaluating moral competence in large language models' as the assigned reading.",
+      "concepts": ["applied-ethics", "moral-psychology"],
+      "philosophers": []
+    },
+    {
+      "n": 14,
+      "title": "How to make a moral agent?",
+      "kind": "lecture",
+      "summary": "Surveys empirical studies of machine moral judgement through assigned readings on the moral beliefs encoded in LLMs (Scherrer et al.), cooperation in a society of LLM agents (Piatti et al.), the Delphi experiment on machine moral judgement (Jiang et al.), and AI's perceived moral expertise (Dillion et al.), among others.",
+      "concepts": ["applied-ethics", "moral-psychology"],
+      "philosophers": []
+    },
+    {
+      "n": 15,
+      "title": "Alignment",
+      "kind": "lecture",
+      "summary": "Introduces AI alignment through chapter 5 ('Value Alignment') of Gabriel et al.'s The Ethics of Advanced AI Assistants, Nick Tarleton's 'Coherent Extrapolated Volition: A Meta-Level Approach to Machine Ethics', and Paul Christiano's 'Clarifying \"AI alignment\"'.",
+      "concepts": ["applied-ethics"],
+      "philosophers": []
+    },
+    {
+      "n": 16,
+      "title": "Alignment",
+      "kind": "lecture",
+      "summary": "Continues the alignment unit with Joel Z. Leibo et al.'s 'A theory of appropriateness with applications to generative artificial intelligence' as the assigned reading.",
+      "concepts": ["applied-ethics"],
+      "philosophers": []
+    },
+    {
+      "n": 17,
+      "title": "Project work day",
+      "kind": "other",
+      "summary": "A work session for the course projects rather than a teaching session; no readings or new material are listed.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 18,
+      "title": "Project Presentations",
+      "kind": "other",
+      "summary": "Student course project presentations, under the closing 'Where are we going?' unit.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 19,
+      "title": "Project Presentations",
+      "kind": "other",
+      "summary": "Student course project presentations in the final session of the course.",
+      "concepts": [],
+      "philosophers": []
+    }
+  ]
+}

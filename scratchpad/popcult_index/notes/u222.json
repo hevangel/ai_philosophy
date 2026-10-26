@@ -1,0 +1,282 @@
+{
+ "book": "152 - The Ultimate Daily Show and Philosophy - More Moments of Zen, More Indecision Theory",
+ "unit": "u222",
+ "chapters": [
+  {
+   "n": 23,
+   "file": "ch23 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "frankfurt",
+    "gadamer",
+    "rousseau",
+    "machiavelli",
+    "nietzsche",
+    "laozi"
+   ],
+   "concepts": [
+    "frankfurt-bullshit",
+    "gadamer-hermeneutics",
+    "social-contract",
+    "apollonian-dionysian"
+   ],
+   "relation": "Torosyan argues The Daily Show models the critical thinking and good-faith civic discourse that real politics and TV news lack, reading John Oliver's 'Civil Disservice' interview with Froma Harrop and Stewart's clips of Rumsfeld contradicting himself on WMDs as exposing bullshit in Frankfurt's sense: assertion indifferent to truth. Stewart's reframing of William Bennett's gay-marriage talking points (is the debate about marriage or about who counts as human?) and his self-effacing interviews with Ramesh Ponnuru enact Rousseau's social-contract ideal of what news owes the public against Machiavellian ends-justify-means manipulation. Gadamer supplies the demand that Bennett question his own horizons, Nietzsche's Apollonian-Dionysian account of tragedy frames the show's satire, and the Tao Te Ching's 'let yourself be partial' governs the whole chapter."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "gadamer"
+   ],
+   "concepts": [
+    "gadamer-hermeneutics",
+    "faith-vs-reason"
+   ],
+   "relation": "Sirvent and Baker use Daily Show segments (Wyatt Cenac reporting from a Vegas-style heaven, Lewis Black on Jesus as a primary requirement, Stewart on Pat Robertson praying down the Supreme Court) to skewer politicians who claim God's endorsement, from Michele Bachmann's guaranteed Iowa 'miracle' to Glenn Beck's apocalyptic readings. Locke's critique of religious 'enthusiasm' explains why taking private intuition for divine direction breeds arrogant conviction immune to counterevidence, while Gadamer's hermeneutics shows that Beck and Robertson practice objectivist misreading of texts written in a culture two thousand years distant. The chapter closes with the demand for humility about claiming the mind of God."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx",
+    "whitehead"
+   ],
+   "concepts": [
+    "buddhist-non-self",
+    "moral-relativism",
+    "marx-ideology",
+    "religious-pluralism"
+   ],
+   "relation": "LoPresti uses 'This Week in God' segments (Ed Helms refereeing a Hindu-versus-Mayan 'faith-off', Colbert's roast line that all religions are infinite paths to accepting Jesus, Rob Corddry's purification rituals and God Exchange stock ticker) to lay out exclusivism, inclusivism, and pluralism as responses to religious diversity. Inclusivism like Colbert's 'anonymous Christian' logic is exposed as intellectual imperialism that erases genuinely distinct teachings such as the Buddhist non-self and impermanence, while the chapter defends a deep pluralism against the relativism that makes 'all religions equally true' meaningless. Its eulogy for the God Machine borrows Marx's view of religion as an instrument of mass control to explain why religious humor now survives only through a political lens."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Johnson argues the Fox News 'war on Christmas' is fabricated: claimed school bans on red and green or rewritten 'Silent Night' lyrics never happened or were exaggerated, and Stewart's clips expose the persecution narrative as invention. Surveying history, he shows late-December revelry (Saturnalia, solstice) predates Jesus, was Christianized top-down by Constantine, and was even banned by the Puritans, so the real war has been Christians fighting for Christmas. He then defends the Jeffersonian wall of separation against courthouse nativities, public-school nativity plays, and David Barton's The Jefferson Lies, arguing government endorsement of Christianity violates the First Amendment."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "popper",
+    "hume",
+    "aristotle",
+    "descartes"
+   ],
+   "concepts": [
+    "falsification",
+    "problem-of-evil",
+    "faith-vs-reason",
+    "skepticism"
+   ],
+   "relation": "Pigliucci reads the 'Evolution, Schmevolution' series (Helms's Dayton, Tennessee reenactment-town piece, Stewart's panel with ID proponent Dembski and the scrotum question) as one of the best media treatments of the creation-evolution controversy. Popper's falsificationism marks intelligent design as non-science, since Dembski's designer works outside testable law and miracles are, as Larson says, unrepeatable and unfalsifiable, while Stewart's bad-design jokes about the scrotum and Mayr's 99.99% extinction figure replay the problem of evil. A compressed tour of rationalism (Plato to Descartes's radical doubt) versus Hume's empiricism explains why science yields tentative conclusions, and the chapter ends that resolving the controversy, like Aristotle's eudaimonia, is a lifelong personal project."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill"
+   ],
+   "concepts": [
+    "democracy-theory",
+    "mill-liberty",
+    "social-contract",
+    "public-sphere"
+   ],
+   "relation": "Vanderheiden treats America (The Book)'s textbook parody as serious democratic theory: its 'Democracy Inaction' diagnosis (a president chosen from a field of two, 99% incumbency, lobbyists as 'the white knights of democracy') tracks the thin versus thick democracy distinction and Benjamin Barber's deliberative democracy, with Putnam's social capital as the remedy for the satirized life cycle of national decline. The 'Dress the Supreme Court' gag, Senate color-by-numbers, and third-party graveyard expose representational exclusion, while the media chapter indicts conglomeration for killing the press's watchdog role, invoking Mill's marketplace of ideas. The Earth (The Book) postscript notes that social contracts were historically written without the assent of the women and minorities they subjugated."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "democracy-theory"
+   ],
+   "relation": "Sotos reads America (The Book)'s fake Jefferson foreword and Daily Show writer Kevin Bleyer's Me the People as anti-originalist satire aimed at Tea Party 'historical fundamentalism', Jill Lepore's 'anti-history' that literally cancels historical time and treats the Founders as infallible prophets. Jefferson's anti-originalist principle that 'the earth belongs to the living' and his call for a constitutional convention every generation anchor the book, dramatized in Bleyer's imaginary lunch with Justice Scalia (the originalist as Ahab) against Stephen Breyer's living constitutionalism. John Oliver's Morristown Tea Party interviews and the Beck-Hannity-O'Reilly nostalgia montage ('the best time in American history was when they were all six years old') show how altar-worship of the Framers abandons popular sovereignty."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Holt uses Colbert's 'Well, it is now, Noah-fucking-Webster. I just precedented it' plus 'truthiness', 'wikiality', 'superstantial', and Stewart's 'catastrophuck' and 'Jewy' to investigate how words become words. Humpty Dumpty's speaker-intention view fails, the Academie Francaise's regulatory view fails, and dictionaries merely report use, yet Colbert's neologisms are understood instantly through morphological rules ('-ista'), portmanteau, and analogy, showing an individual can create meaning solo without waiting for communal adoption. The coinages also lampoon gratuitous neologizing like Sarah Palin's 'refudiate', ridicule by example."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud"
+   ],
+   "concepts": [
+    "freud-unconscious",
+    "moral-psychology",
+    "self-deception"
+   ],
+   "relation": "Griffioen distinguishes two kinds of truthiness: believing what one prefers to be true (motivated epistemic irrationality) and justifying beliefs by gut feeling, using Colbert's premiere clips about Bush knowing Harriet Miers's heart and feeling that taking out Saddam was right. She models the first as wishful thinking and self-deception via a Samantha Bee/Jason Jones marital-fidelity example, works through the static and dynamic paradoxes of self-deception, rejects the Freudian divided-mind solution (imagined as Colbert debating himself in 'Formidable Opponent'), and defends an attention-directing account instead. Gut feelings justify only when they implicitly track facts, yielding her proposed fallacy argumentum Colberti ad ventrem."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rorty",
+    "kierkegaard",
+    "socrates",
+    "hegel",
+    "nietzsche",
+    "dewey"
+   ],
+   "concepts": [
+    "socratic-ignorance",
+    "will-to-power",
+    "authenticity"
+   ],
+   "relation": "Decker asks whether the 'Stephen Colbert' persona is the ironist of the Romantics and Rorty: the precise inverse of Socrates, who was declared wisest by the Delphic oracle precisely because he knew he knew nothing. Through Schlegel's Romantic irony, Hegel's complaint that the ironist abdicates responsibility, Kierkegaard's reading of Socrates as standing ironically above every relationship, and Rorty's ironist with her radically doubtable 'final vocabulary', he reads Colbert's self-redescription, Rally to Restore Sanity and/or Fear, and Super PAC stunt as exposing the contingency of political selves. Yet truthiness at its worst is dangerous subjectivism, and the chapter ends with Colbert breaking persona before Congress ('I like talking about people who have no power') as the non-ironic face that keeps the irony honest."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - The Ultimate Daily Show and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 25,
+   "type": "philosopher",
+   "suggested_slug": "reinhold-niebuhr",
+   "name": "Reinhold Niebuhr",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Twentieth-century Christian realist who warned that believers treat God as 'the sanctifier of whatever we most fervently desire' and demanded humility about claims of divine sanction for political projects.",
+   "why": "Chapter 25 leans on Niebuhr's critique of religious pretension as its closing framework for Bachmann's, Robertson's, and Beck's certainty about the mind of God."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "religious-pluralism",
+   "name": "Religious Pluralism (exclusivism, inclusivism, pluralism)",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "The three classic philosophical responses to religious diversity: exclusivism (only one religion is true), inclusivism (other faiths are anonymous versions of one's own), and pluralism (many traditions carry partial truths without collapsing into relativism).",
+   "why": "Chapter 26's entire analysis of the 'This Week in God' segments is organized around these three positions, which the taxonomy's religion domain lacks."
+  },
+  {
+   "ch": 26,
+   "type": "philosopher",
+   "suggested_slug": "alfred-north-whitehead",
+   "name": "Alfred North Whitehead",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Process philosopher whose metaphysics of universal flux, Creativity, and a persuasive Deity allows multiple genuine religious ultimates to underlie the world's diverse traditions.",
+   "why": "Chapter 26 invokes Whitehead's process metaphysics as the metaphysical platform that makes deep religious pluralism plausible and ends by endorsing his anti-dogmatic humility."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "church-state-separation",
+   "name": "Separation of Church and State",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The constitutional principle, articulated in Jefferson's 'wall of separation' letter to the Danbury Baptists, that government may neither establish nor favor a religion nor impede its free exercise.",
+   "why": "Chapter 27's core argument is that courthouse nativities and public-school Christmas plays violate this wall, against originalist and David Barton-style objections."
+  },
+  {
+   "ch": 31,
+   "type": "philosopher",
+   "suggested_slug": "thomas-jefferson",
+   "name": "Thomas Jefferson",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "American Founder and radical anti-originalist who held that 'the earth belongs to the living' and urged each generation to refound its constitution rather than worship the Framers.",
+   "why": "Chapter 31's defense of living constitutionalism against Tea Party originalism is built around Jefferson's fake foreword to America (The Book), his letters to Madison and Kercheval, and Bleyer's use of him as 'anti-originalist par excellence'."
+  },
+  {
+   "ch": 32,
+   "type": "concept",
+   "suggested_slug": "speaker-meaning",
+   "name": "Speaker Meaning (Humpty Dumpty intentionalism)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The view that a word means whatever its user intends it to mean, opposed to theories that ground word meaning in communal conventions of use and in dictionaries that merely report usage.",
+   "why": "Chapter 32 tests the Humpty Dumpty view, stipulation, dictionary regulation, and communal adoption against Colbert's and Stewart's neologisms, which are meaningful at first use."
+  },
+  {
+   "ch": 33,
+   "type": "concept",
+   "suggested_slug": "self-deception",
+   "name": "Self-Deception and the Paradoxes of Irrationality",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Believing against evidence one recognizes as such, raising the static paradox (one person holding contradictory beliefs) and the dynamic paradox (knowingly deceiving oneself), classically solved by dividing the mind or by attention-directing.",
+   "why": "Chapter 33's account of truthiness as motivated irrationality is structured entirely around wishful thinking, self-deception, and how its two paradoxes might be resolved."
+  },
+  {
+   "ch": 33,
+   "type": "concept",
+   "suggested_slug": "truthiness",
+   "name": "Truthiness (knowing with the gut)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Colbert's coinage for the quality of preferring what one wishes or feels to be true over known facts, analyzable as motivated epistemic irrationality and, at its worst, subjectivism.",
+   "why": "Chapters 32 through 34 of this volume are built around the term and its epistemic dangers, and the taxonomy has no slug for it."
+  },
+  {
+   "ch": 34,
+   "type": "philosopher",
+   "suggested_slug": "friedrich-schlegel",
+   "name": "Friedrich Schlegel",
+   "philosopher": "",
+   "domain": "kant-german-idealism",
+   "what": "Early German Romantic who made irony central to philosophy, defining Socratic irony as 'the only involuntary and yet completely deliberate dissimulation' in which everything is playful and serious at once.",
+   "why": "Chapter 34 quotes Schlegel repeatedly as the source of the Romantic doctrine of existential irony that links Socrates to Colbert's persona."
+  },
+  {
+   "ch": 34,
+   "type": "concept",
+   "suggested_slug": "liberal-irony",
+   "name": "Rorty's Ironist and the Final Vocabulary",
+   "philosopher": "rorty",
+   "domain": "pragmatism-american",
+   "what": "Rorty's ideal of the liberal ironist, who has radical and continuing doubts about the final vocabulary she uses to justify her life, recognizes argument cannot settle those doubts, and treats her vocabulary as contingent rather than closer to reality.",
+   "why": "Chapter 34's central question, whether Colbert's persona is Rorty's ironist and whether truthiness betrays that ideal, is argued entirely through this framework, which the taxonomy's pragmatism concepts omit."
+  }
+ ]
+}

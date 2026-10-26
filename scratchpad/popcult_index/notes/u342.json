@@ -1,0 +1,94 @@
+{
+  "book": "236 - The Philosophy of War Films",
+  "unit": "u342",
+  "chapters": [
+    {
+      "n": 5,
+      "file": "ch05 - Contents.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 6,
+      "file": "ch06 - Introduction War Films and the Ineffability of War.md",
+      "kind": "chapter",
+      "philosophers": ["baudrillard", "freud", "foucault", "heraclitus", "isaiah-berlin"],
+      "concepts": ["simulacra", "freud-death-drive"],
+      "relation": "LaRocca argues that a war film can never be war itself but only a mediated, post-facto fabrication, and reads the camera and the gun as twinned instruments ('point and shoot' becoming digital 'point and click' in Skyfall). He mobilizes Baudrillard's claim that the Gulf War 'did not take place' to describe war video games and CGI spectacle (Avatar, Call of Duty) as hyperreal simulacra, and Freud's 'Why War?' letter and death instinct to explain the compulsive proliferation of war representation. Foucault ('peace is a coded war'), Heraclitus ('war is father of all'), and Isaiah Berlin's plurality of incompatible values frame war's ineffability and perpetuity, while Cavell's ontology of film grounds the viewer's 'mechanically assured' helplessness before on-screen dying bodies."
+    },
+    {
+      "n": 7,
+      "file": "ch07 - Part 1. The Aesthetics of War On-Screen.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 8,
+      "file": "ch08 - War and Representation.md",
+      "kind": "chapter",
+      "philosophers": ["sartre", "deleuze", "hegel", "adorno"],
+      "concepts": ["rhizome"],
+      "relation": "Jameson contends that war poses the 'nominalist dilemma'\u2014the gap between abstract totality and sensory immediacy\u2014making it ultimately unrepresentable, and enumerates eight recurring narrative situations (existential, collective, leaders, technology, landscape, atrocity, homeland attack, occupation). Using Burke's dramatistic pentad he argues the war narrative drifts from 'act/agent' toward 'scene,' where the anthropomorphic dissolves; Sartre's 'groups-in-fusion' and Deleuze's nomadic war machine model the collective buddy-squad, whose division of labor he compares to the heist film. Reading Grimmelshausen's Simplicissimus and D\u00f6blin's Wallenstein against Kluge's Stalingrad and Halberstadt collages, he shows war (from the Thirty Years' War to WWII aerial bombing) generating a rhizomatic, nonnarrative flow that defeats stable narrative convention."
+    },
+    {
+      "n": 9,
+      "file": "ch09 - War Pictures Digital Surveillance from Foreign Theater to Homeland Security Front.md",
+      "kind": "chapter",
+      "philosophers": ["deleuze", "foucault"],
+      "concepts": ["panopticon"],
+      "relation": "Stewart argues that War on Terror films (Redacted, Battle for Haditha, The Situation, In the Valley of Elah, Waltz with Bashir) depict 'a soldiery without a genre' because digital surveillance has fused sighting and triggering, so combat is nowhere and everywhere and the classic movement-image spectacle collapses. Drawing on Deleuze's movement-image/time-image distinction, he recasts the soldier as spectator (SSS' rather than SAS'), watching under the panoptic drone eye rather than acting, and shows sci-fi 'temportation' thrillers (D\u00e9j\u00e0 Vu, Source Code, Eagle Eye) travestying the time-image into computerized wish-fulfillment. The Hurt Locker succeeds precisely by reverting to a man-vs-machine 'duel,' while Waltz with Bashir alone achieves genuine political reframing by breaking from animation into archival massacre footage."
+    },
+    {
+      "n": 10,
+      "file": "ch10 - Lenses into War Digital V\u00e9rit\u00e9 in Iraq War Films.md",
+      "kind": "chapter",
+      "philosophers": ["baudrillard"],
+      "concepts": ["simulacra"],
+      "relation": "Peebles defends the 'digital v\u00e9rit\u00e9' of Iraq War films (Stop-Loss, In the Valley of Elah, The Battle for Haditha, Redacted, Standard Operating Procedure) against Garrett Stewart's charge that grainy embedded footage elides critique, arguing instead that the multiplying lenses close the distance between soldier and viewer to build empathy. She invokes Baudrillard's 'the Gulf War did not take place' to show how CNN's video-game-like distance erased the common soldier, which the up-close soldier-shot cell-phone image corrects. Reading Hank Deerfield's reconstruction of his son's fatal Humvee incident in Elah and Errol Morris's reframing of the Abu Ghraib photos in Standard Operating Procedure, she argues each frame is 'both an aperture and a restriction,' and that these tragedies are inherently antiwar."
+    },
+    {
+      "n": 11,
+      "file": "ch11 - Beyond Panopticism The Biopolitical Labor of Surveillance and War in Contemporary Film.md",
+      "kind": "chapter",
+      "philosophers": ["deleuze", "foucault", "marx", "kant", "benjamin"],
+      "concepts": ["panopticon", "discipline", "class-struggle"],
+      "relation": "Gooch argues that the post-2005 surveillance film cycle moves 'beyond panopticism': Foucault's disciplinary gaze gives way to Deleuze's 'societies of control,' and the surveiling gaze becomes direct domination and a form of biopolitical labor (Hardt and Negri) rather than an impersonal structure. He reads the prestige dramas (Redacted, Stop-Loss, In the Valley of Elah, Lions for Lambs) as exposing the soldier's proletarianization and self-surveillance, and the thrillers/blockbusters (D\u00e9j\u00e0 Vu, The Kingdom, Body of Lies, The Bourne Ultimatum, Eagle Eye, Burn after Reading) as staging a Marxist antagonism between living labor (the watching hero) and the fixed capital of surveillance technology. Using Deleuze's 'degraded time-image,' Kant's needed separation of subject and law, and Benjamin/Agamben's state of exception, he shows Eagle Eye inverting law and subject to justify preemptive war and turn biopolitical labor into the labor of subjection."
+    }
+  ],
+  "holes": [
+    {
+      "ch": 9,
+      "type": "philosopher",
+      "suggested_slug": "virilio",
+      "name": "Paul Virilio",
+      "philosopher": "virilio",
+      "domain": "political-social",
+      "what": "French theorist of speed, technology and vision whose War and Cinema argues war is a 'logistics of perception' fusing the camera and the weapon.",
+      "why": "Chapter 9's entire thesis about surveillance, eyeless vision and the fusion of sighting and triggering is built on Virilio, who has no philosopher slug in the taxonomy."
+    },
+    {
+      "ch": 11,
+      "type": "concept",
+      "suggested_slug": "societies-of-control",
+      "name": "Societies of Control",
+      "philosopher": "deleuze",
+      "domain": "political-social",
+      "what": "Deleuze's account of power in postmodernity as continuous, networked, short-term control mechanisms that supersede Foucault's enclosed disciplinary spaces.",
+      "why": "Chapter 11 argues explicitly that war-surveillance film moves 'beyond panopticism' into Deleuzian control societies, a distinct concept the taxonomy lacks (it lists deleuze only with 'rhizome')."
+    },
+    {
+      "ch": 11,
+      "type": "concept",
+      "suggested_slug": "biopolitical-labor",
+      "name": "Biopolitical Labor",
+      "philosopher": "",
+      "domain": "political-social",
+      "what": "Hardt and Negri's term for hegemonic postmodern service work that produces knowledge, signs, affects and social relations rather than material commodities.",
+      "why": "Chapter 11's central analytic frame\u2014the soldier/watcher as exploited biopolitical laborer against the fixed capital of surveillance\u2014rests on this concept, which is absent from the taxonomy."
+    }
+  ]
+}

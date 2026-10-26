@@ -1,0 +1,218 @@
+{
+ "book": "004 - Buffy the Vampire Slayer and Philosophy - Fear and Trembling in Sunnydale",
+ "unit": "u005",
+ "chapters": [
+  {
+   "n": 23,
+   "file": "ch23 - Erotic Love and Friendship.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "ockham",
+    "augustine"
+   ],
+   "concepts": [
+    "aristotle-friendship",
+    "philosophy-of-love",
+    "ockham-razor"
+   ],
+   "relation": "Maps Aristotle's three levels of friendship onto Buffy's three boyfriends: Riley is a utility friendship chosen for the rational goal of a 'normal' boyfriend (echoed by Warren's robot April and the Buffybot, which prove programmed perfection cannot be loved), Spike is a pleasure friendship driven by passion and danger that Buffy ends in 'As You Were,' and Angel is a complete friendship where each values the other for his own sake despite the gypsy curse. This lets the authors solve Aristotle's love paradox (is erotic love chosen or does it choose us?) by adding Augustine's and William of Ockham's third power of the soul, the will: an arational faculty that values the other as an end in himself, neither rationally chosen nor irrationally caused."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Following the Moral Law.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "kant-humanity-formula",
+    "kant-autonomy"
+   ],
+   "relation": "Applies Kant's Formula of Universal Law and Formula of Humanity on two levels. Individually, Buffy's sacrifice in Dawn's place in 'The Gift' and her post-resurrection return to duty in 'Once More, with Feeling' show her will determined by duty rather than the inclination to a normal life, while Oz's werewolf episodes show inclination swamping reason. Systemically, the Slayer's coercion of demons is justified only because their actions destroy a Kantian state of right in Sunnydale, and Kant's account of radical evil — subordinating the moral law to the maxim of self-love — explains why demons and human villains like Warren's Trio are evil; the chapter closes worrying that the Slayer, like the Initiative's Adam, answers to no one."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Codex 4 - That’s the kind of wooly-headed thinking that leads to being eaten.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Against Fascism.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "terrorism-violence",
+    "fascism"
+   ],
+   "relation": "Neal King argues the Buffyverse is proto-fascist: Buffy kills demons and vampires on sight within a race-like hierarchy, tempered only by an Augustinian split between natural and moral evil (soulless vampires cannot choose otherwise; soul-bearing humans like Faith, Willow, and Warren can repent), she derives authority from an ancient calling rather than democracy, and the graduation battle of 'Graduation Day, Part Two' stages citizenship forged in mass combat. He imagines a fascist Buffyverse of 'brownskirt' death squads and concludes only the show's secrecy prevents full fascism, finally recommending that the racism be dropped but the ritual sacrifice of evildoers kept — with Willow's flaying of Warren as the model."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Note to Self Religion Freaky.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "marx-ideology"
+   ],
+   "relation": "Surveys religion across BtVS and Angel to show it is almost always demonic — the Master's Order of Aurelius, Ethan Rayne's chaos god Janus, the First Evil's eyeless priests in 'Amends,' and Ken's fundamentalist 'Family Home' in 'Anne,' read through Marx's definition of religion as the opiate of the masses — while the heroes use crosses, holy water, and prophecy only instrumentally and never pray. Genuine miracles like the snow that saves Angel are rare and unattributed, prophecies are routinely evaded ('I flunked the written'), and evil is defeated by self-reliance and friendship, as when Xander's unmagical love stops Willow in 'Grave.' The conclusion: the moral center of the Buffyverse is human — neither secularized nor sacralized."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Buffy Should’ve Killed Ben.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nozick"
+   ],
+   "concepts": [
+    "punishment-theory",
+    "utilitarianism",
+    "consequentialism"
+   ],
+   "relation": "Jacob Held pits retributivism against utilitarian theories of punishment using three Buffyverse cases: vengeance demons Anya and Halfrek show that 'just desert' is arbitrary, relative, and subjective; Angel's gypsy curse (punishment as desert) secures society less reliably than Spike's Initiative chip (pure deterrence), while Oz's preventive caging raises the problem of punishing the innocent. The hard case is 'The Gift': Buffy refuses to kill the innocent Ben, but Held sides with Giles, who strangles him — arguing that since the state's end is security and freedom, one life may rightly be traded for six billion."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - No Big Win.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "meaning-of-life",
+    "problem-of-evil"
+   ],
+   "relation": "Reads sacrifice, salvation, and redemption in the Buffyverse as secular myth: vampires manifest the shadow-side of the human (Liam's resentment becomes Angelus, William's repressed romanticism becomes Spike's rebellion), and the contrast between soulless Spike's genuine moral growth through love of Buffy and human Xander's arrested development shows redemption is measured by 'what have you done with what you've been given.' The Purpose of Evil section argues good and evil must stay in balance because without evil there is no free choice and hence no redemption, and Angel's 'no big win' epiphany — no grand plan, only lessening suffering one kindness at a time — locates life's meaning in the journey of becoming rather than final victory."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - The Superhero As Liberal Reformer.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "class-struggle",
+    "marx-alienation",
+    "commodity-fetishism",
+    "terrorism-violence"
+   ],
+   "relation": "Jeffrey Pasley traces the show's radical surface — capitalism equated with vampirism (Anya's greed, Glory the über-consumer, the Master's blood factory in 'The Wish'), Big Bads tearing down dimensional barriers exactly as Marx's Communist Manifesto describes the bourgeoisie dissolving feudal ties into free trade, Buffy refusing to commodify slaying into wage labor, and Giles's Magic Box selling mystified junk at inflated margins — but concludes the heroes are not revolutionaries. In the comic-book lineage of Superman and Spider-Man, Buffy and Angel are liberal reformers bound by a superhero code against killing, so Giles must murder the innocent Ben precisely to preserve Buffy's heroic mercy; Angel's 'champions' speech in 'Deep Down' states the incrementalist creed."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Codex 5 - You’re all slaves to the television Watching Buffy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - The Moral Sophistication of Buffy the Vampire Slayer.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aristotle"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "deontology",
+    "consequentialism",
+    "animal-rights"
+   ],
+   "relation": "Greene and Yuen reconstruct seven moral principles from Buffy's conduct — slay those who typically harm humans, never harm humans (Faith's accidental killing of the Mayor's henchman), spare the defenseless and the controllable (chip'd Spike, caged Oz) — and note that blackmailing Spike and roughing up demons would violate Kant's Formula of Humanity if the patients were rational persons, exposing the show's human/non-human moral hierarchy and its animal-rights parallel. 'The Gift' dramatizes deontology (Buffy refuses to kill Ben) against consequentialism (Giles strangles him), and the chapter ranks BtVS above after-school-special, culpable-clown, and faux-realist TV morality because it supports its stands by appeal to general moral principles while keeping Aristotelian habituation and real-life moral complexity in view."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Evolution of the Metaphor.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard"
+   ],
+   "concepts": [
+    "simulacra"
+   ],
+   "relation": "Tracy Little argues the show takes teenagers' metaphorical speech — 'high school is hell,' 'after we slept together he became a different person,' 'graduation is the end of the world' — and makes it literal: hyena-possessed bullies in 'The Pack,' invisible Marcie whom nobody noticed, Angelus replacing Angel after Buffy and Angel's first night together, and the Mayor's ascension timed to graduation. Invoking Baudrillard's simulacra and hyperreality, the copy becomes more real than the original — the monsters are real but the social horrors they literalize are worse — and the seasons-one-through-three survey traces identity, love gone wrong, and end-of-the-world metaphors as they evolve from monster-of-the-week camp to weighty questions of life and death."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Psychical Dynamics of Love and Lust.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "philosophy-of-love"
+   ],
+   "relation": "Levine and Schneider apply Freud's 1912 essay on the debasement in love — 'where they love they do not desire and where they desire they cannot love' — to argue that BtVS succeeds not through innovation or moral seriousness but through the conventional 'girl next door': Angel's forbidden-vampire sex is the show's best because forbiddenness heightens desire, Xander's pedestal-placing of Buffy forecloses satisfaction, and Drusilla and Cordelia are already 'debased' sexual objects. Along the way they polemicize against Buffy scholars for projecting their own fantasies onto a show that reinforces, rather than subverts, gender stereotypes and the forbiddenness of sex for young women."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - I have a hard enough time remembering what happened last week.md",
+   "kind": "interlude",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Oh yeah Let’s look at your bio.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 37,
+   "file": "ch37 - We’ve got a lot of important work here, a lot of filing, giving things names.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Buffy the Vampire Slayer and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 39,
+   "file": "ch39 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "fascism",
+   "name": "Fascism",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "A mass political movement that seeks to renew the nation by forging a superior citizen in the crucible of war, celebrating combat, racial purity, spectacular heroism, and authority derived from an ancient order.",
+   "why": "Chapter 26's whole argument defines Buffy's slaying, demon racism, and ritual combat as proto-fascist and imagines 'brownskirts' death squads, but taxonomy.json has no fascism concept — Arendt's totalitarianism is a different frame the chapter never invokes."
+  },
+  {
+   "ch": 34,
+   "type": "philosopher",
+   "suggested_slug": "freud",
+   "name": "Sigmund Freud",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Founder of psychoanalysis whose 1912 essay 'On the Universal Tendency to Debasement in the Sphere of Love' holds that affection and sexual desire are psychically incompatible (incest barrier, Oedipus complex, Madonna/whore split).",
+   "why": "Chapter 34's entire argument explains Buffy's popularity through Freud's debasement theory — Angel as forbidden object, Xander's overvaluation of Buffy, and the show's reinforcement of the forbiddenness of sex — and Freud appears nowhere in taxonomy.json."
+  }
+ ]
+}

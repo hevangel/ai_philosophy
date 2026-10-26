@@ -1,0 +1,207 @@
+{
+ "book": "243 - The Philosophy of Christopher Nolan",
+ "unit": "u359",
+ "chapters": [
+  {
+   "n": 12,
+   "file": "ch12 - Remembering, Reminding, and Forgetting with Leonard Shelby.md",
+   "kind": "chapter",
+   "philosophers": [
+    "peirce",
+    "plato"
+   ],
+   "concepts": [
+    "semiotics-signifier-signified",
+    "plato-phaedrus-writing"
+   ],
+   "relation": "Dennis Knepp reads Leonard Shelby's Polaroids, notes, and tattoos through Charles Sanders Peirce's triadic semiotics, showing how each memento works at once as icon, index, and symbol (Firstness, Secondness, Thirdness), as when the Discount Inn photo resembles the motel, is causally produced by the camera pointed at it, and needs Leonard to interpret its written words. He then argues Memento is less a detective story than a fable of self-deception: the printed word's permanence lends Leonard's tattooed list of 'THE FACTS' an illusion of absolute authority, down to the fatal mis-tattoo of Teddy's license plate (SG137IU copied as SG1371U). The chapter ends by reading Plato's Phaedrus tale of Theuth and Thamus - writing as a potion for reminding, not remembering, that breeds only the appearance of wisdom - as an ancient diagnosis of how Leonard's external signs deceive him."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - False Tattoos and Failed Totems.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard"
+   ],
+   "concepts": [
+    "subjective-truth",
+    "leap-of-faith",
+    "self-deception"
+   ],
+   "relation": "Karen Hoffman reads Memento and Inception through Kierkegaard's Concluding Unscientific Postscript: Leonard's tattoos and Cobb's totems both fail to supply the objective certainty their owners expect, forcing each to confront subjective truth, 'an objective uncertainty held fast through appropriation with the most passionate inwardness.' She argues Leonard fails Kierkegaard's test twice over - he treats his facts-based system as objective knowledge, and his real commitment is to playing detective rather than catching a killer (Teddy: 'You don't want the truth. You make up your own truth'), culminating in the knowingly false tattoo that arranges Teddy's murder. Cobb, by contrast, faces his memories of Mal, accepts objective uncertainty, takes Saito's 'leap of faith,' and in the final scene walks away from the spinning top, choosing the world that reunites him with his children - an idea that sticks because of how he lives it, not because it is objectively true."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Inception and Perception.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "sextus-empiricus",
+    "william-james",
+    "plato",
+    "linda-zagzebski"
+   ],
+   "concepts": [
+    "skepticism",
+    "pyrrhonian-skepticism",
+    "will-to-believe",
+    "intellectual-virtues"
+   ],
+   "relation": "Jamie Carlin Watson uses Inception's dream thieves to stage the dream argument for skepticism - from Socrates' puzzle to Theaetetus and Descartes's Meditations, with Sextus Empiricus's diversity-of-perception argument - and contends that totems cannot debunk it, since even Arthur's loaded die and Cobb's top cannot rule out being in your own dream, where your subconscious knows how the totem behaves. Against both believing as normal and Pyrrhonian suspension of judgment, the chapter turns to William James's will to believe (live versus dead hypotheses) and to intellectual virtues drawn from Zagzebski and Kornblith: beliefs can be valuable for reasons other than truth. The upshot is that Cobb, Arthur, and the twelve shared-dream sleepers in Yusuf's basement can believe well even if they cannot believe truly - which is why Cobb's walking away from the spinning top at the end can be read as believing carefully rather than certainly."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Spinning Tops and Brains in Vats.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nozick",
+    "williams",
+    "wittgenstein",
+    "descartes"
+   ],
+   "concepts": [
+    "experience-machine",
+    "immortality"
+   ],
+   "relation": "William Lindenmuth reads Inception's ambiguous ending through Robert Nozick's experience machine, arguing that Cobb's choice of his real children over the dream-Mal ('you're just a shade of my real wife') shows we want our dreams to be reality, not reality to be a dream. He deploys Nozick's three reasons against plugging in - we want to do things, not merely seem to; we want to be a certain kind of person ('It's not who I am underneath, but what I do that defines me'); and a man-made reality confines and limits us - while invoking Bernard Williams's tedium of immortality for Cobb's fifty dream-years with Mal and Wittgenstein's talking lion for the alienation those years create. On this reading the wobbling top matters, because choosing limbo would be 'a kind of suicide,' the difference between the film ending as tragedy or not."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - “You Don’t Know Who You Are”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "j-l-austin",
+    "augustine",
+    "locke",
+    "nietzsche",
+    "gadamer",
+    "sartre"
+   ],
+   "concepts": [
+    "personal-identity",
+    "narrative-identity",
+    "speech-acts",
+    "self-deception"
+   ],
+   "relation": "Peter Fosl argues that Nolan's protagonists are divided selves - public and private - whose self-creation runs through narratives and material signs (Memento's tattoos and Polaroids, Inception's safes, the Batcave, the Prestige twins' offstage swaps) that others can always reinterpret, steal, or manipulate. Following J.L. Austin on performative acts, he reads Following's Bill as losing authorship of his own story to Cobb's counter-narrative and Bruce Wayne as only ever performing roles written in advance, even at the Dark Knight ending's Florentine café. Augustine's memoria and Locke's memory-continuity ground the discussion of Leonard's broken self-knowledge ('You don't know who you are'), while Nietzsche on forgetting, Gadamer on the past's effective history, and Sartre on the dead as prey for the living frame how Leonard's forgotten past selves manipulate him into murdering Teddy and how Interstellar's Cooper reaches back through the Tesseract to alter his own past."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - “Memory Man”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "clark",
+    "chalmers",
+    "carroll-aesthetics"
+   ],
+   "concepts": [
+    "extended-mind",
+    "narrative-identity",
+    "personal-identity",
+    "applied-ethics"
+   ],
+   "relation": "David LaRocca reads Memento through Andy Clark and David Chalmers's Extended Mind Thesis: Leonard's tattoos, Polaroids, and notecards just are his memory, doing exactly what Otto's notebook does in their original example - so that writing 'Don't believe his lies' on a Polaroid is literally modifying his mind and carries the moral significance of interfering with his person. Drawing on Liao and Sandberg's ethics of memory modification and Noël Carroll's account of the film's reverse-ordered narrative, the chapter argues Leonard remains a culpable moral agent in his lucid moments: he knowingly 'incepts' a false command into his own extended mind to preserve the avenging-husband narrative that constitutes his identity, becoming a serial killer. It closes on our epistemic and moral duty of cognitive fidelity - to build truthful narrative identities rather than lie to ourselves into murder."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Engaging Otherness through Following.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lacan"
+   ],
+   "concepts": [
+    "lacan-gaze"
+   ],
+   "relation": "Louis-Paul Willis reads Following as the prototype of Nolan's 'mind-tricking spectatorship,' where fragmented, multi-strand editing and staged details (the box of secrets, the hammer conversation, the near-identical glove shots) reveal to viewers that the film itself has taken their desire into account all along. Using Jacques Lacan's distinction between the look and the gaze, and the objet a as object-cause of desire, he argues that Bill's voyeuristic quest for the Other's hidden kernel - Cobb's 'everyone has a box' scene - is doomed because the voyeur becomes the viewed: the subject of the look becomes the object of the gaze, just as Bill the follower turns out to be the one followed and framed for murder. Bill's failure is thus the cinematic spectator's failure - there is no passive vantage point exempt from the Other's gaze."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - We Are the Change That We Seek.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel",
+    "spinoza",
+    "leibniz",
+    "kant",
+    "sartre",
+    "benjamin"
+   ],
+   "concepts": [
+    "kant-phenomena-noumena",
+    "time-travel",
+    "hegel-substance-subject"
+   ],
+   "relation": "Todd McGowan argues Interstellar enacts Hegel's critique of substance: the NASA scientists' 'they' who supposedly placed the wormhole is a Kantian thing-in-itself - the unknown deified by ignorance - until the Tesseract reveals that Cooper himself, and future humanity, are both Murph's 'ghost' and the 'they' ('We brought ourselves'). Against Spinoza's single substance and Leibniz's windowless monads, the film teaches that substance is subject, freeing Cooper and Murph to act and to change the past through retroactive causality, which the chapter connects to Sartre on the past's fixedness and Walter Benjamin's critique of historicist causality. Professor Brand's Plan A lie and Dr. Mann's self-exculpating murder show the ethical catastrophe of claiming a substantial, subject-transcending standpoint, while Murph - who treats her 'ghost' as just another subject rather than a supernatural substance - is the film's true hero."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Selected Bibliography.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Contributors.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "plato-phaedrus-writing",
+   "name": "Plato's Critique of Writing (Phaedrus)",
+   "philosopher": "plato",
+   "domain": "ancient",
+   "what": "Socrates' tale of the god Theuth offering writing to King Thamus as a potion for memory, which Thamus rebrands a potion for reminding that breeds forgetfulness and only the appearance of wisdom.",
+   "why": "Chapter 12 uses the Phaedrus critique of written signs to explain why Leonard's tattooed list of 'facts' gives him the illusion of knowledge while deceiving him.",
+   "accepted": true
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "intellectual-virtues",
+   "name": "Intellectual Virtues (virtue epistemology)",
+   "philosopher": "linda-zagzebski",
+   "domain": "knowledge-science-reality",
+   "what": "Virtue epistemology treats believing well - attention to evidence, humility, trust, creativity - as valuable in ways that do not require one's beliefs to be true.",
+   "why": "Chapter 14's answer to what the dream thieves should believe rests on Zagzebski's and Kornblith's intellectual virtues: one can believe well even when the dream argument blocks believing truly.",
+   "accepted": true
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "lacan-gaze",
+   "name": "The Gaze and Objet a (Seminar XI)",
+   "philosopher": "lacan",
+   "domain": "mind-language-metaphysics",
+   "what": "Lacan's account of the gaze as the point in the visual field from which the subject is looked at, producing a lack of mastery, with the objet a as the object-cause of desire.",
+   "why": "Chapter 18 reads Following's voyeurism and film spectatorship entirely through Lacan's gaze and objet a - the follower becoming the followed, the voyeur becoming the viewed.",
+   "accepted": true
+  },
+  {
+   "ch": 19,
+   "type": "concept",
+   "suggested_slug": "hegel-substance-subject",
+   "name": "Substance as Subject (absolute knowing)",
+   "philosopher": "hegel",
+   "domain": "kant-german-idealism",
+   "what": "Hegel's thesis that what we take to be independent, self-subsistent substance is actually self-divided subjectivity, recognized in absolute knowing, which also frees the subject's act to work retroactively on the past.",
+   "why": "Chapter 19's central claim is that Interstellar stages this Hegelian doctrine - the alien 'they' revealed as future humanity - and no existing Hegel slug (dialectic, Geist, recognition) covers substance-as-subject or absolute knowing.",
+   "accepted": true
+  }
+ ]
+}

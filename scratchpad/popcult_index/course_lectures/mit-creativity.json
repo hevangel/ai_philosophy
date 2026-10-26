@@ -1,0 +1,38 @@
+{
+  "course": "mit-creativity",
+  "source_note": "MIT OpenCourseWare 24.262 Feeling and Imagination in Art, Science, and Technology (Spring 2004): video lectures gallery https://ocw.mit.edu/courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/video_galleries/video-lectures/ (Session 1-4 listing) and calendar page https://ocw.mit.edu/courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/pages/calendar/ (official per-session topics); fetched 2026-10-21",
+  "lectures": [
+    {
+      "n": 1,
+      "title": "Course introduction and overview",
+      "kind": "lecture",
+      "summary": "The seminar opens with a course introduction and overview. Discussion covers the nature of imagination, the eccentric genius, divine inspiration, and bisociation, together with the roles of dreaming and the unconscious in creativity.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 2,
+      "title": "Consummation and love; intuition versus intelligence; creativity types",
+      "kind": "lecture",
+      "summary": "After a review of Session 1, the discussion takes up consummation and love and intuition versus intelligence, and considers the types of creativity: logical, empirical, moral, practical, and others.",
+      "concepts": ["philosophy-of-love"],
+      "philosophers": []
+    },
+    {
+      "n": 3,
+      "title": "Creativity, religion, and the nature of the universe",
+      "kind": "lecture",
+      "summary": "The session discusses creativity, religion, and the nature of the universe, drawing on theories of creativity and imagination from Bergson, Plato, Nietzsche, Minsky, Boden, Freud, and Proust.",
+      "concepts": [],
+      "philosophers": ["bergson", "plato", "nietzsche", "freud"]
+    },
+    {
+      "n": 4,
+      "title": "Students present research paper topics",
+      "kind": "lecture",
+      "summary": "Students present their research paper topics, which include the brain as a bodily instrument, capitalism and economics in relation to creativity, creativity in a cappella singing, and human versus computer creativity.",
+      "concepts": [],
+      "philosophers": []
+    }
+  ]
+}

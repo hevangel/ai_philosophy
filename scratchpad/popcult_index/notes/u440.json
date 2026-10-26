@@ -1,0 +1,181 @@
+{
+ "book": "002 - The Simpsons and Philosophy - The D'oh! of Homer",
+ "unit": "u440",
+ "chapters": [
+  {
+   "n": 24,
+   "file": "ch24 - 12 - Springfield Hypocrisy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-psychology",
+    "existentialism",
+    "self-deception",
+    "hypocrisy"
+   ],
+   "relation": "Jason Holt argues that hypocrisy is a formal vice - an inconsistency between the values one espouses (tacitly or explicitly) and one's deliberate actions - and that philosophers wrongly build deception into its essence. Springfield supplies the counterexample: Chief Wiggum takes bribes, uses drugs, and abandons his post in plain view ('Lookin' good, boys!' after pocketing the counterfeit jeans), so his hypocrisy is pointless and non-deceptive, showing the vice survives without clever pretense like Moliere's Tartuffe. Mayor Quimby's double-talk on the 'chick vote', Mr. Burns's fake environmentalist PR in 'The Old Man and the Lisa', and Reverend Lovejoy's lukewarm ministry illustrate the classic deceptive pattern, while Apu's false 'American' front in 'Much Apu About Nothing' and Lisa's cool-kid pose in 'Summer of 4 ft. 2' show hypocrisy can be excusable or sympathetic when coerced."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 13 - Enjoying the So-called “Iced Cream” Mr. Burns, Satan, and Happiness.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "intrinsic-vs-instrumental-value",
+    "meaning-of-life",
+    "nihilism"
+   ],
+   "relation": "Daniel Barwick argues that Mr. Burns's unhappiness comes not from his age, cruelty, or wealth but from his habit of seeing everything as a symbol of something else, so that nothing is ever enjoyed for what it is - the 'Team Homer' bowling trophy matters only as 'spectacular victory', and his teammates are discarded like flab. Via a Satan's-tempters parable about a 'Bureau of Desubstantialization', he frames this representationalism as cutting man off from real things, and gives it philosophical teeth: a world where everything is only instrumentally good generates an infinite regress with nothing intrinsically good to ground value, leaving Burns's life meaningless, the hallmark of the unhappy life. The 'so-called iced cream' moment in 'Bart's Inner Child' shows Burns can enjoy something merely for itself when he momentarily forgets to symbolize, but Barwick doubts a 104-year-old steeped in malice can make that permanent."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 14 - Hey-diddily-ho, Neighboreenos Ned Flanders and Neighborly Love.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-autonomy",
+    "categorical-imperative",
+    "golden-rule",
+    "kant-respect"
+   ],
+   "relation": "David Vessey asks how 'love your neighbor as yourself' can coexist with tolerance when you believe your unbaptized neighbor faces eternal suffering, using 'Home Sweet Homediddly-Dum-Doodily' where Ned baptizes the Simpson children in his care but never proselytizes beyond his household. He constructs the argument that love of neighbor, like love of self, would seem to require trying to baptize everyone, then dissolves it: proper self-love means perfecting one's nobler aspects by acting on principle rather than desire, so loving others can require respecting principled choices that risk even their lives. Kant's account of autonomy - rationally legislating one's own maxims, per the categorical imperative - supplies the missing condition, showing Ned is justified in not interfering with autonomous adults, a point capped by the irony that the only person he actually baptizes is pleasure-driven Homer."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 15 - The Function of Fiction The Heuristic Value of Homer.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nussbaum"
+   ],
+   "concepts": [
+    "paradox-of-fiction",
+    "film-as-philosophy"
+   ],
+   "relation": "Jennifer McMahon extends Martha Nussbaum's claim in Love's Knowledge that certain moral truths can only be fittingly stated in narrative form, arguing fiction educates through identification plus 'frustrated identification' - it draws us in safely while blocking habitual responses, forcing reflection. The Simpsons' caricatured ordinariness lets viewers admit Homer's irascibility or Marge's forbearance are caricatures of themselves, its comedy displaces anxieties and disables resistances (we laugh at Homer's idiocy because we see ourselves), its animation reminds us nothing is real, and its mass reach amplifies the effect - e.g. episodes on gambling ('$pringfield'), animal rights ('Lisa the Vegetarian'), and women in military academies ('The Secret War of Lisa Simpson'). She concludes popular cartoons like this one, not just canonical literature, have genuine heuristic value against elitist assumptions."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Part IV - The Simpsons and the Philosophers.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 16 - A (Karl, not Groucho) Marxist in Springfield.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "marx-ideology",
+    "class-struggle",
+    "marx-alienation",
+    "incongruity-theory-humor"
+   ],
+   "relation": "James Wallace tests The Simpsons' 'subversive' reputation with Marxist ideology critique, granting that Kantian incongruity jokes - Homer offering aliens his family ('Treehouse of Horror VII') or the Richie Rich/Casper exchange in 'Three Men and a Comic Book' - can momentarily distance viewers from ideology. But he argues the show subverts its own subversion: 'Scenes from the Class Struggle in Springfield' ends with the Simpsons restored to the Krusty Burger 'dump' and Lisa silenced from complaining by a pony, workers (the union trading its dental plan for a beer keg in 'Last Exit to Springfield') are lampooned as hard as Mr. Burns, and Homer's capitalist one-liner in 'Crepes of Wrath' carries no more weight than his lazy-worker lines. Without a vision of a better world, the satire collapses into the joke, and the show ends up reflecting and conserving bourgeois capitalist ideology - laughter as opiate."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 17 - “And the Rest Writes Itself” Roland Barthes Watches The Simpsons.md",
+   "kind": "chapter",
+   "philosophers": [
+    "roland-barthes"
+   ],
+   "concepts": [
+    "semiotics-signifier-signified",
+    "open-interpretation",
+    "death-of-the-author"
+   ],
+   "relation": "David Arnold applies Barthes's semiotics - signifier/signified, denotation and connotation from 'The Rhetoric of the Image', then the readerly vs. writerly texts of S/Z - to The Simpsons, concentrating on the episode 'The Front' where Bart and Lisa ghost-write Itchy & Scratchy cartoons under Grampa's name. A structuralist reading of the youth/experience binary (the plunger on Homer's head, Grampa checking his name in his underwear) captures only the satire's skeleton; the show's real power lies in its deliberately dislocated, foregrounded cartoon signifiers - Bart's script 'writes itself' out of a culture whose stable signifiers are flesh-eating ants and an Elvis impersonator who shoots his TV. Because The Simpsons defers the coalescence of meaning that classic texts like The Honeymooners deliver, it is a writerly, 'irresponsible' plural text whose free-floating connotation is precisely what makes its social satire penetrating."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 18 - What Bart Calls Thinking.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "frege",
+    "schopenhauer",
+    "husserl"
+   ],
+   "concepts": [
+    "anti-psychologism",
+    "phenomenology"
+   ],
+   "relation": "Kelly Dean Jolley takes Bart Simpson as a model of Heideggerian thinking: against Schopenhauer's 'the world is my idea' (everything buzzing in the head), Heidegger's tree in bloom from What Is Called Thinking? stands face-to-face with us, personified rather than personalized, reached by a leap onto 'the firm soil of our lives'. Jolley traces the shared war on psychologism through Frege's argument that ownerless, sharable thoughts are not ideas and need no owner (the lime tree passage), and through Husserl's epoche, which Heidegger transforms into the clearing where things meet us where they stand. Bart, 'face-to-face with things' in all he does, simply lives this anti-psychologism - nothing is merely in his head, his thoughts go out to meet a personified world - and this explains his resourcefulness, knack for courting and dodging danger, and oracular feel for how events will unfold."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Episode Titles.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Based on Ideas By.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Featuring the Voices of.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - The Simpsons and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 37,
+   "file": "ch37 - The Simpsons and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "hypocrisy",
+   "name": "Hypocrisy (not practicing what one preaches)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The formal vice of acting in deliberate violation of the values one espouses tacitly or explicitly, distinguished from lying, weakness of will, and mere deception.",
+   "why": "Chapter 24 is wholly an analysis of hypocrisy as such - its definition, whether deception is essential (Wiggum's non-deceptive case), its distinction from integrity, and excusable or praiseworthy instances - and the taxonomy has only the generic moral-psychology bucket for it.",
+   "accepted": true
+  }
+ ]
+}

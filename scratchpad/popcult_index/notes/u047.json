@@ -1,0 +1,142 @@
+{
+ "book": "030 - Pink Floyd and Philosophy - Careful with that Axiom, Eugene!",
+ "unit": "u047",
+ "chapters": [
+  {
+   "n": 20,
+   "file": "ch20 - Absolutely Curtains.md",
+   "kind": "chapter",
+   "philosophers": ["parfit"],
+   "concepts": ["ship-of-theseus", "personal-identity"],
+   "relation": "Michael Patton retells the Ship of Theseus (his 'Trump Princess' rebuilt part-by-part from spares, then duplicated from the salvaged parts) to ask whether Pink Floyd survived its upheavals: Bob Klose's pre-Piper exit, Syd Barrett's 1968 dismissal ('No, fuck it, let's not bother' on the drive to Southampton), Rick Wright's firing during The Wall, and Roger Waters's 1985 lawsuit to stop Gilmour and Mason using the name. Roster, stylistic ('Lucifer Sam' versus 'Money'), legal, and nominal criteria each fail, so he proposes an 'Officeholder View' of identity in which constituencies decide sameness — as when UFO Club's Joe Boyd saw a different Syd at the June 1967 show, while the author's locked-in brother Josh (like Bauby in The Diving Bell and the Butterfly) remained the same son and brother to his family. Parfit's claim that survival tracks memory and personality rather than body underwrites the 'death of a thousand cuts' scenario: the band's criteria, not Syd's own, ended the life of the person 'Syd Barrett', and he didn't get a vote."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Wondering and Dreaming. The Words Have Different Meanings.md",
+   "kind": "chapter",
+   "philosophers": ["descartes", "wittgenstein", "berkeley", "locke"],
+   "concepts": ["skepticism", "cartesian-doubt", "berkeley-idealism", "private-language"],
+   "relation": "Scott Calef argues that the causal theory of perception — the inflatable pig over Battersea reaches you only as an internal representation — breeds Cartesian skepticism: the dreaming argument, asylum inmates who don't know they're mad ('the lunatic is in my head'), the evil demon, and the modern brain-in-a-vat version behind The Matrix. Locke's unknowable substratum behind the Dark Side jacket's qualities and Berkeley's idealism deepen the veil of perception, with 'Julia Dream', Waters's 'If I go insane, please don't stick your wires in my brain', and Syd's 'Jugband Blues' self-diagnosis as Floyd illustrations. Against skepticism he deploys mutual corroboration ('It takes two to know'), J.L. Austin's point that waking experience is qualitatively unlike dreams ('A Pillow of Winds': 'the dream is gone'), and Wittgenstein's beetle-in-a-box private language argument (rebranded as Lucifer Sam's cat) — a purely private language is impossible, so skepticism expressed in language defeats itself, leaving the Barrett-era enigma to keep philosophy's original wonder alive."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Meet You on the Dark Side of the Moon.md",
+   "kind": "chapter",
+   "philosophers": ["marx", "sartre", "heidegger", "parmenides", "hegel", "derrida"],
+   "concepts": ["marx-alienation", "parmenidean-being", "hegel-dialectic"],
+   "relation": "Jere Surber frames Pink Floyd as musical heirs to Parmenides's 'path of Non-Being', then maps Marx's four alienations onto the catalog: self-alienation in 'Brain Damage' ('There's someone in my head, but it's not me'), alienation by things in 'Welcome to the Machine', alienation from other persons in 'Us and Them' and The Final Cut's war trauma, and alienation from species-being in Animals ('Dogs'). Existential absence follows: Sartre's café scene, where the whole ensemble arranges itself around the missing Pierre, parallels the absent Syd and the father killed in World War II behind The Wall ('Comfortably Numb': 'the child is grown, the dream is gone'), while Heidegger's withdrawal of Being accounts for the cosmic Angst of 'Eclipse' and Obscured by Clouds. A postmodern coda reads the band's mid-thought-breaking lyrics and Ummagumma sound experiments as Derridean différance woven through language and sound."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Sun Is Eclipsed by the Moon.md",
+   "kind": "chapter",
+   "philosophers": ["sartre"],
+   "concepts": ["phenomenology", "sartre-freedom"],
+   "relation": "Randall Auxier uses Sartre's Psychology of Imagination to explain what 'Brain Damage' and 'Eclipse' do to a listener: auditory images live in time (unlike the spatial visual image of the prism cover), so Waters's repeated 'The lunatic is on the grass' and the anticipated drum entrances seize the will through repetition and the vortex of attention, while musicians themselves escape through an expanded 'now' — the trap-door in time Gilmour knows too well. Sartre's four positional acts of the image (positing the object as non-existent, absent, existing elsewhere, or neutral) are then worked through examples: imaging the contingently absent song, the superstition around imagining a beloved as dead (mode 1), and the neutral mode (4) that Pink Floyd favors over both benevolent and malevolent negations. The dark conclusion: music like Metallica at Guantanamo cancels the will, but Pink Floyd uses neutrality to show that in annihilating the world you destroy above all yourself and remain responsible for the choice — the sun eclipsed by the moon."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - The Art of Insanity Nietzsche, Barrett, and Beyond.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - You Legend, You Martyr.md",
+   "kind": "chapter",
+   "philosophers": ["nietzsche"],
+   "concepts": ["apollonian-dionysian", "taoism"],
+   "relation": "Erin Kealey reads Syd Barrett's 1967–68 collapse through Nietzsche's Birth of Tragedy: Barrett 'surrendered his subjectivity in the Dionysian process' to make Piper's songs — 'Astronomy Domine', the wordless 'Interstellar Overdrive', 'Matilda Mother' where 'the words had different meaning' — and 'Chapter 24', written from an I Ching divination on change and return. 'Bike' teeters on psychosis as the room of musical tunes swallows the singer, and 'Jugband Blues' ('much obliged to you for making it clear that I'm not here') with the motionless Scarecrow foretells the catatonia that ended his tenure, after which the band pivoted from anarchic spontaneity to the meticulous Apollonian constructions of Dark Side through The Wall. Following Nietzsche, Kealey argues that the fall of this tragic hero — mourned in 'Shine on You Crazy Diamond' and mirrored in Pink's exploits in The Wall — affirms life, since art alone transfigures the horror of existence into something worth living."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - “The Madcap Laughed at the Man on the Border”.md",
+   "kind": "chapter",
+   "philosophers": ["nietzsche", "benjamin", "schopenhauer"],
+   "concepts": ["apollonian-dionysian", "benjamin-aura"],
+   "relation": "Brandon Forbes reads The Madcap Laughs and Barrett between Nietzsche and Walter Benjamin: the melting-hair gig and the ever-shifting 'Have You Got It Yet?' show Barrett shedding Apollo's principium individuationis (borrowed from Schopenhauer's lone man steadying his boat among the waves) and submerging into the Dionysian dithyramb — 'Opel''s 'warm shallow waters', 'Octopus''s 'lost in the wood', 'It Is Obvious''s minds 'shot together'. He then applies Benjamin's 'Work of Art in the Age of Its Reproducibility': technological mass reproduction destroys the aura and authenticity (the unique 'sequin fan' of 'No Good Trying' versus a supermarket fan), yet the deliberately lo-fi tracks — audible page-turning on 'She Took a Long Cold Look', the false starts and broken 'yum, yummy, yum' of 'If It's in You' — re-introduce the aura in mass form, subverting the record industry's commodification of music much as the unplayable 'Have You Got It Yet?' refused to become a reproducible commodity."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Art, Madness, and Syd Barrett.md",
+   "kind": "chapter",
+   "philosophers": ["foucault", "sartre"],
+   "concepts": ["power-knowledge", "discipline", "panopticon"],
+   "relation": "George Reisch reads The Wall through Foucault's Madness and Civilization: madness is not a brain lesion but a historical construction — Renaissance unreason, classical confinement, then Tuke's and Pinel's psychiatric regime in which the madman must know 'he is watched, judged, and condemned' until judgment is internalized — which explains why Pink imprisons himself brick by brick and asks at 'The Trial', 'Have I been guilty all this time?' The fascist worms and skinhead riots of 'Waiting for the Worms' are the same crusade for uniformity that drove Pink mad — Foucault's 'moral city' where 'virtue is an affair of the state' — so fascism and insanity are versions of each other, with Sartre's 'Hell is other people' from No Exit as the framing thought. Both the album ('Outside the Wall': 'the bleeding hearts and artists make their stand') and Foucault end by defending art as the last channel of unreason, and Reisch argues Syd Barrett's unanswerable absence was exactly that interrupting void powering 'Echoes', Dark Side, Wish You Were Here, and The Final Cut."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Resignation and Exploration—I’ll Climb the Hill in My Own Way.md",
+   "kind": "chapter",
+   "philosophers": ["marx", "camus", "nietzsche", "socrates"],
+   "concepts": ["marx-alienation", "sisyphus", "unexamined-life"],
+   "relation": "Steven Gimbel asks how to live with the 'pink' malaise of Waters's lyrics and tests five options: capitulation (Marx's four alienations via 'In the Flesh?', 'Have a Cigar', and 'Dogs'), medication ('Comfortably Numb' and the Prozac-ad mother as one of the 'neuro-chemically well-adjusted sheep'), re-creation of childhood (Nietzsche's child playing 'between the fences of past and future' against memory's 'it was' in 'Remember a Day'), and emancipation through LSD or romanticized madness ('See Emily Play', 'Brain Damage'), with Syd Barrett's vacant eyes as the fatal counterexample. What survives is Camus's Sisyphus — fully conscious of his futility yet 'superior to his fate', imagined happy — joined to 'Fearless''s 'I'll climb that hill in my own way' and the mutual care of 'Pigs on the Wing', closing on Socrates' unexamined life: the answer lies in the searching itself, so living pink means living."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Selected Pink Floyd Discography.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Author Bios.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Pink Floyd and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "non-being",
+   "name": "Non-Being (the path of Non-Being)",
+   "philosopher": "parmenides",
+   "domain": "ancient",
+   "what": "The counterpart to Being — nothingness, privation, absence, and negation — whose status philosophers from Parmenides through Aristotle, Hegel, Marx, Sartre, and Heidegger contested.",
+   "why": "Chapter 22 organizes Pink Floyd's themes (alienation, Syd's absence, cosmic Angst) around this entire history of Non-Being, and the existing parmenidean-being slug covers only the Being side."
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "sartre-imagination",
+   "name": "Sartre's Theory of the Image (positional acts)",
+   "philosopher": "sartre",
+   "domain": "existentialism-phenomenology",
+   "what": "Sartre's doctrine that an image is an act of consciousness which annihilates the perceptual world and posits its object as non-existent, absent, existing elsewhere, or neutral.",
+   "why": "Chapter 23 explains how 'Brain Damage' and 'Eclipse' work on the listener almost entirely through these four forms of the positional act, a doctrine the generic phenomenology slug does not capture."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "history-of-madness",
+   "name": "The History of Madness (unreason)",
+   "philosopher": "foucault",
+   "domain": "political-social",
+   "what": "Foucault's account of madness as historically constructed — Renaissance unreason, classical confinement, and the modern psychiatric regime that internalizes surveillance, guilt, and remorse.",
+   "why": "Chapter 27 reads Pink's self-imprisonment, his guilt at 'The Trial', and Syd's artistic afterlife through this specific three-stage history, which power-knowledge and discipline only partially cover."
+  }
+ ]
+}

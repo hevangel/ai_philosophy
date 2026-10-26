@@ -26,7 +26,7 @@ Content lives in four kinds of folders:
 
 ## Submission pipeline skills
 
-`.agents/skills/` holds four project skills for external academic submission:
+`.agents/skills/` holds five project skills for external academic submission:
 
 - `phil-venues` — research/update `publish/venues.json` (EN + CN venue AI policies).
 - `phil-polish` — proofread/upgrade an article to journal standard → `publish/<slug>/polished-*.md`.
@@ -37,6 +37,10 @@ Content lives in four kinds of folders:
 - `phil-submit` — drive venue portals via `browser-use:control-browser`, logging to
   `submissions.json`. Always re-verify the venue's live AI policy first; never submit to
   `ai-banned` venues.
+- `phil-aipc` — prepare & submit essays to the AI Philosophy Competition (Goodsell/Thornley,
+  deadline 2026-10-31): eligibility audit against the AI-involvement rules (essays must be
+  primarily AI generated — human-supplied arguments disqualify), anonymization, methodology
+  report, submission via OpenReview. See `.agents/skills/phil-aipc/SKILL.md`.
 - `zh-translate` — the site's authoritative Chinese-translation prompt: Hong Kong Traditional
   Chinese written the way Hong Kong philosophers write in Chinese (HK character forms 裏 着 羣
   啓 衞, HK vocabulary, the HK–Taiwan academic philosophy lexicon, HK name transliterations with
@@ -76,6 +80,13 @@ it really is.**
 
 `.agents/skills/` also holds utility skills outside both toolkits:
 
+- `phil-linkedin` — post a repo article to the owner's LinkedIn feed via
+  `browser-use:control-browser`. The cover reaches the post through a per-article
+  Open Graph share page (`articles/<slug>/index.html`, created from the
+  `the_bridge_was_not_built_for_machines` template, committed and pushed when missing —
+  clean `/read/...` routes return 404 to crawlers and never unfurl). Requires the post
+  text supplied verbatim by the user; the skill never drafts, summarizes, or edits it.
+
 - `libgen-download` — batch-download books from a libgen mirror into a local corpus folder,
   driven by a JSON book list. Two transports: a polite requests flow over an SSH SOCKS5 pool
   (`scripts/batch_download.py` + `proxy_pool.py`), and a camoufox in-container organic browser
@@ -92,6 +103,16 @@ it really is.**
   under the subpath `/ai_philosophy/`, so **every URL must be relative** — no leading `/`.
 - `content.json` (repo root) drives the whole UI: menu, section lists, article metadata.
   Nothing is auto-scanned; a page only exists on the site if it is registered in this file.
+- Two knowledge-base items render as dedicated in-app explorers, not markdown pages:
+  `knowledge-base/popcult-index/` at the `/popcult` route and `knowledge-base/readings-kb/`
+  at `/readings`. Each folder ships `explorer.js` + `explorer.css` (loaded on demand by the
+  router, mirroring the popcult pattern) plus a prebuilt `data.json`; the markdown in those
+  folders stays the source of truth. After editing the readings-kb markdown (entries,
+  book-maps, lectures-index, DATA_QUALITY), rebuild with
+  `py -3 scratchpad/readings_kb/build_data.py` — its other build input is
+  `scratchpad/readings_kb/index-full.md`, the full catalogue tables (per-entry one-line
+  notes, pilot flags, book catalogue annotations) that the published index.md no longer
+  carries.
 - Markdown is rendered client-side by `marked` + `DOMPurify` (loaded from jsDelivr CDN).
 - Routing uses the History API with clean paths: `/ai_philosophy/` home,
   `/ai_philosophy/section/<id>`, `/ai_philosophy/read/<section>/<slug>`, `/ai_philosophy/md/<path>`

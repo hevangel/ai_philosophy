@@ -1,0 +1,102 @@
+{
+  "course": "mit-love",
+  "source_note": "MIT OpenCourseWare Calendar page (https://ocw.mit.edu/courses/24-261-philosophy-of-love-in-the-western-world-fall-2004/pages/calendar/) for titles/order, cross-checked with the Syllabus and Video Lectures pages; fetched 2026-10-21. The four OCW-recorded video sessions are listed only as 'Session 1-4' with no titles or calendar mapping.",
+  "lectures": [
+    {
+      "n": 1,
+      "title": "Introduction",
+      "kind": "lecture",
+      "summary": "Opening session of the seminar, which the syllabus describes as a study of the nature of love and sex approached as topics in both philosophy and literature; the assigned reading is Irving Singer's 'Marriage: Same-Sex and Opposite-Sex' from Sex: A Philosophical Primer.",
+      "concepts": ["philosophy-of-love"],
+      "philosophers": []
+    },
+    {
+      "n": 2,
+      "title": "Irving Singer, The Pursuit of Love, pp. ix-43",
+      "kind": "lecture",
+      "summary": "Seminar discussion of the opening pages (ix-43) of Irving Singer's philosophical study The Pursuit of Love.",
+      "concepts": ["philosophy-of-love"],
+      "philosophers": []
+    },
+    {
+      "n": 3,
+      "title": "Irving Singer, The Pursuit of Love, pp. 44-107",
+      "kind": "lecture",
+      "summary": "Continuation of the seminar's discussion of Singer's The Pursuit of Love, covering pages 44-107.",
+      "concepts": ["philosophy-of-love"],
+      "philosophers": []
+    },
+    {
+      "n": 4,
+      "title": "Irving Singer, The Pursuit of Love, pp. 108-176",
+      "kind": "lecture",
+      "summary": "Concluding session on Singer's The Pursuit of Love, covering pages 108-176.",
+      "concepts": ["philosophy-of-love"],
+      "philosophers": []
+    },
+    {
+      "n": 5,
+      "title": "Joseph Bédier, The Romance of Tristan and Iseult",
+      "kind": "lecture",
+      "summary": "Discussion of Joseph Bédier's The Romance of Tristan and Iseult, read in its entirety as one of the classic literary myths of love that the course analyzes philosophically.",
+      "concepts": ["philosophy-of-love"],
+      "philosophers": []
+    },
+    {
+      "n": 6,
+      "title": "Friedrich Nietzsche, The Birth of Tragedy and The Case of Wagner, pp. 17-56, 139-92; Wagner excerpts; film: Pierre Jourdan, Tristan und Isolde (1974)",
+      "kind": "lecture",
+      "summary": "Selected pages of Nietzsche's The Birth of Tragedy and The Case of Wagner together with Wagner excerpts, paired with an in-class screening of Pierre Jourdan's 1974 film production of the opera Tristan und Isolde.",
+      "concepts": ["philosophy-of-love", "apollonian-dionysian"],
+      "philosophers": ["nietzsche"]
+    },
+    {
+      "n": 7,
+      "title": "Molière, Don Juan; Irving Singer, 'Two Essays on the Don Juan Myth in Molière'",
+      "kind": "lecture",
+      "summary": "Discussion of Molière's play Don Juan, read in its entirety, together with Irving Singer's 'Two Essays on the Don Juan Myth in Molière.'",
+      "concepts": ["philosophy-of-love"],
+      "philosophers": []
+    },
+    {
+      "n": 8,
+      "title": "George Bernard Shaw, Man and Superman (Preface and 'Don Juan in Hell,' Act III)",
+      "kind": "lecture",
+      "summary": "Discussion of the Preface and the 'Don Juan in Hell' scene from Act III of Shaw's Man and Superman, continuing the seminar's treatment of the Don Juan myth.",
+      "concepts": ["philosophy-of-love"],
+      "philosophers": []
+    },
+    {
+      "n": 9,
+      "title": "George Bernard Shaw, Pygmalion (with Preface and Afterword); film: Pygmalion (1938)",
+      "kind": "lecture",
+      "summary": "Discussion of Shaw's Pygmalion, read in its entirety including Preface and Afterword, with an in-class screening of the 1938 Asquith and Howard film adaptation; the first paper is due at this lecture.",
+      "concepts": ["philosophy-of-love"],
+      "philosophers": []
+    },
+    {
+      "n": 10,
+      "title": "Irving Singer, Explorations in Love and Sex, pp. 105-67",
+      "kind": "lecture",
+      "summary": "Seminar discussion of pages 105-67 of Irving Singer's Explorations in Love and Sex.",
+      "concepts": ["philosophy-of-love"],
+      "philosophers": []
+    },
+    {
+      "n": 11,
+      "title": "Irving Singer, Explorations in Love and Sex, pp. ix-xiii, 1-45",
+      "kind": "lecture",
+      "summary": "Seminar discussion of the opening pages (ix-xiii, 1-45) of Singer's Explorations in Love and Sex.",
+      "concepts": ["philosophy-of-love"],
+      "philosophers": []
+    },
+    {
+      "n": 12,
+      "title": "Irving Singer, Explorations in Love and Sex, pp. 47-104, 217-24",
+      "kind": "lecture",
+      "summary": "Final session on Singer's Explorations in Love and Sex, covering pages 47-104 and 217-24; the second paper is due at this lecture.",
+      "concepts": ["philosophy-of-love"],
+      "philosophers": []
+    }
+  ]
+}

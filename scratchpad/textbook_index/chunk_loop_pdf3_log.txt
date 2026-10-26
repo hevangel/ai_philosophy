@@ -1,0 +1,237 @@
+[2026-10-06 23:44:51] === chunk loop start (chunk=10, max 20.0 h, container=kb_camoufox) ===
+[2026-10-06 23:44:51] pending: 20
+[2026-10-06 23:44:51] running chunk: 1,6,7,12,14,15,16,22,23,25
+[2026-10-06 23:44:53]   Traceback (most recent call last):
+[2026-10-06 23:44:53]   KeyError: 1
+[2026-10-06 23:44:54] chunk done: 0 new files
+[2026-10-06 23:44:54] sleeping 260 min before next chunk
+[2026-10-06 23:53:23] === chunk loop start (chunk=10, max 20.0 h, container=kb_camoufox) ===
+[2026-10-06 23:53:23] pending: 20
+[2026-10-06 23:53:23] running chunk: 1,6,7,12,14,15,16,22,23,25
+[2026-10-06 23:53:23] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-06 23:53:23] re-uploaded books.json to container
+[2026-10-07 00:22:42]   [06:54:11] #001 ads page has no GET link
+[2026-10-07 00:22:42]   [06:55:30] #006 timeout: Locator.click: Timeout 30000ms exceeded.
+[2026-10-07 00:22:42]   [06:58:16] #007 timeout: Locator.click: Timeout 30000ms exceeded.
+[2026-10-07 00:22:42]   [07:00:34] #012 timeout: Locator.click: Timeout 30000ms exceeded.
+[2026-10-07 00:22:42]   [07:06:52] #014 timeout: Timeout 240000ms exceeded while waiting for event "download"
+[2026-10-07 00:22:42]   [07:09:30] #015 OK -> book_0015.pdf (889 kB)
+[2026-10-07 00:22:42]   [07:11:56] #016 timeout: Locator.click: Timeout 30000ms exceeded.
+[2026-10-07 00:22:42]   [07:14:37] #022 timeout: Locator.click: Timeout 30000ms exceeded.
+[2026-10-07 00:22:42]   [07:20:13] #023 timeout: Timeout 240000ms exceeded while waiting for event "download"
+[2026-10-07 00:22:43]   #015 saved -> 015 - An Introduction to Aesthetics.pdf
+[2026-10-07 00:22:43] chunk done: 1 new files
+[2026-10-07 00:22:43] sleeping 276 min before next chunk
+[2026-10-07 04:59:10] pending: 18
+[2026-10-07 04:59:10] running chunk: 1,6,7,12,14,16,22,23,29,30
+[2026-10-07 05:22:21]   [12:00:28] #001 timeout: Locator.click: Timeout 30000ms exceeded.
+[2026-10-07 05:22:21]   [12:02:48] #006 timeout: Locator.click: Timeout 30000ms exceeded.
+[2026-10-07 05:22:21]   [12:05:24] #007 timeout: Locator.click: Timeout 30000ms exceeded.
+[2026-10-07 05:22:21]   [12:08:04] #012 timeout: Locator.click: Timeout 30000ms exceeded.
+[2026-10-07 05:22:21]   [12:10:38] #014 timeout: Locator.click: Timeout 30000ms exceeded.
+[2026-10-07 05:22:21]   [12:12:49] #016 timeout: Locator.click: Timeout 30000ms exceeded.
+[2026-10-07 05:22:21]   [12:15:17] #022 timeout: Locator.click: Timeout 30000ms exceeded.
+[2026-10-07 05:22:21]   [12:17:34] #023 timeout: Locator.click: Timeout 30000ms exceeded.
+[2026-10-07 05:22:21]   [12:19:58] #029 OK -> book_0029.pdf (63798 kB)
+[2026-10-07 05:22:21]   [12:22:21] #030 timeout: Locator.click: Timeout 30000ms exceeded.
+[2026-10-07 05:22:22]   #029 saved -> 029 - The Story of Philosophy.pdf
+[2026-10-07 05:22:22] chunk done: 1 new files
+[2026-10-07 05:22:22] sleeping 249 min before next chunk
+[2026-10-07 09:31:48] pending: 17
+[2026-10-07 09:31:48] running chunk: 1,6,7,12,14,16,22,23,30,32
+[2026-10-07 11:31:48] chunk timed out; continuing with what landed
+[2026-10-07 11:31:48] chunk done: 0 new files
+[2026-10-07 11:31:48] sleeping 331 min before next chunk
+[2026-10-07 17:02:24] pending: 17
+[2026-10-07 17:02:24] running chunk: 1,6,7,12,14,16,22,23,30,32
+[2026-10-07 19:02:24] chunk timed out; continuing with what landed
+[2026-10-07 19:02:24] chunk done: 0 new files
+[2026-10-07 19:02:24] sleeping 416 min before next chunk
+[2026-10-07 22:35:05] === chunk loop start (chunk=5, max 20.0 h, container=kb_camoufox) ===
+[2026-10-07 22:35:05] pending: 17
+[2026-10-07 22:35:05] running chunk: 1,6,7,12,14
+[2026-10-12 19:54:23] === chunk loop start (chunk=5, max 20.0 h, container=kb_camoufox) ===
+[2026-10-12 19:54:23] pending: 17
+[2026-10-12 19:54:23] running chunk: 1,6,7,12,14
+[2026-10-12 19:54:23] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-12 19:54:24] re-uploaded books.json to container
+[2026-10-12 20:22:40] === chunk loop start (chunk=5, max 20.0 h, container=kb_camoufox) ===
+[2026-10-12 20:22:40] pending: 17
+[2026-10-12 20:22:40] running chunk: 1,6,7,12,14
+[2026-10-12 20:22:40] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-12 20:22:40] re-uploaded books.json to container
+[2026-10-12 22:22:40] chunk timed out; continuing with what landed
+[2026-10-12 22:22:41]   #006 saved -> 006 - The Problems of Philosophy.pdf
+[2026-10-12 22:22:41]   #007 saved -> 007 - Human Knowledge - Classical and Contemporary Approaches.pdf
+[2026-10-12 22:22:41] chunk done: 2 new files
+[2026-10-12 22:22:41] sleeping 280 min before next chunk
+[2026-10-13 03:02:21] pending: 14
+[2026-10-13 03:02:21] running chunk: 12,14,16,22,23
+[2026-10-13 05:02:22] chunk timed out; continuing with what landed
+[2026-10-13 05:02:22] chunk done: 0 new files
+[2026-10-13 05:02:22] sleeping 314 min before next chunk
+[2026-10-13 08:00:01] === chunk loop start (chunk=5, max 20.0 h, container=kb_camoufox) ===
+[2026-10-13 08:00:01] pending: 14
+[2026-10-13 08:00:01] running chunk: 12,14,16,22,23
+[2026-10-13 08:00:01] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-13 08:00:01] re-uploaded books.json to container
+[2026-10-13 15:17:06] === chunk loop start (chunk=5, max 20.0 h, container=kb_camoufox) ===
+[2026-10-13 15:17:06] pending: 14
+[2026-10-13 15:17:06] running chunk: 12,14,16,22,23
+[2026-10-13 15:17:06] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-13 15:17:06] re-uploaded books.json to container
+[2026-10-13 17:17:07] chunk timed out; continuing with what landed
+[2026-10-13 17:17:07] chunk done: 0 new files
+[2026-10-13 17:17:07] sleeping 413 min before next chunk
+[2026-10-14 00:09:37] pending: 14
+[2026-10-14 00:09:37] running chunk: 12,14,16,22,23
+[2026-10-14 00:21:52]   [07:11:24] #012 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-14 00:21:52]   [07:13:53] #014 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-14 00:21:52]   [07:16:39] #016 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-14 00:21:52]   [07:19:16] #022 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-14 00:21:52]   [07:21:52] #023 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-14 00:21:52] chunk done: 0 new files
+[2026-10-14 00:21:52] sleeping 332 min before next chunk
+[2026-10-14 00:43:02] === chunk loop start (chunk=5, max 2.6 h, container=kb_camoufox) ===
+[2026-10-14 00:43:02] pending: 14
+[2026-10-14 00:43:02] running chunk: 12,14,16,22,23
+[2026-10-14 00:43:02] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-14 00:43:02] re-uploaded books.json to container
+[2026-10-14 00:47:04] === chunk loop start (chunk=5, max 2.6 h, container=kb_camoufox) ===
+[2026-10-14 00:47:04] pending: 18
+[2026-10-14 00:47:04] running chunk: 6,7,12,14,15
+[2026-10-14 00:47:04] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-14 00:47:05] re-uploaded books.json to container
+[2026-10-14 00:59:50]   [07:48:49] #006 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-14 00:59:50]   [07:51:42] #007 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-14 00:59:50]   [07:54:14] #012 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-14 00:59:50]   [07:57:01] #014 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-14 00:59:50]   [07:59:50] #015 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-14 00:59:50] chunk done: 0 new files
+[2026-10-14 00:59:50] sleeping 418 min before next chunk
+[2026-10-14 01:09:53] === chunk loop start (chunk=5, max 2.6 h, container=kb_camoufox) ===
+[2026-10-14 01:09:53] pending: 18
+[2026-10-14 01:09:53] running chunk: 6,7,12,14,15
+[2026-10-14 01:09:53] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-14 01:09:53] re-uploaded books.json to container
+[2026-10-14 01:21:18]   [08:10:01] #006 error: Error: Page.goto: NS_ERROR_ABORT
+[2026-10-14 01:21:18]   [08:12:59] #007 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-14 01:21:18]   [08:15:35] #012 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-14 01:21:18]   [08:18:21] #014 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-14 01:21:18]   [08:21:18] #015 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-14 01:21:19] chunk done: 0 new files
+[2026-10-14 01:21:19] sleeping 267 min before next chunk
+[2026-10-15 00:29:47] === chunk loop start (chunk=5, max 2.6 h, container=kb_camoufox) ===
+[2026-10-15 00:29:47] pending: 18
+[2026-10-15 00:29:47] running chunk: 6,7,12,14,15
+[2026-10-15 00:29:47] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-15 00:29:47] re-uploaded books.json to container
+[2026-10-15 00:41:10] === chunk loop start (chunk=5, max 2.6 h, container=kb_camoufox) ===
+[2026-10-15 00:41:10] pending: 18
+[2026-10-15 00:41:10] running chunk: 6,7,12,14,15
+[2026-10-15 00:41:10] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-15 00:41:10] re-uploaded books.json to container
+[2026-10-15 00:52:45]   [07:42:41] #006 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-15 00:52:45]   [07:45:33] #007 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-15 00:52:45]   [07:47:54] #012 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-15 00:52:45]   [07:50:13] #014 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-15 00:52:45]   [07:52:45] #015 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-15 00:52:45] chunk done: 0 new files
+[2026-10-15 00:52:45] sleeping 327 min before next chunk
+[2026-10-15 06:20:10] === chunk loop end ===
+[2026-10-15 06:22:14] === chunk loop start (chunk=5, max 2.6 h, container=kb_camoufox) ===
+[2026-10-15 06:22:14] pending: 18
+[2026-10-15 06:22:14] running chunk: 6,7,12,14,15
+[2026-10-15 06:22:14] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-15 06:22:14] re-uploaded books.json to container
+[2026-10-15 06:32:26]   [13:22:22] #006 error: Error: Page.goto: NS_ERROR_ABORT
+[2026-10-15 06:32:26]   [13:24:48] #007 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-15 06:32:26]   [13:27:13] #012 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-15 06:32:26]   [13:29:39] #014 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-15 06:32:26]   [13:32:26] #015 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-15 06:32:26] chunk done: 0 new files
+[2026-10-15 06:32:26] sleeping 267 min before next chunk
+[2026-10-15 10:59:25] === chunk loop end ===
+[2026-10-15 11:01:29] === chunk loop start (chunk=5, max 2.6 h, container=kb_camoufox) ===
+[2026-10-15 11:01:29] pending: 18
+[2026-10-15 11:01:29] running chunk: 6,7,12,14,15
+[2026-10-15 11:01:29] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-15 11:01:29] re-uploaded books.json to container
+[2026-10-15 11:12:12]   [18:01:37] #006 error: Error: Page.goto: NS_ERROR_ABORT
+[2026-10-15 11:12:12]   [18:04:21] #007 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-15 11:12:12]   [18:07:06] #012 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-15 11:12:12]   [18:09:42] #014 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-15 11:12:12]   [18:12:12] #015 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-15 11:12:13] chunk done: 0 new files
+[2026-10-15 11:12:13] sleeping 384 min before next chunk
+[2026-10-15 17:36:07] === chunk loop end ===
+[2026-10-15 17:38:11] === chunk loop start (chunk=5, max 2.6 h, container=kb_camoufox) ===
+[2026-10-15 17:38:11] pending: 18
+[2026-10-15 17:38:11] running chunk: 6,7,12,14,15
+[2026-10-15 17:38:11] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-15 17:38:11] re-uploaded books.json to container
+[2026-10-15 17:48:25]   [00:38:19] #006 error: Error: Page.goto: NS_ERROR_ABORT
+[2026-10-15 17:48:25]   [00:40:44] #007 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-15 17:48:25]   [00:43:33] #012 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-15 17:48:25]   [00:46:05] #014 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-15 17:48:25]   [00:48:24] #015 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-15 17:48:25] chunk done: 0 new files
+[2026-10-15 17:48:25] sleeping 370 min before next chunk
+[2026-10-15 23:58:41] === chunk loop end ===
+[2026-10-16 00:00:45] === chunk loop start (chunk=5, max 2.6 h, container=kb_camoufox) ===
+[2026-10-16 00:00:45] pending: 18
+[2026-10-16 00:00:45] running chunk: 6,7,12,14,15
+[2026-10-16 00:00:45] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-16 00:00:45] re-uploaded books.json to container
+[2026-10-16 00:11:42]   [07:00:53] #006 error: Error: Page.goto: NS_ERROR_ABORT
+[2026-10-16 00:11:42]   [07:03:29] #007 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-16 00:11:42]   [07:06:19] #012 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-16 00:11:42]   [07:08:53] #014 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-16 00:11:42]   [07:11:42] #015 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-16 00:11:42] chunk done: 0 new files
+[2026-10-16 00:11:42] sleeping 280 min before next chunk
+[2026-10-16 04:51:50] === chunk loop end ===
+[2026-10-16 04:53:54] === chunk loop start (chunk=5, max 2.6 h, container=kb_camoufox) ===
+[2026-10-16 04:53:54] pending: 18
+[2026-10-16 04:53:54] running chunk: 6,7,12,14,15
+[2026-10-16 04:53:54] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-16 04:53:54] re-uploaded books.json to container
+[2026-10-16 05:04:40]   [11:54:02] #006 error: Error: Page.goto: NS_ERROR_ABORT
+[2026-10-16 05:04:40]   [11:56:28] #007 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-16 05:04:40]   [11:59:12] #012 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-16 05:04:40]   [12:01:56] #014 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-16 05:04:40]   [12:04:40] #015 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-16 05:04:41] chunk done: 0 new files
+[2026-10-16 05:04:41] sleeping 251 min before next chunk
+[2026-10-16 09:15:51] === chunk loop end ===
+[2026-10-16 09:17:55] === chunk loop start (chunk=5, max 2.6 h, container=kb_camoufox) ===
+[2026-10-16 09:17:55] pending: 18
+[2026-10-16 09:17:55] running chunk: 6,7,12,14,15
+[2026-10-16 09:17:55] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-16 09:17:55] re-uploaded books.json to container
+[2026-10-16 09:28:17]   [16:18:02] #006 error: Error: Page.goto: NS_ERROR_ABORT
+[2026-10-16 09:28:17]   [16:20:42] #007 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-16 09:28:17]   [16:23:18] #012 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-16 09:28:17]   [16:25:50] #014 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-16 09:28:17]   [16:28:17] #015 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-16 09:28:18] chunk done: 0 new files
+[2026-10-16 09:28:18] sleeping 300 min before next chunk
+[2026-10-16 14:28:17] === chunk loop end ===
+[2026-10-16 14:30:21] === chunk loop start (chunk=5, max 2.6 h, container=kb_camoufox) ===
+[2026-10-16 14:30:21] pending: 18
+[2026-10-16 14:30:21] running chunk: 6,7,12,14,15
+[2026-10-16 14:30:21] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-16 14:30:22] re-uploaded books.json to container
+[2026-10-16 16:30:22] chunk timed out; continuing with what landed
+[2026-10-16 16:30:22] chunk done: 0 new files
+[2026-10-16 16:30:22] sleeping 407 min before next chunk
+[2026-10-16 23:17:01] === chunk loop end ===
+[2026-10-16 23:20:18] === chunk loop start (chunk=5, max 2.6 h, container=kb_camoufox) ===
+[2026-10-16 23:20:18] pending: 18
+[2026-10-16 23:20:18] running chunk: 6,7,12,14,15
+[2026-10-16 23:20:18] container /tmp/libgen_tb_pdf/books.json missing (container restarted?) — re-uploading
+[2026-10-16 23:20:18] re-uploaded books.json to container
+[2026-10-17 00:39:38]   [06:22:09] #006 timeout: Timeout 88880ms exceeded.
+[2026-10-17 00:39:38]   [06:24:37] #007 download invalid: b'%PDF-1.4'
+[2026-10-17 00:39:38] chunk done: 0 new files
+[2026-10-17 00:39:38] sleeping 330 min before next chunk

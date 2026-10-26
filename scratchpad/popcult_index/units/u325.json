@@ -1,0 +1,79 @@
+{
+ "unit": "u325",
+ "book": "224 - The Philosophy of Joss Whedon",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\data\\philosophy_pop_culture\\markdown\\224 - The Philosophy of Joss Whedon",
+ "range": [
+  1,
+  11
+ ],
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Cover.md",
+   "words": 0
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Title Page.md",
+   "words": 394
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Acknowledgments.md",
+   "words": 567
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Photo Credits and Captions.md",
+   "words": 606
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Introduction.md",
+   "words": 2809
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Seeking Authenticity.md",
+   "words": 9651
+  },
+  {
+   "n": 7,
+   "file": "ch07 - On Being Horrible (and an Angel).md",
+   "words": 8774
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Right and the Good without God.md",
+   "words": 9863
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Portrayals of Religion.md",
+   "words": 9791
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Peculiarities of Free Will.md",
+   "words": 11399
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Mulhall and His Detractors.md",
+   "words": 11409
+  }
+ ],
+ "content": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ]
+}

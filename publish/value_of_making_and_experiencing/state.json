@@ -1,0 +1,53 @@
+{
+  "article": "value_of_making_and_experiencing",
+  "source": "publish/value_of_making_and_experiencing/source-v2.md",
+  "updated": "2026-10-14T11:30:00Z",
+  "polish": {
+    "status": "done",
+    "language": "en",
+    "runs": [
+      {
+        "date": "2026-10-13",
+        "focus": "citations / minimal-touch polish on v1 for EUJAP discussion + PhilArchive",
+        "summary": "SUPERSEDED: v1 (3,798 words) polished; all refs verified. Owner replaced with v2 on 2026-10-14."
+      },
+      {
+        "date": "2026-10-14",
+        "focus": "v2 polish: new title/framing (Summit and Climb), Foucault+Bourdieu+Cross",
+        "summary": "3 new references verified (all 8 real); MacKenzie ref completed to 26 (25): 1-13; LaTeX math converted to plain text (pandoc drops it); EUJAP-required AI Acknowledgements inserted. 6,914 body / 7,092 with refs. EUJAP moves to Article category (>5,000 discussion ceiling); PhilArchive unlimited."
+      },
+      {
+        "date": "2026-10-14",
+        "focus": "v3 polish: retitled, restructured; four-values leads, recognition/ratification added",
+        "summary": "Owner supplied v3. Same 8 refs as v2 minus Wimsatt & Beardsley (uncited in v3 body - removed, 7 remain, all verified). MacKenzie ref completed to 26 (25): 1-13. 16 inline math spans + 2 display equations converted to plain text. EUJAP-required AI Acknowledgements inserted. 7,080 body / 7,239 with refs (Article category)."
+      }
+    ]
+  },
+  "conversions": {
+    "philarchive": {
+      "status": "done",
+      "artifacts": [
+        "venue-philarchive/manuscript.pdf",
+        "venue-philarchive/manuscript.docx",
+        "venue-philarchive/manuscript.md",
+        "venue-philarchive/cover-letter.md",
+        "venue-philarchive/ai-disclosure.md",
+        "venue-philarchive/notes.md"
+      ],
+      "notes": "v3 PDF via Word COM; byline Horace Chan; reply relation to MACFAL-5 to be indicated on form"
+    },
+    "eujap": {
+      "status": "done",
+      "artifacts": [
+        "venue-eujap/blinded-manuscript.docx",
+        "venue-eujap/blinded-manuscript.md",
+        "venue-eujap/cover-letter.md",
+        "venue-eujap/ai-disclosure.md",
+        "venue-eujap/notes.md",
+        "venue-eujap/title-page.docx",
+        "venue-eujap/title-page.md"
+      ],
+      "notes": "v3 Article category (7,080 body / 7,239 with refs, limit 9,000); blinded (metadata-scrubbed, verified empty author fields); title-page.docx added per author guidelines (abstract 247 words, keywords, affiliation, email); Chicago author-date; AI acknowledgement in manuscript. BLOCKED on SSO login (eduGAIN/ORCID) - self-registration disabled."
+    }
+  }
+}

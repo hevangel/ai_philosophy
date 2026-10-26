@@ -1,0 +1,556 @@
+{
+ "book": "195 - Ted Lasso and Philosophy - No Question Is Into Touch",
+ "unit": "u283",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Table of Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Series Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Dedication Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - A Taste of Athens.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editors' introduction argues that the show's sugary surface hides systematic appearance/reality gaps: Nate the bumbling kit man is a tactical genius, Rebecca hires Ted to destroy the club, Jamie's arrogance masks a yearning for connection, and Ted's cheerfulness conceals trauma. Taking Trent Crimm's line that sport is a metaphor for life and Ted's dartboard speech about judgmentalism crowding out curiosity, it frames philosophy's questioning as the right tool for the show, then previews the volume's five parts (Augustine and Taoism, fear and friendship, masculinity and bullshit, Candide/Camus and music, Stoicism and redemption) via Nate's dumpy favorite restaurant A Taste of Athens."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Part I DO THE RIGHT‐EST THING.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine"
+   ],
+   "concepts": [],
+   "relation": "Strehlow argues Ted's question 'What do you love?' points to Augustine's ordo amoris: character is defined by how our competing loves are ordered. Jamie's self-gratifying cupiditas is contrasted with Dani Rojas's caritas ('football is life'), Rebecca's revenge on Rupert is a disordered love she abandons by trashing his headline, and the ghost-exorcism ceremony in 'Two Aces' becomes a collective reordering of loves. Using James K. A. Smith's cultural liturgies, he reads Roy's kebab shop and Richmond fandom as liturgies that make winning an idol, and shows how fathers and father figures (James Tartt's abuse, Sam's dad, Ted as father to Roy and Jamie, Augustine's Ambrose) reorder sons' loves toward the good."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "zhuangzi",
+    "laozi",
+    "confucius"
+   ],
+   "concepts": [
+    "wu-wei",
+    "the-tao"
+   ],
+   "relation": "Schiltz reads Isaac McAdoo as a Zhuangzian sage: his virtuoso haircut scene in 'Man City' parallels Zhuangzi's butcher who carves oxen by following the natural seams of the dao, and his candid, simple, guileless character mirrors the Daoist mistrust of complexity and language. Isaac's slump in 'Rainbow' is diagnosed as lost wu-wei ('all up in his head'), cured by Roy's no-stakes pickup games that restore effortless action, and Laozi's 'ruling a great state is like cooking a small fish' explains Isaac's wordless leadership during Sam's Dubai Air protest and the suit-wearing gesture at Rebecca's father's funeral."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "william-james",
+    "pascal",
+    "clifford"
+   ],
+   "concepts": [
+    "will-to-believe",
+    "faith-vs-reason"
+   ],
+   "relation": "Baggett sets W. K. Clifford's evidentialism (the negligent shipowner; believing on insufficient evidence is a 'sin against mankind') against William James's precursive faith, which permits believing ahead of the evidence when an option is forced, live, momentous, and evidentially undecided. He applies this to Sam's taping over the Dubai Air logo as social-coordination faith, Richmond's belief that it can finally beat Everton, romantic risk-taking like Roy and Keeley's, and the marriage of belief with hard work (Ted's practice tirade, Nate's False Nine), ending with James and Pascal on how evidential ambiguity about God makes a passional step of faith rational."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "hobbes",
+    "ayn-rand"
+   ],
+   "concepts": [
+    "moral-egoism",
+    "aristotle-eudaimonia",
+    "aristotle-friendship"
+   ],
+   "relation": "Begley and Biondi argue Ted is an ethical egoist in the Aristotelian-Randian sense: like Howard Roark of The Fountainhead (Ted's favorite book), he is a self-loving creator who loves his work, has a 'self-sufficient ego' immune to others' approval, and pursues long-range values, so his kindness and biscuits are rational self-interest, not selflessness. Against Hobbesian psychological egoism they distinguish genuine egoists from narcissists like Rupert and hedonists like Season 1 Jamie, defend Ted's divorce and the curse-reverse ceremony as only apparent sacrifices, and read his panic-attack therapy arc as the egoist's project of achieving inner wholeness."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Part II THE BEST VERSIONS OF OURSELVES.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard"
+   ],
+   "concepts": [
+    "authenticity"
+   ],
+   "relation": "Latta uses James Hollis's Jungian 'Middle Passage' - the midlife collapse of our tacit contract with the universe and of the provisional personality built in life's first half - to read Ted's arc with Dr. Sharon Fieldstone: her bike accident and self-disclosure, his panic attacks, and his confession about his father's suicide force him to drop the coach persona and choose an authentic second half. The chapter interprets Ted's move to London as both flight from and working-through of paternal trauma, his distance from son Henry as the wound it exposes, and closes with Kierkegaard's journal demand to find 'a truth which is truth for me,' which Ted finds in the return home to Kansas."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-golden-mean",
+    "aristotle-eudaimonia",
+    "aristotle-friendship"
+   ],
+   "relation": "Forte maps the Richmond cast onto Aristotle's Nicomachean Ethics: Rebecca, Nate, Roy, and Jamie begin incontinent or near-vicious; courage is the mean between Nate's cowardice and Roy's rashness; and their friendless misery illustrates why friendship (utility, pleasure, complete) is necessary for eudaimonia. Ted's coaching works as a modern strengths-based complement to Aristotelian habituation - Phoebe's Princess-and-Dragon play tempers Roy, Jamie's competitiveness is redirected into team play, Nate misses the mean and becomes mean - and the finale's 'progress over perfection' framing shows all of them as works in progress toward teloi."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "foot",
+    "cicero",
+    "cs-lewis"
+   ],
+   "concepts": [
+    "aristotle-friendship",
+    "aristotle-eudaimonia",
+    "virtue-ethics"
+   ],
+   "relation": "Loftin argues the Diamond Dogs enact Aristotle's complete friendship: Jamie and Rebecca fail at friendship because they misconceive the good as self-gratification, and following Philippa Foot's natural-kind account of human good (plus Cicero on goodwill and C. S. Lewis's Four Loves) he shows friendship is an intrinsic good of human beings as such. Ted's vulnerability before Beard, Nate, and Higgins invites them into virtuous activity, Higgins's defection from Rebecca's sabotage scheme displays friendship against a relationship fueled by hurt, and Nate's status-hunger explains why he mistakes Ted's laughter and Rupert's patronage for friendship."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "kant",
+    "hume"
+   ],
+   "concepts": [
+    "aristotle-friendship",
+    "kant-humanity-formula",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "Wible asks whether Ted's friendliness with players and staff constitutes moral friendship, testing it against Aristotle's three friendship types, Hume on solitude, and Bennett Helm's conditions (shared activity, intimacy, mutual care) plus a power-imbalance requirement Kant's respect for persons underwrites. This condemns Rebecca and Sam's relationship as a conflict of interest too risky to permit, questions Led Tasso and benching decisions, yet concludes that Aristotle's virtue friendship between coach and player is possible and preferable to Drewe's limited utility-friendship, since Ted's virtuous friendships make players better people while still knowing when to prioritize team over individual."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Part III MAN CITY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "frankfurt"
+   ],
+   "concepts": [
+    "frankfurt-bullshit"
+   ],
+   "relation": "Husmann and Kusko apply Frankfurt's On Bullshit distinction - the liar cares about truth while the bullshitter is indifferent to it - to argue Ted Lasso combats BS through correctness (accurately representing a shared world) before sincerity. Ted never fakes tactical knowledge and accepts hard truths like his divorce; the good guys (Sam's protest, Roy refusing a fake-injury ruse, Trent's fair profile) reject BS; Rupert is the show's virtuoso BS artist from the charity gala interruption to crashing the funeral; and Rebecca, Jamie, and Nate's arcs are measured as their movements up and down the BS spectrum."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-golden-mean",
+    "aristotle-practical-wisdom"
+   ],
+   "relation": "Arvan argues the show is really about positive masculinity - what it is to be a good man - read through Aristotle's virtue ethics: toxic masculinity (Rupert's domination, Jamie Sr.'s abuse, Nate's cruelty, Ted's suffer-in-silence self-reliance) is vice at an extreme, while the show's good men hit the golden mean by 'womaning up.' Led Tasso works as context-appropriate toughness, Roy's hug of Jamie and the darts speech's 'be curious, not judgmental' blend masculine and feminine virtues, phronesis is learned from experience as Beard teaches Nate forgiveness, and even Rupert's downfall shows vice backfiring as Aristotle predicts."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hooks",
+    "nietzsche"
+   ],
+   "concepts": [
+    "feminism",
+    "care-ethics"
+   ],
+   "relation": "Young uses bell hooks's patriarchal masculinity (with Kate Manne on misogyny as enforcement) to read the show: Jamie is patriarchal terror's product, Rupert's promiscuity and Rebecca's subjection are two sides of male control, and Roy Kent's 'hard man' persona inherits the hardness Nietzsche praised and philosophy's traditional suspicion of emotion. Against this, hooks's definition of love as the will to nurture spiritual growth explains Ted's coaching, the training-room exorcism's shared vulnerability, Sam's openness, and Nate's status-hunger as the struggle to invert the gender pyramid, ending with Nate refusing Rupert's poisoned patriarchal gifts."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "virtue-ethics"
+   ],
+   "relation": "Austin weighs Lombardi's 'winning is the only thing' (embodied in Beard's protest when Ted refuses to bench Roy against Man City) against the sportsmanship tradition and Robert Simon's view of sport as a mutual quest for excellence through challenge. He argues the 'New Lasso Way' vindicates both: Ted's locker-room speech after relegation, his note to Jamie ('Way to make the extra pass') after Jamie's assist beats Richmond, Pep's cameo, and the retitling of Trent's book to The Richmond Way show that people matter more than winning while winning still matters, with Ted's humility ('It's not about me') as the ground of the balance."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Part IV MOSTLY FOOTBALL IS LIFE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "schopenhauer"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "philosophy-of-music"
+   ],
+   "relation": "Belluomini argues the show's score and soundtrack do genuine aesthetic and moral work, applying Aristotle's Politics Book VIII claim that music imitates emotion and disposes us toward virtue. He analyzes Celeste's 'Strange' narrating the divorce-signing and intercut romances, 'Wise Up' underscoring Rebecca's brave break with John Wingsnight, 'Piano Joint' carrying Rebecca's confession to Ted, 'She's a Rainbow' scoring Roy's run back to Nelson Road, 'Roy Walk Off' as a Jaws-style sentimental motif, and 'Spiegel im Spiegel' under Rebecca's anti-Super-League speech, closing with Schopenhauer's point that fitting music is a scene's most accurate commentary."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bostrom",
+    "lewis"
+   ],
+   "concepts": [
+    "simulation-hypothesis",
+    "possible-worlds"
+   ],
+   "relation": "Jones takes Beard's 'tip our caps to the rascal pulling the strings' seriously and reconstructs Bostrom's simulation trilemma without the math: humanity goes extinct before simulating ancestors, advanced civilizations decline to run them, or we are almost certainly simulated. He then brings in David Lewis's modal realism to argue the different Teds - happily married in Kansas, the coach we watch, the rage-monster Led Tasso - are real possible people, and concludes that even if we are simulations our consciousness is real and meaningful: ancestor-simulations are the future tipping its caps to us."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "camus",
+    "leibniz",
+    "voltaire"
+   ],
+   "concepts": [
+    "the-absurd",
+    "best-possible-world",
+    "sufficient-reason"
+   ],
+   "relation": "Blessing diagnoses Ted's 'rom-communism' as the naive optimism Voltaire satirized in Candide: Pangloss's 'best of all possible worlds' is Leibniz's greater-goods theodicy and Principle of Sufficient Reason, and its fatalism ('it will all work out exactly as it's supposed to') collapses under Ted's panic attacks and 'belief can't score goals.' Against it she sets Camus's The Plague: Dr. Rieux's absurd heroism, refusal of hope as 'philosophical suicide,' and 'strange hope' grounded in collective decency, arguing Ted's real, sustainable creed is Camus-like faith in teamwork and human goodness rather than belief that everything works out."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "best-possible-world"
+   ],
+   "relation": "Freeman reads Ted as Chesterton's holy fool, in the lineage of Don Quixote and The Idiot and modeled on Innocent Smith in Manalive: his apparently foolish decisions (benching Jamie, the crooked BELIEVE sign meaning the room is 'outta whack') disclose a higher optimism that faces real evil, delights in Being as a gift, and loves the world patriotically like a relegation-threatened home team. The chapter then argues Ted's optimism diverges from Chesterton's by lacking its Christian foundation - Ted believes in belief itself, 'to which god and in what language?' - so the show can intuit but not justify the optimism it depicts."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Part V SMELLS LIKE POTENTIAL.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "civil-disobedience",
+    "utilitarianism"
+   ],
+   "relation": "The Baggetts use Trent Crimm's 'Richmond Coach Cover-Up Revealed' - where he names Nate as his anonymous source for Ted's panic attack and loses his job - as a case study in journalistic ethics. They test the duty to protect sources through Kantian universalizability (which maxim?) and rule utilitarianism (keep the rule even when breaking it would help here), consider whether Trent's willingness to pay the price resembles Thoreau-style civil disobedience, and trace how Ted's authenticity converted a cynical gotcha journalist into someone looking for deeper, more meaningful work, ending with The Richmond Way's renunciation of self-promotion."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marcus-aurelius",
+    "seneca",
+    "beauvoir"
+   ],
+   "concepts": [
+    "stoicism",
+    "dichotomy-of-control",
+    "woman-as-other"
+   ],
+   "relation": "Quinn argues Rebecca is the show's Stoic: Marcus Aurelius's maxims about judgments, obstacles, and morning meetings with the ungrateful map onto her recovery from Rupert - accepting reality, forgiving as a choice within her control, the lion power pose, 'every disadvantage has its advantage' - with the dichotomy of control as her operating principle. Framed by Gen X self-reliance and second-wave feminism (Friedan's problem with no name, Beauvoir's woman as Other under Rupert), the chapter follows her from vengeful boss to mentor of Keeley and Nora, Bantr-era 'bossgirl' dater of Sam, and finally the Richmond family's matriarch."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nussbaum"
+   ],
+   "concepts": [
+    "forgiveness",
+    "moral-psychology"
+   ],
+   "relation": "Mills asks why Nate is more hurt than relieved when Roy declines to headbutt him over kissing Keeley, while Jamie had to fight for forgiveness. Using Strawson's reactive attitudes - anger is how we take someone seriously as a member of the moral community - plus Nussbaum's Anger and Forgiveness and Radzik's transactional account of amends, she argues Roy's instant absolution dismisses Nate as a pitiable non-agent rather than a culpable moral equal. The chapter contrasts this with earned, transactional forgiveness across Season 3 (Nate apologizing to Will and Ted, Beard's own story of betrayal and forgiveness), showing the headbutt as the recognition Nate needed."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "aquinas"
+   ],
+   "concepts": [
+    "forgiveness",
+    "philosophy-of-love",
+    "moral-psychology"
+   ],
+   "relation": "Baggett asks whether Rupert is beyond the grace the show extends to everyone else. She surveys theories of forgiveness - Butler's change of emotion, treatment and performative accounts, and Stump's Aquinas-based framework grounding forgiveness in the love that desires another's good and union, separable from reconciliation - then applies Aristotle's corrupted bad person whose vice 'makes moral truths invisible' as Rupert's limit case. Ted's darts-based tough love is contrasted with Sassy's vengeful certainty and Deborah's cheap grace, and the chapter leaves Rupert's turnaround possible but entirely his choice, while his choices have already been making him."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Notes.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Starting Lineup.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - End User License Agreement.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 9,
+   "type": "concept",
+   "suggested_slug": "ordo-amoris",
+   "name": "Ordo Amoris (the ordering of loves)",
+   "philosopher": "augustine",
+   "domain": "religion-meaning",
+   "what": "Augustine's doctrine that character and happiness depend on loving things in their right order, with rightly ordered caritas opposed to disordered cupiditas.",
+   "why": "Chapter 9's entire reading of Jamie, Dani Rojas, Rebecca, and Ted as father figure is built on Augustine's ordo amoris, which taxonomy lacks."
+  },
+  {
+   "ch": 11,
+   "type": "philosopher",
+   "suggested_slug": "clifford",
+   "name": "W.K. Clifford",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Victorian mathematician-philosopher whose 'The Ethics of Belief' holds it is always wrong, everywhere, for anyone to believe anything on insufficient evidence.",
+   "why": "Chapter 11 is structured as Clifford's evidentialism versus James's precursive faith, with Clifford's shipowner supplying the target thesis."
+  },
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "ayn-rand",
+   "name": "Ayn Rand",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Novelist-philosopher of Objectivism who defended rational ethical egoism in The Fountainhead and 'The Virtue of Selfishness.'",
+   "why": "Chapter 12 argues Ted is an egoist by pairing Aristotle with Rand's Howard Roark, the hero of Ted's favorite book."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "middle-passage",
+   "name": "The Middle Passage (Hollis)",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "James Hollis's Jungian account of midlife, when the assumptions and provisional personality of life's first half collapse and one must choose an authentic second half.",
+   "why": "Chapter 14 reads Ted's therapy arc with Dr. Sharon and his flight to and from London entirely through Hollis's Middle Passage framework."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "natural-goodness",
+   "name": "Natural Goodness (Foot)",
+   "philosopher": "foot",
+   "domain": "ethics-moral-psychology",
+   "what": "Philippa Foot's view that moral evaluation rests on what is good for members of a natural kind, judged by their characteristic form of life.",
+   "why": "Chapter 16 grounds friendship's intrinsic value in Foot's Natural Goodness account of the human good, which taxonomy lists Foot only for the trolley problem."
+  },
+  {
+   "ch": 16,
+   "type": "philosopher",
+   "suggested_slug": "cs-lewis",
+   "name": "C.S. Lewis",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Christian apologist and literary scholar whose The Four Loves analyzes affection and friendship as shared pursuit of a common good.",
+   "why": "Chapter 16 leans on The Four Loves to explain why self-gratifying characters like Jamie and Rebecca cannot have friends."
+  },
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "patriarchal-masculinity",
+   "name": "Patriarchal Masculinity (hooks)",
+   "philosopher": "hooks",
+   "domain": "feminism-gender-race",
+   "what": "bell hooks's account of patriarchy as a dominance system that damages men too by demanding they suppress emotion and rule over the weak.",
+   "why": "Chapter 21's critique of Jamie, Rupert, Roy, and Nate runs entirely on hooks's patriarchal-masculinity framework from The Will to Change."
+  },
+  {
+   "ch": 21,
+   "type": "philosopher",
+   "suggested_slug": "kate-manne",
+   "name": "Kate Manne",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Feminist philosopher who defines misogyny as the enforcement mechanism policing women (and soft men) who challenge male entitlement.",
+   "why": "Chapter 21 applies Manne's Down Girl definition to George Cartrick's punditry and Rupert's public demeaning of Rebecca."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "mutual-quest-excellence",
+   "name": "Sport as a Mutual Quest for Excellence (Simon)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Robert Simon's philosophy-of-sport view that good competition is a cooperative 'mutual quest for excellence through challenge' where winning matters but respect for persons matters more.",
+   "why": "Chapter 22 resolves the Ted-versus-Beard dispute by adopting Simon's account as the 'New Lasso Way.'"
+  },
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "philosophy-of-music",
+   "name": "Philosophy of Music (arousal and mimesis)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The aesthetics branch asking how music expresses and arouses emotion and can shape moral character, from Aristotle's Politics VIII through Schopenhauer to Robinson and Kivy.",
+   "why": "Chapter 24 needs it to explain how the show's score and soundtrack amplify each scene's emotion and warmth."
+  },
+  {
+   "ch": 26,
+   "type": "philosopher",
+   "suggested_slug": "voltaire",
+   "name": "Voltaire",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "Enlightenment satirist whose Candide ridicules Leibnizian philosophical optimism through Pangloss and ends in meliorism ('we must work our land').",
+   "why": "Chapter 26 uses Candide to expose the fatalism inside Ted's rom-communism before turning to Camus for the alternative."
+  },
+  {
+   "ch": 27,
+   "type": "philosopher",
+   "suggested_slug": "gk-chesterton",
+   "name": "G.K. Chesterton",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Edwardian essayist and Christian apologist who defended a paradoxical, evil-acknowledging philosophical optimism grounded in gratitude for Being.",
+   "why": "Chapter 27 argues Ted's optimism is Chestertonian while lacking the theological foundation Chesterton insisted upon."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "holy-fool",
+   "name": "The Holy Fool",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "A literary-spiritual archetype of the naive-seeming outsider whose folly discloses deeper truth and heals others, from Don Quixote and The Idiot to Chesterton's Innocent Smith.",
+   "why": "Chapter 27 interprets Ted as a holy fool whose apparent incompetence reveals the true nature of sport, teamwork, and life."
+  },
+  {
+   "ch": 31,
+   "type": "philosopher",
+   "suggested_slug": "strawson-pf",
+   "name": "P.F. Strawson",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Author of 'Freedom and Resentment,' arguing reactive attitudes like anger and resentment are how we hold one another as members of the moral community.",
+   "why": "Chapter 31 explains why Nate is hurt by Roy's easy forgiveness through Strawson's reactive-attitudes thesis."
+  },
+  {
+   "ch": 32,
+   "type": "philosopher",
+   "suggested_slug": "eleonore-stump",
+   "name": "Eleonore Stump",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Contemporary philosopher whose Thomistic account treats forgiveness within a framework of love, distinct from (though ideally ending in) reconciliation.",
+   "why": "Chapter 32 uses Stump's framework to explain why forgiveness can be one-sided yet why Rupert's reconciliation is so difficult."
+  }
+ ]
+}

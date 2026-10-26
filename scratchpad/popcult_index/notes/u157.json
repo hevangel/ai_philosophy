@@ -1,0 +1,269 @@
+{
+ "book": "097 - The Ultimate Walking Dead and Philosophy - Hungry for More",
+ "unit": "u157",
+ "chapters": [
+  {
+   "n": 25,
+   "file": "ch25 - Walker Bite. If I Don’t Save the World, I Have No Value.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "kant-humanity-formula",
+    "aristotle-friendship"
+   ],
+   "relation": "This Walker Bite uses Eugene Porter's exposed lie about being the scientist who can cure the outbreak (5.5 \"Self Help\") to ask what makes a person valuable once their usefulness collapses. Eugene himself sums up an instrumental view of his own worth - \"If I don't cure the disease, if I don't save the world, I have no value\" - and admits he sabotaged the bus to stall the DC mission. Against this, Tara's \"We're friends. We have each other's backs... You're stuck with us. No matter what\" argues that persons are valued for themselves within a community rather than as means, and the chapter lands on Abraham's \"people need people\" as the real ground of Eugene's place in the group."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 10. We’re Not Free to Save Lee.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "bostrom"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "bad-faith",
+    "compatibilism",
+    "simulation-hypothesis"
+   ],
+   "relation": "Bowman uses Telltale's Walking Dead videogame, where Lee always dies no matter what the player does, to stage the free will versus determinism debate. Laplace's demon grounds the determinist pole (the game's outcome is fixed like set particles), while Sartre's radical freedom and bad faith explain the player who says \"I thought I could save both\" at Hershel's farm rather than owning her choice. The chapter resolves the tension with fatalism or soft determinism - a compatibilist itinerary where Lee's death is a fixed benchmark but the player's choices in between define the character - and extends Bostrom's simulation hypothesis to ask whether we are Lee-like players inside someone else's game."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Part IV Look at the Flowers.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - 11. I Ain’t No Hollaback Girl!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gilligan"
+   ],
+   "concepts": [
+    "care-ethics",
+    "moral-psychology",
+    "maslow-hierarchy-of-needs"
+   ],
+   "relation": "Callens explains Carol's killing of Lizzie in \"The Grove\" through Kohlberg's stages of moral development, arguing Carol reasons at the post-conventional level (pre-apocalypse law and punishment no longer bind) while Rick, Hershel, and Daryl stay conventional, and then layers Maslow's hierarchy of needs on top: because survival needs are perpetually threatened, characters regress between stages, and only self-actualized Carol accepts reality and makes group-preserving choices like executing Lizzie and mercy-killing Karen and David. Gilligan's justice-versus-care critique supplies the gendered frame - Carol moves to the middle of the justice-care continuum, her diminished care (unlike Season Two's grief over Sophia) is what makes her post-conventional, and her non-lethal Terminus rescue contrasts with Rick's summary execution of Gareth."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 12. They Just Want Me to Be Like Them.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "personal-identity",
+    "care-ethics",
+    "moral-psychology"
+   ],
+   "relation": "Castro and Beisecker diagnose Lizzie's walker fixation as prolonged grief disorder: she displaces grief for her father onto the walker \"Nick,\" denies final death (\"They're just different\"), and treats reanimation as a viable form of life she might join (\"Maybe I should change\"). They argue Carol's suppressive guardianship - the \"look at the flowers\" distraction and calling Lizzie weak and confused - aggravated the avoidance at the root of the disorder, so Lizzie's \"transformation\" of Mika was a misguided moral experiment rather than murder by a monster. The chapter contrasts Tyreese's affirming care (\"You each do things your own way\") as the guardianship that might have saved the girls, and notes Carol's refusal to let Lizzie reanimate denies her the dying-wish courtesy the group once granted Jim."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 13. Carol’s Transformation.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "mill",
+    "aquinas"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "utilitarianism",
+    "aquinas-natural-law"
+   ],
+   "relation": "Delfino and Lesinski trace Carol's arc from abused wife (Ed's beatings, Sophia's death, \"I didn't think I could be strong\") to the judge-jury-executioner she once refused to be, reading the transformation through Aristotle's claim in the Nicomachean Ethics that repeated actions forge moral character. They then evaluate her killings: the murder of Karen and David fails on both act- and rule-utilitarian grounds (it did not stop the flu, and Glenn and Sasha survived while the group was shattered), whereas killing the delusional Lizzie is defensible both utilitarianly and by Aquinas's natural-law exception that an evildoer may be killed for the welfare of the whole community when no public authority remains. Her confession to Tyreese and Tyreese's forgiveness complete the phoenix rebirth symbolized by the burning walkers in \"Consumed.\""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Walker Bite. Innocence in Shambles.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "moral-psychology",
+    "applied-ethics"
+   ],
+   "relation": "Yuen argues that childhood innocence is both an excusing condition - children like Lizzie lack the rational capacity to judge their own acts morally, which is why her killing of Mika shocks and why the audience half-excuses her - and a social arrangement that shields children from adult demands, one Carol deliberately ends by secretly teaching the kids knife skills. He then extends Lydia's comic line that \"Childhood was always a myth brought about by the illusion of safety\" to real-world child labor in impoverished countries, where innocence is a luxury families cannot afford, and closes by asking readers to ask how we could make innocence affordable for working children rather than simply denouncing sweatshops."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - 14. Carol Didn’t Care.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bentham"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "personal-identity",
+    "moral-psychology"
+   ],
+   "relation": "Yuen grants that executing Lizzie was not wrong but argues Carol fell short of a moral ideal by ignoring Lizzie's preferences, deploying R.M. Hare's move from Bentham's happiness-maximizing classic utilitarianism to preference utilitarianism - illustrated by the group refusing to let Eugene test Aaron's water in \"Them.\" Since Lizzie prefers a reanimating death (\"She didn't hurt her brain\"), a heart shot like the group's courtesy to Jim would have maximized preference satisfaction without endangering anyone. He answers the objections that Lizzie is a child and that walkers are mindless: her attempts to reason and her coherent post-apocalyptic values (like generational value shifts on homosexuality via Aaron and Eric) deserve respect, and whether a walker would still be Lizzie matters less than that the preference is hers now."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Part V Every Direction Is a Question.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - 15. My Zombie, My Self.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "epicurus"
+   ],
+   "concepts": [
+    "personal-identity",
+    "aristotle-soul",
+    "epicurean-death"
+   ],
+   "relation": "Greene asks what Walking Dead-type walkers are and answers with the Platonic method of definition learned from Socrates: place them in the genus undead (died but not at rest, neither alive nor dead) and differentiate them by differentia - corporeal, mindless, lacking superhuman or magical powers, still decomposing. Aristotle's hierarchy of life functions (nutrition, locomotion, reason) explains why walkers are not alive despite ambulating, and the standards of death (putrefaction, heart-lung, whole-brain, higher-brain) all certify that walkers are dead yet active. The chapter closes on personal identity - whether you survive becoming a zombie, as Carol's face at the barn and Carl's \"she'll turn\" about Lori presuppose - and admits the author chooses the self-interested reading that he could become his own zombie, for the sake of the scare."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - 16. The Truth about the Walkers.md",
+   "kind": "chapter",
+   "philosophers": [
+    "deleuze",
+    "freud"
+   ],
+   "concepts": [
+    "rhizome",
+    "freud-unconscious"
+   ],
+   "relation": "Kempner reads the show's serial bait-and-switch over the walkers' origin - Jenner's failed CDC, Eugene's exposed lie on the road to Washington - as an enactment of Deleuze and Guattari's multiplicity against \"the reduction to the ONE.\" Their anti-Oedipal attack on Freud, who fixed the Wolfman's dream to a single castrating father, mirrors how characters who hunt one knowable cause (Rick's hope of CDC rescue, Hershel's barn of curable walkers, Abraham's mission) are punished with death, while Michonne survives precisely by accepting walkers as an irreducible pack rather than something to be understood. The chapter concludes the series should never explain the walkers: multiple causes and small-t truths replace any single Truth, which is why relief never arrives and survival means living with unknowability."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - 17. What if Our Reality Is One Big Hallucination.md",
+   "kind": "chapter",
+   "philosophers": [
+    "berkeley"
+   ],
+   "concepts": [
+    "skepticism",
+    "berkeley-idealism",
+    "scientific-realism"
+   ],
+   "relation": "Arp starts from Rick's hallucinations of Lori - the disconnected phone in \"Hounded,\" the touch and kiss in \"Home\" - and Michonne's confessed visions, showing how Rick distinguishes them through coherence with causal law and through third-person verification (Michonne watching him stroke empty air; Morgan's isolation in \"Clear\" showing why social checks matter). He then widens this into the theory of knowledge: the perceiver-perception-perceived triangle, epistemological and metaphysical realism versus idealism and antirealism, Berkeley's picture of the mind as a movie theater we cannot exit, and the Walking Dead twist on the falling tree in the forest, concluding that even if reality were one big hallucination we would still live - and refuse to walk off cliffs - as realists."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Walker Bite. Are You Being Saved.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "applied-ethics",
+    "utilitarianism"
+   ],
+   "relation": "Callens reads Beth's captivity at Grady Memorial in \"Slabtown\" as an allegory of the American healthcare system: patients like Noah are rescued, then enslaved by insurmountable medical debt, forced to work off charges that never end. Lt. Lerner's \"No, but you needed it\" and her non-medical control over Dr. Edwards's triage pose the chapter's question - whether a system that saves people \"for the greater good\" is care or exploitation, echoing the \"death panels\" debate over the Affordable Care Act and asking \"Are we being saved in order to be enslaved?\""
+  },
+  {
+   "n": 38,
+   "file": "ch38 - 18. Gruesome Walkers.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "popper",
+    "russell"
+   ],
+   "concepts": [
+    "hume-induction",
+    "falsification",
+    "skepticism"
+   ],
+   "relation": "Yuen turns the walkers into a lesson on Hume's problem of induction: the pre-apocalyptic belief that the dead do not rise was justified by all past experience until Rick wakes to a world where they do, and Rick's distrust of Alexandria repeats the same inductive move from Woodbury, Terminus, and Grady - useful, Hume says, since custom compels us, but never knowledge. Russell's chicken illustrates the fatal surprise, and Goodman's grue (the pun of the title) shows the outbreak could be a future-swinging regularity like the seventeen-year cicadas, undermining even Jenner's experimental science. Popper's falsificationism is offered as the rescue - Shane's reanimation falsifies the \"walkers make walkers\" theory, leaving the \"everyone is infected\" theory corroborated but never known."
+  },
+  {
+   "n": 39,
+   "file": "ch39 - References.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 40,
+   "file": "ch40 - We’re Friends with the Chick with the Sword and the Kid in the Hat.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 41,
+   "file": "ch41 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 42,
+   "file": "ch42 - 272.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 43,
+   "file": "ch43 - 273.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 28,
+   "type": "concept",
+   "suggested_slug": "kohlberg-moral-development",
+   "name": "Kohlberg's Stages of Moral Development",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Lawrence Kohlberg's theory that moral reasoning develops through six stages in three levels - pre-conventional (punishment and self-interest), conventional (conformity and law-and-order), and post-conventional (social contract and universal ethical principles).",
+   "why": "Chapter 28's entire analysis of Carol killing Lizzie, and its ranking of Carol above Rick, Hershel and Daryl, consists in placing the characters on Kohlberg's stages, and no existing taxonomy slug captures stage-based moral development."
+  },
+  {
+   "ch": 28,
+   "type": "concept",
+   "suggested_slug": "maslow-hierarchy-of-needs",
+   "name": "Maslow's Hierarchy of Needs",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Abraham Maslow's pyramid on which physiological and safety needs must be secured before belonging, esteem, and finally self-actualization become motivating.",
+   "why": "Chapter 28 argues that Walking Dead characters' moral stages track Maslow's tiers because survival needs are always at risk - Rick is stuck at safety, Daryl at esteem, and only self-actualized Carol reaches post-conventional morality."
+  },
+  {
+   "ch": 32,
+   "type": "concept",
+   "suggested_slug": "preference-utilitarianism",
+   "name": "Preference Utilitarianism",
+   "philosopher": "",
+   "domain": "utilitarian-consequentialist",
+   "what": "The utilitarian variant, associated with R.M. Hare and Peter Singer, on which right action maximizes the satisfaction of preferences rather than happiness or pleasure.",
+   "why": "Chapter 32's proposal that Carol should have shot Lizzie in the heart so she could reanimate rests entirely on counting Lizzie's preference to become a walker, something happiness-based classic utilitarianism (which the chapter contrasts via Bentham) cannot register."
+  },
+  {
+   "ch": 38,
+   "type": "concept",
+   "suggested_slug": "goodman-grue",
+   "name": "Goodman's New Riddle of Induction (grue)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Nelson Goodman's puzzle that a predicate like 'grue' (green now, blue after a future date) fits all past evidence as well as 'green', showing induction needs an account of which predicates are projectible.",
+   "why": "Chapter 38's centerpiece pun is that the walker outbreak is literally 'gruesome': the dead rising is a grue-style future swing that no amount of past observation could have ruled out, as the cicada example makes vivid."
+  }
+ ]
+}

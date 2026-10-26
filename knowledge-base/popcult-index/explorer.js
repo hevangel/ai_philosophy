@@ -3,7 +3,8 @@
 
   var DATA_PATH = 'knowledge-base/popcult-index/data.json';
   var dataPromise = null;
-  var state = { ctx: null, data: null, parts: null, listType: 'concepts', query: '', domain: '', listOpen: false };
+  var state = { ctx: null, data: null, parts: null, listType: 'concepts', query: '', domain: '', university: '', tier: '', listOpen: false };
+  var TIER_LABELS = { A: 'Full free course videos', B: 'Partial video or lecture notes', C: 'Readings or reference only' };
 
   function e(value) {
     return String(value == null ? '' : value)
@@ -25,6 +26,11 @@
           data.books[bid].chapters.forEach(function (chapter) { byNumber[chapter.n] = chapter; });
           Object.defineProperty(data.books[bid], '_chapterByNumber', { value: byNumber });
         });
+        Object.keys(data.courses || {}).forEach(function (cid) {
+          var byNumber = {};
+          (data.courses[cid].lectures || []).forEach(function (lecture) { byNumber[lecture.n] = lecture; });
+          Object.defineProperty(data.courses[cid], '_lectureByNumber', { value: byNumber });
+        });
         return data;
       });
     }
@@ -32,9 +38,10 @@
   }
 
   function href(type, id, chapter) {
-    var singular = type === 'books' ? 'book' : type === 'concepts' ? 'concept' : 'philosopher';
+    var singular = type === 'books' ? 'book' : type === 'concepts' ? 'concept' : type === 'courses' ? 'course' : 'philosopher';
     var value = state.ctx.appUrl('popcult/' + singular + '/' + encodeURIComponent(id));
-    return value + (chapter ? '#chapter-' + chapter : '');
+    if (!chapter) return value;
+    return value + (type === 'courses' ? '#lecture-' : '#chapter-') + chapter;
   }
 
   function chapterCount(book) {
@@ -54,7 +61,7 @@
   }
 
   function typeLabel(type) {
-    return type === 'books' ? 'Books' : type === 'concepts' ? 'Concepts' : 'Philosophers';
+    return type === 'books' ? 'Books' : type === 'concepts' ? 'Concepts' : type === 'courses' ? 'Courses' : 'Philosophers';
   }
 
   function selectedEntity() {
@@ -63,7 +70,21 @@
     if (kind === 'book') return { type: 'books', id: id };
     if (kind === 'concept') return { type: 'concepts', id: id };
     if (kind === 'philosopher') return { type: 'philosophers', id: id };
+    if (kind === 'course') return { type: 'courses', id: id };
     return null;
+  }
+
+  function courseHaystack(course) {
+    return [course.title, course.university, course.instructor, course.year, course.format,
+      course.extent, course.description, (course.tags || []).join(' '), course.remarks].join(' ');
+  }
+
+  function courseTierCount(tier) {
+    var total = 0;
+    Object.keys(state.data.courses).forEach(function (id) {
+      if (state.data.courses[id].tier === tier) total += 1;
+    });
+    return total;
   }
 
   function listRows() {
@@ -71,6 +92,27 @@
       return { id: id, entity: state.data[state.listType][id] };
     });
     var query = state.query.trim().toLowerCase();
+    if (state.listType === 'courses') {
+      if (query) {
+        rows = rows.filter(function (row) {
+          return courseHaystack(row.entity).toLowerCase().indexOf(query) !== -1;
+        });
+      }
+      if (state.university) {
+        rows = rows.filter(function (row) { return row.entity.university === state.university; });
+      }
+      if (state.tier) {
+        rows = rows.filter(function (row) { return row.entity.tier === state.tier; });
+      }
+      rows.sort(function (a, b) {
+        var tierDelta = a.entity.tier.localeCompare(b.entity.tier);
+        if (tierDelta) return tierDelta;
+        var uniDelta = a.entity.university.localeCompare(b.entity.university);
+        if (uniDelta) return uniDelta;
+        return a.entity.title.localeCompare(b.entity.title);
+      });
+      return rows;
+    }
     if (query) {
       rows = rows.filter(function (row) {
         var haystack = (row.entity.name || row.entity.title || '') + ' ' +
@@ -105,6 +147,12 @@
     target.innerHTML = rows.map(function (row) {
       var label = row.entity.name || row.entity.title;
       var active = selected && selected.type === state.listType && selected.id === row.id;
+      if (state.listType === 'courses') {
+        var hint = row.entity.university + ' — ' + (TIER_LABELS[row.entity.tier] || row.entity.tier);
+        return '<a class="pc-list-link' + (active ? ' active' : '') + '" href="' + href('courses', row.id) + '" title="' + e(hint) + '" aria-label="' + e(label + ' — ' + hint) + '">' +
+          '<span class="pc-list-label">' + e(label) + '</span>' +
+          '<span class="pc-list-count pc-list-tier-' + e(row.entity.tier.toLowerCase()) + '" aria-hidden="true">' + e(row.entity.tier) + '</span></a>';
+      }
       return '<a class="pc-list-link' + (active ? ' active' : '') + '" href="' + href(state.listType, row.id) + '" title="' + e(label) + ' — ' + entityCount(state.listType, row.entity) + ' indexed chapters" aria-label="' + e(label) + ' — ' + entityCount(state.listType, row.entity) + ' indexed chapters">' +
         '<span class="pc-list-label">' + e(label) + '</span>' +
         '<span class="pc-list-count" aria-hidden="true">' + entityCount(state.listType, row.entity) + '</span></a>';
@@ -120,24 +168,48 @@
     return options.join('');
   }
 
+  function universityOptions() {
+    var universities = {};
+    Object.keys(state.data.courses).forEach(function (id) {
+      universities[state.data.courses[id].university] = true;
+    });
+    var options = ['<option value="">All universities</option>'];
+    Object.keys(universities).sort().forEach(function (name) {
+      options.push('<option value="' + e(name) + '"' + (state.university === name ? ' selected' : '') + '>' + e(name) + '</option>');
+    });
+    return options.join('');
+  }
+
+  function tierOptions() {
+    return ['<option value="">All material levels</option>'].concat(Object.keys(TIER_LABELS).map(function (tier) {
+      return '<option value="' + tier + '"' + (state.tier === tier ? ' selected' : '') + '>' +
+        e(tier + ' — ' + TIER_LABELS[tier]) + '</option>';
+    })).join('');
+  }
+
   function shell(detail) {
     var stats = state.data.stats;
     return '<div class="pc-shell' + (selectedEntity() ? ' pc-has-detail' : '') + (state.listOpen ? ' pc-list-open' : '') + '">' +
       '<header class="pc-hero"><div class="pc-eyebrow">A reverse index</div>' +
       '<h1>Philosophy × Pop Culture</h1>' +
-      '<p>Start with an idea, philosopher, or book. Every chapter links to the philosophy it uses, and every philosophical idea links back to the books that put it to work.</p>' +
+      '<p>Start with an idea, philosopher, book, or open university course. Every chapter links to the philosophy it uses, and every philosophical idea links back to the books that put it to work.</p>' +
       '<div class="pc-stats"><span class="pc-stat"><strong>' + Object.keys(state.data.books).length + '</strong> books</span>' +
       '<span class="pc-stat"><strong>' + stats.chapters_read.toLocaleString() + '</strong> chapters analyzed</span>' +
       '<span class="pc-stat"><strong>' + Object.keys(state.data.concepts).length + '</strong> concepts</span>' +
-      '<span class="pc-stat"><strong>' + Object.keys(state.data.philosophers).length + '</strong> philosophers</span></div></header>' +
+      '<span class="pc-stat"><strong>' + Object.keys(state.data.philosophers).length + '</strong> philosophers</span>' +
+      '<span class="pc-stat"><strong>' + Object.keys(state.data.courses || {}).length + '</strong> university courses</span></div></header>' +
       '<div class="pc-toolbar" aria-label="Explorer controls">' +
       '<label class="pc-search-wrap"><span class="pc-search-icon" aria-hidden="true">⌕</span>' +
       '<span class="sr-only">Search the current list</span><input class="pc-search" id="pc-search" type="search" value="' + e(state.query) + '" placeholder="Search this list…" autocomplete="off"></label>' +
       '<div class="pc-tabs" role="group" aria-label="Browse by">' +
-      ['concepts', 'books', 'philosophers'].map(function (type) {
+      ['concepts', 'books', 'philosophers', 'courses'].map(function (type) {
         return '<button class="pc-tab' + (state.listType === type ? ' active' : '') + '" type="button" data-pc-type="' + type + '">' + typeLabel(type) + '</button>';
       }).join('') + '</div>' +
-      '<label><span class="sr-only">Philosophical tradition</span><select class="pc-select" id="pc-domain">' + domainOptions() + '</select></label></div>' +
+      (state.listType === 'courses'
+        ? '<div class="pc-course-filters">' +
+          '<label><span class="sr-only">University</span><select class="pc-select" id="pc-university">' + universityOptions() + '</select></label>' +
+          '<label><span class="sr-only">Material level</span><select class="pc-select" id="pc-tier">' + tierOptions() + '</select></label></div>'
+        : '<label><span class="sr-only">Philosophical tradition</span><select class="pc-select" id="pc-domain">' + domainOptions() + '</select></label>') + '</div>' +
       '<div class="pc-grid">' + (selectedEntity() ? '<button class="pc-mobile-browse" type="button" data-pc-browse aria-expanded="' + (state.listOpen ? 'true' : 'false') + '">Browse another ' + e(typeLabel(state.listType).toLowerCase().replace(/s$/, '')) + '<span aria-hidden="true">▾</span></button>' : '') + '<aside class="pc-sidebar" aria-label="Browse results">' +
       '<div class="pc-sidebar-head"><strong id="pc-list-title">' + typeLabel(state.listType) + '</strong><span class="pc-result-count" id="pc-result-count"></span></div>' +
       '<nav class="pc-list" id="pc-list"></nav></aside><main class="pc-main">' + detail + '</main></div></div>';
@@ -171,7 +243,7 @@
     return '<section class="pc-panel">' + crumbs([]) +
       '<header class="pc-detail-head"><div class="pc-kicker">How to explore</div><h2>Follow ideas through stories</h2>' +
       '<p class="pc-intro">Choose a concept to learn what it means and see where writers apply it. Choose a book to move chapter by chapter, then follow any concept or philosopher back across the whole collection.</p></header>' +
-      '<div class="pc-overview"><div class="pc-overview-card"><strong>1</strong><span>Choose Concepts, Books, or Philosophers</span></div>' +
+      '<div class="pc-overview"><div class="pc-overview-card"><strong>1</strong><span>Choose Concepts, Books, Philosophers, or Courses</span></div>' +
       '<div class="pc-overview-card"><strong>2</strong><span>Open an item from the left pane</span></div>' +
       '<div class="pc-overview-card"><strong>3</strong><span>Follow links in either direction</span></div></div>' +
       '<div class="pc-start">The number beside each item is its indexed chapter count. Use the tradition filter to narrow the map, or type in the search box.</div>' +
@@ -183,6 +255,137 @@
         return '<div class="pc-group-head">' + cover(book, true) + '<a href="' + href('books', bid) + '">' + e(book.title) + '</a>' +
           '<span class="pc-group-count">' + chapterCount(book) + ' indexed chapters</span></div>';
       }).join('') + '</section>';
+  }
+
+  function coursesHomeDetail() {
+    var courses = state.data.courses;
+    var featured = Object.keys(courses).filter(function (id) { return courses[id].tier === 'A'; })
+      .sort(function (a, b) { return courses[a].university.localeCompare(courses[b].university) || courses[a].title.localeCompare(courses[b].title); });
+    var byUniversity = {};
+    Object.keys(courses).forEach(function (id) {
+      (byUniversity[courses[id].university] || (byUniversity[courses[id].university] = [])).push(id);
+    });
+    var groups = Object.keys(byUniversity).sort().map(function (university) {
+      var entries = byUniversity[university].sort(function (a, b) {
+        return courses[a].tier.localeCompare(courses[b].tier) || courses[a].title.localeCompare(courses[b].title);
+      }).map(function (id) {
+        var course = courses[id];
+        return '<article class="pc-entry"><a class="pc-entry-title" href="' + href('courses', id) + '">' + e(course.title) + '</a>' +
+          '<div class="pc-meta">' + e([course.instructor, course.year].filter(Boolean).join(' · ')) + ' · ' +
+          '<span class="pc-tier pc-tier-' + e(course.tier.toLowerCase()) + '">' + e(course.tier) + '</span> ' + e(course.format) + '</div></article>';
+      }).join('');
+      return '<section class="pc-entry-group"><div class="pc-group-head"><a href="' + href('courses', byUniversity[university][0]) + '">' + e(university) + '</a>' +
+        '<span class="pc-group-count">' + byUniversity[university].length + ' course' + (byUniversity[university].length === 1 ? '' : 's') + '</span></div>' + entries + '</section>';
+    }).join('');
+    return '<section class="pc-panel">' + crumbs([]) +
+      '<header class="pc-detail-head"><div class="pc-kicker">University courses</div><h2>Study the ideas with their teachers</h2>' +
+      '<p class="pc-intro">Alongside the books, this index curates university philosophy courses whose materials are publicly reachable. Each record links to the original videos, transcripts, lecture notes, readings, or syllabus — nothing is hosted here — and every course carries a tier saying how much of it you can actually study for free. Where the university publishes its syllabus, every lecture is indexed with what it teaches and the philosophers and concepts it uses.</p></header>' +
+      '<div class="pc-tier-legend">' +
+      ['A', 'B', 'C'].map(function (tier) {
+        return '<div class="pc-overview-card"><span class="pc-tier pc-tier-' + tier.toLowerCase() + '">' + tier + '</span><span>' + e(TIER_LABELS[tier]) + ' — ' + courseTierCount(tier) + ' course' + (courseTierCount(tier) === 1 ? '' : 's') + '</span></div>';
+      }).join('') + '</div>' +
+      '<h3 class="pc-section-title">Start with a full free course</h3><div class="pc-actions">' +
+      featured.map(function (id) {
+        return chip('courses', id, courses[id].university + ' · ' + courses[id].title);
+      }).join('') + '</div>' +
+      '<h3 class="pc-section-title">All courses by university</h3>' + groups + '</section>';
+  }
+
+  function courseLink(label, url, primary) {
+    if (!url) return '';
+    return '<a class="pc-course-link' + (primary ? ' primary' : '') + '" href="' + e(url) + '" target="_blank" rel="noopener noreferrer">' + e(label) + ' <span aria-hidden="true">↗</span></a>';
+  }
+
+  function courseRefs(type, slug) {
+    return ((state.data[type][slug] || {}).courses || []).filter(function (ref) {
+      return state.data.courses[ref[0]];
+    });
+  }
+
+  function courseLectureGroups(type, slug) {
+    var grouped = {};
+    courseRefs(type, slug).forEach(function (ref) {
+      (grouped[ref[0]] || (grouped[ref[0]] = [])).push(ref[1]);
+    });
+    return Object.keys(grouped).sort(function (a, b) {
+      var ca = state.data.courses[a], cb = state.data.courses[b];
+      return ca.university.localeCompare(cb.university) || ca.title.localeCompare(cb.title);
+    }).map(function (cid) {
+      var course = state.data.courses[cid];
+      var entries = grouped[cid].sort(function (a, b) { return a - b; }).map(function (n) {
+        var lecture = course._lectureByNumber[n];
+        if (!lecture) return '';
+        var otherChips = '';
+        if (type !== 'concepts') {
+          otherChips += lecture.concepts.slice(0, 6).map(function (s2) {
+            return state.data.concepts[s2] ? chip('concepts', s2, state.data.concepts[s2].name) : '';
+          }).join('');
+        }
+        if (type !== 'philosophers') {
+          otherChips += lecture.philosophers.slice(0, 4).map(function (s2) {
+            return state.data.philosophers[s2] ? chip('philosophers', s2, state.data.philosophers[s2].name, 'philosopher') : '';
+          }).join('');
+        }
+        return '<article class="pc-entry"><a class="pc-entry-title" href="' + href('courses', cid, n) + '">Lecture ' + n + ': ' + e(lecture.title) + '</a>' +
+          (lecture.summary ? '<p>' + e(lecture.summary) + '</p>' : '') +
+          (otherChips ? '<div class="pc-entry-tags">' + otherChips + '</div>' : '') + '</article>';
+      }).join('');
+      return '<section class="pc-entry-group"><div class="pc-group-head">' +
+        '<a href="' + href('courses', cid) + '">' + e(course.university) + ' — ' + e(course.title) + '</a>' +
+        '<span class="pc-group-count">' + grouped[cid].length + ' lecture' + (grouped[cid].length === 1 ? '' : 's') + '</span></div>' + entries + '</section>';
+    }).join('');
+  }
+
+  function courseDetail(cid) {
+    var course = state.data.courses[cid];
+    if (!course) return missingDetail('course');
+    var links = courseLink(course.links.video ? 'Watch / videos' : 'Course site', course.links.video || course.source, true);
+    if (course.links.video && course.source && course.source !== course.links.video) {
+      links += courseLink('Course site', course.source);
+    }
+    links += courseLink('Transcript', course.links.transcript) + courseLink('Notes / slides', course.links.notes) +
+      courseLink('Readings', course.links.reading) + courseLink('Syllabus', course.links.syllabus);
+    var siblings = Object.keys(state.data.courses).filter(function (id) {
+      return id !== cid && state.data.courses[id].university === course.university;
+    });
+    var tags = (course.tags || []).map(function (tag) { return '<span class="pc-tag">' + e(tag) + '</span>'; }).join('');
+    var lectures = course.lectures || [];
+    var lectureRows = lectures.map(function (lecture) {
+      var isOther = lecture.kind !== 'lecture';
+      var lectureTags = lecture.concepts.map(function (slug) {
+        return state.data.concepts[slug] ? chip('concepts', slug, state.data.concepts[slug].name) : '';
+      }).join('') + lecture.philosophers.map(function (slug) {
+        return state.data.philosophers[slug] ? chip('philosophers', slug, state.data.philosophers[slug].name, 'philosopher') : '';
+      }).join('');
+      return '<article class="pc-chapter' + (isOther ? ' pc-front-matter' : '') + '" id="lecture-' + lecture.n + '">' +
+        '<div class="pc-chapter-number">Lecture ' + lecture.n + (isOther ? ' · ' + e(lecture.kind) : '') + '</div><h3>' + e(lecture.title) + '</h3>' +
+        (lecture.summary ? '<p>' + e(lecture.summary) + '</p>' : '') +
+        (lectureTags ? '<div class="pc-entry-tags">' + lectureTags + '</div>' : '') + '</article>';
+    }).join('');
+    return '<article class="pc-panel">' + crumbs(['Course']) +
+      '<header class="pc-detail-head"><div class="pc-kicker">' + e(course.university) + ' · University course</div><h2>' + e(course.title) + '</h2>' +
+      '<p class="pc-byline">' + e([course.instructor, course.year].filter(Boolean).join(' · ')) + '</p>' +
+      '<p class="pc-intro">' + e(course.description) + '</p>' +
+      '<div class="pc-course-badges"><span class="pc-tier pc-tier-' + e(course.tier.toLowerCase()) + '" title="' + e(TIER_LABELS[course.tier] || '') + '">' + e(course.tier) + ' — ' + e(TIER_LABELS[course.tier] || course.tier) + '</span>' +
+      '<span class="pc-tag">' + e(course.format) + '</span><span class="pc-tag">' + e(course.extent) + '</span></div>' +
+      (tags ? '<div class="pc-entry-tags">' + tags + '</div>' : '') + '</header>' +
+      (course.concepts.length ? '<h3 class="pc-section-title">Concepts explored</h3><div class="pc-actions">' +
+        course.concepts.map(function (slug) {
+          return state.data.concepts[slug] ? chip('concepts', slug, state.data.concepts[slug].name) : '';
+        }).join('') + '</div>' : '') +
+      (course.philosophers.length ? '<h3 class="pc-section-title">Philosophers</h3><div class="pc-actions">' +
+        course.philosophers.map(function (slug) {
+          return state.data.philosophers[slug] ? chip('philosophers', slug, state.data.philosophers[slug].name, 'philosopher') : '';
+        }).join('') + '</div>' : '') +
+      (lectures.length
+        ? '<h3 class="pc-section-title">Lectures <span class="pc-external-note">(' + lectures.length + ', from the public syllabus)</span></h3>' + lectureRows
+        : '<h3 class="pc-section-title">Lectures</h3><div class="pc-start">No public lecture listing could be indexed for this course yet — the links below go to what the university makes public.</div>') +
+      '<h3 class="pc-section-title">Course materials <span class="pc-external-note">(external sources)</span></h3>' +
+      '<div class="pc-course-links">' + links + '</div>' +
+      '<details class="pc-course-notes"><summary>Access notes &amp; verification</summary><p>' + e(course.remarks || 'Links verified October 2026.') + '</p></details>' +
+      (siblings.length ? '<h3 class="pc-section-title">More from ' + e(course.university) + '</h3><div class="pc-actions">' +
+        siblings.map(function (id) { return chip('courses', id, state.data.courses[id].title); }).join('') + '</div>' : '') +
+      '</article>';
   }
 
   function groupReferences(refs, entityType, entityId) {
@@ -229,6 +432,7 @@
       (related.length ? '<h3 class="pc-section-title">Related ideas</h3><div class="pc-actions">' + related.map(function (row) {
         return chip('concepts', row[0], state.data.concepts[row[0]].name);
       }).join('') + '</div>' : '') +
+      (courseRefs('concepts', slug).length ? '<h3 class="pc-section-title">Courses that teach this idea</h3>' + courseLectureGroups('concepts', slug) : '') +
       '<h3 class="pc-section-title">Where this idea appears</h3>' +
       (concept.chapters.length ? groupReferences(concept.chapters, 'concepts', slug) : '<div class="pc-start">No indexed chapter uses this concept yet.</div>') + '</article>';
   }
@@ -244,6 +448,7 @@
       (philosopher.concepts.length ? '<h3 class="pc-section-title">Key ideas in this index</h3><div class="pc-actions">' + philosopher.concepts.map(function (row) {
         return chip('concepts', row[0], state.data.concepts[row[0]].name + ' · ' + row[1]);
       }).join('') + '</div>' : '') +
+      (courseRefs('philosophers', slug).length ? '<h3 class="pc-section-title">Courses that teach this philosopher</h3>' + courseLectureGroups('philosophers', slug) : '') +
       '<h3 class="pc-section-title">Where this philosopher appears</h3>' +
       (philosopher.chapters.length ? groupReferences(philosopher.chapters, 'philosophers', slug) : '<div class="pc-start">No indexed chapter cites this philosopher yet.</div>') + '</article>';
   }
@@ -283,7 +488,8 @@
     if (kind === 'book' && id) return bookDetail(id);
     if (kind === 'concept' && id) return conceptDetail(id);
     if (kind === 'philosopher' && id) return philosopherDetail(id);
-    return homeDetail();
+    if (kind === 'course' && id) return courseDetail(id);
+    return state.listType === 'courses' ? coursesHomeDetail() : homeDetail();
   }
 
   function titleForParts() {
@@ -292,13 +498,18 @@
     if (kind === 'book' && state.data.books[id]) return state.data.books[id].title;
     if (kind === 'concept' && state.data.concepts[id]) return state.data.concepts[id].name;
     if (kind === 'philosopher' && state.data.philosophers[id]) return state.data.philosophers[id].name;
+    if (kind === 'course' && state.data.courses[id]) return state.data.courses[id].title;
     return 'Philosophy × Pop Culture';
   }
 
   function renderCurrent() {
     state.ctx.app.innerHTML = shell(detailForParts());
     renderList();
-    var target = location.hash && /^#chapter-\d+$/.test(location.hash) ? document.querySelector(location.hash) : null;
+  }
+
+  function scrollToHashChapter() {
+    if (!location.hash || !/^#(?:chapter|lecture)-\d+$/.test(location.hash)) return;
+    var target = document.querySelector(location.hash);
     if (target) setTimeout(function () { target.scrollIntoView({ behavior: 'smooth', block: 'start' }); }, 0);
   }
 
@@ -311,9 +522,20 @@
       renderList();
     });
     document.addEventListener('change', function (event) {
-      if (event.target.id !== 'pc-domain') return;
-      state.domain = event.target.value;
-      renderList();
+      if (event.target.id === 'pc-domain') {
+        state.domain = event.target.value;
+        renderList();
+        return;
+      }
+      if (event.target.id === 'pc-university') {
+        state.university = event.target.value;
+        renderList();
+        return;
+      }
+      if (event.target.id === 'pc-tier') {
+        state.tier = event.target.value;
+        renderList();
+      }
     });
     document.addEventListener('click', function (event) {
       var browse = event.target.closest ? event.target.closest('[data-pc-browse]') : null;
@@ -326,13 +548,9 @@
       }
       var button = event.target.closest ? event.target.closest('[data-pc-type]') : null;
       if (!button) return;
+      if (state.listType === button.getAttribute('data-pc-type')) return;
       state.listType = button.getAttribute('data-pc-type');
-      document.querySelectorAll('.pc-tab').forEach(function (tab) {
-        tab.classList.toggle('active', tab === button);
-      });
-      var title = document.getElementById('pc-list-title');
-      if (title) title.textContent = typeLabel(state.listType);
-      renderList();
+      renderCurrent();
     });
   }
 
@@ -349,6 +567,7 @@
       ctx.setTitle(titleForParts());
       renderCurrent();
       bindEvents();
+      scrollToHashChapter();
       window.scrollTo(0, 0);
     }).catch(function (error) {
       ctx.showError('Could not load the pop-culture index — ' + error.message);

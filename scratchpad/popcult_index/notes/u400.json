@@ -1,0 +1,175 @@
+{
+ "book": "281 - Cannabis \u2013 Philosophy for Everyone - What Were We Just Talking About_",
+ "unit": "u400",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Cannabis Philosophy for Everyone.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Cannabis Philosophy for Everyone.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Cannabis Philosophy for Everyone.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Cannabis Philosophy for Everyone.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Cannabis Philosophy for Everyone.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Cannabis Philosophy for Everyone.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Cannabis Philosophy for Everyone.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Cannabis Philosophy for Everyone.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Cannabis Philosophy for Everyone.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Cannabis Philosophy for Everyone.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Cannabis Philosophy for Everyone.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Cannabis Philosophy for Everyone.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["applied-ethics"],
+   "relation": "In this memoir (book Chapter 1, 'A Cannabis Odyssey'), Harvard psychiatrist Lester Grinspoon recounts how his 1967 review of the anti-marijuana literature convinced him he had been 'brainwashed' by a fear-based 'cannabis catechism,' coining 'cannabinophobia' and likening it to the 'madness of crowds.' He argues from personal use \u2014 hearing Sgt. Pepper for the first time, quitting psychoanalysis after 'stoned' self-critiques \u2014 that beyond recreation and medicine there is a third category, 'enhancement.' The piece is autobiographical drug-policy advocacy rather than the application of a specific named philosopher."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Cannabis Philosophy for Everyone.md",
+   "kind": "chapter",
+   "philosophers": ["russell", "william-james", "nietzsche", "foucault"],
+   "concepts": ["reliabilism", "skepticism", "will-to-believe"],
+   "relation": "Roche's 'Seeing Snakes' attacks the psychedelicist claim (William James on nitrous oxide, Huxley's 'reducing valve,' Leary) that drugs including cannabis reveal reality-as-it-is. He deploys Russell's line that we 'can make no distinction between the man who eats little and sees heaven and the man who drinks much and sees snakes,' and a reliabilist demand that knowledge have a source proven reliable over independently verifiable cases, to argue drug 'revelations' are indistinguishable from delusion. Foucault is cited that drugs have 'nothing to do with truth and falsity,' and Nietzsche's Dionysian veil-of-Maya passage is used as an example of the mystical rhetoric he debunks."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Cannabis Philosophy for Everyone.md",
+   "kind": "chapter",
+   "philosophers": ["william-james", "laozi"],
+   "concepts": ["stream-of-consciousness", "wu-wei", "the-tao"],
+   "relation": "Hathaway and Sharpley analyze the cannabis experience of medical-'compassion club' users through Csikszentmihalyi's concept of 'flow.' They ground flow in William James's 'stream of consciousness' and in Taoism, reading Tao as 'a patterned flow of the universe' and wu wei as the effortless equilibrium users describe ('it just centers me,' 'I take an inventory on my soul'). Against Western monophasic medicine, they defend users' 'anecdotal' testimony as legitimate knowledge of a body\u2013mind\u2013spirit balance that cannabis restores."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Cannabis Philosophy for Everyone.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Cannabis Philosophy for Everyone.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["language-games"],
+   "relation": "Montagne's 'Buzz, High, and Stoned' argues that the cannabis experience is largely constituted by the metaphors users apply to it. Tracing hashish descriptions from Gautier, Baudelaire, Bayard Taylor, Ludlow and jazzman Mezz Mezzrow to modern song lyrics and Robert Crumb's 'Stoned Agin!' cartoon, he maps 'buzz,' 'high' and 'stoned' onto dose-dependent levels documented by Moreau (1845) and Charles Tart, and shows the words carry more meaning than pharmacology, shaping set, setting and behavior. The Greek 'pharmakon' (remedy/poison/charm) frames the analysis of meaning-making in drug language."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Cannabis Philosophy for Everyone.md",
+   "kind": "chapter",
+   "philosophers": ["plato", "aristotle", "epictetus", "william-james", "locke"],
+   "concepts": ["faith-vs-reason", "stoicism", "applied-ethics"],
+   "relation": "Taliaferro and Le Gall's 'The Great Escape' weighs four philosophical objections to cannabis-induced altered states \u2014 falsehood (Plato's ban on poetry/theatre in the Republic), distortion of reason (Euripides' Bacchae, James on nitrous oxide), undermining of agency (the Sirens, De Quincey's opium), and loss of self-determination (the Stoic Epictetus on freedom) \u2014 then surveys Jewish, Christian and Islamic treatments of wine, coffee and hashish. They rebut the objections using Aristotle's cathartic defense of theatre and Locke's imagination-based account of freedom, concluding that if cannabis is no worse than wine the philosophical and religious case against it is not decisive."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Cannabis Philosophy for Everyone.md",
+   "kind": "chapter",
+   "philosophers": ["freud", "schopenhauer"],
+   "concepts": ["freud-civilization", "schopenhauer-pessimism", "freud-death-drive"],
+   "relation": "Clack's 'Cannabis and the Human Condition' reads intoxication through Freud's Civilization and its Discontents, where drugs are the 'crudest but most effective' palliative against a life 'too hard for us,' tied to the pleasure principle and the Nirvana/death-instinct drive to discharge stimulus. He supplements Freud with Schopenhauer's pessimism \u2014 life oscillating between suffering and boredom \u2014 to add 'stimulus hunger' Freud ignored, arguing cannabis both dampens and stokes the 'fire in the brain' depending on THC potency (high vs. stoned). He concludes that, like religion, art and love, cannabis augments a bleak existence, so 'all cannabis use is medicinal.'"
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Cannabis Philosophy for Everyone.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Cannabis Philosophy for Everyone.md",
+   "kind": "chapter",
+   "philosophers": ["kant", "hume", "locke", "aristotle"],
+   "concepts": ["kant-phenomena-noumena", "hume-induction", "skepticism"],
+   "relation": "Kakko's 'Hallucinatory Terror' uses Fitz Hugh Ludlow's 1857 The Hasheesh Eater to ask 'How can these things be?' \u2014 the ontological status of hallucinations that neither exist nor fail to exist. He traces Ludlow's own reading from Locke's empiricism through Hume's skeptical worry that all perception may be hallucinatory with no verifiable external object, to Kant's Copernican turn: the phenomenal/noumenal distinction, synthetic a priori judgments, and space and time as pure forms of intuition. Kant's framework lets Kakko recast Ludlow's 'virtual change of worlds' as a literal, non-metaphorical restructuring of the intuitions conditioning experience."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Cannabis Philosophy for Everyone.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["applied-ethics"],
+   "relation": "Holt and Kaufman's 'Marijuana and Creativity' surveys creativity research (Guilford's divergent thinking \u2014 fluency, flexibility, originality, elaboration) and US drug law (Anslinger, 'Reefer Madness,' Schedule I) to test the popular belief, held via figures like Cheech and Chong, Bob Marley and Willie Nelson, that cannabis boosts creativity. Controlled THC-vs-placebo biscuit studies show no benefit \u2014 placebo groups who merely believed they were high scored higher, while actual THC reduced fluency and flexibility. They explain the persistent belief through placebo/expectancy effects, spurious correlation, and salience bias, concluding any drug\u2013creativity link is 'manufactured in the drug user's mind.'"
+  }
+ ],
+ "holes": []
+}

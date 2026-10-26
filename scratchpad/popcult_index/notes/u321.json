@@ -1,0 +1,193 @@
+{
+ "book": "222 - The Philosophy of Horror",
+ "unit": "u321",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Half Title.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - ii.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Table of Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Acknowledgements.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Gynaehorror as convention and challenge.md",
+   "kind": "chapter",
+   "philosophers": [
+    "deleuze",
+    "beauvoir",
+    "freud"
+   ],
+   "concepts": [
+    "rhizome",
+    "woman-as-other",
+    "abjection"
+   ],
+   "relation": "This introductory chapter defines 'gynaehorror' as horror rooted in women's reproductive bodies (menstruation, virginity, pregnancy, motherhood, menopause), reading films like Inside, Vigil, Teeth, Alien, The Brood and Rosemary's Baby through it. It leverages Deleuze and Guattari's rhizome/becoming to reframe the monstrous female body not as a fixed molar 'being' but as a productive, boundary-breaching 'becoming', while positioning woman as the abject Other against which the male subject defines himself. It argues horror is simultaneously conservative (punishing women) and potentially radical."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Heteronormative horrors.md",
+   "kind": "chapter",
+   "philosophers": [
+    "butler",
+    "beauvoir",
+    "freud",
+    "deleuze",
+    "irigaray"
+   ],
+   "concepts": [
+    "heteronormativity",
+    "vindication-women",
+    "gender-performativity"
+   ],
+   "relation": "Reading virgins and the vagina dentata as the dyad through which horror polices female sexuality, the chapter uses Irigaray's account of the virgin as prop to male subjectivity and Creed's femme castratrice to analyse Halloween's 'Final Girl', Teeth's toothed-vagina revenge on abstinence-only purity culture, Jennifer's Body and Haute Tension. It closes with Rich's 'compulsory heterosexuality' and Wittig's 'heterosexual contract' to argue horror naturalises heteronormativity by casting female sexuality as either contained (virgin) or monstrously open (vagina dentata)."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - ‘Pro-life’ and Pro-Life.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir",
+    "freud",
+    "deleuze",
+    "kristeva"
+   ],
+   "concepts": [
+    "woman-as-other",
+    "problem-of-evil"
+   ],
+   "relation": "The chapter argues that horror films about pregnancy (Rosemary's Baby, Demon Seed, The Reaping, Prophecy, Inside) pit a foetal 'subject' against the pregnant woman, eroding her selfhood by conflating her body with an invadable house or environment. Drawing on Young's, Battersby's and Tyler's phenomenologies of pregnant embodiment and Irigaray's 'woman as place', it shows how foetal-imaging technology and abortion politics (The Life Zone versus Carpenter's Pro-Life) reduce the woman to a vessel while the foetus is granted autonomous personhood."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Brave new worlds cyborg futures and female subjectivity.md",
+   "kind": "chapter",
+   "philosophers": [
+    "deleuze",
+    "beauvoir",
+    "freud",
+    "haraway"
+   ],
+   "concepts": [
+    "rhizome",
+    "cartesian-dualism",
+    "becoming-woman"
+   ],
+   "relation": "Examining 'reproductive technohorror' from Shelley's Frankenstein through Splice, The Unborn and The Machine, the chapter argues these films code science as masculine domination of feminised nature (via Bordo's Cartesian masculinisation and Merchant's Bacon) and eliminate the female body altogether so man can create life without woman. It contrasts this with Haraway's post-gender cyborg and Braidotti's Deleuzean metal-morphoses, using becoming-woman and the rhizome to imagine reproductive difference as productive rather than as the erasable 'female problem'."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 7,
+   "type": "concept",
+   "suggested_slug": "abjection",
+   "name": "Abjection (Powers of Horror)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Kristeva's account of the abject, the jettisoned in-between that is neither subject nor object and threatens the boundaries of the clean, proper self.",
+   "why": "Chapter 7 builds gynaehorror directly on Kristeva's abjection (via Creed's monstrous-feminine) to explain the horror of the boundary-breaching reproductive body, but no philosopher or concept for it exists in the taxonomy."
+  },
+  {
+   "ch": 7,
+   "type": "concept",
+   "suggested_slug": "monstrous-feminine",
+   "name": "The Monstrous-Feminine",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Barbara Creed's feminist-psychoanalytic figure of the gendered female monster (witch, monstrous womb, castrating femme castratrice) whose horror is bound to reproductive femininity.",
+   "why": "Creed's monstrous-feminine is the direct theoretical parent of the book's whole 'gynaehorror' concept in chapter 7, yet neither Creed nor this concept appears in the taxonomy."
+  },
+  {
+   "ch": 8,
+   "type": "philosopher",
+   "suggested_slug": "irigaray",
+   "name": "Luce Irigaray",
+   "philosopher": "irigaray",
+   "domain": "feminism-gender-race",
+   "what": "French post-structuralist feminist philosopher who argues woman is denied subjectivity and made the mirror/Other that props up the male subject and the masculine divine.",
+   "why": "Chapter 8's core reading of virginity (the virgin's exchange-value, the speculum, 'this sex which is not one') is built on Irigaray's Speculum of the Other Woman, but she is absent from the taxonomy's philosophers."
+  },
+  {
+   "ch": 8,
+   "type": "concept",
+   "suggested_slug": "compulsory-heterosexuality",
+   "name": "Compulsory Heterosexuality",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Adrienne Rich's thesis that heterosexuality is not innate but a socially and politically enforced institution that renders lesbian existence deviant or invisible.",
+   "why": "Chapter 8 closes its argument about heteronormative horror explicitly on Rich's compulsory heterosexuality and Wittig's heterosexual contract, and neither the concept nor these philosophers are in the taxonomy."
+  },
+  {
+   "ch": 9,
+   "type": "philosopher",
+   "suggested_slug": "kristeva",
+   "name": "Julia Kristeva",
+   "philosopher": "kristeva",
+   "domain": "mind-language-metaphysics",
+   "what": "Psychoanalytic feminist theorist of abjection, the maternal body, and the semiotic, whose Powers of Horror theorises birth as violent expulsion from maternal matter.",
+   "why": "Chapter 9 leans on Kristeva's Powers of Horror to analyse the pregnant/maternal abject body alongside Bakhtin's grotesque, but Kristeva is not among the taxonomy's philosophers."
+  },
+  {
+   "ch": 10,
+   "type": "philosopher",
+   "suggested_slug": "haraway",
+   "name": "Donna Haraway",
+   "philosopher": "haraway",
+   "domain": "feminism-gender-race",
+   "what": "Feminist theorist of technoscience whose 'Cyborg Manifesto' proposes the cyborg as a post-gender, boundary-confusing hybrid of organism and machine.",
+   "why": "Chapter 10's whole final argument about cyborg futures and reproductive technohorror is structured around Haraway's cyborg (and Braidotti's response to it), yet Haraway is absent from the taxonomy."
+  },
+  {
+   "ch": 10,
+   "type": "philosopher",
+   "suggested_slug": "braidotti",
+   "name": "Rosi Braidotti",
+   "philosopher": "braidotti",
+   "domain": "feminism-gender-race",
+   "what": "Feminist philosopher of nomadic/posthuman subjectivity and materialist 'becoming' who links Haraway's cyborg to Deleuze's rhizome via sexual difference.",
+   "why": "Chapter 10 resolves its argument through Braidotti's metal-morphoses and embodied becoming as the productive alternative to erasing the female body, but Braidotti is not in the taxonomy."
+  }
+ ]
+}

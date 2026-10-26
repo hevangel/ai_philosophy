@@ -1,0 +1,286 @@
+{
+ "book": "054 - The Onion and Philosophy - Fake News Story True, Alleges Indignant Area Professor",
+ "unit": "u086",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - The Onion and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Popular Culture and Philosophy Series Editor George A. Reisch.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - For Crying Out Loud.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Sharon M. Kaye's introduction recounts the legend that The Onion got its name from an uncle's suggestion while the founders ate onion sandwiches, then argues the dictionary definition of 'onion' fits perfectly: 'bulbous' things are inherently funny and 'pungent' things penetrate and burn. The Onion's satire is therefore philosophical, she concludes, because philosophers have always been critics of the society in which they live—an uncomfortable wake-up call, like heartburn—and the chapters ahead will 'unpeel' the connections."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Science and Technology.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Ridicule Is a Survival Strategy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aquinas"
+   ],
+   "concepts": [
+    "aquinas-five-ways",
+    "virtue-ethics"
+   ],
+   "relation": "Kaye argues that the highest form of ridicule, which The Onion has mastered, targets not stupidity but cheating—specifically 'asscheating,' believing what you want to be true. She reads 'I Believe In Evolution, Except For The Whole Triassic Period' as skewering people who understand Darwin perfectly but exempt humans from evolution because admitting we are just another animal means admitting we die like everything else, the move behind Aquinas-style teleological add-ons that only invite a regress of gods supplying 'extras.' Articles on breast implants, the 'New Nietzschean Diet,' and Tour de France doping all show asscheats artificially inflating their evolutionary fitness; since natural selection stamps every organism with the purpose of survival and reproduction, asscheating is a vice, and ridiculing the asscheats who pollute the gene pool is itself a survival strategy."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Evangelical Scientists Refute Gravity With New ‘Intelligent Falling’ Theory.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "paley",
+    "ockham"
+   ],
+   "concepts": [
+    "ockham-razor",
+    "falsification",
+    "watchmaker-argument",
+    "problem-of-evil"
+   ],
+   "relation": "Ruiz uses Onion stories—'Jesus Answers Half The Prayers At Area Roulette Table,' 'God Answers Prayers Of Paralyzed Little Boy,' 'Christianity Celebrates One Billionth Unanswered Prayer'—to argue that belief in God lacks rational justification. Following Hume's empiricism (all ideas trace to sense perception), methodological naturalism, and Ockham's Razor, he shows that feelings of God's presence, scriptural circularity, and answered prayers (riddled with selection bias) all fail as evidence, and the prayer hypothesis is unfalsifiable—a theory that explains any outcome, like the brain tumor thanking God for its surviving surgery, is supported by no evidence. He closes by dismantling Paley's watchmaker design argument through the infinite regress ('who designed God?') and by treating 'Evangelical Scientists Refute Gravity With New Intelligent Falling Theory' as the reductio of design reasoning."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Area Philosopher (Me!) Is Sick Of The Stupid Debate About Stupid.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "skepticism",
+    "hume-induction"
+   ],
+   "relation": "Cuddy stages the generational-decline debate between Mark Bauerlein's The Dumbest Generation and Stephen Johnson's Everything Bad Is Good for You, showing that Onion stories can be marshaled for both sides: Aristophanes complaining that today's audiences 'just don't get me' vindicates the perennial declinist, while 'US Students Lead World in Detention' wryly supports Johnson's sleeper curve. Comparing Bauerlein to Aristophanes and the 'Our Dumb World' entry on Aristotle and Plato's schools closing, he concludes every era teems with idiots, so The Onion could have existed in any century. Because induction from earlier generations' failed predictions cannot settle whether Millennials really are dumber, he suspends judgment and toasts The Onion as the smartest perspective around."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Opinion.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - In All Fucking Seriousness.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "confucius"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "aristotle-virtue-ethics",
+    "confucian-junzi"
+   ],
+   "relation": "Arp asks why well-placed 'fucks' in Onion headlines like 'Guy In Philosophy Class Needs To Shut The Fuck Up' are funny, and answers with the golden mean traced to Aristotle and Confucius, who both prized self-control and being a good role model to children: swearing is virtuous when it hits the mean between the vice of too much (gangsta rap's every-other-word profanity, the cemetery gardener's rant, Glengarry Glen Ross) and the vice of too little. He sorts Onion stories into vice tables—'Loved Ones Recall Local Man's Cowardly Battle With Cancer' illustrates the vice of cowardice, with courage as the hitting-the-mark mean—and concludes that a well-placed fuck is both funny and virtuous precisely because so many people treat the word as taboo."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - More Asshole Morality.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer"
+   ],
+   "concepts": [],
+   "relation": "Hallquist observes that Dan Savage's 'Savage Love' column, syndicated in The Onion, treats 'asshole' not as a mere expletive but as a property that can be discovered, disagreed about, and used to explain behavior—raising exactly the puzzles philosophers raise about morality. He defends an expressivist account modeled on Ayer's: 'Dan Savage is an asshole' expresses an attitude while picking out a range of behavior defined by shared attitudes, and he answers the classic objections (logic requires truth-aptness, moral disagreement seems factual, we ask third parties who the asshole is) by adapting Singer's point that logic applies to commands and attitudes too, and by showing disagreement over assholery is a conflict of attitudes we still have urgent practical reason to resolve. Since the standard arguments against moral expressivism would equally refute this intuitively plausible asshole-expressivism, the objections must fail, giving moral expressivism a modest positive argument."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Jesus Delays Second Coming Because Of Offensive Article.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "mill"
+   ],
+   "concepts": [
+    "problem-of-evil"
+   ],
+   "relation": "Littmann runs Hume's Dialogues argument from evil through Onion headlines: 'God Answers Prayers Of Paralyzed Little Boy' (Timmy Yu's resounding no), 'God Outdoes Terrorists Yet Again,' 'God Wastes Miracle On Running Catch In Outfield,' and 'God Cites Moving In Mysterious Ways As Motive In Killing Of 3,000 Papua New Guineans.' He dispatches the theodicies one by one: limiting God's power or goodness (as Mill's lesser deity would) abandons the God of the tradition; the free will defense fails because police rightly restrain gunmen and no human freedom explains hurricanes; soul-building is pointless for a being who could implant compassion innately or stage fake evils; the 'no best possible world' dodge would excuse the reporter who watches a man burn; and the mystery defense makes reason useless. He concludes no all-knowing, all-good, all-powerful God exists, while insisting readers think it through for themselves."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Politics.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Area Man And Woman Wonder What They Are Good For.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "feminism"
+   ],
+   "relation": "Benatar uses The Onion's 'Area Man' to stage the Hart–Devlin debate: Lord Devlin made the man on the Clapham omnibus's 'real feeling of reprobation' the test for when law may enforce society's morality against private homosexual acts, and H.L.A. Hart replied that shared values can be wicked (Nazi Germany) and that societies transform rather than disintegrate when values change—confirmed by Onion Area Men who hate their gay coworker, have gay sex to dodge the office blood drive, or have spent eight years 'experimenting,' none of which dissolved Britain or America. The chapter adds the feminist complaint that treating the Area Man as the norm erases Area Woman, and closes with Joel Feinberg's crowded-bus thought experiment from Offense to Others: average disgust is relevant to regulating public offense but never decisive, so the ordinary person interests legal philosophy without being its arbiter."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - A Newspaper Gone to the Dogs . . . Enlightened Dogs.md",
+   "kind": "chapter",
+   "philosophers": [
+    "diogenes-cynic",
+    "socrates"
+   ],
+   "concepts": [
+    "cynicism"
+   ],
+   "relation": "Bayan traces 'cynic' to the Greek kynikos ('doglike') and the philosophy to Socrates' virtue, poverty, and integrity, through the proto-Cynic Antisthenes to Diogenes of Sinope—the man in the tub, the plucked chicken at Plato's Academy, 'you can step out of my sunlight'—arguing that Cynicism is fierce moral opposition to sham and hypocrisy, which is exactly why the powerful smear cynics. Distinguishing The Onion's cool, Swiftian irony from postmodern 'pseudocynicism,' he concludes the paper is genuinely Cynical: headlines like 'Black Guy Asks Nation for Change' (the Obama reveal), 'God Angrily Clarifies Don't Kill Rule,' and 'Dictator Slays Millions in Last-Minute Push to Be Time's Man of the Year' nuzzle the kind, bark at the greedy, and bite scoundrels, so Diogenes would have read The Onion with paternal fondness."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Banal Sex.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "heteronormativity",
+    "objectification",
+    "feminism"
+   ],
+   "relation": "Marinucci reads The Onion's sex coverage as 'terminally ambiguous': 'Nation's Gays Demand Right To Library Cards,' 'Massachusetts Supreme Court Orders All Citizens To Gay Marry,' and 'New Bill Would Defend Marriage From Sharks' ridicule the idea that gay marriage threatens straight marriage, while 'Area Homosexual Saves Four From Fire: Heroic Neighbor Praised, Gay' exposes how heterosexism defines gay people sexually while heterosexual men pass as normal, natural, and neutral. Yet the paper also trades in gay stereotypes and mocks the very framework—characters like Amanda Oppel ('Lesbian Identity Ends Abruptly Mid-Junior Year'), the 'Bar Skanks Announce Plans To Kiss,' and Bruce Heffernan of 'Why Do All These Homosexuals Keep Sucking My Cock?' both defy and seem to reaffirm the stability of sexual identity categories. Weighing queer theory (via Jagose) and Golden's fluid 'elective lesbians' against the parody of 'Grad Student Deconstructs Take-Out Menu,' she concludes the paper's stance is deliberately undecidable, perhaps recommending we stop over-thinking sex and treat minority sexual identities as banal, as in 'Gay Couple Has Banal Sex.'"
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Scientists Find Anomalies In And Then Go Back and Kill Your Grandparents.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "descartes"
+   ],
+   "concepts": [
+    "time-travel",
+    "descartes-cogito"
+   ],
+   "relation": "This chapter is a satirical fake-news 'World' section rather than an essay: 'Vigilante Group Tracks and Kills Storm-Causing Chaos Butterflies' literalizes the butterfly effect of chaos theory, 'Great Thinkers Fired From Canon' mocks citation metrics by crowning 'Ibidem' history's most-cited philosopher, 'University Restructures To Remain Financial: Becomes Bank' parodies corporatized academia as sympathetic magic, and 'ADD Sufferers Fail Cogito: Don't Exist' has distracted patients pop out of existence for failing Descartes' 'I think, therefore I am.' The title story, about physicists whose experiment lets them go back and kill their grandparents, is printed with its sentences scrambled into a reporter's phone-call fragments, enacting its own point that, as Hume noted, causal order is never perceived only imposed—and with quantum time-symmetry and the grandfather paradox, time's arrow jumps wherever it likes, even into loops."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Funny Newspaper Makes Accurate Prophecy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel",
+    "plato",
+    "socrates"
+   ],
+   "concepts": [
+    "hegel-geist",
+    "hegel-history"
+   ],
+   "relation": "Auxier takes the September 28, 2001 Onion issue—'Hijackers Surprised To Find Selves In Hell,' published while late-night TV was still in mourning—to ask what makes some comedy permissible and durable, glancing back at Aristophanes' caricature of Socrates in The Clouds and the circle-men speech Plato puts in his mouth in the Symposium. Hegel supplies the machinery: comedy as a moment of Art within Absolute Spirit may only bring to naught what is already null, while irony that diminishes the noble degrades the ironist—which is why the Warren Commission is fair game for 'Smithsonian Janitor Finds Magic Bullet' but Martin Luther King, a World Historical Individual whose individuality embodies his movement, can never anchor the 'Mrs. Williams Finally Decides Dinner Guest Is Not Going to Show' story. Since 'the news' itself is the great nullity—partial time-slices pretending to explain complex events before their meanings are interpretable—The Onion's rapid 9/11 satire was legitimate and even prophetic, deflating the bullshit of those posing as arbiters of Objective Spirit."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Gene For Pedantry Same As Gene For Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "hegel",
+    "sartre",
+    "nietzsche",
+    "heidegger"
+   ],
+   "concepts": [
+    "hume-bundle",
+    "hegel-master-slave",
+    "death-of-god",
+    "existentialism"
+   ],
+   "relation": "Loader's chapter is a spread of fake 'Existential Times' news parodies: an uncompliant student who answers every robot thought experiment with 'But you're not' drives his professor to swearing over the problem of other minds; Wisconsin scientists find the self as a half-centimeter of Silly Putty in the neck, joking that Hume 'may simply have been looking in the wrong place' when introspection found only a bundle of perceptions; a poll finds not one American philosopher has read Hegel's Phenomenology of Spirit beyond 'the bit about the master and the slave'; and a student essay on Sartre's Existentialism and Humanism wanders off into Planet of the Apes and calls Sartre 'Mr Horse.' The Philososcope prescribes page 232 of Heidegger's Being and Time, a movie loser quotes Nietzsche ('There is always some madness in love') before falling into a pond, an archaeology department's found remains of God back Nietzsche's 'God is dead,' and a Marxist begs capitalism to hold off collapsing until her book is published—philosophy satirized as pedantry, posing, and self-importance."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 7,
+   "type": "concept",
+   "suggested_slug": "wishful-thinking",
+   "name": "Wishful Thinking (believing what you want to be true)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Believing a proposition because one prefers, desires, or needs it to be true rather than because the evidence supports it.",
+   "why": "Chapter 7's entire argument coins the 'asschetic fallacy' to name the vice The Onion ridicules: people who exempt humans from evolution, buy fad diets, or trust breast implants because they want a flattering picture of reality."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "expressivism",
+   "name": "Expressivism (non-cognitivism in metaethics)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The metaethical view that moral claims express emotions or attitudes (or issue prescriptions) rather than stating truth-apt facts.",
+   "why": "Chapter 12 is built on expressivism—defended through Dan Savage's asshole-talk against moral objectivism, nihilism, subjectivism, and prescriptivism—and taxonomy has no slug for the view itself."
+  },
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "ayer",
+   "name": "A.J. Ayer",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "British logical positivist whose emotivism treated moral statements as expressions of feeling, 'in a peculiar tone of horror,' rather than truth-apt propositions.",
+   "why": "Chapter 12 recruits Ayer as the classic authority for expressivism and extends his account of moral language to the language of assholery."
+  },
+  {
+   "ch": 15,
+   "type": "concept",
+   "suggested_slug": "legal-moralism",
+   "name": "Legal Moralism (law enforcing shared morality)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The view that the law may prohibit conduct because it is immoral or violates society's shared moral values, even when it is private, consensual, and harmless.",
+   "why": "Chapter 15's core is the Hart–Devlin debate over whether the ordinary man's disgust can justify criminalizing private homosexual acts, plus Feinberg's offense principle—none of which taxonomy's concepts cover."
+  },
+  {
+   "ch": 15,
+   "type": "philosopher",
+   "suggested_slug": "hla-hart",
+   "name": "H.L.A. Hart",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Oxford legal philosopher who argued that a society's conventional morality, including popular disgust, cannot justify criminalizing private consensual conduct.",
+   "why": "Chapter 15's argument against Lord Devlin rests entirely on Hart's critique—that wicked shared values would equally license Nazi law, and that societies transform rather than disintegrate when their values change."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "queer-theory",
+   "name": "Queer Theory",
+   "philosopher": "butler",
+   "domain": "feminism-gender-race",
+   "what": "An analytical framework that dramatizes incoherencies in the supposedly stable relations between chromosomal sex, gender, and sexual desire, resisting fixed identity categories.",
+   "why": "Chapter 17 explicitly defines queer theory (via Jagose) and asks whether The Onion's fluid-sexuality stories are genuinely queer or just ambiguous, a framework taxonomy lacks despite having related Butler concepts."
+  }
+ ]
+}

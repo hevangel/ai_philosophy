@@ -1,0 +1,521 @@
+{
+ "book": "120 - Amy Schumer and Philosophy - Brainwreck!",
+ "unit": "u184",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - ii.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Dear Amy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - I. Persona Non Grata.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - 1. Amy’s Self-Confidence and Self-Deprecation.md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud"
+   ],
+   "concepts": [
+    "moral-psychology"
+   ],
+   "relation": "Argues that Schumer's self-deprecating and gallows humor succeeds when it models transcendence, connection, and acceptance, drawing on Freud's relief theory of laughter as a discharge of repressed energy. Atkinson reads the Trainwreck funeral scene where Amy turns on Aaron after her father's burial, plus the memoir's 'grape' and clam-chowder consent jokes, as gallows humor inviting audiences to laugh both at and with her. She contrasts the failing Snatched tapeworm and flirting scenes, which degrade Emily rather than showing her overcoming her circumstances, and frames the whole practice as humility rather than humiliation."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 2. “Brave”.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Uses the superiority theory of humor to ask who the butt of a self-deprecating joke really is. Alloy first worries that jokes like 'I've only been with four people' reaffirm the standards behind slut-shaming and body-shaming, then argues that good self-deprecation makes the shaming standard itself the butt, reading 'Last Fuckable Day' and the '12 Angry Men Inside Amy Schumer' jury sketch as ridiculing the chastity, sobriety, and thinness norms imposed on women. That is why Schumer is 'brave': not for the underwear photo, but for mocking those who called it brave."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 3. Schumer’s Selfishness.md",
+   "kind": "chapter",
+   "philosophers": [
+    "adam-smith",
+    "rachels",
+    "freud"
+   ],
+   "concepts": [
+    "moral-egoism",
+    "hume-is-ought"
+   ],
+   "relation": "Weighs psychological egoism, the thesis that every action is ultimately self-interested, against apparent altruism through Schumer's cluelessly selfish characters: the 'Cancer Excuse' sketch where Amy exploits Tig Notaro's diagnosis, God's dismay at her in 'Herpes Scare', and Emily Middleton guilt-tripping her mother into an Ecuador trip in Snatched. Arp deploys Adam Smith's Chinese-earthquake passage from The Theory of Moral Sentiments and Rachels's Lincoln piglets story before rejecting the argument for ethical egoism on is-ought and coherence grounds, concluding Schumer's selfish jerks are comic negative examples of how not to live."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 4. To Be or Not to Be Perfect.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "descartes",
+    "aristotle"
+   ],
+   "concepts": [
+    "cartesian-dualism"
+   ],
+   "relation": "Asks whether chasing externally imposed perfection is worthwhile and reads Schumer's comedy as an invitation to drop society's 'suggested' standards, from the impossible pre-sex grooming ritual of 'Sex Prep' to the pole-dancing hypocrisy of 'Judging Strippers'. Flieswasser tests three models of human perfection: the Platonic and Cartesian privileging of mind over body, monotheistic modesty, and Aristotle's telos as an individual purpose. She then lands on the Japanese aesthetics of wabi-sabi and kintsugi, where broken pieces are rejoined into something more beautiful, as the truest picture of Schumer's self-acceptance."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - II. Schumer the Philosopher.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 5. The Funny Thing about Being Yourself.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "rorty",
+    "george-herbert-mead"
+   ],
+   "concepts": [
+    "eternal-recurrence",
+    "amor-fati",
+    "authenticity"
+   ],
+   "relation": "Reads Schumer's comedy as Nietzschean self-creation: like the tightrope walker over the abyss she confronts who she is, says 'Yes' to life in the spirit of the eternal recurrence and amor fati, and 'gives style' to her character by wearing mistakes as badges of honor, notably reclaiming her paparazzi photos in the Leather Special. Balke then casts her as Rorty's ironist, whose continual burning of old material keeps her free of a 'final vocabulary' in a contingent world, with 'Amy Goes Deep' doing the Rortian work of testing herself against others. He closes with George Herbert Mead's account of a self formed through social interaction with significant others."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 6. No Wisdom to Offer You.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "plato"
+   ],
+   "concepts": [
+    "socratic-ignorance",
+    "socratic-method"
+   ],
+   "relation": "Distinguishes public intellectuals like Chomsky, who deliver their own conclusions, from public philosophers who get audiences thinking for themselves, and argues Schumer is the latter. Her memoir claim that she has 'no wisdom to offer' is set beside the Socratic ignorance of Plato's Apology, where wisdom is worth nothing. Sketches like 'Football Town Nights', whose coach condemns rape only to praise violent domination, and 'The Trial of Bill Cosby' withhold conclusions and force viewers to work out for themselves the links between football and rape culture, or between un-conflicted entertainment and justice."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 7. Amy Schumer or the Incongruities.md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud",
+    "foucault"
+   ],
+   "concepts": [
+    "freud-unconscious",
+    "incongruity-theory-humor"
+   ],
+   "relation": "Pits Freud's psychoanalytic theory of wit, where harmless nonsense smuggles tendentious sexual content past the superego's censor, against the incongruity theory of comic amusement, using 'Boner Doctor' as the test case. Carroll argues the psychoanalytic account makes the superego absurdly gullible, citing Foucault on how thoroughly sexuality is now discussed, and cannot capture what is specific to Schumer. Incongruity theory can: sketches like 'Sexting' and Trainwreck's doll analogy for infidelity generate laughter from violated norms of ladylike decorum, exposing her feminism as a sustained subversion of the modest, uninterested stereotype of womanhood."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 8. Sexistentialism.md",
+   "kind": "chapter",
+   "philosophers": [
+    "camus"
+   ],
+   "concepts": [
+    "the-absurd",
+    "sisyphus",
+    "existentialism"
+   ],
+   "relation": "Reads Schumer through Camus's absurd: Trainwreck's gender-reversed commitment-phobe and the sketch where friends kill themselves rather than accept a compliment expose the futility of finding meaning in patriarchal gender scripts. Browning argues that advocating change against so systemic a sexism is a Sisyphean task, and that the film's romantic-comedy ending is 'existential' because Amy freely chooses commitment and owns the absurdity rather than escaping it. The chapter ends by asking whether Schumer's jokes are a battle cry whose very pointlessness might be the point."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 9. Girls Just Wanna Have Mediated Fun.md",
+   "kind": "chapter",
+   "philosophers": [
+    "guy-debord"
+   ],
+   "concepts": [
+    "marx-alienation",
+    "marx-ideology"
+   ],
+   "relation": "Applies Guy Debord's society of the spectacle to Inside Amy Schumer: relationships and self-image become 'mediated' by women's magazines and advertising, so Amy hides under the bed in 'Sex Prep' rather than be seen unretouched, a manufactured boy band dictates 'natural' beauty in 'Girl, You Don't Need Makeup', and 'Publicity Stunt' ends with thin arms in photos mattering more than the prom disaster. Celebrity culture, reality-TV breakups, and 'Sext Photographer' illustrate having and appearing displacing being, while the spectacle's alienation and false consciousness surface in 'Judging Strippers'. The verite 'Amy Goes Deep' interviews and end-of-episode bloopers puncture the spectacle with glimpses of the real."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - III. Misbehaving.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 10. Multiple Murderer Emily Middleton.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "moral-psychology",
+    "moral-luck"
+   ],
+   "relation": "Treats Snatched as a series of case studies in personal responsibility: who originated an action, who created the situation, and what was intended. Emily's non-refundable tickets and drunken night out are hers, but she did not kidnap herself, and the film's title card ('The kidnappers did bad stuff, too') lures viewers out of victim-blaming. Her shovel killing of Morgado's nephew and accidental spear-gun killing of his son are judged through Aristotle's Nicomachean Ethics III.2 on acts done in ignorance of circumstances, excusing the 'multiple murderer' while showing how perspective and intent shift blame."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 11. The Unruly Woman.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-tripartite-soul",
+    "plato-justice"
+   ],
+   "relation": "Sets Plato's Republic case against the poets, with its censored storytellers, heroes who bear misfortune quietly, and worry that comedy feeds the soul's appetitive part, against Schumer's program of celebrating flaws. Young Amy raiding her roommate's hidden Twinkies and lasagna illustrates the appetitive soul overruling reason, and memoir chapters like 'Secret Bad Habits' do exactly what Plato feared by licensing readers to enjoy what they would be ashamed to confess. Li argues that the unruly women of Schumer, Dunham, Broad City, and Kaling legitimately answer Plato's ancient quarrel by representing messy, complicated female experience rather than modeling virtue."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 12. Putting the Fun Back in Non-refundable.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "nietzsche",
+    "plato"
+   ],
+   "concepts": [
+    "plato-forms",
+    "standard-of-taste"
+   ],
+   "relation": "Defends Snatched against its 37 percent Rotten Tomatoes score by retracing art criticism from Plato's claim, grounded in his theory of copies and originals, that art is an inferior imitation of reality, to Hume's 'Of the Standard of Taste', where value judgments track social values and refined experts may devalue works that offend their morals. Against moralistic critics, the chapter argues some art, like Guernica or 'Football Town Nights', exists to upset us. It then reads the film through Nietzsche's Genealogy of Morals: Emily's guilt-free firing scene and her cajoling her deflated mother toward Ecuador enact the refusal of socially manufactured guilt, putting the 'fun' back in non-refundable."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - IV Women Are Funny.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 13. The Laughter and the Fury.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "male-gaze",
+    "feminism",
+    "mimesis"
+   ],
+   "relation": "Situates Inside Amy Schumer between Aristotle's Poetics dictum that valor in a woman is inappropriate, his Politics claim of female inferiority, and the 1970s French feminists: Cixous's 'Laugh of the Medusa' breaking up truth with laughter and Irigaray's strategic mimesis. Kolb reads stereotype-performing sketches with violent endings, such as the 'I'm So Bad' women devouring a waiter's face and the 'You Are Gorgeous' anthem rewarding a faked miscarriage and an N-word rap, as resubmitting women to stereotypes to explode them. Casting-couch opener '2 Girls, 1 Cup', 'Focus Group', and '12 Angry Men' hold up a mirror to the male gaze and to the rage it produces when women stop performing for it."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 14. Five Stereotypes that Sustain Grape Zones.md",
+   "kind": "chapter",
+   "philosophers": [
+    "fricker"
+   ],
+   "concepts": [
+    "epistemic-injustice",
+    "intersectionality"
+   ],
+   "relation": "Explains 'grape', Schumer's grey area between rape and consent, through Miranda Fricker's hermeneutical gaps: bundles of stereotypes about the stranger rapist, the chaste victim, the resisting victim, the racialized 'barbarian rapist', and the unrapeable strong-ass woman leave holes in shared knowledge, so non-stereotypical rapes go unrecognized and unprosecuted. The 'Football Town Nights' players' excuses and the Leather Special's fat-but-brave monologue ridicule these schemas, while Brock Turner's lenient sentence versus Brian Banks's imprisonment shows how intersecting racist and sexist biases protect white rapists and discredit victims. The chapter concludes that debunking the five stereotypes shrinks the grape zones."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 15. Are There Certain Things We Should Not Talk About.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir"
+   ],
+   "concepts": [
+    "woman-as-other",
+    "becoming-woman",
+    "objectification"
+   ],
+   "relation": "Reads Schumer's taboo-breaking through The Second Sex: man makes woman the mysterious Other, and silences around menstruation, aging, and wives' desire keep that mystery intact. 'Last Fuckable Day' dramatizes the expiry of the idolized 'real woman', 'Sex Prep' shows the metamorphosis into a sex-representation collapsing into hiding under the bed, and '12 Angry Men' stages a male jury defining a woman's value. Ehrnberger argues Schumer's demystifying candor, from publishing her teenage journals to calling herself a 'flawed fuckup', dissolves the Other's aura and restores power, exactly as Beauvoir predicted when women assert themselves as human beings."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 16. Raucous Feminist or Racially Insensitive.md",
+   "kind": "chapter",
+   "philosophers": [
+    "crenshaw",
+    "hooks",
+    "friedan"
+   ],
+   "concepts": [
+    "intersectionality",
+    "feminism",
+    "feminine-mystique"
+   ],
+   "relation": "Weighs Schumer's Peabody-honored 'raucous feminist' image against charges of racial insensitivity by contrasting liberal feminism, exemplified by Friedan's problem that has no name, with intersectionality: hooks's rejoinder that Friedan spoke only for white middle-class women and Crenshaw's multiply-burdened identities. Ware reads the 'Mostly Sex Stuff' jokes about Asian women and third-world bikini waxers, the Beyonce 'Formation' video with Goldie Hawn, and Schumer's dismissive tweets as speaking 'for women' while erasing difference, though the 'Herpes Scare' caricature shows her sometimes winking from inside an intentionally vapid persona. The verdict: Schumer can be both a genuine and an imperfect feminist who must still take accountability."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - 17. Switching It Up.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "objectification",
+    "feminism"
+   ],
+   "relation": "Argues Trainwreck and the stand-up material on sexual 'ownership' expose patriarchal double standards: the same promiscuity that makes men players makes women sluts, while LeBron James's gossipy, overprotective best friend and John Cena's devoted, unthreatening boyfriend cast male stars in traditional rom-com female roles. Browning brings in Kant's view that sexual desire treats persons as objects to be discarded like squeezed lemons, conceding that counting conquests objectifies partners while rejecting Kant's celibate conclusion. Schumer's comedy instead shows women owning their orgasms, turning sex from competition into mutual gratification."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - V. Afterthoughts.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 18. Oppression Pretty Much Sucks.md",
+   "kind": "chapter",
+   "philosophers": [
+    "young",
+    "rawls",
+    "dubois",
+    "freud"
+   ],
+   "concepts": [
+    "double-consciousness",
+    "justice-as-fairness",
+    "veil-of-ignorance"
+   ],
+   "relation": "Reads I Feel Pretty through feminist critiques of oppression: Bartky's Fashion-Beauty Complex turns the desire to feel pretty into a parasitic scheme of creams and credit-card debt, Du Bois's double consciousness captures Renee post-head-injury seeing herself as beautiful against the world's verdict, and Freud's account of hating those most like us explains the Highlander-style rivalry between women. The chapter then dismantles Rawls's distributive justice via Iris Marion Young, arguing rights are not goods to hand out and that 'imagine everyone is the same' thinking entrenches privilege. The alternative is celebrating difference, which is exactly what Schumer's prettiness-as-self-celebration performs."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 19. How to Feel Pretty.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "objectification",
+    "male-gaze"
+   ],
+   "relation": "A satirical monologue voiced by 'The Patriarchy' that catalogs women's impossible, contradictory beauty demands: a painted face that must look natural, effortless long hair, a body that is simultaneously too fat and too thin, sexual availability that must never look eager, accomplishments that are unattractive, and finally a pretty death. The screed makes vivid that the standards exist only to keep women judging themselves as garbage, nailing the dynamic with Schumer-specific gags like 'Milk Milk Lemonade' as both a women-are-people reminder and a butt showcase, and Amy's 'catch a dick' line, before mocking workplace 'merit' talk that promotes Jim."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - References.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Author Bios.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 18,
+   "type": "philosopher",
+   "suggested_slug": "guy-debord",
+   "name": "Guy Debord",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Situationist Marxist theorist of The Society of the Spectacle, in which social relations are replaced by relations mediated by images and commodities.",
+   "why": "Chapter 18 reads Inside Amy Schumer wholesale as an illustration of Debord's spectacle, from mediated romance to celebrity alienation, and he is absent from the taxonomy."
+  },
+  {
+   "ch": 14,
+   "type": "philosopher",
+   "suggested_slug": "george-herbert-mead",
+   "name": "George Herbert Mead",
+   "philosopher": "",
+   "domain": "pragmatism-american",
+   "what": "American pragmatist founder of symbolic interactionism who explained the self as socially formed through the interplay of the 'I' and the 'Me'.",
+   "why": "Chapter 14 uses Mead's Mind, Self, and Society to explain how Schumer built her comic self through others' reactions, and he is missing from the taxonomy."
+  },
+  {
+   "ch": 24,
+   "type": "philosopher",
+   "suggested_slug": "helene-cixous",
+   "name": "Hélène Cixous",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "French feminist theorist of ecriture feminine whose 'The Laugh of the Medusa' calls on women to write their bodies and smash patriarchal truth with laughter.",
+   "why": "Chapter 24 frames Schumer's comedy as Cixous's Medusan laughter breaking up truth, quoting the essay throughout."
+  },
+  {
+   "ch": 24,
+   "type": "philosopher",
+   "suggested_slug": "luce-irigaray",
+   "name": "Luce Irigaray",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "French feminist philosopher who reclaims mimesis as deliberately resubmitting women to sexist stereotypes in order to call the stereotypes themselves into question.",
+   "why": "Chapter 24 uses Irigaray's strategic mimesis as the mechanism behind Schumer's stereotype-performing sketches like 'I'm So Bad'."
+  },
+  {
+   "ch": 30,
+   "type": "philosopher",
+   "suggested_slug": "sandra-bartky",
+   "name": "Sandra Bartky",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Feminist philosopher whose 'Fashion-Beauty Complex' analysis shows beauty norms functioning as disciplinary, capitalist oppression of women.",
+   "why": "Chapter 30's account of beauty oppression in I Feel Pretty is built directly on Bartky's Fashion-Beauty Complex."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "incongruity-theory-humor",
+   "name": "Incongruity Theory of Comic Amusement",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Theory that laughter arises from perceived, non-threatening, non-cognitively-demanding violations of our expectations about how things are or should be.",
+   "why": "Chapter 16 argues incongruity theory, not psychoanalysis, best explains the feminist subversion of decorum in Schumer's sketches."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "superiority-theory-humor",
+   "name": "Superiority Theory of Humor",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Theory that we laugh at a perceived butt of a joke from a position of felt superiority, giving laughter an element of cruelty.",
+   "why": "Chapter 10's question of whether the butt of Schumer's self-deprecating jokes is her or the shaming standard is framed entirely within superiority theory."
+  },
+  {
+   "ch": 9,
+   "type": "concept",
+   "suggested_slug": "relief-theory-humor",
+   "name": "Relief Theory of Humor",
+   "philosopher": "freud",
+   "domain": "mind-language-metaphysics",
+   "what": "Freud's view that laughter discharges psychic energy otherwise spent repressing socially unacceptable feelings like anger, shame, and grief.",
+   "why": "Chapter 9 grounds Schumer's gallows humor and self-deprecation in Freud's relief theory, which the taxonomy lacks despite listing Freud."
+  },
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "mimesis",
+   "name": "Mimesis (imitation)",
+   "philosopher": "aristotle",
+   "domain": "ancient",
+   "what": "Aristotle's notion of art and drama as imitation of nature and persons, reclaimed by Irigaray as strategic repetition of stereotypes to undermine them.",
+   "why": "Chapter 24 makes mimesis the key mechanism of Schumer's satire, running from Aristotle's Poetics to Irigaray's feminist rewriting."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "wabi-sabi",
+   "name": "Wabi-Sabi",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "Japanese aesthetic ideal that finds serenity and beauty in imperfection, impermanence, and incompleteness, exemplified by kintsugi's golden-repaired pottery.",
+   "why": "Chapter 12 lands its case for Schumer's self-acceptance on wabi-sabi and kintsugi as the alternative to Western perfectionism."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "bad-conscience",
+   "name": "Bad Conscience (internalized guilt)",
+   "philosopher": "nietzsche",
+   "domain": "nineteenth-century",
+   "what": "Nietzsche's Genealogy of Morals II account of guilt as socially inflicted pain turned inward, making people docile and easy to rule.",
+   "why": "Chapter 22 reads Snatched as enacting Nietzsche's claim that feeling bad is socially manufactured, a Genealogy thesis the taxonomy lacks."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "standard-of-taste",
+   "name": "The Standard of Taste (Hume)",
+   "philosopher": "hume",
+   "domain": "medieval-early-modern",
+   "what": "Hume's account of aesthetic value as socially determined, with refined judges as the informal standard, though moral sensibilities color their verdicts.",
+   "why": "Chapter 22 appeals to Hume's Standard of Taste to explain why critics punish Snatched for offending their morals."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "psychological-egoism",
+   "name": "Psychological Egoism",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Descriptive thesis that self-interest is the sole ultimate motivator of every human action, distinct from the ethical egoism the taxonomy records.",
+   "why": "Chapter 11 tests psychological egoism against Schumer's selfish characters and apparent altruists, and the taxonomy has no slug for it."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "implicit-bias",
+   "name": "Implicit Bias",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Unconscious stereotypical attitudes that shape judgment without awareness but can be indirectly controlled by examining the stereotypes that feed them.",
+   "why": "Chapter 25 explains grape zones and rape-myth testimony as products of implicit bias and its debiasing strategies."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "rape-culture",
+   "name": "Rape Culture",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "A social environment in which rape is endemic and normalized through stereotypes, excuses, and institutional failure to prosecute.",
+   "why": "Chapter 25 defines its grape zones as components of rape culture, and chapters 24 and 27 analyze Schumer sketches about it."
+  }
+ ]
+}

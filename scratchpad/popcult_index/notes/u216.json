@@ -1,0 +1,465 @@
+{
+ "book": "148 - Black Mirror and Philosophy - Dark Reflections",
+ "unit": "u216",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - part0001.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - part0002.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - part0003.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - part0004.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - part0005.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Contributors.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Black Mirror Multiverse An Editor’s Note.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - INTRODUCTION.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Black Mirror.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein",
+    "sartre"
+   ],
+   "concepts": [],
+   "relation": "The book's introduction argues that Black Mirror does philosophy the way Sartre's No Exit and earlier philosophical fictions (Lucian, Ibn al-Nafis, More, Bacon, Defoe) do: its near-future scenarios — the pig spectacle of The National Anthem, Nosedive's star ratings — work as thought experiments and social criticism rather than simple 'warnings about technology,' since Brooker insists the show is about the human condition, not gadgets. It applies Wittgenstein's duck–rabbit 'seeing as' distinction to explain why two viewers of the same episode may legitimately see different philosophical arguments in it, which is exactly what the book's chapters then do. It closes by presenting each episode (and each chapter) as a self-contained philosophical prompt."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - SEASON 1.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Our First Gaze into the Black Mirror.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "bentham",
+    "aristotle",
+    "nussbaum"
+   ],
+   "concepts": [
+    "consequentialism",
+    "categorical-imperative",
+    "virtue-ethics",
+    "moral-psychology"
+   ],
+   "relation": "Collins and Boesch use Prime Minister Callow's coerced live sex act with a pig in The National Anthem to weigh conflicting moral obligations: the public's initial 72% Kantian refusal flips to an 86% utilitarian capitulation after the kidnapper's finger video, and the withheld revelation that Susannah was released half an hour early undermines any consequentialist justification of the act. A virtue-theory reading faults Callow's character for faking the rescue video and putting self-interest first, and the UKN media's Kantian compliance collapses once ratings are at stake. The closing section applies Martha Nussbaum's theory of disgust (contamination transferring disgust from blood and vomit to the spectacle-watchers themselves) to argue the episode's graphic imagery functions as a moral emotion condemning the audience's own obsession with spectacle."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Resistance.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx",
+    "adorno",
+    "marcuse"
+   ],
+   "concepts": [
+    "commodity-fetishism",
+    "culture-industry",
+    "one-dimensional-man"
+   ],
+   "relation": "Reading Fifteen Million Merits through Marx, the chapter treats Bing's world of endless pedaling, Wraith Babes, and Hot Shot as a commodity society in which people themselves carry use and exchange values — Oliver the 'lemon,' Glee deemed 'quite worthless,' Abi's unsellable papier-mache penguin discarded as detritus. Marx's commodity fetish explains the universalized pricing in merits, and Lukacs-style reification shows things commanding people (Cuppliance compelling compliance). Adorno's culture industry explains why all the shows share one form and why Bing's glass-shard rebellion is absorbed as just another commodity, while Marcuse's One-Dimensional Man supplies the hope that reason, love (Bing's love for Abi as something 'real'), and switching off the media can still seed resistance."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - The Grain Can Lead Us to Know Too Much.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "rousseau",
+    "foucault",
+    "byung-chul-han"
+   ],
+   "concepts": [
+    "the-look"
+   ],
+   "relation": "The chapter argues that the Grain in The Entire History of You ruins Liam and Ffion's marriage not because the truth is bad but because total transparency destroys trust (via Luhmann), feeds a paranoid cycle where any deleted footage looks like guilt, and strips Fi of authority over her own life story. Goffman, Plessner, and Simmel ground the claim that social masks, tact, and privacy are preconditions of selfhood, while Sartre's 'look' explains Fi's shame when Liam forces her to replay her infidelity and Rousseau explains how dependence on others' gaze makes us unfree. Framed by Foucault's reading of Oedipus as a victim of his own knowledge, it concludes that Liam should have let the past lie — and ends with Byung-Chul Han's transparency society as our own already-arrived trajectory."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - SEASON 2.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Taking the Leap (It’s Not Fair).md",
+   "kind": "chapter",
+   "philosophers": [
+    "nozick",
+    "parfit"
+   ],
+   "concepts": [
+    "personal-identity",
+    "philosophy-of-love",
+    "parfit-teleportation"
+   ],
+   "relation": "Against the natural reading that Be Right Back fails because AshBot is a poor copy, the chapter argues that even a perfect duplicate, AshBot+, would not be Ash: like a perfect forgery of a twenty-dollar bill, it would share all intrinsic but none of Ash's relational properties (being Martha's beloved, the coming father of her child), which also exposes a fission paradox for psychological-continuity theories. Nozick's account of love as a 'we' — shared memory, autonomy, and well-being — explains why Martha cannot trade up or replace a dead partner without destroying the self constituted by the relationship. Parfit's view that only psychological continuity matters is then rejected: because Martha's relationship survives only if Ash does, survival itself matters, and Martha must mourn rather than cling to a specter."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - “Don’t forget, she’s a dangerous individual”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "bentham",
+    "nietzsche",
+    "locke",
+    "hegel",
+    "machiavelli",
+    "thomson",
+    "mill",
+    "parfit"
+   ],
+   "concepts": [
+    "punishment-theory",
+    "categorical-imperative",
+    "locke-personal-identity"
+   ],
+   "relation": "The chapter tests the White Bear Justice Park's daily torture of Victoria Skillane against every major theory of punishment: Kant and Hegel's retributivism makes her deserve punishment (her crime could not be universalized and annulled justice) but cannot justify a punishment disproportionate to the crime. Locke's memory criterion suggests Punished Victoria is not the person who did the crime, though Parfit's psychological continuity and Thomson's bodily continuity restore the identity. Bentham and Mill's utilitarianism partially vindicates the park as deterrence and incapacitation, but cannot explain the laughing crowds — which Machiavelli's civic spectacle and Nietzsche's genealogy of punishment (Schadenfreude as moralized creditor-debtor pleasure) explain: the crowd is gleefully reenacting Victoria's own crime and calling it justice."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - After the Waldo Moment.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "mill"
+   ],
+   "concepts": [
+    "mill-liberty",
+    "democracy-theory"
+   ],
+   "relation": "Littmann reads The Waldo Moment through Donald Trump — Waldo's 'knobber' and 'dickhead' taunts anticipate 'Little Marco' and 'Crooked Hillary' — to ask what is wrong with mockery and disrespect in democratic politics. Plato's Meno shows why true beliefs acquired by mockery rather than understanding are unstable and steerable toward any content, and ad hominem attacks substitute ridicule for engagement with arguments. Mill's On Liberty arguments against censorship and orthodoxy — we might be wrong, collision with error clarifies truth — show that refusing to engage opponents (as Waldo refuses Monroe) locks everyone in 'reality bubbles,' and the chapter concludes that letting anger and mockery replace reasoned engagement, as when Waldo's followers riot, sabotages democracy."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - THE CHRISTMAS SPECIAL.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - A White Christmas with Dark Reflections.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "bentham",
+    "nozick",
+    "arendt",
+    "singer"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "punishment-theory",
+    "utilitarianism",
+    "minimal-state"
+   ],
+   "relation": "The chapter follows White Christmas's three escalating uses of the Z-eye digital block — Beth blocking Joe (whose information deprivation leads to two deaths), court-ordered blocks extending to children, and Matthew's society-wide red-blur sex-offender block — as a conflict between privacy and access to information. Utilitarian and Kantian frameworks (autonomy, persons as ends) leave the trade-offs genuinely unsettled, while Nozick's minimal state shows the automatic, loophole-free blocking regime is an indefensibly paternalistic state violating proportionality. Arendt's account of meaningfulness through speech grounds the conclusion that erasing someone's face and voice violates their humanity, and the chapter's final move is defamiliarization: if digital blocks are wrong, we should re-examine the social-media blocking, restraining orders, prisons, and sex-offender registries they mirror."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - SEASON 3.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - A Black Mirror of Our Anxieties.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "sartre",
+    "mill",
+    "rousseau",
+    "plato"
+   ],
+   "concepts": [
+    "panopticon",
+    "the-look",
+    "harm-principle",
+    "rousseau-social-contract"
+   ],
+   "relation": "Nosedive's star ratings are read as a digital panopticon — Bentham's prison design generalized by Foucault's Discipline and Punish — with China's Zhima Credit and Social Credit Systems showing the 'future is already here.' Rousseau's general will and Plato's ship-of-state frame the tyranny-of-the-majority worry (Chester destroyed by an office mob, Lacie jailed for a wedding toast, post-truth tribalism), which Mill's harm principle rebuts: Lacie's rant harms no one and should not be punished. Sartre's 'look' and No Exit explain Lacie's staged cookie photo ('Heaven!') and her final liberating exchange of insults with her cellmate, while Goffman's masks ground the epistemological worry that digital profiles are performances we nonetheless trust, and Bourdieu's symbolic capital names what the scores actually measure."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Forget Cooper. Are We in a Simulation.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bostrom"
+   ],
+   "concepts": [
+    "simulation-hypothesis",
+    "personal-identity"
+   ],
+   "relation": "The chapter argues the horror of Playtest lies not in novelty but in immersion erasing the reality/fiction line: the rubber-hand and Muller-Lyer illusions, the paradox of fiction, and 'aliefs' show that knowing something is fake does not stop it feeling real, and for incorrigible experiences like pain the distinction collapses entirely. The AI's stripping of Cooper's memories and preferences is framed as loss of psychological continuity — a living death echoing his father's Alzheimer's — since with no memories Cooper cannot even answer who he is. The final move turns Bostrom's simulation argument on the viewer: because Cooper 'woke up' twice into deeper simulation and died 0.04 seconds in, we too may have no test that certifies we have ever left the simulation."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Do We Attain Justice by Punishment.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bentham",
+    "mill",
+    "marcus-aurelius"
+   ],
+   "concepts": [
+    "punishment-theory",
+    "harm-principle",
+    "utilitarianism"
+   ],
+   "relation": "Kenny's blackmail arc in Shut Up and Dance — the twist that reclassifies the sympathetic protagonist as a child-pornography offender — anchors an argument that the hackers' vigilantism cannot attain justice: their punishments are unannounced, disproportionate, aimed at merely moral wrongs (infidelity, racist emails), and exempt from the presumption of innocence and nulla poena sine lege that states replaced vendetta with. A distinction between natural-law and legal-positivist conceptions of justice shows why punishment belongs to the state alone. Against retribution ('a mere prison sentence is too good for Kenny'), Bentham's and Mill's utilitarianism — deterrence, incapacitation, and above all rehabilitation, capped by the harm principle — shows punishment should be no more than deterrence requires, making the hackers sadists rather than agents of justice."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - The Value of Finitude.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nozick",
+    "nussbaum",
+    "epicurus",
+    "nagel",
+    "williams",
+    "lucretius",
+    "kant"
+   ],
+   "concepts": [
+    "experience-machine",
+    "epicurean-death",
+    "immortality",
+    "meaning-of-life"
+   ],
+   "relation": "The chapter tests each motive for uploading to San Junipero and finds it wanting: Kantian cosmic justice fails because the resort neither rewards the good nor can punish the wicked; Tolstoy's cosmic-insignificance dread fails because a finite life can still be meaningful, and even Epicurus and Lucretius deflate the fear of death (while Nagel notes death's evil lies in foreclosed possibilities, and Williams's Makropulos case warns eternal life breeds boredom). Nozick's experience machine is the closest analogy, but the chapter argues San Junipero differs — residents know it is digital and share it with other conscious people — before Nussbaum's argument lands: without finitude there is no risk, so no courage, sacrifice, or deep love, which is why Kelly's forty-nine real years with Richard outweigh forever with Yorkie."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Future of Our “MASS Implant”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "levinas",
+    "wittgenstein"
+   ],
+   "concepts": [
+    "levinas-face",
+    "moral-psychology"
+   ],
+   "relation": "Stripe's MASS implant in Men Against Fire, which makes targeted humans look like monstrous 'roaches,' literalizes the chapter's claim that dehumanizing language — chosen by Brooker after columnist Katie Hopkins called migrants 'cockroaches' — is the real-world technology that enables genocide, from the Armenian and Holocaust cases through Rwanda's Tutsis to the Rohingya. Wittgenstein's 'the limits of my language mean the limits of my world' grounds how propaganda deadens empathy, and Kelman-style accounts of excluded identity explain why the villagers hate but cannot kill while the implanted soldiers kill gleefully. Levinas's face of the Other explains the turn: once Stripe sees Catarina and Alec's faces, he cannot pull the trigger, and the chapter closes on our own MASS implant — Trump's 'animals,' the ascent-of-man studies, and the temptation to reset and forget."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - #WithGreatPowerComesGreatResponsibility.md",
+   "kind": "chapter",
+   "philosophers": [
+    "arendt",
+    "rawls"
+   ],
+   "concepts": [
+    "banality-of-evil",
+    "justice-as-fairness"
+   ],
+   "relation": "The chapter weighs the #dangers of trial by Twitter — Tess's suicide attempt after a mob turned on her, Clara Meades killed over a war-memorial photo, the fundamental attribution error and echo chambers convicting the innocent, and Rawls's point that unpredictable, lawless punishment destroys liberty — against the #benefits, above all #MeToo as 'the beautiful flip side of #DeathTo' that finally held powerful abusers accountable when courts would not. Arendt's banality of evil explains both Garrett Scholes's bee-drone scheme and the ordinariness of the shamers: Parke's 'He's ordinary. That is the type,' and Liza Bahar's crowdsourced 'Fucking Bitch' cake show diffused responsibility enabling cruelty. The moral drawn is that anonymous power over others' lives demands conscious, individual responsibility for every click."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - SEASON 4.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - “King of space, right here!”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "kant",
+    "merleau-ponty"
+   ],
+   "concepts": [
+    "virtue-ethics",
+    "deontology",
+    "intentionality"
+   ],
+   "relation": "The chapter asks whether Robert Daly wrongs the USS Callister NPCs even if they are 'merely' sentient code: his theft of co-workers' DNA violates a fundamental right to privacy, and Kant's focus on the will shows his in-game intentions aim at real people — he logs in solely to strangle James's NPC and make him confess to being pathetic, wanting to harm the actual James. Aristotle's virtue ethics supplies the second indictment: because hyperrealistic VR blurs game and life, Daly's daily practice of cruelty habituates vice and makes cruelty part of who he is, unlike clearly fictional violence such as Mortal Kombat. Merleau-Ponty's intentionality links avatar actions to the self, so the chapter ends by asking what our own intentions in games like The Sims or Grand Theft Auto reveal about our character."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - What Not to Do as a Parent.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "care-ethics",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "The chapter pinpoints Marie's failure in Arkangel using Feinberg's parental-rights framework: by filtering out every fright (the neighbor's dog, her father's stroke) she violated Sara's right to an open future, misconstrued her welfare and protection rights, and stunted the empathy that makes a child a fully functioning human being. Aristotle's golden mean frames over-parenting as a vice of excess — as damaging as neglect — and Ruddick's maternal ethics of care also convicts Marie, since mothering requires fostering growth and social acceptability, not just preserving life. The Philip K. Dick comparison lands the conclusion: an android is distinguished from a human only by lacking empathy, so Marie has manufactured a partial android rather than raised a child."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Learning from Mia’s Mistakes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aristotle"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "aristotle-practical-wisdom",
+    "care-ethics",
+    "virtue-ethics"
+   ],
+   "relation": "The chapter grades each of Mia's escalations in Crocodile — helping Rob hide the cyclist's body, killing Rob fifteen years later, then killing Shazia, her husband, and baby Ali to keep the secret — under Kant's categorical imperative (the cover-up cannot be universalized and treats persons as means), the utilitarian calculus (which also condemns every killing once the widow's suffering and Mia's guilt are counted), and feminist care ethics, which rejects her defense that she killed to protect her family because care obligations never cancel proportionality and others' rights. Aristotle's virtue ethics supplies the diagnosis: Mia's undoing is lack of practical wisdom — every split-second choice (which she never had time to deliberate) went wrong because she lacked virtuous habits. The chapter urges practicing everyday virtue so we never take the first step down her path."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "fiction-as-philosophy",
+   "name": "Fiction as Philosophy (thought experiments)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The thesis, developed by Thomas Wartenberg and others, that works of fiction and film can pose thought experiments, make arguments, and do philosophy in their own right.",
+   "why": "Chapter 10's central claim is that Black Mirror does philosophy the way Sartre's No Exit and utopian fictions from More to Bacon do — as thought experiment and social criticism rather than mere entertainment."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "seeing-as",
+   "name": "Seeing As (aspect perception)",
+   "philosopher": "wittgenstein",
+   "domain": "mind-language-metaphysics",
+   "what": "Wittgenstein's duck-rabbit notion that two people can have the same visual experience yet interpret, or 'see,' it as different things.",
+   "why": "Chapter 10 uses 'seeing as' to explain why viewers, and the book's own authors, can legitimately interpret the same Black Mirror episode as making different philosophical points."
+  },
+  {
+   "ch": 14,
+   "type": "philosopher",
+   "suggested_slug": "byung-chul-han",
+   "name": "Byung-Chul Han",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Contemporary Korean-German philosopher whose The Transparency Society criticizes the modern imperative of visibility, surveillance, and self-exposure.",
+   "why": "Chapter 14 leans on Han's transparency society to argue that the Grain's total disclosure destroys the trust, secrecy, and freedom a society needs."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "social-trust",
+   "name": "Social Trust (trust as complexity reduction)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Niklas Luhmann's account of trust as the relational attitude that lets us act under uncertainty by reducing social complexity and anticipating the future.",
+   "why": "Chapter 14's core argument is that Grain-style total transparency erodes the interpersonal trust on which relationships, justice systems, and freedom all run."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "symbolic-capital",
+   "name": "Symbolic Capital (Bourdieu)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Pierre Bourdieu's fourth form of capital: intangible prestige, honor, and social value that exists only through a society's recognition.",
+   "why": "Chapter 22 reads Nosedive's star ratings as a technology that makes each citizen's symbolic capital explicit and determines status and inequality."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "presentation-of-self",
+   "name": "The Presentation of Self (impression management)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Erving Goffman's dramaturgical account of social life as staged performance in which we manage impressions through roles, props, and masks.",
+   "why": "Chapters 14 and 22 both use Goffman's masks to explain how the Grain and Nosedive's ratings pressure people into performing themselves instead of living."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "dehumanization",
+   "name": "Dehumanization",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Conceiving of a group as less than human (vermin, monsters, disease), which dissolves the moral restraints that normally stop us from harming them.",
+   "why": "Chapter 26 argues dehumanizing language and propaganda are our real-world MASS implant, enabling everything from the Holocaust to the Rwandan and Rohingya genocides."
+  },
+  {
+   "ch": 30,
+   "type": "concept",
+   "suggested_slug": "open-future",
+   "name": "The Child's Right to an Open Future",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Joel Feinberg's idea that children hold rights in trust — to education, development, and a wide range of adult options — that parents must not foreclose.",
+   "why": "Chapter 30 argues Marie's Arkangel filtering violates Sara's right to an open future by stunting her autonomy, resilience, and capacity for empathy."
+  }
+ ]
+}

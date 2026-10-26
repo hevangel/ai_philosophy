@@ -1,0 +1,223 @@
+{
+ "book": "278 - Fashion \u2013 Philosophy for Everyone - Thinking with Style",
+ "unit": "u395",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Globalization and Contemporary Art.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": ["socrates"],
+   "concepts": ["feminism"],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": ["singer", "foucault"],
+   "concepts": ["applied-ethics", "objectification", "drowning-child"],
+   "relation": "The editors' introduction argues that fashion, despite philosophers' contempt for it, raises serious questions in aesthetics, ethics, identity, and political philosophy. It surveys the volume's contributors: fashionability as an expert-plus-masses property (Prinz/Farennikova), Zangwill's alienation thesis, Russell on 'cool' as aesthetic virtue, the objectification of women through Barbie play and sweatshops, and Singer's demand (via the drowning-child argument) that spare money go to poverty relief rather than trendy clothes. It uses concrete cases \u2014 Ugg boots, the National Airlines 'Fly me' campaign, Tommie Smith and John Carlos's 1968 Olympic salute, foot binding \u2014 to show fashion carries the zeitgeist and can both liberate and enslave."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["applied-ethics", "moral-relativism"],
+   "relation": "Farennikova and Prinz ask what makes something fashionable, arguing through thought experiments (Calvin Klein jeans, khakis, Robinson Crusoe's leather jacket, the accidental thrift-store punk, Gang Green, the mod couple) that four conditions must hold: many people wear the look, recognized experts endorse it, wearers intend to conform, and they regard it as having aesthetic value. They distinguish being fashionable from being merely popular or 'cool,' show fashionability is relative to group and to time, and note fashion must change to serve its signaling purpose \u2014 the Amish are 'intentionally unfashionable.'"
+  },
+  {
+   "n": 13,
+   "file": "ch13 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": ["nagel", "williams"],
+   "concepts": ["marx-alienation", "what-is-it-like"],
+   "relation": "Zangwill argues that 'fashionable' is a relational, sociological property (like 'famous'), yet things also directly *appear* fashionable or 'cool' to us in first-person perceptual experience as if coolness were a simple, non-relational quality (illustrated by seeing 1965 Mick Jagger as 'groovy'). He claims these two aspects \u2014 the third-person sociological concept and the first-person phenomenological one \u2014 cannot be united, so the concept of fashion is 'schizoid.' Invoking Nagel on consciousness and Bernard Williams's charge of alienation in Kantian and utilitarian ethics, he concludes fashion involves a projective illusion and is a genuine source of alienation."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": ["aristotle"],
+   "concepts": ["aristotle-virtue-ethics", "virtue-ethics"],
+   "relation": "Russell argues that being 'cool' is an aesthetic virtue distinct from being fashionable: the fashionable but anxious tryhard 'Allegra' fails to be cool precisely because her studied effort to win social approval is visible, whereas figures like James Dean or Marlene Dietrich seem effortlessly cool. Drawing an analogy to happiness and to moral virtues like compassion, he treats cool as a *self-effacing* goal \u2014 achieved only by caring about aesthetic matters for their own sake rather than for status, the way a genuinely virtuous person is moved directly by others' welfare rather than by a desire to be seen as good. He uses a Simpsons exchange (Homer, Marge, Bart, Lisa on what makes someone cool) to show that not-caring alone is insufficient."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": ["adorno"],
+   "concepts": ["benjamin-aura", "commodity-fetishism"],
+   "relation": "Hamilton defends a dual account of design \u2014 solving functional problems *and* improving look or feel through style \u2014 against both the reduction of design to fashion/styling and the modernist reduction of it to pure engineering, using the London Design Museum dispute (Dyson vs. Rawsthorn), the Citro\u00ebn 2CV, Dyson cyclonic cleaners, and Pye's notion of 'useless work' (directly functionless work like a jewelled sword handle). Turning to fashion in clothing, he draws on Simmel's analysis of fashion as simultaneously imitation and differentiation, and on Adorno's account of autonomous art, to argue fashion can never be autonomous art because it is inescapably functional and commodified, yet still counts as an art with classic and ephemeral, high and popular forms."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": ["marx"],
+   "concepts": ["commodity-fetishism", "male-gaze", "objectification"],
+   "relation": "Freeland analyzes perfume advertising \u2014 chiefly Chanel's mini-film campaigns for No. 5 (Kidman/Luhrmann, Tautou/Jeunet) versus the younger, jauntier Coco Mademoiselle ads with Keira Knightley \u2014 to trace how fragrance is sold 'aspirationally' by tying scent to lifestyle, romance, and couture. She examines male-fragrance ads (Bronson's Mandom, Chanel Egoiste, Old Spice's Isaiah Mustafa) and celebrity scents fronted by women of color, exposing gender anxiety, colonialism, and near-explicit racism in perfume marketing. Invoking commodity fetishism and feminist critique, she argues the ads manipulate female desire but do not make consumers passive dupes: blog parodies and critical commentary show active resistance to the fantasy."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": ["clark", "chalmers"],
+   "concepts": ["extended-mind", "embodiment"],
+   "relation": "Brunstein surveys emerging wearable technology \u2014 solar-charging jackets, the M-Dress cell-phone dress, invisibility cloaks, the Hug Shirt, Diana Eng's Heartbeat Hoodie \u2014 framed by superhero costumes (Wonder Woman's lasso, Iron Man's exoskeleton) and Haraway's 'Cyborg Manifesto.' She argues that as garments start to *do* things and integrate aesthetically, the grotesque cyborg becomes the glamorous 'supermodel' cyborg, and that this reshapes how we construct the self. Her central philosophical lens is Clark and Chalmers's 'extended mind' / active externalism (with the Tetris example): if clothing becomes a functional extension of cognition, our garments' capabilities become part of a reconstructed self."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": ["mill"],
+   "concepts": ["mill-liberty", "authenticity", "civil-disobedience"],
+   "relation": "Yim argues that clothing is a primary vehicle for autonomy, authenticity, and moral solidarity. Drawing on Mill's *On Liberty* and 'experiments in living,' he treats a teenager testing modest-vs-expressive dress against her mother, and 'Fashion Freaks' patterns for wheelchair users, as cases where wardrobe choice actualizes self-determination. He then reads dress as an emblem of communal solidarity and critique \u2014 the 1968 Smith/Carlos Olympic salute, the Israeli Kibbutz and Amish plain dress (with Rumspringa as a test of authenticity), gang colors, hippie androgyny, vegan 'cruelty-free' clothing, gay Levi's 501s, and Lubna Hussein's trouser trial in Sudan \u2014 concluding 'we are what we wear.'"
+  },
+  {
+   "n": 21,
+   "file": "ch21 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": ["wittgenstein", "butler"],
+   "concepts": ["gender-performativity", "feminism"],
+   "relation": "Brennan argues that fashion sits at the boundary of public and private and is central to the 'sexual citizen' and the politics of recognition for gay, lesbian, and bisexual people. Using Hanson on philosophy's gendered fear of fashion and Phelan/Weeks/Walker on visibility as a political strategy, she shows that queer identities (femme, boi, hanky codes) are communicative and require a community that reads them \u2014 offering a 'private hanky' argument echoing Wittgenstein's private-language point. She draws on her own experience (labrys earring, later bisexual invisibility) and on Butler-style gender performativity to argue visibility empowers recognition but marginalizes those, like femmes, who cannot be read."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": ["kant", "beauvoir", "wollstonecraft"],
+   "concepts": ["objectification", "kant-humanity-formula", "woman-as-other"],
+   "relation": "Ashwell and Langton ask whether fashion is a 'badge of slavery' (Wollstonecraft), opening with Socrates in the *Phaedo* disdaining adornment and Rousseau's girl who becomes 'her own doll,' and using Kant's humanity formula and Nussbaum's seven-feature account of objectification. Focusing on denial of autonomy in ordinary followers, they distinguish the 'Servile Fashionista' (obeys experts) from the 'Sensible Fashionista' (follows what looks good), then argue that via Johnston's 'authority of affect' even the sensible one is under an *epistemic* bondage: fashion's extrinsic social pull is misperceived as the garment's intrinsic goodness, a projective illusion (like the M\u00fcller-Lyer) that on a Kantian view undermines agency and masks misogynist or racist norms such as straightened hair or the 'lotus feet' of stilettos."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": ["foucault", "bentham"],
+   "concepts": ["discipline", "panopticon", "objectification"],
+   "relation": "Collins analyzes paradigmatic Barbie play \u2014 dressing the doll and identifying with her as an idealized future self, from the 1959 TV ad to BarbieGirls.com \u2014 arguing it trains girls to define identity through fashionable bodily self-presentation for a male gaze (Brumberg's 'body project'). Using Sandra Bartky's feminist reworking of Foucault's *Discipline and Punish*, she treats beauty norms as a discipline producing 'docile bodies' whose self-surveillance internalizes a 'panoptical male connoisseur' (Bentham's Panopticon), offering cycles of pleasure and pain that bind women without any single sovereign to blame. Rather than banning Barbie (the failed 'Happy to be Me' doll), she proposes subversive play \u2014 Plump and Proud Barbie, Mursi lip-plate Barbie \u2014 as Heyes-style 'practices of freedom.'"
+  },
+  {
+   "n": 24,
+   "file": "ch24 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": ["aristotle", "adam-smith"],
+   "concepts": ["cynicism", "objectification", "applied-ethics"],
+   "relation": "Pierlott examines sweatshops in the garment industry through the lens of ancient Cynicism (Antisthenes, the Stoics' Zeno of Citium and his thieving slave), using the Cynic critique of fashion-driven consumption to strip legitimacy from the demand that feeds sweatshops. He rebuts the 'inevitability argument' (comparing it to excusing the Holocaust as inevitable) and the free-choice defense using Aristotle's category of 'mixed' action \u2014 sweated workers' consent is coerced by desperate alternatives \u2014 and argues, via Adam Smith on the undervaluing of labor, that giant retailers like Wal-Mart distort natural labor prices. He stresses that sweatshops overwhelmingly exploit young women, tying objectification of women as fashion consumers to their oppression as producers."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": ["singer", "noddings"],
+   "concepts": ["drowning-child", "applied-ethics", "care-ethics-noddings"],
+   "relation": "Cassidy, through an interior monologue of a shopper eyeing Indonesian-made sandals, weighs individual responsibility for consumerism. She contrasts Singer's drowning-child duty to relieve suffering with Pogge's 'you break it, you buy it' claim that the Global North caused Southern poverty, then uses Scheffler's 'restricted' common-sense responsibility and Cannon's butterfly-effect virtues (replacing the American Dream's acquisitiveness with interconnectedness). Adapting Claudia Card, she distinguishes three senses of responsibility \u2014 credit (backward-looking blame), management (of one's lifestyle), and care-taking \u2014 and, invoking Noddings's ethics of care, argues that since globalization's impact is uncertain we should shift from assigning blame to caring *about* distant workers, buying less out of boredom-driven habit."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": ["kant", "beauvoir"],
+   "concepts": ["kant-aesthetics", "virtue-ethics"],
+   "relation": "La Caze rehabilitates fashion against Kant's own dismissal of it (in the *Anthropology*) as vanity and imitation, arguing that Kant's aesthetics actually supply the tools to value it. She applies his account of the disinterested judgment of taste, free vs. adherent beauty, and 'genius' (originality that provides an exemplary model \u2014 Chanel's freer dressing, Dior's New Look, punk DIY, the Sartorialist's street style) to both the making and the wearing of clothes. Drawing on Kant's claim that the beautiful is a symbol of the morally good and the 'virtues of social intercourse,' and on Iris Marion Young's pleasures of touch, bonding, and fantasy, she argues fashion can be a proto-moral, cosmopolitan force, countering Plato's, Beauvoir's, and Svendsen's denigration."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - FASHION - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": []
+}

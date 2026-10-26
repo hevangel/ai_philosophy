@@ -1,0 +1,103 @@
+{
+ "book": "221 - The Philosophy of Film Noir",
+ "unit": "u319",
+ "chapters": [
+  {
+   "n": 5,
+   "file": "ch05 - Foreword.md",
+   "kind": "chapter",
+   "philosophers": ["nietzsche", "emerson", "thoreau", "william-james"],
+   "concepts": ["death-of-god", "transcendentalism", "existentialism"],
+   "relation": "Robert Porfirio's foreword traces film noir's dark sensibility to a native strain in American culture rather than only to imported existentialism, running from Puritan gloom through Poe, Melville, and Hawthorne to the hard-boiled pulp of Hammett, Chandler, and Woolrich. He argues that William James's pragmatism sounded the death knell of the Emersonian/Thoreauvian transcendentalist faith in self-reliance and nature, leaving the way open for Darwinism, Freudianism, and Nietzschean pessimism to reduce the individual to a 'waif amidst forces.' He connects this to the Germanic emigres who brought expressionist style, suggesting they were drawn to an American darkness already present, and closes wondering what post-9/11 neo-noir will make of the same fear and paranoia."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Acknowledgments.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": ["nietzsche", "camus", "sartre", "aristotle", "schopenhauer"],
+   "concepts": ["existentialism", "death-of-god", "meaning-of-life", "the-absurd"],
+   "relation": "Mark Conard's introduction opens with thumbnail plots of Double Indemnity, The Maltese Falcon, and Out of the Past to ask what noir has to do with philosophy, then frames the definitional problem (genre, style, cycle, or mood) as itself a philosophical question about essence. It surveys the volume's thirteen essays, noting that French existentialism was contemporaneous with classic noir (1941-58, Maltese Falcon to Touch of Evil) and shares its themes of moral ambiguity, reason versus passion, and pessimism even without direct influence. It previews the arguments to come, including Nietzsche's death of God as a lens on noir, neo-noir realism, Aristotelian tragedy and catharsis, and Schopenhauer's parallels in Ride the Pink Horse."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Part 1 The Essence and Elements of Noir.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Nietzsche and the Meaning and Definition of Noir.md",
+   "kind": "chapter",
+   "philosophers": ["nietzsche", "socrates", "plato", "wittgenstein", "camus"],
+   "concepts": ["death-of-god", "plato-forms", "heraclitean-flux", "existentialism"],
+   "relation": "Mark Conard uses The Postman Always Rings Twice and Goodis's Night Squad to survey the failed attempts to define noir (genre, style, cycle, mood) and contrasts two theories of definition: Socrates/Plato's search for the essential form versus Nietzsche's flux metaphysics, in which no stable 'being' exists behind becoming and language falsifies a world in motion, making essences and definitions fictions ('I am afraid we are not rid of God because we still have faith in grammar'). He proposes that noir is best understood as an American artistic response to Nietzsche's death of God, the loss of transcendent meaning and value that produces noir's pessimism, alienation, and moral disorientation, citing Sam Spade shrugging off his partner's murder and Ole Andersen passively awaiting his killers. Ironically, the same flux that makes noir what it is (the death of God) is what makes noir impossible to define."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - A Darker Shade Realism in Neo-Noir.md",
+   "kind": "chapter",
+   "philosophers": ["moore"],
+   "concepts": ["naturalistic-fallacy", "moral-relativism"],
+   "relation": "Jason Holt argues that realism, especially about the role values play in people's lives, is the underappreciated essence of noir, offering a working definition of noir as 'stylized crime realism.' Surveying neo-noir detectives (Harper, Chinatown's Gittes), revamped femmes fatales who get away with it (Body Heat's Matty, The Last Seduction's Bridget), morally ambiguous protagonists (To Live and Die in L.A., Manhunter), and Lynch and Tarantino, he shows how the post-Production-Code freedom lets endings ring true to life by letting the guilty escape justice. He coins the 'normativistic fallacy' as the inverse of Moore's naturalistic fallacy: inferring what is from what ought to be, arguing that mainstream cinema's poetic justice commits it while neo-noir's downbeat endings correct it, fulfilling the realism latent in classic noir."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Moral Clarity and Practical Reason in Film Noir.md",
+   "kind": "chapter",
+   "philosophers": ["aristotle", "kant", "plato"],
+   "concepts": ["aristotle-practical-wisdom", "virtue-ethics", "categorical-imperative", "moral-relativism"],
+   "relation": "Aeon Skoble argues against the common view that noir depicts a world without ethics, contending that noirs are actually exercises in moral clarity. He reads Frank Chambers's deliberations in Postman and Walter Neff's in Double Indemnity as Aristotelian practical reasoning gone wrong (they fail eudaimonia and are punished), while Sam Spade's decision to turn in Brigid shows objective good reasons at work. Using Touch of Evil, he shows that a corrupt cop like Quinlan being pursued affirms moral realism and refutes subjectivism, and he sides with Aristotelian virtue and Platonic objective justice over Kant's rigid categorical imperative (which would forbid the detective's useful lies or lying to Nazis). He concludes that because bad noir characters do not flourish, even films about immoral acts are morally edifying rather than corrupting role models."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Cherchez la Femme Fatale The Mother of Film Noir.md",
+   "kind": "chapter",
+   "philosophers": ["nietzsche", "jung"],
+   "concepts": ["death-of-god", "existentialism", "yin-yang", "jung-archetypes"],
+   "relation": "Read Mercer Schuchardt argues that The Jazz Singer (1927) should be considered the first film noir because it is the first mass-medium announcement of Nietzsche's death of God, staged as the death of Papa Rabinowitz and the old prescriptive Judaism. He reads the film through a three-stage deicide (God as God, then one god among many, then a stage prop for Jakie's voice) and through a Jungian/Neumann anima-animus opposition of the word-based patriarchal religion versus the image-based maternal love that wins out, mirroring film displacing scripture. He ties this to Porfirio's existential pessimism that undercuts happy endings, casting Jakie's blackface Broadway triumph as a bittersweet, angst-ridden creation of meaning after the loss of transcendent value, and traces later 'existential detective' descendants like I Heart Huckabees and Fight Club."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - From Sherlock Holmes to the Hard-Boiled Detective in Film Noir.md",
+   "kind": "chapter",
+   "philosophers": ["peirce", "nietzsche", "deleuze", "descartes"],
+   "concepts": ["pragmatic-method", "rhizome", "death-of-god", "will-to-power"],
+   "relation": "Jerold Abrams argues that the noir detective inherits the Holmes/Dupin detective logic but inhabits a fundamentally different maze. Using Eco's three labyrinths, he maps the classical Greek maze (with faith as Ariadne's string) and the mannerist maze (with Cartesian/Kantian pure reason) onto the escapable world of classic detection, and the Deleuzian rhizomatic maze, born after Nietzsche dissolved reason into will to power, onto noir's inescapable world (The Third Man, Kiss Me Deadly, The Maltese Falcon's fake statue). He shows both detectives use Peircean abduction (the logic of guessing) rather than pure deduction, illustrating it with knife-wound examples and Calloway's trapdoor inference in The Third Man, while the noir femme fatale becomes the anti-Ariadne whose thread of clues leads only to the hangman's rope."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Part 2 Existentialism and Nihilism in Film Noir.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Film Noir and the Meaning of Life.md",
+   "kind": "chapter",
+   "philosophers": ["schopenhauer", "camus", "nagel", "sartre"],
+   "concepts": ["meaning-of-life", "the-absurd", "schopenhauer-pessimism", "existentialism"],
+   "relation": "Steven Sanders uses film noir to motivate philosophical reflection on the meaning of life, reading its pessimistic sensibility (Touch of Evil, Detour, Out of the Past, D.O.A., Vertigo) as the presupposition that life is meaningless per se. He runs through Schopenhauer's pessimistic arguments from the vanity and transience of existence, Nagel's rebuttal that our not mattering in a million years does not stop things mattering now, and the tension between Sartrean existentialist freedom and noir's Freudian fatalism of the inescapable past. He then lays out three models of meaninglessness (Baier's worthlessness and purposelessness, Camus/Nagel's absurdity met with irony), reading noir protagonists as ironists, before rejecting the noir view that life must be meaningless and arguing that meaning is a matter of degree, requiring realizable projects of positive value."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Horizon of Disenchantment Film Noir, Camus, and the Vicissitudes of Descent.md",
+   "kind": "chapter",
+   "philosophers": ["camus", "nietzsche", "freud", "sartre"],
+   "concepts": ["the-absurd", "death-of-god", "freud-unconscious", "camus-revolt"],
+   "relation": "Alan Woolfolk reads noir through Weber's disenchanted world and Charles Taylor's cultural horizons, arguing the noir protagonist can neither resist the darkness like Conrad's Marlow nor fully embrace it like Coppola's Willard, remaining trapped between times in an ethically irrational universe. He contrasts Camus, who counters disenchantment with an ethic of honesty grounded in a Rousseauian benign nature (The Stranger's Meursault) and with the Baudelairean dandy as aesthetic model, against noir protagonists (Neff, Marlowe, the Swede, Scottie Ferguson) whose 'banked fires' fail and who lose self-possession. Drawing on Freud's id as 'a cauldron full of seething excitations,' he argues the femme fatale drags the protagonist downward into the timeless unconscious where anything is possible (Noah Cross's incest in Chinatown, the radioactive box in Kiss Me Deadly, Body Heat's Ned Racine), and reads noir as backward- and downward-looking through Palmer/Bakhtin's chronotope."
+  }
+ ],
+ "holes": []
+}

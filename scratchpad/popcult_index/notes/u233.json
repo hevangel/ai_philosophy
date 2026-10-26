@@ -1,0 +1,261 @@
+{
+ "book": "159 - The Expanse and Philosophy - So Far Out Into the Darkness",
+ "unit": "u233",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Table of Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Series Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Dedication Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Contributors Expanded Rocinante Crew List.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Acknowledgements.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Foreword.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "James S. A. Corey (Daniel Abraham and Ty Franck) frame both philosophy and science fiction as 'acts of critical imagination': philosophy advances into questions before data and measurement exist, and science fiction imagines what we do not yet know until it stops being speculative. They describe The Expanse as a collaborative project built from the science fiction they read growing up (Bester, Niven, Clarke, Cherryh) and from real history, its boundaries clear only at a distance. The foreword presents this volume as the conversation they inherited carrying forward, with The Expanse as touchstone, hoping it leaves readers 'a little more awed, a little wiser.'"
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Editor Jeffery L. Nicholas declares Leviathan Wakes 'that book' and the TV series 'that show' of philosophical science fiction, and explains that his own aphantasia makes the series especially precious to him (watching the Rocinante on screen, Naomi's torture to save lives). He frames the volume's guiding questions over the first five seasons with hints from Babylon's Ashes: whether Amos or Avasarala is more evil and Naomi or Holden good, the costs of interstellar migration through the Ring Gates, and whether humanity even has a choice about expansion. Like Joe Miller holding Julie's necklace, the contributors offer their love of the show through interrogation of Miller, Holden, Amos, Bobbie, Naomi, and Avasarala herself."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - First Orbit FROM EARTH TO THE STARS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Howl at the Moon If You Want To.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "pascal"
+   ],
+   "concepts": [
+    "kant-aesthetics",
+    "free-will-determinism"
+   ],
+   "relation": "Michael J. O'Neill argues that infinite space is The Expanse's most constant on-screen character, conveyed through chiaroscuro cinematography that deliberately echoes the seventeenth century (the Don Quixote references, 'Dulcinea', the Rocinante's name), when humanity first confronted infinite space. He reads Pascal's terror at man as 'a middle point between all and nothing' into Avasarala's losing debate with Nancy Gao over the Ring gold rush and into Miller's agoraphobic quest for Julie, then contrasts this with Kant's mathematically and dynamically sublime: spacewalks, the Behemoth dwarfed at the Gate, the Arboghast disassembled over Venus, and Inaros' asteroid attack as the weaponization of the infinite. Against Pascal's insignificance, Kant's sublime reveals our freedom — Holden's 'crazy notion about free will' while descending to the Ring station, Drummer's 'nothing in the void is foreign to us', and Amos' 'we're still here' — so the awe the show's visuals provoke is an intuition that we are greater than all nature's power."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - What Really Matters.md",
+   "kind": "chapter",
+   "philosophers": [
+    "parfit"
+   ],
+   "concepts": [
+    "existence-risk",
+    "second-order-desires"
+   ],
+   "relation": "Margarida Hermida deploys Parfit's comparison of peace, a war killing 99 percent of humanity, and one killing everyone to argue extinction is categorically worse than mass death, and makes the stakes concrete through The Expanse's threats: the protomolecule, all-out Earth-Mars-Belt war, and the Free Navy's asteroid attack that kills billions. She rejects Miller's 'stars are better off without us' pessimism by arguing human existence is a good when suffering is fought (Belter disease and Ceres trafficking are contingent injustices, not necessities), values humanity as the only species with civilization and as the universe 'starting to understand itself', and distinguishes the desirable biological colonization of lifeless worlds from the protomolecule makers' morally objectionable disregard for native life like Ilus'. Against Phil Torres' worry that human speciation means endless war, she points to the mixed Rocinante crew and Naomi's line that the real divide is 'people who want more violence and the ones who want less', concluding with Parfit's On What Matters that what matters most is avoiding the end of human history and of rational beings."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Actual Threats to Our Existence.md",
+   "kind": "chapter",
+   "philosophers": [
+    "parfit",
+    "bostrom"
+   ],
+   "concepts": [
+    "existence-risk"
+   ],
+   "relation": "Leonard Kahn takes the season-four debate between Avasarala and Nancy Gao over Ring colonization and asks who should have won. Using Parfit's extinction asymmetry, Bostrom's 'astronomical waste', and Toby Ord's definition of existential risk, he calculates that the 1,300 Ring gates could make accessible between 10^34 and 10^71 future lives (versus the Epstein-drive Nauvoo's century-long crawl to Tau Ceti), yet because using the rings risks the annihilation that befell the protomolecule's creators, the loss of humanity's long-term potential outweighs Gao's 'unimaginable opportunities' — so Avasarala's caution should have won. He ends skeptically: like Socrates arguing against the execution of the Arginusae generals, philosophical Cassandras rarely prevail, Gao was probably right that ring colonization was politically inevitable, and we face the same dilemma with nuclear war, engineered pandemics, and runaway AI."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Conclusion Whatever I Goddamn Like.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "hume",
+    "wollstonecraft",
+    "rousseau"
+   ],
+   "concepts": [
+    "feminism",
+    "vindication-women"
+   ],
+   "relation": "S. W. Sondheimer argues that Avasarala's election loss to Nancy Gao is explained not by competence but by millennia of gender expectations. She excavates the lineage: Aristotle's form/matter hierarchy ('matter yearns for form as the female for the male', women as incomplete 'deformed males' with 'fewer teeth') used to bar women from politics, Hume's portrait of women as near-livestock incapable of the sublime, and Romantic-era bodily confinement — mapping each onto Avasarala's staff recasting her as a 'nurturing, caring family matriarch', her forced public apology for the failed Inaros boarding raid that a male commander like Errinwright would never have had to make, and Arjun seizing control of the narrative of their son Charanpal's death. Closing the loop with the 2016 US election (Clinton versus Trump), the chapter argues that even in 2350 voters punish the 'nasty woman' and reward the comfortable mold Gao fits, and demands we 'dig this garbage philosophy out of our shared consciousness and set it on fire.'"
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Second Orbit IS IT THE PROTOMOLECULE, OR JUST HUMAN NATURE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Should Mao Be Pardoned.md",
+   "kind": "chapter",
+   "philosophers": [
+    "arendt"
+   ],
+   "concepts": [
+    "banality-of-evil"
+   ],
+   "relation": "R. S. Leiby stages the trial of Jules-Pierre Mao alongside Hannah Arendt's report on Adolf Eichmann to ask whether someone can commit great evil without being evil. Mao, like Eichmann, would plead 'not guilty in the sense of the indictment': he mourns Julie at her tree, momentarily defends the children on Io ('We're torturing children'), yet lacks the imagination to think from the standpoint of his victims on Eros, the Canterbury, and Ganymede — unlike the genuine fanatics Dresden and Cortázar, whom appeals to morality cannot touch. The 'anyone would do it' defense is tested through Milgram's obedience experiments and Miller's killing of Dresden ('I killed him because he was making sense'), showing how seductive moral tradeoffs are; following the Eichmann court's rule that responsibility increases with distance from the fatal instrument, the chapter concludes that Mao — a free, autonomous agent with even less excuse than Eichmann — should not be pardoned."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Amos Is No Superman.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "master-slave-morality",
+    "ressentiment",
+    "will-to-power",
+    "ubermensch"
+   ],
+   "relation": "Pankaj Singh reads Amos through Nietzsche's Genealogy of Morals: Amos' division of people into 'bad ones, ones you follow, and ones you need to protect', his outsourcing of moral judgment to Naomi and Holden ('Naomi wouldn't like it'), his fearlessness, and his violent spontaneity make him 'evil' by slave morality yet good by master morality. Unlike Prax, who has to be stopped from shooting Strickland out of ressentiment, Amos kills without revenge ('I am that guy'), and his fistfights with Miller and Alex discharge hostility immediately so it never poisons — the strong natures Nietzsche praises that 'form, mold, recuperate and forget.' His 'crew comes first' and 'better to go down swinging' express the will to power as discharge of strength rather than mere self-preservation, but because he never sublimates or overcomes his drives, the chapter concludes Amos is no Übermensch — 'but then again, who is?'"
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Upsides of Amos.md",
+   "kind": "chapter",
+   "philosophers": [
+    "arendt"
+   ],
+   "concepts": [
+    "banality-of-evil",
+    "moral-psychology"
+   ],
+   "relation": "Diana Sofronieva asks whether Amos is evil and answers no — in some ways he is better than most. Drawing on psychopathy research (Blair's moral/conventional distinction), Glover's 'moral resources', and Damasio's somatic markers to explain both his emotional absence (cauterized by a Baltimore childhood where children were sold for sex) and his difficulty making choices ('I've been trying to make choices of my own lately, and I can't seem to make the right ones'), she distinguishes him from bloodthirsty killers like Murtry and from Cortázar, who surgically chose the emotionless life Amos wants to escape. Against Arendt's banality of evil, Amos is no thoughtless 'joiner': he holds an uncompromising inner code (family first, bullying punished), deliberately selects good people — Naomi, Anna, Holden — as his moral compass after verifying their reasons, and his honesty, loyalty, trust in competence, and selflessness make him paradoxically less capable of evil than nearly anyone else on the Roci."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - What Promotes Moral Behavior.md",
+   "kind": "chapter",
+   "philosophers": [
+    "walzer"
+   ],
+   "concepts": [
+    "just-war-theory",
+    "consequentialism",
+    "state-of-nature"
+   ],
+   "relation": "Matthew D. Atkinson and Darin DeWitt use the Canterbury's ignored mayday in 'Dulcinea' — Captain McDowell's 'let the good God Darwin sort it out' versus Ade Nygaard's appeal to law, karma, and obligation — to ask what binds people when no central authority enforces rules. Through Michael Walzer's just war theory they read the Earth-Mars war: moral language is not 'cheap talk' (even Errinwright must dress aggression as peace and manipulates Reverend Volovodov's words), aggression and imminence govern when to fight, and five 'how to fight' principles — noncombatant immunity on Eros and Ganymede, POW rights for the Martian marines on the Kittur Chennamma, leaders' rather than soldiers' responsibility (Fred Johnson's defection after Anderson Station), proportionality in Errinwright's 'a base for a base' Deimos strike, and the rejection of ends-justify-means utilitarianism — discipline even Holden and Amos as they reflect on free will and culpability. The chapter concludes The Expanse is optimistic: human decency survives even in the anarchic Belt because characters keep reflecting on what their obligations to one another are."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - A Crossroads in Human History.md",
+   "kind": "chapter",
+   "philosophers": [
+    "walzer",
+    "arendt"
+   ],
+   "concepts": [
+    "terrorism-violence",
+    "banality-of-evil"
+   ],
+   "relation": "Trip McCrossin reads season five's asteroid strikes on Earth as a 9/11 allegory (Delgado's 'at least now they know it's an attack') and applies Michael Walzer's five conditions to define Marco Inaros' terrorism: deliberate harm to randomly selected innocents, meant to terrify a cohort into political change, as in Marco's 'crossroads in human history' broadcast. This yields the terrorist's dilemma — justice toward victims versus compassion toward beneficiaries — while Avasarala's opening gravity-torture scene and her 'dirty hands' assign the opponent blame for failing to relieve the oppression that makes terrorism seem a last resort. Lydia's 'churn' ('float to the top or sink to the bottom') and her lesson that one can 'lead a good life without being a good person' explain how Amos and Clarissa redeem each other on the road to Baltimore, whereas Marco, like Arendt's Eichmann, cannot think from anyone else's standpoint ('everything we ever dreamed of'); the chapter ends with Avasarala's proposed Inners-Belters union as her own redemption — 'this is how we win.'"
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Third Orbit REMEMBER THE CANT!.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 23,
+   "file": "ch23 - A More Human Future.md",
+   "kind": "chapter",
+   "philosophers": [
+    "fanon"
+   ],
+   "concepts": [
+    "black-skin-white-masks",
+    "terrorism-violence"
+   ],
+   "relation": "Sid Simpson argues, through Frantz Fanon, that Marco Inaros' asteroid attacks must be judged as anti-colonial violence rather than simple monstrosity. Using Black Skin, White Masks' ontological division (Belters as 'skinnies', 'possessions, animals', the dehumanization that made Eros an acceptable testing ground and Anderson Station a 'message'), reinforced by Columbus and las Casas on Spanish colonization, he shows why the Inners' 'peace' is merely the status quo of ongoing extraction — Fanon's 'hypnotherapy' — that no treaty or Ring can fix. Fanon's Wretched of the Earth then recasts anti-colonial violence as a 'cleansing force' that shatters the colonial ontology and lets the colonized create a 'new, better, more human form' of humanity, so that Marco's personal narcissism and possible insincerity do not settle the political question: for the Belt, violence may be not only the last option but the most just one, against Avasarala's champagne-toast universalism that never takes Belter grievances seriously."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "pascal-two-infinities",
+   "name": "Pascal's Two Infinities (the disproportion of man)",
+   "philosopher": "pascal",
+   "domain": "medieval-early-modern",
+   "what": "Pascal's Pensees meditation that man is 'a nothing compared to the infinite, a whole compared to the nothing', a middle point between the infinitely large and the infinitely small, terrified by infinite spaces whose ends and principles are hidden in impenetrable secrecy.",
+   "why": "Chapter 12 builds its reading of the show's infinite-space cinematography and Avasarala's Ring dilemma on extended quotations of this Pascal argument before turning to Kant's sublime as the answer, but the taxonomy contains no Pascal concept to express it."
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "wretched-of-the-earth",
+   "name": "The Violence of Decolonization (Wretched of the Earth)",
+   "philosopher": "fanon",
+   "domain": "feminism-gender-race",
+   "what": "Fanon's thesis in The Wretched of the Earth that decolonization is always a violent event and that anti-colonial violence is a 'cleansing force' which rids the colonized of their inferiority complex, shatters the colonial ontology, and creates new men.",
+   "why": "Chapter 23's central defense of Marco Inaros' asteroid attacks rests on this Wretched of the Earth account of violence and new humanism, which the existing black-skin-white-masks slug (the ontological color division) does not cover."
+  }
+ ]
+}

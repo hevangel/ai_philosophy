@@ -1,0 +1,300 @@
+{
+ "book": "035 - Star Trek and Philosophy - The Wrath of Kant",
+ "unit": "u057",
+ "chapters": [
+  {
+   "n": 20,
+   "file": "ch20 - “Its Continuing Mission”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel",
+    "descartes",
+    "locke"
+   ],
+   "concepts": [
+    "hegel-recognition",
+    "hegel-master-slave",
+    "democracy-theory"
+   ],
+   "relation": "Argues that Star Trek's real subject is Hegelian recognition: a society is worth living in when every member's claims count as reasons and their talents get developed. It reads 'The Measure of a Man' (Data winning legal personhood), 'The Outcast' (Riker defending the J'naii Soren), and DS9's 'Past Tense' Bell Riots as dramas of winning recognition, and maps the Romulan-Reman and Stratos-Troglyte hierarchies onto Hegel's master-slave dialectic, contrasting Descartes's solipsistic cogito with Hegel's claim that self-awareness needs another. Since recognition requires more than non-interference against Locke-style atomism, the Federation's appeal lies in positive liberties — education, open debate, guaranteed basic needs — even though the shows oddly skip elections and democratic politics, a tension the authors flag through Leonard Nimoy's praise of a world with 'no political agenda.'"
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Death on Veridian III.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "leibniz",
+    "aristotle",
+    "john-hick",
+    "whitehead"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "best-possible-world",
+    "meaning-of-life"
+   ],
+   "relation": "Uses the holodeck to re-run the problem of evil: if a safe, painless simulated world like Barclay's fantasy life in 'Hollow Pursuits' is available, why is the painful real one better? Against Hume's Dialogues complaint that a benevolent God should have cut the pain, and Leibniz's best-of-all-possible-worlds optimism, the authors stack Whitehead's 'major beauty' of intensity, Aristotle's tragic magnitude, Swinburne's good of serious responsibility, and Hick's soul-making, reading Moriarty's imprisonment in 'Ship in a Bottle,' Q's humbling in 'Déjà Q,' and Kirk leaving the Nexus because 'nothing here matters' as evidence that intensity, responsibility, and character growth exist only in the real world. Kirk's death on Veridian III in Generations supplies the cautionary counterweight: the real world's goods cost real suffering."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - “Something to Believe In”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "william-james",
+    "peirce"
+   ],
+   "concepts": [
+    "will-to-believe",
+    "pragmatic-truth",
+    "pragmatic-method",
+    "leap-of-faith"
+   ],
+   "relation": "Reads Worf's crisis over the clone 'second coming' of Kahless in 'Rightful Heir' as a live, forced, and momentous option in William James's sense, where 'faith creates its own verification.' Peirce's methods of fixing belief — tenacity, authority, and science — explain why Worf cannot accept Koroth's pious fraud once Gowron's DNA test exposes the clone, while Data's own 'leap of faith' in believing he is more than a machine supplies the Jamesian model of believing without evidence. Worf's compromise — telling the Klingon people the truth but installing Kahless-the-clone as spiritual emperor because 'the words are more important than the man' — is offered as pragmatist truth: what works while staying answerable to hard facts."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - “He’s a Cardassian! That’s Reason Enough”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lyotard"
+   ],
+   "concepts": [],
+   "relation": "Applies Lyotard's differend and agonistics to the Bajor-Cardassia-Federation triangle around DS9, arguing that 'Duet' dramatizes a dispute where the occupation's horrors are unpresentable in any ruling idiom, so labels like 'Cardassian monsters' and 'Bajoran freedom fighters' frame reality to suit the framer. It follows Aamin Marritza's impersonation of Gul Darhe'el — a guilt-wracked file clerk who wants Bajor's trial to force Cardassia to confess — through Kira's shift from vengeance to forgiveness, and his murder by a Bajoran ('He's a Cardassian! That's reason enough') as proof of totalizing injustice. Federation universalism (Sisko's 'In the Pale Moonlight' compromises, Azetbur's 'Homo sapiens only club' jab, Eddington's 'you assimilate people' speech) appears as one more totalizing standard, with DS9's transgressive characters like Garak pointing past the impasse."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Starfleet Directive FOUR - Multiple Enterprises Metaphysical Conundrums from.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Tomorrow Is Yesterday.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mctaggart",
+    "augustine",
+    "leibniz"
+   ],
+   "concepts": [
+    "a-series-time",
+    "augustine-time",
+    "time-travel",
+    "fate-vs-free-will"
+   ],
+   "relation": "Uses the Bajoran Prophets, who experience no linear time ('What is this... time?'), to frame a tour of time's metaphysics: Newton's absolute container versus Leibniz's relationism (the incoherence of a 'temporal vacuum'), Augustine's mind-dependent time (illustrated by 'The Inner Light' and O'Brien's implanted prison years in 'Hard Time'), and McTaggart's argument that neither the A-series nor the B-series can account for change, illustrated by Tasha Yar's death in 'Skin of Evil' and Kirk's Liar-paradox victories over Nomad and Norman. The chapter defends the A-series via tense, then weighs presentism — which would make 'Tomorrow Is Yesterday' and 'Trials and Tribble-ations' impossible — against eternalism, whose fatalism Data embraces when his severed head turns up in 'Time's Arrow' ('It has occurred. It will occur.'), and which finally makes sense of prophets who see the future in 'Destiny.'"
+  },
+  {
+   "n": 26,
+   "file": "ch26 - “I Feel Exactly What You Feel”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "parfit"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "parfit-teleportation",
+    "personal-identity",
+    "functionalism"
+   ],
+   "relation": "Runs Star Trek's transporter and android stories as thought experiments on personal identity: the body theory (Kirk rejecting android Korby — 'Dr. Korby was never here' — and Picard telling the resurrected Rishon Uxbridge 'you do not exist'), the brain theory ('Spock's Brain,' Bashir refusing to replace half of Vedek Bareil's brain), and Locke's memory theory as vindicated by the Trill (Lela Dax's 'a person is but the sum of their memories,' the 'Dax' extradition hearing over Curzon's crimes). Riker's transporter double in 'Second Chances' and the Tuvix fusion then break the memory theory through fission and fusion, prompting Parfit's move that psychological continuity, not numerical identity, is what matters in survival. Memory erasure in 'Dagger of the Mind' and Kurn's rebranding after the failed Mauk-to'Vor in 'Sons of Mogh' count as death if we are our memories."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Emergentism Now Can Scotty Beam Us Up.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "searle",
+    "nagel",
+    "ockham"
+   ],
+   "concepts": [
+    "cartesian-dualism",
+    "what-is-it-like",
+    "searle-intentionality",
+    "ockham-razor",
+    "eliminative-materialism"
+   ],
+   "relation": "Tests three theories of mind against Spock's katra transfer in The Wrath of Khan and The Search for Spock and his mind melds with Kirk, the Horta, and Rock people. Descartes's divisibility argument backs the dualism the katra assumes, but the argument from parsimony (Ockham's razor), the problem of mental causation, and the conservation of energy weigh against it; Churchland's eliminative materialism plays by science's rules but runs into Nagel's 'what it is like' objection, dramatized by Geordi failing to describe anger to Data without circularity. The author lands, cautiously, on Searle-style emergentism — mind as an emergent, irreducible feature of neural complexity, as when Nomad and V'Ger exceed their programming — while conceding Kim's charge that it may be dualism in disguise."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - “Logic Is the Beginning of Wisdom . . . Not the End”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "searle",
+    "putnam"
+   ],
+   "concepts": [
+    "searle-intentionality",
+    "liar-paradox"
+   ],
+   "relation": "Treats Kirk's computer-killing arguments as logic lessons: his valid syllogism forces Nomad to sterilize itself in 'The Changeling,' while the M-5's trial in 'The Ultimate Computer' models inductive hypothesis testing. The Liar paradox ('Everything Harry tells you is a lie' / 'I am lying') crashes Norman in 'I, Mudd' and, via Tarski's T-sentences and the explosion problem, reveals the concept of truth as inconsistent, with three-valued logic offered as a fix that only relocates the paradox. Gödel's incompleteness theorem then grounds the Lucas-Penrose claim that minds outstrip computer programs like Landru — which Putnam's consistency objection rebuts — leaving Searle's point that computers manipulate symbols without understanding them as the residue of Surak's Vulcan logic being the beginning of wisdom, not the end."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Crew of the Starship Enterprise NCC-1701-.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Chronicles from the Final Frontier.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Isolinear Data.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Star Trek and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Star Trek and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "positive-negative-liberty",
+   "name": "Positive and Negative Liberty",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Isaiah Berlin's distinction between freedom as non-interference (negative) and freedom as self-mastery enabled by resources and capacities (positive), with Taylor's reply that positive freedom 'by one's own lights' need not become tyranny.",
+   "why": "Chapter 20 leans on this debate to argue that the Federation supplies positive liberties — education, open debate, met basic needs — that Hegelian recognition requires beyond Locke-style negative liberty."
+  },
+  {
+   "ch": 21,
+   "type": "philosopher",
+   "suggested_slug": "whitehead",
+   "name": "Alfred North Whitehead",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Process philosopher who ranked 'major beauty' — harmony intensified by contrast and danger — above mere painlessness, seeing God's purpose as 'the evocation of intensities.'",
+   "why": "Chapter 21 uses Whitehead's aesthetic theodicy to answer Hume: a holodeck-safe world without the mortality failsafe would lack the contrasts that make experience worth having."
+  },
+  {
+   "ch": 21,
+   "type": "philosopher",
+   "suggested_slug": "swinburne",
+   "name": "Richard Swinburne",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Contemporary philosopher of religion who defends theism probabilistically and argues that genuine responsibility for other beings is such a great good that it justifies a world containing evil.",
+   "why": "Chapter 21 uses Swinburne's responsibility theodicy to explain why Kirk leaves the Nexus: a simulated world offers pleasure but no real responsibility or chance to make a difference."
+  },
+  {
+   "ch": 21,
+   "type": "philosopher",
+   "suggested_slug": "john-hick",
+   "name": "John Hick",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Philosopher of religion whose 'soul-making' theodicy holds that suffering and adversity are the environment in which immature beings develop moral character toward perfection.",
+   "why": "Chapter 21 applies Hick's soul-making theodicy to Q in 'Déjà Q,' whose pain-free omnipotence left him bratty until human hardship aboard the Enterprise taught him selflessness."
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "the-differend",
+   "name": "The Differend (agonistics)",
+   "philosopher": "lyotard",
+   "domain": "political-social",
+   "what": "Lyotard's notion of a dispute in which one party is stripped of the idiom needed to phrase its wrong, leaving a silence that the existing rules of the conflict cannot hear or remedy.",
+   "why": "Chapter 23 reads the Bajor-Cardassia impasse in 'Duet' as a differend: the occupation's victims cannot phrase their loss in Cardassian, Federation, or Bajoran terms without distortion."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "presentism-eternalism",
+   "name": "Presentism vs Eternalism",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Competing ontologies of time: only the present exists (presentism) versus the whole four-dimensional timeline being equally real (eternalism, the 'block universe').",
+   "why": "Chapter 25 argues presentism would make Star Trek time travel impossible and that eternalism best models the Prophets' atemporal outlook — though it carries fatalism, as Data's 'It has occurred. It will occur.' shows."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "functionalism",
+   "name": "Functionalism (mind as software)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Theory of mind identifying mental states with functional roles, so the mind is to the brain as a program is to hardware and could in principle run on a different substrate.",
+   "why": "Chapter 26 invokes functionalism to assess Star Trek's consciousness downloads — Korby, Ira Graves into Data, Juliana Tainer — asking whether the uploaded person is really you."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "eliminative-materialism",
+   "name": "Eliminative Materialism",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The Churchland view that mature neuroscience will replace folk-psychological terms like belief, anger, and consciousness, revealing mental states as illusions of our outdated framework.",
+   "why": "Chapter 27 tests eliminative materialism (via Paul Churchland) as the scientific alternative to dualism for Data and McCoy before finding it unable to accommodate subjective experience."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "emergentism",
+   "name": "Emergentism (mind as emergent property)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The view that mind is a natural but irreducible, unpredictable property arising at thresholds of physical complexity, with novel causal powers over its material base.",
+   "why": "Chapter 27's title theory: emergentism is the proposed compromise keeping both mental causation and subjectivity while staying scientific, and the chapter worries it collapses into dualism in disguise."
+  },
+  {
+   "ch": 28,
+   "type": "concept",
+   "suggested_slug": "liar-paradox",
+   "name": "The Liar Paradox",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The self-referential sentence 'this sentence is not true,' which is true if and only if it is false — threatening the consistency of truth and, via the explosion problem, all of logic.",
+   "why": "Chapter 28's centerpiece: Kirk and Harry Mudd crash the android Norman with the Liar in 'I, Mudd,' exposing an inconsistency in the concept of truth beneath Vulcan's life of logic."
+  },
+  {
+   "ch": 28,
+   "type": "concept",
+   "suggested_slug": "godel-incompleteness",
+   "name": "Gödel's Incompleteness Theorems",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Gödel's proof that any consistent formal system able to express arithmetic contains truths — like a sentence saying of itself that it is unprovable — that the system can neither prove nor refute.",
+   "why": "Chapter 28 uses the theorems, through the Lucas-Penrose anti-mechanist argument and Putnam's rebuttal, to ask whether minds outstrip computer programs like Landru."
+  }
+ ]
+}

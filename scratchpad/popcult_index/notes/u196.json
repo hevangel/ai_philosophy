@@ -1,0 +1,614 @@
+{
+ "book": "130 - The Good Place and Philosophy - Get an Afterlife",
+ "unit": "u196",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Poular Culture and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Welcome Everything Is Great!.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editors' introduction recounts how Eleanor Shellstrop wakes in Michael's fake Good Place with the indecisive ethics professor Chidi as her reluctant guide, and argues the show is unique because philosophy is not a gag but the vocabulary the characters use to understand themselves and their predicaments. It frames the volume as extending Chidi's ethics lessons to the audience and sets out the book's terminological conventions for the show, the fake neighborhood, and the real Good Place."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Thanks.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - I The Demons in the Details.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 1. The Good, the Bad, and the Bureaucratic.md",
+   "kind": "chapter",
+   "philosophers": [
+    "arendt"
+   ],
+   "concepts": [],
+   "relation": "Westfall uses Hannah Arendt's account of bureaucracy as 'rule by Nobody' to read the show's afterlife: the point system runs itself, and no one, not Michael, not Shawn, not even Judge Gen, has authority to alter the automatic calculation of a life's score. Because bureaucracies deprive everyone subject to them of the power to act and thereby invite violence, Chidi's 'Most Improved Player' plea for Eleanor and Michael's Season Two argument before Gen that the system is 'fundamentally flawed' amount to the only recourse Arendt leaves: resistance against the system itself."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 2. How Can Torture Be This Funny.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bergson",
+    "foot",
+    "williams"
+   ],
+   "concepts": [
+    "trolley-problem",
+    "bergson-laughter",
+    "williams-integrity"
+   ],
+   "relation": "Pavelich asks how a sitcom about torture can be funny, answering with incongruity theory and Bergson's view of comedy as social punishment, seen in Tahani paired with a silent monk and Michael failing 802 reboots. The centerpiece is 'The Trolley Problem': Michael drops Chidi into Foot's thought experiment so Chidi becomes the instrument of his own agony, and by Bernard Williams's principle the real wrongdoer is Michael, who set up the situation. Eternal torture works as comedy only because everyday crappiness is watched on a twenty-two-minute scale, and Eleanor's forgiveness of Michael after seeing the tortures in Janet's VR makes her the show's real moral hero."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 3. Sympathy for the Devils.md",
+   "kind": "chapter",
+   "philosophers": [
+    "william-james"
+   ],
+   "concepts": [
+    "consequentialism",
+    "free-will-determinism"
+   ],
+   "relation": "Bromhall contends the Soul Squad's moral growth cannot earn them Good Place points, because the contextualist point system rewards only the happiness an action actually adds to the universe, as the two Dougs' rose gifts show. Using William James's conditions for morally valuable action, foreseeable consequences and no do-overs, he argues the afterlife is the wrong context for human action since Michael can rewrite reality and wipe memories at will. Ironically the humans' growth only makes Michael and the demons miserable, while Michael's own high-stakes, irreversible self-sacrifice meets all of James's conditions and so alone deserves The Good Place."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 4. Can We Do Enough Good.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "rousseau",
+    "hume",
+    "hobbes"
+   ],
+   "concepts": [
+    "hume-bundle",
+    "buddhist-non-self",
+    "rousseau-natural-goodness",
+    "moral-relativism"
+   ],
+   "relation": "Fetterman argues no one can do enough good to earn The Good Place because the real question is who defines good. Moving from Hobbes's state of nature and Rousseau's innate compassion to Hume's bundle theory and the Buddhist doctrine of non-self, he shows the four humans' characters were assembled by their formative communities, which is Michael's whole defense before Judge Gen. But Nietzsche's account of how communities christen their own customs 'good' exposes the deeper flaw: the afterlife accountants impose their in-group preferences on all humanity, which is why even Doug Forcett's life of point-maximization fails, and why Michael should be asking the Frozen Yogurt Problem instead of blaming demon tampering."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 5. One of Us Is a Manipulative Demon.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "compatibilism",
+    "bad-faith",
+    "punishment-theory"
+   ],
+   "relation": "Malloy tests compatibilism, libertarian free will, and determinism against Michael's predicament: he must be able to predict the humans whose unchosen torture he is administering, using Jason's death locked in the safe to show how free motives and external causes combine. Eleanor's confession and Chidi's boat-and-French-poetry paradise fantasy, read through Sartre, complicate the internal/external divide compatibilism needs, while the humans' eerie constancy across 802 reboots suggests determinism. The conclusion is that a system distributing eternal reward and punishment on desert is doubly unjust if determinism is true, since punishment could only ever be justified as forward-looking encouragement, never as what anyone deserves."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - II Somewhere Else.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 6. A Better Bad Place.md",
+   "kind": "chapter",
+   "philosophers": [
+    "anselm"
+   ],
+   "concepts": [
+    "punishment-theory",
+    "utilitarianism",
+    "ontological-argument"
+   ],
+   "relation": "Grosz asks whether Judge Gen could justly condemn Team Cockroach to eternal torment, testing the classic 'sins against an infinite being deserve infinite punishment' defense built on Anselm's God as that than which nothing greater can be conceived, and finding that no such being exists on the show. He rejects the continuing-sin model of Hell because the Bad Place's physical torture precludes both further sinning and moral reform, and argues purely retributive eternal punishment fails the utilitarian test. His proposal, a non-torturous 'Bad Place 3.0' modeled on C.S. Lewis's The Great Divorce where people face the natural consequences of their vice until they reform, could be justified as what is best for the person."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 7. Eleanor and the Meaning of Afterlife.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wolf",
+    "camus"
+   ],
+   "concepts": [
+    "meaning-of-life",
+    "wolf-meaning",
+    "sisyphus",
+    "immortality"
+   ],
+   "relation": "Yang frames Eleanor's predicament as a dilemma: a finite life seems drained of value by its ending, while an immortal one collapses into boredom or into the disconnection of the 802 memory-wiped reboots. Camus's Sisyphus and Richard Taylor's desire-fulfillment view prove inadequate, so he adopts Susan Wolf's account of meaning as loving what deserves to be loved, which Eleanor's study of moral philosophy, her friendships, and her romance with Chidi satisfy even without God or eternity. John Martin Fischer's narrative approach then redeems the reboots as self-contained episodes, and Eleanor's note to herself in Scanlon's book shows memory wipes need not sever the story of a life."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 8. The Death of God and the Death of Meaning.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "sartre",
+    "camus"
+   ],
+   "concepts": [
+    "death-of-god",
+    "existence-precedes-essence",
+    "the-absurd",
+    "authenticity"
+   ],
+   "relation": "Montoya reads Chidi's breakdown upon learning he has been tortured for three hundred years as Nietzsche's death of God, quoting the Parable of the Madman from 'Jeremy Bearimy' to show how the guaranteed meaning of Chidi's worldview collapses into nihilism. Michael's midlife-crisis makeover and partying embody Camus's embrace of the absurd, while Sartre's existence precedes essence, abandonment, and anguish explain why Eleanor's confession to Michael and her sacrifice in the Judge's test count as authentic choices. With the Judge's verdict stripping away any hope of reward, the humans finally choose goodness for its own sake, which the chapter presents as the show's answer to nihilism."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - III Everything Is Fine.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 9. Send The Good Place to the Bad Place.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "machiavelli"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "machiavelli-ends",
+    "moral-particularism"
+   ],
+   "relation": "Sheldon argues the Season One twist makes the show itself a moral paradox: a series about ethics that lies to its audience for thirteen episodes, breaking the informal contract it built through 'truth in fiction'. Through Chidi's red-cowboy-boots lie and Eleanor's plot to murder Janet, 'The Eternal Shriek' stages Kant's absolute prohibition on lying against Eleanor's Machiavellian ends-justify-means reasoning, with confession portrayed as the only release from escalating deception. The chapter ends with Eleanor citing Jonathan Dancy's moral particularism to get Chidi to lie his way through the Bad Place, leaving viewers to decide whether the show's own deception is justified by the ethical conversation it forces."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 10. A Love Story between Theory and Praxis.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "utilitarianism",
+    "moral-particularism"
+   ],
+   "relation": "Altmann allegorizes Chidi as Theory and Eleanor as Praxis, whose 'love story' shows each completing the other: Chidi's lessons in utilitarianism and Kant's Categorical Imperative give Eleanor reasons, and eventually a lived example in Michael's feigned self-sacrifice, to confess her lie, while Eleanor's pragmatism in the Bad Place teaches Chidi that principles useless in the world must be revised. Michael's arc from designing psychological torture to giving Eleanor his portal pin demonstrates a theory of human nature, that people cannot change, being falsified by praxis. The chapter closes with Eleanor re-entering the cycle by finding Chidi's lectures online, recommending the union of theory and praxis as how anyone becomes a better person."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - 11. Those Agonizing Choices.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "foot"
+   ],
+   "concepts": [
+    "trolley-problem",
+    "categorical-imperative",
+    "moral-psychology",
+    "moral-particularism"
+   ],
+   "relation": "Romanowski traces Chidi's indecision from the cowboy-boots lie through the rock-paper-scissors panic attack, arguing the show treats the agony of deciding as the universal human moral condition rather than a professor joke. 'The Trolley Problem' makes Foot's dilemma literal torture, and the show pointedly never gives the right answer, confirming Chidi's claim that there are no clean solutions to hard moral questions. Eleanor's Dancy-inspired particularism pitch in 'Rhonda, Diana, Jake, and Trent' and Michael's 'I solved the Trolley Problem: you sacrifice yourself' moment, together with Chidi finally kissing Eleanor, show that acknowledging uncertainty is no excuse for inaction."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - IV The Brainy Bunch.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 12. How the Fork Did I Get Here.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "aquinas"
+   ],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity",
+    "aristotle-soul"
+   ],
+   "relation": "Tepley uses Eleanor waking in Michael's office to pose the problem of numerical personal identity: what makes the person in the chair the very same person who died seconds earlier on Earth? He eliminates the same-body theory, since bodies stay behind and lack spatiotemporal continuity, the same-mind theory of psychological continuity, which fails on the 802 reboots and implies the absurdity that two duplicates would both be Eleanor, and the same-soul theory, which offers no criteria for sameness. The 'Janet(s)' revelation that the humans are recomposed from 'essences' turns out to be Aristotelian-Thomistic hylomorphism, committing the show to a same-soul theory of identity it never defends."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 13. The Vessel of Knowledge Who Stole Our Hearts.md",
+   "kind": "chapter",
+   "philosophers": [
+    "boethius",
+    "jackson",
+    "aquinas",
+    "averroes"
+   ],
+   "concepts": [
+    "fate-vs-free-will",
+    "knowledge-argument"
+   ],
+   "relation": "Schiltz tests Janet's claim to know 'literally everything' against the philosophical definition of omniscience as believing all true propositions, finding she lacks knowledge of Michael's demonhood, of the future, and of current events on Earth. Divine-omniscience puzzles drawn from Averroes and Aquinas, and Boethius's solution that God sees all things in an eternal present, frame why Janet's ignorance of the future is what protects the characters' free will and moral responsibility. Frank Jackson's Mary thought experiment illuminates Judge Gen's failure to know what human life is like, and Janet's gradual acquisition of empathy across her reboots shows why her imperfect knowledge is a feature rather than a glitch."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 14. Is Kant the Reason Everyone Hates Moral Philosophy Professors.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aristotle"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "kant-humanity-formula",
+    "trolley-problem",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Duindam defends Kant against the charge that he makes moral philosophy professors insufferable, walking through maxims and the two-question Categorical Imperative test with frozen-yogurt and stealing examples, and arguing that Kant's notorious 'you cannot lie to the murderer' essay is an obscure legal point whose actual test permits lying to demons. On the trolley, the bridge, and Michael's forced organ-harvesting scenario, Kant's humanity formula, never treat persons merely as means, explains both Chidi's refusal to kill Eleanor and the difference between switching tracks and pushing a man. Tahani's sixty billion dollars in charity earning no points, and Eleanor's fruitless 'What's My Motivation' blitz versus her costly confession, vindicate Kant's claim that only a good will gives actions moral worth, while Aristotle supplies the closing lesson that being good takes practice, not just study."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - 15. Chidi’s Indecision.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dewey",
+    "kant",
+    "gilligan",
+    "bentham",
+    "aristotle",
+    "mill"
+   ],
+   "concepts": [
+    "care-ethics",
+    "deontology",
+    "utilitarianism",
+    "aristotle-golden-mean"
+   ],
+   "relation": "Vannatta argues Chidi's indecision exposes the shared flaw of the Big Three theories, Kantian deontology, Bentham and Mill's consequentialism, and Aristotle's virtue ethics of the golden mean: their rationalism pretends moral conflict can be eliminated by applying the correct rule, when Chidi's trolley terror shows moral situations are experienced as genuinely uncertain. Dewey's 'Three Independent Factors in Morals', the Good of desire, the Right of duty, and the Virtuous of communal praise, legitimizes that felt uncertainty and explains Eleanor's talent for finding option C between binary dilemmas. The chapter concludes that the show's real, unspoken moral theory is care ethics: partiality, relationship maintenance, and moral growth through the experience of being cared for, as Eleanor learns from Chidi's friendship rather than his lectures."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - V No Exit.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 16. Is Hell Other People.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre"
+   ],
+   "concepts": [
+    "the-look",
+    "bad-faith",
+    "authenticity"
+   ],
+   "relation": "Berk compares the show to Sartre's No Exit, where Garcin, Inez, and Estelle are locked in a drawing room as each other's torturers, and notes that Michael's experiment 'in the spirit of Sartre' fails because the four humans befriend and improve each other instead. She then corrects the standard reading: Sartre himself insisted 'Hell is other people' is conditional on twisted, bad-faith relationships of over-dependence on others' judgment, as with Tahani's craving for her parents' approval, and the footnote in Being and Nothingness about a 'radical conversion' to authenticity leaves room for healthy relations. Read this way, the show's message that flawed people can find salvation through each other is compatible with, not a refutation of, Sartre."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 17. The Forking Bullshirt of Being Alone Together in the Good Place.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre"
+   ],
+   "concepts": [
+    "sartre-freedom",
+    "bad-faith",
+    "existentialism",
+    "relational-autonomy"
+   ],
+   "relation": "Hubbard-Mattix frames the show's central paradox, each person is responsible for her choices yet those choices are formed by her relationships, as a collision between the existentialism of Sartre's 'condemned to be free' and the feminist idea of relational autonomy. Each character embodies a failure mode: Eleanor's futile rejection of social dependence, Chidi's evasion of accountability in bad faith, Tahani's destruction by living for others' approval, and Jason's unexamined loyalty to Pillboi, Donkey Doug, and the Jaguars. Their failures before Judge Gen teach the audience to choose relationships that enable growth while still owning one's choices."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - VI The Leap to Faith.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - 18. Heaven Is Other People.md",
+   "kind": "chapter",
+   "philosophers": [
+    "levinas"
+   ],
+   "concepts": [
+    "levinas-face",
+    "immortality",
+    "meaning-of-life"
+   ],
+   "relation": "Mayward examines the show's eschatology, arguing its points algorithm critiques the popular picture of Hell as eternal conscious torment, in the lineage of Jonathan Edwards, while missing historic Christian teaching about embodied resurrection. He then reads the series through Levinas, for whom ethics arises in the face-to-face encounter with the Other prior to any impersonal judgment, a structure mirrored in the show's two-shots and in Eleanor's spontaneous good deeds done before she understands them, and through Dietrich Bonhoeffer's 'religionless Christianity', in which Michael's self-sacrifice and the humans' repentance enact responsibility for neighbors without hope of reward. Salvation in the show is intersubjective transformation: where Sartre said Hell is other people, The Good Place suggests Heaven is other people."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - 19. Hinduism Gets More than Five Percent Right.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "buddhist-karma",
+    "dharma",
+    "atman-brahman"
+   ],
+   "relation": "Kaur and Gupta argue Hinduism got far more than five percent right, mapping the show's points onto karmic theory and the Bhagavad Gita's three kinds of action: right action, inaction, and wrong action. Eleanor's fruitless point-grubbing and selfless departure exemplify nishkama karma, desire-less action, while the 802 reboots and Janet's memory-wiped revivals mirror the birth-death-rebirth cycle on the way to self-realization. Ranking the cast on the Gita's ladder of unfoldment, desire-driven Eleanor and Jason below Tahani and knowledgeable Chidi, with Michael straying from his dharma and detached, duty-bound Janet nearest to Brahman, they show the series dramatizes the Gita's teaching that motivation, not the deed itself, determines an act's worth."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - VII What’s My Motivation.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - 20. Moral Health Warning.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "moral-psychology",
+    "categorical-imperative"
+   ],
+   "relation": "The moral philosopher Jonathan Dancy issues a warning against the show's premise that studying moral philosophy can make you a better person, the assumption behind Chidi's entire tutelage of Eleanor. What makes someone good is their motivation, and reading Kant and Scanlon is at best self-indulgent study that never redirects the will toward the right; indeed anyone genuinely motivated by the good would stop reading moral philosophy and go do good instead. He also contests the Kantian thought that only action done from a sense of duty earns moral credit: Douglas Wynegar's roses for his grandmother, given out of love, should count without any thought of obligation."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - 21. You Gotta Be Bad if You Wanna Be Good.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "aristotle"
+   ],
+   "concepts": [
+    "socratic-ignorance",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Shearer argues the show dismantles ethical dualism, the good/evil binary that sorts people wholly into the Good Place or the Bad Place and that underwrites real-world 'us versus them' thinking. Following Aristotle, being good is a learnable skill like reading or an instrument, acquired by practice and unlearning, not a fixed nature. Following Socrates in the Apology, progress begins with admitting you do not know, and the chapter shows that the characters who self-generate that admission, Eleanor confessing and Michael realizing he loves the humans, grow the most, while Jason's moral neutrality exposes a case the Good Place/Bad Place binary cannot classify at all."
+  },
+  {
+   "n": 38,
+   "file": "ch38 - 22. Professor Stomachache Needs Neuroscience.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dewey"
+   ],
+   "concepts": [
+    "embodiment",
+    "moral-psychology"
+   ],
+   "relation": "Zebrowski brings Antonio Damasio's Somatic Marker Hypothesis to bear on Chidi's stomachaches: gut feelings built from a lifetime of social experience are essential decision-making shortcuts, not noise corrupting pure reason, as the tirelessly deliberating frontal-lobe patient shows. Chidi's failure is not brain damage but a refusal to trust his own somatic alarms while insisting ethics can be computed, exactly the mind-body split that Scanlon's contractualism, where morality is negotiated with other people, and Dewey's 'morals is education' both reject. Combined with Mark Johnson's moral imagination, this explains how the dead humans keep growing morally after death: bodies, relationships, and culture continue tuning their ethical instincts."
+  },
+  {
+   "n": 39,
+   "file": "ch39 - 23. Like Boxing Gloves of Sadness.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "authenticity",
+    "kant-humanity-formula",
+    "moral-psychology"
+   ],
+   "relation": "Benko argues the show's deepest target is selfishness understood as inauthenticity: an over-investment in a self whose real motivations, Tahani's name-dropping, Chidi's moral filibustering, Jason's Acidcat fiasco, Eleanor's aggressive solitude, are hidden from the person herself. Drawing on Charles Guignon's account of authenticity, he shows that being true to yourself is not enough unless your self-expression enables others to become their authentic selves too, which is why Chidi's keeping of his promises across all 802 reboots is the show's moral core and why treating people as mere means fails on Kantian grounds. Eleanor's final willingness to lose Chidi rather than her better self demonstrates authenticity reoriented toward others, the show's answer to Schur's fourth-car-at-the-left-turn driver."
+  },
+  {
+   "n": 40,
+   "file": "ch40 - References.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 41,
+   "file": "ch41 - Residents of Neighborhood 12358W.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 42,
+   "file": "ch42 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "arendt-bureaucracy",
+   "name": "Bureaucracy as Rule by Nobody",
+   "philosopher": "arendt",
+   "domain": "political-social",
+   "what": "Arendt's account of bureaucracy as impersonal 'rule by Nobody', in which no one holds real authority or responsibility and everyone is deprived of the power to act.",
+   "why": "Chapter 11 reads the afterlife's point system as exactly such a bureaucracy, with Michael and Judge Gen shown to be powerless functionaries rather than rulers."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "james-meliorism",
+   "name": "Meliorism",
+   "philosopher": "william-james",
+   "domain": "pragmatism-american",
+   "what": "James's view that the world is unfinished and that sustained human effort can genuinely improve it, which is what gives our actions moral worth.",
+   "why": "Chapter 13 uses meliorism's conditions, foreseeable consequences and no do-overs, to argue that the Soul Squad's afterlife growth earns no points and cannot matter morally."
+  },
+  {
+   "ch": 21,
+   "type": "philosopher",
+   "suggested_slug": "jonathan-dancy",
+   "name": "Jonathan Dancy",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Contemporary moral philosopher best known for defending moral particularism, the view that there are no invariant moral principles.",
+   "why": "Chapter 21's climax has Eleanor cite Dancy by name to convert Chidi from Kantian rigidity so the group can lie its way through the Bad Place, and he is a contributor to the volume."
+  },
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "moral-particularism",
+   "name": "Moral Particularism",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The view that moral judgment must be made case by case from the specifics of a situation, without universal rules.",
+   "why": "Chapters 21 through 23 hinge on Eleanor's particularist defense of lying, which lets Chidi act at the moments his Kantian principles would paralyze him."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "moral-particularism",
+   "name": "Moral Particularism",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The view that moral judgment must be made case by case from the specifics of a situation, without universal rules.",
+   "why": "Chapter 22 casts Eleanor's persuading Chidi to drop universal rules in the Bad Place as the key moment where praxis corrects theory."
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "moral-particularism",
+   "name": "Moral Particularism",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The view that moral judgment must be made case by case from the specifics of a situation, without universal rules.",
+   "why": "Chapter 23 presents Eleanor's movie-example pitch of Dancy's particularism as the turning point in Chidi's overcoming of his indecision."
+  },
+  {
+   "ch": 28,
+   "type": "concept",
+   "suggested_slug": "dewey-moral-factors",
+   "name": "Three Independent Factors in Morals",
+   "philosopher": "dewey",
+   "domain": "pragmatism-american",
+   "what": "Dewey's pluralist view that the Good (desire), the Right (duty and law), and the Virtuous (social praise and blame) are irreducible factors in moral experience.",
+   "why": "Chapter 28 uses Dewey's three factors to diagnose the shared flaw of the Big Three ethical theories and to explain Eleanor's third-option moral reasoning."
+  },
+  {
+   "ch": 31,
+   "type": "concept",
+   "suggested_slug": "relational-autonomy",
+   "name": "Relational Autonomy",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Feminist view that persons and their choices are formed within social relationships rather than by atomistic, independent selves.",
+   "why": "Chapter 31 explicitly frames the show's paradox of individual accountability versus social dependence through the tradition of relational autonomy."
+  },
+  {
+   "ch": 33,
+   "type": "philosopher",
+   "suggested_slug": "bonhoeffer",
+   "name": "Dietrich Bonhoeffer",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "German pastor-theologian executed by the Nazis, known for 'religionless Christianity' and an ethics of responsibility to neighbors modeled on Christ.",
+   "why": "Chapter 33 devotes a full section to reading the Soul Squad's sacrificial love and Michael's conversion as Bonhoeffer-style religionless Christianity."
+  },
+  {
+   "ch": 34,
+   "type": "concept",
+   "suggested_slug": "nishkama-karma",
+   "name": "Nishkama Karma (desire-less action)",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "Bhagavad Gita teaching that one must act without desire for the fruits of one's actions, since corrupt motivation voids an act's worth.",
+   "why": "Chapter 34 reads Eleanor's selfless departure and Janet's detachment as nishkama karma, the Gita's answer to the show's motivation problem."
+  },
+  {
+   "ch": 37,
+   "type": "concept",
+   "suggested_slug": "ethical-dualism",
+   "name": "Ethical Dualism (the good/evil binary)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The view that good and bad are mutually exclusive categories into which persons and actions must be wholly sorted.",
+   "why": "Chapter 37 argues that moral growth, Jason's moral neutrality, and Michael's redemption all expose the Good Place/Bad Place dualism as false."
+  },
+  {
+   "ch": 38,
+   "type": "concept",
+   "suggested_slug": "somatic-marker-hypothesis",
+   "name": "Somatic Marker Hypothesis",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Damasio's neuroscience claim that bodily 'gut feelings' built from social experience are essential shortcuts in moral reasoning rather than noise.",
+   "why": "Chapter 38 explains Chidi's stomachaches and his classroom-versus-real-life collapse through Damasio's somatic markers."
+  },
+  {
+   "ch": 38,
+   "type": "concept",
+   "suggested_slug": "scanlon-contractualism",
+   "name": "Contractualism (What We Owe to Each Other)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "T.M. Scanlon's view that an act is wrong if principles permitting it could be reasonably rejected by others affected.",
+   "why": "Chapter 38 reads Chidi's note-inscribed Scanlon book and the show's morality-is-other-people theme as contractualism in action."
+  }
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "unit": "u439",
+ "book": "002 - The Simpsons and Philosophy - The D'oh! of Homer",
+ "part": "1/2",
+ "path": "B:\\ai_philosophy\\data\\philosophy_pop_culture\\markdown\\002 - The Simpsons and Philosophy - The D'oh! of Homer",
+ "range": [
+  1,
+  23
+ ],
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - section-1.md",
+   "words": 0
+  },
+  {
+   "n": 2,
+   "file": "ch02 - The Simpsons and Philosophy.md",
+   "words": 508
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Epigraph.md",
+   "words": 127
+  },
+  {
+   "n": 4,
+   "file": "ch04 - The Simpsons and Philosophy.md",
+   "words": 256
+  },
+  {
+   "n": 5,
+   "file": "ch05 - The Simpsons and Philosophy.md",
+   "words": 52
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Title Page.md",
+   "words": 0
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Dedication.md",
+   "words": 18
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Acknowledgements.md",
+   "words": 139
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Introduction.md",
+   "words": 940
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Part I - The Characters.md",
+   "words": 4
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 1 - Homer and Aristotle.md",
+   "words": 6133
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 2 - Lisa and American Anti-intellectualism.md",
+   "words": 3399
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 3 - Why Maggie Matters Sounds of Silence, East and West.md",
+   "words": 3386
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 4 - Marge’s Moral Motivation.md",
+   "words": 3923
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 5 - Thus Spake Bart On Nietzsche and the Virtues of Being Bad.md",
+   "words": 6614
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Part II - Simpsonian Themes.md",
+   "words": 4
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 6 - The Simpsons and Allusion “Worst Essay Ever”.md",
+   "words": 4311
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 7 - Popular Parody The Simpsons Meets the Crime Film.md",
+   "words": 5551
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 8 - The Simpsons, Hyper-Irony, and the Meaning of Life.md",
+   "words": 6497
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 9 - Simpsonian Sexual Politcs.md",
+   "words": 6390
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Part III - I Didn’t Do It Ethics and The Simpsons.md",
+   "words": 11
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 10 - The Moral World of the Simpson Family A Kantian Perspective.md",
+   "words": 4983
+  },
+  {
+   "n": 23,
+   "file": "ch23 - 11 - The Simpsons Atomistic Politics and the Nuclear Family.md",
+   "words": 6629
+  }
+ ],
+ "content": [
+  2,
+  4,
+  9,
+  11,
+  12,
+  13,
+  14,
+  15,
+  17,
+  18,
+  19,
+  20,
+  22,
+  23
+ ]
+}

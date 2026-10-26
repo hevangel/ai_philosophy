@@ -1,0 +1,545 @@
+{
+ "book": "036 - The Legend of Zelda and Philosophy - I Link Therefore I Am",
+ "unit": "u058",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - The Legend of Zelda and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Popular Culture and Philosophy Series Editor George A. Reisch.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - The Legend of Zelda and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Acknowledgements.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Setting Up the Game.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates"
+   ],
+   "concepts": [
+    "socratic-method"
+   ],
+   "relation": "Editor Luke Cuddy's introduction: he argues videogames, and the Zelda franchise in particular, deserve philosophical attention, then frames the book's spirit with Plato's Meno. Just as Socrates' questioning leads the slave boy from thinking he knows to actually knowing that a double-sized square has area sixteen, the gamer's struggle through dungeons is rewarded with the item-room fanfare (the ladder, the silver arrow) as an 'AHA!' feeling of insight. The chapter lists the franchise's games and the book's guiding questions, stressing that the gamer guides Link rather than passively watching."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Level 1 - Emotion, Experience, and Thought.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Evaluating Zelda.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-tripartite-soul",
+    "paradox-of-fiction"
+   ],
+   "relation": "Frome tackles the paradox of fiction through Wind Waker: why do we fear Gohma, feel sad when Link leaves his grandmother on Outset Island, or care when Tetra's identity is revealed, though we know none of it is real? He rejects the illusion theory (we never suspend disbelief enough to call the police), Carroll's thought theory (fear is too fast and too vivid for mere thoughts), and Walton's pretend theory (involuntary pretending and the uniform way all players see the sail break it). Instead he argues for a multi-level mind, modeled on Plato's divided soul in the Republic and Fodor's mental modules: local unconscious appraisals react to the fire as if real, while a global appraisal of reality-status keeps us in our chairs."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Game versus Place.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "embodiment"
+   ],
+   "relation": "Wilson argues that Wind Waker's Ballad of Gales warp sacrifices environmental presence for goal-oriented play: the long, uneventful sails where waves, cloud patterns, and quiet soundscapes dominate are precisely when Hyrule feels like a place, and teleporting turns it into a disposable grid of destinations. Drawing on Castells' spaces of flows versus places, Schivelbusch's 'annihilation of space and time' by the railway (the player becomes a 'human parcel'), and de Certeau's opposition between the panoptic map view and the embodied everyday view, he contends the very existence of the warp option colors all distance traveled. Even panoramic pleasures like hang-gliding over Outset Island, he notes, must be balanced against pure map-grid travel."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - End Game.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "informal-fallacies"
+   ],
+   "relation": "Arp and Milarker use Zelda examples to teach informal logic: Rob's 'all gamers are geeks' is a hasty generalization, the argument that the original Zelda is chronologically first commits equivocation (Earth release order is not Hyrule chronology, since Miyamoto named Ocarina of Time earliest), and debates over banning violent games trade in false dilemmas, ad hominem, and slippery slopes. The chapter sets out premises, conclusions, deductive versus inductive arguments, validity and soundness, strength and cogency, with worked examples from Clawshot reasoning to Best Buy Wii lines. Its point is that fallacious reasoning harms real lives, so readers should audit every argument in the book and in the gaming world."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Level 2 - Dodongo and Death.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Why I Can Play Zelda for Four Hours Straight.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "camus",
+    "frankl",
+    "nietzsche"
+   ],
+   "concepts": [
+    "existence-precedes-essence",
+    "sisyphus",
+    "frankl-meaning",
+    "death-of-god"
+   ],
+   "relation": "Fellela reads Link's endless drudgery (slashing grass for rupees, collecting bottles, leaving the final Ganon fight at a 'permanent pause') through existentialism: Sartre's 'existence precedes essence' is dramatized in Ocarina of Time's opening, where Link must acquire sword, fairy, and skills to make himself the hero, and Nietzsche's 'God is dead' call to become gods is answered by Link restoring meaning to a hostile Hyrule. Camus' Sisyphus figures the repetitive world-saving quest as an absurd hero's owned task, and Frankl's logotherapy (meaning as the tension between what one is and what one should become) explains why humiliating menial tasks, in camp or in laundromats or in Zelda, become bearable and even meaningful. Link's fixed options even illustrate Frankl's point that freedom is the stance we take toward conditions, not freedom from them."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Game Over.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "plato",
+    "hegel",
+    "williams"
+   ],
+   "concepts": [
+    "immortality",
+    "death-of-god",
+    "meaning-of-life"
+   ],
+   "relation": "Janssen argues Zelda is quietly obsessed with death: turning the console off models death as pure absence of experience, which we cannot otherwise comprehend, and gives the gamer a comforting structured formula in place of a chaotic universe. Link, resurrected endlessly to serve the player, is condemned to Hegelian purgatory and what Bernard Williams called the tedium of immortality, while dungeon bosses, who die once and stay dead, are the only genuinely mortal, hence most human, beings in Hyrule. The Wind Waker prologue's eternally returning Hero does suggest Plato-style dualism with an immortal soul, but the chapter notes that Nietzsche's assault on faith destroyed dualism's credibility, leaving the series as a vessel for both materialist nothingness and romantic reincarnation."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Level 3 - Don’t Get Manhandled by Manhandla—or . . . Mind-handled.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Can We Play Beyond Good and Evil.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "master-slave-morality"
+   ],
+   "relation": "Drzaic and Rauch argue Link is 'good by default' because ludus play (rule-bound, goal-directed, winning the designed story) locks the player into the designers' morality, while paidia play, player-invented goals like the Ocarina of Time flying glitch or the Fierce Deity rampage in Majora's Mask, escapes the story's moral frame entirely. They then map this onto Nietzsche's Beyond Good and Evil: protagonist Link embodies slave morality (reactive, fear-avoiding, pity, patience, restoring the old Hyrule Ganon disturbed), while the elite paidia player is value-creating like the master, honoring power and secrecy (Huizinga) rather than the protagonist's virtue. The chapter concludes that in videogames the good/evil opposition is welded to ludus, and Zelda fans' naughtiness shows play can go beyond good and evil."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Solutions to the Problem The youth whose destiny it is to lead Hyrule to the.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "ship-of-theseus",
+    "personal-identity"
+   ],
+   "relation": "Robison asks how Link stays the same person through Ocarina of Time's child/adult switches, Twilight Princess's wolf form, and Wind Waker's consciousness-projection into seagulls and mages. Physical-continuity views fail because Link's body changes or is left behind; Locke's memory-based psychological continuity fails because adult Link's past hasn't happened yet when he travels back. After a Ship of Theseus variant (Ganon reassembling Tetra's sunken planks) she proposes that in Zelda's stipulative metaphysics, destiny, the goddess-given roles of courage, wisdom, and power, is the necessary and sufficient condition of identity, fitting videogame universes whose metaphysics are fixed by designers."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Level 4 - The CDi Games Don’t Count! Timelines and Miyamoto.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Putting Together the Triforce.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis"
+   ],
+   "concepts": [
+    "possible-worlds"
+   ],
+   "relation": "Duncan and Gee study the Nintendo NSider forum threads where fans build Zelda timelines, showing that their marshaling of evidence (Ganon's trident, whether the Master Sword is 'legendary' because of an earlier hero or its sage creators, Hyrule's geography as a marker of time) mirrors scientific argumentation. Using Latour and Woolgar's Laboratory Life, they argue that what 'counts' as evidence, even down to excluding the BS Zelda and CD-i games as non-canon, is socially constructed within a community of practice, not value-free data. David Lewis's plurality of worlds supplies the metaphysics for the split-timeline debate after Ocarina of Time, and the chapter concludes that knowledge in general, in labs and in fandoms alike, is constructed through tools, discourse, and interaction."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Zelda Is a Communication Game!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "ockham",
+    "wittgenstein",
+    "leibniz"
+   ],
+   "concepts": [
+    "ockham-razor",
+    "underdetermination"
+   ],
+   "relation": "Johnson argues that because Zelda has no single authorial vision (teams, outside developers, cryptic Aonuma interviews), the timeline is a 'communication game' fans play together. Interpretation follows the hermeneutic circle of Heidegger and Gadamer (parts inform the whole, as when Wind Waker's references to Ganon's earlier attacks make sense of the series), faces Leibnizian underdetermination since infinitely many theories fit the games, and uses Ockham's razor, whose failures (the y=2x formula) show that simplicity is relative to a community's training, as in Wittgenstein's pupil who suddenly counts '1,004, 1,008'. Hence Miyamoto's own claim that Zelda is a communication game: designers supply puzzle pieces, and the fan community creates the meaning."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Level 5 - Time and Space in Hyrule.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Triforce Holds a Prosperous Future.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "eternal-recurrence"
+   ],
+   "relation": "Sherlock reads Majora's Mask's repeating three days as Nietzsche's eternal recurrence from The Gay Science, the demon's demand that we affirm the same life 'innumerable times more', but then shows the Ocarina disrupts the mapping: the Inverted Song of Time and Song of Double Time make each cycle a non-repetition, dissolving the recurrence test's existential weight into a new anxiety about fragmented time. Items that survive the reset and rupees banked in Clock Town give time a material value, while the Deku Scrub transformation scene ('You'll stay looking that way forever') is analyzed as uncanny temporality via Freud's Das Unheimliche, with Derrida's claim that there is no non-metaphysical concept of time framing the conclusion that even game time cannot be separated from its representation."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Hyrule Regained.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein"
+   ],
+   "concepts": [
+    "language-games"
+   ],
+   "relation": "Through an opening dialogue where a Tax Inspector absurdly appears in Level 9, Siabra-Fraile distinguishes physical from logical space in the NES Zelda: obstacles are chains of conditions (locked door needs key, key needs rupees, rupees need octoroks, octoroks need a sword), and this logical distance, not geometry, is what makes the adventure. Sprites mean what you can do with them (a tree burns, a rock explodes; water is 'the thing that blocks movement and holds zolas'), characters and objects combine like words in semantic fields and like words, phrases, and discourse build screens, levels, and the map. The rules that make Hyrule coherent and playable are, in Wittgenstein's sense, a language game woven into an activity or form of life, so Link can finally prove the inspector out of place."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Level 6 - Treasures of the Hyrulopolis.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - A Win for Zelda.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Cuddy argues that Zelda games can genuinely be art by adapting three aesthetic theories: Walton's make-believe account (art styles are rules for how to 'look', and a novice friend who plays A Link to the Past like a shooter is applying the wrong rules), Rosenstein's transparent/translucent/opaque artwork-worlds (Zelda's avatar, music, terrain, and story make it translucent, while Adventure is mere message and Second Life too close to life), and Panofsky's claim that objective properties demand aesthetic experience. The decisive third property is freeplay, gameplay not tied to beating the game, like exploring with the flippers to find the bottle under the bridge. Some games (Tetris, Super Mario Brothers) fail the test, so some videogames are art and some are not."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Paradise Found.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "kant",
+    "kierkegaard"
+   ],
+   "concepts": [
+    "utopia-dystopia",
+    "plato-justice",
+    "kant-aesthetics",
+    "political-animal"
+   ],
+   "relation": "Brown reads The Minish Cap's Hyrule as a working utopia: its Royal Family, guards, and market traders loosely realize Plato's Republic classes from Book V onward, but with fluid social boundaries (Zelda wanders the festival unharassed), no slavery, and relaxed state control that Plato's static order lacked. The town matches Aristotle's polis design (walled, defensible, right-sized, river-powered yet self-sufficient), while the surrounding pastoral landscape embodies Kantian disinterested beauty in nature and the Schillerian idea that through beauty we arrive at freedom. Its vague, prophet-free Picori religion of benevolent Christs-in-miniature needs no Kierkegaardian leap of faith, so unlike Hitler's Germany or Stalin's Russia, Hyrule is utopia actually achieved, and explorable, through Link."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Level 7 - You are Nearing the End of Your Quest . . . Grumble, Grumble . ..md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - A Link to the Present.md",
+   "kind": "chapter",
+   "philosophers": [
+    "schopenhauer",
+    "kant",
+    "foucault",
+    "dennett"
+   ],
+   "concepts": [
+    "schopenhauer-will",
+    "transcendental-idealism",
+    "free-will-determinism",
+    "cartesian-theater"
+   ],
+   "relation": "Compagno argues that the word 'I' in Zelda simultaneously names Link, the virtual body, and the player, the invisible will, and builds this into a 'Schopenhauerian Console': as Schopenhauer held, we have freedom of action but not freedom of will, since the decisions of the unknowable will never appear in consciousness (against Descartes' free mind and Dennett's Cartesian theater critique). Kant's transcendental subject, standing at the border of experience, becomes the player's perspective from which Hyrule exists, what Foucault would call an empirical-transcendental doublet. The payoff: Link's quest is fated and scripted, yet the player wills it in a perpetual present, enacting Schopenhauer's lesson that a determined life is still lived as one's own free act."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Will You Say Yes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "plato"
+   ],
+   "concepts": [
+    "eternal-recurrence",
+    "will-to-power",
+    "amor-fati",
+    "plato-forms"
+   ],
+   "relation": "Bruce finds Nietzsche's eternal return in the NES Zelda's clockless, endlessly restartable structure: the same game recurs every time you press start, yet since the player changes, each playthrough manifests the forces anew, and the demon's question 'do you desire this once more?' becomes 'do you will to play once more?'. Link's growth through eight dungeons to face Ganon is read as will-to-power, personal strength and self-overcoming rather than mere domination, and saying yes to the struggle is amor fati. Against Plato's two-worlds doctrine of Forms and the Christian after-worldly (both Nietzsche's targets), the original Zelda offers no guide, no Bible, and no linear time to a final judgment: this looped world is the only one, so it must be affirmed."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Level 8 - The Triforce—Need I Say More.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - The Golden Power.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "simulacra"
+   ],
+   "relation": "Dugan reads the Triforce through Lacan's psychology of the dyad and the social symbolic: Link is the player's dyadic anchor ('Miyamoto's Framework' avatar, named because he links us to the system), while the gameworld we progressively master and explore is the social symbolic. Each Triforce piece maps onto the triangle: Courage completes the two-way player-Link bond, Power is the sword/bomb/arrow system consummated in the A Link to the Past final battle, and Wisdom is the realization that these tidy symbolic trinities (Father/Son/Holy Ghost, Brahma/Vishnu/Shiva, the three branches of US government) are simplifications. The 'golden power' is seeing that all such systems are representations posing as totality, offering pre-designed, illusory choice, and inferring who designed the games we are in."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - The Lesson and Legacy of Din, Nayru, and Farore.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "plato",
+    "kant"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "plato-ring-of-gyges",
+    "plato-justice",
+    "deontology"
+   ],
+   "relation": "Horn argues the three Triforce pieces are morally neutral: by Kant's Groundwork, only the good will that acts from duty (Link never rescues Zelda for a reward) is good without qualification, so courage, wisdom, and power can each serve evil, and the Triforce would have corrupted Zelda or Link too if fortune had dealt it otherwise. Plato's Ring of Gyges and the Glaucon-Socrates debate explain Ganondorf: he chose to lust for power, and his wealth, status, and fear-based honor are hollow because justice is good for its own sake and his soul is out of balance (which is why the Triforce split at his touch in Ocarina of Time). Aristotle's doctrine of the mean then defines proper use: Link's courage between cowardice and rashness (getting the map, compass, and weapon before the boss), Zelda's internalized prudence, and Ganondorf's power in insatiable excess."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Level 9 - Don’t Patra-nize Me!.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Rescuing Princess Zelda.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plantinga",
+    "mackie"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "best-possible-world",
+    "free-will-determinism"
+   ],
+   "relation": "Collins runs the problem of evil in Hyrule: Mackie's logical problem (an all-good, all-powerful God inconsistent with Ganondorf's evil) partially dissolves because nothing in the games says the three goddesses are omnipotent or omniscient, and Plantinga's free will defense, plus the best-of-all-possible-worlds idea, shows the Triforce is itself a free-will device, since a wish-granter that could grant any desire cannot limit evil without undoing itself. A 'game-making theodicy' modeled on Hick's soul-making theodicy explains why evil must be excessive and randomly distributed (else players would never strive to grow), and why the goddesses therefore provided a chosen hero: Link, unlike anyone on Earth, is the divine answer to excessive evil, divinely marked to reclaim the Triforce and rescue Zelda."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Zelda and Reality.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir",
+    "plato"
+   ],
+   "concepts": [
+    "objectification",
+    "becoming-woman",
+    "woman-as-other",
+    "plato-forms"
+   ],
+   "relation": "Havstad and Jahng inventory every Zelda across the series (royal, wise, resolved, foreseeing, yet passive, imprisoned, even turned to stone in The Minish Cap or asleep through all of Adventure of Link) and read the maiden typology through Beauvoir's The Second Sex: woman as Idea, modeled on Plato's Forms, gives men a feminine ideal that real women are then judged against, and 'women are not born, but made' explains how femininity is a male-defined myth serving male interests. Zelda is the glorified yet objectified prize whose passivity lets Link's transcendence happen, and Aonuma's 'reality over realism' design philosophy explains why such stereotypes feel true to players. Sheik and Tetra, who act while disguised as (or turned into) something other than the princess, are the promising cracks in the ideal."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - 20 - Getting to Know the World Next Door.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "This afterword reflects on the vanishing instruction manual and the blurring boundary between game worlds and the real one: yesterday's games needed booklets for Hurricane Kicks, while Wii-era worlds teach themselves through naturalistic movement, so 'learning the game is the same as playing the game'. Ngim argues games were never utopias but gated communities whose very limitations (impassable rivers, knowable boards) define them, and that game structures now leak into everyday life through loyalty points, serious games, and phones as portals. He closes by urging that game studies become its own discipline rather than being fragmented across sociology, philosophy, and computer science."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Heroes of Hyrule.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 39,
+   "file": "ch39 - The Legend of Zelda and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 40,
+   "file": "ch40 - The Legend of Zelda and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 41,
+   "file": "ch41 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 9,
+   "type": "concept",
+   "suggested_slug": "paradox-of-fiction",
+   "name": "The Paradox of Fiction",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The puzzle that we feel genuine emotions (fear, grief, relief) toward characters and events we know do not exist.",
+   "why": "Chapter 9 is organized around explaining why players fear Gohma and grieve for Link's grandmother in Wind Waker despite knowing the game is not real, testing illusion, thought, and pretend theories against it."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "space-of-flows",
+   "name": "Space of Flows vs Space of Places",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Manuel Castells's distinction between networked movement-space, where places are mere nodes in flows, and lived place-space with its own meaning.",
+   "why": "Chapter 10 uses this contrast to argue that the Ballad of Gales warp turns Wind Waker's sea into a space of flows, degrading environmental presence and the felt meaning of Hyrule's places."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "informal-fallacies",
+   "name": "Informal Fallacies and Critical Thinking",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The catalogue of everyday bad-reasoning patterns (hasty generalization, equivocation, false dilemma, ad hominem, slippery slope) and the standards of valid, sound argument used to expose them.",
+   "why": "Chapter 11 is a full lesson in argument analysis, diagnosing Zelda-community and real-world reasoning errors from 'all gamers are geeks' to videogame-violence panic, and taxonomy has no logic or fallacy concept."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "ludus-paidia",
+   "name": "Ludus and Paidia (modes of play)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Roger Caillois's distinction between rule-bound, goal-directed play (ludus) and spontaneous, unstructured free play (paidia), adapted to games by Gonzalo Frasca.",
+   "why": "Chapter 16's entire argument about Link's forced morality and the player's glitch-hunting freedom is built on the ludus/paidia pair, which no existing taxonomy slug covers."
+  },
+  {
+   "ch": 19,
+   "type": "philosopher",
+   "suggested_slug": "bruno-latour",
+   "name": "Bruno Latour",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Philosopher and sociologist of science who argued, in Laboratory Life with Steve Woolgar, that scientific facts and evidence are constructed through social practice, tools, and networks rather than discovered ready-made.",
+   "why": "Chapter 19 uses Latour's framework as its backbone to show that Zelda fan timeline debates socially construct evidence and knowledge exactly the way laboratories do."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "hermeneutic-circle",
+   "name": "The Hermeneutic Circle",
+   "philosopher": "heidegger",
+   "domain": "existentialism-phenomenology",
+   "what": "The idea that interpretation is circular: parts are understood through the whole and the whole through the parts, iteratively refined (Heidegger, Gadamer).",
+   "why": "Chapter 20 models how Zelda fans interpret the series, Ganon's recurrence making sense of Wind Waker's references, gossip stones pointing to the whole timeline, as exactly this circle."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "underdetermination",
+   "name": "Underdetermination of Theory by Evidence",
+   "philosopher": "leibniz",
+   "domain": "knowledge-science-reality",
+   "what": "The thesis, rooted in Leibniz and later Quine-Duhem, that any finite body of evidence is compatible with infinitely many distinct theories, so evidence alone never fixes interpretation.",
+   "why": "Chapter 20 uses underdetermination (via the y=2x guessing game) to show Zelda timeline data admit endless rival readings, which is why Ockham's razor and community standards of simplicity become necessary."
+  },
+  {
+   "ch": 22,
+   "type": "philosopher",
+   "suggested_slug": "freud",
+   "name": "Sigmund Freud",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Founder of psychoanalysis whose essay Das Unheimliche (The Uncanny) analyzes the frightening as the familiar returned through repression.",
+   "why": "Chapter 22 devotes a full section to Majora's Mask's uncanny temporality, reading Link's Deku transformation and the hidden time songs through Freud's uncanny and its doubling repetitions."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "aesthetic-experience",
+   "name": "The Aesthetic Experience and the Art Status of Games",
+   "philosopher": "",
+   "domain": "kant-german-idealism",
+   "what": "The distinctive perceptual-emotional engagement with artworks, which some philosophers ground in objective properties of the object (Panofsky) or in rule-governed make-believe (Walton, Rosenstein).",
+   "why": "Chapter 25 argues Zelda is art because its make-believe viewing rules, translucence, and freeplay demand aesthetic experience; taxonomy has no philosophy-of-art concept besides Kant's aesthetics, which the chapter does not invoke."
+  },
+  {
+   "ch": 31,
+   "type": "philosopher",
+   "suggested_slug": "lacan",
+   "name": "Jacques Lacan",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "French psychoanalyst who modeled the psyche on dyadic relations of the ego to anchor-objects and on the subject's entry into the social symbolic order of language and culture.",
+   "why": "Chapter 31 uses Lacan's dyad and social symbolic as its main framework: Link is the player's dyad, Hyrule the social symbolic, and the Triforce the triangle that ties them together."
+  }
+ ]
+}

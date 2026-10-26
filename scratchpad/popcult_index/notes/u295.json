@@ -1,0 +1,395 @@
+{
+ "book": "205 - The Wheel of Time and Philosophy - A Portion of Wisdom",
+ "unit": "u295",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Table of Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Series Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - List of Contributors.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Acknowledgments.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Note.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - STORIES HAVE POWER.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis"
+   ],
+   "concepts": [
+    "possible-worlds"
+   ],
+   "relation": "Xhignesse defends The Wheel of Time against the charge that it merely derives from Tolkien, using philosophy of literature to argue that stories are necessarily incomplete and rest on 'background' and a defeasible Reality Assumption (drawing on David Lewis's 'Truth in Fiction'). He argues that because our world lies in WoT's background and Jordan deliberately laced The Eye of the World with Lord of the Rings allusions (Trollocs, Padan Fain as Gollum, Rand as Arthur), the events of LotR are literally true in WoT's distant past, making Jordan's mytho-poetic project a fictional-mythology-within-a-fictional-mythology rather than lazy imitation. He also deploys Baxandall on influence and Walton/Friend on genre's standard versus contra-standard properties to show influence enables originality."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "roland-barthes"
+   ],
+   "concepts": [],
+   "relation": "Cooke reads WoT's authorship through Roland Barthes's 'The Death of the Author,' noting the literal death of Robert Jordan (James Oliver Rigney Jr.) forced Brandon Sanderson to complete the series first as a reader and then as a writer inventing plot points like the divisive Androl. He argues that although Barthes wanted the author's authority transferred to readers to liberate meaning, WoT fans keep 'returning the author' by reading Jordan's Vietnam service into Rand's Asha'man and the Path of Daggers campaign. He frames Jordan as heir to medieval epic poets like Chretien de Troyes who defined authorship through their relationship to predecessors, and compares Sanderson finishing Jordan's work to Jean de Meun completing Guillaume de Loris's Romance of the Rose."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "epistemic-injustice"
+   ],
+   "relation": "Phillipson uses Thom Merrilin the gleeman in the Amazon series to illustrate standpoint epistemology, arguing (via Heidi Grasswick) that Thom's socially marginal position as a wandering artist grants him epistemic privilege: he understands the murdered Aiel and empathizes with Mat looting a corpse where settled Andorans only fear and judge. She then presses the limits of the theory through Thom's failures, his inability to convey his knowledge to his channeling nephew Owyn, his killing of the Darkfriend innkeeper Dana, and his mistaken diagnosis of Mat, drawing on Bat-Ami Bar On's critique that valorizing marginality for its own sake and grounding privilege in mere distance from a social center is problematic, since Darkfriends are the most marginal of all."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - ALIVE, GLORIOUSLY ALIVE, TODAY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "camus"
+   ],
+   "concepts": [
+    "the-absurd"
+   ],
+   "relation": "Pike stages Rand al'Thor's final confrontation with the Dark One in A Memory of Light as a live version of anti-natalism, examining David Benatar's misanthropic, philanthropic, and inevitability-of-extinction arguments that coming into existence is always a serious harm and that the Forsaken embody. He argues Rand's answer to the Dark One's offer of oblivion mirrors a rebuttal to Benatar: because argument 'in the alternative' invites the charge of dogmatism (citing Hitchens that what is asserted without evidence can be dismissed without evidence), and because extinction guarantees we can never improve, Rand chooses persistence and the hope of doing better. He closes with Camus that value lies in the struggle itself, however absurd."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "eternal-recurrence",
+    "amor-fati",
+    "ubermensch"
+   ],
+   "relation": "Michels reads the Amazon series' first two seasons as a Nietzschean tale organized around eternal recurrence, treating the turning Wheel as Nietzsche's 'existential imperative' and greatest weight: the ferryman who dies vainly saving his son fails the test, while Loial urges the heroes to make themselves unforgettable. He maps Nietzsche's monumental, antiquarian, and critical uses of history onto Moiraine's lesson about the song of Manetheren, contrasts the Ubermensch with the 'last man,' and reads Moiraine's will to power against the ascetic, life-denying Way of the Leaf of the Tuatha'an. Lanfear and Ishamael embody nihilism and resentment, while amor fati names the life-affirming embrace of fate Nietzsche prized."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "adorno",
+    "frankfurt"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "problem-of-evil",
+    "eternal-recurrence"
+   ],
+   "relation": "Silver argues WoT gives a new spin on the free-will defense to the problem of evil: when Rand weaves a world without Shai'tan in A Memory of Light, Elayne appears as if turned, robbed of the ability to be an individual, showing that freedom's value lies in authentic individuality and that abolishing evil equals a world run entirely from the Dark One's single perspective. On fate, he reads ta'veren as freedom-affirming rather than controlling and defends Rand's Dragonmount epiphany via 'deep self' compatibilist views (Frankfurt, Watson) while calling it partly bad faith. On the Wheel's eternal recurrence he sets Nietzsche's amor fati against Adorno's charge that it is a failure of hope, arguing Rand's 'do better next time' is hope, not acceptance."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "hegel-history"
+   ],
+   "relation": "Thrasher reads the Pattern and the Dragon Reborn as a philosophy of history and messianism echoing Jewish and Christian traditions, drawing on Karl Lowith's finis and telos of history, Reinhold Niebuhr's three levels of messianism (egoistic-nationalistic, ethical-universalistic, prophetic), and Paul Ricoeur's progress, ambiguity, and hope. He maps the Aiel as the chosen 'People of the Dragon,' Rand's Peace Accords as breaking the world's pattern of violence into a Fourth (Messianic) Age of peace in time rather than eternity, and Aviendha's visions of Aiel destruction as the prophetic call to give the Aiel a purpose. He quotes the Karaethon Cycle to show the Dragon Reborn slaying his people 'with the sword of peace.'"
+  },
+  {
+   "n": 18,
+   "file": "ch18 - THE WEB CAN BE WOVEN MANY WAYS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes"
+   ],
+   "concepts": [
+    "state-of-nature",
+    "social-contract"
+   ],
+   "relation": "Christensen and Holmes read the Third Age as Hobbes's state of nature, a postlapsarian chaos following the Breaking where Lews Therin's prideful attempt at purified sovereignty destroyed the Leviathan of the Age of Legends. They argue channeling the One Power is morally neutral power that only becomes sovereignty through practice, and that the Aes Sedai model Hobbesian order through their seven Ajah and, above all, the Three Oaths. Drawing heavily on Giorgio Agamben's Homo Sacer and The Sacrament of Language, they treat oaths and curses as the 'sacraments of power' founding sovereignty on the trustworthiness of the logos, using Moiraine's New Spring investiture to show how language itself binds and confers authority."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "butler",
+    "foucault"
+   ],
+   "concepts": [
+    "gender-performativity"
+   ],
+   "relation": "Jones examines Renna breaking Egwene into a damane in the Amazon series to argue that identity is a social performance policed by power, drawing on Erving Goffman's dramaturgical self and Judith Butler's gender performativity (scripts, props, and 'gender trouble' exemplified by Min's dress). He argues the a'dam enforces Renna's directing so completely that a damane cannot even pretend to be subjugated while holding a true self in reserve, taking performativity to its extreme. Using Dahl and Lukes on power, Becker on labeling, and Giddens's structuration, he shows how Seanchan institutional power makes labels like damane and marath'damane stick, and asks bleakly whether any agency (even suicide) remains."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "aquinas",
+    "boethius",
+    "ockham"
+   ],
+   "concepts": [
+    "fate-vs-free-will",
+    "free-will-determinism"
+   ],
+   "relation": "Kowalski uses Min Farshaw's visions in the Amazon series to explore whether foreknowledge is compatible with free action, tracing the problem from Aristotle and Cicero through Augustine. He lays out the argument that if Min truly foreknows Tam raising Rand, it must come true and thus seems unfree, then surveys reconciliation projects: Boethius and Aquinas make God timeless so he does not literally foreknow, while Augustine (in the dialogue with Evodius) argues foreknowledge does not cause what is foreknown, so choices explain foreknowledge rather than vice versa. He notes Min is not timeless and her visions are fallible (Mat spears rather than stabs Rand), concluding WoT keeps its characters both free and fated for dramatic tension while offering only 'a semblance of choice.'"
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "camus",
+    "aquinas"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "free-will-determinism"
+   ],
+   "relation": "Held reads Rand's final confrontation with the Dark One in A Memory of Light as a recapitulation of the free-will defense to the problem of evil, opening with Hume's statement of Epicurus's questions and Camus's refusal to love a world that tortures children. Drawing on Augustine (evil as privation, our limited perspective, the corruptible will) and Alvin Plantinga's claim that a world with significantly free creatures is more valuable, he argues Rand's competing visions teach that a world without Shai'tan removes choice: Elayne 'simpering,' Aviendha vapid, people reduced to complacent automatons who cannot choose to be good. He concludes with Camus that the struggle itself justifies existence and that heroism is impossible without the possibility of cowardice."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - ONE RULE, ABOVE ALL OTHERS ….md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "schopenhauer"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "deontology"
+   ],
+   "relation": "Kowalski applies Kant's ethics to the Aes Sedai Three Oaths in the Amazon series, arguing that because the Oath Rod makes sisters physically unable to lie, 'ought implies can' means they get no moral credit for truth-telling, like praising water for freezing. He examines acting from duty versus according to duty (few Aes Sedai accept the Oaths for the right reason; Moiraine may be the exception), and the universal-law formulation against lying promises. He then presses Kant's absolutism through Moiraine's careful literal truths to the Whitecloak Valda ('I have a sister in Whitebridge'), arguing that Kant's own 'On a Supposed Right to Lie' and Schopenhauer's self-defense objection show WoT can talk back to Kant about conflicting duties."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aquinas",
+    "buddha"
+   ],
+   "concepts": [
+    "deontology",
+    "utilitarianism",
+    "buddhist-compassion"
+   ],
+   "relation": "Bein uses the 'kill baby Hitler' time-machine puzzle and the question of whether Moiraine and Lan should still the Dragon Reborn to probe the Aes Sedai's mysterious ethics. He argues they are not Kantian deontologists (the Three Oaths are loose plot-device rules Moiraine games with ambiguous innuendo, and Kant forbids treating the ferryman as mere means) and are bad consequentialists at best (they cannot lightning-bolt Valda or Hitler who are not Darkfriends). He proposes they are closest to Buddhist ethics: wise compassion good in itself (Tam sitting with dying Tigraine regardless of outcome), and reads the flexible Oaths through upaya (skillful means) and a WoT-adapted Eightfold Path, making them less pacifist nuns than violence-reducing Shaolin nuns."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "just-war-theory",
+    "applied-ethics"
+   ],
+   "relation": "Gibson argues Rand's creation of the Asha'man and the Black Tower is a 'dirty hands' problem (Michael Walzer, tracing to Machiavelli): even in the just war against the Dark One, Rand does something morally objectionable by building men trained to be weapons and then, distrusting Mazrim Taim, abdicating oversight so Taim (a Forsaken) corrupts them. He reframes the Asha'man as lethal autonomous weapons, using the ICRC's Ingvild Bode on algorithmic bias in data, design, and use to argue Rand and Taim's biases were 'trained' into these walking weapons, and connects the speed and loss of control of autonomous war to WoT's theme of balance and the real-world ethics of emerging military AI."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "aquinas",
+    "gandhi"
+   ],
+   "concepts": [
+    "just-war-theory",
+    "ahimsa",
+    "aquinas-double-effect"
+   ],
+   "relation": "Held examines the Tuatha'an Way of the Leaf as universal pacifism grounded not in religion, utility, or rights but in the metaphysical care of the self, echoing Gandhi's idea that violence taints the soul of the doer (shown by Adan exiling Lewin for rescuing raped girls and by Aram's tragic fall). He argues the Tinkers' pacifism, while idyllic, is untenable in a broken world: through Augustine's two cities, Aquinas's natural self-preservation and doctrine of double effect, and just war theory's jus ad bellum and jus in bello, he contends intentions matter and that no hero of WoT could be a pacifist, concluding the Tinkers free-ride parasitically on those who fight the Shadow and that their peace is not real peace but self-serving order-less quiet."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - HUMANKIND IS MADE FOR UNCERTAINTY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "aristotle",
+    "adam-smith"
+   ],
+   "concepts": [
+    "philosophy-of-love",
+    "utilitarianism",
+    "moral-relativism"
+   ],
+   "relation": "DeVan uses Rand's marriage to Aviendha, Elayne, and Min (and Jordan's own two-girlfriend anecdote) to survey ethical frameworks on polyamory, arguing the answer depends on which lens one uses. Sorting love into the Greek types (ludus, eros, mania, pragma, storge, philia, agape), he runs romantic, sexual, and marital polyamory through emotivism (Ayer), ethical egoism (Ayn Rand, the Forsaken), cultural relativism and social contract (Hobbes, the Aiel), natural law and Kantian duty (the Mahabharata's Draupadi, Genesis), divine command and religion (Judaism, Christianity, Islam), and consequentialism/utilitarianism, rights, and Aristotelian/virtue ethics, invoking Cadsuane's cattle analogy and Brad Wilcox's data favoring monogamy."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "plato",
+    "kant"
+   ],
+   "concepts": [
+    "animal-rights",
+    "aristotle-soul"
+   ],
+   "relation": "Griem uses Perrin's telepathic bond with wolves, especially Hopper, to examine human-animal relationships and the assumed divide between human rationality and animal instinct. She traces the wolf's ambiguous image across Roman, Norse, Native American, and Christian traditions (Fenrir versus Geri and Freki; the Big Bad Wolf), and uses Plato's charioteer of the soul and Elyas's advice to control fear to frame the rational/emotional contrast. Citing cognition studies (Betty the tool-making crow) that suggest continuity between human and animal minds, she reads Perrin's fear of losing his humanity, his axe-versus-hammer struggle, and Hopper as anthropomorphized guardian animal in Tel'aran'rhiod to argue we should recognize animal rationality and embrace the beast within."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "descartes",
+    "aquinas",
+    "avicenna",
+    "butler"
+   ],
+   "concepts": [
+    "aristotle-soul",
+    "cartesian-dualism",
+    "avicenna-floating-man"
+   ],
+   "relation": "Swanstrom and Fletcher analyze the saidin/saidar gender distinction through Aristotelian gender essentialism (men hot/active dominating saidin, women cool/passive surrendering to saidar) and hylomorphism. Using Balthamel's soul placed in a woman's body (Halima/Aran'gar) who still channels saidin, plus Avicenna's floating man and Descartes' dualism elevating soul to essence, they argue the soul, not the body, determines which half of the Power one touches, while Aquinas's soul-body union (needed by Birgitte and shown by the soulless Gray Men) preserves 'balance.' They then use hylomorphism to let showrunner Rafe Judkins strip gender essentialism yet keep saidin/saidar via 'Jain Doe': an ungendered soul leaning one way, correlated to sex only by biological population balance."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "epictetus",
+    "confucius",
+    "gilligan",
+    "socrates"
+   ],
+   "concepts": [
+    "amor-fati",
+    "care-ethics",
+    "punishment-theory"
+   ],
+   "relation": "This multi-author epilogue collects short 'cutting-room-floor' reflections on poignant WoT quotes. Cooke reads Ingtar's confession as the existential fear of historical oblivion (historia as both history and story) driving a patriot into Darkfriendship. DeVan uses Covril's oak-and-wind metaphor to argue arguments strengthen through opposition, marshaling Confucius, Proverbs, al-Kindi, Milton, and Socrates's unexamined life. Held reads Min's arranged-marriage counsel with Nietzsche's amor fati and Epictetus's Heracles to reject resentment of unchosen fate. Pike reads Nynaeve sentencing the sul'dam through Carol Gilligan's and Annette Baier's ethics of care versus obligation (care can judge more harshly, per C.S. Lewis). Xhignesse reads the oak-and-willow line as Aesop woven into Randland's background."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Index of Terms and Names.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - End User License Agreement.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 11,
+   "type": "philosopher",
+   "suggested_slug": "barthes",
+   "name": "Roland Barthes",
+   "philosopher": "barthes",
+   "domain": "political-social",
+   "what": "French literary theorist whose essay 'The Death of the Author' argued that a work's meaning is made by readers, not fixed by authorial intent.",
+   "why": "Chapter 11 is built centrally on Barthes's death-of-the-author thesis (and its application to Jordan's literal death and Sanderson's completion), and no existing taxonomy philosopher or concept covers authorship or the death of the author."
+  }
+ ]
+}

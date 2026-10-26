@@ -1,0 +1,39 @@
+{
+  "article": "alignment_to_stewardship",
+  "title": "From Alignment to Stewardship: AGI, Human Autonomy, and the Future of Political Order",
+  "source": "articles/alignment_to_stewardship/index.md",
+  "updated": "2026-10-11",
+  "polish": {
+    "status": "done",
+    "language": "en",
+    "word_count": {
+      "source": 4086,
+      "polished_total": 5231,
+      "polished_body": 5025
+    },
+    "runs": [
+      {
+        "date": "2026-10-04",
+        "focus": "scholarly upgrade: abstract/keywords, road map, 15 verified citations (8 article-level via web search), new §14 Objections and Replies built from draft material, register consolidation, US spelling; structure preserved (Intro + 13 sections + Conclusion); followed by the b+ regeneration (see conversions.aipc2026)",
+        "summary": "Current manuscript. See polish-notes.md."
+      }
+    ]
+  },
+  "conversions": {
+    "aipc2026": {
+      "status": "done",
+      "artifacts": [
+        "venue-aipc2026/anonymized-manuscript.docx",
+        "venue-aipc2026/anonymized-manuscript.md",
+        "venue-aipc2026/anonymized-manuscript.pdf",
+        "venue-aipc2026/chat-logs/original-prompts.md",
+        "venue-aipc2026/methodology-report.md",
+        "venue-aipc2026/methodology-report.pdf",
+        "venue-aipc2026/notes.md",
+        "venue-aipc2026/regen/",
+        "venue-aipc2026/shots/submitted-214-forum.png"
+      ],
+      "notes": "SUBMITTED 2026-10-11: OpenReview note h8IO1kVSbI, submission #214, forum https://openreview.net/forum?id=h8IO1kVSbI. Verified in browser."
+    }
+  }
+}

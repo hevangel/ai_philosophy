@@ -1,0 +1,195 @@
+{
+ "book": "163 - Game of Thrones and Philosophy - Logic Cuts Deeper Than Swords",
+ "unit": "u239",
+ "chapters": [
+  {
+   "n": 24,
+   "file": "ch24 - Game of Thrones and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "hume",
+    "epicurus",
+    "leibniz"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "best-possible-world"
+   ],
+   "relation": "Jaime Lannister's question to Catelyn Stark - 'If the gods are real and they are just, then why is the world so full of injustice?' - launches a tour of the logical and evidential problems of evil across the religions of Westeros. Augustine's privation theory and free will defense are tested against the Faith of the Seven (with Catelyn answering 'Because of men like you'), Hume's dilemma of impotence or malevolence is applied to the old gods that Arya scolds at Harrenhal for failing to save Ned, and Leibniz's best-possible-world reply is weighed against natural evils like the storm that sank the Windproud. The chapter concludes that only the evidential problem sticks: the sheer quantity of suffering in Westeros is evidence against just gods, though nothing counts against the uncaring gods Brienne describes."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Game of Thrones and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Game of Thrones and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "hobbes"
+   ],
+   "concepts": [
+    "plato-ring-of-gyges",
+    "social-contract",
+    "plato-justice"
+   ],
+   "relation": "Joffrey on the Iron Throne, immune from punishment for beheading Ned, is read as Glaucon's ring of Gyges made flesh: the chapter asks what reason he has to be moral when he can get away with everything, noting he lacks even Gyges's advantage of secrecy and is hated like the Mad King. Hobbes's social contract is considered and rejected as a motive for Joffrey - King's Landing is no Hobbesian community like the Night's Watch, and Joffrey does better free-riding on everyone else's morality. The Platonic answer carries the chapter: like Ned Stark, who refused the throne, lived honorably in Winterfell, and regretted trading his honor at Baelor, the just person with an ordered soul has the only genuine happiness, which Joffrey's desire-satisfying cruelty forfeits."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Game of Thrones and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nagel",
+    "kant"
+   ],
+   "concepts": [
+    "moral-luck",
+    "kant-humanity-formula",
+    "categorical-imperative"
+   ],
+   "relation": "Tyrion - born a reviled dwarf who killed his mother, yet heir to Lannister wealth, wits, and Jaime's knightly example - frames Nagel's paradox of moral luck: his compassion toward Jon Snow and Sansa is constitutive luck, and his carefully run wildfire defense of King's Landing shows resultant luck, since the same prudent act deserves praise in one outcome and blame had it burned the city. Kant's good will, applied to Tyrion's protection of Shae as treating her as an end and never merely as a means against Cersei, is offered as a rescue but only neutralizes resultant luck, leaving constitutive and circumstantial luck untouched. The chapter ends with Nagel's shrinking 'extensionless point' of genuine agency, concluding we cannot keep both moral responsibility and the principle that we are blamed only for what we control."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Game of Thrones and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rachels"
+   ],
+   "concepts": [
+    "moral-relativism"
+   ],
+   "relation": "Through Daenerys's horror at her Dothraki wedding - public sex, lethal duels, and later the gang-rape of captives that Drogo calls 'the way of war' - the chapter distinguishes descriptive cultural relativism from normative moral relativism. The diversity of ethical codes in Westeros (crannogmen, wildlings, Craster) plus Cersei and Jaime's incest and the Targaryen brother-sister marriages show moral codes genuinely vary, and the audience's harsher judgment of Tyrion's whoring than of his siblings' incest illustrates our own culturally conditioned gut reactions. But the chapter concludes relativism must be rejected: no culture's say-so makes rape acceptable, while eating horse meat is fine and sibling incest depends on circumstances."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Game of Thrones and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir",
+    "kant"
+   ],
+   "concepts": [
+    "feminism",
+    "becoming-woman",
+    "heteronormativity"
+   ],
+   "relation": "Sansa's journey from tourney-romance believer to 'they are no true knights' anchors a feminist argument that chivalry is unjust as a code, not merely corrupted by bad knights like Ser Gregor and Ser Meryn Trant, who beats Sansa at Joffrey's command. The pedestal, as Gloria Steinem says, is a prison: chivalry makes knights eternal guardians and ladies permanent childlike wards, a move the chapter explains through Spivak's account of saviors who turn the people they help into dependents and through Beauvoir's point that the custom of ladyhood manufactures the very 'fact' of female fragility it claims to protect. Arya's needlework, Brienne's unbeaten sword, Loras crowning Sansa while loving Renly, and Varys's riddle on power show the knight/lady roles are neither natural nor exhaustive, so 'there are no true knights' because chivalry itself blocks human flourishing."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Game of Thrones and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Game of Thrones and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "heidegger",
+    "aristotle",
+    "cicero",
+    "heraclitus"
+   ],
+   "concepts": [
+    "authenticity",
+    "fate-vs-free-will",
+    "bad-faith",
+    "existence-precedes-essence"
+   ],
+   "relation": "The chapter asks whether Daenerys's fatalism - she feels truly free only once she believes fate is in control - can coexist with freedom in a Westeros where class and gender fix everyone's essence. Aristotle's sea-battle argument from bivalence and Cicero's Idle Argument (Dany will rule whether or not she leaves Meereen) are dismantled as having no practical consequences for deliberation, while Sartre's anguish and bad faith explain Cersei's 'necessity' excuse for arresting Ned and Sansa's refusal to own her lie about Joffrey and Mycah. Heidegger's authenticity then resolves the paradox: like Ned choosing between family and honor and Jon choosing his Night's Watch vows over kinship, freedom is not escape from one's past but owning it - Heraclitus's 'character is destiny,' becoming who you are."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Game of Thrones and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "laozi"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "wu-wei",
+    "zen",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "Arya's arc from Needle to answering 'No one' is read as Aristotelian virtue ethics fused with East Asian philosophy: virtues are habits acquired only through practice, so the Water Dance's endless drills and martial-arts blocks that must become automatic mirror the honest person who tells the truth without deliberating. Syrio's lessons - 'looking is not seeing,' the story of the ordinary tomcat the other bravos mistook for a fabulous beast, being fully present with your trouble - teach Zen seeing and mindfulness, while 'be like water' and the steel that must be part of your arm embody Laozi's effortless wu wei. The Faceless Men's initiation, from discarding her possessions to the literal removal of Arya's face, becomes the Zen slaying of the ego, making her a 'Zen-Ninja-Aristotelian' on the path to eudaimonia."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Game of Thrones and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "nietzsche"
+   ],
+   "concepts": [
+    "golden-rule",
+    "game-theory"
+   ],
+   "relation": "The chapter models court intrigue as game theory: games of incomplete information over Joffrey's legitimacy, the predictability of honorable opponents like Barristan Selmy, and Catelyn's reverse induction from the seemingly 'irrational' attack on Bran to deduce that Jaime threw him. Tyrion is the star player, converting one-shot death sentences into repeated games - recruiting Bronn as his champion at the Eyrie, buying off the mountain clans with Lannister arms - and showing how 'A Lannister always pays his debts' works as strategic reputation. Against Plato's view of love as the madness that ruins rational play (Maester Aemon's 'love is the bane of honor'), the chapter uses Nietzsche's 'drop of reason in madness' to argue that lovers' merged interests expand rationality itself, culminating in a Golden Rule upgraded to 'understand others as they understand themselves.'"
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Game of Thrones and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault"
+   ],
+   "concepts": [
+    "power-knowledge",
+    "discipline"
+   ],
+   "relation": "Applying Foucault's History of Madness, the chapter argues that sanity in Westeros is an act of naming by the powerful: Joffrey literally remakes the drunken Ser Dontos into a court fool, and 'Mad King' Aerys's brutality gets labeled madness while comparable violence by Jaime (throwing Bran from the window) and Robert (ordering Daenerys's assassination) counts as sane necessity. The power/knowledge nexus and the psychiatric fusion of crime with insanity explain how Robert's personal hatred of Rhaegar hides behind a medicalized diagnosis of Targaryen madness. The chapter then tracks Foucault's shift from sovereign to disciplinary power and technologies of the self: Dontos internalizes and performs his fool identity, Dany wonders 'perhaps I am mad' at Drogo's pyre, and Catelyn's freeing of Jaime is written off by Robb's bannermen as 'a mother's madness.'"
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Game of Thrones and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Game of Thrones and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 29,
+   "type": "philosopher",
+   "suggested_slug": "gayatri-spivak",
+   "name": "Gayatri Spivak",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Postcolonial feminist philosopher who argues that self-appointed saviors come to treat the people they help as permanently dependent and childlike, 'reproducing and consolidating feudalism.'",
+   "why": "Chapter 29 leans on Spivak's savior-becomes-oppressor argument as its central tool for showing how chivalric protection turns adult women into permanent, childlike wards."
+  },
+  {
+   "ch": 33,
+   "type": "concept",
+   "suggested_slug": "game-theory",
+   "name": "Game Theory",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The mathematical modeling of strategic interaction among rational agents, covering zero-sum and non-zero-sum games, incomplete information, repeated play, and backward (reverse) induction.",
+   "why": "Chapter 33's entire reading - Catelyn's reverse induction that Bran was thrown, Tyrion converting his Eyrie trial into repeated games with Bronn and the mountain clans, and the 'I Cut, You Choose' fairness example - is an extended application of game theory, which the taxonomy lacks."
+  }
+ ]
+}

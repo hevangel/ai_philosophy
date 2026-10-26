@@ -1,0 +1,449 @@
+{
+ "book": "256 - Anthony Bourdain and Philosophy - An Appetite for Life",
+ "unit": "u370",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Start to Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - The Menu.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - The Last Supper Game.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates"
+   ],
+   "concepts": [
+    "unexamined-life",
+    "socratic-ignorance"
+   ],
+   "relation": "This editor's introduction frames Bourdain as a modern philosopher by playing a variation on his 'Last Meal' game and choosing Bourdain as the ideal dinner companion. It argues that Bourdain's professed humility about how little he knows ('realizing how small I am, and unwise') echoes Socratic ignorance and the love of wisdom, and previews the volume's questions about happiness, authenticity, taste, and freedom."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - I Taste.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - 1. A Man for All Seasonings.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates",
+    "hume",
+    "bourdieu"
+   ],
+   "concepts": [
+    "plato-cave",
+    "sophist-relativism"
+   ],
+   "relation": "Shaffer uses Brillat-Savarin's distinction between direct and reflective taste and Hume's 'Of the Standard of Taste' to argue gastronomic expertise is only the acquired ability to describe tastes richly, not a superior sense. He then casts Bourdain as a culinary Socrates who, like the freed prisoner in Plato's allegory of the cave, returns to lead provincial eaters out of the darkness of narrow experience toward cultural tolerance."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 2. To Eat or Not to Eat.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bentham",
+    "epicurus"
+   ],
+   "concepts": [
+    "hedonic-calculus",
+    "utilitarianism",
+    "epicurean-pleasure"
+   ],
+   "relation": "Barta and Miranda read Bourdain's 'good eating is all about risk' credo through Bentham's cost-benefit hedonic calculus, sorting risk/reward into Ascetic, Epicurean, Cyrenaic, and Utilitarian quadrants. They classify Bourdain's fugu-eating and drunk cliff-driving as failed calculations, his comfort-food returns as Epicurean, and his gluttonous adventures (French Laundry, Russian vodka) as Cyrenaic high-risk/high-reward living."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 3. The Nasty Bits.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "kant-aesthetics",
+    "the-absurd",
+    "the-sublime"
+   ],
+   "relation": "Calef asks how Bourdain could find disgusting foods (cobra heart, blood soup, warthog anus) delicious, using Korsmeyer's taxonomy of disgust and the 'paradox of aversion.' He argues their appeal comes from Aristotelian learning-through-representation, Burke's and Bullough's sublime experienced at psychical distance, and Kristeva's 'abject' — foods that remind us of death and mortality let Bourdain transcend and disarm it by eating them appreciatively."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 4. How Anthony Bourdain United the Local and the Universal.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "marx",
+    "diogenes-cynic"
+   ],
+   "concepts": [
+    "stoic-cosmopolitanism",
+    "kant-perpetual-peace",
+    "commodity-fetishism"
+   ],
+   "relation": "Barta and Miranda contrast Kant's 'universally communicable' taste with Bourdieu's view that taste is a social construct shaped by field, habitus, and cultural capital that reinforces class distinctions. Using Bourdain's episodes (Portuguese bacalao, New York hot dogs, the French Laundry), they argue he synthesizes both: acknowledging taste's locality while democratizing it as a cosmopolitan 'citizen of the world' in the tradition of Diogenes and Kant's perpetual peace."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - II Life.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 5. Friendship, Fun, Freedom, Food, and the Future.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates",
+    "aristotle",
+    "epictetus"
+   ],
+   "concepts": [
+    "philosopher-king",
+    "stoicism",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "Le Gall and Taliaferro read Bourdain's Libya and Iran episodes of Parts Unknown through Pierre Hadot's 'philosophy as a way of life,' arguing that Gaddafi and Khomeini were failed Platonic philosopher-kings. They interpret ordinary Libyans and Iranians eating Uncle Kentucky chicken, playing pinball, or hosting feasts as popular 'spiritual exercises' — tatonnement — showing how the personal becomes political and how friendship, fun, freedom, and food nourish the Socratic care of the soul."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 6. Authenticity in a World of Bullshido.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "heidegger"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "authenticity",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Falcioni uses Aristotle's doctrine of the mean and Gillian Russell's 'epistemic viciousness in the martial arts' to read Bourdain's obsession with Brazilian jiu-jitsu as a struggle to cultivate the virtues of humility, courage, and authenticity against the vices of 'bullshido' (fraudulent martial arts). He connects Bourdain's craving for BJJ's brutal, ego-slaying honesty to a Heideggerian authenticity, while noting Bourdain's return to old vices near the end."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 7. Anthony Bourdain’s Extremely Objectionable Stories.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "hobbes"
+   ],
+   "concepts": [
+    "noble-lie",
+    "plato-euthyphro"
+   ],
+   "relation": "Holmes examines Bourdain's horror graphic novel Hungry Ghosts as cautionary folklore in the tradition of Aesop and EC Comics. He stages a debate between Aristotle, who in the Rhetoric endorses fables as accessible moral tools, and Plato, who in the Republic wants to censor frightening tales for children — yet Holmes shows Plato himself (Euthyphro, Laws) praised fear as 'modesty,' and notes Bourdain used cautionary tales (Ronald McDonald 'has cooties') to steer his own daughter from fast food."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 8. Why Do We Care Who Bourdain Really Was.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "nietzsche",
+    "kierkegaard"
+   ],
+   "concepts": [
+    "bad-faith",
+    "apollonian-dionysian",
+    "kierkegaard-anxiety",
+    "authenticity"
+   ],
+   "relation": "Finn asks why fans cared about Bourdain's 'authenticity,' arguing his persona of freedom from bourgeois convention embodied Sartre's rejection of 'bad faith' while his meticulous control made him, per Keefe, 'Apollo in drag as Dionysus.' Reading the Hanoi/Obama episode as proof that even the President wanted to be Bourdain, she suggests his freedom (Kierkegaard's 'dizziness') may have become a trap, and proposes 'integrity' rather than authenticity as the word for his consistency."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 9. Anthony Bourdain’s Inquiring Mind.md",
+   "kind": "chapter",
+   "philosophers": [
+    "peirce"
+   ],
+   "concepts": [
+    "pragmatism",
+    "pragmatic-truth",
+    "pragmatic-method"
+   ],
+   "relation": "Anderson and Mauro trace Bourdain's growth from the dogmatic provocateur of Kitchen Confidential to a Peircean inquirer, using Peirce's 'The Fixation of Belief' and its four methods (tenacity, authority, a priori, inquiry). They argue Bourdain's tattooed motto 'I am certain of nothing,' his surprise and self-correction in Cambodia, Beirut, Saudi Arabia, and Haiti, and his pragmatic theory of evolving truth make him a model of the self-correcting inquiring life."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - III Death.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 10. Some Dark Genie.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "freud",
+    "schopenhauer"
+   ],
+   "concepts": [
+    "freud-death-drive",
+    "harm-principle",
+    "mill-liberty"
+   ],
+   "relation": "Calef asks whether Bourdain's choice to become a heroin addict could be rational and responsible, using Mill's On Liberty and Harm Principle (including the voluntary-slavery exception) to argue addiction is reversible and can minimize suffering when alternatives are bleak. He then reads Bourdain's self-destructive drives — the drunk cliff-driving 'death trip' — through Freud's death drive (Thanatos) and Schopenhauer's pessimism, concluding the 'dark genie' was partly disease-like and thus not wholly blameworthy."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 11. The One Truly Serious Philosophical Problem.md",
+   "kind": "chapter",
+   "philosophers": [
+    "camus",
+    "plato",
+    "aristotle",
+    "seneca"
+   ],
+   "concepts": [
+    "sisyphus",
+    "stoicism",
+    "epicurean-death"
+   ],
+   "relation": "Doll surveys philosophical views on suicide to make sense of Bourdain's death, opening with Camus's claim that suicide is the one serious philosophical problem. She weighs Plato's Phaedo prohibition (we are the gods' possessions) against his allowance for extreme misfortune, Aristotle's view that suicide violates one's duty to self and community, and Seneca's Stoic position that a wise man 'lives as long as he ought, not as long as he can' — framing Bourdain's death as an autonomous choice."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 12. Bourdain’s Taste for Freedom.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "socrates",
+    "buddha"
+   ],
+   "concepts": [
+    "virtue-ethics",
+    "berlin-two-liberties",
+    "buddhist-compassion"
+   ],
+   "relation": "Porot and Simon argue Bourdain's goodness is best captured by virtue ethics rather than deontology or consequentialism, and read his life through Isaiah Berlin's positive/negative liberty (via MacCallum and Carter). They contend Bourdain's indulgence of his 'lower self' through addiction and excess was paradoxically the path by which his 'higher self' of empathy and compassion grew — echoing Hesse's Siddhartha, the Buddhist Middle Way, and Aristotle's mean — recasting his suicide in mystical rather than cynical terms."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - IV The Good, the Bad, and the Ugly.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 13. Anthony Bourdain’s Antisocial Ethics.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard"
+   ],
+   "concepts": [
+    "simulacra",
+    "communitarianism",
+    "society-of-the-spectacle"
+   ],
+   "relation": "Kitchen and Scalambrino build Bourdain's 'ethics for travelers' around his tagline 'Be a traveler, not a tourist,' arguing he preferred authentic community over abstract, Capitalist-conditioned society. Using Guy Debord's Society of the Spectacle to characterize the tourist's 'corporate commodified darkness' and Kierkegaard's dictum about contemplating death daily, they show through the Bhutan and Lebanon episodes how Bourdain's food-based humanism values lived communal reality over consuming others' experiences as banal spectacle."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 14. Did Bourdain Go #MeToo Far.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mackinnon"
+   ],
+   "concepts": [
+    "mackinnon-dominance",
+    "objectification",
+    "punishment-theory"
+   ],
+   "relation": "Finn tests Catharine MacKinnon's 'Rape Redefined' — rape as sex compelled by inequality rather than lack of consent — against Bourdain's #MeToo allyship and his payment to Asia Argento's teenage accuser Jimmy Bennett. She argues MacKinnon's power-based standard could recognize Argento's act as assault, and reframes Bourdain's hush-money payment, via the Wendat/Huron compensation practices in Graeber and Wengrow, as a compassionate vengeance-staying reparation consistent with his empathy."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 15. The Subtle Persuasion of Culinary Adventure Programs.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gramsci"
+   ],
+   "concepts": [
+    "hegemony"
+   ],
+   "relation": "Wahnsiedler analyzes Bourdain's 'culinary adventure programs' through Gramsci's concept of cultural hegemony and the public intellectual. He praises Parts Unknown for building counter-hegemony (historicizing colonialism, 'going native'), but critiques the Congo episode's 'colonial nostalgia' — Bourdain re-enacting Heart of Darkness and unchallenged praise of Belgian rule — arguing that as a Gramscian intellectual wielding the 'Bourdain Effect,' his framings reinforce or contest hegemony and demand responsible media consumption."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 16. Fine Dining with Children Starving.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer",
+    "bentham",
+    "mill",
+    "sidgwick"
+   ],
+   "concepts": [
+    "drowning-child",
+    "utilitarianism",
+    "higher-lower-pleasures"
+   ],
+   "relation": "Barta and Miranda pose Bourdain's Haiti dilemma — feasting on camera while people starve — as Peter Singer's 'Shallow Pond' / drowning-child argument about affluence and obligation. They test justifications for luxury from Bentham's intensity-vs-extent calculus, Mill's higher/lower pleasures, and Sidgwick's dualism of practical reason, then use Singer's Expanding Circle to show how Bourdain extended moral consideration to the poor, the foreign, and (partially) non-human animals through his work."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - 17. Chef of the Future.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "applied-ethics",
+    "kant-autonomy"
+   ],
+   "relation": "Cheong convenes the 'documentary-ethics panel' invited by Roadrunner director Morgan Neville over the AI deepfake of Bourdain's voice reading lines he never spoke. Using Beauchamp and Childress's principle of autonomy, the Midler v. Ford voice-impersonation case, and worries from AI ethicists and epistemologists (Fallis, Muller) that deepfakes threaten knowledge and trust, he argues the synthesized voice denies Bourdain the 'right of reply' and deceives viewers — then reveals he had ChatGPT ghost-write parts of the chapter to make the point."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 18. The Journey May Also Save Us.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "climate-ethics",
+    "anthropocentrism",
+    "food-ethics"
+   ],
+   "relation": "McCrossin reads the Madagascar and Bhutan episodes of Parts Unknown as a climate-crisis 'diptych' co-authored with filmmaker Darren Aronofsky, set against the thirtieth anniversary of the 1988 climate testimony to the US Senate and the IPCC's warnings. He argues devastated, colonized Madagascar is 'the question' and un-colonized, Gross-National-Happiness Bhutan 'the answer,' and that Bourdain and Aronofsky's storytelling — invoking Noah, the Anthropocene, and Ghosh's Great Derangement — may help save us by making us think and act together."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Bibliography.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Kitchen Crew from the Culinary Underbelly.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - 234.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - 235.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Back Cover.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 9,
+   "type": "philosopher",
+   "suggested_slug": "bourdieu",
+   "name": "Pierre Bourdieu",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "French sociologist-philosopher of taste whose Distinction argues aesthetic taste is a socially constructed marker of class reproduced through field, habitus, and cultural capital.",
+   "why": "Chapter 12 is built entirely on Bourdieu's field/habitus/cultural-capital analysis of Bourdain's taste, and chapter 9 also invokes his critique of taste; no existing taxonomy philosopher covers his sociology of taste."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "the-sublime",
+   "name": "The Sublime",
+   "philosopher": "",
+   "domain": "kant-german-idealism",
+   "what": "The aesthetic category, developed by Edmund Burke, in which vastness, danger, or terror produce awe and pleasure when experienced from safe (or psychical) distance, distinct from the beautiful.",
+   "why": "Chapter 11 leans heavily on Burke's and Bullough's sublime and psychical distance to explain the aesthetic appeal of dangerous/disgusting food; the taxonomy has no sublime concept and only a narrow Kantian-taste entry."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "the-abject",
+   "name": "The Abject",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Julia Kristeva's category for what fascinates and repels because it breaks down the boundary between self and other (corpses, wounds, bodily fluids), erupting the Real and reminding us of death.",
+   "why": "Chapter 11 devotes a section to Kristeva's abject to explain the allure of blood soup and mystery meat; no taxonomy philosopher or concept represents Kristeva or the abject."
+  },
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "society-of-the-spectacle",
+   "name": "Society of the Spectacle",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Guy Debord's Situationist critique that in advanced capitalism authentic social life is replaced by its representation, and tourism is the consumption of the banal.",
+   "why": "Chapter 13 grounds Bourdain's traveler/tourist distinction in repeated quotation of Debord's Society of the Spectacle; the taxonomy has Baudrillard's simulacra but no Debord/spectacle entry for this specific critique of tourism as spectacle."
+  }
+ ]
+}

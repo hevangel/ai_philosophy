@@ -1,0 +1,560 @@
+{
+ "book": "063 - Philip K. Dick and Philosophy - Do Androids Have Kindred Spirits",
+ "unit": "u104",
+ "chapters": [
+  {
+   "n": 151,
+   "file": "ch151 - It’s the Nausea.md",
+   "kind": "chapter",
+   "philosophers": ["hegel"],
+   "concepts": ["hegel-recognition"],
+   "relation": "This closing section of the A Scanner Darkly chapter argues that Bob Arctor's identity is grounded not in social acceptance but in his nausea at dominant social values and his pride in being an outsider 'wolf' among Arctor, Barris, Luckman and Frick. It stresses that Arctor is not simply anti-social: as the narc Fred he genuinely wants to bust dealers and put the Substance D world to hell, so he belongs to his society even while rejecting its values. Arctor's split Bob/Fred personality symbolizes a 'permanent provocation' toward the mainstream that is identity-creative and liberating, a case that even liberal recognition theory cannot absorb because what he values most is his very difference and superiority."
+  },
+  {
+   "n": 152,
+   "file": "ch152 - Wolves Finish Last.md",
+   "kind": "chapter",
+   "philosophers": ["hegel"],
+   "concepts": ["hegel-recognition"],
+   "relation": "The conclusion of the A Scanner Darkly essay spells out the cost of Arctor's struggle for recognition with society at large: because his addiction strips him of legal protection and moral standing, the Sheriff's Department easily turns him into a puppet while pursuing drug manufacturers 'even if it means wasting the lives of innocents.' The novel thereby shows the boundary of even a supposedly pluralistic society's recognition - counter-cultural identities formed in opposition to mainstream stupidities, like Arctor's circle, are too antagonistic to be recognized and are persecuted like wolves. What they actually want, the chapter argues, is liberty, independence and the American Dream, which they think the rest of America has abandoned."
+  },
+  {
+   "n": 153,
+   "file": "ch153 - Futurity Doctored.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 154,
+   "file": "ch154 - Chapter 24 - I Know What You Did Next Summer.md",
+   "kind": "chapter",
+   "philosophers": ["bergson"],
+   "concepts": ["bergson-duration", "time-travel"],
+   "relation": "Paul Atkinson's introduction to Chapter 24 frames 'The Minority Report' and 'Paycheck', together with their film adaptations, as explorations of the many different ways of knowing the future. He proposes Henri Bergson - who denied the future can be known and explained why we sometimes think we can - as the philosopher perfectly placed to 'write the rules' for the time-travel game these stories play. It also contrasts philosophy's umpire-like settling of issues with the films' urge to literally show us the future rather than merely predict it."
+  },
+  {
+   "n": 155,
+   "file": "ch155 - Pay Now, Live Later.md",
+   "kind": "chapter",
+   "philosophers": ["bergson"],
+   "concepts": ["bergson-duration", "bergson-memory"],
+   "relation": "This section reads Precrime through Bergson's duree: in Dick's story the precogs are 'monkeys' and 'idiots' emitting snippets that investigators must analyze, while the film shows a precog immersed in and living through the future visually. It explains Bergson's claim that clocks and timelines falsify time, which is really lived duration in which the past endures as memory and actively directs us toward an open future, and rehearses his reunion thought experiment: imagined futures are mere sketches, while the actual future arrives with the unique specificity of the Mona Lisa. No one, on this view, can know the future as if living it."
+  },
+  {
+   "n": 156,
+   "file": "ch156 - I Can Predict What You (Don’t) Do Next Summer.md",
+   "kind": "chapter",
+   "philosophers": ["bergson"],
+   "concepts": ["bergson-duration", "fate-vs-free-will"],
+   "relation": "Using Bergson's imprevisible and 'The Possible and the Real', this section argues that the story's Precrime works by prediction-as-elimination: investigators discard the precogs' babblings that do not fit the world, 'closing the gate' on the impossible to leave only a statistically possible future. Bergson's gate metaphor shows prediction never yields the real future, only the negatively 'not impossible', yet Precrime arrests people for an abstract possible event they have never actually lived. It ends by asking whether Anderton, accused of a future murder in advance, would still commit it, since ever-changing memory and knowledge make a possible future never identical to the actual one."
+  },
+  {
+   "n": 157,
+   "file": "ch157 - Living in the Time of the Crime.md",
+   "kind": "chapter",
+   "philosophers": ["bergson"],
+   "concepts": ["bergson-duration"],
+   "relation": "A close reading of the film's opening murder contrasts cinematic precognition with the story's: the camera moves from Sarah Marks's terrified face and dilated pupil to the precog Agatha's watery blue eye as she utters 'murder', making Agatha an empathetic witness immersed in the scene. Anderton then pieces the moving images together like a film editor working with rushes, so no analytic machinery connects present to future - the future is simply given in visual detail. In the film, precognition is the foreseeable rather than the predictable: precogs and audience alike live in the time of the crime."
+  },
+  {
+   "n": 158,
+   "file": "ch158 - Always Invest in the Future.md",
+   "kind": "chapter",
+   "philosophers": ["bergson"],
+   "concepts": ["bergson-duration", "time-travel"],
+   "relation": "This section retells 'Paycheck' in story and John Woo film versions: engineer Jennings trades two memory-wiped years for a cloth sack of ordinary objects - a piece of wire, a bus token - which his erased past self chose as tools for future crises, from breaking out of a police cell to paying a robot ticket inspector. It explains the story's time machine, a 'mirror' that images the future and a 'scoop' that extracts objects from it, a significant difference from the movie. The section shows how past-Jennings exists for present-Jennings only through these leftovers, which prove more valuable than money."
+  },
+  {
+   "n": 159,
+   "file": "ch159 - Summarizing the Future.md",
+   "kind": "chapter",
+   "philosophers": ["bergson"],
+   "concepts": ["bergson-duration", "fate-vs-free-will", "bergson-memory"],
+   "relation": "Applying Bergson's Time and Free Will claim that recalling the past shortens it into a 'thing', the section uses the curriculum-vitae metaphor: like a CV or Facebook page, we imagine the future as a summary compiled from the past. In 'Paycheck', Jennings's sack becomes a plan only when he reflects - the wire at the police station, the token on the bus - until past, present and future fuse and he feels 'a strange elation' at fulfilling his past self's design, raising again whether awareness of the future changes what we do. The film diverges by having Jennings sabotage the atomic-bomb future he foresees, echoing Minority Report's contest between an inevitable future and present action."
+  },
+  {
+   "n": 160,
+   "file": "ch160 - The Future as Predictive Text.md",
+   "kind": "chapter",
+   "philosophers": ["bergson"],
+   "concepts": ["bergson-duration"],
+   "relation": "The section develops a 'predictive text' metaphor: once Jennings's past is constructed as a narrative by past-Jennings, the future merely mirrors it, filling in missing letters like autocorrect - as in the ticket-stub passage where Jennings deduces where he 'had been' and concludes 'he had foreseen this too.' It contrasts the short stories, where a possible future only guides present action, with both films' screens - rewinding videotape, headline videos of an exploding city, the Minority Report editing suite - that render the future almost indistinguishable from the present. For Bergson the future can never appear on a television screen, since that would require a camera living in the time of the event; at most the future is a gate closing or a frame narrowing to a vague sketch."
+  },
+  {
+   "n": 161,
+   "file": "ch161 - Chapter 25 - Untimely Speculations.md",
+   "kind": "chapter",
+   "philosophers": ["nietzsche"],
+   "concepts": ["eternal-recurrence", "amor-fati", "ubermensch"],
+   "relation": "Heath Massey's introduction to Chapter 25 opens with Nietzsche's Gay Science passage on intellects that might experience time backward, then stages the demon of eternal recurrence: every pain and joy returning in the same sequence in a world without aim, which either crushes you or becomes 'the highest formula of affirmation', amor fati. Eternal recurrence is a test of the will separating 'man' from 'overman', since one could not celebrate it while believing the world needs a divine purpose. The chapter then maps Dick's imaginative variations of temporality onto two Nietzschean tendencies - disruptions of time-sense that render characters powerless, and extraordinary temporalities that liberate them beyond finite human time, culminating in Dick's theory of supertemporality."
+  },
+  {
+   "n": 162,
+   "file": "ch162 - Human, All Too Human.md",
+   "kind": "chapter",
+   "philosophers": ["nietzsche"],
+   "concepts": ["time-travel", "eternal-recurrence"],
+   "relation": "This section collects Dick's incapacitating temporalities. In Martian Time-Slip, repairman Jack Bohlen relapses into schizophrenia while trying to slow autistic Manfred Steiner's accelerated time-sense, concluding that psychosis is 'the utter alienation of perception from the objects of the outside world', which would also explain the fine line between prophecy and psychosis. In 'Your Appointment Will Be Yesterday' the Hobart Phase reverses time - libraries eradicate books, authors unwrite their manuscripts - and threatens a closed loop of Eng's swabble until crank Lance Arbuthnot has his own manuscript eradicated to keep the reversal in place. In Ubik, Joe Chip watches cigarettes, milk and TVs regress to prior 'templates' as the world decays; in all three, altered time crushes rather than elevates, leaving characters struggling not to be overcome by the inexorability of time."
+  },
+  {
+   "n": 163,
+   "file": "ch163 - Preparatory Human Beings.md",
+   "kind": "chapter",
+   "philosophers": ["nietzsche"],
+   "concepts": ["ubermensch", "possible-worlds", "eternal-recurrence"],
+   "relation": "The counter-tendency gathers Dick's empowering temporalities. 'The Golden Man' presents Cris Johnson, a golden-haired mutant with virtually no frontal cortex, who survives a random-firing gun by 'pre-thinking' a panorama of possible futures - Homo superior as superhuman beast, by instinct rather than intelligence. In Now Wait for Last Year, General Molinari uses the drug JJ-180 to trip sideways into parallel presents and recruit healthy duplicates of himself, virtually overcoming mortality with 'a dynasty consisting of himself'. And in The Man in the High Castle, Abendsen's The Grasshopper Lies Heavy, Frank Frink's handwrought jewelry and Tagomi's meditative slip all point toward an alternate present - ours - where the Allies won, making art and the I Ching oracles of resistance to totalitarian domination."
+  },
+  {
+   "n": 164,
+   "file": "ch164 - On the Advantage and Disadvantage of Eternity for Life.md",
+   "kind": "chapter",
+   "philosophers": ["nietzsche"],
+   "concepts": ["possible-worlds", "eternal-recurrence"],
+   "relation": "The essay's close presents Dick's own 'wicked thought' from 'If You Find This World Bad, You Should See Some of the Others': a plurality of universes arranged laterally to linear time, 'ten thousand bodies of God' hung like suits, including one where Germany and Japan won World War II. It asks whether lateral change might explain schizophrenic experience and whether eternity, in Dick's phrase being 'free from and somehow out of and above time', is supertemporality - occupying multiple time sequences at will. Like Nietzsche's eternal recurrence, Dick's multiverse is a test rather than a doctrine: those crushed by an aimless universe remain merely human, while those who can affirm endless strife or tap parallel presents are virtually superhuman, resisting time's supposedly inexorable march."
+  },
+  {
+   "n": 165,
+   "file": "ch165 - Chapter 26 - The Day Roosevelt Was Assassinated.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["fate-vs-free-will"],
+   "relation": "Peter Simons opens Chapter 26 with the real 1933 Zangara shooting that missed President-elect Roosevelt by inches and killed mayor Anton Cermak, then asks the counterfactual question: what if Zangara had hit, as happens in the divergence launching The Man in the High Castle, the 1962 Hugo winner? Dick's epigraph about chance, accident and 'one great figure... strategically placed' frames whether anyone can alter fate. The section positions the novel within Dick's alternate-reality work (Minority Report's possible futures, 'The Golden Man', The Divine Invasion) as the one book that fully immerses the reader in a single alternate history."
+  },
+  {
+   "n": 166,
+   "file": "ch166 - The Story.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Surveying the thin alternate-history genre - Ward Moore's Bring the Jubilee and Robert Harris's Fatherland - this section credits Dick's novel as the pick of the pack because it is chillingly believable: ordinary characters with mixed motives and limited freedom, embedded in a 1960s America conquered and partitioned between victorious Germany and Japan, with Hitler senile from syphilis and Chancellor Bormann dying. Dick's craft makes the world feel normal: non-linear plotting, seemingly minor protagonists (a Jewish jewelry maker, a dealer in fake Americana, a middle-ranking Japanese official), and grammatical quirks in the characters' thoughts. The banned book-within-the-book, The Grasshopper Lies Heavy, doubly inverts history by describing an Allied victory that is similar to but intriguingly different from our own."
+  },
+  {
+   "n": 167,
+   "file": "ch167 - Reality.md",
+   "kind": "chapter",
+   "philosophers": ["lewis", "leibniz"],
+   "concepts": ["possible-worlds"],
+   "relation": "Taking Dick's 'What is reality?' as its theme, this section distinguishes The Man in the High Castle's alternate world from sham worlds like Time Out of Joint's fake 1950s: the alternate history is as real as ours, its inhabitants no more able to escape into a realer reality than we are, even when Tagomi briefly glimpses our Embarcadero. It introduces Leibniz's possible worlds and David Lewis's modal realism - every consistent way things might have been really exists, and calling only our world 'actual' is mere 'world chauvinism', like a New Yorker denying London exists. Because Dick's characters dismiss worlds like ours as unreal as readily as we dismiss theirs, the symmetry suggests our world has no exclusive title to the label 'real'."
+  },
+  {
+   "n": 168,
+   "file": "ch168 - Determinism.md",
+   "kind": "chapter",
+   "philosophers": ["lewis"],
+   "concepts": ["free-will-determinism", "possible-worlds"],
+   "relation": "Citing Dick's 1976 'soap-bubble' reality interview, this section observes that Lewis's many worlds, each complete in all detail at all times, are deterministic in Laplace's sense - history on rails. Three considerations tell against determinism in our world: our experience of free choice, which grounds praise and blame; quantum indeterminacy, where a nucleus splits when it splits; and objective chance and coincidence - Zangara's near-miss, two wheat grains touching in a granary, Churchill's silence at the crucial meeting tipping the premiership from Halifax, who would likely have negotiated with Hitler. Simons grants that hinge events deviate history by mere inches, but rejects Dick's hint, and Lewis's theory, that all the possible worlds are equally real: only our world is real."
+  },
+  {
+   "n": 169,
+   "file": "ch169 - Time in the One Real World.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "This section lays out four ontologies of time - eternalism (all actual events equally real), the growing block, presentism, and the tree-pruning model on which Dick's world was a real future branch in 1930 but pruned away by 1934. Against the thought that eternalism entails fatalism, Simons argues coincidence (merging causal chains, a stranger collapsed on a doorstep) and human freedom can live within eternalism, with powerful figures like Truman magnifying chance into history. He endorses eternalism as the view that treats all times democratically, concludes that Dick's world 'has no reality whatsoever' though things could have happened as he describes, and courteously judges that Dick, as a philosopher, was wrong."
+  },
+  {
+   "n": 170,
+   "file": "ch170 - Precog a Are You.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 171,
+   "file": "ch171 - Chapter 27 - Time in Unfixed Are You.md",
+   "kind": "chapter",
+   "philosophers": ["husserl", "heidegger"],
+   "concepts": ["phenomenology", "thrownness", "dasein"],
+   "relation": "Written backwards in homage to 'Your Appointment Will Be Yesterday', this section argues that the self is found in the future more than the present: we understand objects through the actions they afford and ourselves through goals, projects and commitments, so the present moment has very little to do with who we 'really' are. Drawing on Edmund Husserl's 'protention' and Martin Heidegger's existence-as-possibilities, it shows that we hear a melody's building tension as an already-present resolution, and that the past stays present without being recalled - when the phone rings on the couch, where it was is simply there for you. Invoking Don Fallis's 'Lies, Incorporated', it adds that every remembering rewires history to fit our current view, so in memory we travel into the past just as surely as protention carries us into possible futures."
+  },
+  {
+   "n": 172,
+   "file": "ch172 - Time through Travel You.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 173,
+   "file": "ch173 - Blur a Are You.md",
+   "kind": "chapter",
+   "philosophers": ["husserl"],
+   "concepts": ["phenomenology"],
+   "relation": "The reversed-text conclusion completes the argument: via Husserl's retention and protention we must be in the past, under erasure, at every moment, and presently precognize future possibilities, or we could not even hear notes as music. After thanking the volume's editors, it states the thesis - to be human is to be unfixed in time, constantly negotiating a past we thought fixed and calibrating futures that are always already present to us. Dick's precogs and time-travelers, who change the past or choose the future, are symbolic retellings of this ordinary human temporality, since science fiction explores the present through the future."
+  },
+  {
+   "n": 174,
+   "file": "ch174 - Briefings.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 175,
+   "file": "ch175 - Chapter 28 - “Autofac”.md",
+   "kind": "chapter",
+   "philosophers": ["marx"],
+   "concepts": ["utopia-dystopia", "marx-alienation"],
+   "relation": "Dan Dinello reads 'Autofac' as a dystopian counter to cybernetic utopianism: after nuclear war, self-perpetuating automatic factories with robotic trucks, cameras and humanoid robots keep overproducing useless goods and consuming scarce resources, immutably executing their programming while humans who plead 'we can run our own lives' are condemned to redundancy. Tracing cybernetics from Norbert Wiener's anti-aircraft feedback systems through B.F. Skinner's Walden Two, it argues Dick dramatizes the totalitarian implications of treating humans as machines to be controlled 'for their own good', and the dehumanizing logic of a late capitalism whose profits depend on reckless overproduction, where the system 'gets top priority' and 'mere people come second'. The ending - the factories seeding microscopic self-replicating machinery - completes the vision of a technocratic system expanding and replicating to the possible extinction of humanity."
+  },
+  {
+   "n": 176,
+   "file": "ch176 - Chapter 29 - “King of the Elves”.md",
+   "kind": "chapter",
+   "philosophers": ["berkeley"],
+   "concepts": ["berkeley-idealism"],
+   "relation": "Michelle Gallagher reads 'King of the Elves' as a challenge to Berkeley's empiricist criterion of reality: we call real whatever behaves as our past experience leads us to expect, unlike airborne goldfish imagined at whim - which is why we can tell dreams from waking life and why children struggle to. Shadrach Jones, the drab gas-station owner, keeps accepting Elves, Trolls and his own kingship although Elves are 'precisely the thing you wouldn't expect', and his swings of belief track his desires - the grandeur of kingship, dread of the Troll war, the appeal of being needed - until he kills his friend Phineas, the Troll King. Whether the tale is a genuine Elven chronicle or a delusional murder, Shadrach decides he really is King of the Elves because he wanted to: reality attribution driven by wish rather than expectation."
+  },
+  {
+   "n": 177,
+   "file": "ch177 - Chapter 30 - “The Golden Man”.md",
+   "kind": "chapter",
+   "philosophers": ["aristotle", "lucretius"],
+   "concepts": ["aristotle-four-causes", "disability-philosophy", "lucretian-nature"],
+   "relation": "Jeremy Pierce reads 'The Golden Man' through the Aristotle-Lucretius dispute over purposes in nature: Cris Johnson, the precognitive golden mutant, first terrifies the DCA as Homo superior, 'a deeve who would be to us what we are to the great apes', until George Baines finds 'virtually no frontal lobe... It's nothing but an animal' choosing by reflex rather than reflection. Aristotle's teleology - normal development suiting what is objectively good for a human being - makes sense of calling one-armed growth, autism's deficits, or Cris's missing inner life deficiencies, while Lucretius's anti-teleology, largely adopted by the autism community, permits talk only of the typical and atypical. The chapter argues the characters' horror at humanity's replacement by reflex-driven breeders is unintelligible unless something is genuinely missing that is natural and healthy for human offspring."
+  },
+  {
+   "n": 178,
+   "file": "ch178 - Chapter 31 - “Piper in the Woods”.md",
+   "kind": "chapter",
+   "philosophers": ["thoreau", "marx"],
+   "concepts": ["marx-alienation", "thoreau-walden"],
+   "relation": "David Svolba hunts the 'distinct new idea' of 'Piper in the Woods': able-bodied garrison men on Asteroid Y-3 claim to have become plants so they can abandon jobs in a machine where 'the men are parts, and each has his job' - a radical but understandable response to lives devoted to meaningless, alienated labor whose ends they no longer identify with. Reading the story with Thoreau's warning that in a technological world we become 'tools of our tools', and likening the defectors to Timothy Leary's drop-outs, it presents Dick's tacit approval of the sun-basking plant-people as social criticism of a dehumanizing techno-industrial order that sees resistance only as laziness. The darker suggestion is that such a form of life is strangely hard to resist: escape collapses into self-imposed dehumanization, making the story perhaps a parable of drug-like escapism."
+  },
+  {
+   "n": 179,
+   "file": "ch179 - Chapter 32 - “The Exit Door Leads In”.md",
+   "kind": "chapter",
+   "philosophers": ["plato", "socrates"],
+   "concepts": ["unexamined-life", "socratic-ignorance"],
+   "relation": "Eric Beck reads 'The Exit Door Leads In' as a modernized Platonic dialogue: like Oedipus before the Sphinx, the average salesman Bob Bibleman wins mandatory university admission by answering a computerized waiter's riddle, staging the Delphic 'Know Thyself' against Plato's Gorgias ideal of self-mastery, while Plato's Socrates in Charmides disclaims healthy self-knowledge. When Bibleman's terminal spills classified engine schematics, he decides not on universal principle but on what he thinks the authorities want; his honest answer that he would have handed them over anyway gets him expelled for failing a test he could not read, a double bind showing self-knowledge is contingent and situational. Dick thus revises knowing oneself as negotiation of the state's expectations rather than discovery of an essence, though the ending - Bibleman paying the computer after deciding not to - leaves open that he may one day rebel and need re-education."
+  },
+  {
+   "n": 180,
+   "file": "ch180 - Chapter 33 - “The Gun”.md",
+   "kind": "chapter",
+   "philosophers": ["adorno", "heidegger", "benjamin", "arendt", "plato"],
+   "concepts": ["culture-industry", "heidegger-technology", "benjamin-aura", "unexamined-life"],
+   "relation": "Benjamin Stevens reads 'The Gun' - a mindless automated weapon still defending a dead community - as an early statement of Dick's fear that in the Cold War military-industrial complex our very capacities for thought, will and free action may have been objectified into products of a mechanized system that no longer serves us. He brings Dick into dialogue with Adorno and Horkheimer's culture industry (we are industrially 'produced' as consumers, turned into the carbon-based equivalent of plastic), Walter Benjamin's loss of aura under mechanical reproduction, Hannah Arendt's worry that Sputnik signals an unwise desire to escape our earthliness, and Heidegger's broadened question concerning technology as social control. Like Plato, Dick insists the unexamined life is not worth living: the best life cannot be lived inside a culture that has, without our informed consent, made us artificial."
+  },
+  {
+   "n": 181,
+   "file": "ch181 - The Master’s Own Voice.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 182,
+   "file": "ch182 - Chapter 34 - Beyond Lies the Wub.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["animal-rights", "what-is-it-like", "i-thou"],
+   "relation": "Dick's first published story dramatizes the moral status of a rational nonhuman: Peterson's wub, a telepathic, philosophical Martian pig-creature, reads minds, discusses Odysseus and individuation, and pleads that it is 'a sensible being like yourselves', yet Captain Franco - obsessed with eating it - freezes it mid-sentence, shoots it looking him in the eye ('Back on the farm we had hogs'), and serves it for dinner, dismissing Peterson's grief with 'It is only organic matter, now.' The wub's personhood is established entirely through language and philosophy, but speech fails to protect it from being treated as meat, and the closing irony - Franco resuming the wub's own Odysseus meditation, as if the mind survived its meal - underscores how thin the line is between person and livestock. The story thus stages the problem of other minds and the ethics of killing sentient beings who demand to be addressed eye-to-eye rather than dined upon."
+  },
+  {
+   "n": 183,
+   "file": "ch183 - Chapter 35 - The Eyes Have It.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["language-games"],
+   "relation": "Dick's comic story has its narrator read idioms literally - 'his eyes slowly roved about the room', 'Julia had given her heart to the young man' - as proof of a disguised invasion by aliens who detach organs at will, split by binary fission, and get around 'totally lacking in brains.' The humor trades on the gap between literal meaning and idiomatic use: the narrator's interpretation is internally coherent, even biologically reasoned (starfish, unicellular beings), yet wildly wrong, showing how a paranoid reading can make innocuous evidence confirm any theory. His last words - 'I have absolutely no stomach for it' - reveal he has absorbed the idiom-literalizing delusion himself."
+  },
+  {
+   "n": 184,
+   "file": "ch184 - Skin-Jobs.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 185,
+   "file": "ch185 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 186,
+   "file": "ch186 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 187,
+   "file": "ch187 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 188,
+   "file": "ch188 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 189,
+   "file": "ch189 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 190,
+   "file": "ch190 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 191,
+   "file": "ch191 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 192,
+   "file": "ch192 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 193,
+   "file": "ch193 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 194,
+   "file": "ch194 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 195,
+   "file": "ch195 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 196,
+   "file": "ch196 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 197,
+   "file": "ch197 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 198,
+   "file": "ch198 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 199,
+   "file": "ch199 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 200,
+   "file": "ch200 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 201,
+   "file": "ch201 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 202,
+   "file": "ch202 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 203,
+   "file": "ch203 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 204,
+   "file": "ch204 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 205,
+   "file": "ch205 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 206,
+   "file": "ch206 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 207,
+   "file": "ch207 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 208,
+   "file": "ch208 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 209,
+   "file": "ch209 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 210,
+   "file": "ch210 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 211,
+   "file": "ch211 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 212,
+   "file": "ch212 - Philip K. Dick and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 213,
+   "file": "ch213 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 214,
+   "file": "ch214 - Philip K. Dick and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 156,
+   "type": "concept",
+   "suggested_slug": "bergson-possible-real",
+   "name": "The Possible and the Real",
+   "philosopher": "bergson",
+   "domain": "mind-language-metaphysics",
+   "what": "Bergson's doctrine that possibilities are projected backward from the real and that prediction only closes gates on the impossible, since lived time is radically unforeseeable (imprevisible).",
+   "why": "Chapter 156 builds its whole Precrime analysis on this essay's gate metaphor and the possible/real distinction, for which bergson-duration alone is an inadequate fit."
+  },
+  {
+   "ch": 169,
+   "type": "concept",
+   "suggested_slug": "eternalism",
+   "name": "Eternalism (vs growing block, presentism, branching futures)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The ontology of time on which past, present and future events are all equally real, opposed to the growing block, presentist and tree-pruning models of temporal being.",
+   "why": "Chapter 169 is structured as a choice among exactly these four ontologies of time to argue that chance and freedom can coexist with eternalism in the one real world."
+  },
+  {
+   "ch": 175,
+   "type": "philosopher",
+   "suggested_slug": "norbert-wiener",
+   "name": "Norbert Wiener",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Mathematician who founded cybernetics, the science of communication and control via feedback in machines, animals and society.",
+   "why": "Chapter 28's entire critique of 'Autofac' runs through Wiener's bombsight work, his definition of feedback, and The Human Use of Human Beings."
+  },
+  {
+   "ch": 175,
+   "type": "concept",
+   "suggested_slug": "cybernetics",
+   "name": "Cybernetics (feedback and control)",
+   "philosopher": "norbert-wiener",
+   "domain": "mind-language-metaphysics",
+   "what": "The science of self-regulating systems in which machines and living things alike are governed by feedback loops of information and control.",
+   "why": "Chapter 28 applies cybernetic ideas of programmed, self-perpetuating control to the runaway automatic factories of 'Autofac', and no existing slug covers cybernetics."
+  }
+ ]
+}

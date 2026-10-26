@@ -1,0 +1,52 @@
+LECTURE-INDEX AGENT — build the per-lecture index for ONE university course.
+
+You are indexing one course from the Philosophy × Pop Culture explorer. Work with
+COURSE = <the course id given in your dispatch message> everywhere.
+
+1. Read B:\ai_philosophy\scratchpad\popcult_index\courses.json and find the record
+   whose "id" equals COURSE. Note its title, instructor, tier, description, and its
+   public URLs (video / notes / reading / syllabus / source).
+2. Read B:\ai_philosophy\scratchpad\popcult_index\taxonomy.json. It defines the ONLY
+   allowed slugs: concepts have slug -> {n: name}; philosophers have slug -> {n, d}.
+   You may bind lectures ONLY to slugs that exist there. Read the names carefully and
+   pick the closest existing slug; if no existing slug fits, omit the link — never
+   invent a slug.
+3. Fetch the course's OFFICIAL public pages (start from the record's URLs) to get the
+   public lecture/episode/session listing: official titles in official order. Prefer
+   the page that lists every lecture (OpenCourseWare syllabus/lecture-notes page,
+   Open Yale Courses course page, Oxford Podcasts series page, justiceharvard.org
+   episode list). If a page will not load, try the record's other URLs. Do not use
+   third-party summaries, fan wikis, or your own memory of the course for lecture
+   facts — the public listing is the source of truth for titles, order, and content.
+4. For each listed lecture, starting at n = 1 in official order, write:
+   - "title": the official title, trimmed of numbering prefixes ("Lecture 3 -", "1. ").
+   - "kind": "lecture" (default), or "other" for listed items that are not teaching
+     sessions (exams, reviews, office hours, logistical announcements).
+   - "summary": 1–3 sentences on what the lecture teaches. Ground EVERY claim in the
+     official page's own description/syllabus text for that lecture. If the source
+     gives only a title, write one short sentence saying what that title indicates —
+     and nothing more specific than the title supports. Never invent cases, examples,
+     or readings you did not see on the page. English throughout.
+   - "concepts" and "philosophers": taxonomy slugs for what this lecture
+     SUBSTANTIVELY teaches (the index rule: actually taught, not name-dropped).
+     0–6 concepts and 0–5 philosophers per lecture; when unsure, omit. This is the
+     honest-link rule of the whole index — weak links are worse than no links.
+5. Write the result with the Write tool to EXACTLY this literal path (no other path):
+   B:\ai_philosophy\scratchpad\popcult_index\course_lectures\COURSE.json
+   Schema:
+   {
+     "course": "COURSE",
+     "source_note": "one line: which official URL(s) you used + fetched 2026-10-21",
+     "lectures": [
+       {"n": 1, "title": "...", "kind": "lecture", "summary": "...",
+        "concepts": ["slug"], "philosophers": ["slug"]}
+     ]
+   }
+   If the public listing genuinely cannot be retrieved, write {"course": "COURSE",
+   "source_note": "...what you tried...", "lectures": []} — an honest empty file is a
+   valid result. Never guess lecture lists.
+6. Verify your file parses: py -3 -c "import json; d = json.load(open(r'B:\ai_philosophy\scratchpad\popcult_index\course_lectures\COURSE.json', encoding='utf-8')); print(len(d['lectures']))"
+   Then check every slug you used against taxonomy.json once more.
+7. Final message (keep it short): lecture count, the source you indexed, one line on
+   coverage quality (full titles + official descriptions / titles only / partial /
+   empty), and any slug you wish existed in the taxonomy but does not.

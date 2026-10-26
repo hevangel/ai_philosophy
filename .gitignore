@@ -225,6 +225,7 @@ philosophy_pop_culture/
 .DS_Store
 Thumbs.db
 desktop.ini
+.kiro/
 
 # Repo-local: VPN credentials — never publish
 sratchpad/libgen_batch/gluetun_configs/
@@ -235,3 +236,7 @@ sratchpad/format-test/
 # Repo-local: VPN configs embed private keys — belt and braces
 *.ovpn
 sratchpad/libgen_batch/gluetun_configs/
+
+# Repo-local: gogs corpus mirror is machine-local only — a submodule pointer here breaks
+# GitHub Pages builds (runner cannot clone http://localhost/gogs/...)
+data/

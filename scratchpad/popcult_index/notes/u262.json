@@ -1,0 +1,532 @@
+{
+ "book": "180 - Mad Max and Philosophy - Thinking Through the Wasteland",
+ "unit": "u262",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Table of Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Series Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Notes on Contributors.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Introduction Doing Philosophy in the Wasteland.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editors' introduction argues that Max's journeys across the Wasteland mirror the activity of philosophy itself — frustrating, difficult, often painful, but eventually enlightening — as the man who 'runs from the living and the dead' is drawn into savior roles he tries to evade in every film. It frames the book's guiding questions (what politics could we build, what ethics could we salvage for parts after the fall) and previews essays on the franchise's politics, heroics, ethics, and aesthetics, closing on George Miller's chord of hope."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Acknowledgments.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Part I POLITICS AFTER THE POX‐ECLIPSE ANARCHY, STATE, AND DYSTOPIA.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "locke"
+   ],
+   "concepts": [
+    "anarchism",
+    "state-of-nature",
+    "social-contract"
+   ],
+   "relation": "Skoble argues the Mad Max world is misread as anarchy: Immortan Joe, Aunty Entity, and Humungus are genuine rulers, so the Wasteland depicts tyrannical bad government, not 'no rulers'. Against Hobbes's claim that only fear of a sovereign produces order, he cites organically evolved order (medieval merchant law, the common law, private arbitration firms) and Locke's mere 'inconveniences' of statelessness to argue peaceful anarchism is possible and stable. Thunderdome's 'two men enter, one man leaves' shows the films' dispute resolution is power-based trial by combat, not the consent-based voluntary order anarchism envisions."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "machiavelli",
+    "arendt",
+    "byung-chul-han",
+    "max-weber"
+   ],
+   "concepts": [
+    "state-of-nature",
+    "social-contract"
+   ],
+   "relation": "Spanakos and Drake argue that although the films look Hobbesian — life 'solitary, poor, nasty, brutish, and short' on roads without guardrails — rule in the Wasteland is never sustained by violence alone. Humungus needs the Toadie's epithets ('Lord Humungus... the Ayatollah of Rock and Rolla') and Immortan Joe rules through water rituals and the Valhalla myth that send War Boys kamakrazee willingly, believing they pursue their own glory. Drawing Weber's power/authority distinction, Arendt on power as people acting in concert, and above all Byung-Chul Han, they argue power takes its place 'in the soul of the other' through ritual, habit, and titles, turning into violence only when mediation fails."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes"
+   ],
+   "concepts": [
+    "state-of-nature",
+    "social-contract",
+    "moral-egoism"
+   ],
+   "relation": "Littmann treats Hobbes's Leviathan as a survival manual for post-apocalyptic Australia: the films illustrate his three causes of conflict — resource wars over guzzoline and water, preemptive strikes, and glory (the Nightrider's radio rant, Wez's stunts, the War Boys' 'Witness me!'). Bartertown's Thunderdome covenant and 'bust a deal, face the wheel' exemplify the social contract enforced by an absolute sovereign like Aunty Entity, while divided power (Master Blaster versus Aunty) courts civil war. He concludes Hobbes errs twice: Max's selfless acts (sparing Blaster, transfusing Furiosa) refute psychological egoism, and concentrating power in an Immortan Joe invites the very violence it fears — democracy removes leaders without blood."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx",
+    "hegel",
+    "gandhi",
+    "adam-smith"
+   ],
+   "concepts": [
+    "class-struggle",
+    "hegel-dialectic",
+    "invisible-hand",
+    "climate-ethics",
+    "tragedy-of-the-commons"
+   ],
+   "relation": "Thomas reads Bartertown's economy as embedded in social and political relations rather than a free market: the Underworld laborers versus Bartertown's elite stage Marx's class struggle, and the Aunty Entity–Master Blaster conflict runs through Hegel's thesis-antithesis-synthesis of capital versus labor. He treats the franchise as a post-peak-oil world, applies the tragedy of the commons and lifeboat ethics to water rationing and the Citadel's hierarchy, and counterposes Gandhi's cooperation, Adam Smith's invisible hand, and open-source-style collaboration. The conclusion: the Wasteland shows the failure of self-interest-based capitalism and the need for cooperative alternatives like direct democracy."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "utopia-dystopia"
+   ],
+   "relation": "Jones argues the franchise is neither post-apocalyptic nor dystopian: fuel keeps being produced, blood can still be typed, livestock and camel trains survive the pox-eclipse, and Max can rebuild his Interceptor, so the catastrophe was devastating but never global — Perth may be untouched. Nor is it a dystopia in the sense of Mill's coining (the opposite of More's utopia), because people demonstrably choose to live there: Bartertown boasts brothels, barbers, doctors, and a working methane plant, and Aunty Entity is a soft-hearted despot who spares Max against her own decree. A world can contain dystopian communities — the Citadel, Bartertown — without being a dystopia."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Part II THE MAN WITH NO NAME HEROES AND FINDING ONESELF POST‐APOCALYPSE STYLE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "camus",
+    "joseph-campbell"
+   ],
+   "concepts": [
+    "sisyphus",
+    "the-absurd"
+   ],
+   "relation": "Kohoutek tests Max against two models of heroism: Joseph Campbell's 'hero with a thousand faces' and Camus's absurd hero from The Myth of Sisyphus. Max never completes the Campbellian cycle — no apotheosis, no decisive victory, no return and reintegration — because the refinery tribe and the Waiting Ones mythologize him from outside (as Messiah, as Captain Walker) while he himself returns each film to the same desert. Like Sisyphus, for whom 'the whole being is exerted toward accomplishing nothing,' Max helps people build pockets of civilization he is always shut out of, making his heroism absurd rather than archetypal."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "aristotle"
+   ],
+   "concepts": [],
+   "relation": "Tepley uses Fury Road's body modifications — Max's muzzle and forced tattoo, his use as Nux's Bloodbag, Immortan Joe's breathing mask, the wives' chastity belts, Furiosa's prosthetic arm — to test five criteria for what makes something part of a human body: adhesion, bonding, life, function, and integration. He rejects adhesion, bonding, and function (boots and breathing masks have functions too), then defends integration — a part performs a function whose removal harms the body beyond the loss of that function — via a thought experiment about gradually replacing a brain with artificial parts. Verdict: Max's tattoo and Furiosa's detachable arm are not body parts, but a prosthesis wired into the nervous system would be."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wolf",
+    "nagel"
+   ],
+   "concepts": [
+    "wolf-meaning",
+    "meaning-of-life"
+   ],
+   "relation": "Berk maps Fury Road onto contemporary theories of meaning in life through three characters. Nux begins a Supernaturalist — Immortan Joe is his god and Valhalla his afterlife — collapses into nihilism after the humiliating 'Mediocre!', and ends a Naturalist who gives his life meaning by sacrificing himself to collapse the thruway and block Immortan Joe's armada. Max moves from pure survival to Susan Wolf's Hybrid Naturalism (subjective attraction meeting objective attractiveness) when he commits to retaking the Citadel, and Furiosa, already there, embodies the film's own Objective List theory: virtue, autonomy, and relationships."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Part III BUILDING A BETTER TOMORROW! ETHICS IN MAD MAX.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gilligan"
+   ],
+   "concepts": [
+    "care-ethics",
+    "ecofeminism",
+    "objectification"
+   ],
+   "relation": "Kolb reads the whole franchise through Carol Gilligan's ethics of care and the ecofeminism of Ariel Salleh and Mary Mellor: Max begins as a caregiver in an egalitarian marriage, Toecutter's gang and the Citadel embody toxic masculinity, and Aunty Entity shows women can administer patriarchal capitalism too. In Fury Road, 'We are not things,' the milking mothers, and water branded as Aqua Cola literalize Salleh's claim that capitalist patriarchy treats women and nature as resources. The Vuvalini, the Keeper of the Seeds, Max washing in mother's milk, and his voluntary blood transfusion to Furiosa enact the ethic of care as the film's saving alternative to domination."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "macintyre",
+    "aristotle",
+    "nietzsche",
+    "hobbes"
+   ],
+   "concepts": [
+    "macintyre-tradition",
+    "virtue-ethics",
+    "ubermensch",
+    "state-of-nature"
+   ],
+   "relation": "Kuzma uses MacIntyre's After Virtue to argue the Wasteland is modern morality itself: a fragmentary rubble where, like Bartertown's cobbled-together vehicles, utilitarian and deontological fragments survive without the shared telos that gave them meaning. Immortan Joe's V8 cult imposes a false telos and embodies Nietzsche's will-to-power Übermensch, while Bartertown's rules express mere individualism without any vision of the good life. Max — 'haunted by those I could not protect' — can seek the good life only by joining Furiosa's community and embracing its telos, and the Green Place turns out to be not a place but a way of life, confirming MacIntyre's Aristotle over Nietzsche."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nagel",
+    "frankfurt",
+    "wolf"
+   ],
+   "concepts": [
+    "moral-luck",
+    "second-order-desires"
+   ],
+   "relation": "Kitchen asks who is to blame in a Wasteland where Nux's 'We're not to blame!' is the standing excuse. Blaster's death in Thunderdome illustrates the problem of many hands — no one, from Max to Ironbar, was sufficient and maybe no one necessary — while Nagel's resultant, circumstantial, and constitutive luck seem to excuse War Boys indoctrinated from puphood. Applying Frankfurt's freedom of action and freedom of the will together with Susan Wolf's Real Self view through three hypothetical War Boys (Maniac, Fanatic, Addict), he argues Nux becomes praiseworthy when Capable prompts him to reflect on and revise his desires, while Immortan Joe, Slit, and the other leaders are fully responsible."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "kant"
+   ],
+   "concepts": [
+    "power-knowledge",
+    "discipline"
+   ],
+   "relation": "Meyer reads the franchise through Foucault's Madness and Civilization: Max's terror of becoming a 'terminal crazy' replays madness-as-contagion, the great confinement of the mad alongside rabid animals recurs in Max's leashing and Humungus 'unleash[ing] my dogs of war,' and delirium as one step out of reason's furrow frames Johnny the Boy's 'I was sick!' plea. Applying the M'Naghten cognitive test and the wild-beast standard to Johnny the Boy, Blaster, Wez, and Nux, he concludes most followers can still tell right from wrong and remain responsible. The ultimate blame therefore falls on the cult leaders — Toecutter, Humungus, and Immortan Joe — who manufacture and exploit a shared psychosis."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "mill"
+   ],
+   "concepts": [
+    "plato-justice",
+    "plato-tripartite-soul",
+    "punishment-theory",
+    "harm-principle"
+   ],
+   "relation": "Writing as a mechanic, Gordon argues Max embodies Plato's Republic: like the ship-of-state navigator, only someone who knows justice may rule, and the Myth of the Charioteer — reason holding the reins over spirit and appetite — explains why the Nightrider's unchecked spirit crashes while the cool-headed, deliberative Max endures. On punishment, Plato's rejection of retaliation (the unjust should be made just, not harmed) interrogates Max's execution of Johnny the Boy, while Polemarchus's 'render to each his due' frames the just-deserts debate. Mill's harm principle then justifies Max's force against the gangs once the state and its courts have vanished, leaving Max an administrator of street justice."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Part IV MOTHER'S MILK GENDER AND INTERSECTIONALITY.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "hegel"
+   ],
+   "concepts": [
+    "amor-fati",
+    "hegel-master-slave"
+   ],
+   "relation": "Conway reads Fury Road as a homecoming (nostos) story that overturns Homer's patriarchal template of Odysseus: Furiosa's trusted Green Place proves as idealistic as the War Boys' Valhalla, and both are diagnosed by Nietzsche's critique of idealism as 'mendaciousness in the face of what is necessary.' The cure is amor fati joined to Max's flinty realism — turn around and make a home by retaking the Citadel — while Hegel's master-slave dialectic explains Immortan Joe's unacknowledged dependency on the women he enslaves for milk, heirs, and recognition. The film ends with Furiosa raised up as a matriarchal ruler and Max departing as the self-exiled wounded healer, barred by his own guilt from the green place he helped make."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plumwood"
+   ],
+   "concepts": [
+    "ecofeminism",
+    "objectification",
+    "anthropocentrism"
+   ],
+   "relation": "Quick applies Cary Wolfe's humaninized/animalized humans and Carol Adams's animalized women to the Citadel: Max is hunted, caged, and muzzled as an unnamed 'it', War Pups serve like littermates, and the milking mothers produce Adams's 'feminized protein' while the 'breeders' are groomed like show animals. Following Val Plumwood's ecofeminist critique of the masculinity that conquers mother nature — and Joe's branding of water as Aqua Cola — the chapter reads Furiosa's return to the Citadel as an ecofeminist revolution in which 'We are not things' restores women, men like Nux and Max, and nature itself from property to personhood."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "crenshaw",
+    "hooks"
+   ],
+   "concepts": [
+    "intersectionality",
+    "feminism"
+   ],
+   "relation": "Pérez and Jackson use Crenshaw's intersectionality to demarginalize Aunty Entity: a Black woman (Tina Turner) in an all-white franchise, she occupies the race-gender intersection invisible both to white feminism and to Black male-centered politics, and her 'Aunty' title and high cage evoke Black women's commodified emotional labor and Angelou's caged bird. Reading her through Moreton-Robinson's white possessive doctrine, hooks's 'white supremacist capitalist patriarchy,' and the Combahee River Collective — and then through hip-hop's Thunderdome trope from 2Pac's 'California Love' to Kendrick Lamar — they argue that Max's white male gaze retroactively makes her a villain, when she is in fact the franchise's most just hero."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir",
+    "butler",
+    "hobbes"
+   ],
+   "concepts": [
+    "becoming-woman",
+    "heteronormativity",
+    "state-of-nature"
+   ],
+   "relation": "Held uses the Wasteland as a Hobbesian state-of-nature reset to pry apart biological sex and socially constructed gender: Aunty Entity and Furiosa show that sex is not destiny — one is not born, but becomes, a woman, as Beauvoir says — while the apocalypse scrambles gendered conventions yet leaves reproductive biology untouched. Butler's sex/gender distinction frames how a real difference like gestation gets weaponized into Immortan Joe's breeder system: the biology is a fact, the enslavement a choice. Finally, the casually acknowledged bond between Wez and the Golden Youth looks 'homoerotic' only through the viewer's heteronormativity — in the Wasteland, orientation categories simply stop mattering."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Part V WASTELAND AESTHETICS MUSIC, FASHION, AUSTRALIA, AND NATURE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "schopenhauer"
+   ],
+   "concepts": [
+    "schopenhauer-will",
+    "catharsis"
+   ],
+   "relation": "Belluomini analyzes how Junkie XL's score drives Fury Road aesthetically. Aristotle's Politics Book 8 and his theory of catharsis explain why the 'Bloodbag' cue's war-drum rhythms imitate the War Boys' anger and fear while purging ours, and 'emotions of appreciation' at the beauty of 'Brothers in Arms' and 'Storm Is Coming' deepen our admiration of the film. Max's cello motif — one, two, or three repeated notes — telegraphs his panic, safety, or menace and advances the plot with almost no dialogue, and Schopenhauer's claim that the right music is a scene's 'most accurate and distinct commentary' fits the hopeful 'Claw Trucks' cue as Max chooses redemption."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger"
+   ],
+   "concepts": [
+    "heidegger-technology",
+    "disability-philosophy",
+    "embodiment"
+   ],
+   "relation": "Di Summa reads Jenny Beavan's costume design as philosophy of technology: Immortan Joe's oxygen-fed carapace and the chrome-spraying War Boys visualize Heidegger's warning that technology converts nature and bodies into resources, while Max's blood-drip tether to Nux literalizes our co-dependence on machines — and on each other's flesh and blood. Through Rosemarie Garland-Thomson's staring, Sherri Irvin's body aesthetics, and Tobin Siebers's disability aesthetics, Furiosa's uncovered stump becomes an act of aesthetic exploration that defeats ableism: in this film, disability is a thing for heroes, and vulnerability is itself a human strength."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "catharsis"
+   ],
+   "relation": "Littmann asks whether the Mad Max films owe Australians an Australian feel, weighing accents (Theron's Midwestern Furiosa, Hardy's English Max), the Namibian locations of Fury Road, and the franchise's mixed debts to Australian road movies and bushranger lore versus American action cinema. Applying Aristotle's Poetics standard that characters act 'by the rule either of necessity or of probability,' he judges the improbable accents artistic faults that may still be worth their box-office payoff, and notes the saga's international gross grew as its Australianness faded. On representation, he argues that if seeing Australians matters for building sympathy, the same must hold for Indonesians, Pakistanis, and Brazilians — and leaves the question open."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Notes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bostrom",
+    "kant"
+   ],
+   "concepts": [
+    "kant-respect"
+   ],
+   "relation": "Koepsell argues the franchise stages the bioconservatism-versus-transhumanism debate: the villains are machine-altered (Immortan Joe's breathing gear, the People Eater's prosthetic nose, Master Blaster's contraption) while the saved live green and unmodified, so George Miller's films side with Leon Kass's bioconservatism against Nick Bostrom's transhumanist embrace of enhancement. Dignity — derived from Kant and contested between Kass and Bostrom — is the hinge, and the recurring green places (the family farm, the Sunshine Coast, the Crack in the Earth, the Green Place) mark the dignity of nature the Wasteland destroyed. The bioconservative lesson holds even though Max and Furiosa, patched with prosthetics, must partially embrace their posthuman condition to survive."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - End User License Agreement.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 11,
+   "type": "philosopher",
+   "suggested_slug": "byung-chul-han",
+   "name": "Byung-Chul Han",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Contemporary philosopher of power who argues power works by mediation, ritual, and habit — 'taking its place in the soul of the other' — and degenerates into violence only when unmediated.",
+   "why": "Chapter 2's conclusion explicitly rests on Han's What Is Power?: Immortan Joe's water rituals and Humungus's epithets show that 'power shines in its own absence.'"
+  },
+  {
+   "ch": 11,
+   "type": "philosopher",
+   "suggested_slug": "max-weber",
+   "name": "Max Weber",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Sociologist who defined the state as the monopoly of legitimate coercion and distinguished mere power from authority grounded in legitimacy.",
+   "why": "Chapter 2 uses Weber's power/authority distinction to explain why Humungus needs the title 'Lord' and why a mugger's threat is power without authority."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "tragedy-of-the-commons",
+   "name": "The Tragedy of the Commons",
+   "philosopher": "",
+   "domain": "environment-animal",
+   "what": "Garrett Hardin's problem that individually rational overuse of unowned shared resources depletes them, extended into lifeboat ethics for allocating survival under scarcity.",
+   "why": "Chapter 4's title and core analysis read Bartertown's pig-shit economy, water rationing, and the spaceship-Earth model through the commons tragedy, peak oil, and lifeboat ethics, none of which taxonomy covers."
+  },
+  {
+   "ch": 16,
+   "type": "philosopher",
+   "suggested_slug": "joseph-campbell",
+   "name": "Joseph Campbell",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Mythologist of The Hero with a Thousand Faces whose monomyth structures the hero's journey of departure, trials, apotheosis, and return.",
+   "why": "Chapter 6 measures Max against Campbell's hero's journey as its primary framework, concluding he fails the return-and-reintegration stage and is instead Camus's absurd hero."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "bodily-parthood",
+   "name": "Bodily Parthood (mereology of the body)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The metaphysical question of what makes something a part of a human body, tested through criteria such as adhesion, bonding, life, function, and integration.",
+   "why": "Chapter 7's entire argument builds and tests five criteria of bodily parthood against Fury Road's muzzles, tattoos, blood bags, and prosthetic arms; taxonomy has no parthood or material-constitution concept."
+  },
+  {
+   "ch": 27,
+   "type": "philosopher",
+   "suggested_slug": "cary-wolfe",
+   "name": "Cary Wolfe",
+   "philosopher": "",
+   "domain": "environment-animal",
+   "what": "Posthumanist theorist of the human/animal divide whose categories of humaninized and animalized humans track who is granted full human standing.",
+   "why": "Chapter 15 sorts the Citadel's population with Wolfe's humaninized/animalized distinction: Joe and his heirs at the top, Max the muzzled 'it' and the War Pups below."
+  },
+  {
+   "ch": 27,
+   "type": "philosopher",
+   "suggested_slug": "carol-adams",
+   "name": "Carol J. Adams",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Feminist-vegetarian theorist (The Sexual Politics of Meat) whose 'feminized protein' and animalized-women categories link misogyny with the exploitation of female animals.",
+   "why": "Chapter 15 applies Adams's categories to the Citadel's milking mothers and breeders, reading Mother's Milk as feminized protein produced by animalized women."
+  },
+  {
+   "ch": 28,
+   "type": "concept",
+   "suggested_slug": "white-possessive-doctrine",
+   "name": "The White Possessive Doctrine",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Aileen Moreton-Robinson's account of patriarchal white sovereignty as a possessive logic that naturalizes the nation and its stories as white property.",
+   "why": "Chapter 16 invokes the white possessive doctrine repeatedly to explain the all-white first two Mad Max films and to question whether Max's assumed authority rests on unmarked whiteness."
+  },
+  {
+   "ch": 31,
+   "type": "concept",
+   "suggested_slug": "aristotle-poetics",
+   "name": "The Poetics (catharsis)",
+   "philosopher": "aristotle",
+   "domain": "ancient",
+   "what": "Aristotle's account in the Poetics and Politics that arousing fear, pity, and anger in audiences purifies them (catharsis) and trains character through rhythm and melody.",
+   "why": "Chapter 18 applies catharsis and Politics Book 8 to explain why Junkie XL's Fury Road score benefits viewers by arousing and purging negative emotions."
+  },
+  {
+   "ch": 33,
+   "type": "concept",
+   "suggested_slug": "aristotle-poetics",
+   "name": "The Poetics (necessity and probability)",
+   "philosopher": "aristotle",
+   "domain": "ancient",
+   "what": "Aristotle's demand that plot and character unfold by necessity or probability, with improbable wonders tolerated only when they buy emotional power.",
+   "why": "Chapter 20 applies the Poetics probability standard to judge Fury Road's Namibian scenery and non-Australian accents as artistic faults, and to weigh the value of representation."
+  },
+  {
+   "ch": 34,
+   "type": "concept",
+   "suggested_slug": "bioconservatism",
+   "name": "Bioconservatism vs Transhumanism",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The view (Leon Kass) that human nature and untouched nature carry an inherent dignity that enhancement technologies violate, opposed by transhumanists like Bostrom who see posthuman dignity as complementary.",
+   "why": "Chapter 21 argues the whole franchise stages the Kass–Bostrom debate — villains are machine-altered, the saved live green and unmodified — and taxonomy lacks any bioethics-of-enhancement concept."
+  }
+ ]
+}

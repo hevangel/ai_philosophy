@@ -1,0 +1,305 @@
+{
+ "book": "050 - Facebook and Philosophy - What's on Your Mind_",
+ "unit": "u082",
+ "chapters": [
+  {
+   "n": 23,
+   "file": "ch23 - 12 - Care Ethics, Friendship, and facebook.md",
+   "kind": "chapter",
+   "philosophers": [
+    "noddings"
+   ],
+   "concepts": [
+    "care-ethics",
+    "care-ethics-noddings",
+    "relational-autonomy"
+   ],
+   "relation": "Hamington surveys a hundred Facebook users and argues, through care ethics — Noddings's 'here I am' disposition and her natural versus ethical caring — that Facebook can make us more ethical, because the stream of small particulars about friends supplies the knowledge that is a necessary condition for caring. He uses Benhabib's concrete other to explain how status updates make distant lives 'real' to us, and confesses his own de-friending of a student over a racist comment as a case of Facebook's convenience making it easy not to care. The chapter ends by claiming Facebook dissolves the binary of close friend versus nodding acquaintance into a postmodern range of fluid, mediating friendships, while insisting caring is learned through the body and merely extended, not replaced, in virtual space."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 13 - What Are Friends For.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "aristotle",
+    "adorno"
+   ],
+   "concepts": [
+    "heidegger-technology",
+    "authenticity",
+    "das-man",
+    "aristotle-friendship"
+   ],
+   "relation": "Bloor reads Facebook anxiety through Heidegger's diagnosis of technological nihilism — an efficiency-driven 'being-in-the-world' with no shared arbiter of what matters — borrowing Dreyfus's HAL 9000 example from 2001: A Space Odyssey to show humans enhancing themselves like any other raw material. He argues Facebook's speed lures users into unreflective sharing and standardized behavior where the quirky authentic 'I' dissolves into Heidegger's 'one,' and recruits Aristotle's view that only a few deep friendships morally form us to warn that hundreds of contacts fragment that benefit. Adorno on leisure as mere recuperation between bouts of work frames the therapist who keeps Facebook strictly professional, and the chapter concludes the fault lies in ourselves, not the tools — suggesting a week offline as a test."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Social Networking - How to Win Virtual Friends and Influence Virtual People.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marcuse",
+    "horkheimer",
+    "mcluhan",
+    "nietzsche",
+    "ivan-illich"
+   ],
+   "concepts": [
+    "culture-industry",
+    "one-dimensional-man",
+    "marx-ideology",
+    "conviviality"
+   ],
+   "relation": "Written as a breakup letter to Facebook, the chapter first reconstructs the Frankfurt School hope that new media could overcome old mass media's passivity — Horkheimer and Adorno's culture industry, Marcuse's one-dimensional man, Althusser's ideology as the form of media — and then tests the site against Ivan Illich's criteria for 'convivial tools.' Briggle finds Facebook fails on Illich's terms: its public walls and News Feed force self-censored persona management before a mixed audience, and its shapeless, undifferentiated flood of updates leaves the user disoriented like Nietzsche's madman after the death of God. Because the site's 'grain' channels users into 'reluctant, hapless exhibitionism' and even imposes the obligation to join, he logs off, concluding that tools reflect our image more than they remake it."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 15 - Gossip and the Evolution of facebook.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein"
+   ],
+   "concepts": [
+    "language-games"
+   ],
+   "relation": "Cuonzo imports Robin Dunbar's gossip theory — that language evolved to build alliances by replacing primate grooming once groups grew past roughly 150 — to present Facebook as the same efficiency leap in social bonding, where one status update reaches thousands and pokes, virtual flowers, and food gifts revive pre-linguistic bonding gestures. She then argues Facebook is a new form of communication rather than a mere new vehicle: pictorial, non-verbal practices like SuperPoke are not translatable into ordinary language, an inference that assumes meanings are fixed by a community's linguistic practices. The social bonds it forms are correspondingly novel — informational and esteem-building rather than the physical mutual aid that once anchored alliances."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 16 - facebook as an Excess of Seeing.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bakhtin",
+    "goffman"
+   ],
+   "concepts": [
+    "excess-of-seeing"
+   ],
+   "relation": "Lattimore frames the teacher-student Facebook encounter with Bakhtin's 'excess of seeing' — the viewer always sees more of a person than the person can see of themselves (their face, the world behind their back) and so 'consummates' them — warning against building a 'creepy treehouse' by co-opting students' network for classwork. She explains generational differences in use (her under-25 students' in-joke statuses versus colleagues' quiz posts) through Goffman and Bateson's frames, Granovetter's weak ties, and Strauss and Howe's lifecycle phases, arguing each cohort frames the network differently. Practicing Bakhtin's sympathetic projection into another's profile lets users see themselves as others see them, so that no single photo or quiz consummates a life."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - 17 - Do Status Updates Have Any Value.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "aristotle"
+   ],
+   "concepts": [
+    "parasocial-relationship",
+    "hume-natural-sympathy"
+   ],
+   "relation": "Fairweather and Halpern answer the Facebook-skeptic who dismisses status updates as vanity by reading them through Hume's 'natural sympathy' — our disinterested fellow-feeling with any well-presented human sentiment — which they identify with Clive Thompson's 'ambient awareness,' the pointillist portrait assembled from mundane updates. They argue Facebook's structure is a 'great equalizer': because friends need not know one another, no dominance hierarchies or intimacy rituals form, removing offline barriers to sympathy. The first-person, here-and-now grammar of updates invites exactly the quasi-first-personal curiosity that empathy requires, though they concede one-way, unanswered updates may show only that 'the machinery of morality' is revved up, not that users are morally improved."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 18 - Gatekeeper, Moderator, Synthesizer.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard",
+    "kierkegaard"
+   ],
+   "concepts": [
+    "simulacra",
+    "authenticity"
+   ],
+   "relation": "Butera casts Facebook's three core features as instruments of control: friending is a 'gatekeeper' admitting selected others, the status update a 'moderator' constantly re-authoring the avatar's identity for multiple audiences, and the News Feed a 'synthesizer' that assembles a filtered pseudo-community where friends can be hidden or stalked invisibly. Reading this through Baudrillard's 'promiscuity' of communication networks — the extermination of the interstitial space where the social happens — and Kierkegaard's case that a meaningful life requires openness to the unknown, he weighs unrestricted community as authentic contact against the gated community that keeps exchange meaningful. The defunct no-privacy experiment Buddytown serves as counterpoint, and he concludes that some gatekeeping is essential lest connectivity become an overwhelming flood of nonsense."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Activity and Passivity - Maybe Se Puede!.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 19 - facebook, Surveillance and Power.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "habermas",
+    "bentham"
+   ],
+   "concepts": [
+    "panopticon",
+    "power-knowledge",
+    "public-sphere",
+    "biopower"
+   ],
+   "relation": "Doyle and Fraser open with the Lady Shelley Sawers affair, in which Britain's new MI6 chief was exposed by his wife's public Facebook profile, to ask whether social networks democratize surveillance or perfect it. They read the CIA's social-media monitoring, the Chris Dreyfus promotion case, and Facebook's Beacon advertising scheme through Foucault — Bentham's Panopticon, the carceral continuum, regimes of truth, and the shift to statistically managing populations — arguing that narcissistic self-display makes people 'most controllable,' while Habermas's public sphere frames the hopeful side: Beacon's defeat by user protest, Glassdoor, and Iran's Twitter revolution as diffused power against the centralized state. Foucault's answer is neither utopia nor repression but an ethics of self-management for playing power games with minimum domination."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - 20 - Wall to Wall or Face to Face.md",
+   "kind": "chapter",
+   "philosophers": [
+    "habermas"
+   ],
+   "concepts": [
+    "public-sphere",
+    "ideal-speech-situation"
+   ],
+   "relation": "Bar-Tura, a Chicago Jewish social-justice organizer, evaluates Facebook by Habermas's ideal speech situation — equal chances to speak, initiate, and question, aimed at consensus — recounting how Jewish and Muslim teens scheduled to bowl together first met online and shed stereotypes by browsing each other's profiles. Yet face-to-face planning surfaced what wall-to-wall could not: the Shabbat timing question, and Muslim parents' unease about a north-side venue, which revealed socio-economic and racial divides rather than religious ones. Fixed, market-driven profile categories and the 'Daily Me' of niche idea consumption limit Facebook as a public sphere, so profiles must become people and the group must actually gather for social change."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - 21 - facebook as Playground and Factory.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx",
+    "arendt",
+    "guy-debord"
+   ],
+   "concepts": [
+    "society-of-the-spectacle",
+    "playbour",
+    "power-as-acting-together"
+   ],
+   "relation": "Scholz argues Facebook is both playground and factory: a space of publics where, in the Arendtian sense he opens with, power is 'the potential to act together,' and a machine that expropriates play as 'interactivity labor' — attention sold to advertisers, ten thousand volunteers translating the interface into sixty-three languages, and data trails aggregated, sold, and locked in a walled garden ('you can check out any time you like, but you can never leave'). Quoting Tim O'Reilly's 'they are participating without thinking that they participate,' he claims users generate surplus value they never see, while 'user uprisings' against the News Feed are mere Debordian spectacles of Internet democracy — enhanced consumer feedback loops. He ends by asking how to secure self-disclosure and meaningful collective action, pointing to non-commercial alternatives like Crabgrass, inside 'the playground that is a factory.'"
+  },
+  {
+   "n": 34,
+   "file": "ch34 - 22 - The Proles and Cons of facebook.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "class-struggle",
+    "marx-ideology"
+   ],
+   "relation": "Morgan and Clulow stage a second-person narrative in which the reader joins a friend's 'Against Corporate Polluters' Cause and receives a manifesto opening with the Communist Manifesto's 'history of all hitherto existing society is the history of class struggles,' updating the proletariat into the internet-era 'iProles' via a mock discussion board voiced by Chomsky, Engels, Luxemburg, and Liebknecht. Facebook's global reach builds real coalitions — the group links up with Iranian environmentalists — but distraction, fragmented duplicate groups, one-click commitment (the 200,000-member 'Obama Grow an Afro' group dwarfing a 57-member Kyoto group), and Facebook's corporate power to silence users (Kieron Bimpson's 'Justice for Francesca' group deleted as spam) blunt its activist promise. Only disciplined uses like Obama's campaign and Carrotmob convert the network into offline change — and elites can play on the same platform."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - 23 - Faking It on facebook.md",
+   "kind": "chapter",
+   "philosophers": [
+    "zizek",
+    "lacan"
+   ],
+   "concepts": [
+    "lacan-symbolic",
+    "marx-ideology",
+    "interpassivity"
+   ],
+   "relation": "Muhr and Pedersen apply Žižek's interpassivity — canned laughter and hired funeral 'weepers' that enjoy or mourn on our behalf — to Facebook, arguing the profile is a surrogate self that enjoys, believes, and suffers for us while being frantically kept alive like a Tamagotchi. The motive, they argue, is escape from the demands of the symbolic order (the Lacanian system of social expectations Žižek works with): our offline identity is 'already a mask,' and Facebook defers rather than removes the duty to be a good, enjoying, authentic person. Since, as in Žižek's comparison of German, French, and American toilets, ideology operates at the level of action rather than belief, users 'fake it till they make it' — performing vibrant, interesting lives until the faked feelings become real."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Keyword Search.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Facebook and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 25,
+   "type": "philosopher",
+   "suggested_slug": "ivan-illich",
+   "name": "Ivan Illich",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Catholic priest and radical social critic whose Tools for Conviviality (1973) attacked institutionalized modernization and defined 'convivial tools' that anyone can freely use for self-chosen ends.",
+   "why": "Chapter 25 is structured entirely as a test of Facebook against Illich's conviviality criteria, making him the chapter's central thinker and he is absent from the taxonomy.",
+   "accepted": true
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "conviviality",
+   "name": "Conviviality (convivial tools)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Illich's ideal of autonomous, creative intercourse among persons, served by tools usable by anyone, for self-chosen purposes, without imposing obligations to use them.",
+   "why": "Chapter 25 judges Facebook by this standard — public self-censorship and disorienting information floods fail it — and no taxonomy slug names conviviality.",
+   "accepted": true
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "excess-of-seeing",
+   "name": "Excess of Seeing (Bakhtin)",
+   "philosopher": "bakhtin",
+   "domain": "political-social",
+   "what": "Bakhtin's claim that a viewer always sees more of a person than that person can see of themselves (their face, the world behind their back) and thereby 'consummates' or finishes them.",
+   "why": "Chapter 27 uses this concept as its title and organizing lens for how teachers view students' Facebook profiles, and no taxonomy concept captures it.",
+   "accepted": true
+  },
+  {
+   "ch": 28,
+   "type": "concept",
+   "suggested_slug": "hume-natural-sympathy",
+   "name": "Natural Sympathy (Hume)",
+   "philosopher": "hume",
+   "domain": "medieval-early-modern",
+   "what": "Hume's 'disinterested sympathy': an innate fellow-feeling with human sentiment in general (theater, history, a well-contrived apartment) that gives pleasure and, when refined, grounds our moral standards.",
+   "why": "Chapter 28's entire answer to the Facebook-skeptic is that status updates feed natural sympathy via 'ambient awareness,' and no taxonomy slug captures this Humean concept.",
+   "accepted": true
+  },
+  {
+   "ch": 32,
+   "type": "concept",
+   "suggested_slug": "ideal-speech-situation",
+   "name": "Ideal Speech Situation (Habermas)",
+   "philosopher": "habermas",
+   "domain": "political-social",
+   "what": "Habermas's regulative ideal of discourse in which all affected have equal chances to speak, initiate, question, and give reasons, oriented toward consensus.",
+   "why": "Chapter 32 evaluates Facebook organizing against this standard — distinct from the public sphere concept it draws on — so the chapter needs it as its own slug.",
+   "accepted": true
+  },
+  {
+   "ch": 33,
+   "type": "concept",
+   "suggested_slug": "playbour",
+   "name": "Playbour (digital/free labor)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Unpaid user activity on commercial platforms — posting, tagging, translating, generating data trails — that functions as value-producing labor for platform owners.",
+   "why": "Chapter 33's thesis is that Facebook's play is 'interactivity labor' creating surplus value through attention, volunteer work, and data mining, and no taxonomy slug names the phenomenon.",
+   "accepted": true
+  },
+  {
+   "ch": 33,
+   "type": "concept",
+   "suggested_slug": "power-as-acting-together",
+   "name": "Power as Acting in Concert (Arendt)",
+   "philosopher": "arendt",
+   "domain": "political-social",
+   "what": "Arendt's account of power as the human ability to act in concert — it exists only among people together in a public world, never as an individual possession.",
+   "why": "Chapter 33 defines power as 'the potential to act together' in public and measures Facebook's publics against it, but the taxonomy has no Arendt power concept.",
+   "accepted": true
+  },
+  {
+   "ch": 35,
+   "type": "concept",
+   "suggested_slug": "interpassivity",
+   "name": "Interpassivity (Žižek)",
+   "philosopher": "zizek",
+   "domain": "political-social",
+   "what": "Žižek's notion that a medium or object can undergo, enjoy, or believe on the subject's behalf (canned laughter, funeral weepers, the VCR), deferring the subject's own passivity.",
+   "why": "Chapter 35's whole argument is that the Facebook profile is an interpassive double that feels and believes for us, a concept absent from the taxonomy.",
+   "accepted": true
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+  "course": "yale-wellbeing",
+  "source_note": "Coursera official course page for 'The Science of Well-Being' (offered by Yale University), https://www.coursera.org/learn/the-science-of-well-being — the course-platform listing linked from Yale's official page https://online.yale.edu/courses/science-well-being (which itself shows only a bare course description); fetched 2026-10-21",
+  "lectures": [
+    {
+      "n": 1,
+      "title": "Introduction",
+      "kind": "lecture",
+      "summary": "Introduces the course purpose, structure, and expectations and establishes the central idea that well-being can be learned and strengthened. Learners begin by measuring their current level of well-being and identifying personal strengths; videos include 'Become Happier by Learning & Applying Psychological Science' and 'What is the G.I. Joe Fallacy?'.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 2,
+      "title": "Misconceptions About Happiness",
+      "kind": "lecture",
+      "summary": "Examines common beliefs about what makes people happy and why they are often inaccurate. Learners explore research on money, achievement, possessions, and other commonly desired outcomes, and are introduced to gratitude and savoring as practices that can support greater well-being.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 3,
+      "title": "Why Our Expectations are so Bad",
+      "kind": "lecture",
+      "summary": "Explores the cognitive biases and 'annoying features of the mind' that cause people to mispredict what will make them happy, examining the roles of intuition, comparison, adaptation, and affective forecasting in judgment and behavior. A reading on kindness and social connection introduces them as practical strategies for improving well-being.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 4,
+      "title": "How Can We Overcome Our Biases",
+      "kind": "lecture",
+      "summary": "Focuses on practical ways to counter cognitive biases and improve daily well-being: rethinking 'awesome stuff', thwarting hedonic adaptation, and resetting reference points. Learners consider experiential purchases, intentional activities that improve mood, and how exercise and sleep contribute to well-being.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 5,
+      "title": "Stuff that Really Makes Us Happy",
+      "kind": "lecture",
+      "summary": "Examines the behaviors and mindsets most strongly associated with improved well-being, with evidence on kindness, social connection, time affluence, mindfulness, sleep, and exercise. Videos reconsider achievement-related goals ('Good Job', 'Good Grades') and include interviews with psychologists Elizabeth Dunn and Nicholas Epley.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 6,
+      "title": "Putting Strategies into Practice",
+      "kind": "lecture",
+      "summary": "Brings the course's key ideas together around practical implementation: how situations and environments shape behavior, effective goal-setting (with an interview with Gabriele Oettingen), and a final 'rewirement' challenge supporting long-term habit formation.",
+      "concepts": ["situationism"],
+      "philosophers": []
+    }
+  ]
+}

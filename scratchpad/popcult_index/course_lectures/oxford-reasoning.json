@@ -1,0 +1,62 @@
+{
+  "course": "oxford-reasoning",
+  "source_note": "Oxford Podcasts series page https://podcasts.ox.ac.uk/series/critical-reasoning-beginners plus the six individual episode pages (/nature-arguments, /different-types-arguments, /setting-out-arguments-logic-book-style, /what-good-argument-validity-and-truth, /evaluating-arguments-part-one, /evaluating-arguments-part-two); fetched 2026-10-21",
+  "lectures": [
+    {
+      "n": 1,
+      "title": "The Nature of Arguments",
+      "kind": "lecture",
+      "summary": "The opening lecture of the six-part course. It teaches how to recognise arguments and what the nature of an argument is.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 2,
+      "title": "Different Types of Arguments",
+      "kind": "lecture",
+      "summary": "The second of six lectures on critical reasoning, introducing the different types of arguments — in particular, deductive and inductive arguments.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 3,
+      "title": "Setting out Arguments Logic Book Style",
+      "kind": "lecture",
+      "summary": "Part three of the series focuses on how to identify and analyse arguments, and how to set them out logic book-style to make them easier to evaluate.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 4,
+      "title": "What is a Good Argument? Validity and Truth",
+      "kind": "lecture",
+      "summary": "Part four of the series turns to evaluating arguments and how to tell whether an argument is good or bad, focusing specifically on inductive arguments.",
+      "concepts": ["hume-induction"],
+      "philosophers": []
+    },
+    {
+      "n": 5,
+      "title": "Evaluating Arguments Part One",
+      "kind": "lecture",
+      "summary": "Part five continues with the evaluation of arguments — this time deductive arguments — focusing in particular on the notion of validity.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 6,
+      "title": "Evaluating Arguments Part Two",
+      "kind": "lecture",
+      "summary": "In the final lecture the series looks at fallacies: bad arguments that can easily be mistaken for good arguments.",
+      "concepts": ["informal-fallacies"],
+      "philosophers": []
+    },
+    {
+      "n": 7,
+      "title": "Further reading and more...",
+      "kind": "other",
+      "summary": "A short closing item added after the course, pointing listeners who have finished the series of podcasts to where to go from here; not a teaching session.",
+      "concepts": [],
+      "philosophers": []
+    }
+  ]
+}

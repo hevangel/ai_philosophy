@@ -1,0 +1,429 @@
+{
+ "book": "029 - Quentin Tarantino and Philosophy - How to Philosophize with a Pair of Pliers and a Blowtorch",
+ "unit": "u045",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Quentin Tarantino and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Popular Culture and Philosophy Series Editor George A. Reisch.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Acknowledgements.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Let’s Go to Woik.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editors' introduction argues that Tarantino makes the most aggressively self-reflexive films in mainstream cinema, from the Madonna and tipping talk of Reservoir Dogs to Death Proof's Seventies retro pastiche, and asks whether such films possess real philosophy or merely generate the illusion of depth with a canny wink. It identifies three recurring preoccupations across his work—the irony of ethical standards in criminal society, the difficulty of sorting received information from direct experience, and language as a determinant of identity and value—illustrated by Vincent Vega's pontifications in Pulp Fiction. Because Tarantino's characters knowingly recall similar characters from earlier films, the introduction warns that interpreting their ethics requires engaging the films' play of cinematic surfaces, not just their overt content."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - PART I - “Everybody Be Cool, This Is a Robbery”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - What of Philosophical Relevance Is there in Tarantino’s Films.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "mill",
+    "socrates"
+   ],
+   "concepts": [
+    "hume-miracles",
+    "hume-sentimentalism"
+   ],
+   "relation": "Bruce Russell argues that Tarantino's films share a pattern—a cruel man's life goes awry, violence erupts, and glimpses of compassion appear, like Mr. White comforting the shot Mr. Orange—but that fiction can raise philosophical questions without justifying general philosophical theses. He uses the Pulp Fiction exchange over the bullets that missed Jules and Vincent to raise Hume's problem of miracles (divine intervention versus a 'freak occurrence'), and applies the accounts of Mill, Gibbard, Hare and Hume to show that even Vincent's twisted code—balcony drops for foot massages, execution for keying a car—counts as having a morality. His conclusion: the films raise, but never answer in depth, the questions of what a miracle is and what it is to have a morality."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Freeze-Frame Ending.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard",
+    "deleuze"
+   ],
+   "concepts": [
+    "simulacra"
+   ],
+   "relation": "Aaron Anderson reads Death Proof through Baudrillard's hyperreality: Tarantino's references to Vanishing Point and Dirty Mary, Crazy Larry become simulations that feel more real than their originals, at times collapsing into simulacra that reference nothing but other references. He analyzes Stuntman Mike with Deleuze's account of sadism and masochism—the death-proof car as an extension of his murdering body where pleasure fuses with pain—and argues the finale invites the audience to share Kim, Zoë and Abernathy's own sadism. The repeated, slow-motion car crash is where simulation, technology and the human body collide."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The End of the Leash.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "schopenhauer",
+    "kant"
+   ],
+   "concepts": [
+    "apollonian-dionysian",
+    "schopenhauer-will"
+   ],
+   "relation": "Travis Anderson unleashes Nietzsche's Birth of Tragedy on Reservoir Dogs, reading the color-coded aliases as an Apollonian dismemberment of a primordial unity and the pop soundtrack ('Little Green Bag', 'Stuck in the Middle with You') as the Dionysian music structuring the film from within. He defends the ear-cutting scene's excess as creative Dionysian expression rather than gratuity, answering Ella Taylor's charge of 'frighteningly pure art'. Mr. Pink's survival—professional, anonymous, untouched by compassion—marks the reconstituted Dionysus: all but one color must die for the gang to be rejoined in the redemptive orgy of Greek tragedy."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - PART II - “I Bet You’re a Big Lee Marvin Fan”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - An Amoral Universe.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume"
+   ],
+   "concepts": [
+    "moral-psychology",
+    "hume-sentimentalism"
+   ],
+   "relation": "James Spence rejects the DVD's profile of the Dogs as amoral psychopaths, arguing instead that Reservoir Dogs is filled with morality of just the kind Hume describes: natural sympathies plus artificial virtues constructed to manage conflicts among self-interested people. The tipping debate shows Mr. Pink reasoning with desert and fairness; Mr. Blonde's excuse that the clerks 'touched the alarm', White's 'Just cops' dehumanization, and the professional code restricting violence all display exactly the moral identity-management human psychology predicts. The film thus indirectly supports a third view on which morality grows from human nature and social interaction—criminals cannot actually think outside it."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Are We Going Too Far.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "locke",
+    "nietzsche",
+    "socrates"
+   ],
+   "concepts": [
+    "punishment-theory",
+    "forgiveness",
+    "buddhist-karma",
+    "ressentiment",
+    "bushido"
+   ],
+   "relation": "David Kyle Johnson distinguishes revenge (personal, emotional, unlimited) from retribution and argues that 'Tarantino's view'—mercy should be common practice yet revenge can be justified—is consistent: Jules buys Pumpkin and Honey Bunny's lives but never waives a right of vengeance, since they never wronged him. He tests the view against Bushido, showing Beatrix's revolt against her lord Bill violates the samurai code, and against karma, which makes revenge unnecessary. After finding that Hobbes, Locke, Nietzsche and Socrates all leave revenge's justification open, he defends it—citing Budd's 'that woman deserves her revenge'—so long as the punishment fits the crime and spares innocents, as when Beatrix refuses to make herself even by killing Vernita's daughter Nikki."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Virtues of Superhumans.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "kant",
+    "mill",
+    "nietzsche"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "categorical-imperative",
+    "utilitarianism",
+    "kant-humanity-formula"
+   ],
+   "relation": "Rachel Robison tests the Deadly Viper Assassination Squad against three ethical theories. Act and rule utilitarianism condemn killing Vernita in front of Nikki and revenge in general; Kant's categorical imperative condemns Elle's black-mamba betrayal of Budd (contradiction in conception), O-Ren's beheading of a dissenter (contradiction in will), and Buck's selling of comatose women (treating persons as mere means). She concludes the Squad instead follows a bastardized Aristotelian virtue ethics—Bill's Superman speech, contempt for Budd's shotgun bushwhack and Elle's poisoning of Pai Mei define courage as the mean between cowardice and rashness—so Beatrix would be cowardly not to seek revenge."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Finder of Lost Children.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aquinas",
+    "aristotle"
+   ],
+   "concepts": [
+    "forgiveness",
+    "golden-rule",
+    "aquinas-double-effect"
+   ],
+   "relation": "Timothy Dean Roth reads Kill Bill as a modern Divine Comedy: Tarantino punishes by contrapasso like Dante—O-Ren dies by Japanese steel, Budd by snake, Elle by blindness, Bill by a broken heart—and both treat vengeance as a form of truth-telling and an act of love. Hattori Hanzo's warning that revenge 'is a forest' echoes Aristotle on how hard it is to set the limits of anger, while the stories-within-stories of orphaned Nikki and O-Ren enact the cycle of violence vengeance perpetuates. Against this, Aquinas's doctrine of double effect shows every one of the Bride's killings is defensive self-preservation, and the film ends where Jules's arc ends: in mercy, mutual forgiveness and a whispered 'thank you' of grace."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Mr. Rawls and the Decision Procedure.md",
+   "kind": "chapter",
+   "philosophers": [
+    "rawls",
+    "kant",
+    "mill"
+   ],
+   "concepts": [
+    "punishment-theory",
+    "veil-of-ignorance",
+    "harm-principle",
+    "justice-as-fairness"
+   ],
+   "relation": "Joseph Ulatowski uses Mr. Blonde's torture of Marvin to test theories of punishment. He argues Blonde is not a mere psychopath but a retributivist within his social code—punishing clerks who 'touched the alarm' and cops who violated Mill's harm principle—while distinguishing acting on a principle from merely acting in accordance with one, since Blonde acts from sadistic urges. After reviewing Kant's lex talionis and the utilitarian theory's flaws, he asks whether Hart and Sterba's Rawlsian 'retributivism as fairness', whose principles are chosen behind a veil of ignorance, could justify Blonde's actions, concluding Blonde could not by his own lights have done otherwise than punish."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - PART III - “Why Don’t You Tell Me What Really Happened ”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - “You Rationalize” Jackie Brown’s Pragmatism.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein",
+    "socrates"
+   ],
+   "concepts": [
+    "language-games",
+    "pragmatism",
+    "socratic-ignorance"
+   ],
+   "relation": "K. Silem Mohammad argues Jackie Brown is a study in aporia and Wittgensteinian aspect perception: Ray Nicolette's purple/white bag paralysis, Ordell's 'Is that Rutger Hauer?' mistake, Jackie on the LAX moving walkway, and 'Across 110th Street' turning diegetic all force a re-description of experience within particular language games. The thrice-repeated Del Amo money switch-off adds no information but displays the characters' differing aspects of one event. Against Ordell's mind-fucking 'logical chains', Jackie's 'that's what you do to go through with the shit you start, you rationalize' embodies a pragmatist view of reason as context-bound use, matched by Max's calmly uncertain 'I think I do. Good enough?'"
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Le temps de me laver les mains, or Bathroom Loyalties.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "moral-psychology",
+    "catharsis"
+   ],
+   "relation": "Randall Auxier reads Pulp Fiction's scrambled sequence through Bergson's distinction between clock time and lived, experienced time and through Aristotle's Poetics: Tarantino toys with the three unities to make viewers attend to every character, and only when the film is re-sequenced does it become 'Vinnie's Very Bad Day'. Vincent's fatal flaw is Aristotle's incontinence—weakness of will—signaled by the running bathroom gag and his unwashed hands, while Jules and Butch pass the same moral test of loyalty, whether delivering the briefcase or saving Marsellus from Zed. The moral: be loyal, don't be weak-willed, and wash your hands thoroughly, since in Tarantino nothing lacks perceptible difference."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Zed Is Dead.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume"
+   ],
+   "concepts": [
+    "hume-miracles"
+   ],
+   "relation": "Keith Korcz applies Hume's 'Of Miracles' to Jules's survival of the hand cannon: a genuine miracle would suspend a law of nature, but as Vincent says, 'It's a freak, it happens'—and the testimony establishing laws of nature always outweighs miracle reports, while lucky coincidences (cats surviving four-story falls) are selectively reported. He answers objections from revised laws of nature (the 1919 eclipse confirming general relativity) and from prior belief in a miracle-working god, concluding with Hume that a wise man proportions his belief to the evidence. Jules's transformation is real, but would occur regardless of whether his belief in the miracle is true."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Don’t Get Into One.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "social-contract",
+    "state-of-nature",
+    "prisoners-dilemma"
+   ],
+   "relation": "Richard Greene renames the Tarantino standoff the 'ex-convict's dilemma' and models it as a special case of the prisoner's dilemma, running from Ordell and Louis's separate interrogation rooms to the White–Pink, Joe–White–Eddie and True Romance shoot-outs. He argues the standard group-rationality solution fails because ECDS participants have conflicting goals—Eddie protecting his father, White protecting Orange, Joe wanting revenge—and his survey of Tarantino's six cases shows escapes come from luck (Mr. Blonde's entrance, Nikki coming home) or shared interests (Beatrix's pregnancy), never group rationality. Tracing the dilemma back to Glaucon's contract argument in Plato's Republic, he concludes the only reliable solution is: don't get into one."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - PART IV - “God Will Be Cut”.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Kill Bill Volume 2 Mommy Kills Daddy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "death-of-god"
+   ],
+   "relation": "Mark Conard reads the two Kill Bill volumes as Tarantino's Oedipal play and self-therapy: Volume 1 fuses the movie genres of his childhood with women in the lead roles while Bill lurks as the absent, godlike father, and the Bride's empowerment is traced from the Pussy Wagon through the Hanzo sword—a transformation from 'pussy to cock'. In Volume 2, Pai Mei teaches her that her strength lies in her own hands, freeing her from a masculine conception of power, while Bill is humanized—sandwiches, flute-playing, a heart that can break—so that killing him means killing the father's God-like hold, explicitly glossed through Nietzsche's death of God. The final duel's sheathed sword lets the woman, as woman, defeat the man, and the Oedipal act succeeds where Oedipus himself had to go blind."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Like Caine in Kung Fu.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "ubermensch",
+    "death-of-god",
+    "nietzsche-perspectivism",
+    "nihilism"
+   ],
+   "relation": "Bence Nanay and Ian Schnee argue Pulp Fiction is genuinely Nietzschean, but not by celebrating violence: the film stages the crisis of meaning after God's death through two reactions to chance. Vincent is the passive nihilist—dogmatically insisting the six bullets mean nothing, inheriting gangster values unquestioned, modeling himself on Elvis—while Jules's 'moment of clarity' makes him a Nietzschean free spirit who creates perspective-relative meaning and breaks the cycle of violence by buying Ringo and Honey Bunny's lives. His plan to 'walk the earth, like Caine in Kung Fu' reworks Zarathustra's wandering, and the running toilets gag marks Vincent's blindness to the significance of events, which is why only one of them survives."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Sudden Enlightenment.md",
+   "kind": "chapter",
+   "philosophers": [
+    "buddha"
+   ],
+   "concepts": [
+    "buddhist-karma",
+    "zen",
+    "four-noble-truths",
+    "nagarjuna-emptiness"
+   ],
+   "relation": "Luke Cuddy and Michael Bruce ask whether Beatrix Kiddo could reach enlightenment, reading Kill Bill's nonlinear plotting as a Buddhist interconnected web of causes: Pai Mei's Five Point Palm technique causes both the coffin escape and Bill's death, and Budd's degraded trailer life is karma catching up. Beatrix grasps the structure of suffering and its cause—she locates it in Bill and the squad and eliminates them—but mistakes that for ending suffering itself, and her declared lack of 'mercy, compassion, and forgiveness' blocks the compassion enlightenment requires, while Bill's 'natural born killer' story contradicts impermanence and no-self. The chapter closes on her bathroom-floor ecstasy as a candidate case of Zen sudden enlightenment, left to the reader to judge by how she would one day treat a vengeful Nikki."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Our Names Don’t Mean Shit!.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Any of You Fucking Pricks Move, I’ll Index Every Motherfucking Last One of You!.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Quentin Tarantino and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Quentin Tarantino and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 16,
+   "type": "philosopher",
+   "suggested_slug": "dante-alighieri",
+   "name": "Dante Alighieri",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "Medieval poet whose Divine Comedy synthesizes Aquinas's ethics and whose principle of contrapasso makes each sinner's punishment embody the sin itself.",
+   "why": "Chapter 16's whole reading of Kill Bill maps the Bride's vengeance onto the Inferno's contrapasso and Dante's hellbound and purgatorial vengeful."
+  },
+  {
+   "ch": 20,
+   "type": "philosopher",
+   "suggested_slug": "henri-bergson",
+   "name": "Henri Bergson",
+   "philosopher": "",
+   "domain": "nineteenth-century",
+   "what": "French philosopher of duration who distinguished lived, experienced time from spatialized clock time and analyzed cinema's mechanical illusion of movement.",
+   "why": "Chapter 20's account of why Pulp Fiction's out-of-sequence editing works rests on Bergson's clock time versus real time and his film-projector analysis."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "aristotle-poetics",
+   "name": "Poetics (imitation, catharsis, unity of action)",
+   "philosopher": "aristotle",
+   "domain": "ancient",
+   "what": "Aristotle's account of tragic art: poetry imitates unified action, plots must hold together when rearranged, and audiences seek catharsis.",
+   "why": "Chapter 20 reads Pulp Fiction's time-twisting as Tarantino playing with the three unities and engineering catharsis, and its moral as Aristotle's incontinence."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "prisoners-dilemma",
+   "name": "The Prisoner's Dilemma",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "A game-theoretic situation in which each side's individually rational, self-interested choice leaves everyone worse off than mutual cooperation would.",
+   "why": "Chapter 22 defines Tarantino's standoffs as an 'ex-convict's dilemma' instance of the prisoner's dilemma and uses it to show group-rationality solutions fail."
+  },
+  {
+   "ch": 24,
+   "type": "philosopher",
+   "suggested_slug": "freud",
+   "name": "Sigmund Freud",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Founder of psychoanalysis, which holds that childhood relations with parents form adult neuroses that must be worked through, famously via the Oedipus complex.",
+   "why": "Chapter 24 reads Kill Bill as Tarantino's Oedipal play and therapy session—killing the father, mother-lover reversal, neurosis—which is Freudian psychoanalysis, not any figure in the taxonomy."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "bushido",
+   "name": "Bushido (the way of the warrior)",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "The Japanese samurai ethical code emphasizing loyalty, self-sacrifice, honor, and total service unto death to one's lord.",
+   "why": "Chapter 14 argues Beatrix's revenge on Bill cannot be justified by Bushido because she violates her retainer duty by leaving her lord, who would then be justified in killing her."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "nihilism",
+   "name": "Nihilism (active and passive)",
+   "philosopher": "nietzsche",
+   "domain": "nineteenth-century",
+   "what": "Nietzsche's diagnosis that the collapse of religious meaning leaves life seemingly meaningless, borne passively (declining, inherited values) or overcome actively by creating new values.",
+   "why": "Chapter 25 reads Vincent Vega as Nietzsche's passive nihilist who takes the world at face value, contrasted with Jules the value-creating free spirit."
+  },
+  {
+   "ch": 9,
+   "type": "philosopher",
+   "suggested_slug": "r-m-hare",
+   "name": "R.M. Hare",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Twentieth-century moral philosopher whose universal prescriptivism analyzes moral judgments as universal prescriptions rather than descriptions of properties.",
+   "why": "Chapter 9 uses Hare's universal prescriptivism, alongside the Mill–Gibbard and Hume accounts, to argue that even Vincent Vega makes genuine moral judgments and thus has a morality."
+  }
+ ]
+}

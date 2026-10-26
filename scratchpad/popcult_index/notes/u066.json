@@ -1,0 +1,288 @@
+{
+ "book": "041 - Stephen Colbert and Philosophy - I Am Philosophy (And So Can You!)",
+ "unit": "u066",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Stephen Colbert and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Popular Culture and Philosophy Series Editor George A. Reisch.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Acknowledgements.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Philosophy for Heroes.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Aaron Allen Schiller's introduction presents Colbert as a cultural institution (Time's 100 Most Influential, Emmy and Peabody awards, a 2008 presidential run) and a faux-pundit who does not report the news but 'feels the news at us' through the WØRD, Better Know a District, the ThreatDown, and the calls to action his fan army, the Colbert Nation, obeys. It argues philosophers love him because he 'tortures logic like Mozart writes symphonies,' playing with Truth and Reality through his coinages truthiness and wikiality so thoroughly that no future philosophical tract on the nature of Truth will be complete without considering truthiness. The book, it says, is for anyone who finds those concepts 'under their skin' without quite knowing why."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - FIRST SEGMENT - The WØRD First Principles of Colbertian Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Where Do We Go from Here.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "locke"
+   ],
+   "concepts": [
+    "moral-relativism",
+    "socratic-ignorance"
+   ],
+   "relation": "David Kyle Johnson argues that Colbert's gut-thinking persona (the Harriet Miers 'I know her heart' bit, 'that's my right' on the Panama Canal) satirizes a real and widespread vice, and he refutes the philosophies behind it. Individual and moral relativism collapse into self-contradiction and absurdity ('Lincoln was not assassinated' would be 'true for' someone; Hitler could not be condemned), while gut-justification is what Locke called 'enthusiasm' - a belief that is 'its own proof,' circular like the prophet whose revelation needs no burning bush. Following Jamie Whyte, he dismantles the 'right to my opinion' (running example: the friend who insists on a grassy-knoll shooter despite the melon-head evidence): there is no epistemic or moral right to undefended belief, and no right to intellectual comfort. Against this he holds up Socrates, wisest because he alone admitted ignorance, and insists philosophy and politics progress only through argument, so truthiness is never an acceptable substitute."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Explaining Moral Doubt.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "kant",
+    "bentham",
+    "locke",
+    "noddings",
+    "mill",
+    "hobbes"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "categorical-imperative",
+    "utilitarianism",
+    "care-ethics-noddings"
+   ],
+   "relation": "Steven Gimbel reads the Formidable Opponent segment - red-tie Colbert debating blue-tie Colbert - as a glimpse of authentic moral deliberation that the flip-flop-phobic punditry satirized by the show (and Jon Stewart's Crossfire rant) has abandoned. Moral doubt is good because perspectives are partial and the Enlightenment 'marketplace of ideas' of Locke and Mill tests beliefs only through challenge. It has a source: 'morally right' bundles five dimensions - the actor's character shaped by habit (Aristotle's virtue ethics), the act itself judged by Kant's categorical imperative, the pleasure-versus-pain consequences tallied Bentham-style, the rights of the person affected from Locke and Hobbes's social contract, and the special care obligations of close relationships (Noddings and Ruddick) - and hard cases like abortion and flag burning are exactly where these dimensions pull apart. So emulate the dueling Colberts: fear not the flip-flop, since deciding which value trumps which requires open-minded conversation with oneself."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Under-Confidence in Reason Once It’s Easier Said, then It’s Done.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "derrida"
+   ],
+   "concepts": [
+    "unexamined-life",
+    "deconstruction"
+   ],
+   "relation": "Roben Torosyan turns Colbert into a negative textbook for critical thinking: the character embodies the exact opposite of the American Philosophical Association's seven critical-thinking dispositions (inquisitive, open-minded, truthseeking, systematic, analytical, judicious, confident in reason), from refusing to imagine Lisa Randall's extra dimensions, to 'the market doesn't lie' about the Bible, to placing himself above Maimonides, Socrates, and Aquinas in the stem-cell Formidable Opponent. Each section names the fallacies his shtick commits - appeal to popularity, appeal to ignorance, composition, circular reasoning, wishful thinking, appeal to consequences - using real WØRD bits like the Iraq 'no casualties' monologue and the cake-metaphor exchange about the war. The WØRD's self-undermining bullet points are read as Derridean deconstruction (différance): every assertion shot through with what differs from and defers it. Watching Colbert fail at the examined life Socrates recommended, the viewer learns to catch such abuses in pundits and in themselves."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Sin, Play, and the “Synagogues of Satan”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "heraclitus",
+    "aquinas",
+    "protagoras"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aquinas-virtues",
+    "sophist-relativism",
+    "philosophy-of-play"
+   ],
+   "relation": "Rachael Sotos argues the Report performs Platonic play: like the divine puppet of Plato's Laws with its competing cords, Colbert reveals what moves us (fear, hope, the ThreatDown bears, the 'golden cord' of the good) and so teaches freedom through play. Colbert's pompous self-authority - claiming to be 'the canon and measure' of virtue in I Am America - parodies Aristotle's serious man (spoudaios, megalopsychos) and the sophists Protagoras and Prodicus with their Orpheus voices, proving Heraclitus right that 'time is a child at play' and Aristotle wrong that play is mere medicinal rest. Tracking the war on fun from Chrysostom through Aquinas's eutrapelia (there is sin in a lack of play) to Erasmus's Praise of Folly and the Puritans' ban on theaters as 'Synagogues of Satan,' she reads Colbert's playing-at-sin - the man-seed eugenics bit, the 'black friend' boasts, the Ellen DeGeneres Paradox on Wikiality - as Erasmian folly that heals America's Puritan hangover in the culture wars."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Conclestions.md",
+   "kind": "chapter",
+   "philosophers": [
+    "russell"
+   ],
+   "concepts": [
+    "sense-reference"
+   ],
+   "relation": "Jason Southworth asks how viewers understand Colbert's deliberately confusing coinages ('wordanista,' 'superstantial,' 'Lincolnish,' 'freem,' and the title 'I Am America (And So Can You!)'). Borrowing Russell's view that names abbreviate definite descriptions (the 'spot check test'), he argues these utterances are paraphrasable and therefore meaningful rather than nonsense, distinguishing meaning from reference and literal from non-literal meaning. He then applies Grice's cooperative principle and conversational maxims to derive implicatures: the gut speech violates 'do not say what you believe to be false' and so implies truthiness-as-visceral-feeling, 'wordinista' imports Sandinista-style radicalism, and 'John, tear me a new one' generates the kitten-woodchipper joke. Since context fixes meaning, even dictionary-less words like 'freem' can be decoded, and the Wordinistas at Webster's are unnecessary."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - SECOND SEGMENT - The ThreatDown Truthiness.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Wishing and Dogmatism.md",
+   "kind": "chapter",
+   "philosophers": [
+    "frankfurt"
+   ],
+   "concepts": [
+    "frankfurt-bullshit",
+    "will-to-believe"
+   ],
+   "relation": "Matthew Pierlott argues Colbert the satirist conflates two things his character, Stephen, merges: truthiness (trusting gut and heart over external authorities like dictionaries) and bullshit in Frankfurt's exact sense - speech indifferent to truth, which Pierlott finds in Hillary Clinton's dismissal of economists on the gas-tax holiday and likens to Steve Careill's habitual pleasantries versus Jon Stewart's honesty and Stephen's lies. He defends gut and heart as evidence-bearing tools - knowing a candidate's 'heart' from character evidence (the Westmoreland Ten Commandments interview), gut intuitions as unconsciously processed experience, and choosing which of the two Cheneys (1994 quagmire prophet or 2003 liberators booster) to trust - so in an information-saturated democracy truthiness is a necessary part of any orientation toward truth. The real enemy is dogmatism, the 'Dark Side of Truthiness' that cuts off future evidence, while wishful thinking kept modest (optimism that people are honest) can even be beneficial, a Jamesian willing-to-believe."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - It-Getting The Truth about Truthiness.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sextus-empiricus",
+    "hume",
+    "montaigne",
+    "nagarjuna",
+    "pyrrho"
+   ],
+   "concepts": [
+    "pyrrhonian-skepticism",
+    "skepticism",
+    "sophist-relativism"
+   ],
+   "relation": "Ethan Mills runs a 'Better Know a Skeptic' four-parter applied to the show: Pyrrhonian skepticism (Sextus Empiricus's suspension of judgment and living by appearances, played out in the Jon-says-worst-versus-Stephen-says-greatest Bush debate), Modern skepticism (Montaigne's fideist custom-worship and Hume's dream argument for why knowledge of couches, Doritos, and presidents is impossible), and Indian skepticism (Nagarjuna's circle that means of knowledge cannot be established without things known, illustrated with Stephen Sr. and Stephen Jr. as both father and son, plus Jayarasi's destruction of epistemology). He adds 'political skepticism' - the American sense that political knowledge is impossible - which breeds wikiality, an internet relativism ('reality we just agreed on') that the WØRD's own bullet points ('Wikipedia can tell a lie') undermine. Truthiness, he concludes, is Stephen's false cure for political skepticism: commitment without facts, a 'truthiness of the appearances'; but Sextus shows skeptics can still act on appearances without dogmatism, so we can vote and argue on the best evidence, as in Sagan's science-as-democracy, without certainty."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - But Does Political Satire Promote Democratic Values.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "marcuse"
+   ],
+   "concepts": [
+    "one-dimensional-man"
+   ],
+   "relation": "Michael Tiboris and Kory Schaff answer their title question affirmatively: Colbert's satire promotes democratic values by practicing Foucault's parrhesia - fearless speech that speaks the truth freely, functions as criticism of interlocutor and self, and flows from moral duty - unlike bumper-sticker assertion, since it enters risky dialogue and invites being refuted. Against this stands a corporate-consolidated media ('monopoly of meaning' from GE, Viacom, News Corp, Time-Warner) whose framing, slanting, and spinning - McCain's 'transcendental' war, the Obama-dresses-like-Ahmadinejad story, WMD as Word of the Year - exemplify Marcuse's one-dimensional thought absorbing oppositional language ('clean bomb,' 'harmless fall-out'). The WØRD models parrhesiastic critique by speaking media's own language while the bullet points undercut it ('Definitions will greet us as liberators'), exposing how politicians and pundits merely appear truthful and teaching viewers their own duty of critical assessment."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Philosophy in the Age of Truthiness.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates"
+   ],
+   "concepts": [
+    "unexamined-life"
+   ],
+   "relation": "David Detmer explains how the twentieth century's scientific persuasion techniques plus electronic media, American anti-elitism ('science is elitist... Gravity Without Representation'), the conflation of a legal right to an opinion with its being right, and journalism's bankrupt objectivity doctrine produced the age of truthiness that Colbert satirizes (Britannica and the Panama Canal, Limbaugh, O'Reilly, and Coulter as the 'gasbags'). He then rebuts the book's implicit challenge that philosophers' appeals to intuition are themselves truthiness: self-evident truths like 'cruelty is wrong' or Euclid's axioms are needed to stop the infinite regress of justification, and they differ in kind from gut-feelings about historical or political claims whose denial is easily conceived. The Report's nightly ridicule of truthiness therefore serves Socrates' dictum that the unexamined life is not worth living, showing philosophy's value to a public that lets pundits decide by gut."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 15,
+   "type": "concept",
+   "suggested_slug": "truthiness",
+   "name": "Truthiness",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Colbert's coinage for the feeling that something is true 'from the gut' - belief prized over facts and evidence - which this book analyzes as a distinct epistemic stance alongside lying and Frankfurtian bullshit.",
+   "why": "Chapter 15's entire argument is that truthiness is not the same as bullshit and deserves its own analysis, but no taxonomy slug names truthiness itself."
+  },
+  {
+   "ch": 13,
+   "type": "philosopher",
+   "suggested_slug": "grice",
+   "name": "Paul Grice",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Philosopher of language whose cooperative principle and conversational maxims explain implicature - what speakers mean beyond what they literally say.",
+   "why": "Chapter 13 uses Grice's maxims as its central tool for decoding Colbert's coinages, jokes, and the title 'I Am America (And So Can You!)'."
+  },
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "erasmus",
+   "name": "Desiderius Erasmus",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "Renaissance humanist whose Praise of Folly has the goddess Folly indict church and state, locating virtue and even Christ's saving work in playful foolishness.",
+   "why": "Chapter 12 reads Colbert's fool persona as Erasmus's Folly speaking truth to power against America's Puritan hostility to play."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "philosophy-of-play",
+   "name": "Play (paidia / eutrapelia)",
+   "philosopher": "plato",
+   "domain": "ancient",
+   "what": "The tradition from Plato's Laws (humans as divine puppets who must learn to dance with the golden cord) and Heraclitus's 'child at play' to Aquinas's eutrapelia, treating play as essential to freedom, learning, and virtue rather than mere rest.",
+   "why": "Chapter 12's thesis is that the Report performs philosophy as play, siding with Plato and Heraclitus against Aristotle's disparagement of play."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "parrhesia",
+   "name": "Parrhesia (fearless speech)",
+   "philosopher": "foucault",
+   "domain": "political-social",
+   "what": "The ancient Greek practice, theorized by Foucault, of speaking the truth freely, critically, and at personal risk out of a duty of conscience.",
+   "why": "Chapter 17's central claim is that Colbert's WØRD segment is parrhesiastic critique of media and political orthodoxy."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "critical-thinking-dispositions",
+   "name": "Critical Thinking Dispositions",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The American Philosophical Association's seven habits of good thinkers - inquisitive, open-minded, truthseeking, systematic, analytical, judicious, and confident in reason.",
+   "why": "Chapter 11 is structured entirely around Colbert's character embodying the opposite of each of these dispositions."
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "intuition-self-evidence",
+   "name": "Intuition and Self-Evidence",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The classical foundationalist idea that some truths (e.g. 'cruelty is wrong', Euclid's axioms) are known directly without inference, stopping the infinite regress of justification.",
+   "why": "Chapter 18 defends philosophical intuition as different in kind from Colbertian gut-truth, which is the pivot of its whole argument."
+  },
+  {
+   "ch": 16,
+   "type": "philosopher",
+   "suggested_slug": "jayarasi",
+   "name": "Jayarasi Bhatta",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "Eighth-century Carvaka skeptic whose Lion of the Destruction of Principles argues that no definition of knowledge-terms can be made coherent, so epistemology itself is impossible.",
+   "why": "Chapter 16 presents Jayarasi alongside Nagarjuna as a pillar of Indian skepticism and imagines him dismissing Stephen's pronouncements as 'the gesticulations of a fool.'"
+  }
+ ]
+}

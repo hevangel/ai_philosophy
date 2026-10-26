@@ -1,0 +1,177 @@
+{
+ "book": "235 - The Philosophy of TV Noir",
+ "unit": "u449",
+ "chapters": [
+  {
+   "n": 12,
+   "file": "ch12 - Carnivale Knowledge Give Me That Old-time Noir Religion.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard",
+    "dostoevsky",
+    "sartre"
+   ],
+   "concepts": [
+    "leap-of-faith",
+    "problem-of-evil",
+    "faith-vs-reason"
+   ],
+   "relation": "Eric Bronson argues that Carnivale invents a 'religious noir' tradition in which Brother Justin's crisis of faith in the Dust Bowl 1930s replays the Christian existentialism of Kierkegaard and Dostoevsky. Sitting in the ruins of his burnt church, Justin recites Genesis 22 (the sacrifice of Isaac) and demands God explain why his orphans died, directly invoking Kierkegaard's Fear and Trembling: faith is impossible and absurd, and the crushing struggle itself makes life worth living. Ivan Karamazov's 'returning the ticket' over the suffering of children parallels Justin's fury at a silent God, while the carnies' Babylon storyline (Samson sparing the confessed killer under the carnival code, then secretly shooting him) and the inescapable dead souls echo Sartre's 'condemned to life' and the noir hero's inability to escape fate."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - The Sopranos, Film Noir, and Nihilism.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "camus"
+   ],
+   "concepts": [
+    "nihilism",
+    "death-of-god",
+    "nietzsche-perspectivism",
+    "self-deception"
+   ],
+   "relation": "Kevin Stoehr reads The Sopranos as TV noir built on Nietzsche's passive, life-negating nihilism: Tony Soprano's 'What do we got?' laments the collapse of mob and family values, Uncle Junior's 'Each of us is alone in the fuckin' universe' voices noir alienation, and Livia's 'It's all a big nothing' is the series' nihilistic creed. A.J.'s confirmation-eve rebellion reading Nietzsche and Camus's The Stranger ('Death just shows the ultimate absurdity of life') dramatizes the death of God inherited by the next generation. The chapter's dark irony is that therapy, meant to give Tony narrative unity and self-knowledge, becomes an instrument of self-deception: he substitutes psychology for ethics, rationalizes adultery and murder as signs of psychic power, and fails at Nietzschean self-overcoming despite the ducks and Pie-O-My that briefly symbolize transcendence."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Part 3 Crime Scene Investigation and the Logic of Detection.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - CSI and the Art of Forensic Detection.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "abduction",
+    "personal-identity",
+    "reliabilism"
+   ],
+   "relation": "Knight and McKnight analyze CSI as 'procedural noir': Las Vegas instantiates the corrupt-city trope, and the show's methodological core is reading scientific evidence as a system of signs, generating and testing hypotheses through hypothetical flash reconstructions (Grissom's wrong incest-guess in 'Blood Drops', competing crash theories in 'Anonymous'). Three case studies carry the philosophy: Philip Gerard's defense attack on the team's competence makes forensic investigation an ethical matter of integrity and reliable process rather than mere evidence collection; the Paul Millander trilogy uses the trope of the double (Paul/Pauline, Judge Mason, the forged Grissom identity) to explore identity and self-knowledge; and Lady Heather's dominance-submission 'stop' convention reframes the femme fatale around reason, passion, and Grissom's desire to be known."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Detection and the Logic of Abduction in The X-Files.md",
+   "kind": "chapter",
+   "philosophers": [
+    "peirce",
+    "william-james",
+    "clifford",
+    "kuhn",
+    "umberto-eco"
+   ],
+   "concepts": [
+    "abduction",
+    "will-to-believe",
+    "ethics-of-belief",
+    "paradigm-shift"
+   ],
+   "relation": "Abrams and Cooke map Mulder and Scully onto Holmes and Watson and onto the Clifford-James debate: Scully embodies Clifford's ethics of belief (suspend judgment without hard evidence), while Mulder's 'I Want to Believe' poster enacts James's will to believe, which lets him see what the paradigm excludes. The chapter formalizes both agents' actual method as Peirce's logic of abduction, using Eco's overcoded/undercoded/creative triad to analyze Scully's Fowley clothing inference and the mushroom episodes of 'Field Trip', and extends Peircean semiotics with Mulder's 'absence sign' (the missing nine minutes, missing acid burns, bodies taken without a trace). Kuhn's normal science versus revolution explains why Scully stays inside the FBI's paradigm while Mulder's passion makes him the revolutionary who, with Scully as error-corrector, fuses into a single 'whole person' detective facing the limits of reason."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Part 4 Autonomy, Selfhood, and Interpretation.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Kingdom of Darkness Autonomy and Conspiracy in The X-Files and Millennium.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "hobbes",
+    "locke",
+    "tocqueville",
+    "nietzsche",
+    "thomas-paine"
+   ],
+   "concepts": [
+    "panopticon",
+    "state-of-nature",
+    "locke-natural-rights",
+    "power-knowledge"
+   ],
+   "relation": "Michael Valdez Moses reads The X-Files and Millennium as post-Cold War noir that depicts America as Foucault's carceral archipelago: nearly every character works for the state, Tocquevillian voluntary association has withered ('they don't go bowling at all'), and the FBI's landscape of prisons, clinics, and bases makes free space scarce. Against Hobbes's Leviathan, the chapter mobilizes Locke and Paine's classical liberalism (government as necessary evil securing pre-existing natural rights) to show that Carter's heroes are 'antipolitical' resisters: Frank Black's visions and the Grill Flame remote viewers make him a panoptical spy for the state, while Mulder's warrantless searches blur sovereign and criminal justice into one corrupt system, as in the Millennium episode 'The Judge'. The neo-noir conspiracy seeks not profit but absolute sovereignty, and the series end with Mulder, Scully, and Black as fugitives fleeing the state with their families, resisting Nietzsche's 'coldest of all cold monsters'."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Prisoner and Self-Imprisonment.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "sartre",
+    "descartes",
+    "hume",
+    "bentham",
+    "kant",
+    "nietzsche"
+   ],
+   "concepts": [
+    "panopticon",
+    "authenticity",
+    "existence-precedes-essence",
+    "personal-identity"
+   ],
+   "relation": "Biderman and Devlin use The Prisoner to test three dimensions of selfhood: Number 6's 'I am not a number!' defends the material self against the Village's conformity (Rover, uniforms, human chess pieces), his reflective self echoes Descartes's certain thinking thing, Kant's rational self-legislation, and Sartrean authenticity ('existence precedes essence'), while the finale's trial of the rebels addresses the relational self. The revelation that Number 6 is Number 1 is then read through Foucault: hierarchical observation, normalization, and examination make the Village Bentham's panopticon internalized, so the prisoner monitors himself and the ideal of a freely self-created identity collapses into social conditioning, as Nietzsche's herd come home. The chapter leaves the noir ambiguity intact: either Number 6 is the authentic individual vindicated by the Village council, or the self is a fiction and his odyssey hopeless."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Twin Peaks, Noir, and Open Interpretation.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "ontology-of-fiction",
+    "truth-in-fiction",
+    "the-absurd",
+    "open-interpretation"
+   ],
+   "relation": "Jason Holt catalogs Twin Peaks' noir elements (the Laura Palmer quest narrative, Cooper's voiceover Dictaphone, femmes fatales, low-key lighting, the existential mood leavened by absurd humor in the manner of Camus) but argues the series is merely noirish, not noir, because it refuses noir's hard-boiled naturalistic metaphysics. The decisive case is BOB: the post-Leland dialogue between Cooper, Truman, and Albert stages the choice between reducing BOB to Leland's psychopathology and reifying him as a real malevolent spirit from the Black Lodge, and the show deliberately leaves the fictional ontology of BOB undecidable, in Todorov's 'fantastic' between the natural and supernatural. This interpretive openness (compared to The Prisoner's Number 1 revelation and the psychological indeterminacy of Sam Spade's motives in The Maltese Falcon) is defended as aesthetically desirable via Holt's 'omissive' aesthetic, the art of leaving important things out."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - List of Contributors.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "open-interpretation",
+   "name": "Open Interpretation (multiple interpretability of art)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The view that an artwork can legitimately admit multiple, mutually incompatible interpretations with no single closed best reading, and that this openness is aesthetically valuable.",
+   "why": "Chapter 20's central thesis is that Twin Peaks' metaphysical and interpretive openness (naturalistic vs supernaturalistic readings of BOB) is precisely what disqualifies it from noir while giving it its aesthetic piquancy, defended through the 'omissive' aesthetic; no existing taxonomy concept captures multiple interpretability itself."
+  },
+  {
+   "ch": 18,
+   "type": "philosopher",
+   "suggested_slug": "thomas-paine",
+   "name": "Thomas Paine",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Anglo-American revolutionary pamphleteer who argued in Common Sense and Rights of Man that government is a necessary evil distinct from society, and that civil rights rest on pre-existing natural rights.",
+   "why": "Chapter 18 uses extended quotations from Paine's Common Sense and Rights of Man to anchor its Locke-style classical-liberal reading of The X-Files and Millennium, and the Millennium episode 'Collateral Damage' names its antigovernment radical after him."
+  }
+ ]
+}

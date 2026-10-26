@@ -1,0 +1,508 @@
+{
+ "book": "146 - The Big Lebowski and Philosophy - Keeping Your Mind Limber with Abiding Wisdom",
+ "unit": "u214",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - The Big Lebowski and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - The Big Lebowski and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - The Big Lebowski and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - The Big Lebowski and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - The Big Lebowski and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - The Big Lebowski and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "meaning-of-life"
+   ],
+   "relation": "Editor Peter Fosl's introduction argues that a box-office-disappointment stoner comedy is genuinely philosophical: the film confronts sex, violence, and death (Donny dies, Maude conceives, marmots are drowned), stages class war between the unemployed Dude and the capitalist 'achiever' Big Lebowski, and sets the Dude's pacifist abiding against Walter's Vietnam warrior ethic and European nihilism. People are drawn to the Dude as an exemplar of stoic, nonmaterialistic abiding, and the essays draw on thinkers from Aristotle and Epicurus to Derrida and Butler; Ethan Coen's Princeton philosophy thesis on Wittgenstein anchors the film's pedigree."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Big Lebowski and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "derrida",
+    "aristotle",
+    "nietzsche"
+   ],
+   "concepts": [
+    "deconstruction",
+    "aristotle-practical-wisdom",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Zeccardi and Ma deconstruct the film's hierarchical dichotomy between Walter's rule-obsessed ethical generalism (Shabbas rules, 'MARK IT ZERO!') and the nihilists' particularist 'Zere ARE no ROOLZ', using Derrida and Culler's method of undermining the opposition the text privileges. Each extreme fails: Walter's principles collide in the beeper dilemma, and active Nietzschean nihilism makes the nihilists unpredictable cowards. The Dude emerges as an Aristotelian agent of virtue whose phronesis perceptively weighs contextual facts (Smokey's disputed toe, the carpet-pissers' false assumption) against principles, making 'What would the Dude do?' a question about character rather than rules."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "russell",
+    "frege"
+   ],
+   "concepts": [],
+   "relation": "Jackson models the Dude as a formal system whose axioms are bowling, White Russians, and the rug, so that the counterexample to 'Jeffrey Lebowski = Jeffrey Lebowski' precipitates a foundational crisis just as Russell's paradox shattered Frege's set theory and non-Euclidean geometry unsettled Euclid's fifth postulate. Gödel's incompleteness theorems then show the Dude's system was never complete: no matter how many axioms (rugs) he regains, true-but-unprovable statements remain. His final reply is to adopt 'the Dude abides' as a new self-referential axiom asserting its own consistency — which, by Gödel's second theorem, a consistent system cannot do; hence 'fuck it, let's go bowling'."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Big Lebowski and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "bentham",
+    "mill",
+    "epicurus",
+    "aquinas"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia",
+    "hedonic-calculus",
+    "higher-lower-pleasures"
+   ],
+   "relation": "Eberl asks whether the Dude's 'pure abiding' is happiness: he runs Bentham's utility calculus on Dude-style pleasures (bowling's fecundity, the rug's purity, attending Marty's dance quintet for long-term rent goodwill) and Mill's higher/lower pleasures (Maude's vaginal art versus Logjammin'). Aristotle's verdict is that the Dude is not flourishing — his pleasures are incomplete, losable (the burned Torino), and he neglects his rational, social nature — yet Aristotle also ranks friendship with Walter and Donny highly, and Pieper's leisure, built on Aquinas's contemplation, gives the Dude's leisure a partial defense: he is incomplete but not bad, and he 'lives' while achievers merely make a living."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "epicurus"
+   ],
+   "concepts": [
+    "aristotle-friendship",
+    "epicurean-pleasure",
+    "aristotle-eudaimonia",
+    "epicurean-death"
+   ],
+   "relation": "O'Loughlin reads Walter biting off a nihilist's ear and the Dude refusing to walk out on league play as concrete realizations of ancient friendship: Aristotle's eudaimonia requires friends as 'second selves' whose shared activity (bowling in the friends' company) structures the excellent life, while Epicurus's Garden ordered life around simple pleasures and ataraxia, with friendship supplying pleasant memory and a kind of immortality after death. Because we moderns claim friendship's value without practicing its costs, the Dude's priorities look comic yet pierce us — and Donny's death, the Ralph's coffee can, and 'let's go bowling' become Epicurean commemoration rather than irreverence."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "epicurus",
+    "lucretius",
+    "seneca"
+   ],
+   "concepts": [
+    "epicurean-pleasure"
+   ],
+   "relation": "Rempel argues the Dude is a modern Epicurean parable: Epicurus's ataraxia is freedom from disturbance achieved by limiting desires to the natural and necessary — simple food, shelter, a few friends — so the Dude's 69-cent check, whale-song baths, and contentment with four dollars ('almost five') express 'enough is enough'. Maude's easily-had, non-binding seduction fits Epicurus's classification of sex as natural but not necessary (Lucretius: choose the joys of Venus without penalty), while Walter's million-dollar ringer scheme and his 'sick Cynthia thing' personify vain, insatiable desires — 'contented poverty is an honorable estate', so the Dude may be the wealthiest man in Los Angeles County."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "zhuangzi",
+    "laozi",
+    "buddha",
+    "confucius"
+   ],
+   "concepts": [
+    "wu-wei",
+    "the-tao",
+    "buddhism"
+   ],
+   "relation": "Lynch tests the fan claims that the Dude is 'the Duddha' or a practicing Daoist: the Dude has wu wei in his effortless arts of bowling and abiding and shares Zhuangzi's withdrawal from society (the Nixon bowling poster, learning from drunks, Donny's ashes scattered with naturalistic acceptance), but lacks Daoist metaphysics, the Dao's inexpressibility, and any articulated views. The Buddha parallels are real — nonattachment, practice over theory (the poisoned-arrow parable), compassion for Bunny — yet Gautama's radical discipline and middle path are the opposite of the Dude's laziness, so Dudeism emerges as an undisciplined American cousin, and the Dude follows 'just his way and his alone'."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Big Lebowski and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aquinas",
+    "locke",
+    "walzer"
+   ],
+   "concepts": [
+    "just-war-theory"
+   ],
+   "relation": "Taking the film's opening 'This will not stand' seriously, Svolba and Betz read the Dude and Walter's rug campaign alongside the 1991 Gulf War through just war theory: just cause exists (soiled rug, invaded Kuwait), but Walter's gun at Smokey's foul line violates last resort and proportionality ('You're not wrong, Walter, you're just an asshole'), Aquinas's right intention is compromised when the ransom errand is motivated by the twenty grand, and Locke's case for right authority explains why justice cannot be left to 'fucking amateurs' like Walter, who overestimates injuries and retaliates disproportionately. Jus in bello discrimination fails everywhere — the neighbor's Corvette, the goons' mistaken Lebowski — and the escalation kills the innocent Donny."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "kant",
+    "singer"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "categorical-imperative",
+    "aristotle-golden-mean",
+    "authenticity"
+   ],
+   "relation": "Jollimore and Jones diagnose three 'very unDude' vices: Walter's rule rigidity, which confuses Kant's hypothetical rules of games (don't cross the foul line) with categorical moral ones and needs 'rules all the way down' to ward off nihilism; the Big Lebowski's hypocritical inauthenticity, a fake achiever living on his daughter's allowance who collapses facedown before his own rug; and the exclusionism with which everyone shuts Donny out of the conversation. Against these the Dude exhibits Aristotelian virtue as good judgment (knowing when rules don't apply), the Golden Mean between Walter and the nihilists, and Singer-style inclusion — 'he's in bed with everybody' — making him an authentic man of humor and perspective."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Big Lebowski and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "macintyre",
+    "charles-taylor"
+   ],
+   "concepts": [
+    "macintyre-tradition",
+    "will-to-power",
+    "master-slave-morality"
+   ],
+   "relation": "Nicholas argues the film's supposed nihilists, Walter, and the Big Lebowski are all failed Nietzschean value-creators: Walter's arbitrary givings of value ('Donny was a good man... he was one of us') just enact nihilism, and the disabled achiever's money-and-plaques world mistakes symbols for value. He then uses Charles Taylor's three malaises of modernity — disenchantment, disengagement, atomism — to explain the Dude's world (even bowling stops mattering: 'Fuck the tournament'), and finds the way out in MacIntyre's notion of a practice: bowling's internal goods, standards of excellence, and community of giving and receiving tie the three friends to meanings outside themselves, resisting nihilism."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "camus",
+    "sartre"
+   ],
+   "concepts": [
+    "the-absurd",
+    "sartre-freedom",
+    "existentialism"
+   ],
+   "relation": "Baird contrasts Camus's absurdity — the divorce between man and world demanding 'lucid indifference' and an absurd art that refuses counterfeit meaning — with Sartre's, where the world's meanings are contingent human projections and freedom entails absolute responsibility (Being and Nothingness sits by the Dude's bed). He argues the film is Sartrean rather than Camusian: the Dude weaves random events (the peed-on rug, the ransom) into the interpretation 'Bunny kidnapped herself', holding it provisionally as one story among possible ones, while Walter never takes responsibility for his Corvette-swinging choices. The viewers, knowing all interpretations are groundless, watch the absurd from the front row."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard",
+    "camus",
+    "nietzsche"
+   ],
+   "concepts": [
+    "kierkegaard-despair",
+    "sisyphus",
+    "camus-revolt",
+    "eternal-recurrence"
+   ],
+   "relation": "Brown and Fosl read the twin Lebowskis as America's post-1960s despair: the Big Lebowski is Kierkegaard's failed Caesar who despairs because he cannot rid himself of the self that did not become Caesar (a fake achiever living on an allowance), while the Dude is the failed leftist whose revolutions collapsed. Against nihilism Walter pulverizes with Nietzschean will, Kierkegaard prescribes the leap of faith, and Camus revolt — but the Dude offers a distinctly American answer, abiding repetition: rolling balls frame after frame like Camus's happy Sisyphus, repeating phrases and roles (Butlerian performativity) so that re-creating himself is his victory over meaninglessness, with No Country for Old Men as the dark twin where nihilism may be winning."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Big Lebowski and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud"
+   ],
+   "concepts": [
+    "freud-unconscious",
+    "freud-death-drive"
+   ],
+   "relation": "Hunt treats the film as a direct view of a single subject's unconscious, Freud-style: the Dude is the pre-Oedipal narcissist, the Big Lebowski the father toppled from his wheelchair-throne after the confrontation, Maude the mother, with a scattered superego distributed across the Stranger's moralizing and the Malibu sheriff's 'Stay out of Malibu!'. Donny and Walter figure oral and anal fixations, Jesus the threatening playground peer, and Bunny and the nihilists Freud's life and death drives — so Donny's death in the parking-lot melee lets the ego fuse death-drive energy into life, and the Dude's walk-away from the little Lebowski back to bowling and White Russians reads as repression into comfortable pre-Oedipal phantasy."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard",
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [
+    "subjective-truth",
+    "plato-cave"
+   ],
+   "relation": "Drawing on fieldwork and surveys at the 2011 Tampa Lebowski Fest, Dufort and Lemire-Cadieux use Kierkegaard's Concept of Irony and indirect communication — contrasted with Plato's condemnation of mimesis in the cave and Aristotle's rehabiliation of it — to explain why Achievers who dress as rugs, memorize lines, and re-watch the film dozens of times find no objective message to decode. Kierkegaardian irony leaves each receiver to dig out a subjective existential truth through self-reflection and repetition, so that fans repeating the Dude's message become part of the irony itself: being an 'Achiever' achieves nothing objective and something deeply personal ('don't pee on other people's rugs')."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hooks",
+    "fricker"
+   ],
+   "concepts": [
+    "feminism",
+    "epistemic-injustice",
+    "objectification"
+   ],
+   "relation": "Almassi grades the Dude as a halfway feminist ally: he divests from the Big Lebowski's patriarchal achiever-masculinity ('that and a pair of testicles'), respects Maude's conception project without paternalism (O'Neill's Kantian line between love and respect), and defends pacifist Smokey — yet his pacifism has stalled into passivity that King's active nonviolence would reject, he leaves Bunny's objectification unchallenged while 'Mr. Treehorn treats objects like women', and he only belatedly gives Maude the credibility Fricker's testimonial justice demands ('why don't you fucking listen occasionally?'). Using bell hooks's feminist masculinity and Larry May's progressive male standpoint, the chapter leaves the Dude five pins up with a spare still to pick up."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "russell",
+    "aristotle",
+    "cicero"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "virtue-ethics"
+   ],
+   "relation": "Michaud asks whether the Dude's sloth is a vice and answers no: from Russell's 'In Praise of Idleness' he argues that overwork chiefly serves the rich — exactly how the Big Lebowski exploits the Dude as unpaid courier while sneering 'The bums will always lose' — and from Aristotle's and Cicero's moderatio he argues the Dude practices a mean between frantic work and paralysis, working hard when it matters (the drop, the rug). The fable of the ant and the grasshopper, retold, shows both die anyway, while the Dude 'works at being unemployed' and enjoys the time he has — sloth, ironically, does a kind of work."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Big Lebowski and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "william-james",
+    "pascal",
+    "williams",
+    "hume",
+    "clifford"
+   ],
+   "concepts": [
+    "will-to-believe",
+    "pascals-wager",
+    "ethics-of-belief"
+   ],
+   "relation": "Malloy examines Walter's incorrigible leaps — Bunny kidnapped herself on no evidence, the toe is a fake ('I can get you a toe by three o'clock'), the Big Lebowski can walk — through Clifford's ethics of belief (the ship-owner who sinks his passengers) and James's 'Will to Believe' reply with its living, forced, and momentous genuine options, applied to Walter's 'dabbled' pacifism and his preference for Nazism's ethos over nihilism's nothing. Walter's conversion to Judaism for Cynthia raises whether practice can will belief, tested via Pascal's wager and James's objection, and the verdict borrows Bernard Williams: we cannot choose beliefs, but Walter's reckless policy of dismissing counterevidence makes him 'not just an asshole, he is also wrong'."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein",
+    "locke",
+    "gettier"
+   ],
+   "concepts": [
+    "gettier-problem",
+    "language-games"
+   ],
+   "relation": "In the method of ordinary language philosophy (Wittgenstein, Austin, Ryle), Stern and Wilkinson defend the Dude's retort to Jesus as no misuse of 'opinion': knowledge is justified true belief, undermined by Gettier-style epistemic luck, and opinions are beliefs supported only by subjective justification — like the taste of White Russians, Locke's secondary qualities — rather than public evidence. Jesus's claim that he and Liam will 'fuck you up' is a prediction that could in principle be publicly justified, but with no available evidence it is an unsupported opinion; Donny's gut-feeling Raiders pick shows opinions need not concern 'matters of opinion', and it is stubborn Walter who is truly 'opinionated'."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - The Big Lebowski and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "plotinus",
+    "peirce"
+   ],
+   "concepts": [
+    "augustine-time"
+   ],
+   "relation": "Smith turns Walter's 'Three thousand years of beautiful tradition, from Moses to Sandy Koufax — YOU'RE GODDAMN RIGHT I'M LIVING IN THE FUCKING PAST!' into a question in the philosophy of time: with Augustine's Confessions (the past exists only as a present of things past, in memory) and Plotinus's internalized time as 'the life of the soul in movement', Walter's Vietnam rages ('there isn't a literal connection, Dude'), his Cynthia show-dog errands, and his assumed Jewishness all show the past actively constituting his present. Peirce's 'method of tenacity' names his clinging to belief against doubt — an ailment the Dude secretly shares, given his own Port Huron past, drug-blurred memoir, and Creedence-soaked anachronism."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Big Lebowski and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gadamer",
+    "maimonides"
+   ],
+   "concepts": [
+    "gadamer-hermeneutics",
+    "meaning-of-life"
+   ],
+   "relation": "Rabbi Edelheit reads Walter as a figure of the Jewish philosophy of history: his 'I don't roll on Shabbas', Herzl's 'If you will it, it is no dream', the Baal Shem Tov's 'remembrance is the source of redemption', and the garbled Rambam fragment about aish all bind him to a historical community whose memory makes life meaningful — Gadamer's Truth and Method point that we belong to history before we understand ourselves, our prejudgments constituting our being. Against the nihilists' 'Vee belief in NOSSING', Walter's defiant living-in-the-past (Tevye, Sandy Koufax sitting out the World Series on Yom Kippur) is identity and meaning itself, even when Donny's ashes blow back in the wind and his grief can only speak in Vietnam's vocabulary."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - The Big Lebowski and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - The Big Lebowski and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 10,
+   "type": "philosopher",
+   "suggested_slug": "godel",
+   "name": "Kurt Gödel",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Austrian logician (1906–1978) who proved the completeness of first-order logic and then the incompleteness theorems.",
+   "why": "Chapter 10's entire film analogy runs on Gödel: he is its central historical figure, from the Vienna completeness proof to the Königsberg announcement of undecidability."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "godel-incompleteness",
+   "name": "Gödel's Incompleteness Theorems",
+   "philosopher": "godel",
+   "domain": "mind-language-metaphysics",
+   "what": "Any consistent formal system expressing basic arithmetic contains true but unprovable statements, and cannot prove its own consistency.",
+   "why": "Chapter 10 maps the Dude's post-rug breakdown onto incompleteness and reads his new axiom 'the Dude abides' as the self-consistency claim the second theorem forbids."
+  },
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "pieper",
+   "name": "Josef Pieper",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Twentieth-century Thomist philosopher whose Leisure: The Basis of Culture defends contemplative leisure as essential to a fully human life.",
+   "why": "Chapter 12's final assessment of whether the Dude's abiding has merit rests on Pieper's concept of leisure, quoted at length alongside his Aquinas sources."
+  },
+  {
+   "ch": 20,
+   "type": "philosopher",
+   "suggested_slug": "charles-taylor",
+   "name": "Charles Taylor",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Contemporary philosopher whose diagnosis of modernity's malaises (disenchantment, disengagement, atomism) and ethics of authenticity criticize atomistic modern life.",
+   "why": "Chapter 20 structures its account of the Dude's nihilism-threatened world around Taylor's three malaises of modernity, quoting The Ethics of Authenticity and later essays throughout."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "kierkegaard-repetition",
+   "name": "Repetition (Gjentagelsen)",
+   "philosopher": "kierkegaard",
+   "domain": "existentialism-phenomenology",
+   "what": "Kierkegaard's forward-looking repetition: reinhabiting a choice or way of life so it is carried forward, inflected, and renewed, unlike backward-looking recollection.",
+   "why": "Chapter 22's central claim is that the Dude answers American nihilism through successful Kierkegaardian repetition — abidingly rolling frame after frame — a concept the taxonomy lacks."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "kierkegaardian-irony",
+   "name": "Kierkegaardian Irony (indirect communication)",
+   "philosopher": "kierkegaard",
+   "domain": "existentialism-phenomenology",
+   "what": "Irony as indirect communication: saying something other than the literal message such that only the receiver's self-reflection can yield its truth.",
+   "why": "Chapter 25's whole analysis of Lebowski Fest Achievers is built on Kierkegaard's The Concept of Irony and indirect communication, not on any of his existing taxonomy concepts."
+  },
+  {
+   "ch": 29,
+   "type": "philosopher",
+   "suggested_slug": "wk-clifford",
+   "name": "W.K. Clifford",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Victorian mathematician-philosopher whose 1877 essay 'The Ethics of Belief' holds it is wrong always, everywhere, and for anyone to believe on insufficient evidence.",
+   "why": "Chapter 29 is framed as a Clifford-versus-James debate over whether Walter was wrong to believe Bunny kidnapped herself, quoting Clifford's ship-owner case and evidentialism at length."
+  },
+  {
+   "ch": 29,
+   "type": "concept",
+   "suggested_slug": "ethics-of-belief",
+   "name": "The Ethics of Belief",
+   "philosopher": "wk-clifford",
+   "domain": "knowledge-science-reality",
+   "what": "The debate over whether believing without sufficient evidence is a moral wrong, and whether we can be responsible for — or choose — what we believe.",
+   "why": "Chapter 29 evaluates Walter's belief-forming practices entirely through the Clifford–James–Williams ethics-of-belief debate, which no existing taxonomy slug covers."
+  }
+ ]
+}

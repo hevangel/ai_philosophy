@@ -1,0 +1,395 @@
+{
+ "book": "131 - Avengers Infinity Saga and Philosophy - Go for the Head",
+ "unit": "u197",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Avengers Infinity Saga and Philosophy Go for the Head.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - A Seriously Mind-Blowing Book about Seriously Mind-Blowing Movies.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "utilitarianism",
+    "kant-humanity-formula"
+   ],
+   "relation": "The introduction argues that all villains, real or fictional, share one trait: they treat people as mere objects to be used, which is why Thanos's Snap feels monstrous. It then springs the book's central provocation: since Thanos kills half of all life to save the rest of the universe from overpopulation, resource exhaustion, and destruction, he is 'actually a strictly moral being' from a utilitarian perspective. It frames the tension between using persons and respecting them (the grenade-jumping soldier who gives himself willingly versus those sacrificed without consent) and previews the volume's chapters on Thanos's morality and mind, time travel, and death."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - I The Snap.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - 1. Rights and Wrongs of Reversing the Snap.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "consequentialism",
+    "deontology",
+    "kant-humanity-formula"
+   ],
+   "relation": "Philip Mouch weighs consequences against rights to ask whether the Avengers were wrong to undo the Snap in Endgame. He imagines a survivor whose returned spouse finds her remarried, cataloguing displaced families, food shortages, and political turmoil, and argues these harms, however real, are outweighed by restoring the lives Thanos took. The deeper problem is Bruce Banner's wager with the Ancient One: removing the Time Stone dooms a branch reality on a 1-in-14,000,605 chance, gambling innocent lives without their consent, which resembles Thanos's non-consensual sacrifice of Gamora rather than the noble self-sacrifice of Hawkeye and Black Widow on Vormir. He concludes that two wrongs do not make a right: even for a noble end, risking countless lives tramples the rights of others."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 2. What Does Life Mean after the Snap.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "camus",
+    "levinas",
+    "nietzsche"
+   ],
+   "concepts": [
+    "existence-precedes-essence",
+    "sisyphus",
+    "levinas-face",
+    "death-of-god"
+   ],
+   "relation": "This chapter reads four post-Snap Avengers as existentialist answers to how life keeps meaning after catastrophe. Tony Stark embodies Sartre's existence precedes essence, defining himself through free choice up to his final 'I am Iron Man' snap that erases Thanos and his army; the merged Professor Hulk lives Camus's Sisyphus, embracing the absurd and concluding 'all is well' after watching his own past rage; Captain America lives Levinas's ethics of the Other, from refusing to abandon brainwashed Bucky in Civil War to wielding Mjolnir to save Thor; and Ronin-era Hawkeye enacts Nietzschean nihilism until Black Widow's Vormir sacrifice, read through Zarathustra's burning in one's own flame, restores his meaning. The authors conclude Marvel's answer is affirmation: courage to affirm freedom, the Other, and life itself against Thanos as personification of genocide, climate change, and war."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 3. Confronting Grief in the Post-Snap World.md",
+   "kind": "chapter",
+   "philosophers": [
+    "butler"
+   ],
+   "concepts": [
+    "moral-egoism",
+    "virtue-ethics"
+   ],
+   "relation": "Benjamin Carpenter applies Judith Butler's idea of grievability from Precarious Life and Frames of War to Endgame: lives matter insofar as they can be mourned, and Thanos renders his billions of victims ungrievable by scale, turning deaths into statistics beside white stone monuments Scott finds his own name on. Most Avengers turn away (Tony retreats, Thor kills Thanos and sinks into depression, Clint goes on a murderous rampage), but Natasha stays at her post, keeping agency and hope alive, which is what lets Scott find her and the team reassemble. Her willing self-sacrifice on Vormir makes her the moral opposite of Thanos, 'the ultimate egoist' who wraps genocide in the language of balance and kills only others, and the chapter asks why Tony's funeral gets a long communal mourning while Natasha is mostly forgotten."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 4. Why Does Grief Hurt So Much.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "ryle"
+   ],
+   "concepts": [
+    "dasein"
+   ],
+   "relation": "J. Keeping argues grief hurts because the griever still inhabits the past world of meaning where the loved one lived, drawing on Heidegger's 'referential totality of significance' (the hammer's for-structure) and Ryle's knowing-how versus knowledge-that to show our emotional lives are skills learned by doing, not facts we can update at will. Thanos is the pathological case: emotionally stuck in Titan's collapse, he applies his genocidal 'solution' to every planet, even ones that are not overpopulated, while Tony models healthy grieving by trading the superhero life for a different one built around Pepper and Morgan and finding something to live for. Because our identities are constituted by our actions, meanings, and interconnections with others, losing loved ones is 'the affective equivalent of amputation,' which is why Cap's support group and Tony's funeral matter."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - II Time Travel.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 5. Getting Time Travel Right.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis"
+   ],
+   "concepts": [
+    "time-travel",
+    "possible-worlds",
+    "utilitarianism"
+   ],
+   "relation": "Duncan Gale asks whether Endgame 'gets time travel right,' using David Lewis's 'The Paradoxes of Time Travel' to explain personal time versus external time (Steve and Nebula meeting their past selves), causal loops (Tony quoting the saying about money and time back to Howard, who seemingly hears it first), and the grandfather paradox (Rhodey's baby-Thanos plan, which the existence of Nebula proves the Avengers would always fail to carry out). He traces Marvel's branching-timeline rule from Marvel Two-In-One #50 through the Ancient One's warning that removing a stone splits reality, and argues the film's moral is that the Avengers refuse quick resets and dutifully return the stones, while Thanos would shred the universe and rebuild a 'grateful' one. The chapter closes with Ivan Karamazov's challenge about building the edifice of human happiness on a tortured child's tears, which Thanos would accept and the Avengers refuse."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 6. Nebula’s Time Travel Paradox.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "time-travel",
+    "free-will-determinism",
+    "a-series-time"
+   ],
+   "relation": "Charlene Esby defends Endgame against the charge that Nebula killing her past self is a plot hole. She reconstructs the grandfather paradox from Nathaniel Schachner's 'Ancestral Voices,' explains how conceiving time as a fourth dimension makes travel conceivable, and deploys Aristotle's Physics (time as the number of change and rest) and the De Interpretatione sea-battle problem, where the past is necessary but the future contingent on present choices, to argue the Avengers' victory depends on free choices made now, which is why the Ancient One releases the Time Stone only on Banner's promise. The resolution is Hulk's subjective-timeline point: once traveled to, the past becomes the traveler's present, so present Nebula kills past Nebula in a shared present rather than negating her own future, just as Thanos from the past arrives alive in a present where he already died."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 7. Something Strange about Time Travel.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis"
+   ],
+   "concepts": [
+    "time-travel",
+    "possible-worlds"
+   ],
+   "relation": "Rhys Woodward asks how MCU time travel can be coherent when future Captain America fights past Captain America and future Nebula kills past Nebula, apparent contradictions a frozen Steve Rogers by contrast does not even count as time travel. He lays out David Lewis's view that a time traveler simply cannot do what would generate a logical contradiction, then argues the MCU is more permissive and proposes that Avengers time travel jumps not through one timeline but to alternate worlds, reading the Ancient One's 'branching' when a stone is removed as an allusion to the many-worlds interpretation of quantum mechanics cued by the quantum realm of the Ant-Man films. On this multiverse reading past Nebula belongs to a different world history than future Nebula, so the murder does not erase the killer, and the apparent plot holes dissolve into deliberate clues."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 8. Time Travel and the Problem of Evil.md",
+   "kind": "chapter",
+   "philosophers": [
+    "boethius"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "fate-vs-free-will",
+    "boethius-consolation"
+   ],
+   "relation": "Ray Bossert reads Endgame through Boethius's Consolation of Philosophy, arguing that Doctor Strange and Tony Stark, who permit the Snap and five years of suffering for the sake of the one winning outcome, run 'uncannily parallel' to Thanos, who decided for Gamora that her unwilling death served the greater good. Strange's viewing of 14,000,605 futures illustrates Boethius's distinction between an infinite being riding along the timeline and an eternal one seeing all moments at once, and the refusal to tell Stark his role mirrors why God's foreknowledge sees our choices without compelling them. Boethius's providence weaving free choices into justice, the Avengers' passion-driven failures on Titan (Star-Lord and Thor avenging lost lovers), justice as the wicked's own punishment (Thanos dying wretched twice in one film), and Umberto Eco's 'Myth of Superman' all frame a universe where suffering is allowed because it is woven into a pattern that ends in justice."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - III Ethics.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 9. With Infinite Power Comes No Responsibility.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bostrom",
+    "pascal",
+    "jackson"
+   ],
+   "concepts": [
+    "consequentialism",
+    "pascals-wager",
+    "deontology"
+   ],
+   "relation": "James Hart casts Tony Stark as a consequentialist and Steve Rogers as a deontologist, then argues Endgame's infinite stakes destroy Tony's morality through Nick Bostrom's 'infinitarian paralysis': in an infinite multiverse every act leaves the balance of happy and sad lives unchanged, as an infinite Stark orphanage rearranged Hilbert's-Hotel style shows, and even genocide becomes permissible so long as infinitely many remain alive. Tony's attempted fixes each fail: the causal approach collapses because reversing the Snap has infinite butterfly effects, expected value (credited to Frank Jackson) runs into Pascal's Mugging and an 'infinitarian trance' demanding suicidal bets on any chance of infinite value, and Bostrom's 'infinity shades' that filter tiny probabilities would blind Tony to the one-in-a-trillion time-heist chance he should take. The chapter concludes there is no consequentialist way to say when wagering lives on infinite stakes is ethical, and Iron Man should let Captain America lead."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 10. Natasha, Gamora, and the Soul Stone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "plato"
+   ],
+   "concepts": [
+    "trolley-problem",
+    "greatest-happiness",
+    "platonic-love"
+   ],
+   "relation": "T.J. McSherry frames the two Vormir deaths as 'a futuristic, utilitarian trolley problem,' using Mill's greatest-happiness principle to argue Natasha's martyrdom was the more utilitarian choice (only the Avengers mourn her, while Clint's children need a father), even as Thanos's tossing of Gamora shows the same sacrifice-of-few arithmetic the Avengers rely on. Because the amoral Soul Stone rewards good and evil deaths identically, the chapter turns to Plato's Symposium, casting Red Skull as a Diotiman spirit-mediator of love and ranking each relationship on Diotima's ladder: Thanos is 'stuck at level one' in his stunted love for Gamora, kept alive only as a useful sacrifice, while Clint and Natasha's non-romantic love reaches level four through shared history, empathy, and their fight over who gets to die for the other."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 11. Population Ethics for Mad Gods.md",
+   "kind": "chapter",
+   "philosophers": [
+    "parfit"
+   ],
+   "concepts": [
+    "utilitarianism"
+   ],
+   "relation": "Leonard Kahn takes Thanos seriously as a participant in population ethics, asking 'how many people should there be?' after Titan's collapse, and tests the Snap against three schools. Totalism condemns it (random killing just cuts total happiness in half while traumatizing survivors like Steve's support-group members) but falls to Parfit's Repugnant Conclusion: it must prefer a universe of trillions barely worth living to one of ecstatic individuals. Averagism also condemns the Snap, since random removal leaves the average untouched, yet would obligate Thanos to kill the least happy half, and the person-affecting view condemns the murder but gives the Avengers no reason to snap anyone back, rendering Natasha's sacrifice pointless, so Kahn concludes Thanos should have used the Stones to reconsider the Population Question before acting, since humanity's own flourishing depends on answering it."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 12. Why Blood Sacrifice.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard",
+    "kant"
+   ],
+   "concepts": [
+    "teleological-suspension",
+    "leap-of-faith"
+   ],
+   "relation": "Philip Wilson defines sacrifice as gift-giving with payback ('I give x in order to get y') and reads Thanos's murder of Gamora through Agamemnon's sacrifice of Iphigenia at Aulis, while Black Widow's willing leap from the same cliff parallels Christ's atoning self-sacrifice. The core is Kierkegaard's Fear and Trembling: Abraham's binding of Isaac as the 'teleological suspension of the ethical,' where obeying God suspends universal morality, sharpened by Kant's argument that Abraham should have told the supposed divine voice he could never be certain it came from God. Wilson argues the films restore rather than suspend ethics, Gamora was murdered rather than sacrificed, Natasha died willingly with no collateral harm, and Tony's final 'I am Iron Man' self-sacrifice completes the tragic arc, leaving readers with Kierkegaard's sleepless questions about a moral order that demands blood."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - 13. Jumping to Conclusions.md",
+   "kind": "chapter",
+   "philosophers": [
+    "peirce"
+   ],
+   "concepts": [
+    "abduction"
+   ],
+   "relation": "Tuomas Manninen uses Endgame's detective work to teach abductive reasoning, inference to the best explanation, as introduced by Charles Peirce, distinguishing it from deduction (Tony Stark is mortal) and induction (Mjolnir-worthiness generalizing to Stormbreaker). He reconstructs Tony's false conclusion that Strange 'gave up the store,' War Machine's wrong guess that Thanos hid the Stones, Cap-2012's mistaken Loki hypothesis upon meeting his future self, and the Ancient One's revised reasoning about Strange surrendering the Time Stone, applying Peter Lipton's actual-versus-potential and likeliest-versus-loveliest distinctions plus five criteria of adequacy (testability, fruitfulness, scope, simplicity, conservatism). Doctor Strange's fourteen-million-futures gambit turns out to combine abduction and deduction into a fallible but insightful plan that only Tony's survival and final snap could fulfill, illustrating Peirce's point that abduction is an instinctive yet rational act of insight."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - IV Death.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 14. When the Stakes Are Highest.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "bushido"
+   ],
+   "relation": "John Karavitis argues the Infinity War-Endgame arc only makes sense through the alien lens of feudal Japan's warrior code as codified in Yamamoto Tsunetomo's Hagakure, where 'the way of the warrior is to be found in dying' and success is measured in death, the enemy's and one's own. He reads Thanos's sacrifice of Gamora, his calm acceptance of death in the Garden, Black Widow's and Tony's willing sacrifices, and Thor's failure to 'go for the head' at Wakanda through Olivier Ansart's concepts of ichinen (single-minded resolve) and shini-gurui (the frenzy to die), with the code's roots in Buddhism, Shinto, and Confucianism. The provocation is that Thanos, not the fractious Avengers, is the true samurai, since his voluntary destruction of the Infinity Stones shows the self-discipline the code demands."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 15. Life Is a Laugh and Death Is a Joke.md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud",
+    "hobbes"
+   ],
+   "concepts": [
+    "freud-unconscious"
+   ],
+   "relation": "Jarno Hietalahti applies the three classic theories of humor to Endgame: incongruity theory explains trickster Loki, 'an epitome or embodiment of humor' who cheats death and escapes with the Tesseract; Hobbes's superiority theory from Leviathan, laughter as 'sudden glory' at others' weakness (extended by Gruner's game of humor with winners and losers), explains Thanos's self-satisfied smirks as he shrugs off the heroes' combined assault and snaps half of life away; and Freud's relief theory, in which jokes express the unconscious and release inner tension, explains fat Thor's terror-ridden laughter as escape from his failure, grief, and lost control. The chapter concludes that humor is neither good nor bad in itself but part of a worldview, and that death as the horizon giving life meaning is precisely what makes laughter possible for beings like us and like the superheroes."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 16. The Defeat of Death.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "schopenhauer"
+   ],
+   "concepts": [
+    "immortality",
+    "meaning-of-life"
+   ],
+   "relation": "JD Lyonhart asks which of four philosophies of death Endgame adopts: embracing death as natural balance (Thanos's view, where the Snap keeps life in check), denying it, grimly accepting it, or defeating it. Opening with Schopenhauer's 'Death is the muse of philosophy,' he sketches Plato's Meno argument that the slave boy's innate knowledge requires a pre-existing, hence immortal, soul, and then argues the film starts with Tony's acceptance of death as final before completing a trajectory that runs from Yinsen's sacrificial death in the cave, through Tony's cruciform fall through the wormhole in The Avengers, to a Christ-like defeat of death in Endgame where Tony dies facing death head-on so others may live. The film avoids cheap denial by sitting in five years of grief before the triumph, mirroring the Christian pattern in which Easter cannot be celebrated without Good Friday."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - 17. Life Unchecked Will Cease to Exist.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "descartes",
+    "carl-schmitt"
+   ],
+   "concepts": [
+    "heidegger-technology",
+    "anthropocentrism"
+   ],
+   "relation": "Diego Perez Lasserre argues Thanos is not an external villain but a personification of what Heidegger and Carl Schmitt call the 'metaphysics of technology': once modernity banished transcendence from the metaphysical realm, mundane concepts like economic growth and pleasure occupied it, turning nature into mere resource (a tree becomes furniture or paper) until, as Descartes's mastering stance predicts, devouring the world leaves 'life unchecked' facing extinction. Read this way, the Snap is the inevitable consequence of our own predatory interpretation of the world, and the Avengers only prevail in Endgame once their existential crises evict growth-and-wealth concepts from their metaphysical realm, replacing them with family (Tony), friendship (Natasha), justice (Hawkeye), self-knowledge (Banner), love (Vision and Wanda), and transcendence (Rogers). The closing exchange, 'the arrogant never do' suspect a thing, is read as a warning about our own climate crisis."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "grievability",
+   "name": "Grievability (Butler)",
+   "philosopher": "butler",
+   "domain": "feminism-gender-race",
+   "what": "Judith Butler's notion from Precarious Life and Frames of War that lives become real and valuable to us insofar as they are grievable, while war and political violence produce 'ungrievable' lives we are prevented from mourning.",
+   "why": "Chapter 11's entire reading of the Snap turns on Thanos making his victims ungrievable through scale and on Natasha retaining the capacity to grieve and act."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "knowing-how",
+   "name": "Knowledge-How vs Knowledge-That",
+   "philosopher": "ryle",
+   "domain": "mind-language-metaphysics",
+   "what": "Gilbert Ryle's distinction between practical know-how (skills learned by doing, like hammering or feeling) and propositional knowledge-that, with know-how as more fundamental.",
+   "why": "Chapter 12 explains grief as retraining our affective know-how, since our emotional skills keep attuning us to a past world that no longer exists."
+  },
+  {
+   "ch": 19,
+   "type": "concept",
+   "suggested_slug": "infinitarian-paralysis",
+   "name": "Infinitarian Paralysis",
+   "philosopher": "bostrom",
+   "domain": "knowledge-science-reality",
+   "what": "Nick Bostrom's problem that in an infinite universe containing infinitely many good and bad lives, no action changes the total balance, leaving consequentialism unable to rank any action (closely tied to Hilbert's Hotel and Pascal's Mugging).",
+   "why": "Chapter 19 argues Tony Stark's consequentialism collapses in the infinite multiverse through this problem and its attempted cures (causal approach, expected value, infinity shades)."
+  },
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "population-ethics",
+   "name": "Population Ethics",
+   "philosopher": "parfit",
+   "domain": "utilitarian-consequentialist",
+   "what": "The branch of value theory asking how many people should exist and how outcome value depends on population size, covering totalism, averagism, the person-affecting view, and Parfit's Repugnant Conclusion.",
+   "why": "Chapter 21 evaluates Thanos's Snap through exactly these rival theories and shows each one fails or backfires when applied to the Snap and its reversal."
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "abduction",
+   "name": "Abduction (Inference to the Best Explanation)",
+   "philosopher": "peirce",
+   "domain": "knowledge-science-reality",
+   "what": "Charles Peirce's third mode of inference: reasoning from a surprising observation to the hypothesis that, if true, would best explain it, fallible yet central to science and everyday life.",
+   "why": "Chapter 23's whole analysis of Tony, War Machine, Cap-2012, the Ancient One, and Doctor Strange is built on abductive inferences, their fallibility, and how to choose the best explanation."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "bushido",
+   "name": "Bushido (the Way of the Warrior)",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "The feudal Japanese samurai code, shaped by Buddhism, Shinto, and Confucianism and codified in texts like the Hagakure, that treats death as the measure of honor, discipline, and success.",
+   "why": "Chapter 25 reads the whole Infinity War-Endgame arc through bushido's ichinen and shini-gurui, concluding that Thanos's resolve makes him the true samurai."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "humor-theories",
+   "name": "Theories of Humor (incongruity, superiority, relief)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The three classic accounts of what makes things funny: incongruity (humor from violated expectations), superiority (laughter as sudden glory over others, Hobbes), and relief (laughter releasing psychic tension, Freud).",
+   "why": "Chapter 26 applies all three theories to Loki, Thanos, and Thor respectively, and no existing taxonomy concept covers the philosophy of humor."
+  },
+  {
+   "ch": 28,
+   "type": "philosopher",
+   "suggested_slug": "carl-schmitt",
+   "name": "Carl Schmitt",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "German political theorist (1888-1985) who argued that secular modernity never escapes metaphysics: mundane concepts like the nation, humanity, or economic growth simply take God's vacant place.",
+   "why": "Chapter 28 quotes Schmitt's Political Romanticism and Political Theology to explain how economic growth colonized the metaphysical realm and made Thanos 'inevitable'."
+  }
+ ]
+}

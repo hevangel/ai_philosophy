@@ -1,0 +1,95 @@
+{
+  "book": "226 - The Philosophy of Michael Mann",
+  "unit": "u329",
+  "chapters": [
+    {
+      "n": 3,
+      "file": "ch03 - The Philosophy of Michael Mann.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 4,
+      "file": "ch04 - The Philosophy of Michael Mann.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 5,
+      "file": "ch05 - The Philosophy of Michael Mann.md",
+      "kind": "chapter",
+      "philosophers": ["sartre", "nietzsche", "levinas", "rousseau", "locke"],
+      "concepts": ["existentialism", "authenticity", "sartre-freedom"],
+      "relation": "Sanders's introductory survey frames Mann's cinema as suffused with existentialist themes\u2014alienation, freedom, authenticity, and existential choice\u2014citing Sartre's 'condemned to be free' as the key to protagonists like Thief's Frank and Heat's Neil McCauley, who choose personal truth over surrender. It maps the volume's essays: Nietzschean will to power in the crime films, Levinas's ethics of the Other in Thief and Collateral, and Lockean/Rousseauian visions of nature in The Last of the Mohicans. Mann's outsiders repeatedly face the fateful, doom-laden choices (McCauley abandoning Eady to kill Waingro) that define existential man."
+    },
+    {
+      "n": 6,
+      "file": "ch06 - The Philosophy of Michael Mann.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche"],
+      "concepts": ["will-to-power", "apollonian-dionysian", "eternal-recurrence"],
+      "relation": "Arnett reads Mann's 'modern crime films' through Nietzsche and Marc Aug\u00e9's 'nonplace,' arguing Mann is a director-architect who exerts a will to power over institutional space (Atlanta's High Museum becomes Lecktor's prison in Manhunter; Neil's glass beach house in Heat). Mann's heroes are Nietzsche's 'godless' who refuse the herd, becoming Dionysian figures who redefine space\u2014Neil and Vincent as Dionysian/Apollonian artists whose LAX showdown is a 'frenzy' of convergence. The endless recurrence of place-versus-nonplace, and Vincent killing Neil only to be trapped in supermodernity himself, dramatizes Nietzsche's eternal recurrence and Dionysian pessimism."
+    },
+    {
+      "n": 7,
+      "file": "ch07 - The Philosophy of Michael Mann.md",
+      "kind": "chapter",
+      "philosophers": ["camus", "sartre"],
+      "concepts": ["the-absurd", "sisyphus", "existentialism"],
+      "relation": "Palmer casts the protagonists of The Jericho Mile and Thief as 'outsiders' in Colin Wilson's sense\u2014men 'awakened to chaos'\u2014read through Camus's Myth of Sisyphus. Rain Murphy, running endless meaningless laps and hurling away the timer, is Mann's Sisyphus: his fate belongs to him, the struggle itself filling his heart. Thief's Frank, who 'gets to where nothin' means nothin',' shreds his dream-collage and destroys everything rather than be owned by Leo, enacting the absurd hero's scorn for a Hobbesian 'war of all against all' where law lacks connection to justice."
+    },
+    {
+      "n": 8,
+      "file": "ch08 - The Philosophy of Michael Mann.md",
+      "kind": "chapter",
+      "philosophers": ["sartre", "kierkegaard", "camus"],
+      "concepts": ["authenticity", "bad-faith", "existentialism"],
+      "relation": "Sanders argues Mann's action serves existentialist ideas: identity, freedom, authenticity, and death. In Thief, Frank's insistence on 'the yield of my labor' and his self-immolating exit dramatize the individualist maximizer whose choice of principle\u2014echoing Sartre's young man and Kierkegaard's 'purity of heart is to will one thing'\u2014cannot be given from outside. The Miami Vice episode 'Heart of Darkness' is read as a morality play on authenticity: undercover agent Artie Lawson's flight into the fantasy persona is a bad-faith masquerade that ends in suicide, mirroring Crockett's own anxiety about his Sonny Burnett alter ego."
+    },
+    {
+      "n": 9,
+      "file": "ch09 - The Philosophy of Michael Mann.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche", "socrates"],
+      "concepts": ["will-to-power", "moral-psychology"],
+      "relation": "Skoble examines evil in Manhunter through the film's Nietzsche epigraph\u2014'whoever fights monsters should see to it that in the process he does not become a monster'\u2014as profiler Will Graham must 'become' Lecktor and Dollarhyde to catch them, risking his own psyche. Lecktor's claim that killing feels good because doing 'what God does' makes one godlike frames the killers' evil as a will to power. Skoble invokes the Socratic dictum that to know the good is to do the good, asking whether Dollarhyde's murderous 'becoming the Red Dragon' is a large-scale delusion, and warns that truly seeing the killer's fantasy risks adopting it."
+    },
+    {
+      "n": 10,
+      "file": "ch10 - The Philosophy of Michael Mann.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche", "deleuze", "kierkegaard"],
+      "concepts": ["ubermensch", "will-to-power", "rhizome"],
+      "relation": "Sterritt reads Manhunter's Hannibal Lecktor as a perverse image of Nietzsche's \u00dcbermensch: hedonistic, ascetic, and expressing an overwhelming will to power, exercising superhuman self-control (his pulse never exceeding eighty-five while mutilating a nurse). Using Deleuze and Guattari's 'becoming' and the body without organs, he contrasts the genuinely self-transforming Lecktor (a 'schizovivisectionist') with Dollarhyde, whose bogus becoming\u2014trapped in Blake's 'mind-forg'd manacles' and the Red Dragon\u2014makes him a pathetic tooth fairy rather than an overman, aligning both killers with Kierkegaard's demonic individual who stands above the universal."
+    },
+    {
+      "n": 11,
+      "file": "ch11 - The Philosophy of Michael Mann.md",
+      "kind": "chapter",
+      "philosophers": ["hegel", "deleuze"],
+      "concepts": ["kant-aesthetics", "rhizome"],
+      "relation": "Ritzer argues Mann's aesthetics of horror in The Keep and Manhunter is an aestheticization of horror\u2014the frightening transformed into the beautiful through mise-en-sc\u00e8ne, color, and montage. Against Hegel's Lectures on Fine Art, which bans the purely negative and horrific from aesthetics, Ritzer marshals Schiller, De Quincey, and Auden to split the ethical from the aesthetic: Dollarhyde stages corpses as artworks and Graham reads crime scenes as an art critic. The Keep pushes further into Barthes's 'obtuse meaning' and Deleuze and Guattari's 'planes of immanence,' its stylized images referring to nothing but themselves\u2014horror filmed solely for horror's sake."
+    },
+    {
+      "n": 12,
+      "file": "ch12 - The Philosophy of Michael Mann.md",
+      "kind": "chapter",
+      "philosophers": ["sartre"],
+      "concepts": ["authenticity", "existentialism", "sartre-freedom"],
+      "relation": "Rybin links Mann's style-versus-substance debate to the existential self-definition of his characters, focusing on Public Enemies. Dillinger, who tells Billie 'the only thing that's important is where somebody's going,' is not yet an icon but is 'becoming Dillinger' as the film unfolds. In the penultimate scene, watching Clark Gable in Manhattan Melodrama\u2014'die the way you lived, all of a sudden'\u2014Dillinger achieves authentic self-definition by claiming the gangster myth as his own identity, a Warshovian 'experience of art'; Mann's editing collapses the space between Dillinger and the screen just before Dillinger is gunned down, the cost of authentic selfhood."
+    },
+    {
+      "n": 13,
+      "file": "ch13 - The Philosophy of Michael Mann.md",
+      "kind": "chapter",
+      "philosophers": ["benjamin"],
+      "concepts": ["benjamin-aura", "existentialism"],
+      "relation": "Pomerance argues Public Enemies inverts the gangster genre's convention of the 'ecstatic' criminal viewed from law's judgmental exterior: Mann's handheld camera penetrates Dillinger's private, breathing, interior world (contrasting the mechanized, plan-driven Purvis), likening the film to Fantastic Voyage's journey inside a body. Drawing repeatedly on Walter Benjamin's Arcades Project\u2014the fl\u00e2neur who is 'utterly undiscoverable,' the bourgeois transformation of nature into interior\u2014he reads the FBI's cataloging of Dillinger as modernity reducing an integrated person to a collectible 'public enemy,' culminating in the head shot that is both execution and publicity image."
+    }
+  ],
+  "holes": []
+}

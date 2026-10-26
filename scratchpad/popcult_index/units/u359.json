@@ -1,0 +1,80 @@
+{
+ "unit": "u359",
+ "book": "243 - The Philosophy of Christopher Nolan",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\data\\philosophy_pop_culture\\markdown\\243 - The Philosophy of Christopher Nolan",
+ "range": [
+  12,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 12,
+   "file": "ch12 - Remembering, Reminding, and Forgetting with Leonard Shelby.md",
+   "words": 3079
+  },
+  {
+   "n": 13,
+   "file": "ch13 - False Tattoos and Failed Totems.md",
+   "words": 6929
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Inception and Perception.md",
+   "words": 6490
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Spinning Tops and Brains in Vats.md",
+   "words": 5642
+  },
+  {
+   "n": 16,
+   "file": "ch16 - “You Don’t Know Who You Are”.md",
+   "words": 5402
+  },
+  {
+   "n": 17,
+   "file": "ch17 - “Memory Man”.md",
+   "words": 5357
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Engaging Otherness through Following.md",
+   "words": 5377
+  },
+  {
+   "n": 19,
+   "file": "ch19 - We Are the Change That We Seek.md",
+   "words": 7071
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Selected Bibliography.md",
+   "words": 1655
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Index.md",
+   "words": 658
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Contributors.md",
+   "words": 1480
+  }
+ ],
+ "content": [
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22
+ ]
+}

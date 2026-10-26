@@ -1,0 +1,170 @@
+{
+  "book": "227 - The Philosophy of Neo-Noir",
+  "unit": "u331",
+  "chapters": [
+    {
+      "n": 6,
+      "file": "ch06 - The Philosophy of Neo-Noir.md",
+      "kind": "chapter",
+      "philosophers": ["socrates"],
+      "concepts": ["unexamined-life"],
+      "relation": "Conard's editor's introduction defines film noir and neo-noir, cataloguing noir themes (moral ambivalence, alienation, pessimism, disorientation) across films like Blue Velvet, Angel Heart, L.A. Confidential, and The Usual Suspects, and previews the volume's thirteen essays. It argues neo-noir better embodies the noir outlook because its makers work self-consciously and can let criminals succeed. It closes by invoking Socrates' claim that the unexamined life is not worth living to justify philosophical reflection on these films."
+    },
+    {
+      "n": 7,
+      "file": "ch07 - The Philosophy of Neo-Noir.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 8,
+      "file": "ch08 - The Philosophy of Neo-Noir.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["personal-identity", "the-absurd"],
+      "relation": "Abrams argues that neo-noir differs from classic noir by replacing the search for an external villain in the city with the detective's search for his own divided self, structured through time (past, present, future noir). He reads Angel Heart and The Ninth Gate as theological past-noir, Blade Runner and Minority Report as high-tech future-noir where amnesia and precognition fracture identity, and Memento, The Bourne Identity, and Fight Club as present-noir where the sleuth must reconstruct himself from bodily clues; Leonard Shelby becomes a 'Sisyphus of memory' whose total self-consciousness recedes indefinitely."
+    },
+    {
+      "n": 9,
+      "file": "ch09 - The Philosophy of Neo-Noir.md",
+      "kind": "chapter",
+      "philosophers": ["sartre", "descartes", "turing"],
+      "concepts": ["existence-precedes-essence", "sartre-freedom", "turing-test", "descartes-cogito"],
+      "relation": "Barad uses Blade Runner to test what distinguishes humans from machines. Against Turing's claim that indistinguishable input-output makes a computer a mind, she deploys Sartre's dictum that in humans existence precedes essence while manufactured replicants (like a designed android) have essence first, so they can blame their maker. She reads the Voigt-Kampff empathy test through Sartrean forlornness and despair, and argues Roy Batty achieves authentic humanity when he kills Tyrell and freely chooses to save Deckard, becoming a life-giver rather than his programmed combat model."
+    },
+    {
+      "n": 10,
+      "file": "ch10 - The Philosophy of Neo-Noir.md",
+      "kind": "chapter",
+      "philosophers": ["locke", "parfit", "reid"],
+      "concepts": ["locke-personal-identity", "personal-identity", "parfit-teleportation"],
+      "relation": "Smith reads Memento as a test of Locke's memory theory of personal identity. He explains Locke's view that consciousness of past actions (not soul or body) constitutes the self, rehearses Reid's transitivity objection and the circularity objection, and uses Parfit's account of memory and fusion to defend a survival-not-identity reading. He distinguishes 'Leonard 1' (anterograde amnesiac who returns each cycle) from 'Leonard 2b', a person fused from his own memories and those projected onto Sammy Jankis, arguing we too are 'fused' survivors who reinterpret hazy pasts, complicating responsibility and concern for our futures."
+    },
+    {
+      "n": 11,
+      "file": "ch11 - The Philosophy of Neo-Noir.md",
+      "kind": "chapter",
+      "philosophers": ["sartre"],
+      "concepts": ["existentialism", "personal-identity", "the-absurd"],
+      "relation": "Spicer argues that the noir antihero embodies existentialism's darker side (alienation, contingency, dread), and that neo-noir intensifies this via European neo-modernism. In Point Blank, Boorman renders Walker's revenge as possibly a dying hallucination, using repetition, doubling, and drained color so that the story becomes an existentialist meditation on desire, faulty memory, and fragile identity. In Memento, Nolan's reverse-chronology 'Mobius strip' structure and Teddy's claim that memories are subjective interpretations leave Leonard's identity in tatters, ending both films on profound existential ambiguity."
+    },
+    {
+      "n": 12,
+      "file": "ch12 - The Philosophy of Neo-Noir.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 13,
+      "file": "ch13 - The Philosophy of Neo-Noir.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "schopenhauer", "socrates"],
+      "concepts": ["categorical-imperative", "moral-psychology", "deontology"],
+      "relation": "Berger uses Harold Becker's The Onion Field to challenge Kant's moral idealism. Kant held that any rational being can deduce categorical imperatives and that conscience necessarily convicts the guilty and vindicates the innocent. Yet the killers Powell and Smith feel no guilt for murdering Kant-admiring cop Ian Campbell (Smith calls guilt a trick 'rich white guys dreamed up'), while the innocent, blameless Hettinger is destroyed by shame, thievery, and near-suicide. Berger weighs Schopenhauer's 'evil genius' objection and the sociopathy explanation, concluding Hettinger's guilt is a doomed attempt to preserve moral meaning."
+    },
+    {
+      "n": 14,
+      "file": "ch14 - The Philosophy of Neo-Noir.md",
+      "kind": "chapter",
+      "philosophers": ["plato"],
+      "concepts": ["plato-justice", "plato-ring-of-gyges", "plato-tripartite-soul"],
+      "relation": "Skoble argues that A Simple Plan dramatizes Plato's Republic almost exactly: justice as psychological harmony among the parts of the soul, and injustice as self-destructive disharmony. When Hank, Jacob, and Lou keep found money, they enact Thrasymachus's and the Ring of Gyges challenge (would you be unjust if you'd never be caught?). Hank miscalculates his own self-interest, mistaking wealth for happiness; the deception, distrust, and murders that follow (including Hank killing Jacob) show that even the criminal who evades capture is ruined by his corrupted character, exactly as Plato predicts."
+    },
+    {
+      "n": 15,
+      "file": "ch15 - The Philosophy of Neo-Noir.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["forgiveness", "moral-relativism", "punishment-theory"],
+      "relation": "D'Aries and Hirsch read Paul Thomas Anderson's Hard Eight as a neo-noir moral inversion: the aging criminal Sydney seeks atonement not through religious penance but through selfless love, rescuing John and Clementine while removing the loathsome Jimmy (who knows Sydney killed John's father). They contrast him with Melville's Bob le flambeur and Besson's The Professional, where convention demands the criminal be punished. Sydney escapes formal justice but is sentenced to a 'prison without bars' of self-loathing (the bloodstained cuff), and the authors warn that such sympathy-for-the-devil inversions verge on nihilistic moral relativism."
+    },
+    {
+      "n": 16,
+      "file": "ch16 - The Philosophy of Neo-Noir.md",
+      "kind": "chapter",
+      "philosophers": ["lyotard", "rorty", "nietzsche"],
+      "concepts": ["grand-narratives", "moral-relativism", "pragmatic-truth"],
+      "relation": "Conard argues that Tarantino's postmodernism makes redemption impossible in Reservoir Dogs (and Pulp Fiction, Kill Bill). Using Danto on the 'end of art', Lyotard's 'incredulity toward metanarratives', and Rorty's contingent 'vocabularies', he shows the films embrace relativism about knowledge (rearranged chronology, unreliable perspectives) and about values. Mr. Orange plays Judas and Christ; the opening tipping argument exposes moral conventions as arbitrary, so becoming a 'real person' rather than a gangster is merely being a dork rather than cool. With no metanarrative to ground it, one way of life cannot be morally superior, so redemption fails."
+    },
+    {
+      "n": 17,
+      "file": "ch17 - The Philosophy of Neo-Noir.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 18,
+      "file": "ch18 - The Philosophy of Neo-Noir.md",
+      "kind": "chapter",
+      "philosophers": ["freud", "aristotle", "nietzsche"],
+      "concepts": ["kant-aesthetics", "freud-unconscious", "existentialism"],
+      "relation": "Gilmore reads Chinatown as neo-noir that is itself a kind of philosophy, engaging the hermeneutics of suspicion (Nietzsche, Freud, Marx) and existentialist alienation. Curly eating the venetian blinds signals a desire to recover a less painful blindness; Jake Gittes's 'conceptual scotomas' (Dennett) and hubris make him miss counternarratives, paralleling Oedipus as detective. Using Freud on the uncanny and doppelgangers (Jake doubled with Hollis Mulwray and Noah Cross) and Aristotle's Poetics on catharsis and the sublime, Gilmore argues 'Chinatown' names the abyss where every narrative is undone, and that facing this dark sublimity is the way of wisdom."
+    },
+    {
+      "n": 19,
+      "file": "ch19 - The Philosophy of Neo-Noir.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche", "arendt"],
+      "concepts": ["last-man", "master-slave-morality", "banality-of-evil"],
+      "relation": "Hibbs argues that nihilism, a working assumption in neo-noir, turns the noir protagonist's quests pointless, absurd, and thus comic, and that the Coen brothers exemplify this comic response. Using Nietzsche on nihilism, the 'last man', the 'pathos of distance', and aristocratic self-creation, he reads films like The Silence of the Lambs and Cape Fear as celebrating the 'super-antihero'. The Big Lebowski comically levels nihilism (Walter: the German nihilists are 'cowards'; nihilism cannot be lived), while Fargo and Raising Arizona affirm family and fertility, a 'banality of goodness' answering Arendt's banality of evil, letting nature's comedy perpetuate itself."
+    },
+    {
+      "n": 20,
+      "file": "ch20 - The Philosophy of Neo-Noir.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["skepticism", "the-absurd", "grand-narratives"],
+      "relation": "Palmer situates The Man Who Wasn't There within New Hollywood's self-conscious 'metagenericism', distinguishing Collins's 'eclectic irony' from the 'new sincerity' that seeks a genre's 'missing harmony'. The Coens revive James M. Cain's noir (Double Indemnity, Postman) but historicize it in 1949, layering the Heisenberg uncertainty principle voiced by the lawyer Riedenschneider ('there is no what happened', 'the more you look, the less you know') onto the plot. Ed Crane, the barber who kills Big Dave, is an absurd Camusian figure who finds preexecution peace in 'seeing it whole', making the film an existentialized meditation on unknowability and meaninglessness."
+    },
+    {
+      "n": 21,
+      "file": "ch21 - The Philosophy of Neo-Noir.md",
+      "kind": "chapter",
+      "philosophers": ["marx", "plato", "hegel"],
+      "concepts": ["commodity-fetishism", "plato-justice", "plato-ring-of-gyges"],
+      "relation": "Schuler and Murray read Chinatown through Marx and Plato as a critique of capitalism's compulsions. Drawing on Marx and Engels on capital's Promethean transformation of nature and Hegel on art embodying abstractions, they argue neo-noir's centrifugal Los Angeles makes water, not diamonds, the object of desire, with wealth taking the abstract form of value. Plato's Republic warns that the boundless love of money (linked to Gyges, invisibility, and tyranny) destroys justice as reasonable self-limitation; Noah Cross's incest mirrors the 'rape of the Owens Valley', and Jake's defeat ('Forget it, Jake, it's Chinatown') marks the exhaustion of the postwar golden age."
+    },
+    {
+      "n": 22,
+      "file": "ch22 - The Philosophy of Neo-Noir.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche"],
+      "concepts": ["nietzsche-perspectivism", "personal-identity", "skepticism"],
+      "relation": "Sanders coins 'sunshine noir' for Miami Vice as postmodern neo-noir, defining postmodernism via antirealism, skepticism about knowledge, and enigmas of personal identity, anticipated by Nietzsche's perspectivism. He analyzes three episodes: 'Heart of Darkness', where undercover agent Artie Rollins is consumed by his fantasy self (mirroring Crockett's Sonny Burnett) and hangs himself; 'Shadow in the Dark', where Crockett adopts the burglar's mind-set (Dilthey's Verstehen) in a dreamlike, glass-imagery structure that undermines the realist camera; and 'Lend Me an Ear', where the surveillance expert Duddy, echoing The Conversation, collapses into paranoid moral solipsism."
+    },
+    {
+      "n": 23,
+      "file": "ch23 - The Philosophy of Neo-Noir.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 24,
+      "file": "ch24 - The Philosophy of Neo-Noir.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": [
+    {
+      "ch": 18,
+      "type": "concept",
+      "suggested_slug": "freud-uncanny",
+      "name": "The Uncanny (das Unheimliche)",
+      "philosopher": "freud",
+      "domain": "mind-language-metaphysics",
+      "what": "Freud's account of the uncanny as a species of the familiar, rooted in repressed infantile fears (death, castration) and expressed through doubles and repetition.",
+      "why": "Chapter 18 builds its central reading of Chinatown's 'specific alienation' on Freud's essay on the uncanny and doppelgangers, which no existing Freud concept slug (unconscious, death-drive, civilization) captures."
+    }
+  ]
+}

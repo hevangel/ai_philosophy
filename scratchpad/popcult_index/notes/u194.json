@@ -1,0 +1,281 @@
+{
+ "book": "129 - RuPaul's Drag Race and Philosophy - Sissy That Thought",
+ "unit": "u194",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - RuPaul’s Drag Race and Philosophy Sissy That Thought.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Foreword.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "gender-performativity"
+   ],
+   "relation": "Kate Bornstein's foreword argues that Drag Race is the first pop phenomenon to present drag life and performance as a continuum rather than a one-night bar show, letting viewers watch queens learn their gender 'at the level of values' rather than rules. She frames drag as 'the proudly flamboyant performance of a broken binary' at the heart of postmodern gender theory, pointing to the casual pronoun shifts among contestants as theory in action. Quoting Season 11 winner Yvie Oddly on how different aesthetics show the possibilities of human experience, she casts both RuPaul and the show's contestants as gender royalty who embody values no one grew up with rules for."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - On Philosophers and Drag Queens.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "plato"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-practical-wisdom",
+    "plato-cave"
+   ],
+   "relation": "The editors' introduction argues that Drag Race is an unexplored philosophical playground because it builds on marginalized black and Latinx queer herstory and because RuPaul, whose creed of love and self-improvement makes her a philosopher in her own right, has made the show her magnum opus. It invokes Plato's cave to explain why philosophers crave the 'untucked' version of everything RuPaul shows on stage. Its central move is a virtue-ethics reading of the show's judging: Ru's demand that a queen first be fierce, and through fierceness achieve charisma, uniqueness, nerve and talent, mirrors Aristotle's question of what makes a good person, with fierceness playing the role phronesis plays in securing the other virtues. Comparing queens like Silky Nutmeg Ganache, Jinkx Monsoon, Yara Sofia and Sharon Needles, it poses 'what makes a good drag queen?' as a live philosophical problem."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Category Is … Speak, Think, Read, Werk.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 1. RuPaul Is a Better Warhol.md",
+   "kind": "chapter",
+   "philosophers": [
+    "baudrillard"
+   ],
+   "concepts": [
+    "simulacra"
+   ],
+   "relation": "Volpert maps Baudrillard's four levels of simulacra onto Drag Race's 'realness': faithful copies (Trinity the Tuck's tucking tutorial, the Season 10 Cher challenge), distorted copies (Sasha Velour and Eureka's nerve, double wig reveals), simulations masking an absent reality (Vanjie's nonsense-word meme, Valentina replacing the judges' verdict with her own fantasy), and the pure hyperreal (Bob the Drag Queen as a queen made entirely by the show, BenDeLaCrème's self-elimination as uniqueness with no referent). She then argues RuPaul is a better Warhol because Warhol merely produced superstars like Candy Darling, Holly Woodlawn and Jackie Curtis, profiting while they died unmourned, whereas Ru could compete in her own challenges and returns love to her girls. Realness, she concludes with Ru's Billboard interview and the Season 3 'Pop Art Ball', is always a wink: the facade talking about facade."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 2. Reading Is Fundamental.md",
+   "kind": "chapter",
+   "philosophers": [
+    "searle",
+    "plato",
+    "j-l-austin"
+   ],
+   "concepts": [],
+   "relation": "McDonald takes Dorian Corey's Paris Is Burning definitions as the foundation for a speech-act analysis of reading versus shade in The Library challenge: reads require uptake from the target and state the insult as at-issue content (Jujubee's 'your grill is fucked up', Latrice's 'illiterate fuck'), while shade smuggles the insult in through implicature and presupposition without needing uptake (Bianca's 'What's your name again?', Aja's Valentina rant), with direct unplayful attacks like Shangela's sugar-daddy rant at Mimi Imfurst as a third category. She tests Plato's superiority theory, Kantian-style incongruity theory and relief theory to argue that a good read works as catharsis, letting queens laugh at the slurs and insecurities that wound them outside the werkroom. Comparing drag lingo to Polari, the secret language of 1950s British gay men, she shows language building solidarity and safety, and leaves the appreciation-versus-appropriation question for fans open."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 3. What Should a Queen Do.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "mill"
+   ],
+   "concepts": [
+    "hume-sentimentalism",
+    "game-theory"
+   ],
+   "relation": "Sznajder uses All Stars' winner-eliminates-you twist (Naomics Smalls cutting Manila, BenDeLaCrème quitting) to ask what a rational queen should do, grounding instrumental rationality in Hume's 'reason is the slave of the passions'. She runs the Ultimatum Game (Latrice rejecting a 99-to-1 split from Valentina), diminishing marginal utility (Trixie's twenty-dollar tip then and now), expected utility with the pink mystery box, and a Trixie–Shangela Prisoner's Dilemma in which rational utility-maximizers eliminate each other when cooperation would leave both better off. The clash between the normative theory and what queens and experimental subjects actually do leads her to the chapter's 'No Sure Thing Principle': Drag Race's plot twists always add an option game theory never modeled, as BenDeLaCrème saw."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 4. Is It Immoral to Read Someone to Filth.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "plato",
+    "hobbes",
+    "schopenhauer",
+    "freud",
+    "bergson",
+    "spencer"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "bergson-laughter",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Birnie stages Alexis Michelle's hurt at the Season 9 body-shaming reads against Bianca Del Rio's 'rolodex of hate' to ask whether reading is immoral. He surveys the philosophical ethics of humor — Plato's Philebus on laughter as malicious delight in others' self-ignorance, Hobbes's 'sudden glory', Schopenhauer on why ridicule hurts, the Stoics' ideal of never laughing, Aristotle's eutrapelia as the golden mean between vulgar buffoon and boor, the Spencer–Freud relief theory, and Bergson's laughter as society's corrective — before endorsing the play theory: reads are consensual mock-aggression, verbal sport honed by marginalized black and Latinx ball culture. From this he derives three guidelines (play signals and consent, timing and audience given the show's younger mainstream viewers, openness to challenge) and concludes Katya's bus-stop read of Roxxxy was acceptable while stereotype reads need care."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Category Is … The Reality of It All.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 5. RuPaul versus Zarathustra.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "death-of-god",
+    "ubermensch"
+   ],
+   "relation": "The van der Wielen sisters read RuPaul against Nietzsche's Zarathustra: both are outcasts who descend from solitude bearing a spiritual teaching in a marketplace that mocks them, and both announce that inherited values are ungrounded — Zarathustra through the death of God and the call to become the over-man, Ru through 'we're all born naked and the rest is drag' and the cosmic life force that makes every identity a costume. But where Zarathustra refuses followers and shuns the people's values, Ru's creed polices female stereotypes (long hair, breasts, heels) and pulls the cart of consumerist values — money, fame, individualism — so that she comes to resemble the priests and wise men Zarathustra condemns. Her openly admitted fakeness and opportunism (the Wigstock 'gender fuck' abandoned for the glamazon brand) leave the chapter asking who flies higher: the tragic free spirit or the pragmatic, honestly dishonest superstar."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 6. Looking for Realness.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "goffman"
+   ],
+   "concepts": [
+    "dasein",
+    "authenticity"
+   ],
+   "relation": "Gilpin and Nagy define Drag Race realness as an ongoing process of performative becoming read through Heidegger's Dasein: being-in-the-world and being-with others in the werkroom and Untucked, historicity in the childhood-photo rituals, Jinkx's 'Lunch with RuPaul' and the show's Stonewall and HERstory numbers, and freedom as authenticity, as when Monique Heart describes finding liberation only once she 'put on a wig and a dress'. They then filter this through Goffman's dramaturgy — self-expression versus self-presentation, impression management, and fronts of setting, appearance and manner — arguing that Drag Race collapses Goffman's front stage/backstage divide because backstage vulnerability is itself a required performance. Realness ultimately demands perceived emotional vulnerability plus commercially viable professionalism, and RuPaul alone validates which queens have achieved it."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 7. The Sublime Sabotage of the Inner Saboteur.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-aesthetics",
+    "free-will-determinism"
+   ],
+   "relation": "Ryan reads Drag Race ontologically through Kant's two forms of the sublime from the Critique of Judgment: the spinning-prop disaster challenge in 'RuPocalypse Now', where queens like Jiggly Caliente are overwhelmed and then rise ('I couldn't let my fall be the death of me'), embodies the mathematically sublime, while Violet Chachki's sixteen-inch corset cinch and oxygen tank on the 'Death Becomes Her' runway dramatizes the dynamically sublime, the recognition of a power in us greater than what threatens us. She argues the queens' testimonies — Chi Chi on growing up poor, black and queer in the Deep South, Kim Chi's fear of her mother, Katya's confessed terror of failure — show free will and authenticity overcoming the determinism of normative structures of gender, race and class. The 'inner saboteur' is overcome through sublime self-overcoming and the solidarity of werkroom heart-to-hearts, even within a capitalist reality-TV machine she checks against the Paris Is Burning appropriation critique."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 8. Playing with Glitter.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gadamer",
+    "wittgenstein",
+    "deleuze",
+    "bakhtin"
+   ],
+   "concepts": [
+    "language-games",
+    "gadamer-hermeneutics",
+    "rhizome"
+   ],
+   "relation": "This chapter argues that play is Drag Race's deep structure, developed through three philosophers. Wittgenstein's language games explain the show's word-play: 'realness' subverts its own reference to mean the iconic fake, 'herstory' is history played with from a queer perspective, and lip syncs are rule-following whose rules only exist in application. Gadamer's account of play with 'a life of its own' — requiring willingness and openness to the Other — explains why half-hearted players lose, from Porkchop and Tammie's mouthed-nothing lip sync to Gia Gunn and Trixie breaking character in Snatch Game, and why the Evil Twins and makeover challenges are designed to force queens to open up. Deleuze's rhizome (with Bakhtin's carnivalesque) grounds the claim that drag decentering the human — Lil' Poundcake, dragged pancakes, Sharon Needles — and the finale's carnival dissolve the official binaries of male/female and good/bad."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Category Is … Drag Race Family Values.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 9. Another Wig Underneath.md",
+   "kind": "chapter",
+   "philosophers": [
+    "butler",
+    "sartre",
+    "husserl",
+    "beauvoir"
+   ],
+   "concepts": [
+    "gender-performativity",
+    "the-look",
+    "becoming-woman"
+   ],
+   "relation": "Cooper argues that the 'vulnerability' Drag Race demands is really a marketable persona, not truth. Working through Butler's Gender Trouble (built on Beauvoir's 'one is not born, but rather becomes a woman'), she concedes drag reveals gender's imitative structure, but shows it also confirms identity: Latrice Royale's padded 'Natural Woman' lip sync reads as authentic, and trans queens like Peppermint and Gia Gunn use drag to articulate womanhood, with Husserl's intersubjectivity invoked to insist that constructed gender is no less real for not being empirical. Willam's edit-spliced 'I'm not acting' breakdown and Shannel's deliberate wig-doff show honesty becoming inconsequential next to spectacle, while Untucked's Interior Illusions Lounge is framed as Sartre's No Exit hell of unending observation. Against RuPaul's 'born naked' self-help nihilism ('identity is a joke'), she ends warning that the show no longer lets Katya take off the chicken suit."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 11,
+   "type": "philosopher",
+   "suggested_slug": "austin",
+   "name": "J.L. Austin",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "J.L. Austin, founder of speech act theory (How to Do Things with Words), showed that utterances like promising, ordering and apologizing perform actions rather than merely describe the world.",
+   "why": "Chapter 11 explicitly builds its analysis of reading and throwing shade on Austin's speech act theory — uptake, rules of successful performance, and perlocutionary effects — naming him alongside Searle as the framework's source."
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "speech-act-theory",
+   "name": "Speech Act Theory (performative utterances)",
+   "philosopher": "searle",
+   "domain": "mind-language-metaphysics",
+   "what": "The theory that speaking is acting: utterances perform rule-governed acts (promising, ordering, pronouncing, insulting) whose success depends on uptake, speaker authority and context rather than literal meaning alone.",
+   "why": "Chapter 11's central project is defining reading and throwing shade as two speech acts philosophers have never analyzed, distinguishing them by uptake, at-issue content and intended perlocutionary effect."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "game-theory",
+   "name": "Game Theory and Rational Choice",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The formal study of strategic decision-making that models situations like the Ultimatum Game and the Prisoner's Dilemma, defining rational action as maximization of expected utility.",
+   "why": "Chapter 12 models All Stars elimination politics as explicit games — utility maximization, the Ultimatum Game, a Trixie–Shangela Prisoner's Dilemma — to ask what a rational queen should do, and no taxonomy slug covers decision or game theory."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "play-theory-of-humor",
+   "name": "Play Theory of Humor",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The theory that humor is mock-aggression exercised in a safe, consensual, play-signaled setting — the verbal equivalent of sport or animal play-fighting.",
+   "why": "Chapter 13's moral verdict on reading rests on the play theory (Eastman onward): reads are permissible because play signals, consent and the reading/coming-for distinction keep them mock-aggression rather than real attack."
+  },
+  {
+   "ch": 16,
+   "type": "philosopher",
+   "suggested_slug": "goffman",
+   "name": "Erving Goffman",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Erving Goffman, sociologist of everyday life who analyzed social interaction as theatrical performance: self-presentation, impression management, fronts, and the front stage/backstage divide.",
+   "why": "Chapter 16 uses Goffman's dramaturgy at length — self-expression versus self-presentation, the three components of fronts, and the collapse of backstage into front stage on Untucked — to explain how queens perform realness."
+  },
+  {
+   "ch": 18,
+   "type": "philosopher",
+   "suggested_slug": "bakhtin",
+   "name": "Mikhail Bakhtin",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Mikhail Bakhtin, theorist of the carnivalesque and the grotesque (Rabelais and His World): an unofficial carnival time in which official hierarchies and binaries are suspended and transgression is celebrated through laughter.",
+   "why": "Chapter 18 gives Bakhtin his own section ('Bakhtin, Tops and Bottoms'), reading the Drag Race finale and drag itself as carnival time where the official world of rules and hierarchies death-drops."
+  }
+ ]
+}

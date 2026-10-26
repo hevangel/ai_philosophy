@@ -1,0 +1,56 @@
+{
+  "article": "who_owns_the_future",
+  "title": "Who Owns the Future? A Universal Theory of Natural Resource Rights for Humans and Artificial Persons",
+  "source": "articles/who_owns_the_future/index.md",
+  "updated": "2026-10-11",
+  "polish": {
+    "status": "done",
+    "language": "en",
+    "word_count": {
+      "source": 6261,
+      "polished_total": 6096,
+      "polished_body": 5715
+    },
+    "runs": [
+      {
+        "date": "2026-10-04",
+        "focus": "full academic upgrade: abstract/keywords, road map, 31→17 section regrouping, all 22 citations verified and added (draft had zero), new §16 Objections and Replies (4 objections), named principles cross-referenced, language pass",
+        "summary": "8,094-word first polish; superseded same day by length-calibration run (archived as polished-en-long.md)."
+      },
+      {
+        "date": "2026-10-04",
+        "focus": "length calibration to owner target: rewritten from 8,094 to 6,096 words (5,715 body). All 14 principles, all named principles, all 22 verified citations, all key examples, and the 17-section structure retained; prose compressed throughout, applications §15 regrouped 8→7 subsections",
+        "summary": "Current manuscript. See polish-notes.md run 2."
+      }
+    ]
+  },
+  "conversions": {
+    "aipc2026": {
+      "status": "done",
+      "artifacts": [
+        "venue-aipc2026/anonymized-manuscript.docx",
+        "venue-aipc2026/anonymized-manuscript.md",
+        "venue-aipc2026/anonymized-manuscript.pdf",
+        "venue-aipc2026/chat-logs/original-prompts.md",
+        "venue-aipc2026/methodology-report.md",
+        "venue-aipc2026/methodology-report.pdf",
+        "venue-aipc2026/notes.md",
+        "venue-aipc2026/regen/",
+        "venue-aipc2026/shots/submitted-213-forum.png"
+      ],
+      "notes": "SUBMITTED 2026-10-11: OpenReview note oIBJtB2hr2, submission #213, forum https://openreview.net/forum?id=oIBJtB2hr2. Verified in browser."
+    },
+    "philarchive": {
+      "status": "done",
+      "artifacts": [
+        "venue-philarchive/manuscript.md",
+        "venue-philarchive/manuscript.docx",
+        "venue-philarchive/manuscript.pdf",
+        "venue-philarchive/cover-letter.md",
+        "venue-philarchive/ai-disclosure.md",
+        "venue-philarchive/notes.md"
+      ],
+      "notes": "2026-10-04: PDF + DOCX generated via md_to_docx.py (pandoc + Word COM); regenerated after the 6,000-word rewrite (PDF 259 KB, DOCX 155 paragraphs, both verified). Not anonymized (preprint); author line added. 22 refs verified. NOT submitted — awaiting owner sign-off + live policy re-check (phil-submit)."
+    }
+  }
+}

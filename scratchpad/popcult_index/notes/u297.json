@@ -1,0 +1,461 @@
+{
+ "book": "208 - X-Men and Philosophy - Astonishing Insight and Uncanny Argument in the Mutant X-Verse",
+ "unit": "u297",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - section-1.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - X-Men and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - The Blackwell Philosophy and Pop Culture Series.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Acknowledgements.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editors' introduction recounts the X-Men franchise's forty-five-year history, from the 1963 debut of Professor X, Marvel Girl, Angel, Beast, Iceman, and Cyclops alongside Magneto through films, TV, and games. It argues the X-Verse is 'a deeply philosophical place' where every traditional hierarchy is scrutinized and reimagined: Stan Lee's originally gender-neutral 'The Mutants' became a series with strong female leads and a diverse cast (Storm, Dani Moonstar, Jubilee), and a wheelchair-using Professor X is its most powerful and influential hero. The big questions were present from the start: our obligations to one another, what it means to be human, and what evolution implies for human and mutant civilization."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - X1 ORIGINS - THE X-FACTOR IN THE EXISTENTIAL.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - I - THE LURE OF THE NORMAL WHO WOULDN’T WANT TO BE A MUTANT.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "nietzsche"
+   ],
+   "concepts": [
+    "transhumanism",
+    "descriptive-vs-prescriptive-normality"
+   ],
+   "relation": "Hopkins dissects 'normal' as descriptive versus prescriptive and argues that who wouldn't want to be a mutant depends on where one's abnormality falls on axes of utility, social acceptability, and detectability. Storm's invisible, useful weather control lets her call cure-seekers cowards, while Rogue, who cannot touch anyone, and Beast, who cannot pass as human, have rational reasons to want normality, as do the underground Morlocks. Using Foucault's history of the 'monster' and the 'individual to be corrected,' he reads mutant passing against real-world passing by gay people and light-skinned African Americans, then weighs transhumanism against bioconservative natural-law views and closes with Nietzsche's 'man is something that should be overcome' to ask whether wanting to be extraordinary, or ordinary, is selfish either way."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - II - AMNESIA, PERSONAL IDENTITY, AND THE MANY LIVES OF WOLVERINE.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "parfit"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "parfit-teleportation",
+    "personal-identity"
+   ],
+   "relation": "Southworth uses Wolverine's serial mind-wipes to test theories of personal identity. Locke's memory criterion, illustrated by Cassandra Nova and Charles Xavier swapping bodies in New X-Men, sorts Wolverine's history into distinct persons sharing one body (James Howlett, Logan, Team X, Mutate #9601, Weapon X), while Parfit's fission worries, mapped onto Jamie Madrox's duplicates, show sameness of memory is neither necessary nor sufficient for identity. The moral payoff: if Parfit's 'sameness of brain' view is right, we should be slow to blame the present Wolverine for Weapon X's atrocities, and equally slow to judge Emma Frost, Beast, or a resurrected Jean Grey."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - III - IS SUICIDE ALWAYS IMMORAL JEAN GREY, IMMANUELKANT, AND THE DARK PHOENIX SAGA.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-autonomy",
+    "categorical-imperative",
+    "deontology",
+    "moral-dilemmas"
+   ],
+   "relation": "White asks whether Jean Grey's suicide at the end of The Dark Phoenix Saga can be moral. After finding virtue ethics mostly hostile and utilitarianism hostage to circumstances, he turns to Kant: the categorical imperative's formulas condemn suicide as using one's person as a mere means, yet Kant's own Metaphysics of Morals concedes a case, a man bitten by a mad dog who kills himself before his madness can harm others, that maps exactly onto possession by the Phoenix Force. Drawing on Thomas E. Hill Jr.'s Kantian account of suicide as a final autonomous act, he reads Jean's dialogue with Scott as her choosing death as the author of her life story, preserving her autonomy rather than letting Dark Phoenix kill five billion more people."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - IV - X-ISTENTIAL X-MEN JEWS, SUPERMEN, AND THE LITERATURE OF STRUGGLE.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "camus",
+    "arendt",
+    "freud"
+   ],
+   "concepts": [
+    "existentialism",
+    "sisyphus",
+    "bad-faith",
+    "the-absurd"
+   ],
+   "relation": "Kavadlo reads the X-Men as existential literature rooted in the Jewish experience of their creators. Stan Lee and Jack Kirby's mutants, and Claremont's reinvention of Magneto as a Holocaust survivor, reverse Superman's assimilationist fantasy: being a minority makes the X-Men entitled to equal treatment, and human fear of difference is the norm rather than a Lex Luthor-style pathology. Sartre's bad faith explains the anti-Semite's chosen hatred (and why Xavier refuses to simply mind-control humans into tolerance), while Arendt's Eichmann in Jerusalem makes moral judgment everyone's burden. Against Camus' opening question of suicide and Mr. Incredible's wish that the world 'stay saved,' the chapter argues the X-Men's endless Sisyphean cycle of deaths, resurrections, and reboots is not futile: one must imagine Sisyphus happy."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - X2 EVOLUTION - CONSCIOUSNESS, CONSCIENCE, AND CURE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - V - MAD GENETICS THE SINISTER SIDE OF BIOLOGICAL MASTERY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "spencer",
+    "darwin",
+    "paley"
+   ],
+   "concepts": [
+    "eugenics",
+    "social-darwinism",
+    "applied-ethics"
+   ],
+   "relation": "Burnett traces Nathaniel Essex's transformation into Mister Sinister to explore the ethics of genetic mastery. Set in Darwin's 1859 London, where Essex, grieving a child, debates taking control of evolution with Darwin himself, the chapter uses Paley's natural theology and Tennyson's crisis of natural evil to frame Sinister's rejection of moral restraint, and Herbert Spencer's evolutionary ethics to argue that cooperation, not 'dog eat dog,' is what fitness actually favors. Sinister's breeding of the Summers bloodline and Bolivar Trask's Sentinels embody Galton's eugenics, and Sinister's careers as 'Dr. Windsor' and 'Dr. Milbury' behind Weapon X and the Black Womb project mirror real cases like the Tuskegee study, where researchers lost sight of the moral whole."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - VI - LAYLA MILLER KNOWS STUFF HOW A BUTTERFLY CAN SHOULDER THE WORLD.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bacon",
+    "aristotle",
+    "aquinas",
+    "ayn-rand",
+    "nietzsche"
+   ],
+   "concepts": [
+    "knowledge-is-power"
+   ],
+   "relation": "Dunn takes Layla Miller's 'I know stuff' as a lesson in Francis Bacon's revolution: knowledge is power. Layla's butterfly-effect interventions, from unscrewing faucet handles to ordering pizzas and sending teammates to stand on street corners, operate the world like a Rube Goldberg machine, exactly the mechanical, experimental grip on nature Bacon opposed to Aristotle's and Aquinas' contemplative ideal of knowing eternal essences. Her pawn-like self-understanding ('I know the endgame. And I know I'm expendable'), her rejection of Ayn Rand's Atlas, and her knowingly chosen torture in Messiah CompleX's future show, with Nietzsche's 'going-under,' that Baconian knowledge carries an Atlas-sized burden of responsibility for others."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - VII - X-WOMEN AND X-ISTENCE.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "camus",
+    "baudrillard",
+    "ortega-y-gasset"
+   ],
+   "concepts": [
+    "existentialism",
+    "existence-precedes-essence",
+    "bad-faith",
+    "sisyphus"
+   ],
+   "relation": "Housel gives an existential history of the X-Women. Jean Grey embodies the paradox of 'existence precedes essence,' a fictional character whose meaning is assigned by creators and fans yet who perpetually re-creates herself through the Phoenix, while Rachel Summers 'makes her own existence at every single moment' in Ortega's sense across timelines. The Scarlet Witch's reality-warping is Baudrillard's 'line of fracture' where an expanding system cracks, and her denial of the past is Sartrean bad faith; Storm shows angstless responsibility, Mystique the 'cynical consciousness' of self-deception, Rogue Camus' absurdity in a life without touch, and Kitty Pryde Ortega's 'substantial emigrant on a pilgrimage of being.'"
+  },
+  {
+   "n": 18,
+   "file": "ch18 - VIII - MUTANT RIGHTS, TORTURE, AND X-PERIMENTATION.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer"
+   ],
+   "concepts": [
+    "personhood",
+    "speciesism",
+    "utilitarianism"
+   ],
+   "relation": "McWilliams asks whether mutants have 'human' rights, arguing that rights track reasoning ability, sentience, and autonomy rather than species membership: the Down syndrome comparison shows the X-gene itself justifies nothing, and her alien-landing thought experiment, echoing Singer on speciesism, shows peaceful aliens, and therefore mutants, belong in the class of 'everyone.' Because mutants can look human yet wield omega-level power, she grants they may owe greater duties not to harm, but Wolverine's nonconsensual adamantium grafting and The Last Stand's weaponizable 'cure' remain rights violations. The chapter ends on the cliffhanger of when, if ever, consequentialist benefits may override the rights not to be tortured or experimented on."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - IX - WHEN YOU KNOW YOU’RE JUST A COMIC BOOK CHARACTER DEADPOOL.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "ontology-of-fiction",
+    "metafiction"
+   ],
+   "relation": "Darowski argues Deadpool's defining quirk, knowing he is a comic book character, is postmodern metafiction put to ontological work. Moments like 'Five tooth brushings and a scene change later...,' narration the Great Lakes Avengers can hear aloud, and jokes about writers Kelley, Priest, and Nicieza force readers to see their own role in closure between panels and in the collaborative production of the story. Like Plato's cave dweller who has escaped to true reality, Deadpool knows his world is 'all his imagination,' and the reader, unlike the characters who call him insane, shares the knowledge that creators and readers together fabricate the fictional reality."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - X 3 UNITED - HUMAN ETHICS AND MUTANT MORALITY IN THE X-VERSE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 21,
+   "file": "ch21 - X - MAGNETO, MUTATION, AND MORALITY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dennett",
+    "moore",
+    "frege",
+    "darwin",
+    "bentham",
+    "hobbes",
+    "michael-ruse"
+   ],
+   "concepts": [
+    "naturalistic-fallacy",
+    "evolutionary-ethics"
+   ],
+   "relation": "Davis stages the debate over whether evolution can ground ethics through Magneto and Xavier. If Dennett and Dawkins are right that morality is evolved 'rule worship,' then Magneto's rule, eliminate threats to mutant fitness, looks as good as Xavier's cooperation, and Magneto never argues morally because, like Ruse, he treats moral claims as emotive boos, hence converting Senator Kelly by force rather than reason. Moore's naturalistic fallacy blocks any is-to-ought inference, Jean Grey's sacrifice in X2 shows praise tracks choice against instinct rather than hardwired impulse, and the chapter ends suggesting, via Frege's Third Realm, that morality's ground may lie beyond the natural."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - XI - PROFESSOR X WANTS YOU.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nozick",
+    "bentham",
+    "ronald-dworkin"
+   ],
+   "concepts": [
+    "experience-machine",
+    "civil-disobedience"
+   ],
+   "relation": "Robichaud asks what a new mutant like Storm ought to do: join the X-Men, the Brotherhood, or neither. Distinguishing prudential from moral oughts, he argues desire-satisfaction beats Bentham's pleasure-pain account of well-being via an adaptation of Nozick's experience machine ('Eugor,' a child given Rogue's exact mental life), then evaluates both teams' agendas nonconsequentially. Building on Ronald Dworkin's three grounds for civil disobedience, policy-based, justice-based, and integrity-based, he argues peaceful persuasion is not obviously mandatory for mutants facing registration and a weaponized cure: resistance short of violence is permitted on all three grounds, and when the state turns lethal, even violent resistance becomes permissible."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - XII - DIRTY HAN DS AN D DIRTY MINDS THE ETHICS OF MIND READING AND MINDWRITING.md",
+   "kind": "chapter",
+   "philosophers": [
+    "walzer",
+    "machiavelli",
+    "mill",
+    "descartes",
+    "russell"
+   ],
+   "concepts": [
+    "dirty-hands",
+    "problem-of-other-minds",
+    "utilitarianism",
+    "deontology"
+   ],
+   "relation": "Terjesen examines whether telepaths can be trusted, starting epistemically: Descartes' problem of other minds and Russell's analogy answer explain how Xavier's football-field telepathy and the Cuckoos' exoneration of Beak could be verified, and how far Jean's telepathic testimony about Cassandra Nova should be acted on. Utilitarians (Mill) and deontologists then split over mindwriting: Xavier's early memory erasures, the permanent rewrite of a terrorist's personality, and the Magneto mindwipe versus Cyclops and Emma's 'telepathic affair' and Jean's ransacking of Emma's memories, where privacy and intimacy are at stake. Invoking Machiavelli and Walzer, the chapter concludes Xavier's dirty hands are necessary but wrong, so he should feel guilt and step down, lest mindreading mutants become the thing humans rightly fear."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - XIII - THE MUTANT CURE OR SOCIAL CHANGE DEBATING DISABILITY.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "disability-philosophy",
+    "eugenics",
+    "applied-ethics"
+   ],
+   "relation": "Ilea uses The Last Stand's mutant cure to stage the debate over disability. Worthington's 'affliction... a disease' speech is the medical model; Storm's 'there's nothing to cure' is the social model, on which society, not the body, disables, as with Deaf culture and communities without eyeglasses. Rogue, who cannot touch anyone, and Jean, whose power she cannot control, show some mutations genuinely impair, so the chapter weighs beneficence, nonmaleficence, and utility across Angel's aborted cure, cochlear implants, prenatal Down syndrome screening, and the history of eugenics from Nazi euthanasia to American sterilization laws, concluding the cure can be both liberation and weapon."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - XIV - MUTANTS AND THE METAPHYSICS OF RACE.md",
+   "kind": "chapter",
+   "philosophers": [
+    "appiah"
+   ],
+   "concepts": [
+    "race-as-social-construct",
+    "natural-kinds"
+   ],
+   "relation": "Pierce asks whether mutants are a race in any metaphysically serious sense. Biologically, no: human racial groups already fall far short of subspecies-level genetic difference (using Appiah's variation figures), and mutants share nothing but an activated X-gene that non-mutant humans also carry, spread across every human ancestry from Storm's Kenya to Cannonball's Kentucky. Socially, they could become a race: Days of Future Past's camps and Genosha's 'gene-positive' slavery, with its slur 'Genejoke,' deliberately mirror racial categorization and oppression, so the X-Men's racial language is best read as a loose, 'racelike' analogy that does real argumentative work."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - X4 THE LAST STAND - WAR, TECHNOLOGY, DEATH, AND MUTANTKIND.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 27,
+   "file": "ch27 - XV - MUTANT PHENOMENOLOGY.md",
+   "kind": "chapter",
+   "philosophers": [
+    "merleau-ponty",
+    "heidegger",
+    "nagel",
+    "becker-denial-of-death",
+    "descartes"
+   ],
+   "concepts": [
+    "phenomenology",
+    "embodiment",
+    "being-toward-death",
+    "what-is-it-like"
+   ],
+   "relation": "Wisnewski applies phenomenology to mutant embodiment: if consciousness is 'I can' and the body is our point of view on the world, then Kitty Pryde's walls, Nightcrawler's teleportation, Angel's flight, Madrox's duplicate spaces, and Rogue's untouchability describe genuinely different worlds, not merely different powers. Apocalypse's millennia of near-immortality and the X-Verse's reversible deaths unsettle Heidegger's being-toward-death and Becker's death-denial that organizes human culture. Concluding with Nagel's bat, he argues we cannot know what it is like to be a mutant, only what our own being-in-the-world would become if our bodily limitations changed."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - XVI - WAR AND PEACE, POWER AND FAITH.md",
+   "kind": "chapter",
+   "philosophers": [
+    "levinas"
+   ],
+   "concepts": [
+    "levinas-face",
+    "terrorism-violence"
+   ],
+   "relation": "Kirby reads the trilogy through Levinas's distinction between false peace (a cease-fire between parties still opposed) and true peace as love of the unique, inassimilable other. Magneto embodies war: sacrificing Rogue to power his machine, reversing Stryker's Cerebro onto humanity, 'playing by their rules,' and abandoning Mystique, while Xavier embodies Levinasian peace, listening ('I'm looking for hope'), leaving Magneto his choice ('I will always be there, old friend'), and teaching Wolverine and Rogue faith in the goodness of others. Yet Xavier's psychic barriers on Jean, 'the lesser of two evils,' show even the peaceful path risks the ethical compromise Levinas warns the uncritical use of power always invites."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - XVII - HIGH-TECH MYTHOLOGY IN X-MEN.md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud",
+    "descartes"
+   ],
+   "concepts": [
+    "freud-unconscious",
+    "cartesian-dualism",
+    "posthumanism"
+   ],
+   "relation": "Teschner reads X-Men as high-tech mythology: the superhero images are Freud's dream work, disguising unconscious wishes about technological power that the conscious ego cannot face, with Wolverine's adamantium and constant pain symbolizing human alienation under the machine. The psionic mind, telepathy and telekinesis that move matter directly, breaks the Cartesian dualism of mind and body, marking the upper limit of technological control. On the latent level, Xavier's psionic blocks and School represent repression of the unconscious while Magneto's plastic prison, mutant machine, and Liberty Island plan represent acceptance of a humanity redefined by its union with the machine."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - CONTRIBUTORS.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 31,
+   "file": "ch31 - INDEX.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "descriptive-vs-prescriptive-normality",
+   "name": "Descriptive vs. Prescriptive Normality",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The distinction between 'normal' as a neutral statistical description and 'normal' as a prescriptive standard that things ought to meet, tied to society's handling of the abnormal.",
+   "why": "Chapter 10's entire analysis of who would want the mutant cure turns on whether 'normal' describes or prescribes, and no taxonomy slug covers that distinction or the normality/abnormality theme.",
+   "accepted": true
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "knowledge-is-power",
+   "name": "Knowledge Is Power (Baconian science)",
+   "philosopher": "bacon",
+   "domain": "knowledge-science-reality",
+   "what": "Francis Bacon's doctrine that genuine knowledge is practical knowledge of nature's hidden causal mechanisms, valued for the power it gives us to improve human life.",
+   "why": "Chapter 16 reads Layla Miller's 'I know stuff' entirely through Bacon's identification of knowledge with power, which no existing concept slug captures.",
+   "accepted": true
+  },
+  {
+   "ch": 17,
+   "type": "philosopher",
+   "suggested_slug": "ortega-y-gasset",
+   "name": "Jose Ortega y Gasset",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "Spanish existentialist philosopher who held that humans must make their own existence 'at every single moment,' constrained only by the past (History as a System).",
+   "why": "Chapter 17 applies Ortega's 'project,' 'substantial emigrant,' and 'man is what has happened to him' to Rachel Summers, the Scarlet Witch, and Kitty Pryde.",
+   "accepted": true
+  },
+  {
+   "ch": 19,
+   "type": "concept",
+   "suggested_slug": "metafiction",
+   "name": "Metafiction (postmodern self-reference)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The postmodern technique of a work drawing attention to its own fictionality and production, making its audience aware of its role in constructing the narrative.",
+   "why": "Chapter 19 argues Deadpool's knowledge that he is a comic character uses metafiction to raise ontological questions, and the taxonomy lacks any slug for postmodernism or metafiction.",
+   "accepted": true
+  },
+  {
+   "ch": 21,
+   "type": "philosopher",
+   "suggested_slug": "michael-ruse",
+   "name": "Michael Ruse",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Philosopher of biology who defends evolutionary ethics, arguing moral norms are adaptive instincts and that objective morality is a useful illusion.",
+   "why": "Chapter 21's central foil is the 'Ruse-Magneto view' that morality is an evolved illusion, tested against Moore's naturalistic fallacy and Jean Grey's sacrifice.",
+   "accepted": true
+  },
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "evolutionary-ethics",
+   "name": "Evolutionary Ethics",
+   "philosopher": "darwin",
+   "domain": "knowledge-science-reality",
+   "what": "The view that moral norms are products of natural selection, adaptive instincts like sympathy, rather than objective truths that can be grounded in nature.",
+   "why": "Chapter 21 is organized around whether evolution can ground ethics, from Magneto's fitness-based morality to Ruse's morality-as-illusion and Dennett's rule worship.",
+   "accepted": true
+  },
+  {
+   "ch": 22,
+   "type": "philosopher",
+   "suggested_slug": "ronald-dworkin",
+   "name": "Ronald Dworkin",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Political philosopher whose 'Civil Disobedience and Nuclear Protest' distinguishes policy-based, justice-based, and integrity-based grounds for resisting state policy.",
+   "why": "Chapter 22 builds its X-Men-versus-Brotherhood analysis on Dworkin's three-tier account of when resistance to the Mutant Registration Act and the cure is morally permissible.",
+   "accepted": true
+  }
+ ]
+}

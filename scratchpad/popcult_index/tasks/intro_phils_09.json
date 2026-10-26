@@ -1,0 +1,440 @@
+[
+ {
+  "slug": "addams",
+  "name": "Jane Addams",
+  "dates": "1860–1935",
+  "domain": "pragmatism-american",
+  "concepts": [
+   {
+    "n": "Double Consciousness",
+    "p": "dubois",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Pragmatism",
+    "p": "",
+    "dom": "pragmatism-american"
+   },
+   {
+    "n": "Intersectionality",
+    "p": "crenshaw",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Social Ethics of the Settlement House",
+    "p": "addams",
+    "dom": "pragmatism-american"
+   },
+   {
+    "n": "Functionalism (philosophy of mind)",
+    "p": "",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "The Uncanny Valley",
+    "p": "",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "The Ethics of Care",
+    "p": "gilligan",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Deontology",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Utilitarianism",
+    "p": "",
+    "dom": "utilitarian-consequentialist"
+   }
+  ],
+  "n_chapters": 2
+ },
+ {
+  "slug": "al-ghazali",
+  "name": "Al-Ghazali",
+  "dates": "c. 1058–1111",
+  "domain": "medieval-early-modern",
+  "concepts": [
+   {
+    "n": "The Problem of Evil",
+    "p": "",
+    "dom": "religion-meaning"
+   },
+   {
+    "n": "Euthyphro Dilemma",
+    "p": "plato",
+    "dom": "ancient"
+   },
+   {
+    "n": "Faith and Reason",
+    "p": "",
+    "dom": "religion-meaning"
+   }
+  ],
+  "n_chapters": 1
+ },
+ {
+  "slug": "audre-lorde",
+  "name": "Audre Lorde",
+  "dates": "",
+  "domain": "feminism-gender-race",
+  "concepts": [
+   {
+    "n": "Gender Performativity",
+    "p": "butler",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "The Feminine Mystique (the problem with no name)",
+    "p": "friedan",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "One Is Not Born a Woman",
+    "p": "beauvoir",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "Woman as the Other",
+    "p": "beauvoir",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "Feminism",
+    "p": "",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "The Ethics of Political Violence",
+    "p": "",
+    "dom": "political-social"
+   },
+   {
+    "n": "Objectification",
+    "p": "",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Dominance Approach (pornography and gender)",
+    "p": "mackinnon",
+    "dom": "feminism-gender-race"
+   }
+  ],
+  "n_chapters": 3
+ },
+ {
+  "slug": "cavell",
+  "name": "Stanley Cavell",
+  "dates": "",
+  "domain": "pragmatism-american",
+  "concepts": [
+   {
+    "n": "Personal Identity",
+    "p": "",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Aristotle on Friendship (philia)",
+    "p": "aristotle",
+    "dom": "ancient"
+   },
+   {
+    "n": "Eudaimonia (flourishing)",
+    "p": "aristotle",
+    "dom": "ancient"
+   },
+   {
+    "n": "Philosophy of Love",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Philosophical Skepticism",
+    "p": "",
+    "dom": "knowledge-science-reality"
+   },
+   {
+    "n": "Simulacra and Simulation (the hyperreal)",
+    "p": "baudrillard",
+    "dom": "political-social"
+   }
+  ],
+  "n_chapters": 4
+ },
+ {
+  "slug": "girard",
+  "name": "René Girard",
+  "dates": "",
+  "domain": "ethics-moral-psychology",
+  "concepts": [
+   {
+    "n": "Simulacra and Simulation (the hyperreal)",
+    "p": "baudrillard",
+    "dom": "political-social"
+   },
+   {
+    "n": "The Question Concerning Technology",
+    "p": "heidegger",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "Aristotle on Friendship (philia)",
+    "p": "aristotle",
+    "dom": "ancient"
+   },
+   {
+    "n": "Virtue Ethics (arete)",
+    "p": "aristotle",
+    "dom": "ancient"
+   },
+   {
+    "n": "The End of Grand Narratives",
+    "p": "lyotard",
+    "dom": "political-social"
+   }
+  ],
+  "n_chapters": 3
+ },
+ {
+  "slug": "h-richard-niebuhr",
+  "name": "H. Richard Niebuhr",
+  "dates": "",
+  "domain": "religion-meaning",
+  "concepts": [
+   {
+    "n": "The Face of the Other",
+    "p": "levinas",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "Eudaimonia (flourishing)",
+    "p": "aristotle",
+    "dom": "ancient"
+   },
+   {
+    "n": "Aristotle on Friendship (philia)",
+    "p": "aristotle",
+    "dom": "ancient"
+   },
+   {
+    "n": "Virtue Ethics",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Faith and Reason",
+    "p": "",
+    "dom": "religion-meaning"
+   },
+   {
+    "n": "The Leap of Faith",
+    "p": "kierkegaard",
+    "dom": "existentialism-phenomenology"
+   },
+   {
+    "n": "The Meaning of Life",
+    "p": "",
+    "dom": "religion-meaning"
+   }
+  ],
+  "n_chapters": 3
+ },
+ {
+  "slug": "irigaray",
+  "name": "Luce Irigaray",
+  "dates": "",
+  "domain": "feminism-gender-race",
+  "concepts": [
+   {
+    "n": "Objectification",
+    "p": "",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Feminism",
+    "p": "",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Heteronormativity",
+    "p": "butler",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "A Vindication of the Rights of Woman",
+    "p": "wollstonecraft",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Gender Performativity",
+    "p": "butler",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "The Mirror Stage",
+    "p": "lacan",
+    "dom": "mind-language-metaphysics"
+   },
+   {
+    "n": "Deconstruction",
+    "p": "derrida",
+    "dom": "political-social"
+   }
+  ],
+  "n_chapters": 3
+ },
+ {
+  "slug": "kendall-walton",
+  "name": "Kendall Walton",
+  "dates": "",
+  "domain": "mind-language-metaphysics",
+  "concepts": [
+   {
+    "n": "Tripartite Soul",
+    "p": "plato",
+    "dom": "ancient"
+   },
+   {
+    "n": "The Paradox of Fiction",
+    "p": "",
+    "dom": "mind-language-metaphysics"
+   }
+  ],
+  "n_chapters": 3
+ },
+ {
+  "slug": "kropotkin",
+  "name": "Pyotr Kropotkin",
+  "dates": "",
+  "domain": "political-social",
+  "concepts": [
+   {
+    "n": "Anarchism",
+    "p": "",
+    "dom": "political-social"
+   },
+   {
+    "n": "The State of Nature",
+    "p": "hobbes",
+    "dom": "political-social"
+   },
+   {
+    "n": "Labor Theory of Property",
+    "p": "locke",
+    "dom": "medieval-early-modern"
+   },
+   {
+    "n": "The Invisible Hand",
+    "p": "adam-smith",
+    "dom": "ethics-moral-psychology"
+   }
+  ],
+  "n_chapters": 3
+ },
+ {
+  "slug": "max-scheler",
+  "name": "Max Scheler",
+  "dates": "",
+  "domain": "existentialism-phenomenology",
+  "concepts": [
+   {
+    "n": "Aristotle on the Soul",
+    "p": "aristotle",
+    "dom": "ancient"
+   },
+   {
+    "n": "Personalism",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "The Categorical Imperative",
+    "p": "kant",
+    "dom": "kant-german-idealism"
+   },
+   {
+    "n": "Utilitarianism",
+    "p": "",
+    "dom": "utilitarian-consequentialist"
+   },
+   {
+    "n": "Moral Psychology (character, vice, weakness of will)",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Ressentiment",
+    "p": "nietzsche",
+    "dom": "nineteenth-century"
+   },
+   {
+    "n": "Will to Power",
+    "p": "nietzsche",
+    "dom": "nineteenth-century"
+   }
+  ],
+  "n_chapters": 3
+ },
+ {
+  "slug": "p-f-strawson",
+  "name": "P.F. Strawson",
+  "dates": "",
+  "domain": "ethics-moral-psychology",
+  "concepts": [
+   {
+    "n": "Moral Psychology (character, vice, weakness of will)",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Forgiveness",
+    "p": "",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Stoicism",
+    "p": "",
+    "dom": "ancient"
+   },
+   {
+    "n": "Moral Luck",
+    "p": "williams",
+    "dom": "ethics-moral-psychology"
+   },
+   {
+    "n": "Ockham's Razor",
+    "p": "ockham",
+    "dom": "medieval-early-modern"
+   }
+  ],
+  "n_chapters": 3
+ },
+ {
+  "slug": "warren",
+  "name": "Karen J. Warren",
+  "dates": "b. 1947",
+  "domain": "environment-animal",
+  "concepts": [
+   {
+    "n": "Ecofeminism",
+    "p": "plumwood",
+    "dom": "environment-animal"
+   },
+   {
+    "n": "Objectification",
+    "p": "",
+    "dom": "feminism-gender-race"
+   },
+   {
+    "n": "Feminism",
+    "p": "",
+    "dom": "feminism-gender-race"
+   }
+  ],
+  "n_chapters": 1
+ }
+]

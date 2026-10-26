@@ -1,0 +1,107 @@
+[
+ {
+  "key": "kant-phenomena-noumena",
+  "name": "Phenomena and Noumena",
+  "kind": "concept",
+  "philosopher": "Immanuel Kant",
+  "domain": "Kant & German Idealism"
+ },
+ {
+  "key": "transcendental-idealism",
+  "name": "Transcendental Idealism",
+  "kind": "concept",
+  "philosopher": "Immanuel Kant",
+  "domain": "Kant & German Idealism"
+ },
+ {
+  "key": "kant-aesthetics",
+  "name": "Judgment of Taste and the Sublime",
+  "kind": "concept",
+  "philosopher": "Immanuel Kant",
+  "domain": "Kant & German Idealism"
+ },
+ {
+  "key": "kant-perpetual-peace",
+  "name": "Perpetual Peace",
+  "kind": "concept",
+  "philosopher": "Immanuel Kant",
+  "domain": "Kant & German Idealism"
+ },
+ {
+  "key": "kant-respect",
+  "name": "Respect for Persons",
+  "kind": "concept",
+  "philosopher": "Immanuel Kant",
+  "domain": "Kant & German Idealism"
+ },
+ {
+  "key": "hegel-dialectic",
+  "name": "The Dialectic",
+  "kind": "concept",
+  "philosopher": "G.W.F. Hegel",
+  "domain": "Kant & German Idealism"
+ },
+ {
+  "key": "hegel-master-slave",
+  "name": "Master–Slave Dialectic",
+  "kind": "concept",
+  "philosopher": "G.W.F. Hegel",
+  "domain": "Kant & German Idealism"
+ },
+ {
+  "key": "hegel-geist",
+  "name": "Geist (World Spirit)",
+  "kind": "concept",
+  "philosopher": "G.W.F. Hegel",
+  "domain": "Kant & German Idealism"
+ },
+ {
+  "key": "hegel-history",
+  "name": "History Has a Direction",
+  "kind": "concept",
+  "philosopher": "G.W.F. Hegel",
+  "domain": "Kant & German Idealism"
+ },
+ {
+  "key": "hegel-recognition",
+  "name": "Struggle for Recognition",
+  "kind": "concept",
+  "philosopher": "G.W.F. Hegel",
+  "domain": "Kant & German Idealism"
+ },
+ {
+  "key": "schopenhauer-will",
+  "name": "The World as Will",
+  "kind": "concept",
+  "philosopher": "Arthur Schopenhauer",
+  "domain": "Kant & German Idealism"
+ },
+ {
+  "key": "schopenhauer-pessimism",
+  "name": "Philosophical Pessimism",
+  "kind": "concept",
+  "philosopher": "Arthur Schopenhauer",
+  "domain": "Kant & German Idealism"
+ },
+ {
+  "key": "schopenhauer-compassion",
+  "name": "Ethics of Compassion",
+  "kind": "concept",
+  "philosopher": "Arthur Schopenhauer",
+  "domain": "Kant & German Idealism"
+ },
+ {
+  "key": "schopenhauer-pendulum",
+  "name": "Pendulum Between Pain and Boredom",
+  "kind": "concept",
+  "philosopher": "Arthur Schopenhauer",
+  "domain": "Kant & German Idealism"
+ },
+ {
+  "key": "will-to-power",
+  "name": "Will to Power",
+  "kind": "concept",
+  "philosopher": "Friedrich Nietzsche",
+  "domain": "19th Century: Nietzsche, Marx & After"
+ }
+]

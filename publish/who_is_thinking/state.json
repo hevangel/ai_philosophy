@@ -2,7 +2,7 @@
   "article": "who_is_thinking",
   "title": "Who Is Thinking? Artificial Intelligence, Authorship, and the Purpose of Philosophy",
   "source": "articles/who_is_thinking/index.md",
-  "updated": "2026-09-11",
+  "updated": "2026-10-03",
   "polish": {
     "status": "done",
     "language": "en",
@@ -15,5 +15,18 @@
       }
     ]
   },
-  "conversions": {}
+  "conversions": {
+    "aipc2026": {
+      "status": "done",
+      "artifacts": [
+        "venue-aipc2026/anonymized-manuscript.md",
+        "venue-aipc2026/notes.md",
+        "venue-aipc2026/methodology-report.md",
+        "venue-aipc2026/anonymized-manuscript.pdf",
+        "venue-aipc2026/methodology-report.pdf",
+        "venue-aipc2026/shots/submitted-212-forum.png"
+      ],
+      "notes": "SUBMITTED 2026-10-11: OpenReview note 9WYF5UJQlG, submission #212, forum https://openreview.net/forum?id=9WYF5UJQlG. Verified in browser. Outstanding: retain the GPT-5.6 ChatGPT conversation log (rules require retention)."
+    }
+  }
 }

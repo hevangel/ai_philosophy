@@ -1,0 +1,127 @@
+{
+ "book": "224 - The Philosophy of Joss Whedon",
+ "unit": "u326",
+ "chapters": [
+  {
+   "n": 12,
+   "file": "ch12 - The Russell-Wartenberg Debate.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "nozick",
+    "socrates",
+    "kant",
+    "marx",
+    "thomas-wartenberg",
+    "bruce-russell"
+   ],
+   "concepts": [
+    "film-as-philosophy",
+    "experience-machine",
+    "skepticism",
+    "utilitarianism"
+   ],
+   "relation": "The chapter sets the book's standard for 'philosophy in action' by staging Bruce Russell's skepticism against Thomas Wartenberg's defense of the film-as-philosophy thesis: Russell holds that narrative films can at most raise questions or furnish counterexamples, so The Matrix merely inspires the viewer's own argument for external-world skepticism, while Wartenberg replies that The Matrix screens Descartes's evil-deceiver hypothesis so effectively that viewers are themselves deceived into skeptical doubt, accomplishing for audiences what Socrates did to his interlocutors. Wartenberg's reading of Eternal Sunshine of the Spotless Mind — where Dr. Mierzwiak's memory-erasure technology presents utilitarianism (via Mary's dialogue) and then a counterexample to it — is tested, and the author proposes the film targets hedonism more directly, working as a reverse variant of Nozick's experience machine that defends autonomy over happiness. Kant's obscure Transcendental Deduction is invoked to show that even canonical philosophical texts are ambiguous, blunting the explicitness objection. The chapter concludes that negative projects — modus tollens counterexamples cinematically conveyed — are where film most plausibly philosophizes, preparing the ground for reading the Whedonverse."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Exploring The Cabin in the Woods.md",
+   "kind": "chapter",
+   "philosophers": [
+    "noddings",
+    "aristotle",
+    "mill",
+    "socrates",
+    "carroll-aesthetics"
+   ],
+   "concepts": [
+    "care-ethics-noddings",
+    "utilitarianism",
+    "catharsis",
+    "moral-dilemmas"
+   ],
+   "relation": "The chapter reads The Cabin in the Woods as Whedon and Goddard doing philosophy: the facility's ritual sacrifice of the five campers is given an explicit utilitarian defense (quoting Mill's greatest-happiness principle) through the Director's plea that Dana kill Marty to avert the apocalypse, which the film ultimately counters through the friends' care-based obligations. Drawing on Nel Noddings's ethics of care and Aristotle's claim that the severity of our duties varies with the closeness of relationships — and on Whedonverse parallels like Buffy refusing to sacrifice Dawn in 'The Gift' — it recasts the ending as an implicit counterargument to classic utilitarianism: Dana does nothing impermissible by refusing to murder her friend, so utilitarianism is false, while Dana's genuine dilemma is deliberately left unresolved in Socratic aporia. It then extends the ethics of care into a theory of the horror genre, reading Whedon's 'inoculation against real fear' as an Aristotelian catharsis that requires relatable characters who care for one another, and takes the film's monitors, two-way mirrors, and voyeurism scenes (Hadley's callousness, the control-room ogling of Jules) as a metalevel invitation to audit our own desensitization to pointless screen suffering."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Angel, Angelus, and Personal Identity.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "parfit",
+    "plato",
+    "hobbes"
+   ],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity",
+    "care-ethics"
+   ],
+   "relation": "The chapter uses the Wes–Holtz dispute over whether Angel owes punishment for Angelus's murders (Holtz's body-continuity view, glossed via Hobbes) to test theories of personal identity across the Whedonverse. It argues the shows present a Platonic separate soul as the metaphysical locus of identity — Fred ceasing to exist when Illyria consumes her soul, the shaman's soul-jar in 'Awakening,' the Judge finding Angelus 'clean' — while Angel's felt guilt, Darla's and Spike's resurrections, Buffy's and Faith's body switch, and Dollhouse's wiped Actives press the Lockean memory theory and Parfit's psychological-continuity successor. The Angel/Angelus case — eidetically shared memories but radically disconnected intentions, desires, and ethical sensibilities, developed over some 200 episodes — is offered as a richer cinematic counterexample than Locke's Day-Man/Night-Man or Parfit's fission triplet, forcing Neo-Lockeans to choose between memory chains and other psychological connections, and supporting Amy Kind's point that identity alone is not what matters for moral responsibility. Whedon's own verdict follows Parfit in discarding numerical identity but turns toward an ethics of care: what matters is staying properly psychologically connected to those one loves, so one 'finds out who you are' by being countable-on in ethically significant action."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Conclusion.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "carroll-aesthetics"
+   ],
+   "concepts": [
+    "film-as-philosophy",
+    "authenticity",
+    "meaning-of-life",
+    "care-ethics"
+   ],
+   "relation": "The conclusion synthesizes the book's case that Whedon philosophizes, building a Shaw-style hierarchy from illustrating theories (Connor as Robert Kane's libertarian agent, 'stirred up' between Darla's and faux-Cordelia's competing visions) through ethical and metaphysical complexity ('Man on the Street,' Angel/Angelus) to epistemic endorsement of a Whedonian worldview. It reads Angel's epiphany — 'if there's no bigger meaning, then the smallest act of kindness is the greatest thing in the world' — as a negative project against the thesis that ethics without God is incoherent, since Whedon's God-ambiguous fiction shows noble self-sacrifice (Buffy for Dawn, Cordy for Angel, Simon for River) that remains worthwhile regardless of cosmic justice. Following Mulhall's use of Socrates as an exemplar of ethically significant living, it casts Angel the Champion as a comparable exemplar grounded in authenticity, care-based relationships, and the transformation of moral character. It closes by extending the film-as-philosophy debate to television, deploying Carroll's gaze/glance distinction to argue nothing in principle keeps quality TV — from The Twilight Zone and Star Trek to Buffy and Angel — from being philosophy in action."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Bibliography.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 18,
+   "file": "ch18 - About the Author.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "thomas-wartenberg",
+   "name": "Thomas E. Wartenberg",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Philosopher of film and author of Thinking on Screen, whose defense of film-as-philosophy rests on cinematic thought experiments and the counterexample/counterargument distinction.",
+   "why": "Chapter 12 is built around his debate with Bruce Russell — his imposition, explicitness, and generality objections taxonomy and his Matrix and Eternal Sunshine analyses structure the entire chapter and the book's later methodology.",
+   "accepted": true
+  },
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "bruce-russell",
+   "name": "Bruce Russell",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Analytic philosopher who argues fictional narrative films can raise philosophical questions and provide counterexamples but cannot themselves present philosophically significant arguments.",
+   "why": "Chapter 12 is the record of his exchange with Wartenberg; his strictures on implicit argument and epistemic endorsement define the standard the book's Whedonverse readings must meet.",
+   "accepted": true
+  }
+ ]
+}

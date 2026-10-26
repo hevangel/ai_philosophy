@@ -1,0 +1,205 @@
+{
+ "book": "297 - The Philosopher at the End of the Universe - Philosophy Explained Through Science Fiction Films",
+ "unit": "u415",
+ "chapters": [
+  {
+   "n": 6,
+   "file": "ch06 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "wittgenstein"
+   ],
+   "concepts": [
+    "meaning-of-life",
+    "extended-mind"
+   ],
+   "relation": "Rowlands introduces the 'sci-phi' project: science fiction confronts us with the alien 'other' as a mirror in which we understand ourselves, so lowbrow sci-fi films like The Matrix, Total Recall and Starship Troopers make abstract philosophy concrete. He argues philosophy is doing rather than knowing, invoking Fishburne's 'know the path vs walk the path' line and Nietzsche's dictum that one repays a teacher poorly by remaining a pupil. He mentions his own earlier 'fyborg' thesis that human cognition is embedded in the wider informational environment, prefiguring the extended mind."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - 1. Frankenstein.md",
+   "kind": "chapter",
+   "philosophers": [
+    "camus",
+    "sartre",
+    "heidegger",
+    "nietzsche"
+   ],
+   "concepts": [
+    "the-absurd",
+    "meaning-of-life",
+    "sisyphus",
+    "thrownness"
+   ],
+   "relation": "Using the De Niro monster of Branagh's Mary Shelley's Frankenstein, Rowlands argues absurdity arises from a clash between the view of ourselves from the inside (a locus of meaning) and from the outside (sub specie aeternitatis, insignificant). The monster is assembled from second-hand parts and thrown into a hostile world he did not choose, just as we are stitched together by genes and environment we did not choose (Sartre/Heidegger thrownness). He develops Camus's Myth of Sisyphus, arguing the horror is futility not difficulty, to frame the problem of the meaning of life that underlies every deep philosophical problem."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - 2. The Matrix.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "berkeley",
+    "putnam",
+    "hume",
+    "nietzsche"
+   ],
+   "concepts": [
+    "cartesian-doubt",
+    "brain-in-a-vat",
+    "skepticism",
+    "berkeley-idealism"
+   ],
+   "relation": "Rowlands reads The Matrix as a vivid staging of Cartesian skepticism: Neo's pod-world is Descartes's dream and evil-demon conjectures (AI plays the demon) plus the modern brain-in-a-vat, showing we cannot be certain the external world exists. He uses the 'there is no air/muscles' and 'twin buildings' variant of Putnam's Twin Earth to argue we cannot even be certain which thoughts we think. The Hume-Nietzsche bundle critique undermines even the cogito, and the spoon-bending boy ('there is no spoon') illustrates Berkeley's idealism as the endpoint of skepticism about the physical world."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - 3. Terminator I & II.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "searle",
+    "turing"
+   ],
+   "concepts": [
+    "cartesian-dualism",
+    "free-will-determinism",
+    "aristotle-soul"
+   ],
+   "relation": "Rowlands uses the Terminator cyborg to pose the mind-body problem: how the inside view (consciousness, intentionality) meshes with the outside view (neurons firing). He rejects dualism because it only says what mind is not and cannot explain mind-body interaction (no mass, so no momentum/energy transfer), and because it would make intelligent-machine sci-fi impossible. He argues for materialism, then distinguishes 'nerd' symbol-crunching AI (Schank's restaurant scripts, Deep Blue) from 'jock' neural-network, embodied designs as the route to building an intelligent Terminator that can flexibly respond like Arnie mugging the biker."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 4. Total Recall & The Sixth Day.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "heraclitus",
+    "aristotle",
+    "parfit",
+    "hume"
+   ],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity",
+    "parfit-teleportation",
+    "ship-of-theseus"
+   ],
+   "relation": "Rowlands treats Total Recall as a defence of the memory (psychological-continuity) theory of personal identity: erasing Quaid's memories and restoring Hauser's is an essential change that ends Quaid, so he fights for his existence. He works through and rejects the soul theory (dualism's problems) and body/brain theories via head-transplant and neuron-replacement thought experiments, distinguishing Aristotle's essential/accidental change and Heraclitus's river. The Sixth Day's cloning raises Parfit's fission/duplication problem: a double success cannot be a failure, driving him to abandon identity for a Heraclitean 'river of selves' bound by survival, not identity."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 5. Minority Report.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "compatibilism",
+    "cartesian-dualism"
+   ],
+   "relation": "Rowlands uses Minority Report's precogs (a truncated Laplace's demon) to argue the film is about determinism: to certainly foresee a murder the future must be fixed by the past, distinct from predestination. He runs the dilemma of determinism, using Cruise's choice not to shoot Leo Crow: if actions are caused they are inevitable and unfree; if uncaused (indeterminism) they are merely random, citing Libet/Kornhuber experiments and the involuntary-arm-twitch example. He rejects Hume's compatibilism (freedom is doing as you please) because genuine freedom requires 'pleasing as you please,' and rejects agent-causation theory as reviving dualism's problems."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 6. Hollow Man.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "hobbes",
+    "kant",
+    "hume",
+    "nietzsche"
+   ],
+   "concepts": [
+    "plato-ring-of-gyges",
+    "social-contract",
+    "categorical-imperative",
+    "moral-egoism"
+   ],
+   "relation": "Rowlands reads Hollow Man as a retelling of Plato's Ring of Gyges, posing 'why be moral?' once the invisible Kevin Bacon can act without sanction. He rejects the religious answer and Hobbesian social-contract theory (both reduce morality to prudence/fear of punishment and leave those outside the contract unprotected), and Hume's fellow-feeling as mere causal explanation not justification. He examines Kant's Categorical Imperative reducing immorality to inconsistency but argues it cannot answer 'why should I be moral,' concluding the choice is arational self-definition, closing with Nietzsche's 'become what you are' and the deed at the bottom of morality."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 7. Independence Day & Aliens.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "bentham",
+    "mill",
+    "singer"
+   ],
+   "concepts": [
+    "golden-rule",
+    "kant-humanity-formula",
+    "utilitarianism",
+    "speciesism"
+   ],
+   "relation": "Rowlands frames morality around consistency and impartiality (the golden rule), articulated by Kant's categorical/practical imperatives (treat persons as ends, not merely means) and utilitarianism's greatest happiness. Imagining philosophers arguing Independence Day's aliens out of eradicating humans, he deploys the principle of 'no moral difference without a relevant other difference' and the argument from marginal cases to defeat intelligence, telepathy, and bare species membership as morally relevant. He turns the alien-invasion parable on our factory farming of chickens and pigs (Singer-style speciesism), arguing we are crueller than the aliens and fall short of our own impartiality ideal."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 8. Star Wars.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "nietzsche",
+    "augustine",
+    "plotinus",
+    "freud"
+   ],
+   "concepts": [
+    "plato-forms",
+    "ubermensch",
+    "master-slave-morality",
+    "apollonian-dionysian"
+   ],
+   "relation": "Rowlands reads Star Wars as Manichaean (light vs dark side of the Force) and contrasts it with Plato, for whom evil is merely absence of good and the form of the good is most real, an idea Augustine (via Plotinus) folded into Christianity. Siding with Lucas that Darth Vader's evil is palpably real, he then uses Nietzsche's 'Dionysus against the Crucified': the Christian strategy represses drives (Freudian repression), the 'hippy' strategy merely expresses them, but greatness requires sublimation into higher forms. Vader taps his dark side but fails to sublimate, so he is a flawed unbalanced megalomaniac (like Nietzsche's Borgia/Napoleon), not a true Ubermensch living life as art."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 9. Blade Runner.md",
+   "kind": "chapter",
+   "philosophers": [
+    "epicurus",
+    "heidegger",
+    "wittgenstein",
+    "parfit"
+   ],
+   "concepts": [
+    "epicurean-death",
+    "being-toward-death",
+    "meaning-of-life",
+    "personal-identity"
+   ],
+   "relation": "Using Blade Runner's replicants ('I want more life, fucker!') and Roy's dying soliloquy, Rowlands asks how death can harm the one who dies. He states the Epicurean argument (while we live death is not yet; when dead there is no one to harm) and answers via harms of deprivation, illustrated by Tyrell's imagined brain damage. Drawing on Wittgenstein (death as the limit of life) and Heidegger's being-towards-death/being-towards-a-future, he distinguishes weak (non-conceptual) from strong (conceptual) possession of a future, arguing death harms more those with more invested. Linear time and the ultimate horizon of death are what let a life have meaning at all."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Glossary.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Acknowledgements.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": []
+}

@@ -1,0 +1,260 @@
+{
+ "book": "058 - Dexter and Philosophy - Mind over Spatter",
+ "unit": "u094",
+ "chapters": [
+  {
+   "n": 24,
+   "file": "ch24 - Where the Bodies Lie.md",
+   "kind": "chapter",
+   "philosophers": [
+    "williams",
+    "nagel",
+    "lewis"
+   ],
+   "concepts": [
+    "moral-luck"
+   ],
+   "relation": "Daniel P. Malloy uses Dexter to lay out the three kinds of moral luck introduced by Bernard Williams and Thomas Nagel: constitutive luck (witnessing his mother's murder and being adopted by Harry, who taught him the Code instead of getting treatment, made Dexter a controlled killer while his brother Brian became 'an unchecked version' of the same child), situational luck (the choice between Brian and Debra in 'Born Free,' the forced kidnapping of Doakes), and resultant luck (Lila burning the shack with Doakes inside, and Dexter's mistaken kill of the innocent photographer Jonathan Farrow in 'Slack Tide,' which he meets with remorse and agent-regret). Against the thought that luck erases responsibility, Malloy argues that intentions remain fully ours, borrowing David Lewis's claim that attempted and successful murderers deserve identical punishment - so Dexter is answerable for every kill."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - De-Deontologizing Dexter.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "deontology",
+    "hume-sentimentalism",
+    "moral-psychology"
+   ],
+   "relation": "Sultan Ahmed argues Dexter is not really a Kantian deontologist: the urge to kill came first (the teenage animal killings, and his brother Rudy/Brian, who developed the same dark desire without Harry and rationalized it differently), and Harry's Code is a post-hoc rationalization built on top of that desire. Drawing on psychological research (Joshua Greene, Jonathan Haidt) that deontological judgment tends to be emotional rationalization rather than moral reasoning, he reads Dexter's killings as serving emotional needs - the need to control the helplessness of the shipping-container trauma and the Ernest Becker-style need to belong, seen in his bonding with Miguel, Rita, and the kids. Even Dexter's refusals to kill Ellen Wolf or the bound Tony Tucci are framed as feelings and standards, not a sense of moral duty."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - BODY PART IV - Bad Blood and Bad Behavior.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Final Thrust to the Abdomen.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "hobbes",
+    "locke"
+   ],
+   "concepts": [
+    "punishment-theory",
+    "discipline"
+   ],
+   "relation": "Eric Holmes argues that what we enjoy in Dexter is not killing but punishing, and reads the show through Michel Foucault's Discipline and Punish (with Hobbes and Locke on the right to punish): since the eighteenth century punishment has moved from public torture to the abstract, painless deprivation of liberty, and Dexter is a deliberate throwback to the older Sovereign. Every detail of the ritual is analyzed as torture designed to make the victim recognize he deserves it - displaying photos or the corpses of their victims (Mike Donovan), forced nudity and harsh light, and letting the punishment fit the crime (Trinity's own claw hammer, telling Miguel he killed Oscar). Dexter is 'the Sovereign we've been waiting for,' an unemotional agent of deserved pain that modern incarceration no longer provides."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - A Second Look at Dexter’s Motives.md",
+   "kind": "chapter",
+   "philosophers": [
+    "adam-smith"
+   ],
+   "concepts": [
+    "invisible-hand",
+    "utilitarianism",
+    "free-will-determinism"
+   ],
+   "relation": "David Ramsay Steele first calculates that Dexter is a public benefactor - each killed predator saves several net lives a year - and then explains the deeper appeal through Bernard Mandeville's Fable of the Bees and Adam Smith's invisible hand: like good law, Harry's Code channels an amoral appetite (the thrill of killing) into socially beneficial results without reforming the appetite itself, refuting Christianity's fixation on pure motives. Dexter thus does totally the right thing for totally the wrong reason. Finally Steele doubts Dexter's own story: the spontaneously unlocked door of the Castillos' shed shows real empathy, and it was Harry's deliberate instruction (Nurse Mary), not fate, that made him a killer - 'addiction is always a choice.'"
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Morgan or Moser.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault"
+   ],
+   "concepts": [
+    "power-knowledge"
+   ],
+   "relation": "Everitt Foster reads Dexter's first season through Foucault's History of Sexuality: the relationship with Rita, the comic attempt to 'reciprocate,' and the therapy sessions with Dr. Emmett Meridian all show the 'deployment of alliance' (kinship, family, blood) intersecting with the 'deployment of sexuality,' while the observer-observed 'spiral of power and pleasure' explains Dexter's watching as a power play - letting Rita have carnal knowledge of him would hand her control over his mask. Knowledge of his past (Joe Driscoll, Rudy's true identity) destabilizes the Morgan alliance, and the finale is Dexter's deliberate choice: he kills Brian and saves Debra ('You hurt her, you hurt me'), an act Foster identifies as Foucault's 'right of death' that affirms the identity Dexter Morgan over Dexter Moser."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Death, Sex, and Dexter.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Ewan Kirkland argues Dexter is a very white character - emotionally repressed, fussy about detail, scientific, a serial killer of the Hannibal Lecter type - and uses Richard Dyer's whiteness studies to show how the show makes this invisible ethnicity visible by surrounding Dexter with racially and sexually coded colleagues (LaGuerta, Batista, Doakes, Masuka) and hyper-white imagery: the plastic kill room, the white mannequins, the cut to white on death. Whiteness appears, with Dyer, as self-control and 'mind over body' (set against the hot-blooded Miguel), as ghostly invisibility and privileged 'enterprise,' and as an uneasy link with death and awkward, dysfunctional sexuality (Rita's redemptive blonde femininity versus the corpse-pale Lila). The point is to demystify the myth of whiteness, not to celebrate it."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Can a Serial Killer Be Happy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "maslow-hierarchy-of-needs"
+   ],
+   "relation": "Mike Piero answers whether a serial killer can be happy by mapping Dexter's growth onto Abraham Maslow's hierarchy of needs: the Code secures his physiological and safety needs (don't get caught), Season 2's 'the Code is mine now' and the Narcotics Anonymous meetings open his love needs, the respect of Miami Metro and the Miguel mentorship meet esteem needs, and wanting to live to see Harrison born in 'Do You Take Dexter Morgan?' is self-actualization - 'what a man can be, he must be.' Rita's death at the start of Season 5 threatens a retreat into isolation, but fatherhood keeps supplying moments of Maslow's 'degrees of relative satisfaction.' The upshot is that Dexter, though damaged, has recognizably normal human motivations and a relatively happy, complicated life."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - BODY PART V - Dexter’s Bloodline.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Deeply Dissecting Dexter.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "nietzsche-perspectivism",
+    "will-to-power"
+   ],
+   "relation": "Deborah Mellamphy uses Nietzsche's masks - 'every profound spirit needs a mask,' the will to power that requires deception for self-preservation - to explain both why Dexter's crafted normalcy works and why only the characters conscious of their own masks (Doakes, Lila, Brian, Trinity) see through his. Nietzsche's perspectivism and 'Truth and Lie in the Extra-Moral Sense' then dissolve any true self beneath the mask: if truths are 'worn out metaphors,' Dexter's question 'If you play a role long enough... does it ever become real?' has no stable answer. Following Sarah Kofman's reading, the chapter asks whether we are all 'but this veil itself' and concludes that Dexter goes a step beyond Nietzsche by locating the truth of identity in the many layered masks themselves."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Becoming a Real Boy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "kant",
+    "plato"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "moral-psychology",
+    "authenticity"
+   ],
+   "relation": "Phillip Deen places Dexter on the scale of character types from Book VII of Aristotle's Nicomachean Ethics - temperate, morally strong (Angel Batista), morally weak (Deb), self-indulgent (Masuka), and the beast - rejecting the Socratic view that vice is mere ignorance, and argues Dexter is neither self-indulgent nor simply beastly but a 'morally strong beast.' The decisive test is Kant's tribunal of conscience and the morality-versus-prudence question: Dexter gathers proof before killing, feels remorse for Jonathan Farrow, and tells Trinity 'No, but I want to be' morally superior - yet his delight at Doakes's death exposes mere prudence. Deen closes with Brian's Heideggerian offer of authenticity ('you could be yourself around me') refused: Dexter hopes that by pretending the feelings are there he may one day 'turn into a real boy.'"
+  },
+  {
+   "n": 35,
+   "file": "ch35 - The Ethics of Dexter’s Appeal.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "aristotle"
+   ],
+   "concepts": [
+    "death-of-god"
+   ],
+   "relation": "James F. Pontuso reconstructs Nietzsche's Genealogy of Morals - promise-keeping, the unpayable debt to ancestor-founders that becomes God, cruelty turned inward as bad conscience, and Christianity's divine self-ransom that only deepens guilt - to explain why Dexter, who feels no guilt, is not abnormal but a man before morality. Following Gibbon's picture of Roman soldiers whose civil religion justified slaughter without remorse, he imagines Dexter thriving in the legions ('Dexter SPQR') rather than hiding behind Harry's Code, and argues the show appeals because Aristotle's ethics concerned outward conduct and justice rather than inner conscience. In our levelled age we secretly crave what Nietzsche craved: the sight of 'something perfect... still capable of inspiring fear.'"
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Bad or Bad Faith.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre"
+   ],
+   "concepts": [
+    "the-look",
+    "bad-faith",
+    "existence-precedes-essence",
+    "sartre-freedom"
+   ],
+   "relation": "Rebecca Steiner Goldner reads the show through Sartre's Being and Nothingness: Dexter's watching is the Look that crystallizes his victims into a fixed essence - Matt Chambers can never again reinvent himself in a new town - and the kill room stages the demanded shame and confession ('Look at what you did!'), echoing Sartre's caught peeping-Tom. She then argues Dexter's belief that he was born a killer, that his Dark Passenger leaves him no choice, is itself bad faith: existence precedes essence, and by Sartre's account even the reformed thief remains responsible for his past, as with Jeremy Downs and Dr. Meridian. We viewers root for Dexter because we see the freedom he denies - and love him because he never makes the authentic choice to abandon his murderous project."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Dexter, Hero of Our Time.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "free-will-determinism"
+   ],
+   "relation": "David Ramsay Steele compares Dexter with the rational vigilante heroes of earlier popular fiction - Edgar Wallace's Four Just Men, E.W. Hornung's Raffles, Bulldog Drummond, the Saint - who killed bad guys for justice and were read without moral panic, and asks why the Parents Television Council now singles Dexter out. His answer: Dexter is ideologically 'safe' because the modern 'ideology of childhood trauma' works like the folk-tale love potion, presenting the hero as a puppet of irresistible compulsion rather than a responsible agent, so no one can accuse the show of endorsing calculated vigilantism. The chapter is thus a free-will-and-excuse argument: determinism-as-excuse has become the price of admission for unofficial justice on screen."
+  },
+  {
+   "n": 38,
+   "file": "ch38 - The Perps.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 39,
+   "file": "ch39 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 40,
+   "file": "ch40 - Dexter and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 41,
+   "file": "ch41 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 28,
+   "type": "philosopher",
+   "suggested_slug": "bernard-mandeville",
+   "name": "Bernard Mandeville",
+   "philosopher": "",
+   "domain": "utilitarian-consequentialist",
+   "what": "Dutch-English author of The Fable of the Bees, notorious as the 'Man-Devil' for arguing that private vices are public benefits.",
+   "why": "Chapter 28 is substantially about Mandeville: it reads Harry's Code as his 'private vices, public benefits' principle, with Adam Smith's invisible hand as its respectable development."
+  },
+  {
+   "ch": 29,
+   "type": "concept",
+   "suggested_slug": "deployment-of-alliance",
+   "name": "Deployment of Alliance (vs. deployment of sexuality)",
+   "philosopher": "foucault",
+   "domain": "political-social",
+   "what": "Foucault's History of Sexuality term for the kinship apparatus of marriage, family and blood ties that binds individuals, intersecting with the deployment of sexuality in the family.",
+   "why": "Chapter 29 frames Dexter's whole Morgan-or-Moser choice - adopting Rita's family and killing blood-brother Brian - as an embrace of the deployment of alliance over the deployment of sexuality."
+  },
+  {
+   "ch": 30,
+   "type": "concept",
+   "suggested_slug": "whiteness",
+   "name": "Whiteness (the invisible racial norm)",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Critical-whiteness studies (Richard Dyer): whiteness as a constructed, unmarked racial position that secures dominance by seeming to be nothing in particular.",
+   "why": "Chapter 30 argues the show's visual design and Dexter's characterization make this invisible whiteness visible and parody it, linking it to death and sexual dysfunction."
+  },
+  {
+   "ch": 31,
+   "type": "concept",
+   "suggested_slug": "maslow-hierarchy-of-needs",
+   "name": "Maslow's Hierarchy of Needs",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Abraham Maslow's five-tier model of human motivation: physiological, safety, love/belonging, esteem, and self-actualization.",
+   "why": "Chapter 31 maps Dexter's development across seasons 1-5 onto the hierarchy to answer whether a serial killer can be happy."
+  },
+  {
+   "ch": 35,
+   "type": "concept",
+   "suggested_slug": "bad-conscience",
+   "name": "Bad Conscience (the genealogy of guilt)",
+   "philosopher": "nietzsche",
+   "domain": "nineteenth-century",
+   "what": "Nietzsche's Genealogy account that civilization turned humanity's cruel instincts inward, producing guilt, debt, ancestor worship and ultimately the Christian God.",
+   "why": "Chapter 35 uses this genealogy to explain Dexter's guiltlessness and his kinship with pre-moral men and Roman soldiers rather than modern Christians."
+  }
+ ]
+}

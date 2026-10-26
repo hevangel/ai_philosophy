@@ -1,0 +1,95 @@
+{
+ "book": "300 - Who Is Who_ The Philosophy of Doctor Who",
+ "unit": "u417",
+ "chapters": [
+  {
+   "n": 7,
+   "file": "ch07 - Who is Who.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Who is Who.md",
+   "kind": "chapter",
+   "philosophers": ["sartre", "beauvoir", "plato", "aristotle"],
+   "concepts": ["existentialism", "phenomenology", "unexamined-life"],
+   "relation": "The introduction argues that Doctor Who and philosophy share a common origin in wonder (quoting Plato's Socrates and Aristotle) and traces the show's shifting worldview across the eleven Doctors. It claims early Who embodied Enlightenment 'positivism' (the pro-science Hartnell/Pertwee eras) but that the post-1996 and post-2005 series turned toward Romanticism and Sartrean/de Beauvoirian existentialism, framing the surviving Doctor's post-Time War 'angst,' homelessness and burden of freedom through existentialist themes."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Who is Who.md",
+   "kind": "chapter",
+   "philosophers": ["heidegger", "husserl", "hume", "wittgenstein"],
+   "concepts": ["phenomenology", "dasein", "hume-is-ought", "das-man"],
+   "relation": "This chapter reads the Doctor as poised between positivism and phenomenology. It uses Hume's Fork and the Vienna Circle's verificationism (via 'The Daemons' and 'Tomb of the Cybermen') to cast the pro-science Doctor as an empiricist, then argues he is equally a Husserlian phenomenologist attentive to the 'life-world' and a Heideggerian Dasein whose time-travelling homelessness and the show's sense of the uncanny (unheimlich) embody being-in-the-world, thrownness and the flight from the worldhood of the world."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Who is Who.md",
+   "kind": "chapter",
+   "philosophers": ["kant", "augustine", "arendt", "kierkegaard"],
+   "concepts": ["problem-of-evil", "banality-of-evil", "consequentialism"],
+   "relation": "Titled 'Exterminate!', the chapter analyzes evil in Doctor Who through Augustine's privation theory and Kant's 'radical evil,' distinguishing irrational evil (Light in 'Ghost Light,' the Daleks) from rational 'lesser evil' calculations (the Rani, mad scientists). It reads the Daleks as Nazi-analogue Others bred for racial purity, invokes Arendt's banality of evil and capacity to think for oneself (Rose challenging the ninth Doctor over the lone Dalek and the Delta wave), and cites Kierkegaard on losing oneself when one does evil alone."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Who is Who.md",
+   "kind": "chapter",
+   "philosophers": ["hegel", "sartre", "spinoza", "levinas"],
+   "concepts": ["hegel-master-slave", "hegel-recognition", "the-look", "spinoza-conatus"],
+   "relation": "Focused on the 'Monstrous Other' and the 'base under siege' story, the chapter uses Hegel's master-slave struggle for recognition and Sartre's 'the look' to read Cybermen, the Flood ('Waters of Mars') and the Silurians as Others through which humans define themselves, with Levinas on the face and history. Its final section frames the Doctor and the Master as Gothic doubles of love and strife, using Spinoza's monism, principle of sufficient reason and conatus to argue the power-hungry Master paradoxically fits Spinoza's system better than the order-imposing 'Dark Doctor.'"
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Who is Who.md",
+   "kind": "chapter",
+   "philosophers": ["beauvoir", "sartre", "kant", "nagel"],
+   "concepts": ["ethics-of-ambiguity", "bad-faith", "deontology", "consequentialism"],
+   "relation": "This chapter tests the Doctor's ethics against consequentialism and Kantian/Nagelian deontology, arguing both fail because his alien longevity and time-travelling relation to consequences resist algorithmic moral judgment ('School Reunion,' 'Attack of the Cybermen'). It proposes instead de Beauvoir's 'ethics of ambiguity' rooted in Romanticism and Sartrean radical freedom and bad faith (the student anecdote; Turlough refusing the Enlightenment diamond), casting the Doctor as a Promethean figure who liberates companions into risky self-perfection."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Who is Who.md",
+   "kind": "chapter",
+   "philosophers": ["locke", "leibniz", "hume", "dewey"],
+   "concepts": ["locke-personal-identity", "personal-identity", "hume-bundle", "pragmatism"],
+   "relation": "On regeneration and personal identity, the chapter runs Doctor Who through Leibniz's law of identity and soul-based individuation, Locke's memory criterion of personhood, and Hume's bundle theory, testing them against multi-Doctor stories, the Ganger duplicates ('The Almost People'), 'The Girl Who Waited' (closest-continuer theory) and 'City of Death.' It then shifts to physicalism (the Morbius brain) and to a pragmatist, social theory of the self (James, Dewey, Mead's 'taking the attitude of the other,' Dennett's intentional stance), reading the reintegration of identity in 'The Doctor Dances.'"
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Who is Who.md",
+   "kind": "chapter",
+   "philosophers": ["marx", "aristotle", "plato", "arendt"],
+   "concepts": ["marx-alienation", "political-animal", "democracy-theory", "arendt-totalitarianism"],
+   "relation": "This political chapter reads Gallifreyan bureaucracy ('The Deadly Assassin') and 1970s socialist-tinged serials, using Marx's alienation and critique of capital to interpret 'The Pirate Planet' and 'The Robots of Death,' and Aristotle's 'political animal' plus Plato's and Aristotle's suspicion of democracy against Benjamin Barber's participatory democracy. It analyzes the pathologies of democratic consent through 'Vengeance on Varos' (Plato's ideal state inverted) and 'The Beast Below' (Arendt on totalitarianism, self-inflicted ignorance), with Isaiah Berlin's negative liberty in the vocabulary of materiality."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Who is Who.md",
+   "kind": "chapter",
+   "philosophers": ["parmenides", "aristotle", "leibniz", "lewis"],
+   "concepts": ["time-travel", "possible-worlds", "free-will-determinism", "parmenidean-being"],
+   "relation": "The time-travel chapter grounds Doctor Who's paradoxes in Parmenides and Zeno on the impossibility of change and Aristotle on the logical necessity of past and future statements ('You can't rewrite history!' in 'The Aztecs'), then deploys determinism, David Lewis on the paradoxes of time travel, and the consistency/autonomy principles ('Father's Day,' the Reapers). It uses Leibniz's possible worlds and the many-worlds interpretation of quantum mechanics to read 'Inferno' and 'Turn Left,' arguing quantum indeterminacy and entanglement make the Doctor's 'wibbly-wobbly, timey-wimey' theory of fixed points and flux coherent."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Who is Who.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Who is Who.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": []
+}

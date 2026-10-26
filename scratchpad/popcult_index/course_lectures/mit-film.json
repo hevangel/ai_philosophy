@@ -1,0 +1,110 @@
+{
+  "course": "mit-film",
+  "source_note": "MIT OCW 24.213 Philosophy of Film (Fall 2004): Calendar page (https://ocw.mit.edu/courses/24-213-philosophy-of-film-fall-2004/pages/calendar/) for session titles/order/films, Readings page (https://ocw.mit.edu/courses/24-213-philosophy-of-film-fall-2004/pages/readings/) for per-session reading assignments, plus the Syllabus and course home for the course description; fetched 2026-10-21.",
+  "lectures": [
+    {
+      "n": 1,
+      "title": "Introduction",
+      "kind": "lecture",
+      "summary": "Opening session of the seminar, listed in the calendar as a screening of Cocteau's Beauty and the Beast (1946) with no assigned reading. It introduces the course's philosophical analysis of film as an art form.",
+      "concepts": ["philosophy-of-art"],
+      "philosophers": []
+    },
+    {
+      "n": 2,
+      "title": "Citizen Kane (1941)",
+      "kind": "lecture",
+      "summary": "Session on Welles's Citizen Kane (1941), paired with the opening pages (i-xiv, 1-50) of Singer's Reality Transformed: Film as Meaning and Technique, the course's own text on how films create meaning through technique.",
+      "concepts": ["philosophy-of-art", "mimesis"],
+      "philosophers": []
+    },
+    {
+      "n": 3,
+      "title": "The Purple Rose of Cairo (1985)",
+      "kind": "lecture",
+      "summary": "Session on Allen's The Purple Rose of Cairo (1985), with a further assigned chapter of Reality Transformed (pp. 53-78).",
+      "concepts": ["philosophy-of-art", "mimesis"],
+      "philosophers": []
+    },
+    {
+      "n": 4,
+      "title": "Death in Venice (1971)",
+      "kind": "lecture",
+      "summary": "Session on Visconti's Death in Venice (1971), with Reality Transformed pp. 81-127 assigned.",
+      "concepts": ["philosophy-of-art", "mimesis"],
+      "philosophers": []
+    },
+    {
+      "n": 5,
+      "title": "The Rules of the Game (1939)",
+      "kind": "lecture",
+      "summary": "Session on Renoir's The Rules of the Game (1939), the longest assigned stretch of Reality Transformed (pp. 131-189).",
+      "concepts": ["philosophy-of-art", "mimesis"],
+      "philosophers": []
+    },
+    {
+      "n": 6,
+      "title": "The 39 Steps (1935)",
+      "kind": "lecture",
+      "summary": "Session on Hitchcock's The 39 Steps (1935), completing the assigned reading of Reality Transformed (pp. 191-200).",
+      "concepts": ["philosophy-of-art", "mimesis"],
+      "philosophers": []
+    },
+    {
+      "n": 7,
+      "title": "Psycho (1960)",
+      "kind": "lecture",
+      "summary": "Session on Hitchcock's Psycho (1960), opening the unit on Singer's Three Philosophical Filmmakers: Hitchcock, Welles, Renoir (pp. ix-46 assigned).",
+      "concepts": ["philosophy-of-art"],
+      "philosophers": []
+    },
+    {
+      "n": 8,
+      "title": "Camera Three: The Illustrated Hitchcock (1972)",
+      "kind": "lecture",
+      "summary": "Class screens the 1972 interview program Camera Three: The Illustrated Hitchcock with Pia Lindstrom, with Three Philosophical Filmmakers pp. 46-75 assigned.",
+      "concepts": ["philosophy-of-art"],
+      "philosophers": []
+    },
+    {
+      "n": 9,
+      "title": "Vertigo (1958)",
+      "kind": "lecture",
+      "summary": "Session on Hitchcock's Vertigo (1958), with Three Philosophical Filmmakers pp. 77-145 assigned.",
+      "concepts": ["philosophy-of-art"],
+      "philosophers": []
+    },
+    {
+      "n": 10,
+      "title": "Orson Welles: Stories From a Life in Film (1989)",
+      "kind": "lecture",
+      "summary": "Class screens the 1989 BBC interview Orson Welles: Stories From a Life in Film by Leslie Megahey, with Three Philosophical Filmmakers pp. 147-178 assigned; the calendar notes the first paper is due this session.",
+      "concepts": ["philosophy-of-art"],
+      "philosophers": []
+    },
+    {
+      "n": 11,
+      "title": "The Magnificent Ambersons (1942)",
+      "kind": "lecture",
+      "summary": "Session on Welles's The Magnificent Ambersons (1942), with Three Philosophical Filmmakers pp. 178-219 assigned.",
+      "concepts": ["philosophy-of-art"],
+      "philosophers": []
+    },
+    {
+      "n": 12,
+      "title": "The Crime of Monsieur Lange (1936)",
+      "kind": "lecture",
+      "summary": "Session on Renoir's The Crime of Monsieur Lange (1936), completing the assigned reading of Three Philosophical Filmmakers (pp. 221-257).",
+      "concepts": ["philosophy-of-art"],
+      "philosophers": []
+    },
+    {
+      "n": 13,
+      "title": "Discussion",
+      "kind": "lecture",
+      "summary": "Final discussion session, listed with Renoir's Le Roi d'Yvetot from Petit Theatre de Jean Renoir (1971); the calendar notes the second paper is due.",
+      "concepts": [],
+      "philosophers": []
+    }
+  ]
+}

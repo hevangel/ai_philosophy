@@ -1,0 +1,417 @@
+{
+ "book": "251 - Punk Rock and Philosophy - Research and Destroy",
+ "unit": "u363",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Cover.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Start to Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Thanks.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - This Is a Public Service Announcement (with Guitar).md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The introduction debunks the myth that the Ramones invented punk at CBGB on August 16, 1974, arguing that genres are never created ex nihilo and that punk's seeds lie in Little Richard, Johnny Cash, Link Wray, surf rock, garage bands, and later-canonical acts like the Stooges and the Velvet Underground. It then frames the book's agenda as open philosophical questions (why we love dark songs, what a poseur is, whether anarchy is defensible, whether punk can mature, whether punk challenges art's aim at beauty) and announces that it offers possible answers rather than verdicts, since handing down answers like an authority figure would not be very punk."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - I. What Makes It Punk.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 1. The Essence of Punk.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein"
+   ],
+   "concepts": [
+    "family-resemblance",
+    "authenticity"
+   ],
+   "relation": "Kwiatek tests essentialist definitions of punk one by one - political lyrics (Black Flag's 'Six Pack' fails it), DIY underground status (The Clash were on majors), rebellion (distinguishing local from global rebellion via Green Day's 'selling out' and The Misfits' horror-movie songs), and the existentialist ideal of authenticity - and finds counterexamples to each. Following Wittgenstein on games in the Philosophical Investigations, he argues punk is a family-resemblance concept with no essence, so 'is it punk?' debates are playful boundary-drawing rather than discovery, and punk's lack of essence works as an anti-gatekeeping device that shifts the burden of justification onto those who would exclude."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 2. Why Sting Is More Punk than You.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "authenticity"
+   ],
+   "relation": "Harding argues punk ossified into the canon-worship it rebelled against: because the scene never agrees on what counts as selling out (Fat Mike, Tim Yohannon, and Jello Biafra give three incompatible criteria), earnest punks minimize risk by imitating safe models - D-beat bands cloning Discharge, Bad Religion retreating after Into the Unknown - while Henry Rollins's Get in the Van shows even DIY bands play for money. Sting, sneered at as a poser for being too talented, emerges as more punk because he kept experimenting beyond punk's boundaries, so the chapter concludes selling out is unavoidable and the truly punk move is to follow your own artistic path and stop caring about scene cred."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 3. Success and Failure of Punk.md",
+   "kind": "chapter",
+   "philosophers": [
+    "guy-debord",
+    "adorno"
+   ],
+   "concepts": [
+    "society-of-the-spectacle",
+    "culture-industry"
+   ],
+   "relation": "Stock reads failure as fused into punk's circuitry from its origins: the 'WE KILLED ELVIS' billboard was a lie, since the Pistols, Clash, Ramones, and Damned covered their heroes and signed to majors. In a sequence of numbered theses built on Debord's Society of the Spectacle, Malcolm McLaren's Situationist merchandising, the Bill Grundy TV appearance as the moment punk became spectacle, and Adorno on the New Music, he argues punk's absorption into the spectacle of capital dooms it - Sid Vicious and Ian Curtis are 'authenticated' only by dying into pure spectacle - so to succeed as punk is to fail and to fail is to succeed."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 4. Punk as Praxis.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "heidegger",
+    "arendt"
+   ],
+   "concepts": [
+    "authenticity",
+    "public-sphere",
+    "praxis-vs-poiesis"
+   ],
+   "relation": "Smith argues punk's heart is neither a playlist nor an attitude but praxis in Aristotle's sense: autotelic, self-directed activity, which Heidegger read existentially as authentic existence and Arendt politicized as communicative action in a vibrant public sphere. Punk's 'no-saying' - to employment ('Career Opportunities'), commercialization ('EMI'), and entertainment - plus its affirmations of speaking in your own voice, forming bands and labels, and the fanzine/record-shop public sphere exemplify praxis, while post-punk's technical refinement around Factory Records and the Lesser Free Trade Hall gigs marks a shift from praxis back to Aristotle's poiesis."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 5. To Resist Despair.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "beauvoir",
+    "socrates"
+   ],
+   "concepts": [
+    "authenticity",
+    "existence-precedes-essence",
+    "anarchism",
+    "socratic-ignorance"
+   ],
+   "relation": "Peterson defines being punk through three interlocking virtues - authenticity (via Varga and Guignon's account as used by Heidegger, Beauvoir, and Sartre), Sartrean freedom ('existence precedes essence'), and questioning authority, defended with Robert Paul Wolff's argument that obeying authority cancels autonomy. The Slits' Palmolive, Alice Bag, Johnny Ramone's cheap Mosrite, and Harley Flanagan show DIY as the punk response to Sartrean facticity, Operation Ivy's 'Knowledge' recalls Socratic ignorance as punk humility, and she concludes that even SLC Punk's Stevo going to Harvard can remain punk, since only striving to live authentically counts."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 6. When Punks Grow Up.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "beauvoir",
+    "nietzsche",
+    "arendt"
+   ],
+   "concepts": [
+    "bad-faith",
+    "nihilism",
+    "death-of-god",
+    "strong-vs-weak-nihilism"
+   ],
+   "relation": "Meagher asks whether punks can mature, arguing via Sartre and Beauvoir that punk revolts against the 'spirit of seriousness' - the bad faith of treating values as externally imposed by God, law, or convention - and against the weak nihilism that merely abandons valuing after serious values fail. Following Devon Johnson's Black nihilism distinction, mature punk is strong nihilism: destroying decadent (Euromodern, colonial) values in order to create new ones, building scenes, labels, and institutions for future generations, fighting for others' freedom and decolonization as Arendtian politics, and - with Nietzsche's dead God and Crass's 1978 declaration - being willing to proclaim even punk itself dead."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - II. Punk Values.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 7. The Paradox of the Poseur.md",
+   "kind": "chapter",
+   "philosophers": [
+    "appiah",
+    "charles-taylor",
+    "nagel"
+   ],
+   "concepts": [
+    "authenticity",
+    "existence-precedes-essence"
+   ],
+   "relation": "Barry extracts a paradox from Jawbreaker's 'Boxcar': if punk is individuality and rejecting conformity (the subjectivity criterion), poseurs should be harmless, yet not just anyone counts as punk (the objectivity criterion), and each criterion implies the other is false. Framing the tension with Nagel's subjective/objective gap, he resolves it through Appiah's two pictures of identity (romantic authenticity vs the existentialist 'existence precedes essence' myth) and Taylor's created-yet-discovered true self, concluding that poseurs are genuinely vicious - they fake with enough social knowledge to know they are faking - and that social identities need both subjective and objective criteria, which would democratize identity politics."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 8. Straight Edge and How to Live the Good Life.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "buddha",
+    "epictetus",
+    "mill",
+    "epicurus",
+    "spinoza"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia",
+    "four-noble-truths",
+    "dichotomy-of-control",
+    "higher-lower-pleasures"
+   ],
+   "relation": "Tierney reads Straight Edge hardcore (Minor Threat, Ian MacKaye, the black X) as punk's answer to the ancient question of the good life: sXe abstinence embodies Aristotle's eudaimonia through habitual virtue, maps onto the Buddha's first three noble truths (craving causes suffering, so quit the booze) and the three poisons, and Epictetus's concern only for what is within our power, while Mill's pleasure-based higher/lower pleasures serve as the dissenting voice. Spinoza on being ruled by emotions and on self-love supports the DIY self-mastery of MacKaye's Dischord Records, but the chapter weighs the scene's zealotry - Rollins reading death lists, Maximum Rock'n'Roll gatekeeping and the Biafra beating - against integrity that leaves room for dissent."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 9. The Seven P’s of Real Punk.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "authenticity",
+    "personal-identity",
+    "narrative-identity"
+   ],
+   "relation": "Prinz catalogs the poser tests - no newbies, scene participation, mall-bought clothes, taste tests, selling out, doctrinaire politics, pop punk - and argues punk is an identity, not a club: personal identity encompasses social identity, resisting narrative theories like Schechtman's that separate the personal from the social, a point his aesthetic-self survey (taste change feels like becoming a different person) confirms. This generates the Poser Paradox - everyone copies a role others created, so all punks are posers - which he escapes, or embraces, via Seven P's of subcultural capital (Priority, Pansophy, Preferences, Performance, Proficiency, Peril, Persistence), concluding with Poly Styrene that punks are genuine fakes."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 10. The Post-Punk Struggle for Authenticity.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "kierkegaard",
+    "camus"
+   ],
+   "concepts": [
+    "authenticity",
+    "culture-industry",
+    "last-man"
+   ],
+   "relation": "Kohl traces post-punk's shift from outward models of authenticity - Sex Pistols shock tactics, Sid Vicious's swastika, Gang of Four's Rock Against Racism activism - to inward ones, arguing the culture industry co-opts both spectacle and virtue-signaling, turning dissent into image. Post-punk's pessimist intellectual influences (Schopenhauer, Dostoevsky, Camus's The Stranger behind The Fall's RAR disenchantment) and Nietzsche's Zarathustra - the herd, the last man, keeping chaos within to give birth to a dancing star in Magazine's 'Shot by Both Sides' - plus Kierkegaard's 'the crowd is untruth' and subjectivity-is-truth, are read into Joy Division's ambiguous lyrics as a defensible, ethically uncommitted inward authenticity."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - III. Punk and the Corpse of Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 11. A Punk by Any Other Name would Smell as Rotten.md",
+   "kind": "chapter",
+   "philosophers": [
+    "diogenes-cynic",
+    "plato",
+    "socrates",
+    "beauvoir",
+    "rousseau"
+   ],
+   "concepts": [
+    "cynicism",
+    "plato-tripartite-soul"
+   ],
+   "relation": "Grewal treats punk as a comedy of self-negation - a counter-culture that must negate even itself - and traces its lineage through Plato's Leontius story (thumos, the spirited part of the soul, dividing a man against his own eyes as he gorges on corpses, punks as 'living dead') to Diogenes the Cynic, 'Socrates gone mad', whose exile, public masturbation, dog-persona, and mocking of Plato make him Diogenes the Punk. Beauvoir's adulteress from The Second Sex and Rousseau of the Reveries supply the punk logic of adultery and exile - a continual breaking of attachments down to Socrates's barefoot ignorance - so that punk, mocking any ascent from the cave, becomes the ruthless pursuit of the rootless."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - 12. Early Punk and the Dionysian Lion-Child.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "adorno",
+    "freud",
+    "horkheimer"
+   ],
+   "concepts": [
+    "apollonian-dionysian",
+    "will-to-power",
+    "freud-death-drive",
+    "culture-industry",
+    "three-metamorphoses"
+   ],
+   "relation": "Rentmeester reads early punk through Nietzsche's three metamorphoses of the spirit: the Sex Pistols' 'God Save the Queen' (the Thames boat arrest during the Silver Jubilee) is the lion destroying worn-out values, while the Stooges' 'I Wanna Be Your Dog' and Raw Power embody the child's sacred Yes, making punk a hybrid Dionysian lion-child. Punk is Dionysian rather than Apollonian - raw instinct over measured restraint, Iggy Pop's self-mutilation and the Gzowski interview - with 'camelistic' pop and soft rock critiqued via Horkheimer and Adorno's culture industry, and Sid Vicious's violence named as Freud's death drive."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 13. Punk’s Not Dead.md",
+   "kind": "chapter",
+   "philosophers": [
+    "schopenhauer",
+    "plato"
+   ],
+   "concepts": [
+    "schopenhauer-will",
+    "philosophy-of-music"
+   ],
+   "relation": "Auxier argues punk predates its 1976 naming (the Rolling Stones' 'She Said Yeah', the Troggs, MC5) and mocks philosophers' game of stacking necessary conditions, drawing on his own 1983 stints in New Wave, Hardcore, and Art Punk bands to map the scene's 'line in the sand'. The essay's pivot is Schopenhauer as 'a punk' - hater of Hegel, of women, and of noise, yet the philosopher who elevated music to the redeemer of miserable lives as the direct utterance of the Will - and since Schopenhauer revered Beethoven, once derided as noise, Auxier concludes punk is ordered symbolic form (physical sound, encoding, symbol) delivering usable energy, so punk's not dead."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 14. Revolting Punks.md",
+   "kind": "chapter",
+   "philosophers": [
+    "diogenes-cynic",
+    "plato",
+    "socrates"
+   ],
+   "concepts": [
+    "cynicism",
+    "plato-ring-of-gyges",
+    "social-contract"
+   ],
+   "relation": "Innes unpacks the double meaning of 'revolting': punk's obscenity, three-minute seven-inch singles on independent labels, beer-can-and-burrito gigs at Randy's Rodeo, and Vivienne Westwood bondage wear are revolt in the original sense - and a revival of Diogenes's cynicism, which rejects Plato's abstract virtue and the Glaucon-style social contract (the Ring of Gyges showing justice is only for the visible) for virtue according to nature. Hippies and prog rock are the sold-out establishment (Dead Kennedys' 'California Über Alles' against Jerry Brown), and satire - Johnny Rotten's lit lamp searching for an honest man - is the Cynic's serious joke, ending in chosen, communal virtue."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - IV. Punk Politics.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 15. Punk Political Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "adam-smith",
+    "vaclav-havel"
+   ],
+   "concepts": [
+    "invisible-hand",
+    "anarchism",
+    "marx-ideology"
+   ],
+   "relation": "Sulek finds punk's only consistent political feature to be contempt for authority, and models its 'apolitical politics without rulers' on self-organizing civil society: Adam Smith's invisible hand and Adam Ferguson's civil society - dismissed by Hegel and Marx but resurrected by Václav Havel and East European dissidents. Bob Geldof's Band Aid/Live Aid 'punk diplomacy' (a 'constituency of compassion' saying the unsayable to Ethiopian officials) and the improbable line from the Velvet Underground via Havel to the Plastic People of the Universe, Charter 77, and the Velvet Revolution show punk 'living in truth' against entropic ideology-as-ritual: destroying stagnant cultural regimes while owing them the building of alternatives."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - 16. Punk Politics.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "anarchism",
+    "fascism",
+    "nihilism",
+    "politics-of-disaffection"
+   ],
+   "relation": "Prinz surveys punk's political paradox - anarchist punks from Crass and Rock Against Racism to straight edge versus the fascist flirtation of skinheads, the National Front, and Skrewdriver's 'White Power' - and tests four candidate unifiers (anti-authoritarianism, nihilism, individualism, and McLaren's politics of boredom), finding each one-sided. He proposes instead a politics of disaffection: alienation and negative affect toward the status quo that spans anarchist, Nazi, and apolitical punks alike, making punk a confrontational counterculture that says 'Fuck you' with a self-satisfied sneer, even if it never ended a war like the hippies claimed to."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 17. Nazi Punks Fuck Off!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein"
+   ],
+   "concepts": [
+    "family-resemblance",
+    "language-games"
+   ],
+   "relation": "Falcioni argues punk has a unique 'Nazi problem' - hatecore was the white-power movement's chief recruiting tool, as Christian Picciolini's path into the Hammer Skin Nation and even Dylann Roof's radicalization show - and that trying to fix punk's essence is both anti-punk and philosophically hopeless. Enlisting Wittgenstein as 'punk philosopher' (he told Russell his work was rubbish and pulled a poker on Popper), the chapter applies meaning-as-use and family resemblance to show neo-Nazi punk stands inside punk's web of overlapping features, so the way to get Nazi punks to fuck off is not violence but bridge-building through punk's shared supply of identity, community, and purpose."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "praxis-vs-poiesis",
+   "name": "Praxis vs Poiesis (Aristotle)",
+   "philosopher": "aristotle",
+   "domain": "ancient",
+   "what": "Aristotle's distinction between praxis (self-directed, autotelic action done for its own sake) and poiesis (production aimed at an external product), later read existentially by Heidegger and politically by Arendt.",
+   "why": "Chapter 13's whole argument defines punk as praxis and post-punk as a slide back into poiesis, and no existing taxonomy slug (e.g. practical wisdom or virtue ethics) captures this distinction.",
+   "accepted": true
+  },
+  {
+   "ch": 15,
+   "type": "concept",
+   "suggested_slug": "strong-vs-weak-nihilism",
+   "name": "Strong vs Weak Nihilism (Black Nihilism)",
+   "philosopher": "nietzsche",
+   "domain": "nineteenth-century",
+   "what": "The distinction (developed in analyses of Black nihilism) between weak nihilism, which denies the value of valuing altogether after traditional values collapse, and strong nihilism, which destroys decadent values in order to create new ones.",
+   "why": "Chapter 15's central claim that mature punk is strong nihilism - value-creation for a world of others' freedom - depends entirely on this weak/strong distinction, which the generic nihilism slug does not capture.",
+   "accepted": true
+  },
+  {
+   "ch": 23,
+   "type": "concept",
+   "suggested_slug": "three-metamorphoses",
+   "name": "The Three Metamorphoses of the Spirit (camel, lion, child)",
+   "philosopher": "nietzsche",
+   "domain": "nineteenth-century",
+   "what": "Nietzsche's schema in Thus Spoke Zarathustra of the spirit's transformations: the camel bears inherited 'thou shalt' values, the lion destroys them, and the child creates new values with a sacred Yes.",
+   "why": "Chapter 23's entire reading of early punk as a hybrid 'Dionysian lion-child' is built on the camel-lion-child metamorphoses, and no existing Nietzsche slug (will to power, Übermensch) captures that schema.",
+   "accepted": true
+  },
+  {
+   "ch": 27,
+   "type": "philosopher",
+   "suggested_slug": "vaclav-havel",
+   "name": "Václav Havel",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Czech dissident playwright and later president whose political essays (especially 'The Power of the Powerless') analyze totalitarian ideology as ritual detached from reality and advocate 'living in truth' through parallel structures and civil society.",
+   "why": "Chapter 27 builds its account of punk political philosophy directly on Havel's writings - ideology as ritual, living in truth, the second culture - and narrates his route from the Plastic People's trial to Charter 77 and the Velvet Revolution.",
+   "accepted": true
+  },
+  {
+   "ch": 28,
+   "type": "concept",
+   "suggested_slug": "politics-of-disaffection",
+   "name": "The Politics of Disaffection",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The thesis that a counterculture's politics is unified not by a positive ideological program but by shared alienation and negative affect (disaffection) toward prevailing norms, expectations, and power structures.",
+   "why": "Chapter 28 proposes this as the common denominator uniting anarchist, fascist, and apolitical punks after rejecting anti-authoritarianism, nihilism, individualism, and the politics of boredom, and no existing slug names it.",
+   "accepted": true
+  }
+ ]
+}

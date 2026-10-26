@@ -1,0 +1,313 @@
+{
+ "book": "191 - Star Wars and Philosophy Strikes Back - This Is the Way",
+ "unit": "u278",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Table of Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Series Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - The Bad Batch.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - IntroductionnoteSet.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Editors Eberl and Decker explain why this follow-up to their 2005 Star Wars and Philosophy volume is organized chronologically across the films, The Clone Wars, Rebels, The Bad Batch, Rogue One, Solo, and The Mandalorian. They situate the book against Disney's 2012 canon reset, the TV revival, and the 'Fandom Menace' backlash against diverse casting, arguing Star Wars holds a mirror up to the culture wars. The introduction previews the volume's questions, from natural law and the ethics of the Force to droid love, hope in dark times, and whether you should eat Baby Yoda."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Part I EPISODES I–III.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - “Now This Is Podracing!”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "laozi",
+    "zhuangzi"
+   ],
+   "concepts": [
+    "taoism",
+    "wu-wei",
+    "yin-yang"
+   ],
+   "relation": "Johnson reads The Phantom Menace as having distinctly Daoist flavors: Shmi's 'you cannot stop the change any more than you can stop the suns from setting,' the Naboo-Gungan 'symbiont circle,' and midi-chlorian symbiosis all express the Daoist unity of opposites and the constant flow of change. He argues Qui-Gon Jinn acts as a Daoist sage practicing wu wei — 'concentrate on the moment,' 'another solution will present itself' — while nearly everyone else in the film makes wrong predictions and grasps at outcomes. Even Anakin's accidental 'Oops!' victory over the Droid Control Ship is presented as success without trying, the practical meaning of 'Do or do not. There is no try.'"
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Bringing Balance to the Force.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume"
+   ],
+   "concepts": [
+    "naturalistic-fallacy",
+    "hume-is-ought",
+    "applied-ethics"
+   ],
+   "relation": "Harter argues that Revenge of the Sith manipulates audiences into fearing the medical technology that saves Anakin on Mustafar, portraying his prosthetic transformation into Vader as horrifying when in real bioethical terms saving a burn victim with ventilators, feeding tubes, and prosthetics is something we applaud. He diagnoses Lucas's framing as the naturalistic fallacy (what is natural is good), grounded in Hume's is-ought gap, and flags the mirror-image 'technological fallacy' of assuming enhancement like General Grievous's cyborg body must be good. The chapter concludes that technology is value-neutral and its worth depends on the context of use — which is what it means for Anakin and Luke, both maimed and prosthetized, to 'bring balance to the Force.'"
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Jedi and Sith Ethics “Similar in Almost Every Way”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "aquinas"
+   ],
+   "concepts": [
+    "aquinas-natural-law",
+    "aristotle-virtue-ethics",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "Shea, Archer, and Banning argue that Star Wars' moral framework is natural law ethics in the tradition of Aristotle and Aquinas: the light side humanizes (Force healing, Qui-Gon's spirit surviving death, Grogu curing Greef Karga) while the dark side dehumanizes (Maul's bisection, Palpatine's deformation, Anakin's disfigurement), and apparent counterexamples like Luke's lost hand always trace back to prior vice. Aquinas's claim that the most general principles of natural law can never be blotted out explains why 'there is still good in' Vader and why redemption is always possible. The Jedi and Sith codes embody opposed views of human nature — relational, altruistic, and accepting of mortality versus atomistic, egoistic, and obsessed with cheating death through midi-chlorian manipulation."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - A New Hope Inclusive Representation in the Galaxy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "beauvoir",
+    "butler"
+   ],
+   "concepts": [
+    "woman-as-other",
+    "feminism",
+    "objectification"
+   ],
+   "relation": "Lakka uses Beauvoir's The Second Sex (the Mother/Mistress dichotomy, woman tied to nature and denied transcendence) and Butler on the mother-daughter separation to argue that Revenge of the Sith reduces Padme from the active senator and warrior of the first two prequels to a pregnant figure confined to her apartment, whose death gets read as martyrdom or even 'mom-shaming.' She reads Anakin's jealousy, interrogations ('Obi-Wan's been here, has he not?'), and Force-choke on Mustafar — explicitly paralleled with Othello and Desdemona — as an abusive relationship, suggesting Padme's death may be a feminicide. The deleted Petition of the 2000 scenes, and successors like Rey, Ahsoka, Rose Tico, and Jyn Erso, point toward the inclusive representation the galaxy still needs."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Part II CLONE WARS, REBELS, AND THE BAD BATCH.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Moral Autonomy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault"
+   ],
+   "concepts": [
+    "discipline",
+    "free-will-determinism"
+   ],
+   "relation": "Challans reads the clone army as a Foucauldian project of discipline: Kaminoan reconditioning, punishment of 'aberrance,' and the inhibitor chips produce the 'docile bodies' that made Order 66 executable, with Palpatine's propaganda framing the Jedi as traitors to supply its legitimacy. Milgram's obedience experiments explain why most clones became 'agentic' executioners, while the rare independence of Rex, Fives, and Tup in the Umbara arc — 'we are not a bunch of unthinking droids!' — shows how fragile moral autonomy is. He concludes that military competence itself requires independent judgment, as his Delta Force versus Rangers comparison after Mogadishu illustrates, making Rex the exemplar of the moral autonomy the chips were designed to destroy."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - “We Were Trained to Be Keepers of the Peace, not Soldiers”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "cornel-west"
+   ],
+   "concepts": [
+    "democracy-theory",
+    "class-struggle"
+   ],
+   "relation": "Shakibnia reads The Clone Wars through Cornel West's three dogmas threatening democracy — free-market fundamentalism, aggressive militarism, escalating authoritarianism — and Chomsky's critique of inequality: Senator Halle Burtoni is a deliberate Halliburton/Cheney nod, and the banking-deregulation vote in 'Heroes on Both Sides' mirrors the US military-industrial complex. He argues the Separatist people's movement ('Corporations do not rule us!') was justified in seeking self-determination, while 'Sabotage' shows the Jedi losing legitimacy by becoming 'military weapons' — underpaid Temple worker Jackar Bowmani's squalid housing indicts the Republic's class divide. Ahsoka's departure and her maxim that 'it's every citizen's duty to challenge their leaders' model the accountability movement (like Black Lives Matter) that the Jedi failed to be."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - You're Our Only Hope.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mills",
+    "kant",
+    "singer"
+   ],
+   "concepts": [
+    "racial-contract",
+    "kant-humanity-formula",
+    "speciesism"
+   ],
+   "relation": "Bein asks whether the galaxy's treatment of droids — Chopper's second-class status on the Ghost, Wuher's 'we don't serve their kind here,' the slur 'clanker' — amounts to racism. He argues Chopper and even the treacherous Hondo pass Kant's moral-agency litmus test and satisfy Singer's preference utilitarianism, making them persons whose abuse is wrong. Borrowing Charles W. Mills's argument that race is a social construct located in institutions rather than biology, he applies critical race theory to Star Wars: droid detectors, droids' legal status as property, and AP-5's 'no one rescues droids' internalized racism show anti-droid prejudice is structural 'situation normal,' so dismantling it takes political work, not just better arguments."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - “Good Soldiers Follow Orders”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "frankfurt",
+    "locke",
+    "aristotle"
+   ],
+   "concepts": [
+    "second-order-desires",
+    "personal-identity",
+    "locke-personal-identity"
+   ],
+   "relation": "Brace uses Aristotle on numerical versus specific sameness, Locke's memory theory, and above all Frankfurt's second-order desires to argue the Jango Fett clones are distinct persons despite shared DNA: Fives's and Echo's accumulated memories and choices individuate them, and the Bad Batch's personalized quarters display what Yoda means by 'very different, each one of you are.' Frankfurt's 'wanton' frames Wrecker's impulsive Hulking, while Order 66 distinguishes freedom of action from freedom of will — Rex resists the chip's compulsion but cannot act on his second-order volition, so he never loses personhood. Crosshair's reveal that his chip was long removed recasts his loyalty to the Empire as a freely chosen (if immoral) second-order volition, his right as a person."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Do Not Ask Him to Be Rational.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "young"
+   ],
+   "concepts": [
+    "kant-autonomy",
+    "moral-psychology"
+   ],
+   "relation": "The Rochas argue the Jedi Council's conduct across the Temple-bombing arc — letting Tarkin take jurisdiction, then expelling Ahsoka and handing her over for trial on flimsy evidence in 'The Wrong Jedi' — exposes a Jedi ethics corrupted by deference to hierarchy. Ahsoka's decision to walk away enacts Kantian moral autonomy (self-legislation) against the Council's heteronomy, while Anakin, despite sharing her doubts, seeks another master in Palpatine and falls into heteronomy instead. Using Baier's account of trust and Iris Marion Young on social roles, they contend the Jedi's repudiation of feeling was the real failure: emotions like Ahsoka's fear rightly guided her to distrust the Council and even to trust Ventress."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Something's Missing.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "institutional-theory-of-art"
+   ],
+   "relation": "Malloy tests three theories of art against Sabine Wren's graffiti and the Syndulla Kalikori: representation fails (her work is stylized beyond recognition and the collaborative Kalikori depicts nothing), expression fails (generations of makers make the Kalikori's expressive unity mysterious), and the institutional 'artworld' theory fails because Thrawn's curatorial authority destroys what it preserves — ripping a phoenix tag off its wall or displaying a still-growing Kalikori strips them of meaning. He concludes that defining art by any single feature (content, creation, or institutional context) is doomed, since Sabine's and Hera's works both are and are not art on every theory, and philosophy must keep searching for why they count as art."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - The End.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis"
+   ],
+   "concepts": [
+    "time-travel",
+    "a-series-time",
+    "free-will-determinism"
+   ],
+   "relation": "Berghofer uses the Rebels episode 'A World Between Worlds' to ask whether Ezra changed the past when he pulled Ahsoka out of her duel with Vader, arguing that past-changing time travel breeds contradiction: the grandfather paradox looms over his attempt to save Kanan ('if he is taken out of this moment, you all die'), and on the Lewis-style consistent model Ezra caused but never changed the past. He surveys presentism, eternalism, and the growing block to locate Star Wars' metaphysics of time — Ezra's travel rules out presentism, and the Mortis god's 'the future, by its nature, can be changed' fits a growing block with an open future. Anakin's tragedy of acting to prevent prophesied events and thereby causing them frames the whole analysis."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Part III ROGUE ONE AND SOLO.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - “Rebellions Are Built on Hope!”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "williams",
+    "kant"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "williams-integrity",
+    "moral-luck",
+    "deontology"
+   ],
+   "relation": "Eberl asks whether Galen Erso, who knowingly resumed work on the Death Star while planting its exhaust-port flaw, is culpable for the deaths on Jedha, Scarif, and Alderaan. A utilitarian defense (his flaw net-saved the galaxy, per the negative-responsibility principle applied to the Death Star II 'Clerks' debate) founders on moral luck — everything depended on Luke's impossible shot — while Bernard Williams's integrity objection, via the chemist 'George' case, condemns his betrayal of conscience. The chapter finally deploys Thomistic tools for cooperation with evil: because Galen's contribution was mediate and remote (Tarkin ordered the firing, the gunners pulled the triggers, Leia's defiance provoked Alderaan's destruction) and the weapon would have been built without him, his collusion is justified by the reasonable hope — the 'new hope' — of the Death Star's destruction."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Trust in the Force of Others.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dewey",
+    "kant",
+    "augustine"
+   ],
+   "concepts": [
+    "dewey-democracy",
+    "kant-humanity-formula",
+    "just-war-theory"
+   ],
+   "relation": "MacMullan reads Rogue One through Dewey's 'Creative Democracy': democracy is not Senates or constitutions but a lived faith in one's neighbors, and the Empire's deepest violence is the distrust it breeds — Cassian executing Tivik, Saw torturing Bodhi with Bor Gullet, Draven ordering Galen's assassination. Cassian violates Kant's Formula of Humanity by reducing Tivik to a container of secrets, and the Rebels' dirty-war methods strain Augustine's just-war conditions, yet Chirrut and Baze's friendship ('I'm not alone. I have you!') becomes the seed of recovered trust that stays Cassian's finger on the trigger at Eadu. The Yavin council's free debate and the Tantive IV corridor relay — Rebels dying to pass the Death Star plans hand to hand past Vader — enact Dewey's claim that democracy lives in personal attitudes and neighborly trust: rebellions are built on hope in each other."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - “You Like Me because I'm a Scoundrel”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein",
+    "rorty",
+    "montaigne",
+    "emerson"
+   ],
+   "concepts": [
+    "pragmatism",
+    "montaigne-skepticism"
+   ],
+   "relation": "Decker asks whether Han Solo can truly evade philosophy, opening with Aristotle's Protrepticus proof that one must do philosophy either way. Han's demystifying skepticism ('no mystical energy field controls my destiny,' 'That's not how the Force works!') is paired with Wittgenstein's Tractatus, which dismisses traditional philosophical questions as senseless and offers therapy for the philosophical itch, and with Montaigne's skepticism about book learning — though Han's orphan scrumrat education exposes the class privilege behind Montaigne's 'sweet pillow' of ignorance. His anti-authoritarianism is read through Emerson (via Cornel West) and Rorty's pragmatism as anti-authoritarianism: build philosophical reflections around political hopes rather than foundations, which is why the 'everyday people' of the Disney+ era, epitomized by the scoundrel, break the spell of the Skywalker grand narrative."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 15,
+   "type": "philosopher",
+   "suggested_slug": "noam-chomsky",
+   "name": "Noam Chomsky",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "American linguist and political philosopher (b. 1928) known for his critique of state capitalism, neoliberalism, corporate power, and media propaganda, and for libertarian-socialist commitments to production for need rather than profit.",
+   "why": "Chapter 15 frames its whole reading of The Clone Wars — the Separatists' justified self-determination, the Halle Burtoni/Halliburton military-industrial parallel, and the Republic's democratic collapse — through Chomsky's analysis of inequality and democratic erosion, citing The Precipice throughout."
+  },
+  {
+   "ch": 19,
+   "type": "concept",
+   "suggested_slug": "institutional-theory-of-art",
+   "name": "Institutional Theory of Art (the Artworld)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The view that something is a work of art because the 'artworld' — artists, critics, curators, collectors, and appreciators — collectively confers that status on it, so nothing is intrinsically art.",
+   "why": "Chapter 19 runs Sabine's graffiti and the Syndulla Kalikori through representation, expression, and institutional theories of art, and Thrawn's collection shows the artworld's authority both making artworks and destroying them by removing them from context; taxonomy has no aesthetics concepts at all."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "cooperation-with-evil",
+   "name": "Cooperation with Evil (material and formal complicity)",
+   "philosopher": "aquinas",
+   "domain": "ethics-moral-psychology",
+   "what": "The Thomistic analysis of when contributing to another agent's wrongdoing makes one culpable, distinguishing formal from material, immediate from mediate, proximate from remote, and replaceable from necessary cooperation.",
+   "why": "Chapter 22's whole verdict on Galen Erso's Death Star work turns on these Thomistic complicity tools (via Flannery's Cooperation with Evil): his collusion is excused only because his material cooperation was mediate, remote, and non-necessary, a doctrine taxonomy.json lacks."
+  }
+ ]
+}

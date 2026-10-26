@@ -1,0 +1,95 @@
+{
+  "book": "281 - Cannabis \u2013 Philosophy for Everyone - What Were We Just Talking About_",
+  "unit": "u401",
+  "chapters": [
+    {
+      "n": 23,
+      "file": "ch23 - Cannabis Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": ["mill"],
+      "concepts": ["kant-aesthetics", "harm-principle"],
+      "relation": "Jacquette argues that cannabis opens a 'creative inner space' of loosened associations but is skeptical it yields genuine, lasting insight, using Ginsberg's claim to have newly 'apprehended the structure' of jazz and classical music and the conjecture that Shakespeare's Sonnet 76 'invention in a noted weed' hints he wrote high. He treats the aesthetic case as a phenomenology problem: separating cannabis's real contribution to appreciation from mere buzz-glow. He then defends a right to get high by invoking the Declaration's 'pursuit of happiness' and a Mill-style principle that private, non-harming pleasure should not be criminalized."
+    },
+    {
+      "n": 24,
+      "file": "ch24 - Cannabis Philosophy for Everyone.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 25,
+      "file": "ch25 - Cannabis Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": ["marx", "plato"],
+      "concepts": ["marx-alienation", "commodity-fetishism", "plato-cave"],
+      "relation": "Thorsby reads 'getting high' as a rupture of ordinary, unreflective consciousness and asks why cannabis use grows fastest in the affluent capitalist West. He pairs Plato's allegory of the cave\u2014ordinary consciousness as prisoners mistaking shadows for reality\u2014with Marx's account of alienation and commodity fetishism, in which workers are estranged from the products of their labor and see value as inhering in things rather than in human labor. Drawing on Fromm's 'having vs. being,' he argues that cannabis offers a momentary escape from and critique of this alienated consciousness, though it cannot cure it."
+    },
+    {
+      "n": 26,
+      "file": "ch26 - Cannabis Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["applied-ethics", "harm-principle"],
+      "relation": "Tahko surveys the empirical evidence on cannabis from the standpoint of the individual and of society, concluding that its health harms (respiratory illness, mild cognitive impairment, possible dependence, weak links to psychosis) pale beside those of alcohol and tobacco. He argues the gravest costs\u2014legal risk, social isolation, contaminated black-market supply\u2014are consequences of prohibition itself, not the drug. Endorsing public-health experts, he recommends abandoning elimination-based policy for a harm-reduction approach modeled on the Dutch coffee-shop system and Portuguese decriminalization."
+    },
+    {
+      "n": 27,
+      "file": "ch27 - Cannabis Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["applied-ethics", "skepticism"],
+      "relation": "Penrose subjects the 'soft drug / hard drug' distinction to conceptual analysis, arguing that\u2014unlike genuinely graded soft-vs-hard eggs\u2014it tracks no single real spectrum. He tests three candidate bases: phenomenological intensity of the high (incoherent, since 'comparable amounts' and interpersonal 'highness' can't be measured), addictiveness (fails, since the traditional distinction counts non-addictive LSD as 'hard'), and dangerousness (Nutt's Lancet study ranks cannabis as more dangerous than some 'hard' drugs, and the distinction trades on illicitly excluding legal alcohol and nicotine). He concludes drugs vary along many distinct property-lines, so the traditional binary is simply false."
+    },
+    {
+      "n": 28,
+      "file": "ch28 - Cannabis Philosophy for Everyone.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 29,
+      "file": "ch29 - Cannabis Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": ["mill"],
+      "concepts": ["harm-principle", "mill-liberty", "higher-lower-pleasures"],
+      "relation": "Musselman, Frohardt, and Lynch defend adult cannabis use through Mill's Harm Principle, using the hypothetical 'Patrick the pot smoker'\u2014a professional who grows and smokes moderately on Friday nights\u2014to argue that competent adults' self-regarding conduct is their own affair and does not violate the 'distinct and assignable obligations' Mill owes to family. They marshal health data (no lung-cancer link, negligible secondhand exposure, neuroprotective effects) to rebut the harm-to-others claim, and invoke Mill's higher intellectual pleasures plus the Michael-Phelps case to argue prohibition wastes resources better spent on the greater harms of alcohol and tobacco."
+    },
+    {
+      "n": 30,
+      "file": "ch30 - Cannabis Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": ["mill"],
+      "concepts": ["harm-principle", "punishment-theory", "applied-ethics"],
+      "relation": "Earleywine dissects the moral versus practical arguments over prohibition, attacking legal moralism\u2014the drug-czar claim (Bennett, Wilson) that use is wrong simply because it is immoral\u2014as circular, and noting that the law does not criminalize every immoral act (broken contracts, lying). He shows purported moral arguments collapse into utilitarian harm estimates that the data undercut, since use rates are essentially orthogonal to policy across Amsterdam, Australia, Portugal, and US states. He then weighs anti-prohibition rights arguments (religion, privacy in Ravin, property via Szasz, self-determination) and closes on proportionality: owning a harmless plant merits no punishment."
+    },
+    {
+      "n": 31,
+      "file": "ch31 - Cannabis Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": ["nussbaum", "aristotle", "buddha"],
+      "concepts": ["capabilities-approach", "aristotle-golden-mean", "aristotle-eudaimonia"],
+      "relation": "Schick asks whether humans need to alter consciousness (Weil, Maslow's hierarchy, Siegel's animal examples of reindeer, elephants, and rats seeking intoxicants) and concludes we have no such need, though we can flourish from it. He applies Sen and Nussbaum's capabilities approach, arguing cannabis enhances Nussbaum's second (bodily health, via endocannabinoids and medical uses) and fourth (senses, imagination, thought, via enriched music perception and possible creativity) capabilities. Citing Aristotle's and the Buddha's golden mean against abuse, and evidence of no lasting brain harm, he judges paternalistic prohibition an unjustified deprivation of the capabilities needed for a good life."
+    },
+    {
+      "n": 32,
+      "file": "ch32 - Cannabis Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": ["frankfurt"],
+      "concepts": ["moral-psychology", "second-order-desires"],
+      "relation": "Funke examines how the 'gateway' argument is supposed to work by treating it as a claim about weakness of will, split into two mechanisms. Motivational externalism\u2014illustrated by Milgram's obedience experiments and Doris's situationism\u2014holds that the illicit-market situation, not the drug, pushes users toward hard drugs, which implies legalization, not prohibition. Motivational internalism, using Michael Smith's contest between normative and motivational reasons and second-order desires, locates the risk in cannabis's creative 'analysis paralysis' and idealizing imagination; Funke argues that this imaginative value, like religion, is worth its risk and that neuropharmacology (THC's distinct cannabinoid mechanism) undercuts the internalist gateway claim."
+    },
+    {
+      "n": 33,
+      "file": "ch33 - Cannabis Philosophy for Everyone.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": []
+}

@@ -1,6 +1,6 @@
 # People tracker — "Disclose, Don't Ban" petition
 
-*Living document — the petition agent's tracker. Last updated 2026-10-17. Companion to `plan.md`. Every stance entry needs dated evidence; never assign a position without a source, and never treat one act as a whole position.*
+*Living document — the petition agent's tracker. Last updated 2026-10-21. Companion to `plan.md`. Every stance entry needs dated evidence; never assign a position without a source, and never treat one act as a whole position.*
 
 ## A. Resident philosophers of the AI labs
 
@@ -8,16 +8,20 @@ Connect on LinkedIn + X; ask each to sign (comment "I sign" or repost on the Lin
 
 | Philosopher | Lab / role | LinkedIn | X | Status & next touch |
 |---|---|---|---|---|
-| Amanda Askell | Anthropic — finetuning/alignment, Claude's character | invite sent 2026-10-14, pending | @AmandaAskell | Anchor signatory; offer co-organizer role in first DM |
-| Joe Carlsmith | Anthropic — Claude's constitution | invite sent 2026-10-14, pending | @jkcarlsmith | DM the ask once invite accepted |
-| Harvey Lederman | Anthropic — alignment training; on leave from UT Austin | invite sent 2026-10-14, pending | @LedermanHarvey | DM with the 知行合一 hook (plain fallback in outreach-messages.md) |
-| Iason Gabriel | Google DeepMind — AGI & Society lead | invite sent 2026-10-14, pending; petition-ask comment live on his hiring post 2026-10-15 | @IasonGabriel | Watch the thread for a reply/like; DM once accepted |
-| Henry Shevlin | Google DeepMind — philosopher (machine consciousness) | invite sent 2026-10-14, pending | @dioscuri | DM once accepted; optional P.S. re his compromised WordPress site (see outreach-messages.md) |
-| Geoff Keeling | Google — Staff Research Scientist & philosopher | invite sent 2026-10-14, pending | none found (checked 2026-10-17) | LinkedIn-only target; recheck X once signed in |
-| Chloé Bakalar | LEFT OpenAI 2026-08 (now listed at Princeton CITP); ex-Meta chief ethicist | invite sent 2026-10-14, pending | none found (checked 2026-10-17) | No longer a lab philosopher — treat as signatory target, not anchor |
+| Amanda Askell | Anthropic — finetuning/alignment, Claude's character | invite sent 2026-10-14, pending | @AmandaAskell — **followed 2026-10-21, in Philosophers list** | Anchor signatory; offer co-organizer role in first DM |
+| Joe Carlsmith | Anthropic — Claude's constitution | invite sent 2026-10-14, pending | @jkcarlsmith — **followed 2026-10-21, in Philosophers list** | DM the ask once invite accepted |
+| Harvey Lederman | Anthropic — alignment training; on leave from UT Austin | invite sent 2026-10-14, pending | @LedermanHarvey — **followed 2026-10-21, in Philosophers list** | DM with the 知行合一 hook (plain fallback in outreach-messages.md) |
+| Iason Gabriel | Google DeepMind — AGI & Society lead | invite sent 2026-10-14, pending; petition-ask comment live on his hiring post 2026-10-15 | @IasonGabriel — **followed 2026-10-21**; list-add FAILED (X modal blank) — retry | Watch the thread for a reply/like; DM once accepted |
+| Henry Shevlin | Google DeepMind — philosopher (machine consciousness) | invite sent 2026-10-14, pending | @dioscuri — **followed 2026-10-21**; list-add FAILED (X modal blank) — retry | DM once accepted; optional P.S. re his compromised WordPress site (see outreach-messages.md) |
+| Geoff Keeling | Google — Staff Research Scientist & philosopher | invite sent 2026-10-14, pending | **NO X account** — in-X people search 2026-10-21 returned no match (confirms web search) | LinkedIn-only target |
+| Chloé Bakalar | LEFT OpenAI 2026-08 (now listed at Princeton CITP); ex-Meta chief ethicist | invite sent 2026-10-14, pending | **Candidate: @cbakalar** — exact accented name match but PROTECTED account, 131 followers, bio hidden; identity unverified. Owner to eyeball before a follow request (visible on locked accounts) | Treat as signatory target, not lab anchor |
 | Kyle Fish | Anthropic — AI welfare | profile not findable (2026-10-15) | unknown | Low priority; keep an eye out |
 
 Excluded (not lab philosophers): Patrick Butlin & Robert Long (Eleos AI — nonprofit), Mustafa Suleyman (executive).
+
+**X "Philosophers" list:** created 2026-10-21 by @horaceorg — https://x.com/i/lists/2112811456811110754 (public, "Resident philosophers of the AI labs + academics in the AI-publication debate"). Members 3/7: Askell, Carlsmith, Lederman. Pending: Gabriel, Shevlin (X's Pick-a-List/Edit-List modals rendered as empty shells for the rest of the session — likely a soft rate-limit on list endpoints after ~10 list ops; retry next session: profile "…" → Add/remove from Lists → tick Philosophers → Save).
+
+**X petition post:** DEFERRED 2026-10-21 — the compose modal also rendered blank (same modal-layer failure). Draft text (fits 280 with t.co 23-char URL count): "Philosophy journals: 2 of the field's 31 major venues still ban AI-written work outright; most publishers have moved to disclosure-based policies. My open letter — 'Disclose, Don't Ban' — asks journals to catch up. Sign by replying 'I sign' or reposting: <LinkedIn pulse URL>". Follow with an @-mention reply: "@AmandaAskell @jkcarlsmith @LedermanHarvey @IasonGabriel @dioscuri — as the labs' philosophers, your signatures would carry real weight."
 
 ## B. The AI-publication debate — pro / anti / neutral
 
@@ -49,7 +53,7 @@ Signatures = "I sign" comments (name + affiliation) or reposts on the LinkedIn a
 
 ## D. X/Twitter handle ledger
 
-Confirmed against the person's own posts or site (not search noise). Checked 2026-10-17.
+Confirmed against the person's own posts or site (not search noise). Checked 2026-10-17/21.
 
 | Handle | Person | Evidence |
 |---|---|---|
@@ -58,5 +62,5 @@ Confirmed against the person's own posts or site (not search noise). Checked 202
 | @LedermanHarvey | Harvey Lederman | his own post: "I've joined @AnthropicAI to work on alignment and character" |
 | @IasonGabriel | Iason Gabriel | bio: "Philosopher & Research Scientist @GoogleDeepMind, AGI & Society Lead" |
 | @dioscuri | Henry Shevlin | bio: "Philosopher & AI Ethicist @GoogleDeepMind"; his DeepMind-recruitment post |
-| — | Geoff Keeling | no X profile found (personal site, PhilPeople, LinkedIn have no link) |
-| — | Chloé Bakalar | no X profile found via web search |
+| @cbakalar (?) | Chloé Bakalar | exact accented name match in X people search; PROTECTED account (bio hidden) — verify with owner before following |
+| — | Geoff Keeling | no X profile: personal site, PhilPeople, LinkedIn have no link; in-X people search 2026-10-21 empty |

@@ -1,0 +1,452 @@
+{
+ "book": "080 - Ender's Game and Philosophy - Genocide Is Child's Play",
+ "unit": "u132",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Globalization and Contemporary Art.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Ender’s Game and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Ender’s Game and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Ender’s Game and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Kevin Decker's introduction traces Card's debt to Asimov's Foundation and its 'psychohistory,' and notes the novel's surprising resonance with military readers such as the army helicopter pilot who drew courage from Ender during flight school. It previews the volume's five parts as an escalating set of questions: whether Battle School's engineered childhood can be justified, how empathy and game-playing make a commander, whether the buggers are enemies or misunderstood others, who bears responsibility for xenocide, and how Peter and Valentine's anonymous net politics remakes Earth."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Ender’s Game and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "plato",
+    "dewey",
+    "paulo-freire"
+   ],
+   "concepts": [
+    "socratic-method",
+    "noble-lie",
+    "unexamined-life"
+   ],
+   "relation": "Cam Cobb weighs Battle School against competing philosophies of education: Plato's Republic supplies vocational sorting by natural aptitude (complete with the myth of the metals as a 'noble lie'), while Socratic dialogue and Paulo Freire's problem-posing pedagogy demand the shared critical inquiry Ender never gets. He argues Graff's curriculum is almost purely vocational - military history, tactics, the Giant's Drink, battleroom drills - leaving no liberal paideia, and that the teachers' constant rule-changing leaves Ender feeling like 'someone's pawn,' exactly the banking-style teacher domination Freire warned against."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "schelling"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "free-will-determinism"
+   ],
+   "relation": "Jeremy Proulx reads Ender through F.W.J. Schelling's account of evil as a real, positive force rather than Augustine's mere privation of good: Ender's kicks to Stilson and Bonzo, his killing of the Giant in the mind game, and his 'I destroy them' confession all display the 'contraction into the self' Schelling thinks haunts every moral agent. He argues Graff deliberately isolates Ender to force this dark ground to the surface, and that Valentine's 'welcome to the human race' and the hive-queen's forgiveness teach Ender that evil, though never excusable, can be understood and atoned for - his fate also shows freedom tainted by a necessity we neither choose nor control."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "plato",
+    "macintyre"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "aristotle-virtue-ethics",
+    "plato-tripartite-soul",
+    "aristotle-eudaimonia"
+   ],
+   "relation": "Jeff Ewing argues the moral fabric of Ender's Game is virtue-ethical, first testing Ender's leadership against Plato's cardinal virtues, tripartite soul, and rigid class hierarchy of the Republic, then finding Aristotle a far better fit. Ender's trademark use of the minimum force necessary against Stilson, Bonzo, and the buggers sits at Aristotle's mean between cowardice and excess, while his adaptability and disregard for rules and hierarchy only count as virtues in Aristotle's framework - though his ignorance of crucial facts explains why xenocide, like his beatings, fell outside the mean."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "nietzsche",
+    "descartes"
+   ],
+   "concepts": [
+    "panopticon",
+    "power-knowledge",
+    "discipline"
+   ],
+   "relation": "Chad Timm applies Foucault's disciplinary power to the International Fleet: Graff sorts monitored children like 'formless clay,' watches them through a Battle School Panopticon of head monitors and battleroom observation, and uses constant testing and the normalizing gaze to make Ender his own overseer and construct the identity of a commander. He closes by mapping the same sort-examine-discipline circuit onto standardized testing and Race to the Top, noting Ender's flicker of resistance when the children finally see through the adults' game."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Ender’s Game and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "hume"
+   ],
+   "concepts": [
+    "philosophy-of-love",
+    "hume-sentimentalism",
+    "game-theory"
+   ],
+   "relation": "Andrew Zimmerman Jones argues Ender's genius is empathy cashed out through game theory: from Plato's Laches on courage to Hume's account of sympathy, sizing up the enemy's thinking is the winning strategy, and Ender's love ('in that very moment I also love him') reframes conflicts with Peter and the buggers so they can end rather than merely be won. His one failure is never extending this empathy to Graff and Rackham, so he cannot see that his final battleroom rule-breaking - 'the enemy's gate is down' - is exactly the move the adults' larger game was designed to produce."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "walzer",
+    "foot",
+    "sun-tzu"
+   ],
+   "concepts": [
+    "trolley-problem",
+    "just-war-theory",
+    "moral-psychology",
+    "dirty-hands"
+   ],
+   "relation": "Matthew Brophy argues the I.F. could only get a compassionate child to commit xenocide by presenting war as a game, a framing that neutralizes moral agency just as Milgram's shock experiments and the fake game show The Game of Death did. Using Sunzi's 'know your enemy' to frame the empathy paradox, Walzer's problem of dirty hands for Graff's lesser-evil choices, and Foot's trolley problem alongside drone 'Nintendo warfare' to show how distance makes killing easier, he concludes Ender was likely a willing pawn who let himself be deceived because he endorsed the war's survivalist goal."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sun-tzu",
+    "laozi",
+    "confucius"
+   ],
+   "concepts": [
+    "sun-tzu-strategy",
+    "taoism"
+   ],
+   "relation": "Morgan Deane maps Ender's tactics onto Sunzi's Art of War: exploiting Bonzo's hot anger, draining the enemy's martial spirit, Graff's use of 'fatal terrain' to throw students into hopeless situations, and staying 'formless' like water so opponents cannot read his plans. Drawing also on Laozi's Dao as the flow a commander must channel, Confucian role ethics in the general-as-father relation, and Legalist reward-and-punishment systems, he concludes Ender qualifies as a military genius by classical Chinese standards - at the wrenching moral cost both he and Graff pay."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein",
+    "bernard-suits"
+   ],
+   "concepts": [
+    "moral-psychology"
+   ],
+   "relation": "Brendan Shea starts from Wittgenstein's claim that 'game' resists definition and classifies Ender's battleroom fights, buggers-and-astronauts, and the open-ended Giant's Drink, then applies Bernard Suits' definition of games as voluntary attempts to overcome unnecessary obstacles (prelusory goals, constitutive rules, lusory means and attitude). He argues games build Ender's skills and empathy but that Battle School's 'winning is the only thing' ethos endangers moral character - the same rule-breaking that wins the war keeps players from ever questioning whether the buggers needed defeating at all."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Ender’s Game and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kuhn",
+    "feyerabend",
+    "donald-davidson"
+   ],
+   "concepts": [
+    "paradigm-shift"
+   ],
+   "relation": "Cole Bowman explains the human-Formic war through Donald Davidson's critique of the idea of a self-contained conceptual scheme: the buggers' inability to grasp 'father,' 'individual,' or human sentience looks like complete untranslatability, yet Ender donning the bugger mask and the hive-queen's philotic contact show, via Davidson's principle of charity, that translation and a new shared scheme are possible. Kuhn's incommensurable paradigms and Feyerabend's account of how new theories eliminate old meanings frame how both species discard their prior concepts once Ender becomes the single point where the two schemes meet."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "levinas",
+    "leibniz"
+   ],
+   "concepts": [
+    "levinas-face",
+    "monadology"
+   ],
+   "relation": "Brett Patterson reads Card's philotes and the ansible as an uncanny parallel to Leibniz's Monadology - simple, internally varied, interconnected building blocks whose 'twining' explains instantaneous communication - and reads Ender's bond with the hive-queen through Levinas, for whom the face-to-face encounter with the Other imposes responsibility prior to self-understanding. That bond, formed through the Giant's Drink landscape the buggers built from Ender's own dreams, is why he cannot go home: he becomes Speaker for the Dead to restore the species he destroyed."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "aristotle"
+   ],
+   "concepts": [
+    "ubermensch",
+    "will-to-power",
+    "political-animal",
+    "aristotle-friendship"
+   ],
+   "relation": "Jeffery Nicholas argues Card tries to write Ender as Nietzsche's self-sufficient superman - Graff's isolation program, the will to power, and Rackham's 'humanity does not ask us to be happy' - but the novel actually vindicates Aristotle's claim in the Politics that man is a political animal who cannot flourish without friends. Ender's difference from the beast-like Peter and the hive-minded buggers, his longing for Valentine, Alai, and Petra, and his despair in isolation show that friendship, not domination, is what makes him human."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Ender’s Game and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aquinas",
+    "frankfurt",
+    "anscombe"
+   ],
+   "concepts": [
+    "aquinas-double-effect",
+    "second-order-desires",
+    "moral-psychology"
+   ],
+   "relation": "Lance Belluomini tests Card's creed that 'good or evil exist entirely in human motive' against Aquinas' Doctrine of Double Effect and Frankfurt's second-order intentions, arguing Ender's killings of Stilson and Bonzo fail double-effect proportionality because he intends excessive, fear-inducing harm to deter future attackers. He allows that Ender bears only partial responsibility for the xenocide since he could not know the 'simulation' was real, but concludes that, contrary to the Speakers for the Dead doctrine, Ender is not the blameless moral exemplar Card makes of him."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "aquinas",
+    "kant",
+    "cicero"
+   ],
+   "concepts": [
+    "just-war-theory",
+    "kant-humanity-formula",
+    "aquinas-double-effect",
+    "cicero-duty"
+   ],
+   "relation": "James Cook grades the Third Invasion against the just war principles Ender was never taught: the war is preventive rather than genuinely preemptive (with the 2003 Iraq parallel), proper authority is compromised by deceiving the public, last resort fails since the hive-queen was trying to communicate, and non-combatant immunity condemns destroying the bugger homeworld. He stages Augustine's ban on killing in individual self-defense against Aquinas' permission of it, and uses Kant's humanity formula and Cicero's hostis/perduellis distinction to ask whether the buggers were ever treated as rational beings rather than mere threats."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "rachels"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "moral-psychology"
+   ],
+   "relation": "Danielle Wylie uses Aristotle's conditions for voluntary action - control and knowledge - to argue Ender's planetary strike is one of his 'mixed cases' made under coercion and factual ignorance, so praise and blame attach elsewhere: Graff and Rackham, who foresaw the attack and could easily have stopped it, meet both conditions through culpable omission. Borrowing Rachels' Smith-and-Jones drowning case to show moral responsibility can exist without causal responsibility, she ends with Ender's non-blameworthy 'taking responsibility' as Speaker for the Dead."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "hobbes",
+    "aristotle",
+    "sun-tzu"
+   ],
+   "concepts": [
+    "just-war-theory",
+    "state-of-nature",
+    "aquinas-natural-law"
+   ],
+   "relation": "Kody Cooper runs Ender's life through classical just war theory: Augustine's axiom that peace is the end of all war explains why even his playground battles aim at a just peace, while the I.F.'s deliberate refusal to protect him from Bonzo's gang throws Ender into the Hobbesian state of nature where each person holds personal authority to use deadly force in self-defense. Sunzi's insistence that a commander must know the enemy grounds Ender's empathic preparation, and Cooper concludes the Third Invasion fails right intention, last resort, discrimination, and proportionality - so the guilt Ender carries is really the I.F.'s and humanity's."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Ender’s Game and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "arendt",
+    "locke",
+    "plato"
+   ],
+   "concepts": [
+    "arendt-totalitarianism",
+    "locke-personal-identity",
+    "plato-ring-of-gyges"
+   ],
+   "relation": "Kenneth Sayles reads Peter and Valentine's net personas through three lenses: John Locke's identity theory to ask whether a consistent virtual persona with no physical anchor deserves our trust, Plato's Ring of Gyges to ask what anonymity does to morality, and Hannah Arendt's account of totalitarianism to warn that nameless, unaccountable influence ('action without a name... is meaningless') paves the way for rule by propaganda and a fictitious world. Real-world parallels - identity theft, the hacker collective Anonymous, YouTube politics - make the Enderverse nets look prophetic rather than fantastic."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "machiavelli"
+   ],
+   "concepts": [
+    "state-of-nature",
+    "machiavelli-virtu",
+    "game-theory"
+   ],
+   "relation": "Ted Brown and Christie Maloyed read Ender's Game as a Cold War debate between realism and liberalism: Hobbes' state of nature grounds Graff's survival-at-all-costs logic, and Machiavelli's counsel on seizing opportunities and keeping power by force when persuasion fails shapes Peter's insight that 'the right words can change the world.' The human-Formic war becomes a Prisoner's Dilemma neither species can escape without communication, and Ender's postwar practice of governing his colony 'by persuasion rather than fiat' delivers the book's verdict that the power to persuade can outlast the power to destroy."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Ender’s Game and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "greatest-happiness",
+    "harm-principle"
+   ],
+   "relation": "Greg Littmann reads Graff and Ender as act utilitarians in John Stuart Mill's mold, drawing a detailed parallel between Ender's engineered Battle School childhood and James Mill's grueling raising of his son to be utilitarianism's champion, down to both boys' breakdowns. He argues that although the xenocide was a tragic wrong by Mill's own lights (the hive-queens' happiness counted too), the harm principle permits overriding individual liberty when humanity's survival is at stake - which is why Card's novel, unlike Crime and Punishment or 'The Ones Who Walk Away From Omelas,' shows consequentialism at its most troubling rather than its most absurd."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Ender’s Game and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Ender’s Game and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 7,
+   "type": "philosopher",
+   "suggested_slug": "paulo-freire",
+   "name": "Paulo Freire",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Brazilian critical pedagogue who attacked 'banking' education (teachers depositing knowledge into passive students) and proposed problem-posing dialogue as the practice of freedom.",
+   "why": "Chapter 7 evaluates Battle School through Freire's banking model and problem-posing pedagogy, and his teacher-domination critique explains Ender's sense of being 'someone's pawn'."
+  },
+  {
+   "ch": 8,
+   "type": "philosopher",
+   "suggested_slug": "schelling",
+   "name": "F.W.J. Schelling",
+   "philosopher": "",
+   "domain": "kant-german-idealism",
+   "what": "German Idealist whose Freedom essay treats evil as a real, positive principle (selfish 'contraction into the self') grounded in the dark ground of human nature, not mere absence of good.",
+   "why": "Chapter 8's entire account of Ender's moral development, Graff's sacrifice, and evil as an unavoidable possibility in all of us is built on Schelling's philosophy of freedom and evil."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "game-theory",
+   "name": "Game Theory",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The mathematical study of strategic interaction among players with payoff structures (zero-sum games, minimax, perfect vs imperfect information).",
+   "why": "Chapter 12 frames all of Ender's conflicts as games analyzed with von Neumann's minimax theorem, zero-sum structure, and information conditions, none of which the taxonomy covers."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "dirty-hands",
+   "name": "The Problem of Dirty Hands",
+   "philosopher": "walzer",
+   "domain": "political-social",
+   "what": "Walzer's dilemma that political leaders who do what necessity demands still do wrong, incurring moral guilt that no appeal to the lesser evil can wash away.",
+   "why": "Chapter 13 has a full section applying Walzer's dirty hands problem to the I.F.'s choice between xenocide and leaving humanity vulnerable, and to Ender's own self-deception."
+  },
+  {
+   "ch": 15,
+   "type": "philosopher",
+   "suggested_slug": "bernard-suits",
+   "name": "Bernard Suits",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Philosopher of games who defined game-playing as the voluntary attempt to overcome unnecessary obstacles via prelusory goals, constitutive rules, lusory means, and the lusory attitude.",
+   "why": "Chapter 15's classification of the battleroom contests and the Giant's Drink as open or closed games rests entirely on Suits' four-component definition from The Grasshopper."
+  },
+  {
+   "ch": 17,
+   "type": "philosopher",
+   "suggested_slug": "donald-davidson",
+   "name": "Donald Davidson",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Twentieth-century philosopher of mind and language who argued against the scheme/content dualism and for the principle of charity: interpretation requires assuming most of an speaker's beliefs are true and translatable.",
+   "why": "Chapter 17 is built on Davidson's 'On the Very Idea of a Conceptual Scheme' - complete failure of translation, charity, and shared belief as the key to whether humans and buggers can understand each other."
+  },
+  {
+   "ch": 27,
+   "type": "concept",
+   "suggested_slug": "game-theory",
+   "name": "Game Theory",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The mathematical study of strategic interaction among players with payoff structures (zero-sum games, minimax, perfect vs imperfect information).",
+   "why": "Chapter 27 uses the Prisoner's Dilemma and Axelrod's shadow of the future to explain why humans and buggers defect into war when communication fails."
+  }
+ ]
+}

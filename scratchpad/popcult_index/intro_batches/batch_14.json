@@ -1,0 +1,107 @@
+[
+ {
+  "key": "epicurean-death",
+  "name": "Death Is Nothing to Us",
+  "kind": "concept",
+  "philosopher": "Epicurus",
+  "domain": "Ancient Greek & Hellenistic Philosophy"
+ },
+ {
+  "key": "pyrrhonian-skepticism",
+  "name": "Pyrrhonian Skepticism (suspension of judgment)",
+  "kind": "concept",
+  "philosopher": "Pyrrho",
+  "domain": "Ancient Greek & Hellenistic Philosophy"
+ },
+ {
+  "key": "stoicism",
+  "name": "Stoicism",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "Ancient Greek & Hellenistic Philosophy"
+ },
+ {
+  "key": "dichotomy-of-control",
+  "name": "The Dichotomy of Control",
+  "kind": "concept",
+  "philosopher": "Epictetus",
+  "domain": "Ancient Greek & Hellenistic Philosophy"
+ },
+ {
+  "key": "stoic-indifferents",
+  "name": "Preferred Indifferents",
+  "kind": "concept",
+  "philosopher": "Epictetus",
+  "domain": "Ancient Greek & Hellenistic Philosophy"
+ },
+ {
+  "key": "stoic-cosmopolitanism",
+  "name": "Stoic Cosmopolitanism (citizens of the world)",
+  "kind": "concept",
+  "philosopher": "Seneca",
+  "domain": "Ancient Greek & Hellenistic Philosophy"
+ },
+ {
+  "key": "stoic-premeditation",
+  "name": "Premeditatio Malorum",
+  "kind": "concept",
+  "philosopher": "Seneca",
+  "domain": "Ancient Greek & Hellenistic Philosophy"
+ },
+ {
+  "key": "stoic-view-from-above",
+  "name": "The View from Above",
+  "kind": "concept",
+  "philosopher": "Marcus Aurelius",
+  "domain": "Ancient Greek & Hellenistic Philosophy"
+ },
+ {
+  "key": "stoic-present-moment",
+  "name": "Living in the Present",
+  "kind": "concept",
+  "philosopher": "Marcus Aurelius",
+  "domain": "Ancient Greek & Hellenistic Philosophy"
+ },
+ {
+  "key": "cicero-duty",
+  "name": "Ciceronian Duty (de Officiis)",
+  "kind": "concept",
+  "philosopher": "Cicero",
+  "domain": "Ancient Greek & Hellenistic Philosophy"
+ },
+ {
+  "key": "lucretian-nature",
+  "name": "On the Nature of Things",
+  "kind": "concept",
+  "philosopher": "Lucretius",
+  "domain": "Ancient Greek & Hellenistic Philosophy"
+ },
+ {
+  "key": "neoplatonism",
+  "name": "Neoplatonism (the One)",
+  "kind": "concept",
+  "philosopher": "Plotinus",
+  "domain": "Ancient Greek & Hellenistic Philosophy"
+ },
+ {
+  "key": "confucian-ren",
+  "name": "Ren (benevolence/humaneness)",
+  "kind": "concept",
+  "philosopher": "Confucius",
+  "domain": "Eastern & World Philosophy"
+ },
+ {
+  "key": "confucian-li",
+  "name": "Li (ritual propriety)",
+  "kind": "concept",
+  "philosopher": "Confucius",
+  "domain": "Eastern & World Philosophy"
+ },
+ {
+  "key": "confucian-filiality",
+  "name": "Xiao (filial piety)",
+  "kind": "concept",
+  "philosopher": "Confucius",
+  "domain": "Eastern & World Philosophy"
+ }
+]

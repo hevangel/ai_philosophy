@@ -1,0 +1,214 @@
+{
+  "course": "mit-minds-machines",
+  "source_note": "MIT OpenCourseWare, 24.09 Minds and Machines (Fall 2011): Lecture Notes page (https://ocw.mit.edu/courses/24-09-minds-and-machines-fall-2011/pages/lecture-notes/) with the Syllabus page (https://ocw.mit.edu/courses/24-09-minds-and-machines-fall-2011/pages/syllabus/); fetched 2026-10-21",
+  "lectures": [
+    {
+      "n": 1,
+      "title": "Introduction",
+      "kind": "lecture",
+      "summary": "Introduces the course and its central questions in philosophy of mind, such as whether computers can think and whether the mind is an immaterial thing or the brain.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 2,
+      "title": "Searle against artificial intelligence (AI): The Chinese room argument",
+      "kind": "lecture",
+      "summary": "Presents John Searle's Chinese room argument against artificial intelligence.",
+      "concepts": ["chinese-room"],
+      "philosophers": ["searle"]
+    },
+    {
+      "n": 3,
+      "title": "The Chinese room argument (cont.)",
+      "kind": "lecture",
+      "summary": "Continues the examination of Searle's Chinese room argument against artificial intelligence.",
+      "concepts": ["chinese-room"],
+      "philosophers": ["searle"]
+    },
+    {
+      "n": 4,
+      "title": "The Chinese room argument (cont.), and the Turing test",
+      "kind": "lecture",
+      "summary": "Concludes the discussion of the Chinese room argument and turns to Alan Turing's test for whether computers can think.",
+      "concepts": ["chinese-room", "turing-test"],
+      "philosophers": ["searle", "turing"]
+    },
+    {
+      "n": 5,
+      "title": "The Turing test (cont.)",
+      "kind": "lecture",
+      "summary": "Continues the discussion of the Turing test as a proposed test of machine intelligence.",
+      "concepts": ["turing-test"],
+      "philosophers": ["turing"]
+    },
+    {
+      "n": 6,
+      "title": "Computational complexity (guest lecture by Scott Aaronson)",
+      "kind": "lecture",
+      "summary": "Guest lecture by Scott Aaronson on computational complexity.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 7,
+      "title": "Dualism",
+      "kind": "lecture",
+      "summary": "Begins the examination of mind–body dualism, the view that the mind is an immaterial thing.",
+      "concepts": ["cartesian-dualism"],
+      "philosophers": ["descartes"]
+    },
+    {
+      "n": 8,
+      "title": "Dualism (cont.)",
+      "kind": "lecture",
+      "summary": "Continues the examination of mind–body dualism.",
+      "concepts": ["cartesian-dualism"],
+      "philosophers": ["descartes"]
+    },
+    {
+      "n": 9,
+      "title": "From dualism to behaviorism",
+      "kind": "lecture",
+      "summary": "Traces the move away from dualism toward behaviorism about the mind.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 10,
+      "title": "From behaviorism to the identity theory",
+      "kind": "lecture",
+      "summary": "Moves from behaviorism to the identity theory, the view that the mind is the brain.",
+      "concepts": ["physicalism"],
+      "philosophers": []
+    },
+    {
+      "n": 11,
+      "title": "The identity theory (cont.)",
+      "kind": "lecture",
+      "summary": "Continues the discussion of the identity theory of the mind.",
+      "concepts": ["physicalism"],
+      "philosophers": []
+    },
+    {
+      "n": 12,
+      "title": "Kripke’s Objection",
+      "kind": "lecture",
+      "summary": "Presents Saul Kripke's objection, directed in this course at the mind–brain identity theory.",
+      "concepts": ["physicalism"],
+      "philosophers": ["kripke"]
+    },
+    {
+      "n": 13,
+      "title": "Functionalism",
+      "kind": "lecture",
+      "summary": "Introduces functionalism, on which the mind stands to the brain as a computer program stands to the hardware.",
+      "concepts": ["functionalism"],
+      "philosophers": []
+    },
+    {
+      "n": 14,
+      "title": "Review session",
+      "kind": "other",
+      "summary": "A review session covering material from the course so far.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 15,
+      "title": "From functionalism to externalism",
+      "kind": "lecture",
+      "summary": "Begins the transition from functionalism to externalism about mental content.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 16,
+      "title": "Externalism",
+      "kind": "lecture",
+      "summary": "Examines externalism about mental content.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 17,
+      "title": "From externalism to perception",
+      "kind": "lecture",
+      "summary": "Transitions from externalism to the philosophy of perception.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 18,
+      "title": "Perception: Valberg’s puzzle of experience",
+      "kind": "lecture",
+      "summary": "Takes up Valberg's puzzle of experience in the philosophy of perception.",
+      "concepts": [],
+      "philosophers": []
+    },
+    {
+      "n": 19,
+      "title": "Perception, consciousness, and intentionality",
+      "kind": "lecture",
+      "summary": "Explores perception, consciousness, and intentionality — the capacity to think thoughts that are about things.",
+      "concepts": ["intentionality"],
+      "philosophers": []
+    },
+    {
+      "n": 20,
+      "title": "Perception, consciousness, and intentionality (cont.)",
+      "kind": "lecture",
+      "summary": "Continues the discussion of perception, consciousness, and intentionality.",
+      "concepts": ["intentionality"],
+      "philosophers": []
+    },
+    {
+      "n": 21,
+      "title": "Jackson’s knowledge argument",
+      "kind": "lecture",
+      "summary": "Examines Frank Jackson's knowledge argument, a challenge to physicalism about the mind.",
+      "concepts": ["knowledge-argument"],
+      "philosophers": ["jackson"]
+    },
+    {
+      "n": 22,
+      "title": "Nagel on bats",
+      "kind": "lecture",
+      "summary": "Discusses Thomas Nagel's question of what it is like to be a bat and what it suggests about consciousness.",
+      "concepts": ["what-is-it-like"],
+      "philosophers": ["nagel"]
+    },
+    {
+      "n": 23,
+      "title": "Consciousness and its place in nature",
+      "kind": "lecture",
+      "summary": "Considers whether and how consciousness can be explained scientifically and where it fits in nature.",
+      "concepts": ["hard-problem"],
+      "philosophers": ["chalmers"]
+    },
+    {
+      "n": 24,
+      "title": "Consciousness and its place in nature (cont.)",
+      "kind": "lecture",
+      "summary": "Continues the discussion of consciousness and its place in nature.",
+      "concepts": ["hard-problem"],
+      "philosophers": ["chalmers"]
+    },
+    {
+      "n": 25,
+      "title": "Free will",
+      "kind": "lecture",
+      "summary": "Turns to the problem of free will versus determinism.",
+      "concepts": ["free-will-determinism"],
+      "philosophers": []
+    },
+    {
+      "n": 26,
+      "title": "Last lecture, including information about the final exam",
+      "kind": "lecture",
+      "summary": "The final lecture of the course, which also includes information about the final exam.",
+      "concepts": [],
+      "philosophers": []
+    }
+  ]
+}

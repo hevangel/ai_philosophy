@@ -1,0 +1,393 @@
+{
+ "book": "286 - Yoga – Philosophy for Everyone - Bending Mind and Body",
+ "unit": "u409",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Globalization and Contemporary Art.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "atman-brahman",
+    "the-tao"
+   ],
+   "relation": "John Friend's foreword surveys yoga's three classical philosophical systems and connects them to how modern Hatha yoga is practiced: Classical (Patanjali) yoga as separating purusha (spirit) from prakriti (matter) to reach kaivalya; Vedanta as neutralizing maya to realize the unity of atman with the supreme; and non-dual Tantra, from which Hatha yoga derives, treating body and mind as frequencies of one divine Shiva-Shakti energy. It argues yoga's enduring claim is that the essential self is free, and that direct lived experience of that freedom outranks merely intellectual knowledge of the texts."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "spinoza"
+   ],
+   "concepts": [
+    "cartesian-dualism",
+    "spinoza-monism"
+   ],
+   "relation": "Editor Liz Stillwaggon Swan uses her rejection of Descartes' mind–body dualism to reinterpret yoga's promise of 'union.' Drawing on Spinoza's view that mind and matter are two aspects of a single reality, she argues 'mind' is just a placeholder for embodied abilities, so a yogi who denies a separate spirit cannot literally 'unite' mind and body — they are already one. She reframes yogic union (via Megan Burke's essay) as uniting self with nature, and defends practicing yoga for physical and psychological benefit without any spiritual claim, likening secularized yoga to secular Christmas."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "buddhist-impermanence"
+   ],
+   "relation": "Jennifer Munyer's 'How Yoga Won the West' narrates yoga's evolution — from the Pashupati seal and the Pre-Vedic age through the Vedas, Upanishads, Patanjali's Yoga Sutras and Raja yoga, to Krishnamacharya's traveling 'circuses,' Vivekananda, and Indra Devi. Her governing argument is that yoga's outer form constantly changes to fit each culture while its essence (union with the divine) stays the same, a claim she illustrates with the idea that a person changes appearance over a lifetime yet remains the same self — a lay expression of impermanence of form beneath continuity."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "buddhist-karma",
+    "stoic-present-moment"
+   ],
+   "relation": "Kieran McManus's travel memoir 'Will I Find My Guru in India?' recounts his search from Kathmandu to Rishikesh and the Agama Yoga School, where teacher Kushru's lectures on karma, breath, and diet finally make asana click for him. His reported insight — that every thought and act moves him toward or away from his sacred potential, and that the yogi transcends suffering by treating each experience as neutral and as an opportunity, remaining present — applies a karmic and present-moment ethic to his own practice rather than expounding doctrine abstractly."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "skepticism",
+    "pragmatism"
+   ],
+   "relation": "David Robles's 'The Seeker' argues that declining trust in Western absolutist religion drives people toward yoga as an experiential, self-directed spirituality. His central move is that Patanjali's Yoga Sutras rank direct perception above testimony and scripture — mirroring the scientific method — so yoga functions as a 'spiritual science' harmonious with empiricism, whereas established religion rests on second-hand revelation. He distinguishes 'spiritual' (personal, inspiration-based) from 'religious' (culturally binding dogma) and casts the American 'seeker' as building a better, results-oriented, pragmatic spirituality."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "second-order-desires"
+   ],
+   "relation": "Purcell and Shaffer's 'Men, Sports, and Yoga' asks why, though yoga began as a male discipline, ~80% of US practitioners are women, using the stories of three men (Mark, Carl, Jake) taught privately to avoid the competitive self-consciousness of group classes. Its philosophical thread is the ego (ahamkara, 'the I-maker'): rather than obliterating the ego, the men learn to keep it in check and channel competitiveness inward against their own limits, so 'unifying mind and body' turns out to be a competitive sport that works by managing one's own drives and self-image."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume"
+   ],
+   "concepts": [
+    "skepticism",
+    "hume-induction"
+   ],
+   "relation": "Steve Jacobson's 'Standing on Your Head' asks whether an educated Westerner can reasonably believe 'yoga theory' (chakras, prana, kundalini, koshas) given that science has superseded ancient theories. He raises a 'standard objection' from the superior predictive power of science (invoking Hume's problem of induction), rejects weak replies, but argues via the epistemology of testimony that people with weak scientific grounds and strong critical testimony can rationally accept yoga theory. He concludes that even if no part of it is credible, abandoning it would leave yoga intact — 'yoga with fewer illusions.'"
+  },
+  {
+   "n": 17,
+   "file": "ch17 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 18,
+   "file": "ch18 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates",
+    "descartes",
+    "aristotle",
+    "nietzsche"
+   ],
+   "concepts": [
+    "atman-brahman",
+    "cartesian-dualism",
+    "plato-cave"
+   ],
+   "relation": "Ken Burak describes teaching yoga in his philosophy class — a 'three wheels' exercise moving from the true self behind our masks to the Upanishadic identity of Atman and Brahman ('Thou Art That') — to give students embodied access to the universal/particular problem. He reads Western philosophy from Plato's Phaedo (Socrates seeking death as liberation of soul from body) through Descartes' doubt as a 2500-year practice of pratyahara (sense-withdrawal), one limb mistaken for the whole journey, and asks what asana and this long retreat could each bring the other."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "dennett",
+    "wittgenstein"
+   ],
+   "concepts": [
+    "cartesian-dualism",
+    "ghost-in-the-machine",
+    "free-will-determinism"
+   ],
+   "relation": "J. Neil Otte contrasts Patanjali's 'weak' dualism — in which prakriti and purusha are revealed as united in samadhi — with Descartes' 'deep' dualism of irreconcilable mind and body, whose interaction problem (Princess Elisabeth's objection, the pineal gland) it never solved. He traces La Mettrie's materialist 'Man a Machine,' Wittgenstein on public meaning, and neuroscience (Penfield, out-of-body proprioception experiments) to argue mind depends on brain, and that yoga's 'interdependence' of mind and body fits modern science better than either Cartesian dualism or eliminative materialism — so yoga's critics will come around."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "commodity-fetishism",
+    "objectification",
+    "male-gaze"
+   ],
+   "relation": "Luna Dolezal's 'Yoga for Women?' argues that Western yoga, once a male ascetic path, has been absorbed by consumer capitalism into a female beauty practice organized around 'body capital.' Reading Yoga Journal covers, Lululemon's 'Say No to Camel Toe' ad, and Toesox's nude campaigns, she shows the fashion/beauty industries cultivate shame to sell the yoga body, objectifying women. She counters that Hatha yoga should be a laboratory for compassionate self-acceptance beyond comparison and competition — 'yoga for every body' — rather than another instrument of the market's normalized ideal."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "kant-aesthetics",
+    "objectification",
+    "male-gaze"
+   ],
+   "relation": "Nicole Dunas's 'The Feeling of Beauty' recounts founding the Real Beauty Yoga Project after a teacher-training 'modeling day' where consultants photographed only the five thinnest students, enacting division rather than yogic union. Framing the beauty question against Kant's claim that beauty is objective, and drawing on David Abram's participatory perception and Susan Bordo on airbrushed bodies, she argues that objectifying beauty into an image to be gazed at (the male gaze, the isolated cosmetic-surgery gaze) severs us from it, whereas Hatha yoga's tantric, present-moment embodiment lets beauty be lived rather than consumed."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes"
+   ],
+   "concepts": [
+    "male-gaze",
+    "objectification",
+    "cartesian-dualism"
+   ],
+   "relation": "Debra Merskin content-analyzes 52 Yoga Journal covers (2000–2008) and finds every model white and 96% shown full-body, mostly looking away — posed as unaware of a scopophilic, hierarchical gaze that puts them in vulnerability. She uses Goffman's gender-display coding and the male-gaze framework to argue that a publication about a mind–body practice (which, contra Descartes' mind/body divide, neuroscience shows are intertwined) bears a special responsibility to present racially inclusive, non-objectifying images rather than reproducing the 'sex sells' formula of Cosmopolitan or Maxim."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "dewey-experience"
+   ],
+   "relation": "Eric Swan, a school counselor and yogi, argues yoga should be part of primary and secondary curricula because it fosters self-control, attention, body awareness, self-efficacy and — via 'namaste,' which his friend's daughter Harlow glosses as 'the light in me sees the light in you' — respect and compassion for self and others. Treating yoga as experiential education that develops the 'whole child' and 'soft skills,' he maps it onto counseling practice (individual, group, building levels) and cites data on academic gains, making an essentially Deweyan case for learning through embodied experience."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "aristotle-virtue-ethics",
+    "aristotle-practical-wisdom"
+   ],
+   "relation": "Leigh Duffy pairs the yogic balance of sthira (strength/steadiness) and sukha (ease/openness) in asana with Aristotle's doctrine of the mean, prompted by her own stress-induced seizure while teaching the Nichomachean Ethics. She argues both frameworks make virtue/right balance 'relative to us' — the correct warrior I or the courageous or good-tempered act depends on the individual and moment — and both require self-knowledge and practical reason. Cultivating the mean of sthira and sukha on the mat becomes her model for finding balance among work, relationships, and self-care off it."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "buddhist-non-self",
+    "applied-ethics"
+   ],
+   "relation": "Abby Thompson, a somatic psychologist, sets Raja yoga metaphysics (five koshas, a blissful true self distinct from the ego, nadis and chakras as energy flow) beside clinical psychology's brain-chemistry, DSM model, arguing the two paradigms are complementary. Using warrior II and camel pose plus the neuroscience maxim 'neurons that fire together wire together,' she shows how yoga trains self-regulation, distinguishes constructive discomfort from injurious pain, and can serve as complementary therapy — with instructors bearing therapist-like responsibility for the emotional vulnerability and transference that arise on the mat."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "frankl-meaning",
+    "stoic-present-moment"
+   ],
+   "relation": "Jim Berti's first-person memoir 'The Path to Happiness Begins with a Journey Inside' — riffing on Yoda as a stand-in for yoga — recounts how accidental stretching and belly-breathing pulled him out of anxiety, depression, and antidepressant numbness. He frames accumulated fear as garbage that rots the body–mind unless confronted, and describes a 'five-second' breathing rule that slows reactive thinking so he can take accountability for his responses. His account of finding sustained meaning and present-focused calm through practice reads as an experiential, self-taught search for meaning rather than doctrine."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "virtue-ethics",
+    "moral-psychology"
+   ],
+   "relation": "Iyengar-tradition teacher Jeff Logan argues that yoga philosophy — mythology such as the warrior Virabhadra behind virabhadrasana and Hanuman behind hanumanasana — must be taught alongside asana, or practice becomes 'mere acrobatics.' Using the parking-lot and door-cutting anecdotes to show yamas like non-harm and selflessness ignored, and citing a childhood-diet study, he contends teachers should not preach the eight limbs but embed subliminal precepts in physical cues ('extend your legs straight and true'), so students come to live rather than merely know yoga's virtue ethics."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "nietzsche"
+   ],
+   "concepts": [
+    "virtue-ethics",
+    "aristotle-golden-mean",
+    "aristotle-practical-wisdom"
+   ],
+   "relation": "Julinna Oxley argues that yoga ethics is best understood as an Aristotelian virtue ethic rather than a rule-set: the yamas and niyamas name character traits to cultivate, not commands (citing Iyengar that 'violence is a state of mind, not a diet'). Laying out virtue ethics' elements — habituation, the mean, practical reason, community — she derives two paramount 'yogic virtues,' mindfulness and self-discipline/self-improvement, that are relative to each practitioner and community, so no single diet or lifestyle (e.g., vegetarianism, teetotaling) is universally required for the virtuous yogi off the mat."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "deep-ecology",
+    "ecofeminism",
+    "anthropocentrism"
+   ],
+   "relation": "Megan Burke reads yoga's asanas through Vandana Shiva's 'Earth democracy,' arguing that poses named for other creatures (frog, camel, tree, sun salutation) shift the yogi's perspective and dissolve the sense of separation from nature that underwrites environmental destruction. 'Becoming-frog' yields non-human knowledge and, via the Vedic vasudhaiva kutumbakam (the Earth family) that both Shiva and Iyengar invoke, an ethic of care extending off the mat — casting yoga as a political, green practice that heals an anthropocentric, dominating relationship with the environment."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "virtue-ethics",
+    "aristotle-eudaimonia",
+    "buddhist-compassion"
+   ],
+   "relation": "Ethics professor Paul MacNeill argues ethics is intrinsic to yoga and knowable only through practice, not by mining texts — a Western reason-first bias that trivializes it. He shows the yamas and niyamas are counter-measures aimed at samadhi (paralleling how Aristotle's virtues aim at eudaimonia, though yoga subordinates reason), and that Vedanta's transcendent and Kashmir Shaivism's immanent metaphysics both function as instruments toward expanded awareness. From that dissolution of the separate self, he claims, compassion flows naturally, so Hatha yoga's asana and pranayama dissolve the ingrained bodily/mental habits that block ethical, equilibrium-born action."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "korsgaard"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "korsgaard-constructivism",
+    "buddhist-compassion"
+   ],
+   "relation": "Heather Salazar interleaves philosophical arguments with yoga exercises to awaken a 'hidden ethical self.' Using Korsgaard's notion of practical identity, she has readers meditate on their roles and conflicts, then argues in Kantian fashion that recognizing the shared reasons behind everyone's pursuits obliges us to value others as we value ourselves; extending Korsgaard, that we must value the life and happiness we prize wherever they appear, in animals and plants; and via Buddhist interdependence (the world in a cup of tea) that caring for others and the environment just is a way of caring for ourselves."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - YOGA - PHILOSOPHY FOR EVERYONE.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "yoga-theory-credibility",
+   "name": "The Rationality of Believing Yoga Theory",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The epistemological question of whether it can be reasonable, given modern science, to believe the ancient Indian theoretical apparatus of yoga (chakras, prana, kundalini, koshas).",
+   "why": "Chapter 16's entire argument is a testimony-based epistemology of belief in 'yoga theory' specifically; the taxonomy has general skepticism and Hume's induction but no concept for assessing the credibility of a superseded traditional theory against science."
+  },
+  {
+   "ch": 8,
+   "type": "concept",
+   "suggested_slug": "samadhi-union",
+   "name": "Samadhi / Yogic Union (purusha and prakriti)",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "The yogic goal of union — the binding or integration of consciousness (purusha) with nature (prakriti), variously kaivalya, Vedantic realization, or Tantric Shiva-Shakti.",
+   "why": "Samadhi/yogic union is the organizing concept of chapters 8, 19, 21, and 32, but the taxonomy's Eastern concepts (atman-brahman, the-tao, buddhist-*) do not include the specifically yogic purusha–prakriti union or samadhi."
+  }
+ ]
+}

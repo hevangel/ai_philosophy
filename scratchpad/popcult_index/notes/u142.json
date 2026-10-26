@@ -1,0 +1,297 @@
+{
+ "book": "087 - Adventure Time and Philosophy - The Handbook for Heroes",
+ "unit": "u142",
+ "chapters": [
+  {
+   "n": 25,
+   "file": "ch25 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mctaggart",
+    "bergson",
+    "lewis"
+   ],
+   "concepts": [
+    "a-series-time",
+    "bergson-duration",
+    "possible-worlds"
+   ],
+   "relation": "Through a hot-tub dialogue in Prismo's Time Room, the chapter walks Jake through the main theories of time: McTaggart's A-theory versus B-theory, plus presentism, the growing block, eternalism and four-dimensionalism, illustrated with the mirror-Finn dream, Farmworld Finn, Jake's unchangeable croak dream, and the Ancient Psychic Tandem War Elephant as a thing stretched across past, present and future selves. Booko's description of the multiverse becomes a springboard for David Lewis's possible-worlds realism and Everett's many-worlds reading of Prismo's 'alternate wish worlds'. Finally, quotes from McTaggart and Bergson delivered as Finn's Glasses of Nerdicon rant argue that time resists spatial and scientific analysis and must be lived, which the authors tie to relativity, black-hole cosmology and Prismo's Time Room as the one dimension outside time."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud",
+    "foucault"
+   ],
+   "concepts": [
+    "freud-unconscious"
+   ],
+   "relation": "Framing the 'Frost & Fire' episode as an imagined storyboard meeting, the chapter asks whether Finn's erotic dream of Flame Princess is a Freudian wish-fulfillment rising from his subconscious after he deliberately lies to provoke the Ice King-Flame Princess fight so the dream will return. Via Foucault's Care of the Self, it introduces Artemidorus's method of reading dreams for the real and moral consequences they portend, suggesting Finn's dream already warns him that his deception will cost him the relationship, with the Cosmic Owl whispering that he 'screwed up'. The writers conclude that sleeping and waking lives bleed into each other, and that Finn's refusal to read the warning leaves him burned: broken hearts, a torched Ice Kingdom, and the princess gone."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Adventure Time and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "ryle"
+   ],
+   "concepts": [
+    "personal-identity",
+    "ghost-in-the-machine"
+   ],
+   "relation": "The chapter asks whether Marceline has lost Simon Petrikov forever now that he is the Ice King, and tests every criterion of personal identity - body, memories, beliefs, personality, soul - finding each one either something that changes over time without ending a person (Finn survives losing his arm, Jake his fear of vampires) or something shared that then explains nothing. Borrowing Ryle's deflation of the soul as just the way the brain works - like Lemongrab renaming and remaking the Candy Kingdom, killing it without touching a single building - the author concludes Simon and the Ice King are two different people sharing one piece of machinery, like two operating systems on one computer. The dark payoff: bringing Simon back permanently would delete the Ice King, and by the same reasoning our own past selves are equally gone, a 'thousand deaths' a day that the chapter offers as Marceline's consolation, with Death's line 'you're gonna be the Ice King' as the haunting exception."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "turing",
+    "descartes",
+    "searle"
+   ],
+   "concepts": [
+    "turing-test",
+    "chinese-room",
+    "descartes-cogito"
+   ],
+   "relation": "Arguing against the dogma that only organic beings can be conscious, the chapter defends BMO's aliveness and personhood against Finn and Jake's teasing and the contrast with servile Neptr. Using Pepperell's criteria of 'motivated meaning' and layered consciousness, it shows BMO changing her own batteries, escaping the giant bird, fearing the silent-contest 'doppelgangers', resisting the factory's personality wipe, and rehearsing personhood with Football in the mirror. Against Descartes's claim that no machine can truly use language and Searle's Chinese Room - reimagined as Gunter in a dungeon flipping response cards - the author sides with Turing: since we credit other humans with minds on conversation and behavior alone, refusing BMO the same credit is mere speciesism, and personhood finally rests on social recognition of another as a person."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gadamer",
+    "huizinga"
+   ],
+   "concepts": [
+    "gadamer-hermeneutics"
+   ],
+   "relation": "The chapter argues that what sets Adventure Time above generic sword-and-sorcery is that its stories are stories of play, from Card Wars duels to the pillow-fort world of 'Puhoy', where Finn lives out an entire alternate life with Rosalinen. Drawing on Huizinga's claim that play founds all culture, Gadamer's view that play is a presentation that reveals truth, and Fink's account of play as purposeless, world-creating magic, it shows Finn learning what a hero is by 'playing' the hero's role, BMO transforming a chicken into the noir suspect Lorraine, and Jake's imaginary lava genuinely burning Finn in 'Rainy Day Daydream'. Play-worlds like Ooo hold a mirror to the real one - Finn's experiments on the little people force Jake to confront what breaking up his relationship would mean - so make-believe turns out to be how we seriously learn who we are."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "butler"
+   ],
+   "concepts": [
+    "gender-performativity",
+    "feminism"
+   ],
+   "relation": "The chapter uses Adventure Time's gender play - Fionna and Cake, princesses holding nearly all political power in Ooo, Jake as terrified helicopter dad, Mannish Man's parody of manliness - to ask what being a man or woman really means. Following Judith Butler's Gender Trouble, it argues sex does not fix gender: the Lumpy Space King and Queen share one body, Flame King is a flame in a suit, and Butler's critique of the MIT 'master gene' experiment shows how the assumption that men and women are opposites smuggles cultural convention into science. Finn is read as performing masculinity - Billy worship, dungeon codes, the endless 'Dungeon Train' - caught in a crisis of masculinity between what society says a man is and who he is, with the ghost of Shoko in 'The Vault' and the accepted grass sword as steps toward a heroism that is his own."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "turing"
+   ],
+   "concepts": [
+    "turing-test",
+    "applied-ethics"
+   ],
+   "relation": "Staging a modified Turing Test in which the author interrogates BMO about Football, Bubble, her broken egg, her glitch and the Mo Co factory, the chapter asks whether her answers display human-like intelligence or merely a machine's 'pretend' intelligence. Beemo's evasions about emotion ('I felt like crying') become the pivot for asking whether anyone can define feeling beyond the words they were taught for it, since we are told as children that crying means sadness. Turing's conversational test is then weighed against our bias that a boxy Gameboy cannot really think - you are, the author notes, proof that arranged matter can love and feel - and the chapter closes on the ethics of the question: Princess Bubblegum's hacksaw shows that convenience is exactly the criterion we must never use to deny personhood, as slaveholders once did."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Adventure Time and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "epictetus"
+   ],
+   "concepts": [
+    "stoicism",
+    "aristotle-practical-wisdom",
+    "stoic-indifferents"
+   ],
+   "relation": "Re-examining 'The Enchiridion!' trial by trial - the gnome illusions, the ogre whose dollar Finn steals and then returns, the dark mage's brain world, the wallop given the Key-per in devil pajamas - the chapter argues Finn wins the hero's handbook without being righteous: he is brave, tender and ingenious, but gullible, hasty and violent, slaying whatever he is told is evil and running from the gnome test. Epictetus's Stoic Enchiridion supplies the standard the show's book lacks: only virtue matters, wealth, fame and comfort are indifferents, and a real handbook teaches how to lose, age and admit mistakes, not just how to win, which is exactly what Billy's quit-heroism shows Ooo's greatest hero never learned. Because bravery without good judgment could as easily serve a Nazi, a terrorist or the Lich, Finn's lack of practical wisdom means the 'most righteous hero' in Ooo is an impetuous boy - proof of how morally broken the Land of Ooo is."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "plato",
+    "nietzsche"
+   ],
+   "concepts": [
+    "master-slave-morality",
+    "unexamined-life",
+    "plato-justice"
+   ],
+   "relation": "Comparing Finn with Gilgamesh, Achilles, Cuchulainn and Beowulf, the chapter shows how deeply he belongs to the archaic heroic code: a warrior who loves combat, seeks glory in tough-guy contests, fights dirty like Odysseus, and is fiercely loyal to Jake, his friends and his community. Against this tradition, Finn's unprecedented willingness to help any stranger who cries for help and his refusal to kill the 'unaligned' ant mark the post-heroic morality that began when Socrates told Athenians to care for their souls rather than status and Plato designed a city serving the common good - the author explicitly frames this through Nietzsche's complaint that Greek philosophy derailed the healthy, competitive heroic values. The chapter sides with Finn and the self-sacrificing Lemonjohn over Achilles, concluding that the secret of the Enchiridion is doing whatever the common good requires, warrior or not."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "epictetus",
+    "kant"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "categorical-imperative",
+    "dichotomy-of-control"
+   ],
+   "relation": "The chapter assembles real-life versions of Finn's Enchiridion, starting with Aristotle's Nicomachean Ethics: the Golden Mean locates each virtue between two vices, so true courage is knowing when to fight and when to run - cowardice and 'stupidteous' recklessness as deficiency and excess - a balance Finn's all-out bravery lacks. Epictetus's Stoic Handbook (which inspired the emperor Marcus Aurelius) teaches that happiness depends only on one's own reactions and that events are good or bad by how we take them, making it a manual even the chronically disappointed Ice King could use, while Christine de Pizan's book of chivalry prepares heroes for defeat and Erasmus's Handbook of the Christian Knight with Praise of Folly makes Finn and Jake's 'foolish' mercy look righteous. Finally Kant's Groundwork supplies duty for duty's sake: by the categorical imperative, Finn was entitled to steal the ogre's dollar only if, as an ogre who had swallowed Jake, he would accept the same theft from a hero."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "nussbaum",
+    "mill",
+    "kant"
+   ],
+   "concepts": [
+    "aristotle-virtue-ethics",
+    "aristotle-practical-wisdom",
+    "aristotle-eudaimonia",
+    "capabilities-approach"
+   ],
+   "relation": "The chapter argues Finn is not yet a true hero but is on a quest to become one: against rule systems like Mill's greatest-happiness utilitarianism and Kantian respect for persons, virtue ethics asks not 'what should I do' but 'who should I be', and Aristotle's point that children lack fully developed practical reason explains why Finn's good intentions misfire - removing Donny exposes the house people to Why-wolves, and Penny's trick humiliates him in the City of Thieves. Martha Nussbaum's ideal of every person as free and of equal dignity grounds heroism in the common good, and her work on literature and popular culture explains how watching Finn's exaggerated choices trains our own moral judgment. Citing Franco and Zimbardo's psychology of real heroes - empathy, risk tolerance, persistence - and closing with Seneca's 'how nobly you live', it concludes that since Aristotelian virtue is a habit, anyone can start by admitting they suck at heroism and practicing, as Jake's advice puts it."
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Adventure Time and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "aristotle-practical-wisdom",
+    "virtue-ethics",
+    "moral-luck"
+   ],
+   "relation": "Reading Finn's first season as a three-stage hero's journey - winning the Enchiridion on Mount Cragdor, being tested in 'Business Time', 'City of Thieves', 'Ocean of Fear' and 'Henchman', then doubly confirmed when Billy recognizes him - the chapter extracts a working handbook of heroism from his stumbles. Its lessons: heroism needs reason as much as courage (thinking through the gnome 'illusions', knocking himself unconscious to beat the Fear Feaster), plain luck plays a real and uneven part in saving Jake from the ogre, retribution should be temporary (the ogre's returned dollar), and heroes must check their sources (Penny's con). The deepest tension is that justice and compassion, instinct and reason, violence and non-violence must be perpetually balanced - Billy's nonviolent way becomes its own injustice when Finn medicates villagers without consent - so a real hero is simply someone who never stops trying to hold the balance."
+  },
+  {
+   "n": 39,
+   "file": "ch39 - Adventure Time and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 40,
+   "file": "ch40 - Adventure Time and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 41,
+   "file": "ch41 - Adventure Time and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 42,
+   "file": "ch42 - Adventure Time and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 43,
+   "file": "ch43 - Adventure Time and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 26,
+   "type": "philosopher",
+   "suggested_slug": "artemidorus",
+   "name": "Artemidorus of Ephesus",
+   "philosopher": "",
+   "domain": "ancient",
+   "what": "Second-century Greek diviner whose Oneirocritica is the surviving ancient manual for interpreting dreams by the practical and moral consequences they foretell for the dreamer's station in life.",
+   "why": "Chapter 26 builds its entire reading of Finn's Flame Princess dream on Artemidorus's method - dreams reveal what is real and portend good or bad consequences - introduced through Foucault's Care of the Self."
+  },
+  {
+   "ch": 29,
+   "type": "philosopher",
+   "suggested_slug": "pepperell",
+   "name": "Robert Pepperell",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Contemporary philosopher of the posthuman who defines life as 'motivated meaning' and consciousness by observable attributes (thought, emotion, memory, awareness, intelligence, self-knowledge, sense of being) in varying densities rather than by biology.",
+   "why": "Chapter 29 uses Pepperell's seven attributes of consciousness and his notion of motivated meaning as its main criteria for arguing that BMO is genuinely alive and conscious, and summarizes Turing through him."
+  },
+  {
+   "ch": 30,
+   "type": "philosopher",
+   "suggested_slug": "huizinga",
+   "name": "Johan Huizinga",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "Dutch cultural historian whose Homo Ludens argues that play is a separate, rule-bound 'presentation' that lies at the foundation of all human culture, including art, ritual and law.",
+   "why": "Chapter 30's opening argument that Adventure Time's stories are stories of play - separate from the serious world yet never pointless and always 'about' something - is built directly on Huizinga's theory of play."
+  },
+  {
+   "ch": 30,
+   "type": "philosopher",
+   "suggested_slug": "eugen-fink",
+   "name": "Eugen Fink",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "Twentieth-century phenomenologist (Husserl's student and assistant) who analyzed play as a purposeless activity with its own end, in which playthings acquire 'another, mysterious reality' and open whole imaginary play-worlds.",
+   "why": "Chapter 30's core apparatus - play as magic, BMO's chicken becoming the suspect Lorraine, playthings becoming dangerously real, and the pillow-fort play-world of 'Puhoy' - comes from Fink's philosophy of play."
+  },
+  {
+   "ch": 36,
+   "type": "philosopher",
+   "suggested_slug": "erasmus",
+   "name": "Desiderius Erasmus",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "Renaissance humanist who wrote the Enchiridion Militis Christiani (Handbook of the Christian Knight) and In Praise of Folly, redefining righteousness against corrupt churchly piety.",
+   "why": "Chapter 36 presents Erasmus's Christian-knight handbook, with its Folly-voiced critique of the powerful, as one of the four real-life enchiridions that teach Finn-and-Jake-style 'foolish' righteousness."
+  },
+  {
+   "ch": 36,
+   "type": "philosopher",
+   "suggested_slug": "christine-de-pizan",
+   "name": "Christine de Pizan",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "Medieval author commissioned by the French royal family to write The Book of Deeds of Arms and of Chivalry, a manual of warfare that also treats how leaders and heroes should behave, especially in defeat.",
+   "why": "Chapter 36 cites her book as a real-life Enchiridion for heroes - its advice to anticipate the unexpected and prepare for loss is applied directly to what Finn and Jake should learn before adventures."
+  }
+ ]
+}

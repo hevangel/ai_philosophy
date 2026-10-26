@@ -1,0 +1,340 @@
+{
+ "book": "149 - Black Panther and Philosophy - What Can Wakanda Offer the World_",
+ "unit": "u219",
+ "chapters": [
+  {
+   "n": 25,
+   "file": "ch25 - 14 The Afterlife of Erik Killmonger in African Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes"
+   ],
+   "concepts": [
+    "personal-identity",
+    "cartesian-dualism",
+    "immortality"
+   ],
+   "relation": "Paul Dottin argues that Black Panther lore inherited the racist 'Hamitic Hypothesis' (crediting Egypt rather than sub-Saharan Africa for Wakanda's civilization) and that Ta-Nehisi Coates and Ryan Coogler begin a Wiredu-style conceptual decolonization of it. Taking Killmonger's dying wish to be buried with the ancestors who jumped from slave ships literally, the chapter asks which African metaphysics could make his postmortem survival of substance, subjectivity, and setting rationally intelligible. It rejects Cartesian substance dualism (illustrated by T'Challa defeating the demon Mephisto only after trapping his spirit in a body) in favor of Wiredu's Akan quasi-physicalism and Adeofe's Yoruba theory of destiny (ipin) and inner head (ori-inu), then ranks Killmonger's afterlife options from limbo through the Ancestral Plane to deification as the ocean deity Olokun."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 15 Wakandan Resources The Epistemological Reality of Black Panther’s Fiction.md",
+   "kind": "chapter",
+   "philosophers": [
+    "fricker",
+    "hooks"
+   ],
+   "concepts": [
+    "epistemic-injustice",
+    "paradox-of-fiction"
+   ],
+   "relation": "Ruby Komic treats Black Panther as an 'epistemic resource' in Gaile Pohlhaus's sense: because of its majority-Black creative team the film supplies audiences with narrative tools that answer to real Black experience, against Anthony Mackie's charge that the film's Black-only hiring is itself racist. The chapter reads the film's plural representations - the T'Challa/Killmonger ideological tension, Nakia's 'No, I save my country' defiance of Okoye's institutional loyalty, Okoye throwing away her wig, Black viewers rooting for the 'villain' - as the kind of nuanced material that remedies decades of stereotypical representation. Following Miranda Fricker, it concludes that the historic scarcity of such resources is an epistemic injustice against Black knowers, and that Black Panther is a partial act of epistemic justice."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Part IV Vibranium.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - 16 When Tech Meets Tradition How Wakandan Technology Transcends Anti-Blackness.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bostrom"
+   ],
+   "concepts": [
+    "applied-ethics",
+    "transhumanism"
+   ],
+   "relation": "Timothy Brown argues that transhumanist futures - Bostrom's fable of the Dragon Tyrant, Savulescu's moral bioenhancement, AI built by homogeneous teams - exclude Black people because technologies embed anti-Blackness, from Ruha Benjamin's New Jim Code to facial recognition failing Black women. Black Panther counters this by rooting its future in traumatic memory: Killmonger's museum scene shows how whitewashed 'aesthetic Africanism' licenses incredulity about African technological achievement, while Shuri's comics arc (named 'Ancient Future' by her ancestors in D'Jalia) shows that Wakandan technology flourishes only through the traditions it is tempted to scoff at. Africanfuturism, on this reading, treats Blackness itself as a 'prosthesis' for stress-testing whether the futures we build will include everyone."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 17 Vibranium Dreams and Afrofuturist Visions Technology, Nature, and Culture.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "utopia-dystopia",
+    "applied-ethics"
+   ],
+   "relation": "Alessio Gerola reads vibranium as an instrumentalist prop: the film treats it as a neutral means whose value depends only on the ends served, staged through three disputes - M'Baku's tradition versus Shuri's innovation, Nakia's humanitarian aid versus Killmonger's armed revolution, T'Chaka's isolationism versus T'Challa's openness. Drawing on Langdon Winner's politics of artifacts, the chapter argues that real technology and culture co-shape each other, so vibranium alone cannot explain why Wakanda stayed peaceful instead of becoming the empire Killmonger promises. The film's genuine lesson is Afrofuturist: the harmonious relation among technology, nature, and culture visible in biomimetic ships, kimoyo beads, traditional aesthetics, and the Jabari's principled refusal of vibranium."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 18 Black Panther’s Afrofuturism Reconnecting Neural and Cultural Pathways.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Traces Afrofuturism from Flying African folklore through Delany, Butler, and Okorafor, then reads three motifs of the film as figures of diasporic disconnection and reconnection: T’Challa’s Royal Talon Flyer reimagines the Flying African tale, Shuri’s healing of Agent Ross’s spinal cord injury (contrasted with Rhodey’s fragile Stark exoskeleton in Civil War and Endgame) models rebuilding severed connections, and water marks the divide — the quelled falls of ritual combat versus the oceanic erasure where Killmonger chooses burial. It argues Wakanda’s blend of ancient ritual and futuristic technology shows a tradition’s essence surviving modernization, and closes with Nnedi Okorafor — paralyzed by scoliosis, walking again, and writing Shuri as a literal Flying African — as the “singularity” where the chapter’s themes converge. Leaves slugs empty because Afrofuturism is a literary-cultural genre, not an entry in the taxonomy (logged as a hole under ch29)."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 19 Wakanda and the Dilemma of Racial Utopianism.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "utopia-dystopia",
+    "cosmopolitanism-ethics"
+   ],
+   "relation": "Juan Floyd-Thomas defends Wakanda as 'racial utopianism' - an Afrofuturist promised land answering Toni Morrison's point that utopias are defined by who is kept out - while pressing its dilemma: the utopia flourishes only through isolation from the diaspora it could uplift, which is the root of Killmonger's grievance. Killmonger embodies the counter-vision, a Paul Gilroy 'Black Atlantic' landless nationalism whose plan to arm the world's oppressed and let 'the sun never set on the Wakandan Empire' turns the utopia into a dystopian empire rooted in vengeance rather than equity. The chapter reads T'Challa's UN speech against Trump's 'shithole countries' remark and Terry Gilliam's dismissal, as a case for a liberal world order of global solidarity over walls."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - 20 The Value of Vibranium.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx",
+    "kant",
+    "bentham"
+   ],
+   "concepts": [
+    "commodity-fetishism",
+    "utilitarianism",
+    "categorical-imperative"
+   ],
+   "relation": "Edwardo Pérez asks what makes vibranium 'the most valuable metal known to man' through Marx's distinction between use value and exchange value: Klaue prizes exchange value (money, power, a black-market arm), while Wakandans structure their whole society around use value and never trade the metal. The museum scene raises cultural property - does vibranium belong to Wakanda, as the cultural nationalist holds, or to humanity, as the cultural internationalist holds? - and T'Challa's shift on sharing it is analyzed through Kant's categorical imperative versus Bentham's utilitarian calculus, with his saving of Agent Ross and sparing of M'Baku vindicated by their consequences. Vibranium's greatest value, the chapter concludes, is atonement: redeeming T'Chaka's crime and uniting humanity as 'one single tribe.'"
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Part V Black Lives Matter.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - 21 Dismantling the Master’s House with the Master’s Tools.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hooks",
+    "audre-lorde"
+   ],
+   "concepts": [
+    "feminism",
+    "terrorism-violence"
+   ],
+   "relation": "Thanayi Jackson reads Killmonger through Audre Lorde's 'the master's tools will never dismantle the master's house,' asking whether a CIA-trained operative wielding the colonizer's own weapons can end colonialism. Comparing Killmonger to Wallace from The Wire - both orphans of Africa reared by America's ghettos - she concedes the appeal of his Oakland-forged mastery ('I know how colonizers think') but argues through bell hooks's gloss of Lorde that one cannot destroy imperialist white-supremacist capitalist patriarchy by creating one's own version of it: Killmonger's plan to kill oppressors 'and their children' makes him a new master, not a liberator. T'Challa's Oakland outreach center answers the challenge only partially, leaving the chapter asking whether the master's house was dismantled or merely refurbished."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - 22 An Impossible Return (Anti)Colonialism in of Black Panther.md",
+   "kind": "chapter",
+   "philosophers": [
+    "fanon"
+   ],
+   "concepts": [
+    "black-skin-white-masks",
+    "terrorism-violence"
+   ],
+   "relation": "Julio Covarrubias-Cabeza argues that Black Panther is a supremely colonial film: its narrative coherence depends on the history of slavery, franchise colonialism, and neocolonial domination, yet it buries that history in the pathologized figure of Killmonger. Drawing on Fanon's account of the European unconscious projecting its base instincts onto Black bodies, on Tommy Curry's 'man-not' and anti-Black misandry, and on Quijano's coloniality of power, the chapter contends the film devalues Black American men and discredits radical anti-colonial politics while letting Wakanda ally with the CIA against its own. Killmonger's 'impossible return' to a pre-colonial homeland - his body scarred by each kill - is the site where the film's repressed colonial violence ruptures to the surface."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - 23 T’Challa’s Dream and Killmonger’s Means Echoes of MLK and Malcolm X.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "terrorism-violence"
+   ],
+   "relation": "Gerald Browning maps T'Challa onto Martin Luther King Jr. and Killmonger onto Malcolm X: T'Challa's UN speech about building bridges 'as if we were one single tribe' echoes 'I Have a Dream,' while Killmonger's vibranium insurrection enacts Malcolm's language-of-the-shotgun rhetoric and 'by any means necessary' motto. The comparison is deliberately qualified: Killmonger lacks Malcolm's 'intelligently directed' extremism and his post-Mecca evolution toward a universal brotherhood, never reconsidering even when T'Challa offers to heal him, and he turns his aggression on Wakandans themselves in a way Malcolm never did. The chapter concludes that the T'Challa-Killmonger foil extends the King-Malcolm conversation into the Black Lives Matter era."
+  },
+  {
+   "n": 37,
+   "file": "ch37 - 24 “It’s Time They Knew the Truth about Us! We’re Warriors!” Black Panther and the Black Panther Party.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "terrorism-violence"
+   ],
+   "relation": "Karen Kohoutek places N'Jobu's and Killmonger's radicalization in the lineage of the Black Panther Party, founded in Oakland months after the comic debuted in 1966: both cite the same police brutality and impoverished communities, and both answer with arming the oppressed. Through Robert F. Williams's Negroes with Guns and Max Weber's state monopoly on legitimate violence, the chapter shows how Black armed self-defense keeps getting recoded as aggression - from the Panthers' patrol of Oakland to the Mulford Act passed to disarm them - so that Killmonger's plan reads as genocidal while CIA destabilization, his actual training, passes as legitimate. Wakanda's closing pivot to outreach centers mirrors the Party's Free Breakfast and health-clinic programs, making T'Challa's UN speech an imagined corrective to failed American idealism."
+  },
+  {
+   "n": 38,
+   "file": "ch38 - 25 Fear of a Black Museum Black Existentialism.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dubois",
+    "hegel",
+    "plato"
+   ],
+   "concepts": [
+    "double-consciousness",
+    "plato-cave",
+    "hegel-recognition"
+   ],
+   "relation": "Charles Peterson reads the museum scene through Black existentialism and Africana phenomenology: colonial museums freeze African existence in an 'archaic amber' of aesthetic purity, and Killmonger's reclaiming of the mask and questioning of the curator perform a truth-telling that breaks the museum's performance of dominance. Du Bois's double-consciousness explains Killmonger's inseparable Wakandan-and-American two-ness (extended to Nakia and the War Dogs), while Paget Henry's contrast of the DuBoisian subject who oscillates between two 'We's' with Hegel's recognition-seeking subject explains why T'Chaka chooses Wakanda and abandons N'Jobu, and Plato's cave frames Killmonger as dragging Wakanda's comfortable council toward truths 'some truths are too much to bear.' The chapter concludes that Killmonger fails because wearing the mask he embraced negrification rather than shedding it, whereas T'Challa matures from a Hegelian into a DuBoisian subject by opening Wakanda to the world."
+  },
+  {
+   "n": 39,
+   "file": "ch39 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 40,
+   "file": "ch40 - End User License Agreement.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "conceptual-decolonization",
+   "name": "Conceptual Decolonization",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "Kwasi Wiredu's program of purging African philosophy of Western conceptual frameworks imposed during colonialism and renewing indigenous conceptual schemes.",
+   "why": "Chapter 25 frames Coates's and Coogler's re-Africanizing of Wakanda's pantheon and afterlife as exactly this project and uses it to expose the Hamitic Hypothesis lurking in Black Panther lore."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "quasi-physicalism",
+   "name": "Quasi-Physicalism (Akan philosophy of mind)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Wiredu and Safro Kwame's Akan theory that spiritual beings, if real, differ from humans by degree of physicality rather than by substance, rejecting the natural/supernatural dichotomy.",
+   "why": "Chapter 25 offers it as the African metaphysics that makes Killmonger's postmortem survival of substance and subjectivity rationally plausible where Cartesian dualism fails."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "paradox-of-fiction",
+   "name": "The Paradox of Fiction",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The puzzle that we have genuine, rational emotional responses to characters we know do not exist, although such emotions seem to require belief in their objects.",
+   "why": "Chapter 26 opens with it to explain why audiences genuinely weep for T'Challa and Wakanda, resolving it through the film's knowingly fictional representation of real racism."
+  },
+  {
+   "ch": 28,
+   "type": "concept",
+   "suggested_slug": "transhumanism",
+   "name": "Transhumanism",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The movement holding that humanity should use technology to transcend biological limits - defeating death, enhancing bodies and cognition, even morally enhancing ourselves.",
+   "why": "Chapter 28 argues its promises (Bostrom's Dragon Tyrant, moral bioenhancement) ring hollow for Black people while technologies embed anti-Blackness, and reads Wakanda as an Afrofuturist corrective."
+  },
+  {
+   "ch": 29,
+   "type": "concept",
+   "suggested_slug": "afrofuturism",
+   "name": "Afrofuturism (and Africanfuturism)",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Art and speculation by people of African descent placing Black cultures in technologically advanced futures, recently distinguished by Nnedi Okorafor from the Africa-rooted Africanfuturism.",
+   "why": "Chapters 28-30 argue Wakanda's meaning depends on this genre: chapter 29 uses Afrofuturism to reframe vibranium as a thought experiment about harmonizing technology, nature, and culture."
+  },
+  {
+   "ch": 29,
+   "type": "concept",
+   "suggested_slug": "politics-of-artifacts",
+   "name": "Technological Instrumentalism and the Politics of Artifacts",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The debate over whether technologies are neutral means to independently chosen ends (instrumentalism) or themselves shape social and political life, exemplified by Langdon Winner's low-bridges case.",
+   "why": "Chapter 29 argues the film's instrumentalist framing of vibranium hides how technology co-constitutes Wakanda's culture, so exporting it could never be culturally neutral."
+  },
+  {
+   "ch": 31,
+   "type": "philosopher",
+   "suggested_slug": "paul-gilroy",
+   "name": "Paul Gilroy",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Contemporary race theorist whose The Black Atlantic frames diasporic Black identity as formed by exile, expropriation, and transatlantic movement rather than by any homeland.",
+   "why": "Chapter 31 uses the Black Atlantic to explain Killmonger as an avatar of landless African American nationalism that Wakanda's rooted utopia excludes."
+  },
+  {
+   "ch": 32,
+   "type": "concept",
+   "suggested_slug": "cultural-property",
+   "name": "Cultural Property (nationalism vs internationalism)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The debate over who owns cultural goods - the culture that produced them (cultural nationalism) or humanity at large (cultural internationalism) - central to museum repatriation disputes.",
+   "why": "Chapter 32 uses it to ask whether vibranium is Wakandan property or humanity's inheritance, mirroring the British museum's stolen Benin artifacts."
+  },
+  {
+   "ch": 34,
+   "type": "philosopher",
+   "suggested_slug": "audre-lorde",
+   "name": "Audre Lorde",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Black lesbian feminist poet-theorist whose essay 'The Master's Tools Will Never Dismantle the Master's House' holds that an oppressive system's own instruments cannot end it.",
+   "why": "Chapter 34 structures its entire reading of Killmonger as a test of Lorde's thesis, asking whether the colonizer's weapons can ever liberate the colonized."
+  },
+  {
+   "ch": 35,
+   "type": "concept",
+   "suggested_slug": "coloniality-of-power",
+   "name": "Coloniality of Power",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Anibal Quijano's concept that the racial classification invented to organize colonial labor extraction outlived formal colonialism as a durable global structure of domination, including neocolonialism.",
+   "why": "Chapter 35 uses it to explain the global backdrop of Killmonger's revolution and to argue the film represses the colonial violence that alone makes its plot intelligible."
+  },
+  {
+   "ch": 36,
+   "type": "philosopher",
+   "suggested_slug": "martin-luther-king-jr",
+   "name": "Martin Luther King Jr.",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Civil Rights leader whose philosophy of nonviolent resistance and 'I Have a Dream' vision of interracial brotherhood anchored the mainstream American freedom struggle.",
+   "why": "Chapter 36 reads T'Challa's benevolence, mercy to M'Baku and Zemo, and UN 'one single tribe' speech as King's philosophy transposed into Wakanda."
+  },
+  {
+   "ch": 36,
+   "type": "philosopher",
+   "suggested_slug": "malcolm-x",
+   "name": "Malcolm X (El-Hajj Malik El-Shabazz)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Black nationalist leader who defended self-defense 'by any means necessary' and, after his Mecca pilgrimage, moved toward a universal human brotherhood.",
+   "why": "Chapter 36 maps Killmonger onto Malcolm's militant rhetoric while stressing that Killmonger lacks Malcolm's intelligently directed extremism and later evolution."
+  },
+  {
+   "ch": 37,
+   "type": "concept",
+   "suggested_slug": "black-panther-party",
+   "name": "The Black Panther Party",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Oakland-based Black liberation organization (1966) whose Ten-Point Program joined armed self-defense against police brutality with community survival programs like free breakfast and health clinics.",
+   "why": "Chapter 37 reads N'Jobu's and Killmonger's Oakland radicalization and T'Challa's outreach center against the Party's history and its contested right to bear arms."
+  },
+  {
+   "ch": 37,
+   "type": "concept",
+   "suggested_slug": "monopoly-of-violence",
+   "name": "State Monopoly on Legitimate Violence",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Max Weber's definition of the state as the institution successfully claiming the monopoly of the legitimate use of physical force within a given territory.",
+   "why": "Chapter 37 uses it to show why Black armed self-defense is recoded as aggression and why Killmonger, once legitimately king, turns Wakanda's legitimate violence toward revolution."
+  },
+  {
+   "ch": 38,
+   "type": "concept",
+   "suggested_slug": "black-existentialism",
+   "name": "Black (Africana) Existentialism",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "A school (Paget Henry, Drucilla Cornell, Dwayne Tunstall) adapting phenomenology and existentialism to anti-Black racism, where the occasion for reflection is negrification rather than European reason's crisis.",
+   "why": "Chapter 38's reading of the museum scene and Killmonger's double-consciousness runs entirely through Africana phenomenology and Tunstall's 'ego displacement.'"
+  }
+ ]
+}

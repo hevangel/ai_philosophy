@@ -1,0 +1,220 @@
+{
+ "book": "168 - Heroes and Philosophy - Buy the Book, Save the World",
+ "unit": "u247",
+ "chapters": [
+  {
+   "n": 21,
+   "file": "ch21 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Tests the science behind the powers: Claire's and Adam Monroe's rapid healing is deemed barely possible (retained telomeres, error-free cell replication) but far too fast to be realistic, while Nathan's flight survives neither rocket-propellant nor magnetic-levitation explanations, leaving undirected manipulation of gravity as the only option. Hiro's teleportation and time travel are analyzed with Minkowski diagrams, worldlines, and light cones — his rescue of Claire from Sylar and Elle in 'The Eclipse: Part II' puts his broken worldline outside every light cone — and wormholes, quantum entanglement, and quantum tunneling are each rejected as workable mechanisms. The chapter then shows Darwinian evolution cannot produce Dr. Suresh's 'evolutionary jump': even Adam Monroe fathering children across the globe for four hundred years could not spread and diversify a power gene that fast, concluding that only design (God, aliens, or destiny) could explain the show's powers."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kuhn",
+    "ockham"
+   ],
+   "concepts": [
+    "paradigm-shift",
+    "ockham-razor",
+    "falsification"
+   ],
+   "relation": "Asks how to tell genuine science from pseudoscience using Chandra Suresh's rejected Activating Evolution theory, Sheldrake's morphic fields, alchemy, and Behe's intelligent design. Kuhn's picture of normal science, anomalies, and revolutions explains why Suresh would need a full-blown crisis in evolutionary theory — such as people actually flying — before the community accepts him, and why time rather than mockery settles a theory's fate. Ockham's razor condemns the unnecessary organizing principles in both Sheldrake's and Suresh's theories, and intelligent design is exposed as bad method because, like creationism, it was devised to protect a prior commitment from disconfirming fossil and cosmological evidence."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - PART FOUR - THE MINDS OF HEROES.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - NOTE.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "reid",
+    "parfit",
+    "williams"
+   ],
+   "concepts": [
+    "personal-identity",
+    "locke-personal-identity",
+    "ship-of-theseus",
+    "parfit-teleportation"
+   ],
+   "relation": "Asks whether amnesia preserves numerical identity: is the Peter who wakes in the shipping crate still Volume-1 Peter, are Niki and Jessica one person, and is the Sylar whom Matt rewrites with Nathan's memories now Nathan? The chapter builds Locke's memory criterion, breaks it with Reid's transitivity objection run through Mohinder's timeline in 'Five Years Gone,' repairs it with Grice's and Perry's memory-ancestor chains, then destroys the repair with Arthur Petrelli's wipe of Hiro (Forgetful Hiro vs. Stabby Hiro), Bernard Williams's torture thought experiment, Parfit's psychological spectrum, and the graphic novel's branching self-copier Evan. It concludes that no memory criterion can define personal identity, yet memory still matters practically: Claire must act as if she persists over time to keep her promise to Zach and to bother finishing the manatee assignment."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "chalmers"
+   ],
+   "concepts": [
+    "philosophical-zombies",
+    "descartes-cogito",
+    "cartesian-doubt",
+    "problem-of-other-minds"
+   ],
+   "relation": "Distinguishes Matt Parkman's supernatural telepathy from the 'mundane mind reading' everyone performs, then argues even Matt's power cannot solve the problem of other minds: the suicidal woman's thoughts he hears in the bar ('One Giant Leap') could be part of a Maury-Parkman-style illusion, and a brain-to-brain link could never rule out that others are Chalmers-style philosophical zombies. After grounding the skepticism in Descartes' cogito and method of doubt, it defends our everyday attribution of minds by analogy (Audrey Hanson reading Claire's insincerity) on pragmatic grounds, and maps Matt's progression from hearing thoughts to nightmare manipulation and compulsion onto the four adaptive functions philosophers assign to mind reading: interpretation, prediction, coordination, and influence. It closes by showing why neuroimaging-based technological mind reading remains a pipe dream, since brain recordings are quantitative syntax without semantics."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "adam-smith"
+   ],
+   "concepts": [
+    "impartial-spectator",
+    "hume-sentimentalism"
+   ],
+   "relation": "Takes Claude's label of Peter as an 'empath' seriously and tests three accounts of empathy against his power: Hume's emotional resonance (rejected because Peter keeps powers after the donor leaves), Scheler's absorption into another's identity, and Hume's conversion of ideas into vivid impressions, settling on the mirror-neuron thought that Peter literally replicates other people's brain structures — which explains why he copies Isaac's painting skill and even Sylar's anger in 'Kindred.' It then asks whether empathy makes you moral and answers no — Elle enjoys Peter's pain and Mohinder feels his experimental subjects' terror — arguing instead that empathy needs a filter: Hume's general point of view and Adam Smith's impartial spectator, illustrated by Hiro's imagined Kensei ideal and by Nathan serving as Peter's emotional filter until his death leaves Peter without one."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - PART FIVE - VILLAINS, FAMILY, AND LYING.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gilligan",
+    "socrates",
+    "aristotle",
+    "nietzsche",
+    "augustine"
+   ],
+   "concepts": [
+    "care-ethics",
+    "ubermensch",
+    "aristotle-golden-mean",
+    "socratic-ignorance"
+   ],
+   "relation": "Reads the show's eclipse icon against Plato's sun of the good — goodness has become hard to discern — and tests four theories of evil on the characters: Socrates' claim that no one errs knowingly is half-confirmed since villains like Angela and Nathan always take themselves to be doing right; Aristotle's akrasia and vice as an excess or deficiency of disposition fit Sylar's blood-scrawled 'Forgive me' apartment and his uncontrolled hunger; and Nietzsche's Übermensch and pre-Christian master morality raise the uncomfortable question of why Sylar preying on inferiors is not heroic like Achilles. The chapter's endorsed answer is Gilligan's ethics of care: the heroes are good because they care — Matt for Molly and Daphne, Bennet for Claire — while evil is the absence of care, though Bennet's authoritarian, family-only care shows that care itself must be both widened and restrained."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "confucius",
+    "socrates"
+   ],
+   "concepts": [
+    "care-ethics",
+    "confucian-filiality"
+   ],
+   "relation": "Explains the seemingly incomprehensible things Heroes characters do for family by sorting their motives into three theories of family obligation: universal justice (framed by Socrates confronting Euthyphro for prosecuting his own father), care ethics' partiality to loved ones, and Confucian role-based duty with its asymmetrical parent–child, husband–wife, and sibling obligations. Noah Bennet turns out to be Confucian in practice ('I'm your father, Claire Bear') despite his universalist Company rhetoric, Hiro defies Kaito's Confucianism for the greater good while Kaito still teaches him the sword because that is a father's role, Niki and Janice act from care while D.L. and Micah act from roles, Mohinder's duty is Confucian sonship to his dead father, and the Haitian kills his own brother Baron precisely because stopping him is his brotherly role."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "plato",
+    "machiavelli"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "noble-lie",
+    "utilitarianism",
+    "machiavelli-ends",
+    "ethics-of-lying"
+   ],
+   "relation": "First defines lying — distinguishing it from mere error (Angela believing Peter dead), from the Haitian's non-verbal memory-wipe deception, and from Hiro's silent staging of Ando's fake death — then tests moral theories against the show's liars. Kant's categorical imperative bans all lying but is abandoned when Sylar demands a friend's hiding place; utilitarianism vindicates Victoria Pratt's lie about the virus vial yet also licenses Linderman's .07% explosion and Plato's noble lie of the earthborn metals, which the chapter rejects. Machiavelli's advice that princes may lie to keep power is played out by 'President Sylar' in 'Five Years Gone,' and the chapter finally endorses Sissela Bok's presumption against lying — a public-reasoning procedure modeled by Bob Bishop and Mohinder before Monica's virus injection."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - CONTRIBUTORS.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - CHANDRA SURESH’S LIST.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - INDEX.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "special-relativity",
+   "name": "Special Relativity (space-time)",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Einstein's theory that space and time coordinates are relative to the observer's inertial frame while the speed of light is constant for all observers, unifying them in a four-dimensional space-time continuum.",
+   "why": "Chapter 21's central section uses Minkowski diagrams, worldlines, and light cones to show that Hiro's teleportation and time travel would require breaking the speed of light."
+  },
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "evolution-by-natural-selection",
+   "name": "Evolution by Natural Selection",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Darwin's theory that heritable variation plus differential survival and reproduction fixes advantageous traits in populations over time, the core of modern evolutionary biology.",
+   "why": "Chapter 21 argues Dr. Suresh's 'evolutionary jump' of superpowered humans is scientifically impossible because fit mutations cannot arise and spread through the population in a few hundred years."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "problem-of-other-minds",
+   "name": "The Problem of Other Minds",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The classic problem of how we can know that beings who behave as we do actually have conscious minds rather than being mindless look-alikes.",
+   "why": "Chapter 25 argues even Matt Parkman's telepathy cannot settle whether others have inner lives, and frames ordinary behavior-reading as 'mundane mind reading' justified only by pragmatic success."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "empathy-einfuhlung",
+   "name": "Empathy (Einfühlung)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The sharing or replication of another's feelings, running from Hume's sympathy to the phenomenological accounts of Scheler and Stein as the experience of foreign consciousness.",
+   "why": "Chapter 26 explains Peter Petrelli's empathic mimicry by testing rival theories of empathy — resonance, absorption, and duplication — and asks whether empathy can ground morality."
+  },
+  {
+   "ch": 30,
+   "type": "concept",
+   "suggested_slug": "ethics-of-lying",
+   "name": "The Ethics of Lying",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The debate over whether, when, and why deliberate deception is permissible, from Kant's absolute prohibition to Bok's presumption against lying and its public test of justification.",
+   "why": "Chapter 30's whole subject is when Heroes' heroes may lie, and its endorsed framework — Sissela Bok's presumption against lying — is a distinct position no existing taxonomy slug covers."
+  }
+ ]
+}

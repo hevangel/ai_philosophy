@@ -1,0 +1,194 @@
+{
+ "book": "093 - More Doctor Who and Philosophy - Regeneration Time",
+ "unit": "u150",
+ "chapters": [
+  {
+   "n": 28,
+   "file": "ch28 - 15. The Way of the Doctor Is Deception.md",
+   "kind": "chapter",
+   "philosophers": ["kant", "bentham", "plato", "williams", "aristotle", "nietzsche"],
+   "concepts": ["noble-lie", "categorical-imperative", "kant-respect", "utilitarianism"],
+   "relation": "Dodge takes Rule #1 - the Doctor lies - through the major theories of lying: Bernard Williams's definition (asserting what you believe false with intent to deceive), Aristotle's claim that all lies are base, Kant's categorical imperative and respect for persons (even the Vinvocci's shimmer disguises in 'The End of Time' abuse trust), and Bentham's pleasure-pain calculus, which condemns the faked death at Lake Silencio ('The Impossible Astronaut') for the grief it caused Amy and Rory yet rewards the greater happiness it made possible. Against the absolutists he sets Plato's Noble Lie from the Republic - the elite falsehood that keeps society functioning - as what the Doctor emulates by deceiving the universe into thinking him dead ('The Wedding of River Song'), and Nietzsche's point in Human, All Too Human that lying is ethically neutral when the pretense is sustainable, as when the Doctor hides the ganger-Amy switch from Rory ('The Almost People'). The upshot: the Doctor's lies are wrong in themselves but routinely justified by the good they do, which is why sometimes the hero lies."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 16. Divine Hatred—Dalek Beauty.md",
+   "kind": "chapter",
+   "philosophers": ["kant", "plato", "nietzsche", "hume", "schopenhauer"],
+   "concepts": ["plato-forms", "kant-aesthetics"],
+   "relation": "Bowman uses 'Asylum of the Daleks' - where the Daleks preserve broken, insane Daleks as embodiments of 'divine hatred' - to test whether beauty is objective or subjective. Plato's Theory of Forms explains how hatred could be beautiful (the more a thing instantiates its Form, the more beautiful it is), while the Hume-Kant antinomy of beauty, Kant's disinterested judgment of taste (illustrated by Rory and Amy's invested judgments of each other versus the TARDIS's detached 'pretty'), and Nietzsche's account of beauty leading to divinity frame the Dalek hive mind's shared conceptual scheme. Since Kant says beauty is a symbol of morality, the Asylum-as-museum reveals Dalek values - which is why human-on-the-inside Clara is enshrined under maximum security, and why the Doctor is sickened to learn that he is himself an object of Dalek beauty."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 17. The Friends of a Time Lord.md",
+   "kind": "chapter",
+   "philosophers": ["aristotle"],
+   "concepts": ["aristotle-friendship", "aristotle-virtue-ethics", "aristotle-eudaimonia"],
+   "relation": "Littmann applies Aristotle's Nicomachean Ethics taxonomy of friendship - pleasure, usefulness, and mutual goodness - to fifty years of Doctor-companion pairings, from the Hartnell Doctor's glee touring Vortis with Ian to New Series companions chosen as friends who routinely save the day, from Barbara's Dalek revolt to Clara saving every incarnation of the Doctor. He argues Aristotle would still judge the Doctor's friendships defective: they are short-lived, unequal in station, intellect, and morality, and the companions cannot know him well enough (not even his name) for the perfect friendship of the good. Littmann then corrects Aristotle on two counts: friends need not be moral experts to serve as moral critics (Rose in 'Dalek,' Amy in 'A Town Called Mercy'), and the Doctor's favoritism toward his companions - risking worlds to save them, as when Rory weighs Amy's life against the universe in 'The Big Bang' - shows that preferring friends over strangers is itself his most frequent moral failing."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 18. Sex for Dummies, Humans, and Time Lords.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["applied-ethics"],
+   "relation": "Lewis argues the New Series' sexual revolution (Captain Jack, Vastra and Jenny, the Doctor's multiple marriages) teaches that any relationship between rational, autonomous, consenting adults is morally permissible. Building on John Corvino's defense of homosexual sex, he dismantles the 'unnatural means immoral' argument definition by definition (unusual, not practiced by animals, contrary to innate desire, contrary to natural purpose or divine intent, disgusting), rejects the empirical slippery slope as a fallacy, and uses Whoniverse cases - young Amelia Pond's non-autonomous choice to leave with the Doctor, the Slitheen pig as mere causal agent, manipulation that would undermine informed consent - to show that only autonomy grounds sexual morality. Objections to same-sex or human-alien relationships turn out to confuse the aesthetic ('ugly') with the ethical ('wrong')."
+  },
+  {
+   "n": 32,
+   "file": "ch32 - 19. The Doctor is a (Wo)Man!.md",
+   "kind": "chapter",
+   "philosophers": ["beauvoir", "butler"],
+   "concepts": ["becoming-woman", "gender-performativity"],
+   "relation": "Kellen asks whether the Doctor could regenerate as a woman, marshaling the canon evidence (the Corsair's lives as both sexes, the Sisterhood of Karn offering 'man or woman,' Missy) to show biology poses no obstacle - clownfish and rare human sex changes make the point mundane. Against Peter Davison's claim that a female Doctor 'doesn't work,' he deploys Simone de Beauvoir's 'one is not born, but rather becomes, a woman' and Judith Butler's account in Gender Trouble of gender as a stylized repetition of acts performed over time, arguing the Doctor already performs care-ethicist, 'feminine' roles and could just as well perform female ones. Since regeneration routinely transforms personality without ending the Doctor, the only remaining objection is bias toward a supposedly male core identity."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Serial 4 Gallifrey Falls No More.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Terrifying, and Mad, and Bloody Brilliant.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Hennessee's interlude is a fan memoir told in cuts between 1984, 1994, 2004, and 2014: discovering Tom Baker's Doctor at twelve, dropping fandom as a New York undergraduate, and finding community again through a bookstore corkboard meeting and the 2005 revival. It shows rather than argues that Doctor Who is life-shaping - informing its fan's morality, tastes, friendships, and speculations about time, free will, and the self - while asking whether the boy of 1984 would recognize the man of 2014. It closes by refusing to separate the show from life: both are 'terrifying, and mad, and bloody brilliant.'"
+  },
+  {
+   "n": 35,
+   "file": "ch35 - 20. The Doctor Lies.md",
+   "kind": "chapter",
+   "philosophers": ["kant", "augustine", "plato", "sidgwick"],
+   "concepts": ["noble-lie", "categorical-imperative", "moral-psychology"],
+   "relation": "McCain distinguishes lying (directly asserting what you believe false to make another believe it) from mere deception - the Sixth Doctor feeding Jamie false information for Sontaran Stike to overhear in 'The Two Doctors' deceives without lying - then asks whether the Doctor can lie to himself, answering that incarnations can lie to later selves (the Eleventh's suspicious 'I have absolutely no idea' about the children on Gallifrey in 'The Day of the Doctor') but a current self cannot. The stakes are moral: against Kant's and Augustine's absolute prohibition of lying, Plato's Republic and Sidgwick's Methods of Ethics defend noble lies, and Robert C. Solomon's view of self-deception as coping with the unbearable suggests that if the Doctor did engineer himself to forget the Time War genocide - as Ten and Wilf did to Donna in 'Journey's End' - it might be a good man's forgivable way of going on."
+  },
+  {
+   "n": 36,
+   "file": "ch36 - 21. Forgetting Is the Human Superpower.md",
+   "kind": "chapter",
+   "philosophers": ["freud"],
+   "concepts": ["freud-unconscious", "personal-identity"],
+   "relation": "Seymour reads the War-through-Eleventh Doctors through Freud's notion of Afterwardness (Nachtraeglichkeit) from Studies on Hysteria - memory is continually reforged as new information recontextualizes the past - so that learning Gallifrey was saved in 'The Day of the Doctor' changes not the Doctor but his memories of himself, turning penance into hope. She traces each Self constructed from Time War memory: Nine's guilt exploited by the Gelth and voiced in 'Boom Town' ('Only a killer would know that'), Ten's hubris once he forgets what he is capable of ('Time Lord Victorious' in 'The Waters of Mars'), and Eleven's danger when the memory fades and companions must remind him who he is ('A Town Called Mercy'). The chapter concludes the Doctor must keep the memory of his regret to keep being the Doctor - Clara's 'What you've always done. Be a doctor.'"
+  },
+  {
+   "n": 37,
+   "file": "ch37 - 22. The Mnemotechnics of Amy Pond.md",
+   "kind": "chapter",
+   "philosophers": ["nietzsche"],
+   "concepts": [],
+   "relation": "Holdier explains how Amy remembering the Doctor back into existence at her wedding ('The Big Bang') could work, combining Nietzsche's mnemotechnics from the second essay of On the Genealogy of Morals - only that which never ceases to hurt stays in the memory - with J.R.R. Tolkien's 'On Fairy-Stories,' whose internally coherent secondary worlds sustain cultural memory and 'recover' a clear view of reality. On this reading the Doctor deliberately plants his painful loss in Amy's subconscious wrapped in a fairy tale; Amy is the ideal medium because she lacked the willpower to hold onto Rory when the cracks rewrote her ('Cold Blood'), yet her fairy-tale-soaked childhood beside the Crack in her wall let the Doctor's last story germinate into the words that returned the TARDIS to the universe."
+  },
+  {
+   "n": 38,
+   "file": "ch38 - 23. Failing and Forgiving in the Name of the Doctor.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": ["forgiveness", "personal-identity", "moral-psychology"],
+   "relation": "Hoffman reads the Doctor's banishment of the War Doctor ('Doctor no more,' his actions 'not done in the name of the Doctor') as a failure of self-forgiveness driven by what Jeffrie Murphy calls the moral hatred of self and Robin Dillon the 'self-as-feared,' rather than mere guilt over the genocide of Gallifrey. Drawing on the self-forgiveness literature (Blustein, Griswold, Westlund), he argues that 'The Day of the Doctor' shows forgiveness neither excuses nor extinguishes blame: the Tenth and Eleventh Doctors forgive their past self by recognizing he shared their Doctorly motives and was forced into an impossible choice. Clara's outsider faith ('be a doctor') supplies the third-party affirmation that dissolves the identity-destroying dilemma and frees the Doctor to find the third option that saves Gallifrey."
+  },
+  {
+   "n": 39,
+   "file": "ch39 - 24. Who’s Duty to Whom.md",
+   "kind": "chapter",
+   "philosophers": ["kant", "hobbes", "hume"],
+   "concepts": ["categorical-imperative", "hume-sentimentalism", "social-contract", "state-of-nature"],
+   "relation": "Dawson asks why the Doctor sides with humans and humanoids against rational non-humanoids, testing Kant first: a logic-grounded categorical morality can count the Daleks as immoral rather than amoral (universalized slavery is incoherent), but pure reason cannot motivate Daleks or the Master, and Kant's theory absurdly condemns the Doctor's lies and his theft of the TARDIS. Hobbesian psychological egoism and the social contract fare worse - the Daleks are no co-signatories, and self-sacrifices from Katarina to the Doctor's seemingly final years on Trenzalore resist the egoist's retelling - so the chapter lands with Hume: sympathy and benevolence found morality on feeling, which explains and partly excuses the Doctor's parochial partiality for beings who resemble him, making him 'at least half-Humean.'"
+  },
+  {
+   "n": 40,
+   "file": "ch40 - 25. Meeting Up with Your Self.md",
+   "kind": "chapter",
+   "philosophers": ["deleuze", "locke"],
+   "concepts": ["locke-personal-identity", "existentialism"],
+   "relation": "Sylvia and Stevens use Doctor Who's crossover episodes to complicate the Self-Other distinction: existentially (via Yalom and Maslow), the Doctor's name-promise - 'never cruel or cowardly... never give up, never give in' - supplies meaning, while Ten and Eleven must stop treating the War Doctor as Other. Deleuze's account of learning through the shock of encountering the Other structures the reading of 'The Girl Who Waited,' where young Amy and her thirty-six-years-older self form an assemblage in which the older Amy relearns her love for Rory and chooses annihilation for his sake. Locke's memory theory of personal identity frames the puzzle that a version of you with different memories may be an Other, which the authors extend to confronting our recorded past selves on social media and learning empathy from the shock."
+  },
+  {
+   "n": 41,
+   "file": "ch41 - 26. Time Lords Are Us.md",
+   "kind": "chapter",
+   "philosophers": ["merleau-ponty"],
+   "concepts": ["phenomenology", "embodiment"],
+   "relation": "Elder argues the 'back to front' love story of the Doctor and River Song - her past is his future, as at Lake Silencio - refutes both the objective 'river' model of time and the subjective 'song' model on which the mind assembles moments like notes into a flow. Following Merleau-Ponty, he grounds the experience of flow in pre-reflective embodied perception: Clara's walk around the TARDIS and her 'it's smaller on the outside' show a finite body gripping a multifaceted world, so that 'time is the subject and the subject is time.' Because temporalities, unlike private consciousnesses, can intertwine in a shared present, the Doctor and River can build a relationship out of each other's pasts and futures - and in this sense we are all Time Lords."
+  },
+  {
+   "n": 42,
+   "file": "ch42 - More Matrix of Time-Lord Bibliographic Sources.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 43,
+   "file": "ch43 - The Second Great Gallifreyan High Council.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 44,
+   "file": "ch44 - Higher-Order Logical Index for the Cyberman and Dalek in All of Us.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 31,
+   "type": "philosopher",
+   "suggested_slug": "john-corvino",
+   "name": "John Corvino",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Contemporary American philosopher known for his defense of the morality of homosexual sex, especially the essay 'Why Shouldn't Tommy and Jim Have Sex?' and the book Same Sex.",
+   "why": "Chapter 31 builds its entire case for Doctor Who's same-sex and human-alien relationships on Corvino's systematic demolition of 'unnatural means immoral' arguments."
+  },
+  {
+   "ch": 31,
+   "type": "concept",
+   "suggested_slug": "autonomy",
+   "name": "Personal Autonomy",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The capacity for competent, free, well-reasoned self-governance that makes a being a responsible moral agent whose choices deserve respect.",
+   "why": "Chapter 31 makes autonomy the sole ground of sexual morality - consensual relationships between autonomous agents are permissible - and uses it to explain why the child Amelia's choice, manipulation, and coercion are wrong; the only existing slug, kant-autonomy, wrongly attributes the chapter's generic, non-Kantian notion to Kant."
+  },
+  {
+   "ch": 37,
+   "type": "concept",
+   "suggested_slug": "mnemotechnics",
+   "name": "Mnemotechnics (memory burnt in by pain)",
+   "philosopher": "nietzsche",
+   "domain": "nineteenth-century",
+   "what": "Nietzsche's account in On the Genealogy of Morals II of how pain engraves promises and duties into memory, since only the strongest can remember by an act of pure will while others need 'that which never ceases to hurt.'",
+   "why": "Chapter 37 is built on mnemotechnics: the Doctor plants his painful loss in Amy's subconscious so that she can remember him back into existence, and no existing Nietzsche slug covers this Genealogy-II doctrine."
+  },
+  {
+   "ch": 37,
+   "type": "philosopher",
+   "suggested_slug": "tolkien",
+   "name": "J.R.R. Tolkien",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Fantasy author and philologist whose essay 'On Fairy-Stories' theorizes fairy tales as internally coherent secondary worlds that create 'secondary belief' and let readers 'recover' a clear view of reality.",
+   "why": "Chapter 37 relies on Tolkien's theory of fairy stories as its second pillar, explaining how the Doctor's bedtime story preserved him in Amy's memory and returned him to the universe."
+  },
+  {
+   "ch": 38,
+   "type": "concept",
+   "suggested_slug": "self-forgiveness",
+   "name": "Self-Forgiveness",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Forgiving oneself for one's own wrongdoing, treated in the literature (Murphy, Dillon, Griswold, Westlund) as a distinct phenomenon with its own conditions, such as ending self-alienation without excusing the act.",
+   "why": "Chapter 38's central topic is specifically self-forgiveness - the Doctor forgiving his own past incarnation - which the generic forgiveness slug does not capture, and it engages a body of self-forgiveness literature the taxonomy lacks entirely."
+  }
+ ]
+}

@@ -1,0 +1,482 @@
+{
+ "book": "016 - Hip-Hop and Philosophy - Rhyme 2 Reason",
+ "unit": "u024",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - Hip-Hop and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Epigraph.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Popular Culture and Philosophy™.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Foreword.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "plato",
+    "william-james"
+   ],
+   "concepts": [
+    "aristotle-practical-wisdom",
+    "unexamined-life"
+   ],
+   "relation": "Cornel West argues that Plato's dialogues invented philosophy as a Socratic genre of cross-examination and bold frank speech (parrhesia) about ordinary life, and that hip-hop music - like the spirituals, blues, and jazz - enacts that same parrhesia against conventional morality and entrenched power. He claims reading hip hop philosophically demands metaphilosophical subtlety, showing how paideia, phronesis, and parrhesia operate in the work of cultural producers under free-market fundamentalism and authoritarianism. Because the racial dimension of hip hop is inescapable, he says philosophers must break their discipline's silence on race and music (neglected figures like Du Bois and Alain Locke alongside Aristotle, Kant, and Rorty), closing with Cicero's Socrates who turned philosophy from the heavens to earth and William James's pragmatism that took it from the academy to the streets."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Shout Outs.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - From Rhyme to Reason This Shit Ain’t Easy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "plato"
+   ],
+   "concepts": [
+    "socratic-method",
+    "unexamined-life",
+    "philosopher-king"
+   ],
+   "relation": "The editors' introduction argues that hip hop and philosophy are both street-born examinations of life in pursuit of wisdom: Socrates's elenchus is likened to MC lyrical battles and call-and-response (his interrogations compared to Rakim's technique, his execution for corrupting the youth to the fate of a controversial rapper), while Plato's philosopher-king parallels Kurtis Blow and Run-D.M.C. claiming thrones. After a Bronx hip-hop history sketch (Kool Herc, BDP's \"The Bridge is Over\"), they frame the volume around hip hop's suppressed fifth element of knowledge and preview its pairings: Aquinas and Rakim on God, Plato and Lauryn Hill on love, Sartre and Lil' Kim's gaze, Kant and Ice Cube on punishment, Hegel and Nas, Hobbes and Dead Prez, Mill and Chappelle on epithets. Record companies don't own hip hop and universities don't own philosophy, they conclude - both belong to whoever understands, loves, and respects them."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Disk 1 - Da Mysteries God, Love, and Knowledge.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Ain’t No Mystery.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aquinas",
+    "socrates",
+    "descartes"
+   ],
+   "concepts": [],
+   "relation": "Framed by Rakim's \"The Mystery\" and Five-Percenter knowledge-of-self, Darby asks who God is and attacks divine omnipotence with the \"paradox of the blunt\" and \"paradox of the glock\" - can God roll a blunt so strong even he can't hit it? - then defends Aquinas's Summa Theologica restriction of God's power to the logically possible, against Descartes's claim that God can do even the impossible. He presses further with Tupac's jailbreak paradox from a Vibe interview (\"If you God, then pop the fuckin' gate\") and Aquinas's paradox of sin, resolving them via Samuel Clarke's natural/moral contradiction distinction and Socrates's Crito arguments for why a perfectly good person refuses escape and accepts the state's verdict."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Mysteries of Love Revealed.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "platonic-love",
+    "philosophy-of-love"
+   ],
+   "relation": "Shelby stages Plato's Symposium as a cipher of raps on love to answer hip-hop \"love haters\" like Jay-Z (\"I got ninety-nine problems but a bitch ain't one\"): Pausanias's vulgar versus spiritual love, Aristophanes's myth of split halves read through Method Man and Mary J. Blige's \"You're All I Need\" and Biggie's \"Me & My Bitch\", and Socrates's ladder from beautiful bodies to Beauty itself, with Lauryn Hill's \"Zion\" as birth of beautiful offspring. He objects that Socrates makes the beloved a replaceable means to the good, and argues that Alcibiades's drunken confession supplies what is missing - love's possession, exclusivity, reciprocity, and drama (The Roots: \"lies come in, that's where the drama begins\") - concluding that love ain't just 'bout da booty but demands a vulnerability the love hater rightly fears."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Proper Use of the Mind.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes"
+   ],
+   "concepts": [],
+   "relation": "Green reads Del tha Funkee Homosapien's line on Gorillaz's \"Clint Eastwood\" (\"you don't see with your eye, you perceive with your mind\") alongside Descartes's Meditations window passage - judging men in the square from hats and coats - to argue against the sense-data picture that perception is mind-guided, interest-driven interpretation rather than passive reception. He then deploys the \"new\" adaptive unconscious (the cocktail party effect, the love-on-the-bridge misattribution of arousal, unconscious racism in housing audits, lottery winners no happier - \"mo money, mo problems\") to show we are strangers to ourselves, so the proper use of the mind means standing back from one's patterns, as 2Pac's \"Letter 2 My Unborn\" and KRS-One's \"The Mind\" urge."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Disk 2 - What’s Beef Ruminations on Violence.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Hip Hop and “This Makin’ Dollars Shit”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel",
+    "dubois",
+    "marx"
+   ],
+   "concepts": [
+    "hegel-recognition",
+    "hegel-master-slave",
+    "class-struggle",
+    "hegel-dialectic"
+   ],
+   "relation": "Pittman argues the rap battle - UTFO's \"Roxanne, Roxanne\" answered by Roxanne Shanté's \"Roxanne's Revenge\", Run-D.M.C.'s \"Sucker MC's\", Jay-Z's \"Takeover\" versus Nas's \"Ether\" - is hip hop's enactment of Hegel's master-slave struggle for recognition, where self-consciousness proves itself only through an all-or-nothing contest ending in domination rather than destruction. Gangsta rap (N.W.A's \"Gangsta Gangsta\", Ice Cube's fantasy raid on the suburbs) radicalizes the battle into a collective demand that America recognize black urban conditions, and the chapter turns to Du Bois's race-centered and Marx's class-centered revisions of Hegel's history to read \"this makin' dollars shit\" - Wu-Tang's \"C.R.E.A.M.\", Talib Kweli on capitalism and crack, Mos Def's \"The Rape Over\" - as the dialectic's capture of the cipher by corporate beef."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - (Positive) Violence of Self-Discipline.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "dewey",
+    "william-james"
+   ],
+   "concepts": [
+    "pragmatism",
+    "catharsis"
+   ],
+   "relation": "Shusterman opens with Plato and Socrates' ancient quarrel against poetry - banning the artists from the Republic, much as rap is demonized today - and rejects Aristotle's catharsis strategy of quarantining art from life, applying pragmatist aesthetics (Dewey, James, and the Du Bois-Alain Locke lineage) to argue that rap's aesthetic violence of beat, scratch, and \"Bring the Noise\" is life-enhancing force, with reality rap's metaphysics of mix and flow against Plato's changeless Forms. Reading KRS-One's \"Stop the Violence\" movement born from Scott LaRock's killing, Guru's \"Choice of Weapons\" (a mic or a gun), and Jeru the Damaja's command to \"kill in thyself\", he concludes rap overcomes bad violence not by abolishing violence but by channeling it into lyrical battle and the positive violence of self-discipline."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Resistance Raps.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes"
+   ],
+   "concepts": [
+    "social-contract",
+    "state-of-nature"
+   ],
+   "relation": "James reads hardcore and underground rap - N.W.A's \"F*** Tha Police\", Ice-T's \"Cop Killer\", Dead Prez's \"Police State\" sampling Omali Yeshitela, Tupac's \"Dear Mama\" with its Panther 21/Cointelpro footage, Michael Franti's \"Crime to Be Broke in America\" - through Hobbes's Leviathan to argue that for criminalized black communities the social contract never held, so policing is not aberrational protection but the foundation of a police state. She distinguishes rebellion from revolution, argues capital converts the underground's insurgence into marketable alienation, faults hardcore's misogyny and policing of women and queers as counter-revolutionary, and concludes that a Leviathan which is the law cannot cohabit with democracy."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Disk 3 - That’s How I’m Livin’ Authenticity, Blackness, and Sexuality.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - No Love (for Hip Hop), No problem.md",
+   "kind": "chapter",
+   "philosophers": [
+    "cornel-west"
+   ],
+   "concepts": [
+    "communitarianism",
+    "culture-industry"
+   ],
+   "relation": "Taylor starts from his own lack of passion for hip hop as a black man and the \"Eminem enigma\" of the respected white rapper to ask whether hip hop belongs to black people by nature, using Dre's sellout dilemma in Brown Sugar to examine the communitarian language of roots, authenticity, and alienation. Following Cornel West's \"racialist reasoning\", he argues classical racialism is false, and that even critical racialism - races as socially constructed groups - plus the survival, duty, and cultural-preservation arguments (hip hop as \"the black CNN\", the ecosystem argument for reclaiming hip hop from the culture industry) fail to obligate blacks to embrace it, so no love for hip hop, no problem."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - The Possibility of Authenticity The Life We Choose.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "butler",
+    "hooks"
+   ],
+   "concepts": [
+    "the-look",
+    "gender-performativity",
+    "objectification",
+    "authenticity"
+   ],
+   "relation": "Gines reads hip hop's sexual imagery through Black feminist thought - Tupac's feud with C. Delores Tucker over \"Wonder Why They Call U Bitch\", Patricia Hill Collins's controlling images of the jezebel and welfare mother, bell hooks on the slave-rooted devaluation of Black womanhood, Nelly's \"Tip Drill\" video with a credit card swiped between a woman's buttocks, Jay-Z's \"Big Pimpin'\". Applying Sartre's keyhole gaze from Being and Nothingness and his Anti-Semite and Jew point about hierarchical societies, she argues the gaze under racism and sexism is non-reciprocal - women are seen without seeing - and that Lil' Kim's reversal of it reinforces rather than subverts the stereotypes; Butler's gender performativity then frames the closing Sartrean choice of authenticity or inauthenticity, Nas's \"I Can\" and \"the life we choose.\""
+  },
+  {
+   "n": 21,
+   "file": "ch21 - The Hunger for More Than Serious Play.md",
+   "kind": "chapter",
+   "philosophers": [
+    "fanon",
+    "nietzsche",
+    "rousseau",
+    "dubois"
+   ],
+   "concepts": [
+    "black-skin-white-masks"
+   ],
+   "relation": "Gordon argues hip hop is in practice black adolescent culture wrongly elevated to authentic blackness, and reads the problem through Fanon's Black Skin, White Masks: the white world's sociogenic construction le nègre denies black adulthood, freezing black people in perpetual childhood so there is no coherent black adult. Using Nietzsche's Birth of Tragedy account of health as creative confrontation with suffering, Rousseau's critique of modernity's underside, and Du Bois on being made \"problem people\", he separates hip hop's postmodern unruly form (off-key singing, beat over song) from its often conventional content (Dead Prez's nostalgic revolutionary imagery), and finds mature alternatives in the Philly sound - Me'Shell Ndegeocello, Angie Stone, the Roots - whose adult play knows death, the hunger for more than serious play."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Disk 4 - Word Up! Language, Meaning, and Ethics.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Hip-Hop Lyrics No Black CNN and No Art of Storytelling.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Thompson pits Chuck D's \"black CNN\" communicative-message model of lyrical meaning - lyrics tell truths rooted in the lyricist's real life - against Young Buck's narrative-story model - lyrics tell as-if truths from adopted personae like Slim Shady, Snoop Dogg, and Lil' Kim. Working through Kelis's \"Milkshake\" via Jerrold Levinson's theory of what an artwork says, Eminem's \"Stan\", the Ja Rule versus 50 Cent beef, Mario Winans's \"bull shoes\", Lil' Flip's freestyling, and Lauryn Hill's Miseducation persona-shuttling, he argues no synthesis survives because intentions split across insider and outsider audiences: lyrical meaning teeters on personae that remain genuine extensions of lived lives, so hip hop is neither black CNN nor pure storytelling, and that undecidability is what keeps listeners involved."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Check Out Time.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "kant",
+    "hume"
+   ],
+   "concepts": [
+    "harm-principle",
+    "kingdom-of-ends",
+    "utilitarianism"
+   ],
+   "relation": "McGrath and Tilahun ask whether hip hop is bad for women, setting protest and sex-positive tracks (Tupac's \"Brenda's Got a Baby\", Missy's \"One Minute Man\", Queen Latifah's \"Ladies First\", Ms. Dynamite) against endorsements of violence (N.W.A's \"One Less Bitch\", Snoop's \"Can You Control Yo Ho?\", 50 Cent's \"P.I.M.P\"). They apply Mill's harm principle - offend yes, harm no - Hume's counterfactual analysis of causation (the Derek Fisher shot case) to show that whether lyrics cause violence is an unsettled empirical question, Austin and Rae Langton's speech-act theory to argue rappers' cultural authority may let pimp lyrics subordinate women in a way pornography cannot, and Kant's kingdom of ends to charge misogynist lyrics with treating women as mere means."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - Final Skit Paris’s Field Nigga Boogie.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill"
+   ],
+   "concepts": [
+    "harm-principle"
+   ],
+   "relation": "Corlett evaluates the ethics of \"bitch\" and \"nigga\" in hip hop through Dave Chappelle's comedy, using the use-mention distinction and speaker intention to argue Chappelle's gender-neutral, affectionate, equivocating uses (\"now that's a nigger who's one crazy nigger\", the blind Black Klansman of \"Frontline: Black KKK\", \"Reparations 2003\") are racial rather than racist language. Invoking Mill's harm principle - words should be legally barred only when they harm, as with the KKK cross-burning example, not merely offend - he defends in-group reclamation, then extends the analysis to Paris's \"Field Nigga Boogie\" and \"AWOL\", whose epithets carry a progressive, Malcolm X-style challenge to unjust wars and state evil."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Disk 5 - Fight the Power Political Philosophy’n the Hood.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Post-Civil Rights Music.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "mills",
+    "cornel-west"
+   ],
+   "concepts": [
+    "social-contract",
+    "racial-contract",
+    "locke-natural-rights"
+   ],
+   "relation": "Lawson argues political rap - Grandmaster Flash's \"The Message\", Public Enemy's \"911 Is a Joke\", Tupac's \"Trapped\", Dead Prez's \"They Schools\", Naughty By Nature, Ice Cube's \"I Wanna Kill Sam\" - challenges liberal political philosophy by claiming the social contract between blacks and the United States is broken: using Locke's Second Treatise account of state protection of life and property, he contends the state's failure of economic and physical protection voids blacks' political obligations. Drawing on Cornel West's diagnosis of black nihilism and Charles Mills's racial contract - a contract constructed for white supremacy - he reads conscious hip hop as post-civil-rights music continuing the black freedom struggle in a new voice, with KRS-One asking \"Who protects us from you?\""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Reality versus Revolution.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "rawls"
+   ],
+   "concepts": [
+    "state-of-nature",
+    "veil-of-ignorance",
+    "communitarianism",
+    "social-contract"
+   ],
+   "relation": "McPherson argues political rap has never been politically revolutionary, sorting it into three schools: the amoral \"gangsta Hobbes\" ethic (Mobb Deep's \"Survival of the Fittest\", 50 Cent's \"get rich or die tryin'\") that sees the hood as Hobbes's state of nature where no social contract with blacks ever existed; Afrocentric communitarianism, split between nationalist separatists (Brand Nubian, X-Clan, Dead Prez) and the more cosmopolitan Native Tongues (De La Soul, A Tribe Called Quest); and a radical liberalism closer to Rawls than its adherents admit. Against Chuck D's \"What's a smilin' face when the whole state's racist?\", he argues Rawls's original position, veil of ignorance, and difference principle - applied with real-world knowledge of racism - support rather than oppose Public Enemy's demands for racial justice."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Prison Ghetto.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "bentham",
+    "foucault"
+   ],
+   "concepts": [
+    "punishment-theory",
+    "discipline"
+   ],
+   "relation": "Kelly takes gangsta rap's payback attitude (50 Cent, Nas, Dr. Dre, OutKast) as the starting point for the philosophy of punishment: rappers doubt retribution because police, courts, and prisons lack legitimate authority over them - Public Enemy's \"Black Steel in the Hour of Chaos\" rejects the government's letter. Weighing Kantian and Nozickian retributivism against Bentham's consequentialist rationales, she argues desert, proportionality, and authority all fail in a racist system - racial profiling, the crack-versus-powder sentencing disparity, Wacquant's prison-ghetto thesis, Goodie Mob's \"Cell Therapy\", Dead Prez's \"Behind Enemy Lines\", KRS-One's officer-overseer analogy - leaving incapacitation as racialized social control rather than justice."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Not Just a Black Thing.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke"
+   ],
+   "concepts": [
+    "locke-natural-rights"
+   ],
+   "relation": "Roberts uses hip hop's reparations consciousness - Chuck D's \"Kill Em Live\" and \"Who Stole the Soul?\", KRS-One's \"Sound of Da Police\" overseer-officer analogy, Ice Cube's \"F*** Tha Police\", the Amadou Diallo shooting and its mural, Spike Lee's Do the Right Thing, Chappelle's \"Reparations 2003\" - to introduce rectificatory justice: punishment of perpetrators, compensation for victims' unjust losses, and apology that reaffirms victims' moral standing. Arguing that ideal theory reflects the experience of the privileged and neglects injustice, and that \"forty acres and a mule\" was never rectification (hence H.R. 40), he closes with Ice-T's \"Straight Up Nigga\" and the Hawaiian Kingdom apology to show rectifying injustice is \"not just a black thing\"."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - After . . . Word!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "cornel-west"
+   ],
+   "concepts": [
+    "power-knowledge",
+    "hegemony",
+    "public-sphere"
+   ],
+   "relation": "Marcyliena Morgan's afterword traces hip-hop battling to the philosophical houses and crews of Saturday kung-fu cinema (Wu-Tang's obsession included), reading hip hop's South Bronx birth through Victor Turner's ritual threshold state and defining \"flow\" as conscious movement within chaos to create balance and collective identity. The mantra represent-recognize-come correct, shout outs as a system of indexicality, and hip hop's counterpublic sphere function, she argues, to expose hegemony and contest Foucault's technologies of power - answering Cornel West's \"ignoble paradox of modernity\" - so that hip hop battles through the theoretical houses of Foucault, Bakhtin, Butler, Gramsci, and Habermas, where \"there is no such thing as a dead philosopher - just one that has not been resurrected yet.\""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Beats & Rhymes!.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Crew.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - The Hip-Hop Head Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - ALSO FROM OPEN COURT.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Hip-Hop and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "omnipotence-paradox",
+   "name": "The Omnipotence Paradox",
+   "philosopher": "aquinas",
+   "domain": "religion-meaning",
+   "what": "The puzzle of whether an omnipotent being can do things like create a stone it cannot lift, standardly answered by restricting divine power to the logically possible.",
+   "why": "Chapter 11's entire argument is built on this puzzle - the paradox of the blunt, the paradox of the glock, and Tupac's jailbreak paradox - which taxonomy lacks under Aquinas or otherwise."
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "adaptive-unconscious",
+   "name": "The Adaptive Unconscious",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The modern psychological picture of fast, automatic, goal-directed mental processing outside awareness - unlike Freud's repressive unconscious.",
+   "why": "Chapter 13 explicitly contrasts this 'new unconscious' with Freud's to explain why we are strangers to ourselves (misattributed arousal, implicit racism, facial misjudgment, wealth and happiness)."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "catharsis",
+   "name": "Catharsis (purgation through art)",
+   "philosopher": "aristotle",
+   "domain": "ancient",
+   "what": "Aristotle's view that art lets dangerous emotions be safely enjoyed and purged within a fictional realm kept apart from real life.",
+   "why": "Chapter 16 presents catharsis as the standard aesthetic solution to violent art that pragmatist rap aesthetics, insisting art is continuous with life, must reject."
+  },
+  {
+   "ch": 19,
+   "type": "concept",
+   "suggested_slug": "racial-construction",
+   "name": "Race as Social Construction (critical racialism)",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "The view that races are not natural kinds but groups created by assigning social meaning to bodies and ancestry, surviving the collapse of biological racialism.",
+   "why": "Chapter 19's three-step dismantling of racialist reasoning about who hip hop belongs to turns entirely on distinguishing classical from critical racialism, a concept taxonomy lacks."
+  },
+  {
+   "ch": 23,
+   "type": "philosopher",
+   "suggested_slug": "jerrold-levinson",
+   "name": "Jerrold Levinson",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Contemporary philosopher of art whose intentionalist proposal holds that a work says what it would be reasonable to impute to its artist as a view significantly held and concerned to be conveyed.",
+   "why": "Chapter 23 adopts Levinson's proposal as its main analytical tool for deciding what Kelis, Lil' Kim, and Eminem's lyrics mean across insider and outsider audiences."
+  },
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "speech-acts",
+   "name": "Speech Acts (illocutionary acts)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Austin's insight that words do things (marry, arrest, subordinate), extended by Rae Langton to the claim that authoritative pornography and speech can rank and subordinate women.",
+   "why": "Chapter 24 uses illocutionary acts and Langton's authority conditions to argue that pimp rap may subordinate women more effectively than pornography can."
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "use-mention-distinction",
+   "name": "The Use-Mention Distinction",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The philosophy-of-language distinction between using a word to refer to a person or group and merely mentioning the word itself.",
+   "why": "Chapter 25's defense of Chappelle's uses of 'bitch' and 'nigga' hinges on whether epithets are used of persons or mentioned, quoted, or reconstituted as endearments."
+  },
+  {
+   "ch": 30,
+   "type": "concept",
+   "suggested_slug": "rectificatory-justice",
+   "name": "Rectificatory Justice (reparations)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The branch of justice concerned with remedying wrongdoing through punishment of perpetrators, compensation of victims, and apology.",
+   "why": "Chapter 30 is wholly organized around rectifying the injustices of slavery via compensation, apology, and 'forty acres and a mule' - a category it says Western justice theory has neglected."
+  }
+ ]
+}

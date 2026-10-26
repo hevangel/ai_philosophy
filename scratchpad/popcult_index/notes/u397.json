@@ -1,0 +1,132 @@
+{
+  "book": "279 - Christmas – Philosophy for Everyone - Better Than a Lump of Coal",
+  "unit": "u397",
+  "chapters": [
+    {
+      "n": 23,
+      "file": "ch23 - Christmas Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "marx", "locke", "nozick", "rawls"],
+      "concepts": ["kant-humanity-formula", "utilitarianism", "marx-ideology", "veil-of-ignorance"],
+      "relation": "Brophy prosecutes Santa for 'elfploitation,' treating the North Pole workshop like an overseas sweatshop (with Willy Wonka's Oompa-Loompahs and Rowling's house-elfs as parallels) and dismantling a Nozickian entitlement-theory defense: the elfs' 'consent' is coerced by their bleak alternatives, so absolute property rights fail just as Locke's desert water-hole owner must grant access. He diagnoses the elfs' apparent contentment as Marxian false consciousness, invokes Kant's humanity formula to condemn using rational elfs as mere means, and rejects the utilitarian 'greatest happiness' justification via Le Guin's Omelas and Rawls's veil of ignorance. He concludes with a call to boycott Christmas until Santa's labor practices become transparent."
+    },
+    {
+      "n": 24,
+      "file": "ch24 - Christmas Philosophy for Everyone.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 25,
+      "file": "ch25 - Christmas Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "william-james", "plato", "socrates"],
+      "concepts": ["noble-lie", "will-to-believe", "socratic-method"],
+      "relation": "Johnson argues that the Santa Claus lie is immoral and should be abandoned, giving three reasons: it is deceptive lying (Kant's absolute prohibition is too strong, but the lie lacks life-saving justification and functions as a Platonic 'noble lie' no more noble than a cult leader's); Santa robs parents of credit and warps children's moral development and trust, illustrated by anguished 'finding out' stories and Virginia O'Hanlon's letter; and it damages credulity, invoking Clifford's 'Ethics of Belief' against belief on insufficient evidence while James's 'Will to Believe' cannot rescue Santa since evidence against him is overwhelming. He recommends revealing the truth early, even via a Socratic-Method questioning game."
+    },
+    {
+      "n": 26,
+      "file": "ch26 - Christmas Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": ["plato", "aristotle", "kant", "mill"],
+      "concepts": ["virtue-ethics", "deontology", "utilitarianism"],
+      "relation": "Gavrielides argues that going along with the Santa custom (leaving cookies, filling stockings, providing 'evidence') genuinely is lying, but that it is not wrong. She tests three ethical frameworks: a Kantian deontological analysis (with the 'murderer at the door' case) makes the lie at best 'wrong but permissible,' failing to capture parents' intuition of innocence; a Millian utilitarian analysis reduces character to a mere tool for good action; only virtue ethics, grounded in Plato's Republic account of edifying storytelling and Aristotelian character formation, captures why Santa stories are good — they cultivate kindness, charity, and self-reflection, and the myth is self-destructing as children's critical thought naturally dismantles it."
+    },
+    {
+      "n": 27,
+      "file": "ch27 - Christmas Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": ["nietzsche"],
+      "concepts": ["death-of-god"],
+      "relation": "Hales uses Nietzsche's verdict that truth matters less than a myth's usefulness (The Gay Science, The Anti-Christ) to argue Santa Claus is a truer exemplar of Christmas than Jesus. He traces Nietzsche's account of God's degeneration from a proud tribal mascot like Yahweh into a trivialized 'domestic servant,' and the 'death of God' as belief becoming useless. Documenting Christmas's commercial, pagan origins (Sol Invictus, Saturnalia, Mithras on December 25), he casts Santa as a practical, this-worldly demigod propped up by movies and NORAD — a giver who, unlike the credit-demanding Christian God, wants no thanks, embodying anonymous selfless generosity and thus the god Nietzsche awaited."
+    },
+    {
+      "n": 28,
+      "file": "ch28 - Christmas Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "macintyre"],
+      "concepts": ["virtue-ethics", "aristotle-eudaimonia", "macintyre-tradition"],
+      "relation": "Scott reads Dickens's A Christmas Carol through virtue theory, treating Scrooge's transformation as a lesson in the virtues of generosity and gratitude that constitute eudaimonia (human flourishing). Drawing on Niebuhr, he explains Scrooge's greed as an anxious, insecurity-driven quest for security through wealth that fails because flourishing depends on relationships, not money (the poor-but-happy Cratchits). He invokes MacIntyre's 'just generosity' and Aristotelian habituation to show virtues are cultivated through practice, and uses Charles Taylor's weak/strong evaluations to warn that Christmas consumerism threatens 'keeping Christmas' by reducing moral worth to preferences and purchases."
+    },
+    {
+      "n": 29,
+      "file": "ch29 - Christmas Philosophy for Everyone.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 30,
+      "file": "ch30 - Christmas Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": ["spinoza"],
+      "concepts": ["meaning-of-life", "faith-vs-reason"],
+      "relation": "Tallman offers a naturalistic (atheist) justification for celebrating Christmas, arguing first that the holiday's date and rituals (December 25 solstice, Christmas trees, Odin-derived Santa) predate and are not exclusively Christian, so non-believers may find their own meaning in them. Drawing on George Santayana's and Steven Cahn's 'religious naturalism,' she argues rituals and moral communities give meaning without supernatural belief, so atheists engaging even overtly religious rites (like Westerners doing Hindu-rooted yoga) are not being disingenuous. She locates a secular 'spirit of Christmas' — giving, love, community — in It's a Wonderful Life, where humans, not God, save George Bailey, and closes on a Venn-diagram overlap of Christian and naturalist Christmases."
+    },
+    {
+      "n": 31,
+      "file": "ch31 - Christmas Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": ["freud"],
+      "concepts": ["faith-vs-reason"],
+      "relation": "Mason, a developmental psychologist writing as a Pagan, narrates her decades-long religious journey through James Fowler's Stages of Faith model, using each stage to reinterpret Christmas. She recounts childhood confusion over carols and chimney-invading strangers, fundamentalist-Christian zeal (stage 3 group belonging, then stage-4 doubt as she 'crusaded' against pagan Christmas trees), Unitarian Universalist questioning, and finally Wiccan/Pagan practice centered on Hecate and the winter-solstice Wheel of the Year (rediscovering Christmas's pagan roots in holly, mistletoe, and Yule). Reaching Fowler's stage 5 'Conjunctive Faith,' she concludes Christmas is neither hers nor anyone's to own but a self-perpetuating commercial 'Hallmark' phenomenon she can now greet with equanimity."
+    },
+    {
+      "n": 32,
+      "file": "ch32 - Christmas Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": ["william-james"],
+      "concepts": ["pragmatism", "pragmatic-truth"],
+      "relation": "Holt argues that Seinfeld's Festivus, invented by Frank Costanza as an anti-consumerist 'holiday for the rest of us,' is grounded in American pragmatism: truth is 'whatever works,' malleable and tested by results. Because commercialized Christmas fails to deliver the altruism it demands, it 'does not work' and by pragmatist standards ceases to be true, so Costanza pragmatically forges a holiday that fits his needs. Holt reads Festivus's elements pragmatically — the maintenance-free aluminum pole as a bare functional symbol, the airing of grievances as a needed cathartic release from everyday restraint, the wrestling as self-perpetuating ritual — and warns that as Festivus merchandise spreads it will lose its practicality and, being no longer pragmatic, be discarded; he closes with a mock 'airing of grievances' against philosophers including Plato and Bertrand Russell."
+    },
+    {
+      "n": 33,
+      "file": "ch33 - Christmas Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": [],
+      "relation": "Scheopner argues that the secular Santa Claus can serve as a cross-cultural, cross-religious point of connection, using a barefoot, shaka-waving Santa at Honolulu Hale in ethnically and religiously plural Hawaii as her central example. She contends Santa sidesteps the Establishment Clause conflicts that dog nativity displays — reviewing Lynch v. Donnelly and County of Allegheny v. ACLU, where crèches on public property were scrutinized while 'diluted' or tree-accompanied displays passed — and notes that early Puritan and Hawaiian missionaries actually banned Christmas. Because Santa is a universal yet customizable figure (signing Santas, ethnic Santas, a hypothetical Cowboy or Steeler Santa), he can represent a whole civic community's shared identity without marking citizens as religiously different."
+    },
+    {
+      "n": 34,
+      "file": "ch34 - Christmas Philosophy for Everyone.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": [],
+      "relation": "In a comic first-person afterword, Santa Claus reviews the book, recounting how he was 'guilt-tripped' into an annual gift-giving role that outlived even his death, distinguishing himself from pretenders like Odin, Thor, and the demonic Krampus. He endorses Steven Hales's claim that he outdoes Jesus at Christmas and accepts charges of consumerism and even elf 'labor exploitation' (with a jab at Marx over variable costs), but objects to the one assumption every contributor shares — that he does not exist — pleading for a little blind faith and threatening to put every doubting philosopher-contributor on the Naughty List."
+    },
+    {
+      "n": 35,
+      "file": "ch35 - Christmas Philosophy for Everyone.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": [
+    {
+      "ch": 30,
+      "type": "concept",
+      "suggested_slug": "religious-naturalism",
+      "name": "Religious Naturalism",
+      "philosopher": "",
+      "domain": "religion-meaning",
+      "what": "The view (developed by George Santayana and Steven Cahn) that religion's rituals, myths, and moral communities carry real human meaning without any commitment to supernatural entities.",
+      "why": "Chapter 30's whole argument that atheists can meaningfully celebrate Christmas rests on Santayana's religious naturalism, which no existing taxonomy concept captures."
+    },
+    {
+      "ch": 31,
+      "type": "concept",
+      "suggested_slug": "stages-of-faith",
+      "name": "Fowler's Stages of Faith",
+      "philosopher": "",
+      "domain": "religion-meaning",
+      "what": "James Fowler's developmental-psychology model of faith unfolding through progressive stages (intuitive-projective, mythic-literal, synthetic-conventional, individuative-reflective, conjunctive, universalizing) across the lifespan.",
+      "why": "Chapter 31 is structured entirely around Fowler's Stages of Faith as the lens for its author's religious journey, and the taxonomy has no concept for lifespan faith development."
+    }
+  ]
+}

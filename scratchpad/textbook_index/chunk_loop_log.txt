@@ -1,0 +1,222 @@
+[2026-10-03 22:13:41] === chunk loop start (chunk=25, max 24.0 h, container=kb_camoufox) ===
+[2026-10-03 22:14:22] === chunk loop start (chunk=25, max 24.0 h, container=kb_camoufox) ===
+[2026-10-03 22:14:22] pending: 18
+[2026-10-03 22:14:22] running chunk: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+[2026-10-03 22:14:22] container /tmp/libgen/books.json missing (container restarted?) — re-uploading
+[2026-10-03 22:14:22] re-uploaded books.json to container
+[2026-10-03 22:52:15]   [05:15:23] #001 download invalid: b'%PDF-1.3'
+[2026-10-03 22:52:15]   [05:17:45] #002 OK -> book_0002.epub (362 kB)
+[2026-10-03 22:52:15]   [05:19:25] #003 ads page has no GET link
+[2026-10-03 22:52:15]   [05:20:19] #004 OK -> book_0004.epub (353 kB)
+[2026-10-03 22:52:15]   [05:23:31] #005 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-03 22:52:15]   [05:26:12] #006 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-03 22:52:15]   [05:27:56] #007 no epub result row
+[2026-10-03 22:52:15]   [05:30:16] #008 OK -> book_0008.epub (12506 kB)
+[2026-10-03 22:52:15]   [05:32:01] #009 no epub result row
+[2026-10-03 22:52:15]   [05:34:14] #010 timeout: Timeout 90000ms exceeded.
+[2026-10-03 22:52:15]   [05:36:35] #011 OK -> book_0011.epub (385 kB)
+[2026-10-03 22:52:15]   [05:37:57] #012 no epub result row
+[2026-10-03 22:52:15]   [05:42:47] #013 timeout: Timeout 240000ms exceeded while waiting for event "download"
+[2026-10-03 22:52:15]   [05:44:16] #014 no epub result row
+[2026-10-03 22:52:15]   [05:44:43] #015 no epub result row
+[2026-10-03 22:52:15]   [05:49:39] #016 timeout: Timeout 240000ms exceeded while waiting for event "download"
+[2026-10-03 22:52:15]   [05:51:08] #017 no epub result row
+[2026-10-03 22:52:15]   [05:52:15] #018 OK -> book_0018.epub (1278 kB)
+[2026-10-03 22:52:15]   #002 saved -> 002 - 李天命的思考藝術.epub
+[2026-10-03 22:52:15]   #004 saved -> 004 - On Manners.epub
+[2026-10-03 22:52:15]   #008 saved -> 008 - Gödel, Escher, Bach - An Eternal Golden Braid.epub
+[2026-10-03 22:52:16]   #011 saved -> 011 - What Darwin Got Wrong.epub
+[2026-10-03 22:52:16]   #018 saved -> 018 - Existentialism.epub
+[2026-10-03 22:52:16] chunk done: 5 new files
+[2026-10-03 22:52:16] sleeping 283 min before next chunk
+[2026-10-04 03:35:19] pending: 31
+[2026-10-04 03:35:19] running chunk: 1,3,5,6,10,13,16,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+[2026-10-04 03:35:20]   Traceback (most recent call last):
+[2026-10-04 03:35:20]   KeyError: 1
+[2026-10-04 03:35:21]   #002 saved -> 002 - 李天命的思考藝術.epub
+[2026-10-04 03:35:21] chunk done: 1 new files
+[2026-10-04 03:35:21] sleeping 318 min before next chunk
+[2026-10-04 08:53:05] pending: 31
+[2026-10-04 08:53:05] running chunk: 1,3,5,6,10,13,16,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+[2026-10-04 08:53:07]   Traceback (most recent call last):
+[2026-10-04 08:53:07]   KeyError: 1
+[2026-10-04 08:53:07] chunk done: 0 new files
+[2026-10-04 08:53:07] sleeping 413 min before next chunk
+[2026-10-04 15:46:34] pending: 31
+[2026-10-04 15:46:34] running chunk: 1,3,5,6,10,13,16,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+[2026-10-04 15:46:35]   Traceback (most recent call last):
+[2026-10-04 15:46:35]   KeyError: 1
+[2026-10-04 15:46:35] chunk done: 0 new files
+[2026-10-04 15:46:35] sleeping 244 min before next chunk
+[2026-10-04 15:49:22] === chunk loop start (chunk=25, max 24.0 h, container=kb_camoufox) ===
+[2026-10-04 15:49:22] pending: 31
+[2026-10-04 15:49:22] running chunk: 1,3,5,6,10,13,16,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+[2026-10-04 15:49:22] container C:/Users/hevan/AppData/Local/Temp/libgen_tb/books.json missing (container restarted?) — re-uploading
+[2026-10-04 15:49:22] re-uploaded books.json to container
+[2026-10-04 15:49:23]   Traceback (most recent call last):
+[2026-10-04 15:49:23]   with self.open(mode='r', encoding=encoding, errors=errors) as f:
+[2026-10-04 15:49:23]   return io.open(self, mode, buffering, encoding, errors, newline)
+[2026-10-04 15:49:23]   FileNotFoundError: [Errno 2] No such file or directory: '/tmp/libgen_tb/books.json'
+[2026-10-04 15:49:23] chunk done: 0 new files
+[2026-10-04 15:49:23] sleeping 324 min before next chunk
+[2026-10-04 16:08:12] === chunk loop start (chunk=25, max 24.0 h, container=kb_camoufox) ===
+[2026-10-04 16:08:12] pending: 31
+[2026-10-04 16:08:12] running chunk: 1,3,5,6,10,13,16,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+[2026-10-04 16:08:13] container /tmp/libgen_tb/books.json missing (container restarted?) — re-uploading
+[2026-10-04 16:08:13] re-uploaded books.json to container
+[2026-10-04 17:19:37]   [23:09:56] #001 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [23:12:33] #003 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [23:15:13] #005 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [23:18:01] #006 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [23:21:08] #010 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [23:24:13] #013 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [23:27:02] #016 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [23:30:00] #019 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [23:33:05] #020 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [23:35:49] #021 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [23:38:57] #022 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [23:41:43] #023 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [23:44:47] #024 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [23:47:56] #025 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [23:51:09] #026 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [23:54:18] #027 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [23:57:22] #028 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [00:00:12] #029 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [00:03:20] #030 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [00:06:01] #031 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [00:08:46] #032 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [00:11:21] #033 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [00:13:55] #034 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [00:16:24] #035 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37]   [00:19:37] #036 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 17:19:37] chunk done: 0 new files
+[2026-10-04 17:19:37] sleeping 264 min before next chunk
+[2026-10-04 20:23:31] === chunk loop start (chunk=25, max 24.0 h, container=kb_camoufox) ===
+[2026-10-04 20:23:31] pending: 31
+[2026-10-04 20:23:31] running chunk: 1,3,5,6,10,13,16,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+[2026-10-04 21:33:29]   [03:25:18] #001 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [03:27:37] #003 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [03:30:03] #005 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [03:32:54] #006 timeout: Page.goto: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [03:36:02] #010 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [03:38:47] #013 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [03:41:48] #016 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [03:44:33] #019 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [03:47:14] #020 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [03:49:56] #021 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [03:52:34] #022 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [03:55:29] #023 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [03:58:37] #024 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [04:01:14] #025 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [04:04:18] #026 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [04:07:26] #027 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [04:10:06] #028 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [04:13:15] #029 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [04:16:04] #030 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [04:18:56] #031 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [04:21:24] #032 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [04:24:01] #033 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [04:27:06] #034 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [04:30:19] #035 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:29]   [04:33:29] #036 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-04 21:33:30] chunk done: 0 new files
+[2026-10-04 21:33:30] sleeping 367 min before next chunk
+[2026-10-05 03:40:03] pending: 31
+[2026-10-05 03:40:03] running chunk: 1,3,5,6,10,13,16,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+[2026-10-05 03:40:03] container /tmp/libgen_tb/books.json missing (container restarted?) — re-uploading
+[2026-10-05 03:40:03] re-uploaded books.json to container
+[2026-10-05 05:40:03] chunk timed out; continuing with what landed
+[2026-10-05 05:40:04] chunk done: 0 new files
+[2026-10-05 05:40:04] sleeping 337 min before next chunk
+[2026-10-05 11:16:54] pending: 31
+[2026-10-05 11:16:54] running chunk: 1,3,5,6,10,13,16,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+[2026-10-05 13:16:55] chunk timed out; continuing with what landed
+[2026-10-05 13:16:55] chunk done: 0 new files
+[2026-10-05 13:16:55] sleeping 380 min before next chunk
+[2026-10-05 19:36:30] pending: 31
+[2026-10-05 19:36:30] running chunk: 1,3,5,6,10,13,16,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+[2026-10-05 21:36:30] chunk timed out; continuing with what landed
+[2026-10-05 21:36:31] chunk done: 0 new files
+[2026-10-05 21:36:31] sleeping 325 min before next chunk
+[2026-10-06 00:36:09] === chunk loop start (chunk=25, max 24.0 h, container=kb_camoufox) ===
+[2026-10-06 00:36:09] pending: 31
+[2026-10-06 00:36:09] running chunk: 1,3,5,6,10,13,16,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36
+[2026-10-06 00:36:09] container /tmp/libgen_tb/books.json missing (container restarted?) — re-uploading
+[2026-10-06 00:36:10] re-uploaded books.json to container
+[2026-10-06 01:34:35]   [07:37:06] #001 timeout: Locator.click: Timeout 30000ms exceeded.
+[2026-10-06 01:34:35]   [07:56:40] #003 OK -> book_0003.epub (1020 kB)
+[2026-10-06 01:34:35]   [07:58:54] #005 OK -> book_0005.epub (492 kB)
+[2026-10-06 01:34:35]   [08:00:39] #006 no epub result row
+[2026-10-06 01:34:35]   [08:02:17] #010 timeout: Page.wait_for_selector: Timeout 90000ms exceeded.
+[2026-10-06 01:34:35]   [08:03:50] #013 ads page has no GET link
+[2026-10-06 01:34:35]   [08:04:47] #016 download invalid: b'%PDF-1.6'
+[2026-10-06 01:34:35]   [08:10:16] #019 timeout: Timeout 240000ms exceeded while waiting for event "download"
+[2026-10-06 01:34:35]   [08:12:20] #020 OK -> book_0020.epub (837 kB)
+[2026-10-06 01:34:35]   [08:14:31] #021 OK -> book_0021.epub (737 kB)
+[2026-10-06 01:34:35]   [08:16:12] #022 no epub result row
+[2026-10-06 01:34:35]   [08:16:41] #023 no epub result row
+[2026-10-06 01:34:35]   [08:17:36] #024 OK -> book_0024.epub (217 kB)
+[2026-10-06 01:34:35]   [08:20:30] #026 ads page has no GET link
+[2026-10-06 01:34:35]   [08:25:02] #027 timeout: Timeout 240000ms exceeded while waiting for event "download"
+[2026-10-06 01:34:35]   [08:27:06] #028 OK -> book_0028.epub (182 kB)
+[2026-10-06 01:34:35]   [08:28:27] #029 no epub result row
+[2026-10-06 01:34:35]   [08:28:53] #030 no epub result row
+[2026-10-06 01:34:35]   [08:30:03] #031 OK -> book_0031.epub (793 kB)
+[2026-10-06 01:34:35]   [08:31:22] #032 no epub result row
+[2026-10-06 01:34:35]   [08:31:48] #033 no epub result row
+[2026-10-06 01:34:35]   [08:32:13] #034 no epub result row
+[2026-10-06 01:34:35]   [08:32:40] #035 no epub result row
+[2026-10-06 01:34:35]   [08:34:34] #036 timeout: Timeout 90000ms exceeded.
+[2026-10-06 01:34:36]   #003 saved -> 003 - Cynical Theories - How Activist Scholarship Made Everything about Race, Gender, and Identity—and Why This Harms Everybody.epub
+[2026-10-06 01:34:36]   #005 saved -> 005 - Bullshit and Philosophy - Guaranteed to Get Perfect Results Every Time.epub
+[2026-10-06 01:34:36]   #020 saved -> 020 - Philosophy of Religion.epub
+[2026-10-06 01:34:36]   #021 saved -> 021 - Anarchy, State, and Utopia.epub
+[2026-10-06 01:34:36]   #024 saved -> 024 - On Liberty.epub
+[2026-10-06 01:34:36]   #028 saved -> 028 - Dimensions of Moral Theory - An Introduction to Metaethics and Moral Psychology.epub
+[2026-10-06 01:34:36]   #031 saved -> 031 - Language Matters.epub
+[2026-10-06 01:34:37] chunk done: 7 new files
+[2026-10-06 01:34:37] sleeping 348 min before next chunk
+[2026-10-06 07:22:51] pending: 14
+[2026-10-06 07:22:51] running chunk: 1,10,13,16,19,26,27,36,37,38,39,40,41,42
+[2026-10-06 07:49:14]   [14:23:52] #001 download invalid: b'%PDF-1.3'
+[2026-10-06 07:49:14]   [14:25:50] #010 OK -> book_0010.epub (29118 kB)
+[2026-10-06 07:49:14]   [14:27:36] #013 OK -> book_0013.epub (566 kB)
+[2026-10-06 07:49:14]   [14:29:55] #016 download invalid: b'%PDF-1.6'
+[2026-10-06 07:49:14]   [14:32:38] #019 OK -> book_0019.epub (1954 kB)
+[2026-10-06 07:49:14]   [14:37:22] #026 OK -> book_0026.epub (17899 kB)
+[2026-10-06 07:49:14]   [14:39:44] #027 OK -> book_0027.epub (1611 kB)
+[2026-10-06 07:49:14]   [14:41:42] #036 OK -> book_0036.epub (15306 kB)
+[2026-10-06 07:49:14]   [14:43:35] #037 OK -> book_0037.epub (2086 kB)
+[2026-10-06 07:49:14]   [14:45:27] #038 no epub result row
+[2026-10-06 07:49:14]   [14:46:19] #039 OK -> book_0039.epub (6225 kB)
+[2026-10-06 07:49:14]   [14:48:13] #040 no epub result row
+[2026-10-06 07:49:14]   [14:48:39] #041 no epub result row
+[2026-10-06 07:49:14]   [14:49:14] #042 no epub result row
+[2026-10-06 07:49:15]   #010 saved -> 010 - The Philosophy of History - An Introduction.epub
+[2026-10-06 07:49:15]   #013 saved -> 013 - Metaphysics.epub
+[2026-10-06 07:49:15]   #019 saved -> 019 - Beyond Good and Evil - Prelude to a Philosophy of the Future.epub
+[2026-10-06 07:49:15]   #026 saved -> 026 - A Beginner's Guide to the Ideas of 100 Great Thinkers - Philosophy.epub
+[2026-10-06 07:49:15]   #027 saved -> 027 - The Evidential Argument from Evil.epub
+[2026-10-06 07:49:16]   #036 saved -> 036 - The Arrow Impossibility Theorem.epub
+[2026-10-06 07:49:16]   #037 saved -> 037 - Social Choice and Individual Values.epub
+[2026-10-06 07:49:16]   #039 saved -> 039 - Philosophy of Law - Seventh Edition.epub
+[2026-10-06 07:49:16] chunk done: 8 new files
+[2026-10-06 07:49:16] sleeping 337 min before next chunk
+[2026-10-06 13:25:52] pending: 2
+[2026-10-06 13:25:52] running chunk: 1,16
+[2026-10-06 13:28:42]   [20:26:59] #001 download invalid: b'%PDF-1.3'
+[2026-10-06 13:28:42]   [20:28:42] #016 download invalid: b'%PDF-1.6'
+[2026-10-06 13:28:42] chunk done: 0 new files
+[2026-10-06 13:28:42] sleeping 240 min before next chunk
+[2026-10-06 17:29:12] pending: 2
+[2026-10-06 17:29:12] running chunk: 1,16
+[2026-10-06 17:32:34]   [00:30:31] #001 download invalid: b'%PDF-1.3'
+[2026-10-06 17:32:34]   [00:32:34] #016 download invalid: b'%PDF-1.6'
+[2026-10-06 17:32:35] chunk done: 0 new files
+[2026-10-06 17:32:35] sleeping 349 min before next chunk
+[2026-10-06 23:22:00] pending: 2
+[2026-10-06 23:22:00] running chunk: 1,16
+[2026-10-06 23:25:13]   [06:23:01] #001 download invalid: b'%PDF-1.3'
+[2026-10-06 23:25:13]   [06:25:13] #016 download invalid: b'%PDF-1.6'
+[2026-10-06 23:25:14] chunk done: 0 new files
+[2026-10-06 23:25:14] sleeping 304 min before next chunk

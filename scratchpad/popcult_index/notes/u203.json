@@ -1,0 +1,490 @@
+{
+ "book": "138 - Alien and Philosophy - I Infest Therefore I Am",
+ "unit": "u203",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "sartre",
+    "camus",
+    "marx",
+    "plato"
+   ],
+   "concepts": [
+    "ubermensch",
+    "the-absurd",
+    "care-ethics",
+    "just-war-theory"
+   ],
+   "relation": "Book introduction: recounts how the 1979 cast were the first casualties of the Chestburster scene (real butcher-shop organs, Veronica Cartwright fainting), then previews the volume's payload - personhood questions about Ash, Bishop, David and the Ripley clone; Marx on why Weyland-Yutani sacrifices crews for profit; Plato's Republic on children in warfare via Newt; Lovecraftian cosmic horror; feminist readings of Ripley as care ethicist and mother; and continental takes - Xenomorphs as Nietzsche's Ubermensch, Camus on Ripley-8's refusal to commit suicide, and Sartre on a Xenomorph's right to resist us."
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Part I Identity and Moral Considerability.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - “There is nothing in the desert, and no man needs nothing”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "descartes"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "cartesian-dualism",
+    "descartes-cogito"
+   ],
+   "relation": "Argues David in Prometheus qualifies as a Lockean person - intelligence, rule-following rationality, self-reflection via an active power of thought (his self-modeling on Lawrence of Arabia, his judged desire to be free of Weyland's programming), and mental pleasure and pain - while Ash fails the test, reacting only passively to company orders like Locke's unfree tennis ball. Against Weyland's and Shaw's Cartesian soul-based denial ('you're a robot'), this leaves open that beings humans create could share our moral status, making David's ostracism arbitrary and cruel."
+  },
+  {
+   "n": 4,
+   "file": "ch04 - “It’s a robot! A goddamn droid!”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer",
+    "kant",
+    "bentham"
+   ],
+   "concepts": [
+    "speciesism",
+    "kant-autonomy",
+    "utilitarianism",
+    "applied-ethics"
+   ],
+   "relation": "Tests three grounds of moral status against the franchise: species membership (Singer's charge of speciesism - would the human-DNA Newborn count?), Kantian autonomy (which makes Bishop matter but excludes babies and animals, and is itself doubtful once his behavioral inhibitors fix his choices), and Bentham's sentience ('can they suffer?' - Bishop's 'I hurt. Do me a favor. Disconnect me'). Settling on interests and preferences, the chapter argues synthetics with desires - even Ash's admiration for the 'perfect organism' - can be moral patients, so Weyland-Yutani's treatment of them as tools and slaves is wrong."
+  },
+  {
+   "n": 5,
+   "file": "ch05 - This is Rumor Control. Here are the Facts!.md",
+   "kind": "chapter",
+   "philosophers": [
+    "adam-smith"
+   ],
+   "concepts": [
+    "invisible-hand",
+    "stakeholder-theory"
+   ],
+   "relation": "Uses the Weyland corporations' treatment of crews - Special Order 937, Vickers's 'that makes you an employee,' Burke's Facehugger scheme, the debriefing that mourns a $42 million ship but never the crew - to pit stockholder theory (Friedman, Berle) against libertarian contract theory (Machan) and stakeholder theory (Freeman). The libertarian middle way fails because in deep space crews have neither Hirschman's exit nor voice, so only stakeholder theory explains why hiding workplace hazards and marking employees expendable wrongs them; the market's invisible hand behaves like Ash's very visible murdering hand."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Part II Ethics.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Special Order 937—Crew Expendable.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "mill"
+   ],
+   "concepts": [
+    "deontology",
+    "utilitarianism"
+   ],
+   "relation": "Reads Weyland-Yutani as 'greed is good' cost-benefit reasoning embodied by Ash, Mother, and Burke (Gordon Gekko's Wall Street speech transplanted into space), and asks who can be held accountable when every employee fills only a narrow role and scapegoats absorb blame. It then weighs Kantian deontology - Bishop's inviolable no-harm rules, the absolute wrongness of killing crew for profit - against utilitarian reasoning: Ripley's quarantine refusal to save the many, Parker's refusal to flame the alien holding Lambert, and the uncomfortable thought that acquiring the Xenomorph might genuinely benefit billions."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The End of History.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "marx-alienation",
+    "commodity-fetishism"
+   ],
+   "relation": "Diagnoses the Alien universe through Marx's Grundrisse: workers like Parker and Fifield ('I'm here to make money') live only to have and consume, wage labor is avoided like the plague (Pvt. Frost's 'I hate this job'), money replaces the faith people should place in each other, and employees become disposable commodities (Vickers to Shaw: 'that makes you an employee'). Only the conscience-free android Ash fits the Corporation's ideal 'pure capitalist,' and because the saga's future stays capitalist, it vindicates Fukuyama's end-of-history thesis over Marx's prediction of collapse."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Hope for the Future.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dewey",
+    "plato",
+    "peirce"
+   ],
+   "concepts": [
+    "pragmatism",
+    "dewey-democracy",
+    "plato-forms"
+   ],
+   "relation": "Applies Dewey's The Public and Its Problems to Alien and Aliens: the real villain is not the Xenomorph but a United Americas too weak to govern Weyland-Yutani, whose crude cost-benefit erasure of the Nostromo crew's interests shows a state that has lost the public's voice. Ash's arrogant 'perfect organism' objectivity, the appeal to blameworthy 'human nature,' and faith that big business runs everything illustrate Dewey's targets - Plato's static Forms, economic determinism, and rugged individualism - and since beliefs are habits of action (Peirce), the Company's deeds expose its professed principles as negligible fictions."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Not Bad, for a [Wo]man.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gilligan",
+    "noddings",
+    "kant",
+    "mill"
+   ],
+   "concepts": [
+    "care-ethics",
+    "care-ethics-noddings",
+    "trolley-problem",
+    "speciesism"
+   ],
+   "relation": "Argues Ripley's crossed-heart promise to Newt shows partialist care rightly overriding impartial justice: Kant, Mill, and Rachels demand everyone count for one, but Gilligan's critique of Kohlberg and Noddings's carer-cared-for relation - completed in Newt's 'I knew you'd come' - explain why Ripley duct-tapes two guns together and descends into the hive. Her flexible, relational problem-solving (the lighter-sprinkler trick against the Facehuggers, learning the pulse rifle) beats Gorman's mission-first command, and the trolley-style arithmetic she rejects when the one on the tracks is her little girl is not a moral failing; even nuking the Queen's eggs raises Singer-style speciesism questions."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Part III Moral Psychology.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Easing Back on the APC’s Throttle.md",
+   "kind": "chapter",
+   "philosophers": [
+    "walzer",
+    "cicero",
+    "aquinas",
+    "hobbes",
+    "locke"
+   ],
+   "concepts": [
+    "just-war-theory",
+    "state-of-nature",
+    "political-realism"
+   ],
+   "relation": "Treats Engineers, Xenomorphs, and humans as states and reads the APC debate through Thucydides' Melian dialogue ('the strong do what they will') and the jus in bello criteria of discrimination, military necessity, and proportionality. It concludes that Ripley's 'nuke the site from orbit' and Vasquez's nerve gas are vengeance masquerading as realism - the Xeno threat is no longer imminent, so Walzer's 'supreme emergency' is unavailable - while Hudson's withdrawal (even Burke's species-preservation plea) fits both realism and just war restraint; the Ben Tre 'we destroyed the town to save it' fiasco in Vietnam is the cautionary parallel."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Should Your Child Watch Aliens.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-justice"
+   ],
+   "relation": "Maps Aliens onto Plato's Republic: Hadley's Hope is an isolated city of fixed roles, Newt is an apprentice guardian taken along on campaign, and Ripley is her auxiliary supervisor who knows which military ventures are safe (making her look away from the cocooned colonists on the monitors). Exposure to violence has made Newt mentally tough and courageous in Plato's exact sense of retaining what reason dictates about what is and is not to be feared - she stays calm in the APC and leads Ripley and Hicks through the vents while Hudson panics - so the authors conclude parents should discuss violent media like Aliens with children rather than shield them."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Alien Nation.md",
+   "kind": "chapter",
+   "philosophers": [
+    "marx"
+   ],
+   "concepts": [
+    "marx-alienation",
+    "class-struggle"
+   ],
+   "relation": "Reads Alien as a film about alienation in Marx's fourfold sense from the 1844 Manuscripts: the crew is estranged from the product of its labor (the retrieved Xenomorph turns on them), from the labor process (Brett and Parker's bonus dispute, Dallas shilling for the Company that deems him disposable), from species-being (infantile dependence on Mother, whose Special Order 937 merely formalizes an expendability they already live), and from one another (they never unite against the Company or suspect Ash). In Aliens the Colonial Marines repeat the failure, while the coordinated alien 'nation' under its queen - possible victims of Engineer colonization - makes the humans look like the inferior species."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Part IV Horror.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - Final Transmission.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [],
+   "relation": "Argues Alien is the best science-fiction horror film because it executes H.P. Lovecraft's principles of weird fiction: fear of the unknown (the alien's shifting life cycle, acid blood as 'cosmic fear' at violations of natural law), an atmosphere of realism through mundane space-truckers, cramped and imperfect technology, and pseudo-scientific jargon, monsters that are genuinely rather than cosmetically alien, suggestion over explicit gore (Brett and Parker hauled off-screen), claustrophobia, paranoia via the disguised android Ash, and horrific bodily violation in the Facehugger and Chestburster. Aristotle's Poetics supplies the matching doctrine that even astounding stories should default to the necessary or probable."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - The Melding.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "art-horror"
+   ],
+   "relation": "Extends Noel Carroll's art-horror theory from fusion-figure monsters to 'art-horror environments': the series' distinctive disgust comes not only from the Xenomorph's impure fusion of species traits but from the accidental contamination of clean human spaces - acid blood tunneling deck by deck through the Nostromo, hive webbing repurposing Hadley's Hope as a nursery ('kill me'), and Ripley absorbed into the Queen's fleshy mass at the end of Resurrection. These are accidents that could have been avoided and that break horror's normal movement from disruption back to restored order, since contaminated ships and colonies can only be nuked, never redeemed."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Death.md",
+   "kind": "chapter",
+   "philosophers": [
+    "schopenhauer",
+    "foucault",
+    "hegel",
+    "plato",
+    "schelling"
+   ],
+   "concepts": [
+    "power-knowledge",
+    "schopenhauer-pessimism",
+    "plato-tripartite-soul"
+   ],
+   "relation": "Reads Alien3's Fury 161 through impurity and contagion: Mary Douglas's 'matter out of place,' Foucault's confinement of the mad (the YY-chromosome inmates quarantined as social infection; Golic's fixation on the 'dragon' as Schopenhauer's madness of a fixed idea), Hegel and Schelling's philosophies of biology in which disease, decline, and death are necessary moments of life, and Plato's virtue-as-health of the soul. Ripley's fall into the molten lead embraces Schelling's 'indifference' of freedom and its enemy - she refuses Bishop's quack offer to 'deal with the malignancy' so Weyland-Yutani can never harvest the queen inside her."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Part V Sex and Gender.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - I’m an Alien. And That’s OK.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hegel",
+    "freud"
+   ],
+   "concepts": [
+    "embodiment"
+   ],
+   "relation": "Reads Ripley's arc through Alison Stone's maternal subjectivity: her mothering of Jonesy and Newt shows the maternal is relational as much as bodily (neither ever gestated in her), Mother (MU/TH/UR) and the Queen stage the 'malevolent mother' against her ('Get away from her, you BITCH!'), and Alien3's unwanted pregnancy forces a violent separation in which only death asserts her selfhood. In Resurrection, Ripley-8 relives Helene Deutsch's quasi-infantile emotional fusion with her hybrid child before killing it, illustrating why Stone demands nonviolent differentiation rather than a complete break from the maternal body - 'I'm a stranger here myself.'"
+  },
+  {
+   "n": 21,
+   "file": "ch21 - A Professional, a Mother, and Someone Who Cares.md",
+   "kind": "chapter",
+   "philosophers": [
+    "gilligan",
+    "noddings"
+   ],
+   "concepts": [
+    "care-ethics",
+    "feminism"
+   ],
+   "relation": "Asks whether Ripley is a feminist and answers 'only sometimes': her quarantine refusal ('Yes, I read you. The answer is negative') and her reasons for killing the Alien3 specimen ('a lot of innocent people will die') invoke rules, chain of command, and anonymous future victims - Kohlberg's post-conventional reasoning, not Gilligan's care voice - whereas the hot-chocolate scene with Newt and the unhesitating hive rescue exhibit the care-focused feminism of Gilligan and Noddings. Against the status-oriented reading of Vasquez's 'have you ever been mistaken for a man?' exchange, Ripley emerges as atypical of either stereotype: a professional, a mother, and someone who cares."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Equal Opportunity Offenders.md",
+   "kind": "chapter",
+   "philosophers": [
+    "frye"
+   ],
+   "concepts": [
+    "objectification",
+    "feminism"
+   ],
+   "relation": "Argues the Facehugger stages rape with the sexes reversed: because the aliens violate male and female bodies impartially - Kane's penetration, forced pregnancy, and death in childbirth; the cocooned Dallas begging Ripley to kill him - the films strip male viewers of the patriarchal privilege of treating sexual violence as someone else's threat and even of biological immunity to forced pregnancy. The Marines' 'colonists' daughters' banter, the prisoners' treatment of Ripley on Fury 161, and Johner's basketball comment exemplify a rape culture (Dworkin: rape is committed by exemplars of our norms) persisting into the twenty-second century, while Frye and Shafer's 'domain' explains why bodily violation attacks personhood itself."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Part VI Continental Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - “You are…a beautiful, beautiful, butterfly”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "ubermensch",
+    "last-man",
+    "death-of-god"
+   ],
+   "relation": "Argues the Xenomorph realizes Nietzsche's Ubermensch: it is what Ash describes - unclouded by 'conscience, remorse, or delusions of morality' - and perfects its predatory function down to its acidic blood, while paycheck-fixated crewmen like Brett and Parker are Nietzsche's complacent 'last men,' the type Zarathustra's townspeople clamor for. The alien's egg-Facehugger-Chestburster-adult metamorphosis maps onto the camel, lion, and child of the three metamorphoses of the spirit, and the chapter closes by wondering whether the creature's monstrosity might have made Nietzsche himself reconsider the vital perfection he preached."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - One Must Imagine Ripley Happy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "camus"
+   ],
+   "concepts": [
+    "the-absurd",
+    "sisyphus",
+    "camus-revolt"
+   ],
+   "relation": "Reads Ripley-8 through Camus's Myth of Sisyphus: discovering the room of failed clones confronts her with the absurd gap between her longing to be Ellen Ripley and the world's answer that she is lab-grown Number 8. Of Camus's three responses she refuses physical suicide (declining Call's knife - 'What makes you think I would let you do that?') and philosophical suicide (mocking the auton's programmed crossing herself in the chapel), instead living in revolt - 'I rebel--therefore we exist' - shared with Call, so that her serial extermination of Xenomorphs across four films becomes Sisyphean toil, and one must imagine Ripley happy."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Its Structural Perfection is Only Matched by its Autonomy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre"
+   ],
+   "concepts": [
+    "anthropocentrism",
+    "terrorism-violence",
+    "existence-precedes-essence"
+   ],
+   "relation": "Defends the Xenomorphs: if the Queen's tactical intelligence (incubating her eggs under the reactor, ordering drones to hold fire, cutting the power) and the species' hive organization satisfy Sartre's criteria of self-creating persons, then their 'attacks' are legitimate self-defense on the model of Sartre's preface to Fanon's Wretched of the Earth, where the colonized's violence restores a denied personhood. Read without anthropocentrism, Alien is the story of a newborn extraterrestrial hunted to death by humans, and Weyland-Yutani, the Marines, and the colonists of LV-426 - not the aliens - are the series' true villains."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - End User License Agreement.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 5,
+   "type": "concept",
+   "suggested_slug": "stakeholder-theory",
+   "name": "Stakeholder Theory (vs. stockholder theory)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The business-ethics debate between Friedman/Berle's view that a corporation's only duty is maximizing shareholder profit and Freeman's view that it owes moral consideration to everyone affected by its actions.",
+   "why": "Chapter 5's entire case that Weyland-Yutani wrongs its crews - Special Order 937, hidden mission risks, expendability - is built on running stockholder theory, libertarian contract theory, and stakeholder theory against each other."
+  },
+  {
+   "ch": 7,
+   "type": "concept",
+   "suggested_slug": "problem-of-many-hands",
+   "name": "The Problem of Many Hands (corporate accountability)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "The difficulty of assigning moral responsibility for a large organization's harm when no single member controls or fully understands the whole, letting blame diffuse or settle on scapegoats.",
+   "why": "Chapter 7 devotes a central section to how Ash, Mother, and Burke embody Weyland-Yutani's deferral of accountability - each employee just follows orders, and the company sacrifices a scapegoat while keeping the profits."
+  },
+  {
+   "ch": 8,
+   "type": "concept",
+   "suggested_slug": "end-of-history",
+   "name": "The End of History (Fukuyama)",
+   "philosopher": "hegel",
+   "domain": "political-social",
+   "what": "Fukuyama's thesis that liberal capitalist democracy is the endpoint of humanity's ideological evolution, so history 'ends' with no rival system left.",
+   "why": "Chapter 8's closing section argues the Alien saga's unreconstructed capitalist future vindicates Fukuyama's end of history against Marx's prediction of capitalism's collapse, making Marx's critique of alienation newly urgent."
+  },
+  {
+   "ch": 10,
+   "type": "philosopher",
+   "suggested_slug": "lawrence-kohlberg",
+   "name": "Lawrence Kohlberg",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Psychologist whose six-stage theory of moral development culminates in post-conventional, impartial universal principles - the framework Gilligan critiqued as male-biased.",
+   "why": "Chapters 10 and 21 classify Ripley's quarantine refusal and her defense of killing the Alien3 specimen as Kohlberg-style post-conventional rule reasoning, the foil against which the care-ethics reading of her bond with Newt is measured."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "political-realism",
+   "name": "Political Realism",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The view in international relations that power and survival, not moral principle, govern relations between states - Thucydides' 'the strong do what they will, the weak do what they must.'",
+   "why": "Chapter 12 frames Engineers, Xenomorphs, and humans as realist states and tests Ripley's orbital nuking plan against realism before turning to just war criteria, concluding her plan is vengeance masquerading as realism."
+  },
+  {
+   "ch": 16,
+   "type": "philosopher",
+   "suggested_slug": "hp-lovecraft",
+   "name": "H.P. Lovecraft",
+   "philosopher": "",
+   "domain": "existentialism-phenomenology",
+   "what": "American weird-fiction writer whose essays and letters articulate a philosophy of horror: fear of the unknown, cosmic fear at violations of natural law, strict realism in all else, and suggestion over explicit description.",
+   "why": "Chapter 16 argues Alien is the best science-fiction horror film precisely because it executes Lovecraft's principles, from the alien's mysterious life cycle to mundane space-truckers and the disguised android Ash."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "cosmicism",
+   "name": "Cosmicism (cosmic horror)",
+   "philosopher": "hp-lovecraft",
+   "domain": "existentialism-phenomenology",
+   "what": "Lovecraft's doctrine that humanity is insignificant in an indifferent, Darwinian cosmos where human laws, morality, and meanings have no cosmic validity - the source of true horror.",
+   "why": "Chapter 16 uses cosmic fear at violations of natural law as the master explanation of the Xenomorph's scariness: the creature is terrifying because nothing in nature as we know it can do what it does."
+  },
+  {
+   "ch": 17,
+   "type": "philosopher",
+   "suggested_slug": "noel-carroll",
+   "name": "Noel Carroll",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Philosopher of art whose The Philosophy of Horror explains the genre via art-horror objects (fusion figures of categorically interpenetrating elements), disgust, and the paradox of fiction-induced fear.",
+   "why": "Chapter 17 is built entirely on extending Carroll's account of art-horror monsters to 'art-horror environments' like the acid-corroded Nostromo and the hive-colonized Hadley's Hope."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "art-horror",
+   "name": "Art-Horror (fusion figures and the paradox of horror)",
+   "philosopher": "noel-carroll",
+   "domain": "mind-language-metaphysics",
+   "what": "Carroll's account of horror as the emotional response to monsters that violate our conceptual categories, disgusting yet fascinating, feared through empathetic identification with fictional characters.",
+   "why": "Chapter 17 needs the concept to explain the series' distinctive disgust and then argue that contaminated environments, not just fusion-figure monsters, do the horror work."
+  },
+  {
+   "ch": 18,
+   "type": "philosopher",
+   "suggested_slug": "schelling",
+   "name": "F.W.J. Schelling",
+   "philosopher": "",
+   "domain": "kant-german-idealism",
+   "what": "German Idealist whose Naturphilosophie grounds life in the 'duplicity' of conscious and unconscious productive activity, treating assimilation, excitability, sexuality, and contagion as intertwined.",
+   "why": "Chapter 18 uses Schelling's biology of contagion and his 'indifference' - the hidden identity of what fosters and what destroys freedom - to frame Ripley's suicide at the end of Alien3."
+  },
+  {
+   "ch": 20,
+   "type": "philosopher",
+   "suggested_slug": "alison-stone",
+   "name": "Alison Stone",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Contemporary feminist philosopher whose account of maternal subjectivity rethinks mother-child separation as embodied, affective, relational differentiation rather than violent break.",
+   "why": "Chapter 20 reads Ripley's mothering of Jonesy, Newt, and the Newborn - and her deaths and rebirths - entirely through Stone's maternal subjectivity and her critique of separation-based models."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "maternal-subjectivity",
+   "name": "Maternal Subjectivity",
+   "philosopher": "alison-stone",
+   "domain": "feminism-gender-race",
+   "what": "The feminist-psychoanalytic idea that motherhood reshapes a woman's sense of self through embodied, relational experience, involving loss, repetition of her own daughterhood, and the problem of differentiation.",
+   "why": "Chapter 20's organizing concept: Ripley's relation to Jonesy, Newt, Mother, the Queen, and her own hybrid offspring is read as a case study in how mothering both constitutes and threatens the self."
+  },
+  {
+   "ch": 22,
+   "type": "concept",
+   "suggested_slug": "rape-culture",
+   "name": "Rape Culture",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "The feminist analysis, coined by 1970s second-wave feminists, that society normalizes sexual violence against women and shifts blame to victims through everyday jokes, advice, and media tropes.",
+   "why": "Chapter 22 argues the Alien films depict a twenty-second-century rape culture - Marines' banter, the prisoners' treatment of Ripley - and use equal-opportunity Facehugger violation to give male viewers a window into it."
+  }
+ ]
+}

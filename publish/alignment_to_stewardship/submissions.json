@@ -1,0 +1,32 @@
+{
+  "article": "alignment_to_stewardship",
+  "updated": "2026-10-11",
+  "submissions": [
+    {
+      "venue": "aipc2026",
+      "status": "submitted",
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "eligibility audit on the 8 genesis prompts: INELIGIBLE AS-IS (autonomy paradox, stewardship thesis, AGI-theocracy concept, Iran/Taliban claim survive load-bearing); run stopped pre-polish",
+          "method": "n/a",
+          "confirmation": null
+        },
+        {
+          "date": "2026-10-04",
+          "event": "owner attested stewardship originated from the model (prompt 3 is affirmation) and approved (b+): polish run, then 4 tainted passages deleted and re-derived by 3 blind agents from position-level seeds; best per gap selected; fingerprint scan clean; anonymized manuscript (5,025 words ex-bibliography) + methodology report staged — NOT yet submitted",
+          "method": "n/a",
+          "confirmation": null
+        },
+        {
+          "date": "2026-10-11",
+          "event": "submitted",
+          "method": "api",
+          "confirmation": "OpenReview note h8IO1kVSbI (submission #214), forum https://openreview.net/forum?id=h8IO1kVSbI — essay PDF + methodology report uploaded; AI_involvement 'AI-driven'; name attached; verified in browser (venue-aipc2026/shots/submitted-214-forum.png)"
+        }
+      ],
+      "ai_disclosure_sent": true,
+      "notes": "SUBMITTED 2026-10-11 as submission #214. Finalists early Dec 2026; results end of Jan 2027. Genesis prompt log included with submission (who_owns: zipped with report)."
+    }
+  ]
+}

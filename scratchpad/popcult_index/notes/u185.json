@@ -1,0 +1,488 @@
+{
+ "book": "121 - The Twilight Zone and Philosophy - A Dangerous Dimension to Visit",
+ "unit": "u185",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - ii.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Dare to Enter the Zone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "socrates"
+   ],
+   "concepts": [
+    "unexamined-life"
+   ],
+   "relation": "The editors introduce the volume with Nietzsche's line about finding only 'apes of our ideal': TZ episodes dangle wishes (rejuvenated husbands, fallout shelters, Henry Bemis's time to read) that fate twists into cosmic jokes, so we laugh at what we fail to be. They cast Rod Serling as a reincarnation of Socrates, the gadfly of Athens, whose episodes work as thought experiments exposing expert promises as tricks, and set 'The Hunt' against this cynicism — the faithful dog Rip smells the Devil's gate so the old man reaches Heaven. The tension between our ideals and human frailty, they argue, is what made the show philosophical television."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - First Dimension Facing the Zone.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - 1. Lost in Time.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis"
+   ],
+   "concepts": [
+    "time-travel",
+    "fate-vs-free-will"
+   ],
+   "relation": "Rard applies David Lewis's definition of time travel — a discrepancy between the journey's duration and externally elapsed time — to argue that the suspended-animation gold thieves of 'The Rip Van Winkle Caper' never time-traveled, while Flight Lieutenant Decker in 'Last Flight' does, creating a consistent causal loop in which his 1959 knowledge that he saved Mackaye is what sends him back to 1917 to save him. She then reads 'No Time Like the Past' as enacting the impossibility of changing the past: Paul Driscoll's attempt to shoot Hitler is thwarted by a maid and SS officers exactly as Lewis's 'bananas peel' account predicts, and his retreat to 1881 Homeville makes him the unwitting cause of the very schoolhouse fire he tried to prevent — his foreknowledge, not fate, was always the cause."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 2. Where Is the Twilight Zone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "freud"
+   ],
+   "concepts": [
+    "descartes-cogito",
+    "cartesian-dualism",
+    "freud-unconscious",
+    "the-uncanny"
+   ],
+   "relation": "Scalambrino argues the Twilight Zone is a televised expression of Breton's surrealism, starting from Descartes: the cogito and the mind–body problem made reason the measure of the 'clear and distinct,' and surrealism seeks to unbind the imagination from exactly that rational leash. He reads 'A World of His Own' as surrealist automatic writing, 'The Mirror' as Dalí's paranoiac-critical method, and Freud's psychoanalysis as both allied with and (following Adorno's diagnosis of the movement's death) too restrictive for surrealism's project. Episodes like 'Shadow Play' (a man who dreams the world), 'The Shelter,' 'The Lonely,' and 'A Stop at Willoughby' provoke the uncanny — the strangely familiar — in viewers, which is where the Zone is located."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 3. The Short-Sightedness of Henry Bemis.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "unexamined-life",
+    "meaning-of-life"
+   ],
+   "relation": "Pichanick reads 'Time Enough at Last' as a tragic dilemma: Henry Bemis's wish to own his time, away from the bank president's productivity, his wife's social demands, and the 'unrelenting clock,' is granted by a nuclear blast that turns solitude into a monotonous prison driving him to attempted suicide, until the library restores meaning, identity, and freedom. The shattered glasses then reveal his 'short-sightedness': his literal vision always depended on other people and on a piece of technology, so the possibility of meaning itself was socially and technologically manufactured. The episode's brilliance, he argues, is refusing to choose between accepting the social world's limits on our freedom and withdrawing from it — it only shows that misanthropic withdrawal is self-destruction."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 4. Faces from Another Dimension.md",
+   "kind": "chapter",
+   "philosophers": [
+    "levinas",
+    "sartre",
+    "turing",
+    "beauvoir"
+   ],
+   "concepts": [
+    "levinas-face",
+    "the-look",
+    "turing-test"
+   ],
+   "relation": "Hooke frames the volume through Levinas's claim that the face presents itself from a dimension of transcendence, with Kierkegaard's Abraham, Sartre's existential look, and Beauvoir's faces of the elderly and the second sex in the background, plus Lingis on trust. He shows how TZ masks its deadliest figures with trusted faces — Robert Redford as Death in 'Nothing in the Dark,' Sebastian Cabot's avuncular Pip revealing 'This is the other place!' in 'A Nice Place to Visit,' the witch of 'Jess-Belle,' the gentle Kanamits whose book turns out to be a cookbook — so that proof of trust is nearly impossible and the show has us laughing with the Devil. The Turing test is applied to Alicia's tear in 'The Lonely' (clearly in love 'regardless of the organs or hardware beneath'), the slot machine of 'The Fever,' and the aged couple of 'The Trade-Ins,' whose faces silently recognize a lost shared life."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Second Dimension Beyond the Boundaries of You and Me.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 5. True Love or Artificial Love.md",
+   "kind": "chapter",
+   "philosophers": [
+    "peirce",
+    "singer",
+    "cs-lewis"
+   ],
+   "concepts": [
+    "philosophy-of-love",
+    "pragmatic-method",
+    "speciesism"
+   ],
+   "relation": "Clayman uses 'The Lonely' as a case study for whether Corry's love for the robot Alicia is true love, classifying it through C.S. Lewis's four loves (charity, affection, friendship, Eros) and their gift-, need-, and appreciative-love qualities. He deploys Peirce's pragmatic maxim to read the meaning of 'truly loving' off its practical effects, answers the objection that a machine beloved involves prejudice with Singer's speciesism, and borrows Kendall Walton's 'Fearing Fictions' to explain how Corry, knowing Alicia is a machine, 'becomes fictional' and role-plays a believer — concluding he showed affection and friendship born of loneliness, not Eros, since he would not sacrifice his place on the ship for her."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 6. In a Mirror Is Our Image.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "kant",
+    "singer",
+    "regan"
+   ],
+   "concepts": [
+    "applied-ethics",
+    "locke-personal-identity"
+   ],
+   "relation": "Karavitis places thirteen TZ episodes on a spectrum from specialized machines ('The Brain Center at Whipple's,' 'Steel,' 'The Old Man in the Cave') through human-like robots ('The Mighty Casey,' 'A Thing About Machines,' 'From Agnes with Love') to indistinguishable androids ('The Lonely,' 'The Lateness of the Hour,' 'In His Image'), showing that the more humanlike the creation, the deeper the emotional response — including uncanny-valley unease. He imports the animal-ethics debate (Aristotle's property view, Kant's indirect duties, Singer and Regan on moral patients) to frame personhood as the determinant of moral duty, then uses Locke's memory-continuity via 'The Trade-Ins' to argue TZ's androids would be persons, so their routine destruction or disassembly amounts to murder — the show's unstated definition of evil as treating people like disposable objects."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 7. Loss of Memory, Loss of Me.md",
+   "kind": "chapter",
+   "philosophers": [
+    "locke",
+    "parfit",
+    "reid"
+   ],
+   "concepts": [
+    "locke-personal-identity",
+    "personal-identity"
+   ],
+   "relation": "Lay tests Locke's memory theory against the series: Marsha in 'The After Hours' is only the mannequin-person again when she remembers being one, and David Gurney in 'Person or Persons Unknown' has lost his identity because his memories lack factivity — they correspond to no actual past. Reid's brave-officer chain and Parfit's psychological continuity from Reasons and Persons then let him handle the hard cases: Jana's fake 'memory tracks' in 'The Lateness of the Hour' can still constitute her identity as overlapping chains of mental states (severed by reprogramming into Nelda), while the post-Transformation girl of 'Number 12 Looks Just Like You' has all of Marilyn's memories but not her beliefs, desires, or character — so Marilyn did not survive."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 8. What Are You Hearing.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [
+    "skepticism"
+   ],
+   "relation": "Wissner reads TZ's musical scores through Plato's account of music as manufactured, mimetic signs and Aristotle's doctrine of ethos — that melodies represent character and emotion and can change minds without words. She shows how in 'Perchance to Dream' and 'A Stop at Willoughby' reverberation, Theremin-like electronics, and recurring five-note motifs mark dream states against the acoustic French horn of waking reality, how shared cues in 'Twenty-Two' and 'Shadow Play' trap Liz and Adam in circular nightmares that may also be premonitions, and how the piano ostinato of 'The Midnight Sun' reveals Norma's heat-death dream — music answering whether we, or the characters, can ever be sure we are awake rather than dreaming or imagining."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 9. Machines Who Care.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "care-ethics",
+    "objectification",
+    "feminism"
+   ],
+   "relation": "Weiss reads 'The Lonely' and 'I Sing the Body Electric' as anticipations of today's debate over 'relational artifacts' — Turkle's sociable robots, the Sparrows' claim that robotic aged care is unethical, Coeckelbergh's rebuttal — asking, with Anne, whether an electric grandma 'doesn't sound so good.' Corry's Alicia and the children's electric grandma show care being bought as an assembly-line product for the lonely, and he presses the details: why the caring robots are female and serve water, why Alicia arrives in a box and is summarily shot in the face when no longer needed, and what it says about a culture that maroons people in loneliness and then sells the technical fix."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Third Dimension That Wondrous Land Called Truth.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 10. Memories Are Made of This.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume"
+   ],
+   "concepts": [
+    "hume-bundle",
+    "skepticism"
+   ],
+   "relation": "Nisley applies Hume's skeptical account of belief in continued existence — built from resemblance, constancy, 'force and vivacity,' and testimony — to 'And When the Sky Was Opened,' where Colonel Harrington, then Clegg Forbes, then Major Gart each cease to exist as memory and corroboration (bartender, girlfriend, general, headlines) collapse layer by layer. 'The Trouble with Templeton' gives the complementary case: Booth's speakeasy reunion with his dead wife Laura shows the imagination feigning the uninterrupted existence of a person whose constancy and vivacity no longer match his memories, so the senses and memory are exposed as no foundation for rational belief in continued existence."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 11. The Truth about Lying.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hume",
+    "pascal",
+    "kant",
+    "descartes"
+   ],
+   "concepts": [
+    "hume-miracles",
+    "pascals-wager"
+   ],
+   "relation": "Fallis reads the series through the philosophy of testimony: TZ relentlessly punishes both truth-tellers (Bob Wilson's gremlin warning and nine more episodes) and liars ('Hocus-Pocus and Frisby,' 'The Four of Us Are Dying'), while Kant's letter on reticence suggests the untried third option of keeping quiet. On the receiving side, Hume's rules for discounting witnesses and his argument that one should never believe miracle reports explain why the crew disbelieves the gremlin and why 'Printer's Devil's' Devil reasons like Hume, Descartes' malicious demon returns in the disguised devils of 'The Hunt' and 'The Howling Man,' and the chapter ends endorsing Pascal's Wager: 'The Last Rites of Jeff Myrtlebank' argues we should believe even crazy, lying testimony just in case it is true."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Fourth Dimension As Vast as Space and Timeless as Infinity.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 23,
+   "file": "ch23 - 12. The Twilight Zone on Our Doorstep.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "unexamined-life"
+   ],
+   "relation": "Jones argues the Twilight Zone is not elsewhere: episodes like 'The Hitch-Hiker' and 'The Eye of the Beholder' never leave a recognizable America or an ordinary hospital, so the Zone is not a place on any map. Serling's border-crossing narrations plus the impossible catalysts (gremlins, aliens, Talky Tina) create a 'double distancing' — a metaphorical shelter that lets viewers handle mundane truths about selfishness, shakiness, and mortality as if they were strange. 'The Shelter' is the decisive exception: the one episode with no supernatural or futuristic catalyst, aired during the Berlin Crisis when Kennedy urged families to build fallout shelters, it collapses the shelter and forces viewers to see that the Zone is the room they are sitting in."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 13. No Place like a Non-Place.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "authenticity"
+   ],
+   "relation": "Pagnoni Berns, Juvé, and Aguilar apply Marc Augé's concepts of non-place and supermodernity to the show's empty roads, ocean liners, airplanes, hotel rooms, and shopping malls, reading them as geographies of the postwar identity crisis (women in the workforce, jobless veterans, the salesman husband) behind the American Dream. 'The Hitch-Hiker' and 'The Passersby' figure the dead who cannot accept death as travelers on anonymous roads; 'Nightmare at 20,000 Feet' makes Bob Wilson's real struggle the anonymity of the modern passenger rather than the gremlin; and 'The After Hours' and 'The Four of Us Are Dying' show intimacy and recognition intruding fatally into spaces built only for clients and strangers."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 14. The Science of Alternate Realities.md",
+   "kind": "chapter",
+   "philosophers": [
+    "popper"
+   ],
+   "concepts": [
+    "time-travel",
+    "falsification"
+   ],
+   "relation": "Morgan explains what a dimension is mathematically (hypercubes, with 'Little Girl Lost' as a portal into the fourth spatial dimension) and then time as the fourth dimension in Einstein's relativity, using time dilation and the Grandfather Paradox to contrast 'Back There,' which inconsistently lets Corrigan alter some outcomes of Lincoln's assassination, with 'No Time Like the Past,' where Driscoll fails exactly as an eternally fixed past requires. He then surveys infinite-universe speculation, quantum Many Worlds, and multiverse cosmology as readings of 'The Parallel,' where Major Gaines slips into a near-identical reality, before closing with Popper: since no experiment could in principle falsify the existence of other universes, the multiverse is unfalsifiable — a dimension of mind, not science."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - Fifth Dimension Our Twisted Imaginings.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 15. The Twists and Turns of Second Chances.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard"
+   ],
+   "concepts": [
+    "kierkegaard-stages",
+    "kierkegaard-despair",
+    "time-travel"
+   ],
+   "relation": "Karavitis sorts TZ episodes into three types — nostalgia ('The Sixteen-Millimeter Shrine,' 'Walking Distance,' 'The Incredible World of Horace Ford'), time travel ('Back There,' 'No Time Like the Past'), and second chances ('Mr. Bevis,' 'A Game of Pool,' 'Printer's Devil') — to argue that the past is unalterable and that only moving forward, knowing yourself well enough to use it, earns a do-over. Kierkegaard's Either/Or supplies the philosophy: Rocky Valentine's wish-fulfilling Hell and Jesse Cardiff's eternity in the pool hall embody the aesthetic stage's repetitive despair, while Douglas Winter's renunciation of his Devil's contract in 'Printer's Devil' shows the transition to the ethical stage of taking responsibility for one's actions."
+  },
+  {
+   "n": 28,
+   "file": "ch28 - 16. The Pleasure of the Twist.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kuhn"
+   ],
+   "concepts": [
+    "paradigm-shift"
+   ],
+   "relation": "Scales maps the experience of a TZ twist onto Kuhn's Structure of Scientific Revolutions: planted anomalies (Nan Adams' 'things are a little wrong,' Jana's missing childhood photographs, the Kanamits' ominous 'simply trust us') accumulate until the ending makes viewers, like scientists in a revolution, 'come to live in a different world' — rejecting cumulative growth and theory-neutral observation along the way. He then explains the pleasure through Kuhn's theory-ladenness experiments with anomalous playing cards and Churchland's connectionist prototypes: at 'It's a cookbook!' the Kanamits' deeds are suddenly re-categorized from helping behavior to livestock, triggering the same dopamine jolt as getting a joke."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The Dimension that Can’t Be Named or Numbered.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 17. A Shadowland Called the Twilight Zone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "arendt"
+   ],
+   "concepts": [
+    "banality-of-evil",
+    "problem-of-evil"
+   ],
+   "relation": "McCrossin reads 'Deaths-Head Revisited' (Lutze tried by his victims' ghosts at Dachau and sentenced to madness) and 'He's Alive' (neo-Nazi Vollmer groomed by Hitler's ghost) as Serling's twin responses to the Eichmann trial, situating them among the docufiction Operation Eichmann, Perry Mason's repentant Kleinerman episode, and his abhorred Hogan's Heroes. Tracking Serling's maturation from the heartless, monstrous Lutze to the needy, speechmaking Vollmer — 'frustrated men, sick men, angry men' — he argues the later episode foreshadows Arendt's banality of evil, evil as the end product of a political process and a thoughtless inability to think from another's standpoint, all framed by Susan Neiman's problem of evil."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 18. War Means Fighting and Fighting Includes Philosophizing.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [
+    "plato-ring-of-gyges",
+    "aristotle-friendship"
+   ],
+   "relation": "Vuckovich reads 'Still Valley' as a moral battlefield: Confederate scout Sgt. Paradine finds a witchcraft handbook that has frozen a Union patrol before Gettysburg, and Glaucon's Ring of Gyges account from the Republic — the really unjust person winning without scruple while seeming just — frames the temptation of an invisible, effortless victory. Aristotle's friendships of shared wickedness illuminate his bond with the witchman Teague, who exploits Paradine's desperation to pass on his own curse, until Paradine casts the handbook into the campfire, choosing a principle of fairness over a Devil-guaranteed win and accepting the shame of a 'Pyrrhic loss.'"
+  },
+  {
+   "n": 32,
+   "file": "ch32 - 19. Looking Like Number 12.md",
+   "kind": "chapter",
+   "philosophers": [
+    "adorno"
+   ],
+   "concepts": [
+    "culture-industry"
+   ],
+   "relation": "Busk argues 'Number 12 Looks Just Like You' disturbs because it dramatizes Horkheimer and Adorno's culture industry: standardized cultural products manufacture conformist subjects, and Marilyn's forced Transformation into Number 8 — complete with 'Instant Smile' — is the literal industrial production of a person with the capacity for critical resistance stripped out. 'The After Hours' extends the point, with mannequin Marsha as the culture-industry subject reduced to a plastic prop granted brief prearranged 'free time,' and he ends on Adorno's residual hope: the very existence of these failed protesters, like the theory itself, proves some subjectivity survives the system."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - 20. The Totalitarian Zone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "arendt",
+    "aristotle"
+   ],
+   "concepts": [
+    "arendt-totalitarianism",
+    "banality-of-evil",
+    "society-of-the-spectacle"
+   ],
+   "relation": "Altmann builds 20th-century totalitarianism from three TZ episodes: 'He's Alive' shows Aristotle's account of persuasion — rhetoric aimed at an audience's anger and fear — fueling Vollmer's neo-Nazi movement under Hitler's ghostly tutelage; 'Number 12 Looks Just Like You' instantiates Eco's Ur-Fascist fear of difference, banning even Plato and Dostoevsky; and 'Deaths-Head Revisited' gives Lutze's 'I functioned as I was told' alongside Arendt's verdict on Eichmann's thoughtless, mechanical obedience. He then argues the phenomenon has mutated: Debord's society of the spectacle explains Black Mirror's 'The Waldo Moment' and 'Fifteen Million Merits,' where image-politics becomes authoritarian and even Bing's suicidal act of defiance is sold back as an avatar product."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - 21. That Unnamed Zone We Call Freedom.md",
+   "kind": "chapter",
+   "philosophers": [
+    "foucault",
+    "rawls",
+    "nozick",
+    "nietzsche"
+   ],
+   "concepts": [
+    "difference-principle",
+    "minimal-state"
+   ],
+   "relation": "Hooke reads Serling's ambivalence toward the State through 'The Obsolete Man,' where librarian Romney Wordsworth is condemned as obsolete and reads Psalm 23 to mock the Chancellor — analyzed via Foucault's shepherd-flock model of power and its paradox, which 'The Shelter' restages as neighbors deciding who gets inside. He then maps the Rawls–Nozick dispute: whether a state just enough to enforce equal rights and the difference principle must inevitably invade personal freedom (Nozick's Jerry West self-respect example), with both agreeing that no state squashing dignity and freedom is just. Under a Nietzsche epigraph on the gods' laughter, Wordsworth's smile before death becomes the indefinable freedom of laughing at obsolete authority — the unnamed Zone, running from Socrates and Heraclitus to Serling."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - References.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - About the Authors and Editors.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 38,
+   "file": "ch38 - 248.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 39,
+   "file": "ch39 - 249.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "surrealism",
+   "name": "Surrealism (Breton)",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "André Breton's movement defining art as psychic automatism — the imagination functioning free of rational control — seeking the point where the real and the imagined cease to be perceived as contradictions.",
+   "why": "Chapter 10's central thesis is that The Twilight Zone is a televised expression of surrealist philosophy, reading 'A World of His Own' as automatic writing and 'The Mirror' as Dalí's paranoiac-critical method."
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "the-uncanny",
+   "name": "The Uncanny (das Unheimliche)",
+   "philosopher": "freud",
+   "domain": "mind-language-metaphysics",
+   "what": "Freud's category of experience that is simultaneously strangely familiar and alien, provoked when repressed or rationality-bound material breaks loose.",
+   "why": "Chapter 10 argues the show's episodes (e.g. 'The Shelter,' 'The Lonely,' 'A Stop at Willoughby') work precisely by provoking this uncanny experience in viewers — the affective signature of the Zone."
+  },
+  {
+   "ch": 14,
+   "type": "philosopher",
+   "suggested_slug": "cs-lewis",
+   "name": "C.S. Lewis",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Christian philosopher and literary critic whose The Four Loves distinguishes charity, affection, friendship, and Eros, characterized by gift-love, need-love, and appreciative-love.",
+   "why": "Chapter 14's entire analysis of whether Corry truly loves the robot Alicia is conducted through Lewis's four types and three qualities of love."
+  },
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "non-place",
+   "name": "Non-Place (Augé)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Marc Augé's term for the anonymous transit spaces of supermodernity — roads, airports, hotels, malls — where neither singular identity nor genuine relations form.",
+   "why": "Chapter 24 reads the Zone's roads, ships, planes, hotel rooms, and malls as Augéan non-places that stage 1950s anonymity and identity crisis."
+  },
+  {
+   "ch": 28,
+   "type": "philosopher",
+   "suggested_slug": "paul-churchland",
+   "name": "Paul Churchland",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Philosopher of mind whose connectionism holds that cognition works through prototypes in massively parallel neural networks rather than sentence-like representations.",
+   "why": "Chapter 28 needs Churchland's prototypes and vector recategorization to explain the neural jolt of pleasure when a twist ending forces a story under a new prototype, as in 'To Serve Man.'"
+  },
+  {
+   "ch": 33,
+   "type": "concept",
+   "suggested_slug": "society-of-the-spectacle",
+   "name": "The Society of the Spectacle",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Guy Debord's diagnosis that social relations in advanced capitalism are mediated by images, so that politics, authenticity, and even resistance become consumable spectacle.",
+   "why": "Chapter 33 applies Debord's spectacle to Black Mirror's 'The Waldo Moment' and 'Fifteen Million Merits' to show image-politics turning totalitarianism into entertainment and rebellion into product."
+  }
+ ]
+}

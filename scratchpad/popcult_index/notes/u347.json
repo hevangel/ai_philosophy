@@ -1,0 +1,135 @@
+{
+  "book": "238 - Steven Spielberg and Philosophy - We're Gonna Need a Bigger Book",
+  "unit": "u347",
+  "chapters": [
+    {
+      "n": 2,
+      "file": "ch02 - ii.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 3,
+      "file": "ch03 - Title.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 4,
+      "file": "ch04 - Copyright.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 5,
+      "file": "ch05 - Contents.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 6,
+      "file": "ch06 - Acknowledgments.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 7,
+      "file": "ch07 - Introduction.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": [],
+      "relation": "Kowalski's editorial introduction previews all three sections of the volume, framing the collection around the idea that philosophy is something one 'does' and that Spielberg's films (from Jaws to A.I., Schindler's List, Amistad, Munich, and Minority Report) raise questions in ethics, aesthetics, mind, and political philosophy. It names each contributor's thesis rather than arguing an original one, and closes by posing the meta-question of whether popular film can itself 'do' philosophy."
+    },
+    {
+      "n": 8,
+      "file": "ch08 - Part I Philosophy, the Filmmaker, and the Human Condition.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 9,
+      "file": "ch09 - The \u201cBig-Little\u201d Film and Philosophy Two Takes on Spielbergian Innocence.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": ["consequentialism", "utilitarianism"],
+      "relation": "Arms and Riley argue that Spielberg fuses spectacle with intimate 'broken family' drama, then use War of the Worlds, A.I., and Empire of the Sun to press the philosophical problem of special (agent-relative) obligations. They show that Ray's redemption (even murdering Ogilvy to protect Rachel), Gigolo Joe's protection of David, and John Graham's failure all turn on duties to the innocent that consequentialism's agent-neutral, greatest-good calculus cannot accommodate, formalizing the clash as a valid argument against consequentialism. They suggest Spielberg grounds these special obligations in the intrinsic worth of 'the Innocent.'"
+    },
+    {
+      "n": 10,
+      "file": "ch10 - The Recovery of Childhood and the Search for the Absent Father.md",
+      "kind": "chapter",
+      "philosophers": ["plato", "socrates", "plotinus"],
+      "concepts": ["platonic-love", "philosophy-of-love"],
+      "relation": "Le Gall and Taliaferro read E.T., Hook, and the Indiana Jones trilogy through a Socratic-Platonic ideal in which the true 'adventure' ends not in glory (kleos) but in homecoming, beauty, and restored parent-child love. Indiana abandons the grail to grab his father's hand and hears 'Indiana' instead of 'Junior'; Elliott becomes a father to E.T. while E.T. teaches him loss; Peter Banning must recover his Pan-childhood to save his kids. They tie this to the Republic's Myth of Er, the Symposium's ladder of love, and xenia (hospitality) as the setting for wisdom."
+    },
+    {
+      "n": 11,
+      "file": "ch11 - Levinasian Ethics of Alterity The Face of the Other in Spielberg\u2019s Cinematic Language.md",
+      "kind": "chapter",
+      "philosophers": ["levinas", "rorty"],
+      "concepts": ["levinas-face"],
+      "relation": "Wright argues that Spielberg's cinematic language (shot scale, montage editing, mise-en-scene) enacts Levinas's ethics of alterity, in which meeting the unknowable 'face' of the Other demands responsibility and sacrifice, wisdom through love rather than knowledge. He contrasts the distancing long shots that render the Jaws shark and The Thing as mere threats with the intimate close-ups that 'reveal the face' in Close Encounters and E.T., then shows Schindler's List turning the same technique onto the human Other, using the red coat as the face that pulls Schindler from detachment into responsibility."
+    },
+    {
+      "n": 12,
+      "file": "ch12 - The Paradox of Fictional Belief and Its Moral Implications in Jaws.md",
+      "kind": "chapter",
+      "philosophers": ["nussbaum", "aristotle"],
+      "concepts": ["applied-ethics"],
+      "relation": "Trogan and Kowalski use Jaws to pose the paradox of fiction: we feel real fear and pity for Chrissie, the Kintners, and Quint though we know they are not real. They rehearse Radford's charge that such emotions are incoherent (since based on false belief) and answer it with a cognitivist 'unasserted thought' account and Kendall Walton's theory of make-believe, arguing we self-consciously enter the film as an adult game. Drawing on Nussbaum, they claim appropriate emotional response to Jaws cultivates empathy and 'seeing,' honing ethical sensitivity rather than turning adults into children."
+    },
+    {
+      "n": 13,
+      "file": "ch13 - A.I. Artificial Intelligence and the Tragic Sense of Life.md",
+      "kind": "chapter",
+      "philosophers": ["freud"],
+      "concepts": ["meaning-of-life", "personal-identity"],
+      "relation": "Dunn interprets A.I. as a meditation on the 'tragic sense of life': treating David as a person, he argues the film dramatizes three doomed human desires (love, uniqueness, immortality) and tests two failed escapes from mortality, science (Professor Hobby, the Flesh Fair, David's suicide leap) and religious faith (the fraudulent Blue Fairy at drowned Coney Island). Defending the maligned finale, he reads the simulated Blue Fairy and the one-day resurrection of Monica as raising whether a perfect simulation of love can be 'real enough,' with David achieving a sober humanistic acceptance of impermanence."
+    },
+    {
+      "n": 14,
+      "file": "ch14 - Part II Values, Virtue, and Justice.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 15,
+      "file": "ch15 - What Is Wrong with Cloning a Dinosaur Jurassic Park and Nature as a Source of Moral Authority.md",
+      "kind": "chapter",
+      "philosophers": ["hume", "aquinas", "cicero"],
+      "concepts": ["hume-is-ought", "aquinas-natural-law"],
+      "relation": "Spence uses the Hammond-Malcolm debate in Jurassic Park to ask whether nature can ground moral authority. He distinguishes prudential risk arguments (Grant, Sattler) from Malcolm's distinctly moral charge that cloning dinosaurs is 'anti-nature,' then deploys Hume's is/ought problem and Hume's essay 'On Suicide' to argue there is no principled natural/unnatural line and no valid inference from natural facts to moral oughts. Examining natural-law theory (Aquinas, Cicero, 'perverted faculty' arguments), he concludes tampering with nature may be unwise but is not inherently immoral."
+    },
+    {
+      "n": 16,
+      "file": "ch16 - Is Oskar Schindler a Good Man.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "aristotle"],
+      "concepts": ["categorical-imperative", "aristotle-virtue-ethics", "kant-humanity-formula"],
+      "relation": "Ebertz treats Schindler's List as a thought experiment on what makes a person good, judging Oskar Schindler against Kantian and virtue-ethical standards. On Kant he fails: many acts (lying, bribery, infidelity) violate the categorical imperative, and even his rescues spring from growing partial attachment to 'his Jews' rather than rational duty or a good will. On Aristotelian virtue ethics he only selectively exercises virtues, so is not fully 'good' either; Ebertz resolves the tension with a Principle of Moral Exemplarity, holding Schindler up as a flawed but genuine moral example whose care promotes human flourishing."
+    },
+    {
+      "n": 17,
+      "file": "ch17 - A Spielbergian Ethics of the Family in Saving Private Ryan and The Color Purple.md",
+      "kind": "chapter",
+      "philosophers": ["aristotle", "gilligan", "noddings", "macintyre", "hume"],
+      "concepts": ["care-ethics", "virtue-ethics", "aristotle-golden-mean"],
+      "relation": "Clewis defines a 'Spielbergian ethics of the family,' a care-based virtue ethics holding that we owe unique obligations to family and close friends grounded in personal identity, and contrasts it with utilitarian and Kantian approaches. In Saving Private Ryan the squad-as-family and the Ryan brotherhood explain why Miller says Ryan must 'earn this' and why living an ordinary good life suffices; in The Color Purple sisterhood (Nettie/Celie), fatherhood, and motherhood ground obligations of care, forgiveness, and reconciliation. He evaluates the view's feasibility while warning it neglects wider social influences and the is/ought gap."
+    }
+  ],
+  "holes": []
+}

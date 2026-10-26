@@ -1,0 +1,324 @@
+{
+ "book": "103 - David Bowie and Philosophy - Rebel Rebel",
+ "unit": "u167",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - ii.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Contents.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - A Farewell to David Bowie.md",
+   "kind": "chapter",
+   "philosophers": ["aristotle"],
+   "concepts": ["authenticity", "personal-identity"],
+   "relation": "The editor's farewell argues that Bowie's greatness lay in relentless transformation joined to honesty: unlike acts from Kiss to Miley Cyrus whose theatrics are mere spectacle 'in an Aristotelian sense,' Bowie's characters (Ziggy, the Thin White Duke, simulating fellatio with Mick Ronson) opened a discussion of gender and 'the multiple ways of being in the world.' Tracing the career from parents' fear of rock through the Eno-shaped Berlin trilogy's symbolist minimalism and the despised continuity of 'Changes,' it reads The Next Day as a defacement of 'Heroes' and Blackstar as a Mapplethorpe-like series of self-portraits made while unflinchingly facing death."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Part I What David Bowie Was Up To.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - 1. The Actor Tells the Truth.md",
+   "kind": "chapter",
+   "philosophers": ["sartre"],
+   "concepts": ["existence-precedes-essence", "authenticity", "utopia-dystopia"],
+   "relation": "Reisch argues Bowie's parade of characters (Ziggy, Aladdin Sane, the Diamond Dogs persona) was never metaphysical chameleonry but a postwar, cold-war project: by crediting himself only as 'the actor' and calling Dylan out as Robert Zimmerman's artifice, Bowie exposed the 'denim and hippies' authenticity cult as itself a construction. Diamond Dogs' '1984' and 'Big Brother' tie this to the era's totalitarian nightmares of manipulable humanity, and Sartre's 'Man is nothing else but that which he makes of himself' becomes 'the first principle of Bowie' - only constant reinvention keeps us from being fooled by ourselves or others, even at the anguished cost of 'Who Can I Be Now?'"
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 2. You Don’t Have to Be Stupid to Be Cool.md",
+   "kind": "chapter",
+   "philosophers": ["nietzsche"],
+   "concepts": [],
+   "relation": "Botz-Bornstein argues Bowie's coolness was an ethico-aesthetic achievement: an awkward, thin Bromley boy who, through hard training with mime Lindsay Kemp, kabuki discipline, and Kansai Yamamoto's costumes, stylized his very body movements - Nietzsche's 'wisdom of the body' over the intellect - into an honest attitude rather than a pose. The chapter explains his 'kitsch-cool' ability to manipulate kitsch (the 'Over the Rainbow' octave of 'Starman,' glam space futures) without being absorbed, reading it through Shuzo Kuki's Japanese aesthetic of iki, whose astringent negation 'cools' the sweet, and contrasts Bowie's playful, virtual transgression with the jihadi's 'worst kitsch' of heroic death."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 3. The Flux of It All.md",
+   "kind": "chapter",
+   "philosophers": ["heraclitus", "parmenides", "hume", "descartes", "wittgenstein"],
+   "concepts": ["personal-identity", "heraclitean-flux", "parmenidean-being", "hume-bundle"],
+   "relation": "Ammon asks whether anything persists beneath Bowie's serial personas, staging Parmenides's denial of change (with Zeno's paradoxes) and Descartes's melting wax against the Heraclitean flux of 'ch-ch-ch-changes.' Rejecting soul-substance views, he takes the empiricist line - Hume's introspection finds only particular perceptions, never a self - warns via the intentional fallacy (Manson's 'Helter Skelter,' Bloom's hawk) against letting Bowie's own pronouncements fix his songs' meanings, and tests 'meaning is use' on Bowie's calling rock stars fascists. Recurring undercurrents (dancing, apocalypse, distrust of authority) survive, but the conclusion is that Bowie's essence just is flux, 'the river we can't step into twice.'"
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 4. Warm Impermanence.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Auxier reads Bowie's persona changes through Arthur Danto's philosophy of art: Warhol's 1964 Brillo Box ended art history by handing the power to decide what is art to the Art World's theories, and made celebrity itself an art form that Bowie then adopted - hiring Warhol's Pork cast to invent Ziggy and trading his person for a sequence of personas as performance art. By Danto's criterion of embodied meaning Bowie qualifies as an artist, yet the Art World still refuses him the title it grants Warhol, and the chapter closes by conceding that the Brillo Box changed the world while Bowie's works only showed how it had already been changed."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Part II Soundings of Bowie.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - 5. Squawking Like a Pink Monkey Bird—What.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Littmann argues Bowie's surreal lyrics are a deliberate nonsense literature descended from Lear, Carroll, the Goons, Dylan, psychedelia, Beat poetry, and absurdist theatre, and that the obscurity does work: cryptic strokes paint larger worlds, voice fractured minds and alienation (Major Tom's 'little green wheels'), and leave interpretation to the listener, so each generation can read itself into songs like 'Moonage Daydream.' The hard question is evaluative - how can art whose effect depends on audience imagination be assessed at all? - and he answers that Bowie's forty-five years of popularity across shifting fashions is strong evidence the nonsense taps something of genuine, lasting artistic value."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 6. Bowie the Buddhist.md",
+   "kind": "chapter",
+   "philosophers": ["buddha"],
+   "concepts": ["buddhist-non-self", "four-noble-truths", "buddhist-impermanence", "buddhism"],
+   "relation": "Muchall reads 'Quicksand' and 'Where Are We Now?' as suffused with Tibetan Buddhism: 'Don't believe in yourself' voices the anatta teaching Bowie absorbed studying with Chime Rinpoche and from Chogyam Trungpa, whose 'spiritual materialism' warns that ego converts even spirituality and ideologies to its own use. After retelling the Buddha's life, the Four Noble Truths' three kinds of dukkha, and the five aggregates that reveal no permanent self, the chapter maps the song's 'ragged hole' and bardos onto the Tibetan Book of the Dead's after-death journey, and reads Bowie's morphing personas as lived acknowledgment that there is no fixed self - 'there's nothing in here.'"
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 7. David Bowie, Political Philosopher.md",
+   "kind": "chapter",
+   "philosophers": ["nietzsche", "marx", "rawls"],
+   "concepts": ["arendt-totalitarianism", "ubermensch", "ressentiment"],
+   "relation": "Hill reconstructs Bowie's political odyssey as a working-out of what freedom and oppression are: 'Cygnet Committee' repudiates revolution powered by resentment (echoing Nietzsche on socialism's despotic annihilation of the individual), 'Big Brother' and Diamond Dogs diagnose the crowd's flight from freedom into leadership, and the Nietzschean self-as-artwork - 'give style to one's character,' the 'mortal with potential of a superman' - curdles into the Thin White Duke's 'rock stars are fascists' collapse of celebrity into totalitarian leadership. The Berlin Trilogy then turns the critique inward: 'Heroes'' ironic lovers unmask romantic anti-totalitarianism (either side of the Antifaschistischer Schutzwall), 'Neuköln' discovers immigrants' mere survival, and Lodger's 'Fantastic Voyage' lands on structural, Marxist questions of how 'we' are to become free."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 8. The Babe with the Power.md",
+   "kind": "chapter",
+   "philosophers": ["berkeley"],
+   "concepts": ["berkeley-idealism", "what-is-it-like"],
+   "relation": "Michaud uses Bowie's Jareth and Labyrinth to make Berkeley's case that only minds and ideas exist: the taste of Sarah's tainted fruit, colors no culture without a word for 'blue' can see, dreams and optical illusions, and hallucinations all show the perceived world is a brain-made prediction, so the Goblin King's magic realm is 'more possible than we realize.' Because each of us builds a private world - Sarah and Jareth can never compare experiences ('I wonder what your basis for comparison is') - Bowie's death is literally the collapse of the world as he created it, 'as the world falls down,' though music may still reach across the void."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Part III The Bowie Identity.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 9. When Jumpin’ Jack Flash Met Ziggy Stardust.md",
+   "kind": "chapter",
+   "philosophers": ["beauvoir", "kierkegaard", "sartre", "kant"],
+   "concepts": ["ethics-of-ambiguity", "bad-faith", "authenticity", "kierkegaard-stages"],
+   "relation": "Auxier reads the 1973 Jagger-Bowie intimacy and rivalry ethically: Keith Richards's portrait of Mick's envy frames Kierkegaard's Either/Or warning against the aesthetic life and the Kantian morality-duty wedding Bowie fled, against Beauvoir's Ethics of Ambiguity, which demands that one own one's freely chosen hollowing-out without appeal to any authority. Beauvoir's bad faith and authenticity then explain the outcome - Bowie beat Jagger by killing Ziggy, firing the Spiders, and finally making his very death a persona ('authentically Bowie'), while Jagger, forever only the Stones' singer, can respond only in bad faith, because 'hell is other people': each glimpsed the faker in the other."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - 10. David Bowie and Death.md",
+   "kind": "chapter",
+   "philosophers": ["russell"],
+   "concepts": ["the-absurd"],
+   "relation": "Potter and Cobb sort Bowie's death lyrics into seven interpretations - evil to be feared ('Space Oddity'/'Ashes to Ashes'), source of social unity ('Five Years,' 'Rock'n'Roll Suicide'), absurd defiance ('Heroes,' 'The Next Day'), revelation ('Quicksand,' 'We Are the Dead'), inevitable acceptance ('The Hearts Filthy Lesson'), transition between forms ('Lazarus'), and signifier of human singularity ('Blackstar' as the incommunicable uniqueness every death extinguishes) - all animated by Bertrand Russell's moral psychology of impulses, desires, and the 'principle of growth.' Ambivalence, they argue, is Bowie's honest response: no interpretation is privileged, and 'Blackstar' fuses celebrity's illusory immortality with the impulse to individuality, culminating in the artfully managed death itself."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 11. Meeting the Monstrous Self.md",
+   "kind": "chapter",
+   "philosophers": ["jung", "nietzsche", "freud"],
+   "concepts": ["jung-shadow", "jung-archetypes"],
+   "relation": "Piven reads 'The Width of a Circle''s monster sitting by the tree through the doppelgänger tradition (Rank's The Double, Dostoevsky, Kirk's 'Enemy Within,' Luke finding his own face in Vader's mask): the monstrous double is the self, and social identity is the mask that hides it, so 'we have met Sauron and he is us.' Deploying Jungian archetype against mere stereotype, Nietzsche's dictum that truth kills, and the Freudian superego - the devil as its alter ego, perversely enjoying the condemnation it inflicts - the chapter argues Bowie's erotic devil scene shows how moralistic societies brand innocent desire monstrous, and that an agonizing encounter with the inner monster, not clichéd self-mythology, is the dire necessity of self-knowledge."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 12. David Bowie’s Sincerity.md",
+   "kind": "chapter",
+   "philosophers": ["descartes"],
+   "concepts": ["authenticity", "descartes-cogito", "ubermensch"],
+   "relation": "Cooper distinguishes sincerity - communicating a self to an audience - from authenticity, and uses Critchley's reading of Bowie's visible seams ('maybe we're lying,' 'saying no but meaning yes') to argue that openly displayed artifice can carry real feeling, even as 'Conversation Piece' and the suffocating mask of 'The Mask' dramatize language's failure to transmit a self. Descartes's cogito secures self-certainty but not communication - Bowie stays 'a thinker, not a talker' - and against the Nietzschean 'Supermen' whose self-creation shades into self-alienation, Bowie moves past cold postmodern irony to a new sincerity that admits its own insincerity ('It's not the side-effects of the cocaine... I'm thinking that it must be love!')."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - Part IV Out of Bowie’s Mind.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - 13. The Madness of the Musician.md",
+   "kind": "chapter",
+   "philosophers": ["hegel", "descartes"],
+   "concepts": ["simulacra", "hegel-geist", "gender-performativity"],
+   "relation": "Lampert explains why Bowie is called the first postmodern pop star - he ironically shows that 'acting like' a rock star just is being one, refusing the genius myth by cobbling influences and confessing 'I lie an awful lot' - and grounds this in Sloterdijk's cynical reason and Diderot's Rameau's Nephew, whose honest liar Lui owns the mask-wearing vices everyone else hides. Hegel's Phenomenology supplies the title: the musician's universal deception is 'the madness of the musician,' the 'I' hollowed into pure ironic distance from all its masks (Descartes's separable self become image-manipulation), yet Hegel's hint that the cynic's vain talk can rise into 'a spiritual self of truly universal worth' points beyond Bowie's hyper-real self-referentiality to punk's DIY injunction to be your own hero - and to reading all sexuality, like Bowie's, as performance."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 14. David Bowie’s Sadness.md",
+   "kind": "chapter",
+   "philosophers": ["deleuze", "heidegger", "buddha", "freud"],
+   "concepts": ["being-toward-death", "freud-death-drive", "buddhist-non-self", "das-man"],
+   "relation": "Ketcham argues Bowie's sadness is ours: via Deleuze and Guattari's Anti-Oedipus he casts consumer capitalism as a machine producing schizophrenic fad-following (the stuck high-school footballer, the Benetton self), of which Bowie's serial personas are both symptom and escape - 'always crashing in the same car' yet never repeating. Minkowski's lived time and the Buddha's anatman ground the dance as pure becoming without a dancer, while Heidegger's das Man and being-toward-death explain why authentic self-creation - which, unlike Sellers or Williams, Bowie survived - exacts the price Freud's beyond-the-pleasure-principle names as compulsive repetition, turned by Bowie into a life wish."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 15. Aladdin Sane or Cracked Actor.md",
+   "kind": "chapter",
+   "philosophers": ["foucault", "descartes", "jung", "aristotle"],
+   "concepts": ["cartesian-doubt", "jung-archetypes", "jung-collective-unconscious"],
+   "relation": "Riches and Watson weigh two readings of Bowie's 'cracked actor': either his cut-up method and persona-blurring (Ziggy taking over, the family schizophrenia that killed Terry) blurred imagination into hallucination, a Cartesian dream-vs-waking doubt filtered through Bowie's Jungian 'crack in the sky,' archetypes, and collective unconscious; or he deliberately challenged the sanity/madness distinction, as Foucault's Madness and Civilization and antipsychiatrist Thomas Szasz did. On the second reading 'All the Madmen,' the androgyny of 'Queen Bitch' and 'Jean Genie,' and 'Oh You Pretty Things'' Homo Superior rebel against Aristotle's identification of humanity with rationality, winning everyone the freedom to be their unconventional selves."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - References.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Authors Who Fell to Earth.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "iki-aesthetics",
+   "name": "Iki (Japanese aesthetic of stylish chic)",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "Shuzo Kuki's Japanese aesthetic ideal: cool, astringent chic that negates the 'sweet' (kitsch), expresses itself through the body, and stays a virtual possibility rather than an actuality.",
+   "why": "Chapter 2's central tool for explaining Bowie's 'kitsch-cool' body-stylization is Kuki's iki, for which the taxonomy has no slot."
+  },
+  {
+   "ch": 12,
+   "type": "philosopher",
+   "suggested_slug": "arthur-danto",
+   "name": "Arthur Danto",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Twentieth-century analytic philosopher of art whose 'artworld' theory and 'end of art' thesis followed from Warhol's Brillo Box.",
+   "why": "Chapter 4 is built on Danto's philosophy of art (embodied meaning, the Art World, the end of art history), but he is absent from the taxonomy."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "end-of-art",
+   "name": "The End of Art (the Artworld)",
+   "philosopher": "arthur-danto",
+   "domain": "political-social",
+   "what": "Danto's thesis that after Warhol's Brillo Box no style-lineage defines art; the Art World's theories decide what is art, and celebrity itself can be an art form.",
+   "why": "Chapter 4 explains Bowie's persona-as-performance-art and his rejection by the Art World entirely through this thesis."
+  },
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "nonsense-and-artistic-value",
+   "name": "Nonsense Literature and Artistic Value",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The philosophy-of-art question of how lyrics that avoid determinate meaning (nonsense in the line from Lear and Carroll to Bowie) can nonetheless have artistic value through mood and audience imagination.",
+   "why": "Chapter 5's entire argument is that Bowie's incomprehensible lyrics gain, not lose, artistic value by leaving interpretation to the listener."
+  },
+  {
+   "ch": 20,
+   "type": "concept",
+   "suggested_slug": "principle-of-growth",
+   "name": "Principle of Growth (impulses, desires, ambivalence)",
+   "philosopher": "russell",
+   "domain": "mind-language-metaphysics",
+   "what": "Russell's moral psychology from Principles of Social Reconstruction: an instinctive 'principle of growth' drives impulses and desires toward self-realization, inevitably tinged with ambivalence.",
+   "why": "Chapter 10 organizes all seven of Bowie's interpretations of death around this framework, which no existing taxonomy slug covers."
+  },
+  {
+   "ch": 24,
+   "type": "philosopher",
+   "suggested_slug": "diderot",
+   "name": "Denis Diderot",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Enlightenment philosopher whose dialogue Rameau's Nephew portrays Lui, the honest parasite and mask-wearing musician who owns the vices everyone hides.",
+   "why": "Chapter 13 draws its central comparison between Bowie and Lui, and Hegel's 'madness of the musician' is Hegel's reading of that dialogue."
+  },
+  {
+   "ch": 24,
+   "type": "concept",
+   "suggested_slug": "cynical-reason",
+   "name": "Cynical Reason (the honest liar)",
+   "philosopher": "peter-sloterdijk",
+   "domain": "political-social",
+   "what": "Sloterdijk's account of modern cynicism: knowing, ironic participation in the corrupt system one condemns - being honest about one's own fakery.",
+   "why": "Chapter 13 uses cynical reason (via Sloterdijk and Sharon Stanley) to explain Bowie's postmodern persona-play as 'if you can't beat 'em, join 'em.'"
+  },
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "capitalism-and-schizophrenia",
+   "name": "Capitalism and Schizophrenia (deterritorialization)",
+   "philosopher": "deleuze",
+   "domain": "political-social",
+   "what": "Deleuze and Guattari's Anti-Oedipus thesis that capitalist production itself generates schizophrenic flux - ceaseless decoding of desire, fads, and collapse of stable identity.",
+   "why": "Chapter 14 explains Bowie's persona-shifting as performance of capitalism's schizophrenic production, for which the existing 'rhizome' slug is inadequate."
+  },
+  {
+   "ch": 26,
+   "type": "philosopher",
+   "suggested_slug": "thomas-szasz",
+   "name": "Thomas Szasz",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Psychiatrist-philosopher of the antipsychiatry movement who argued mental illness is a myth by which psychiatry acts as an agent of social control.",
+   "why": "Chapter 15 quotes Szasz at length to pair his critique of psychiatric labeling with Bowie's 'All the Madmen' challenge to the sanity/madness line."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "madness-and-civilization",
+   "name": "Madness and Civilization (the construction of madness)",
+   "philosopher": "foucault",
+   "domain": "political-social",
+   "what": "Foucault's account of how psychiatry's 'monologue of reason about madness' constituted madness as mental illness, breaking an earlier dialogue between madness and reason.",
+   "why": "Chapter 15 quotes Madness and Civilization directly to read Bowie as questioning the historically constructed sanity/madness distinction; power-knowledge alone does not capture it."
+  }
+ ]
+}

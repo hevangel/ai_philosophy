@@ -1,0 +1,358 @@
+{
+  "book": "287 - Blues \u2013 Philosophy for Everyone - Thinking Deep About Feeling Low",
+  "unit": "u410",
+  "chapters": [
+    {
+      "n": 2,
+      "file": "ch02 - Globalization and Contemporary Art.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 3,
+      "file": "ch03 - BLUES.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 4,
+      "file": "ch04 - BLUES.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 5,
+      "file": "ch05 - BLUES.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 6,
+      "file": "ch06 - BLUES.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 7,
+      "file": "ch07 - BLUES.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 8,
+      "file": "ch08 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": [],
+      "relation": "In this foreword, Alligator Records founder Bruce Iglauer argues that the blues is 'magic' rooted in the specific 300-year African-American experience of slavery, sharecropping, and Jim Crow, yet reaches a worldwide audience. He dissects the 'tension and release' at the music's core \u2014 delayed vocals, notes bent up to pitch, Muddy Waters' slide, Albert King's guitar \u2014 as the mechanism of its emotional effect, and contrasts the communal call-and-response of black juke joints with the more passive reception of white festival audiences. The piece is a practitioner's testimony rather than a sustained philosophical argument, so no taxonomy philosopher's doctrine is genuinely applied."
+    },
+    {
+      "n": 9,
+      "file": "ch09 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [
+        "plato",
+        "socrates",
+        "nietzsche",
+        "bentham"
+      ],
+      "concepts": [
+        "plato-tripartite-soul",
+        "unexamined-life"
+      ],
+      "relation": "The editors' introduction argues blues and philosophy are close kin in confronting the struggling soul. It reads Lightnin' Hopkins's 'Lonesome Dog' through Plato's tripartite soul from Republic IX \u2014 the howling 'dog' is the appetitive part \u2014 but claims the blues achieves a 'blues harmony' rather than Plato's reason-ruled harmony. It casts Socrates, calm before execution in the Phaedo, as having a 'bluesy sensibility' that rises above worry through philosophizing, invokes Bentham's claim that the capacity to suffer is what matters morally to gloss the blues as knowledge of suffering, and likens the blues' triumphant affirmation to Nietzsche's positivity."
+    },
+    {
+      "n": 10,
+      "file": "ch10 - BLUES.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 11,
+      "file": "ch11 - BLUES.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 12,
+      "file": "ch12 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [
+        "heraclitus"
+      ],
+      "concepts": [
+        "heraclitean-flux"
+      ],
+      "relation": "Joel Rudinow stages a three-way internal dialogue ('Me,' 'Myself,' and 'I') debating whether the commercialized, white-inflected blues \u2014 the House of Blues chain, the Blues Brothers, Cyndi Lauper's Memphis Blues, Clapton's Cream 'Crossroads' \u2014 is still really the blues. 'I' introduces Heraclitus's doctrine that everything flows and you cannot step twice into the same river, using the Heraclitean flux of culture to argue the blues is a living, ever-changing tradition whose 'canon' cannot be pinned to a fixed time, place, or racial purity, dissolving the survive/thrive/arrive question into one about how a canon forms and evolves."
+    },
+    {
+      "n": 13,
+      "file": "ch13 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [
+        "benjamin"
+      ],
+      "concepts": [
+        "benjamin-aura"
+      ],
+      "relation": "Ken Ueno recounts a B. B. King lecture where King played the 'right' notes, then 'turned it on' with identical notes made electric by personality, to argue that the blues locates a song's identity in the performer's aura rather than a written score. He appropriates Walter Benjamin's 'The Work of Art in the Age of Mechanical Reproduction' but inverts it: where Benjamin held that mechanical reproduction withers the aura, Ueno claims recordings actually preserve and transmit the aura of blues performers (bent notes, B. B.'s voice) that classical notation cannot capture, making recordings a more democratic notation for an aural tradition."
+    },
+    {
+      "n": 14,
+      "file": "ch14 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [
+        "wittgenstein",
+        "socrates"
+      ],
+      "concepts": [
+        "language-games"
+      ],
+      "relation": "Wade Fox and Richard Greene argue that no set of necessary and sufficient conditions \u2014 twelve-bar structure, AAB lyrics, mournful content \u2014 defines the blues, since paradigm cases violate each (Charley Patton's one-chord songs, cheerful jug band tunes, instrumentals). Invoking the 'Socratic fallacy,' they deny that failure to define a term means failure to grasp it, then apply Wittgenstein's Philosophical Investigations notion of family resemblance so that blues songs share overlapping features without a common essence. They extend this to argue contemporary blues (Stevie Ray Vaughan, Robert Cray, Jonny Lang) are 'twelve-bar zombies' \u2014 resembling the blues but lacking the lived authenticity that gives it a soul."
+    },
+    {
+      "n": 15,
+      "file": "ch15 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": [],
+      "relation": "Philip Jenkins distinguishes the blues as musical form from the blues as cultural expression, defending a version of Amiri Baraka's expressivist claim that white musicians (imagining Barry Manilow) cannot authentically play the blues. Against the formalism of Rudinow and James O. Young, he theorizes that one's expressive 'options' are internalized from one's social group, so authentic blues requires the lived, embodied experience of African-American oppression that a cultural outsider lacks. He roots the disagreement in a 'too-loose' definition of culture that ignores how involuntary, systematic oppression makes African-American culture more experientially cohesive than voluntary subcultures."
+    },
+    {
+      "n": 16,
+      "file": "ch16 - BLUES.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 17,
+      "file": "ch17 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [
+        "hegel"
+      ],
+      "concepts": [],
+      "relation": "A trauma-psychology team (Steinberg, Pynoos, Abramovitz) argues that the blues functions like psychotherapy for trauma, loss, and adversity rooted in slavery, sharecropping, and disasters such as the 1927 Mississippi flood (Charley Patton, Bessie Smith). They map blues techniques onto clinical findings: the repeated AAB line mirrors the traumatized need to retell; verbal labeling of emotion dampens amygdala activity; delayed notes and tension-release (Muddy Waters, Sonny Boy Williamson II) recreate and discharge distress. They cite Hegel's Aesthetics on music's capacity to absorb the listener into inner life, and Robert Stoller on aesthetic excitement, to explain how the blues transforms raw trauma into bearable, shareable art."
+    },
+    {
+      "n": 18,
+      "file": "ch18 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [
+        "kant",
+        "plato",
+        "aristotle",
+        "schopenhauer",
+        "lyotard"
+      ],
+      "concepts": [
+        "kant-aesthetics",
+        "schopenhauer-will"
+      ],
+      "relation": "David C. Drake argues that the blues' distinctive achievement is presenting 'sadness as beauty,' which lets performers and listeners find their own sorrow beautiful and thus therapeutic. He surveys theories of beauty \u2014 Plato's proportion/harmony/unity and Aristotle's order/symmetry (a beautiful life needs some sorrow), Kant's claim that beauty is a subjective-yet-universal judgment requiring reflection, Lyotard's sublime that 'pleases only by causing pain,' and Schopenhauer's view that aesthetic contemplation temporarily frees us from the striving Will \u2014 and links beauty to truth and goodness (Keats, Nietzsche's 'whoever despises himself respects himself as one who despises') to explain why blues sorrow feels good."
+    },
+    {
+      "n": 19,
+      "file": "ch19 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [
+        "aristotle",
+        "freud",
+        "camus"
+      ],
+      "concepts": [
+        "sisyphus",
+        "freud-civilization"
+      ],
+      "relation": "Ben and Owen Flanagan ask why people seek out 'anguished art,' comparing the blues to Aristotelian tragedy. They argue the blues protagonist, unlike the doomed tragic hero, survives \u2014 and his downfall comes from ordinary personal choices (wanderlust, whiskey, the wrong woman) rather than fated conflicts of duty, making imaginative identification easier for a plebeian audience. Aristotle's catharsis of pity and fear is broadened by Freud's account of sublimation and release of repressed sexual and aggressive drives; Robert Johnson's 'Love in Vain' and Muddy Waters' 'Five Long Years' are read as Sisyphean (Camus) images of loving and losing, so the blues offers beauty, release, and shared humanity by being more 'real' than happy pop."
+    },
+    {
+      "n": 20,
+      "file": "ch20 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [
+        "aristotle"
+      ],
+      "concepts": [
+        "aristotle-virtue-ethics",
+        "aristotle-eudaimonia"
+      ],
+      "relation": "Roopen Majithia asks why a music born of African-American suffering became universally beloved and answers with Aristotle's account of musical catharsis in the Politics. Drawing on the Nicomachean Ethics link between habituated action, emotion, and disposition (as courage is built by acting courageously), he argues music images real emotions and thereby purges excess feeling. Modern electric urban blues (T-Bone Walker's 'Stormy Monday,' Muddy Waters, Howlin' Wolf), with its danceable, sexually charged rhythm, recreates the emotional landscape of repetitive urban work and, aided by dancing, effects a broad catharsis \u2014 which also explains why non-black communal performers can play it and why intimate bars beat arenas."
+    },
+    {
+      "n": 21,
+      "file": "ch21 - BLUES.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 22,
+      "file": "ch22 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [
+        "epictetus",
+        "plato",
+        "nietzsche",
+        "aristotle"
+      ],
+      "concepts": [
+        "stoicism",
+        "apollonian-dionysian"
+      ],
+      "relation": "Brian Domino frames a choice between the reasoned Stoic life and the emotional life through the Rolling Stones and the blues. He presents Epictetus's Stoicism \u2014 apatheia, the dichotomy of control, and the Enchiridion's 'it was given back' \u2014 applied to blues themes of floods, death, and cheating women ('When the Levee Breaks,' Robert Johnson's 'Terraplane Blues'), arguing emotions stem from false beliefs and akrasia. Against this he sets 'Jumping Jack Flash,' 'Monkey Man,' and '(I Can't Get No) Satisfaction' as celebrations of raw emotional existence, invoking Plato's tension of reason and passion and Nietzsche's image of the 'music-making Socrates' to leave the choice deliberately unresolved."
+    },
+    {
+      "n": 23,
+      "file": "ch23 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [
+        "descartes",
+        "nozick",
+        "socrates"
+      ],
+      "concepts": [
+        "cartesian-doubt",
+        "experience-machine",
+        "skepticism"
+      ],
+      "relation": "Jesse Steinberg argues that doubt \u2014 a pervasive blues theme (B. B. King's 'nobody loves me but my momma,' Otis Spann's 'another mule kickin' in my stall,' Buddy Guy's 'I Smell a Rat') \u2014 supports Descartes's external-world skepticism, since knowledge would require ruling out the dreaming hypothesis. Against the 'I don't care' hedonistic reply he deploys Nozick's experience machine to show we value authentic reality over mere pleasant appearance, and he rejects contextualism as a solution. Endorsing Socrates' examined life, he settles for strong justification rather than certainty, reading Charley Patton's 'can't tell my future, can't tell my past' as the blues' honest coping with irreducible doubt."
+    },
+    {
+      "n": 24,
+      "file": "ch24 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [
+        "heidegger",
+        "nietzsche"
+      ],
+      "concepts": [
+        "being-toward-death",
+        "authenticity"
+      ],
+      "relation": "Robert and Benjamin Stolorow argue the blues is musical therapy that lets us face universally traumatizing dimensions of existence. Drawing on Robert Stolorow's Trauma and Human Existence, they hold that emotional pain becomes traumatic only when it finds no 'relational home,' and that trauma shatters the 'absolutisms of everyday life,' exposing the existential vulnerability of finite, mortal beings \u2014 an explicitly Heideggerian being-toward-death and authenticity of owning rather than evading vulnerability. Blues lyrics (Louisiana Red's 'Too Poor to Die,' Willie Dixon's 'One More Mile to Go') voice tragic-ironic mortality, while pitch-bending and major/minor ambiguity viscerally hold the pain in a shared, therapeutic conversation."
+    },
+    {
+      "n": 25,
+      "file": "ch25 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [
+        "kierkegaard",
+        "marx",
+        "buddha",
+        "hume"
+      ],
+      "concepts": [
+        "leap-of-faith",
+        "marx-alienation",
+        "four-noble-truths"
+      ],
+      "relation": "Joseph Lynch uses Son House's 'Preachin' the Blues' \u2014 a fallen preacher who preaches the blues, not the gospel \u2014 to explore the tension between blues sensuality and religion, arguing the expression of suffering is itself liberation from it. He reads Marx's 'religion is the sigh of the oppressed creature' as making the blues a heart of a heartless world that voices and eases alienated labor; the Buddha's Four Noble Truths and impermanence as embracing suffering to be freed from craving; and Kierkegaard's passionate leap of faith, born of doubt and despair and contrasted with Hume, as the model for how blues 'preachers' like Son House and Robert Johnson embrace the absurd contradiction of embodied spirituality."
+    },
+    {
+      "n": 26,
+      "file": "ch26 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [
+        "dubois",
+        "cornel-west"
+      ],
+      "concepts": [
+        "double-consciousness"
+      ],
+      "relation": "Kimberly Connor reads the blues as story, song, and prayer \u2014 a secularized descendant of the spirituals and an African-American philosophical guide to making meaning from suffering, exemplified by the Robert Johnson crossroads myth. Using Albert Murray's idea of 'worrying the line' (breaking a phrase to emphasize or subvert) as both technique and survival philosophy, she casts the bluesman as an 'Omni-American' whose art dissolves black/white division, invoking Du Bois's double consciousness and Cornel West's claim that the blues chronicles catastrophe 'with grace and dignity.' She argues Martin Luther King, Jr.'s nonviolent resistance and Brother Will Hairston's 'Alabama Bus' show the blues functioning as prayer and an agent of social change."
+    },
+    {
+      "n": 27,
+      "file": "ch27 - BLUES.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 28,
+      "file": "ch28 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [
+        "young"
+      ],
+      "concepts": [
+        "five-faces-oppression",
+        "objectification"
+      ],
+      "relation": "Meghan Winsby answers George Carlin's gibe that white people have nothing to be blue about by arguing that women \u2014 black or white \u2014 legitimately sing the blues because they share an experience of oppression. She applies Iris Marion Young's 'five faces of oppression' (exploitation, marginalization, powerlessness, cultural imperialism, violence) to women's silencing, sexual objectification, and gender exploitation, showing that early blueswomen (Ma Rainey, Bessie Smith, Memphis Minnie) and later ones (Bonnie Raitt) asserted sexuality and independence against a patriarchal order. She then weighs, without fully endorsing, the moral cultural-appropriation and audience-appropriation objections (via James O. Young) to white men playing the blues."
+    },
+    {
+      "n": 29,
+      "file": "ch29 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [
+        "macintyre",
+        "aristotle",
+        "augustine"
+      ],
+      "concepts": [],
+      "relation": "Douglas and Nathaniel Langston argue that even white folks 'get' the blues, citing B. B. King and Howlin' Wolf treating the white Jimmie Rogers as a bluesman and looking to hard-life experience rather than color. They distinguish the experiential 'get' from two comprehension senses \u2014 understanding the lyrics and understanding the music \u2014 detailing twelve-bar form, slide, pitch-bending, and finger-picking to show any skilled musician can 'get' the music. To test whether black experience is required to grasp the lyrics they engage MacIntyre's thesis of incommensurable conceptual schemes (Aristotle vs. Augustine) and Davidson's reply, concluding that the common human hurt Howlin' Wolf sings about is accessible to anyone regardless of race."
+    },
+    {
+      "n": 30,
+      "file": "ch30 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [],
+      "concepts": [],
+      "relation": "Michael Neumann attacks the 'white rip-off' account of rock and roll as a species of 'distributive history' that redistributes reputation from white to black artists but relies on racial stereotypes. He marshals musical history \u2014 the banjo's black origin, Jimmie Rogers's blues, Chuck Berry and Howlin' Wolf borrowing from country, color-blind commercial exploitation by black label owner Don Robey \u2014 to argue black and white music were always intertwined, so cultural (as opposed to commercial) theft was impossible. He contends the account slanders black music by reducing it to 'jungle sex and violence,' ignoring doo-wop, sophisticated pianists, and the aesthetic range black audiences actually preferred. The argument is historical and aesthetic, applying no taxonomy philosopher's doctrine."
+    },
+    {
+      "n": 31,
+      "file": "ch31 - BLUES.md",
+      "kind": "chapter",
+      "philosophers": [
+        "aristotle",
+        "plato",
+        "socrates"
+      ],
+      "concepts": [
+        "plato-forms"
+      ],
+      "relation": "Ron Bombardi argues there are two incompatible histories of the blues, tracing the split to Plato's and Aristotle's opposed views of difference. Using Ian Hacking's 'making up people,' he says the 'orthodox' tale treats the blues as the product of a distinct kind of people (Platonic kinds generating individuals), while the 'unorthodox' tale \u2014 the hybrid, cosmopolitan music of the Mississippi Sheiks \u2014 fits Aristotle's nominalism, where only individuals exist and forms are things 'in name only.' Invoking the Socratic 'know thyself,' he concludes the blues has no essence and that the 'pay your dues' authenticity maxim reduces persons to social kinds and perpetuates the very oppression the blues protests; the blues, he says, is finally 'ours.'"
+    },
+    {
+      "n": 32,
+      "file": "ch32 - BLUES.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 33,
+      "file": "ch33 - BLUES.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": []
+}

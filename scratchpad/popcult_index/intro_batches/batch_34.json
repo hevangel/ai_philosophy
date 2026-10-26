@@ -1,0 +1,16 @@
+[
+ {
+  "key": "plantinga-basic-beliefs",
+  "name": "Properly Basic Belief",
+  "kind": "concept",
+  "philosopher": "Alvin Plantinga",
+  "domain": "God, Faith & the Meaning of Life"
+ },
+ {
+  "key": "fate-vs-free-will",
+  "name": "Fate and Foreknowledge",
+  "kind": "concept",
+  "philosopher": "",
+  "domain": "God, Faith & the Meaning of Life"
+ }
+]

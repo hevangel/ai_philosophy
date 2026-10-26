@@ -1,0 +1,182 @@
+{
+ "book": "224 - The Philosophy of Joss Whedon",
+ "unit": "u325",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - Cover.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Acknowledgments.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Photo Credits and Captions.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Introduction.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "film-as-philosophy"
+   ],
+   "relation": "Kowalski's Introduction argues that philosophy is an activity, not a possession—asking universally important questions, exposing contradictions, and defending answers with arguments—and asks whether a filmmaker can engage in that process through fictional narrative, using Joss Whedon's corpus (Buffy, Angel, Firefly, Dollhouse, The Avengers) as the test case. It contends that showing Whedon philosophizes would confirm the film-as-philosophy thesis and force its expansion to television. The chapter then prospectuses the book: authenticity via Heidegger, Sartre, Socrates, and Rawls; Platonic and Aristotelian accounts of the good life; Lockean-Kantian rights and Aristotelian virtue without God; Hick's religious non-realism via Shepherd Book; free will via d'Holbach and Kane; and the Mulhall debate—under the canon rule that only texts with Whedon's script approval count."
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Seeking Authenticity.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger",
+    "sartre",
+    "rawls",
+    "socrates"
+   ],
+   "concepts": [
+    "authenticity",
+    "das-man",
+    "bad-faith",
+    "unexamined-life"
+   ],
+   "relation": "The chapter argues that Whedon's heroes—Angel resisting the demon within in Pylea, Spike earning back his soul, Simon Tam abandoning his medical career for River, Echo asserting control over her Dollhouse imprints, and Buzz Lightyear redefining himself—live authentically by owning their values against depersonalizing forces, while Captain Hammer and Serenity's Operative are the true 'monsters' who surrender their identities to social roles and blind institutional loyalty. It then asks whether Whedon is a thoroughgoing Sartrean existentialist and answers no: the 'Paradiso Paradigm' (Mal returning the medicine in 'The Train Job') and Willow's 'Choices' speech show objective moral value independent of autonomous choice, making Whedon more Socratic than Sartrean. Rawls supplies the synthesis: heterogeneous life plans (Xander, Oz, Lorne) pursued within objective social conditions—basic rights, liberties, and opportunities—that make authentic self-formation possible for everyone."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - On Being Horrible (and an Angel).md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle"
+   ],
+   "concepts": [
+    "plato-ring-of-gyges",
+    "aristotle-friendship",
+    "plato-tripartite-soul",
+    "political-animal"
+   ],
+   "relation": "The chapter runs Glaucon's Ring of Gyges challenge from the Republic against the Whedonverse: invisibility in 'Out of Mind, Out of Sight' and 'Gone' (where even Buffy takes a self-serving 'vacation from herself'), the invincibility ring in 'In the Dark' that Angel destroys rather than uses, and the Buffy-Faith body switch in 'Who Are You?' as the unjust person with a virtuous reputation versus the just person misunderstood. Plato's tripartite-soul answer is only partly confirmed—Faith spirals into torment after killing the deputy mayor, but Saffron cons without any inner turmoil—so the chapter turns to Aristotle: the good life needs external goods, above all friendship and community. This explains why Whedon's wrongdoers (Woody in Toy Story, Jayne in 'Ariel,' Gunn, Stark, Buffy in 'Revelations') must atone before their communities, why Mal's 'you only need a few [good people]' rebukes Saffron, and why both Dr. Horrible and Captain Hammer are tragic—each lives alone and friendless, having squandered Penny."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Right and the Good without God.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "aristotle",
+    "locke",
+    "plato"
+   ],
+   "concepts": [
+    "kant-humanity-formula",
+    "aristotle-virtue-ethics",
+    "plato-euthyphro",
+    "locke-natural-rights"
+   ],
+   "relation": "The chapter builds the case that Whedon's fiction grounds ethics without God: Foy's Lockean social-contract reading of the Firefly crew and Kant's person-as-end analysis explain why Mal insists Saffron is 'not to be bought' in 'Our Mrs. Reynolds' and why Loki's possession of Hawkeye and Jasmine's enthrallment of her worshippers are the Whedonverse's paradigm wrongs. Spike's arc—from selfish ally, through the 'Triangle' troll fight and 'Intervention' torture, to the 'Chosen' sacrifice—is read through Aristotelian habituation into virtue, while Angel's Darla-arc firing of Team Angel and the Better Days temple-money and Inara plots show where respecting rights and being a good person can come apart. Finally the Euthyphro dilemma, plus replies to Pojman and Craig (self-sacrifice is not 'stupid'), argue that Angel's 'Epiphany' ethic—doing what matters with no glorious end or divine reward—shows morality is neither arbitrary nor motivationally crippled without God."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Portrayals of Religion.md",
+   "kind": "chapter",
+   "philosophers": [
+    "john-hick",
+    "socrates"
+   ],
+   "concepts": [
+    "yin-yang",
+    "faith-vs-reason",
+    "religious-non-realism"
+   ],
+   "relation": "Starting from Whedon's self-description as 'a very hard-line, angry atheist' fascinated by devotion, the chapter argues that Hick's religious non-realism best unifies the Whedonverse's treatment of religion. Religion is 'demonized' when it serves domination or self-interest (Ken's Family Home in 'Anne,' the Patron's witch-burning in 'Safe'), but Shepherd Book—read through The Shepherd's Tale's soup-bowl epiphany—embodies a faith that needs no literal truth: 'You don't fix faith, River. It fixes you,' the mudders' Jaynestown statue, and 'I don't care what you believe, just believe it' all function as symbols that transform lives. The same lens dissolves the controversy over 'Amends': the snowfall that saves Angel may be miracle or freak cold front, and—like Book's epiphany—what matters is the redemption the ambiguity occasions, not its metaphysical source."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Peculiarities of Free Will.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "robert-kane"
+   ],
+   "concepts": [
+    "free-will-determinism",
+    "compatibilism",
+    "fate-vs-free-will"
+   ],
+   "relation": "The chapter surveys how Whedon's fiction both dramatizes free choice—Angel answering Whistler's 'you could go either way' challenge, Cordelia reclaiming her visions in 'Birthday,' choices even the Powers That Be cannot predict—and suggests determinism, via the reverse-chronology of The Shepherd's Tale, the self-fulfilling prophecies Flamson identifies, and Topher's 'Everybody's programmed' speech in Dollhouse. It rejects Richardson and Rabb's Shestovian freedom (it implausibly denies that tragic choices between two evils, like Buffy killing re-ensouled Angel in 'Becoming, Part II,' are free) and Flamson's compatibilism (Jasmine's followers do what they want yet plainly lack choice, as Gunn's 'then we'll kick it over and start a new game' speech shows). Robert Kane's libertarianism—undetermined self-forming choices in moments of torn conflict—fits best, illuminating Book's soup-bowl pause, Billy/Dr. Horrible's street-corner hesitation with Penny, and Connor's choice between Darla and faux-Cordelia in 'Inside Out,' though the chapter concedes Whedon may sometimes sacrifice consistency for drama."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - Mulhall and His Detractors.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "mill",
+    "hume",
+    "williams",
+    "stephen-mulhall"
+   ],
+   "concepts": [
+    "film-as-philosophy",
+    "zen"
+   ],
+   "relation": "The chapter stages the film-as-philosophy debate: Mulhall's 'bold thesis' that films like the Alien series are 'philosophical exercises—philosophy in action,' Baggini's objection that they offer symbolic representations without reasons, and Mulhall's rejoinders that rationally reorienting a shared conceptual space (Socrates' polis-as-parent analogy in the Crito) and dramatizing visions of what ultimately matters are rational without formal argument. It then answers Murray Smith (film thought experiments like All of Me subordinate the epistemic to the artistic) and Paisley Livingston (philosophizing must occur via non-paraphrasable cinematic devices alone) by arguing that Whedon's portrayal of Angel's worldview—helping the helpless for its own sake with no glorious end—raises exactly the ultimate-ends questions Mill said admit of no proof, with Angel as a confirming instance of Mulhall. The Buffy episode 'Hush' closes the case: its dialogue-free middle, from Buffy and Riley's kiss to Willow and Tara's joined-hands spell, conveys a Zen-like lesson about the limits of propositional knowledge that resists linguistic mediation, answering Livingston's talking-head dilemma."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 9,
+   "type": "concept",
+   "suggested_slug": "religious-non-realism",
+   "name": "Religious Non-Realism",
+   "philosopher": "john-hick",
+   "domain": "religion-meaning",
+   "what": "Hick's view that religious beliefs, myths, and rituals remain deeply significant and transformative even if the transcendent realities they posit do not exist—religion's value lies in its ethical and spiritual function rather than doctrinal truth.",
+   "why": "Chapter 9's entire unifying reading of Shepherd Book, the Jaynestown statue, and 'Amends' turns on Hick's religious realism vs non-realism distinction, which no existing slug (e.g., religious-pluralism) captures.",
+   "accepted": true
+  },
+  {
+   "ch": 10,
+   "type": "philosopher",
+   "suggested_slug": "robert-kane",
+   "name": "Robert Kane",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "Contemporary libertarian on free will who locates genuinely free, morally responsible action in undetermined 'self-forming choices' made in moments of torn inner conflict.",
+   "why": "Chapter 10's resolution of the Whedonverse's paradoxical free-will portrayals rests entirely on Kane's libertarianism, and no existing slug covers libertarian free will or its leading defender.",
+   "accepted": true
+  },
+  {
+   "ch": 11,
+   "type": "philosopher",
+   "suggested_slug": "stephen-mulhall",
+   "name": "Stephen Mulhall",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Contemporary philosopher whose 'bold thesis' in On Film holds that some fictional narrative films are themselves philosophical exercises—'film as philosophizing' rather than mere illustration of philosophers' arguments.",
+   "why": "Chapter 11 is organized around Mulhall's bold thesis, Baggini's critique of it, and Mulhall's rejoinders, with Whedon's Angel as the confirming instance.",
+   "accepted": true
+  }
+ ]
+}

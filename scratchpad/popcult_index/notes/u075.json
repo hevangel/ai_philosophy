@@ -1,0 +1,281 @@
+{
+ "book": "047 - Anime and Philosophy - Wide Eyed Wonder",
+ "unit": "u075",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Anime and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - What These Otaku Are Saying about.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Popular Culture and Philosophy Series Editor George A. Reisch.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Previews and Coming Attractions.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editors' introduction argues that anime — from Akira, Ghost in the Shell, and Neon Genesis Evangelion to My Neighbor Totoro, Nausicaa, and Grave of the Fireflies — is not children's fare but stories about 'monsters, witches, robots, children, and spirits who grapple with questions of societal violence, ethics, morality, justice, heroism, identity, and the soul.' It frames the book's project as finding what lies beneath anime's visual signature of big eyes and giant robots, illustrating the tone with epigraphs from Wolf's Rain ('If life has no purpose, then you're already dead') and Princess Tutu on fate versus defiance. It closes with housekeeping: anime means Japan-originated animation for this book, Western name order will be used, and the contributing artists and industry supporters are thanked."
+  },
+  {
+   "n": 7,
+   "file": "ch07 - Accidental Anime.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "A distributor's memoir, not a philosophical essay: Margo Zimmerman recounts falling into anime at Manga Entertainment via Ninja Scroll and Perfect Blue, and the art-versus-business balance of bringing a niche genre to Western audiences. Its philosophy-adjacent cases are concrete: otaku demanded authenticity over adaptation (fans rejected the Southern-accent dubbing of Mima's country mother in Perfect Blue, and the contested translation of End of Evangelion's final line 'kimochi warui' — 'How disgusting' vs 'I feel sick' — still divides viewers), and she credits anime's serious commentary on mythology, philosophy, nuclear power, and humanity with influencing Western storytelling, citing The Matrix's obvious debt to Ghost in the Shell. No taxonomy philosopher or concept is actually deployed."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Body.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - Wave Goodbye from the Catbus.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "ghost-in-the-machine",
+    "embodiment",
+    "extended-mind",
+    "posthumanism"
+   ],
+   "relation": "Heinricy argues anime is the richest medium for posthuman theory because it shows bodies 'in a state of becoming' rather than as grotesque boundary violations: Miyazaki's Catbus and Totoro, Haku's dragon transformation and Chihiro's pig parents in Spirited Away, and the cursed pig-headed aviator of Porco Rosso all treat morphing bodies as possibility, not horror. She sorts anime posthumanism into two valences: a 'Ghost in the Machine' dream of consciousness leaving the body altogether (Motoko merging with the net in Ghost in the Shell), which she rebuts via N. Katherine Hayles's point that consciousness is embodied and would change with any new body, and hybrid configurations like mecha (Gundam, Robotech) where body and machine drive each other. Following Donna Haraway, she contends we are all already cyborgs — vaccines, engineered food, treated water — and credits Japan's nuclear history (via Susan Napier) and its shape-shifting folklore for why anime embraces rather than fears the transformed body."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - Looking Inwards.md",
+   "kind": "chapter",
+   "philosophers": [
+    "haraway"
+   ],
+   "concepts": [
+    "male-gaze",
+    "objectification",
+    "feminism"
+   ],
+   "relation": "Barber, Bryce, and Davis test Donna Haraway's emancipatory cyborg thesis against Gunslinger Girl, where the Social Welfare Agency 'adopts' orphaned and abused girls (Henrietta, Rico, Triela, Elsa, Claes), rebuilds their bodies as cybernetic weapons, and drug-conditions them into loyal assassins paired with male handlers. They argue the series realizes none of Haraway's post-gender potential: conditioning erodes memory and autonomy (Rico coolly shoots the porter Emilio who befriended her; Elsa murders her handler Lauro and kills herself; Triela suffers pointless menstrual cramps in a wombless body), while the girls' kawaii styling, teddy bears, and school uniforms make them objects of the male gaze whose cuteness disguises lethal power. The cyborgs' victimization ultimately reinforces traditional gender hierarchy and mirrors conformity-pressured Japanese youth, so the cyborg has 'regressed' from the autonomous heroines of Ghost in the Shell or Battle Angel Alita."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Transforming Body.md",
+   "kind": "chapter",
+   "philosophers": [
+    "heidegger"
+   ],
+   "concepts": [
+    "embodiment",
+    "cartesian-dualism",
+    "dasein",
+    "extended-mind"
+   ],
+   "relation": "McBlane reads Oshii's Ghost in the Shell as staging the collision between a humanist framework — Cartesian ghost-in-shell dualism where consciousness is the seat of identity — and a posthuman 'mindbody' of distributed cognition in which the body is an informational circuit extending into the net, so a data body is still a body. Motoko's crisis (is the real me the organic brain, the ghost, or nothing?) deepens through the hacked garbage-truck man ('There's nothing sadder than a puppet without a ghost') and resolves only in her fusion with the Puppet Master, whose line 'Your effort to remain what you are is what limits you' enacts the shift from one ghost to multiple, distributed subjectivities ending in a little girl's body with 'The net is vast.' Heidegger's Dasein and being-in-the-world supply the claim that access to Being expands beyond the human into technological and informational modes, while the film's angelic transcendence imagery shows how residual humanist mind-body splits persist even in a posthuman story."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - Mind.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 13,
+   "file": "ch13 - Is Everybody Disembodied (or, Have We Always Been Posthuman Beings ).md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "searle",
+    "turing",
+    "aristotle",
+    "plutarch",
+    "heraclitus",
+    "augustine",
+    "dennett"
+   ],
+   "concepts": [
+    "personal-identity",
+    "descartes-cogito",
+    "cartesian-dualism",
+    "ship-of-theseus"
+   ],
+   "relation": "Stevens uses the film's closing voice-over 'I am Tetsuo' in Otomo's Akira to run the classic identity-and-mind problems: Heraclitus's river and Plutarch's Ship of Theseus ask whether the grotesquely transformed, Akira-absorbed Tetsuo is still the same person, while Descartes's cogito — riffed as 'cogito ergo Tetsuo' — Turing's Test, and Searle's Chinese Room test whether a voice that seems to think proves a thinker behind it (syntax is not yet shown sufficient for semantics, though Edwin Hutchins's distributed cognition reads the Room from the inside out). Weighing embodiment (Pinker's brain-makes-mind, Dennett's self as a 'center of narrative gravity') against disembodiment (Akira levelling Neo-Tokyo from nothing but cryogenically stored remains; Tetsuo's matter teleportation), he concludes through the problem of representation — every utterance is re-presented, as in Augustine's guilty tears over Dido — that we always treat semblances of thinkers as thinkers, so we may have always been decentered, re-presented, posthuman beings no different from Tetsuo and Akira."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Questioning the Question.md",
+   "kind": "chapter",
+   "philosophers": [
+    "william-james",
+    "pascal"
+   ],
+   "concepts": [
+    "will-to-believe",
+    "pascals-wager",
+    "applied-ethics"
+   ],
+   "relation": "Hartung takes Ross's snapping reply to Armitage's repeated 'Why are you helping me?' in Armitage the Third: Poly-Matrix as a misreading: she wants a practical reason for his choice, not theoretical evidence, and since no evidence can prove an android is a person, William James's 'Will to Believe' applies — Ross's belief in her moral standing is a live, forced, and momentous genuine option (suspending judgment means she is scrapped, and losing her means losing a possible life together), so his passions may legitimately decide. He contrasts this with evidentialist cases where suspending judgment is right (the shuttle company skipping inspection; Dr. Asakura's silicon-based-life hypothesis) and with Pascal's Wager, reading Mars's church-empty, hedonistic culture of sex-tourism Seconds as one that denies genuine options and so kills Thirds. The attached original screenplay 'Eye Am,' a sequel to Magnetic Rose, extends the theme as salvage officer Nadine Beckner is lured by the AI Eva/Sam impersonating her dead husband Heintz, with Schrodinger-style observer-affected reality deciding which version becomes real."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - Spirit.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - In the Palm of Your Hand.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Callis reads Spirited Away as Miyazaki's bid to make audiences feel rather than doctrinally learn Shinto, deploying Thomas Kasulis's distinction between existential Shinto (awe before kami: Chihiro's soot-sprite rescue, cleansing the trash-choked River God, makoto no kokoro purity) and essentialist Shinto (State Shinto's war-era nationalism, visually evoked by the abandoned 1940s train station and the train that haunts the whole film). She argues the drive into the spirit world is a compressed visual history of Shinto — folk shrines, Buddhist guardian statues, torii — and that Chihiro's stolen and recovered name enacts Japan's need to remember its traditions without forgetting how they were abused, supported by Miyazaki's own quotes on rural solstice bath rituals and Tarkovsky-style nostalgia. The three endings (Zeniba's 'Nothing that happens is ever forgotten' vs the Disney dub's memory-will-return line, and Miyazaki's preferred solo train ride) all say the same: the kami spark, like Thich Nhat Hanh's ancestors in the palm of the hand, is carried forward."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Gay Angels, Female Cardinals, and Bishōnen Popes.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "augustine"
+   ],
+   "concepts": [
+    "kant-phenomena-noumena",
+    "moral-relativism",
+    "augustine-city-of-god",
+    "religious-pluralism"
+   ],
+   "relation": "Barkman argues that anime's Christian imagery — the legendary Santa on a cross, Earthian's gay angel lovers, Trinity Blood's bishonen pope and female cardinal, Evangelion's hostile Angels — encodes Japanese religious pluralism rather than orthodox Christianity. He lays out the pluralist position (following Kant's phenomena/noumena distinction and John Hick: Ultimate Reality is only equivocally describable, so doctrine matters less than spiritual mood), contrasts it with exclusivism and inclusivism, and charges pluralism with self-undermining intolerance, then traces Japan's historical demonization of Christianity from the 1637 Shimabara massacre (Ninja Resurrection, Samurai Champloo) to Eva's alien invaders, with Armageddon imagery fueled by the atomic bombs. Because Shinto-Buddhist-Daoist anti-realism dissolves fixed categories, anime dissolves good and evil (Chrno Crusade's I Ching balance) and gender itself, gravitating to the symbol-rich 'jungle' of Catholicism (C.S. Lewis's phrase) — and where Trinity Blood lets some vampires be righteous, Augustine's City of God marks the one nearly orthodox note."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Legend Has Come True. The Wind Has Come Back.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant"
+   ],
+   "concepts": [
+    "consequentialism",
+    "kant-humanity-formula",
+    "anthropocentrism"
+   ],
+   "relation": "Haas opposes two princesses of Nausicaa of the Valley of the Wind: Kushana of Tolmekia, whose 'whatever it takes' survivalism (invading Pejite, resurrecting a God-Warrior) is consequentialism pursued to its limit, and Nausicaa, whose attention to each act — befriending the biting fox-squirrel, staying her sword over her father's killer because vengeance would doom the Valley — restricts means, not just ends. The reductio comes from Pejite, whose torture of a baby Ohmu to bait a stampede on the Valley is exactly what strict outcome-maximization requires; against this, Kant's demand to treat beings as ends in themselves explains Nausicaa's 'mysterious power' of empathy. Because she respects the jungle and the sentient Ohmu rather than viewing nature anthropocentrically as a plague to burn, she discovers the plants are purifying the war-poisoned earth — the knowledge that saves everyone and proves Kushana's conquering approach self-defeating even on its own terms."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Conflict.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - Freeing Clausewitz’s Soul from Gravity.md",
+   "kind": "chapter",
+   "philosophers": [
+    "walzer",
+    "clausewitz"
+   ],
+   "concepts": [
+    "just-war-theory"
+   ],
+   "relation": "Melancon tests Just War Theory against Gundam's One Year War: Gihren Zabi's 'Sieg Zeon' funeral oration and Char Aznable's rhetoric show how the vague criterion of comparative justice lets a militarist regime dress aggression — the Three Seconds of Declaration gassing of colonies, Operation British's colony drop on Earth — in just-war language. On the conduct side, Ramba Ral's troops spare civilians and differentiate child targets on White Base, yet Zeon's still-unjust ad bellum position cannot be rehabilitated; and asking whether WMDs are inherently immoral, he uses Anavel Gato's nuclear strike on the Federation fleet review (Operation Stardust) — discriminating, proportional, militarily necessary — to argue weapons are amoral tools judged only by Walzer-style jus in bello criteria. Clausewitz resolves the theory's usefulness: war's inner tendency toward the absolute must stay nested within political goals, and Zeon's drift from fighting for independence into conquering and governing Earth shows exactly how a war that abandons just-war limits loses sight of what victory even is."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Redemption and Hope for the Future.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-golden-mean",
+    "aristotle-virtue-ethics"
+   ],
+   "relation": "Peters applies Aristotle's Nicomachean Ethics account of courage — the mean between confidence and fear, shown only in facing an honorable death in war for a noble motive — to Colin MacLeod's two-thousand-year hunt for Marcus Octavius, the Immortal Roman who killed his wife Moya, in Highlander: The Search for Vengeance. Because MacLeod fights from pain and rage, 'like wild beasts,' and secretly seeks death as refuge from grief ('to seek death as a refuge from poverty, or love... is not the act of a brave man'), Aristotle would judge him a coward despite his fearlessness — Amergan the spirit guide diagnoses him the same way. Redemption comes only when Dahlia and the villagers threatened by Marcus's new Rome give him a noble cause and hopefulness: he becomes their general, fights with discipline instead of rage, and turns Marcus's own quickening to destroying the virus, illustrating the chapter's closing thought that for an Immortal dying is easy and living courageously is hard."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 9,
+   "type": "concept",
+   "suggested_slug": "posthumanism",
+   "name": "Posthumanism",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "The view that technology has so thoroughly altered bodies, cognition, and culture that we are already 'after the human' — cyborgs whose embodiment and mind extend into machines (Haraway, Hayles).",
+   "why": "Chapters 9, 11, and 13 organize their entire readings of Miyazaki, Ghost in the Shell, and Akira around the posthuman condition, but taxonomy has no concept slug for it (extended-mind and embodiment cover only parts)."
+  },
+  {
+   "ch": 10,
+   "type": "philosopher",
+   "suggested_slug": "donna-haraway",
+   "name": "Donna Haraway",
+   "philosopher": "",
+   "domain": "feminism-gender-race",
+   "what": "Feminist theor of science and technology whose 'A Manifesto for Cyborgs' casts the human-machine hybrid as a boundary-blurring figure with emancipatory, post-gender potential.",
+   "why": "Chapters 9 and 10 build directly on the Cyborg Manifesto — chapter 10 evaluates Gunslinger Girl's girl cyborgs entirely by whether they realize or betray Haraway's post-gender ideal — and she is absent from taxonomy."
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "shinto",
+   "name": "Shinto and the Kami",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "Japan's indigenous way of honoring kami (spirits in nature and ancestors), which Kasulis splits into an experiential 'existential' form and a prescribed, nationalist 'essentialist' (State Shinto) form.",
+   "why": "Chapter 16 reads all of Spirited Away — torii, bathhouse purification, stolen names, nostalgia, the ever-present train — through the existential/essentialist Shinto distinction, which taxonomy's Eastern entries (Buddhism, Taoism, Zen) do not cover."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "religious-pluralism",
+   "name": "Religious Pluralism (vs exclusivism and inclusivism)",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "The philosophy-of-religion problem of religious diversity: pluralists (Kant, Hick) treat religions as culturally varied, only equivocal responses to one ineffable Ultimate Reality, opposed by exclusivists and inclusivists who hold one religion propositionally true.",
+   "why": "Chapter 17's central framework is exactly this trichotomy, used to explain why anime blends Christianity with Shinto and Buddhism and renders doctrine 'inaccurately'; no existing slug (faith-vs-reason, kant-phenomena-noumena, moral-relativism) names the position."
+  },
+  {
+   "ch": 20,
+   "type": "philosopher",
+   "suggested_slug": "clausewitz",
+   "name": "Carl von Clausewitz",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Prussian military theorist whose On War treats war as an amoral force tending toward 'absolute war' yet always subordinate to the political goals that started it.",
+   "why": "Chapter 20's title argument is that Gundam's Zeon wars vindicate Clausewitz — war's gravity toward the absolute must be tethered to political aims, which Just War Theory operationalizes — and he is missing from taxonomy."
+  }
+ ]
+}

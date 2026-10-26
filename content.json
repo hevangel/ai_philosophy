@@ -530,10 +530,11 @@
         {
           "slug": "readings-kb",
           "title": "Philosophy Readings — A Problem-Based Knowledge Base",
-          "summary": "Fifty-three philosophy problems across nine subfields, built from twenty-six textbooks and anthologies: each entry opens with a 90-second lecture version, then sets out the positions with faithful premise–conclusion reconstructions of the canonical arguments, objections and replies, and a ladder from survey chapters to primary sources.",
+          "summary": "An interactive knowledge base of 53 standing philosophy problems across nine subfields, built from 26 textbooks and the Carneades lecture series: each entry opens with a 90-second lecture version, then sets out the positions with faithful premise-by-premise reconstructions, thought experiments, a source ladder, and an honest account of where the debate stands.",
           "path": "knowledge-base/readings-kb/index.md",
           "cover": "knowledge-base/readings-kb/cover.webp",
-          "date": "2026-10-19"
+          "date": "2026-10-21",
+          "kind": "readings-kb"
         }
       ]
     },

@@ -1,0 +1,288 @@
+{
+ "book": "054 - The Onion and Philosophy - Fake News Story True, Alleges Indignant Area Professor",
+ "unit": "u087",
+ "chapters": [
+  {
+   "n": 22,
+   "file": "ch22 - World Death Rate Holding Steady At 100 Percent.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "kant",
+    "aristotle",
+    "socrates",
+    "diogenes-cynic"
+   ],
+   "concepts": [
+    "deontology",
+    "consequentialism",
+    "aristotle-virtue-ethics",
+    "aristotle-practical-wisdom"
+   ],
+   "relation": "Dan Miori, a palliative-care physician assistant, uses Onion medical stories — 'Loved Ones Recall Local Man's Cowardly Battle With Cancer,' the 'Vehicular Manslaughter Doctor,' animal hoarder Tricia McCory's 'I'm A Diseased And Deformed Animal Lover,' and the Terry Schiavo American Voices — to survey how end-of-life decisions actually get made. He runs each dilemma through Mill's consequentialism, Kant's deontology, and Aristotle's virtue ethics (with Monty Python's Philosopher's Song as running gag), then through Beauchamp and Childress's four principles of medical ethics, showing that McCory's kindness to dying animals fails autonomy and nonmaleficence because kindness can be cruel. The chapter closes by restoring 'euthanasia' to its Greek meaning of 'good death,' arguing that accepting the 100 percent death rate means planning ahead with living wills and honest bad-news delivery rather than dying tube-filled in an ICU."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Onion’s New Environmental Ethic.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer",
+    "kant",
+    "aquinas"
+   ],
+   "concepts": [
+    "anthropocentrism",
+    "animal-liberation",
+    "speciesism",
+    "ecofeminism"
+   ],
+   "relation": "Matthew Altman reads Onion environmental satire as a staged escape from anthropocentrism: 'New, Delicious Species Discovered' and 'Beauty Of National Forest Enjoyed By Logger' expose that even appreciating nature is just valuing it for us, while the mascara-testing lab rabbit and 'Funny Monkey Tested On' make Singer's speciesism charge vivid against factory farming and animal experiments. He then widens the argument to a biocentric concern for species and ecosystems via 'Stuffed-Animal Biodiversity Rising' and 'Consumer-Product Diversity Now Exceeds Biodiversity,' and to ecofeminism via 'Raped Environment Led Polluters On,' where the forest as flirtatious woman links domination of nature to sexism and victim-blaming. Global stories like the Bush 'national air conditioner' piece show Western overconsumption displacing blame onto Third World overpopulation, and 'I'm Doing My Inconsequential Part' satirizes the self-satisfaction of green consumerism itself — leaving the measure of the Onion's philosophical importance as how dangerous it is."
+  },
+  {
+   "n": 24,
+   "file": "ch24 - Local.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 25,
+   "file": "ch25 - The Onion, Sarcasm, and the Good of Mankind.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates"
+   ],
+   "concepts": [
+    "unexamined-life"
+   ],
+   "relation": "Noah Levin recounts how the Onion article 'Area Man Committed To Being Spicy Food Guy' made him recognize his own obnoxious boasting about hot food and quietly change, presenting satire as continuing philosophy's self-help tradition back to Socrates' 'know thyself.' He distinguishes parody, satire, and sarcasm, then formalizes Onion jokes — the RIAA suing radio stations for giving away free music, and 'That Teen-Abstinence Rally Totally Rocked!' — as implicit reductio ad absurdum arguments whose absurd conclusions force rejection of a hidden premise. The sarcastic route beats a direct lecture, he argues, because the target must complete the three-step argument himself: identify the mocked trait, admit having it, and decide whether to change."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Guy Is Not Alone. ..md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates",
+    "russell",
+    "heraclitus"
+   ],
+   "concepts": [
+    "heraclitean-flux",
+    "the-absurd"
+   ],
+   "relation": "Matt Laubenthal confesses he was the philosophy-class windbag and defends Darrin Floen of 'Guy In Philosophy Class Needs To Shut The Fuck Up' as heir to Socrates' gadfly role, noting the Athenians also wanted their relentless questioner dead. He teaches Russell's Paradox through a Burger King 's.h.i.t. load' — the set of all sets that are not members of themselves — and reconstructs Darrin's Heraclitean rejoinder that if everything flows and nothing stands still, the static either/or of set membership dissolves the contradiction. Along the way he reads the Onion's Kafka International Airport story ('Are you who you say you are?' repeated for eighty minutes) as existentialist absurdity, and the Star Trek Voyager holographic Doctor as a puzzle about whether a self could be nothing more than mathematical code."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - News Archive.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Get Serious.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "hume",
+    "ockham",
+    "wittgenstein",
+    "william-james",
+    "descartes"
+   ],
+   "concepts": [
+    "faith-vs-reason",
+    "hume-induction",
+    "ockham-razor",
+    "death-of-god"
+   ],
+   "relation": "David Kyle Johnson takes Nietzsche's suggestion that God is slowly dying and reads The Onion's religion stories — the faith healer who loses a patient during a routine miracle, Kansas fundamentalists lobbying to overturn the Second Law of Thermodynamics, and 'Evangelical Scientists Refute Gravity With New Intelligent Falling Theory' — as evidence of secularization. He splits blind faith (irrational belief despite evidence, as with Bush's 'Blind-Faith-Based Initiatives') from genuine faith as belief without sufficient evidence, arguing religion does science badly whenever it shields creationism from falsification. But science rests on unproven assumptions too, he shows via Hume's problem of induction, Descartes' skeptical problem, and Wittgenstein's charge that naming a 'strong nuclear force' explains no more than God pushing things down. Ockham's razor then decides for atheism — an unexplained universe is simpler than God plus a universe — though William James's will to believe leaves a door open for faith where evidence is impossible, qualified by Clifford's warning that beliefs likely to harm others are never permissible."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - Progress.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lyotard",
+    "baudrillard",
+    "rorty"
+   ],
+   "concepts": [
+    "simulacra",
+    "grand-narratives",
+    "language-games",
+    "correspondence-theory-of-truth"
+   ],
+   "relation": "Gregory Gilson argues that although The Onion deliberately reports falsehoods, it embodies postmodern theories of truth better than the newspapers it parodies. Lyotard's mercantilization of knowledge and the fragmentation of dominant narratives into separate language games explain headlines like 'Evangelical Scientists Refute Gravity' and 'Astronomer Discovers The Center Of The Universe Is His Beautiful 9-Year Old Son,' which smash incompatible discourses together, while Baudrillard's simulacrum and hyper-reality explain how The Onion — like Disneyworld — is branded fake precisely so mainstream media can seem real. Yet the chapter closes honestly: its own criticism of 'Bush Says He Still Believes Iraq War Was the Fun Thing To Do' assumed some targets were wrong, which assumes a Truth out there — the paradox of a satire whose truthfulness exceeds its own theory of truth."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - Voltaire Lives.md",
+   "kind": "chapter",
+   "philosophers": [
+    "leibniz",
+    "voltaire"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "best-possible-world"
+   ],
+   "relation": "Douglas Ficek traces The Onion's God stories — 'Lord Under Investigation For Failure To Provide,' God refusing to heal paralyzed little Timmy Yu, and 'God Cites Moving In Mysterious Ways' — back through Voltaire's Candide to Leibniz's theodicy, the 'best of all possible worlds' doctrine that Dr. Pangloss keeps reciting through hanging, slavery, and syphilis until Candide concludes we must cultivate our garden. The chapter's sharpest claim is that theodicy works by victim-blaming: Jerry Falwell's 9/11 rant earned the headline-only 'Jerry Falwell: Is That Guy A Dick Or What?' because he excused God by blaming secular Americans, just as Pastor Ellsworth blames heathen tsunami victims. Following theologian Dorothee Soelle, Ficek names this 'theological sadism,' and offers the Bible-drop missionaries of 'Poverty-Stricken Africans Receive Desperately Needed Bibles' as a modern Pangloss who mistakes moral obliviousness for grace."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - Entertainment.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Point-Counterpoint Funny versus Really, Really Funny.md",
+   "kind": "chapter",
+   "philosophers": [
+    "descartes",
+    "russell"
+   ],
+   "concepts": [
+    "skepticism",
+    "problem-of-other-minds"
+   ],
+   "relation": "Andrew Terjesen starts from real cases of Onion satire taken literally — a Michigan sheriff warning about al-Qaida telemarketing, the Beijing Evening News plagiarizing 'Congress Threatens To Leave D.C.', Deborah Norville reporting that 58 percent of American exercise is televised — and explains them through the Problem of Other Minds. Descartes' hats-and-cloaks worry and Russell's analogy solution show how we infer that a straight-faced writer is 'just kidding,' but the analogy fails when cultural context, prejudice (Fred Phelps citing the gay-recruitment story, Christians forwarding the Harry Potter Satanism piece), or wishful thinking breaks the comparison with our own joking behavior. The upshot is that humor is engineered misunderstanding — the Onion works by analogy to real news, and could never warn readers off without destroying the joke."
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Philosophy and Humor.md",
+   "kind": "chapter",
+   "philosophers": [
+    "wittgenstein",
+    "william-james"
+   ],
+   "concepts": [
+    "language-games"
+   ],
+   "relation": "Thomas Brommage builds on Wittgenstein's quip that a serious and good philosophical work could consist entirely of jokes: philosophy for Wittgenstein is a therapeutic activity that dissolves pseudo-problems and lays our linguistic practices open to view, never delivering theories. Onion humor works the same way — 'Bill Gates Grants Self 18 Dexterity, 20 Charisma' needs the shared form of life of D&D-style geek culture, the 'Ask a Salmon' advice column breaks the rule that answers answer, and 'Youthful Tendency Disorder' makes the familiar (children running, jumping, and playing pretend) strange enough to skewer ADHD over-diagnosis and pharmaceutical marketing. Since Wittgenstein asks why we feel a grammatical joke to be deep, jokes that expose our conceptual confusions can themselves be serious arguments — which is exactly what a philosophy joke book, and The Onion, deliver."
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Kind of, Sort of a Lie, But neither Immoral nor Illegal.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "mill"
+   ],
+   "concepts": [
+    "categorical-imperative",
+    "kant-humanity-formula",
+    "utilitarianism"
+   ],
+   "relation": "Cynthia McWilliams imagines a reader beating her neighbor after taking 'Pedophile Nervous For First Day Of School' literally, and asks whether The Onion lied to her and whether that lie was wrong. She defines a lie as asserting what you believe false (intent to deceive is not required), then tests the satire on both classic accounts: on Kant's categorical imperative, a lie without intent to deceive does not use readers merely as means, while on Mill's utilitarianism the entertainment benefit outweighs harm unless serious harm is reasonably foreseeable — the limit case being the 1938 and Quito 1949 War of the Worlds broadcasts, the second of which killed six people in a riot. Her verdict: The Onion is 'kind of, sort of a lie' but neither immoral nor illegal, passing even the Brandenburg 'imminent lawless action' standard for free speech."
+  },
+  {
+   "n": 35,
+   "file": "ch35 - America’s Finest Philosophers.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 36,
+   "file": "ch36 - Index of Onion Articles Referred to in This Book.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 37,
+   "file": "ch37 - Inside The Onion and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 38,
+   "file": "ch38 - The Onion and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 39,
+   "file": "ch39 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 25,
+   "type": "concept",
+   "suggested_slug": "reductio-ad-absurdum",
+   "name": "Reductio ad Absurdum",
+   "philosopher": "",
+   "domain": "mind-language-metaphysics",
+   "what": "An argument that derives an absurd or untenable conclusion from a proposition in order to refute the proposition itself.",
+   "why": "Chapter 25 formalizes sarcastic Onion headlines (the RIAA suing radio, the teen-abstinence rally) as implicit reductio arguments and makes this the mechanism by which satire changes behavior."
+  },
+  {
+   "ch": 26,
+   "type": "concept",
+   "suggested_slug": "russells-paradox",
+   "name": "Russell's Paradox",
+   "philosopher": "russell",
+   "domain": "mind-language-metaphysics",
+   "what": "The contradiction arising from considering the set of all sets that are not members of themselves, which is a member of itself if and only if it is not.",
+   "why": "Chapter 26 spends its central section explaining Russell's Paradox via Burger King Whopper sets as the target of Darrin's Heraclitean flux-based objection."
+  },
+  {
+   "ch": 28,
+   "type": "philosopher",
+   "suggested_slug": "william-clifford",
+   "name": "William Clifford",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "British mathematician-philosopher whose evidentialism holds it is always wrong to believe anything on insufficient evidence, because such beliefs can harm others.",
+   "why": "Chapter 28 uses Clifford's principle as the standing objection to religious faith and to James's will to believe, given religion's record of harm from the Crusades to 9/11."
+  },
+  {
+   "ch": 29,
+   "type": "concept",
+   "suggested_slug": "correspondence-theory-of-truth",
+   "name": "Correspondence Theory of Truth",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "The view that a belief or statement is true just in case it corresponds to an objective fact or state of affairs in the world.",
+   "why": "Chapter 29 frames traditional journalism's practice by this theory and contrasts it with the postmodern truth of Lyotard and Baudrillard that The Onion supposedly embodies."
+  },
+  {
+   "ch": 30,
+   "type": "philosopher",
+   "suggested_slug": "voltaire",
+   "name": "Voltaire",
+   "philosopher": "",
+   "domain": "medieval-early-modern",
+   "what": "French Enlightenment satirist whose Candide ridicules Leibnizian optimism through Dr. Pangloss, ending with the counsel to cultivate our garden.",
+   "why": "Chapter 30 is titled 'Voltaire Lives' and reads The Onion's God stories as Candide's direct heirs in attacking theodicy as callous victim-blaming."
+  },
+  {
+   "ch": 32,
+   "type": "concept",
+   "suggested_slug": "problem-of-other-minds",
+   "name": "The Problem of Other Minds",
+   "philosopher": "russell",
+   "domain": "mind-language-metaphysics",
+   "what": "The epistemological puzzle of how we can know that other beings have minds, or what they are thinking, since their thoughts are never directly observable.",
+   "why": "Chapter 32 explains every case of Onion satire taken literally as a failure of the analogical solution to the problem of other minds — deciding whether someone is 'just kidding.'"
+  }
+ ]
+}

@@ -5,7 +5,7 @@ preprint servers (English and Chinese). **This folder is NOT site content — ne
 in `content.json`, never serve it on the website.** It contains manuscripts being prepared for
 external submission, not published web pages.
 
-## The four skills
+## The five skills
 
 | Skill | Does |
 |---|---|
@@ -13,6 +13,7 @@ external submission, not published web pages.
 | `phil-polish` | Proofread & beef an article up to academic publication standard |
 | `phil-format` | Convert markdown into each venue's required submission format (DOCX/PDF/LaTeX), tailored per venue |
 | `phil-submit` | Drive the venue's submission portal via browser automation and log the result |
+| `phil-aipc` | Prepare & submit essays to the AI Philosophy Competition 2026 (eligibility audit, anonymization, methodology report, OpenReview) |
 
 Typical flow for an article `articles/my-article/index.md`:
 

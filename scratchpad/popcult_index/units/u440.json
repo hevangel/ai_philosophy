@@ -1,0 +1,101 @@
+{
+ "unit": "u440",
+ "book": "002 - The Simpsons and Philosophy - The D'oh! of Homer",
+ "part": "2/2",
+ "path": "B:\\ai_philosophy\\data\\philosophy_pop_culture\\markdown\\002 - The Simpsons and Philosophy - The D'oh! of Homer",
+ "range": [
+  24,
+  1000000
+ ],
+ "chapters": [
+  {
+   "n": 24,
+   "file": "ch24 - 12 - Springfield Hypocrisy.md",
+   "words": 4177
+  },
+  {
+   "n": 25,
+   "file": "ch25 - 13 - Enjoying the So-called “Iced Cream” Mr. Burns, Satan, and Happiness.md",
+   "words": 3810
+  },
+  {
+   "n": 26,
+   "file": "ch26 - 14 - Hey-diddily-ho, Neighboreenos Ned Flanders and Neighborly Love.md",
+   "words": 4331
+  },
+  {
+   "n": 27,
+   "file": "ch27 - 15 - The Function of Fiction The Heuristic Value of Homer.md",
+   "words": 5573
+  },
+  {
+   "n": 28,
+   "file": "ch28 - Part IV - The Simpsons and the Philosophers.md",
+   "words": 7
+  },
+  {
+   "n": 29,
+   "file": "ch29 - 16 - A (Karl, not Groucho) Marxist in Springfield.md",
+   "words": 6011
+  },
+  {
+   "n": 30,
+   "file": "ch30 - 17 - “And the Rest Writes Itself” Roland Barthes Watches The Simpsons.md",
+   "words": 5890
+  },
+  {
+   "n": 31,
+   "file": "ch31 - 18 - What Bart Calls Thinking.md",
+   "words": 4526
+  },
+  {
+   "n": 32,
+   "file": "ch32 - Episode Titles.md",
+   "words": 1604
+  },
+  {
+   "n": 33,
+   "file": "ch33 - Based on Ideas By.md",
+   "words": 1418
+  },
+  {
+   "n": 34,
+   "file": "ch34 - Featuring the Voices of.md",
+   "words": 1250
+  },
+  {
+   "n": 35,
+   "file": "ch35 - Index.md",
+   "words": 178
+  },
+  {
+   "n": 36,
+   "file": "ch36 - The Simpsons and Philosophy.md",
+   "words": 0
+  },
+  {
+   "n": 37,
+   "file": "ch37 - The Simpsons and Philosophy.md",
+   "words": 8462
+  },
+  {
+   "n": 38,
+   "file": "ch38 - Copyright Page.md",
+   "words": 204
+  }
+ ],
+ "content": [
+  24,
+  25,
+  26,
+  27,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  37,
+  38
+ ]
+}

@@ -1,0 +1,375 @@
+{
+ "book": "050 - Facebook and Philosophy - What's on Your Mind_",
+ "unit": "u081",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "ch01 - section-1.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 2,
+   "file": "ch02 - Facebook and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - Popular Culture and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Dedication.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Profile Pages.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - A Reply to facebook Critics.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "hegel",
+    "nietzsche",
+    "schopenhauer",
+    "plato"
+   ],
+   "concepts": [
+    "existence-precedes-essence",
+    "authenticity",
+    "last-man",
+    "echo-chamber"
+   ],
+   "relation": "Wittkower answers critics who call Facebook broadcast narcissism by way of Sartre: Facebook actions (pokes, the Disney Princess quiz, cats friending cats on Catbook) have no given meaning, so users and their friends create it, which is why there are 'so many different Facebooks'. He takes up Sunstein's 'Daily Me' echo-chamber worry and Hegel's claim that real freedom means choosing within community, arguing Facebook merely makes the dialectic between chosen and unchosen communities explicit. Against the charge that status updates are trivial, he deploys Nietzsche's Last Man and Schopenhauer's cheese-mite microscope to defend caring about a friend's sandwich from the inside of a shared life."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - Who Uses facebook and Why.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "democracy-theory"
+   ],
+   "relation": "Gil de Zuniga and Valenzuela report their 2009 survey of 1,482 Americans on social network site use: 41 percent of adults use them, with women, African Americans, and Hispanics using them more than white men and with use spread across income and education levels. The top motivation is staying in touch with existing family and friends, but users also meet new people, discuss issues, follow news, and join causes. They argue these patterns suggest SNSs may narrow the digital divide and support democratic participation rather than being a teenage fad."
+  },
+  {
+   "n": 9,
+   "file": "ch09 - facebook Itself - The Medium Sent You a Message on facebook.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - 1 - The Privacy Virus.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "contextual-privacy"
+   ],
+   "relation": "Grimmelmann argues the claim that 'kids these days don't care about privacy' gets Facebook users wrong: they untag keg-stand photos, protest the News Feed launch, and reject friend requests because they care about contextual privacy - respect for the rules of distinct social contexts - rather than secrecy. The skeptic's public/private secrecy model mispredicts this, since posting to 300 friends is not broadcasting to the world. But Facebook is still a 'privacy virus': its architecture defeats the everyday 'know your audience' and 'safety in numbers' rules of thumb, so contextual violations like Bono's leaked photo albums and the accidental Christmas-ring announcement happen anyway."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - 2 - It’s Like Talking to a Wall.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "applied-ethics",
+    "convergence-culture"
+   ],
+   "relation": "Meikle analyzes Facebook as media convergence: status updates and wall posts blur one-to-one communication with the broadcast 'message addressed to nobody in particular', reaching an undifferentiated friend list that mixes intimates, colleagues, and people one dislikes. Cases like the MI6 chief's wife's holiday photos, Amanda Knox's 'Foxy Knoxy' nickname, the Dartmouth professor's Wikipedia lecture note, and the Dunblane survivors story show how private turns instantly public, from Bozeman's password demand to tabloid mining of profiles. He concludes that Facebook demands an ethics of online communication: who gets access to what we generate, and what may they do with it."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - 3 - Ian Became a Fan of Marshall McLuhan on facebook and Suggested You Become.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mcluhan"
+   ],
+   "concepts": [
+    "media-ecology-tetrad"
+   ],
+   "relation": "Bogost applies McLuhan - media as extensions of man, whose form rather than content is what matters - and the tetrad of media effects to Facebook, opening with his own inability to join the UCLA network to show that properties, not gripes, deserve study. He builds a full tetrad: Facebook enhances the directory, the yearbook, and nowness; obsolesces the reunion, memory, and the secret; retrieves the small town, the hang-out, and the diary; and reverses into campus life and high school. The point is that no medium is simply good or bad, and the tetrad itself becomes one more medium Facebook absorbs."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - 4 - With Friends Like These, Who Needs Enemies.md",
+   "kind": "chapter",
+   "philosophers": [
+    "goffman",
+    "derrida"
+   ],
+   "concepts": [
+    "philosophy-of-play",
+    "constitutive-rules",
+    "prisoners-dilemma",
+    "politeness-theory"
+   ],
+   "relation": "Losh reads Facebook games (Zombies, Mob Wars, Scrabulous, Parking Wars, PackRat, (Lil) Green Patch, Mafia Wars) through Goffman's 'face' and Brown and Levinson's positive/negative politeness: recruiting friends into an application is a face-threatening imposition that becomes awkward across professor-student and parent-child hierarchies playing as nominal equals. She invokes Derrida on Mauss - 'there is no gift without bond, without bind' - to analyze the reciprocity obligations of gifting games, and finds emergent cooperative norms like PackRat pacts against tit-for-tat stealing. Players revolt when developers monetize asymmetrical play, showing communities negotiate the rules of the magic circle."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - The Profile and the Self - Is the Profile More Like a Door, a Window, or a Painting.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 15,
+   "file": "ch15 - 5 - Profile Picture, Right Here, Right Now.md",
+   "kind": "chapter",
+   "philosophers": [
+    "roland-barthes",
+    "benjamin"
+   ],
+   "concepts": [
+    "benjamin-aura",
+    "philosophy-of-art",
+    "punctum-studium"
+   ],
+   "relation": "Sarachan uses Barthes's Camera Lucida - punctum, studium, and the 'air' of the subject - to argue Facebook profile pictures are all punctum: ephemeral images constantly replaced to strike the viewer instantly, unlike the static yearbook photo. He sorts profile pictures by Barthes's six categories (pose at the webcam, hiding behind objects, Photoshop trick effects, photogenia, aestheticism, syntax) and reads pop-culture avatar images as identity claims. He closes with Benjamin's mechanical reproduction: a webcam image has no original, existing only as infinitely copied bits that paradoxically exist only when someone views the page."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - 6 - You Can’t Front on facebook.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-ring-of-gyges",
+    "authenticity",
+    "online-disinhibition-effect"
+   ],
+   "relation": "Marinucci opens with Glaucon's Ring of Gyges from Plato's Republic - invisibility licenses injustice because we care about seeming good - and maps it onto Suler's six factors of online disinhibition (anonymity, invisibility, asynchronicity, solipsism, dissociation, minimized authority). Facebook, she argues, lacks all six: real names and offline friends, near-synchronous news feeds, and the integration of every audience from mom to students into one space keep us inhibited. That inhibition is a good thing, since it prevents 'fronting' - presenting a false face to each audience - so Facebook identity integration can foster more authentic self-expression."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - 7 - Why I Am Not a Friend.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sartre",
+    "beauvoir"
+   ],
+   "concepts": [
+    "the-look",
+    "woman-as-other",
+    "authenticity"
+   ],
+   "relation": "Thalos argues she is not a 'friend' on Facebook because bonding requires credible, fixed self-presentation, and a profile 'can lie like a rug' since everything on it is elective and revisable at whim. Through Sartre's phenomenology of the gaze - being displaced from Subject to object-for-another when caught in another's look - she explains why face-to-face interaction alone builds the mutual bonds and social intelligence we rely on. With Beauvoir she shows how the gaze also carries power, marking woman as the Other, and warns that Facebook's plastic faces offer choice without traction, inhibiting both true bonding and resistance to subjugating looks."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - 8 - Playing Around with Identity.md",
+   "kind": "chapter",
+   "philosophers": [
+    "goffman"
+   ],
+   "concepts": [
+    "authenticity",
+    "philosophy-of-play",
+    "personal-identity",
+    "presentation-of-self"
+   ],
+   "relation": "Wandel and Beavers take Groundhog Day's Phil Connors as the model of trying on selves, and apply Goffman's dramaturgical Presentation of Self to see Facebook as a stage where users experiment with identity. Because friends from every part of life watch at once, a 'restraint of accountability' disciplines pretending, much like childhood pretend play or a fraternity's teasing calls members to account for their oddities. Against critics who see fragmentation and narcissism, they argue this dynamic can support becoming who one already is - a more authentic, grounded self - closing with Plato's 'Life must be lived as play'."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - 9 - Spectacle 2.0.md",
+   "kind": "chapter",
+   "philosophers": [
+    "guy-debord",
+    "raoul-vaneigem"
+   ],
+   "concepts": [
+    "society-of-the-spectacle"
+   ],
+   "relation": "Vejby and Wittkower ask whether Facebook is Spectacle 2.0 by applying Debord's Society of the Spectacle: on the pessimistic reading, Facebook makes friendship a spectator sport where we alternate between watching friends and performing for them, with corporate owners setting the protocols. They then turn to the Situationist constructive side - situations, dérive, détournement - reading lolcats, rickrolling, and the parody status updates ('Facebook will automatically start plunging the Earth into the Sun') as playful détournement that approaches media as active agents. Their verdict is suspended: the new spectacle co-opts our participation, so the imperative either way is to repurpose, subvert, and play."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - facebook Friends - BBFs, Creepers, That Hawt Guy from Last Night, and Mom.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 21,
+   "file": "ch21 - 10 - Why Can’t We Be Virtual Friends.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "cicero"
+   ],
+   "concepts": [
+    "aristotle-friendship",
+    "aristotle-virtue-ethics",
+    "philosophy-of-love",
+    "cicero-friendship"
+   ],
+   "relation": "Condella tests Facebook friendship against Aristotle's three kinds (pleasure, utility, virtue) from Nicomachean Ethics VIII-IX and Cicero's De Amicitia: the average user's 281 friends far exceeds true philia, which needs time, reciprocated goodwill, and shared 'conversation and thought'. He grants that Facebook's status updates share conversation and thought and maintain ties across distance, evoking the Seinfeld episode where Jerry refuses Keith Hernandez's too-early request to help him move. But because no one has ever helped a friend move on Facebook, virtual presence cannot make us better people, and Facebook's artificial buoying of dead friendships of utility risks quantity crowding out the few deep friendships that matter."
+  },
+  {
+   "n": 22,
+   "file": "ch22 - 11 - The Friendship that Makes No Demands.md",
+   "kind": "chapter",
+   "philosophers": [
+    "mill",
+    "williams",
+    "bentham",
+    "singer",
+    "jackson"
+   ],
+   "concepts": [
+    "utilitarianism",
+    "williams-integrity",
+    "consequentialism",
+    "drowning-child"
+   ],
+   "relation": "Tedesco sets Facebook's demand-free friendship against the modern moral requirement of impartiality, running from Godwin's burning-archbishop case through Bentham's 'everybody to count for one, nobody for more than one' and Williams's 'one thought too many' objection. He canvasses the escapes - Mill's rarely-demanded public benefactor, Singer's global village where aid is a click away, Jackson's sector plan and Railton's sophisticated consequentialism - and finds each inadequate to friendship's partiality. Facebook friendship looks like a third way that reconciles the two, but it turns out only to be friendship where it supplements a real offline relationship, so the impartiality problem stands."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 7,
+   "type": "concept",
+   "suggested_slug": "echo-chamber",
+   "name": "The Echo Chamber / Daily Me",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Cass Sunstein's argument that personalized media let people hear only agreeing views, harming democratic deliberation and self-knowledge.",
+   "why": "Chapter 7 uses Sunstein's Daily Me to frame the problem of intentional Facebook communities and the book's authenticity theme.",
+   "accepted": true
+  },
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "contextual-privacy",
+   "name": "Contextual Privacy (contextual integrity)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Privacy understood as respect for the implicit norms of distinct social contexts rather than as a simple public/private secrecy divide.",
+   "why": "Chapter 10's entire argument is that Facebook users care about contextual privacy, not secrecy, and that Facebook as 'privacy virus' violates contextual integrity.",
+   "accepted": true
+  },
+  {
+   "ch": 11,
+   "type": "concept",
+   "suggested_slug": "convergence-culture",
+   "name": "Convergence Culture (media convergence)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "The coming-together of content, computing, and communications, blurring personal communication and mass media addressed to nobody in particular.",
+   "why": "Chapter 11 analyzes Facebook precisely as the convergence of one-to-one messages and broadcasts, and its ethics follows from that blur.",
+   "accepted": true
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "media-ecology-tetrad",
+   "name": "The Tetrad / Media Ecology (McLuhan)",
+   "philosopher": "mcluhan",
+   "domain": "political-social",
+   "what": "McLuhan's laws of media: every medium enhances, obsolesces, retrieves, and reverses into something, and must be studied by form rather than content.",
+   "why": "Chapter 12 applies the tetrad question-by-question to Facebook and completes a Facebook tetrad, so the concept itself is what the chapter teaches.",
+   "accepted": true
+  },
+  {
+   "ch": 13,
+   "type": "concept",
+   "suggested_slug": "politeness-theory",
+   "name": "Politeness Theory (positive and negative politeness)",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Brown and Levinson's theory that interaction is organized around saving face via positive politeness (approach) and negative politeness (avoiding imposition).",
+   "why": "Chapter 13 structures its analysis of Facebook games like Mob Wars around positive and negative politeness and face-threatening acts.",
+   "accepted": true
+  },
+  {
+   "ch": 15,
+   "type": "concept",
+   "suggested_slug": "punctum-studium",
+   "name": "Punctum and Studium (Barthes on photography)",
+   "philosopher": "roland-barthes",
+   "domain": "political-social",
+   "what": "Barthes's Camera Lucida distinction between a photograph's general cultural interest (studium) and the piercing personal detail (punctum), together with the subject's 'air'.",
+   "why": "Chapter 15 argues Facebook profile pictures are all punctum and sorts them by Barthes's six photographic categories.",
+   "accepted": true
+  },
+  {
+   "ch": 16,
+   "type": "concept",
+   "suggested_slug": "online-disinhibition-effect",
+   "name": "The Online Disinhibition Effect",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "John Suler's six factors (anonymity, invisibility, asynchronicity, solipsism, dissociation, minimized authority) that loosen restraint in online communication.",
+   "why": "Chapter 16 argues Facebook eliminates all six disinhibiting factors, so that inhibition there prevents inauthentic 'fronting'.",
+   "accepted": true
+  },
+  {
+   "ch": 18,
+   "type": "concept",
+   "suggested_slug": "presentation-of-self",
+   "name": "The Presentation of Self (Goffman's dramaturgy)",
+   "philosopher": "goffman",
+   "domain": "political-social",
+   "what": "Goffman's model of social life as theatrical performance in which actors manage impressions for different audiences.",
+   "why": "Chapter 18 applies Goffman's dramaturgical framework to Facebook profiles as stages for trying out and being held accountable for identities.",
+   "accepted": true
+  },
+  {
+   "ch": 19,
+   "type": "philosopher",
+   "suggested_slug": "raoul-vaneigem",
+   "name": "Raoul Vaneigem",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Situationist theorist whose The Revolution of Everyday Life urges creating 'situations' and reversing perspective to resist the spectacle.",
+   "why": "Chapter 19 draws its account of situations, derive, and playful resistance to Facebook as much from Vaneigem as from Debord.",
+   "accepted": true
+  },
+  {
+   "ch": 21,
+   "type": "concept",
+   "suggested_slug": "cicero-friendship",
+   "name": "Ciceronian Friendship (De Amicitia)",
+   "philosopher": "cicero",
+   "domain": "ancient",
+   "what": "Cicero's account of friendship as complete accord on all things human and divine, possible only among the good, and confined to a few.",
+   "why": "Chapter 21 builds its second half on Cicero's De Amicitia ('handmaid of virtue'), for which taxonomy has only the unrelated De Officiis duty slug.",
+   "accepted": true
+  }
+ ]
+}

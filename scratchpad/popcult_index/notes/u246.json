@@ -1,0 +1,257 @@
+{
+ "book": "168 - Heroes and Philosophy - Buy the Book, Save the World",
+ "unit": "u246",
+ "chapters": [
+  {
+   "n": 2,
+   "file": "ch02 - Heroes and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 3,
+   "file": "ch03 - The Blackwell Philosophy and Pop Culture Series.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - Title Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - Copyright Page.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - Acknowledgements.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "The editor's introduction argues that Heroes is more reflective than average television, opening from Mohinder's 'Genesis' voice-over about life's mysteries and claiming that we are all philosophers seeking answers to the same fundamental questions. It frames narrative (from Aesop's fables to the Bible) as a powerful vehicle for moral lessons and previews the book's questions: is the Company good or evil, does Hiro really have a destiny, could mind reading be a power we already have, is time travel possible, what does Peter owe Nathan, and is it okay to lie to hide one's powers? It closes with John McCain's SNL joke defending Heroes against its competition."
+  },
+  {
+   "n": 8,
+   "file": "ch08 - PART ONE - HEROIC OBLIGATIONS.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "hobbes",
+    "rawls",
+    "locke",
+    "plato"
+   ],
+   "concepts": [
+    "social-contract",
+    "state-of-nature",
+    "veil-of-ignorance",
+    "plato-ring-of-gyges"
+   ],
+   "relation": "Sharp argues that superpowered individuals break the equality assumption on which social contract theory rests: since Claire cannot be killed, D.L. can walk out of any jail, and Matt can sway juries, Hobbes's fear-of-death rationale for the contract seems not to apply to them. He then answers that the heroes remain effectively equal (Claire can still be killed by a wood splinter, Adam by decapitation) and shares Locke's and Rawls's reasons for contract, yet shows Rawls's difference principle would force the powered to serve society while the liberty principle forbids it, and that Sylar could not even be morally condemned under a pure Hobbesian reading. Cases like Claude's invisible petty theft (Glaucon's Ring of Gyges made real), the 'Five Years Gone' registered-superhumans future, and Linderman's plot to reunite society through the New York explosion lead to the conclusion that superpowers really would break society."
+  },
+  {
+   "n": 10,
+   "file": "ch10 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "singer",
+    "kant"
+   ],
+   "concepts": [
+    "drowning-child",
+    "deontology",
+    "supererogation"
+   ],
+   "relation": "Miles asks whether extraordinary power generates extraordinary obligations, testing Spider-Man's 'with great power comes great responsibility' against Claude the invisible thief and the heroes' reluctance. He uses Singer's principle of minimal obligation (Micah diverting the train from the infant; Claire's negligible risk in burning-building rescues; Hiro teleporting across distance) and Kant's perfect/imperfect obligation distinction (Niki choosing between saving Monica and mothering Micah; Noah Bennet lying to protect Claire) before deploying Fishkin's three 'explosion' objections: too many endangered people, too many capable heroes, and too many repeated rescues dilute obligation. He concludes the heroes went beyond the call of duty in saving New York, so saving the world could legitimately be their paid job, like lifeguards or soldiers."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "sandel"
+   ],
+   "concepts": [
+    "applied-ethics",
+    "utilitarianism"
+   ],
+   "relation": "Robichaud evaluates the morally gray Company: its goal of mastering the evolutionary forces behind powers is tested against eugenics worries, the 'playing God' objection that natural processes have intrinsic value, and Sandel's Case against Perfection (that mastery breeds inflated responsibility, eroded community, and rigidity), each of which he finds inconclusive or outweighed by lives saved from people like Ted Sprague. He then turns to blame for the bag-and-tag program, applying Dennis Thompson's criterion to hold the founders plus hands-on agents like Bennet and the Haitian responsible while excusing accountants like Malsky. Finally he sets conditions for when an insider such as Bennet or Mohinder may blow the whistle, ruling out Bennet's murderous take-down-from-within scheme."
+  },
+  {
+   "n": 12,
+   "file": "ch12 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [],
+   "relation": "Southworth defends Tim Kring against comic fans' plagiarism charges (Heroes versus X-Men's Rogue and Wolverine, Rising Stars' identical plot), arguing plagiarism requires intending to pass off known others' ideas as one's own, which Kring's ignorance of the genre (he asked 'Who's Magneto?') rules out, even accidentally. But he then convicts Kring of failing his epistemic responsibility, applying Montmarquet's virtues: Kring lacked epistemic responsibility (not reading the Rising Stars Lindelof gave him), impartiality (deliberately refusing to learn the genre), and sobriety (pressing on despite Loeb's warning that everything he pitched had been done). Parallel cases from the show include Mohinder's early dismissal of his father's research and Niki's obligation to learn about Jessica."
+  },
+  {
+   "n": 13,
+   "file": "ch13 - PART TWO - SUPERMEN, SAMURAI, AND INVISIBLE MEN.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 14,
+   "file": "ch14 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "eternal-recurrence",
+    "amor-fati",
+    "fate-vs-free-will",
+    "meaning-of-life"
+   ],
+   "relation": "Shores reads Volume 1 through Nietzsche's eternal recurrence as a self-test of life-affirmation: Adam sealed in a coffin embodies recurrence in its 'most terrible form,' Future Hiro's string map dramatizes Nietzsche's claim that every action is indissolubly tied to all others, and Linderman's speech divorcing happiness from meaning is answered by Nietzsche's demand to crave nothing more fervently than the eternal return. The chapter stresses where the show diverges: Claire insists 'the future is not written in stone' and the heroes rewrite destiny, while Arthur Petrelli ironically holds a copy of Thus Spoke Zarathustra while contradicting it. Hiro's failed attempts to save Charlie and his father (Kaito's 'we cannot play God') frame the amor fati question of whether free will means changing events or willing them eternally."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "jung"
+   ],
+   "concepts": [
+    "jung-archetypes",
+    "jung-collective-unconscious",
+    "zen",
+    "bushido"
+   ],
+   "relation": "Baldwin argues the popular view of Bushido as a moral code (Nitobe, Star Wars, Kurosawa, Campbell's Jungian hero archetype) is historically wrong: by the Hagakure, Bushido is a death-ready 'mode of action' so morally neutral that even villains like Takezo Kensei or Sylar can practice it. He traces Hiro's evolution from comic-book and video-game hero-worship, through the Yaeko betrayal that turned Kensei into Adam Monroe, toward the fearless Future Hiro ideal of 'no-mind' readiness for death (echoing D.T. Suzuki's Zen reading). Because the Meiji reforms abolished the samurai class, Hiro can never literally be a samurai, only follow Bushido analogically, which lets him remain both superhero and samurai."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato"
+   ],
+   "concepts": [
+    "plato-ring-of-gyges",
+    "plato-tripartite-soul",
+    "plato-justice"
+   ],
+   "relation": "Adams uses Plato's Ring of Gyges to ask whether superpowered people have reason to be moral, answering through the tripartite soul: Claire declining credit for the fire rescue shows well-governed thumos, her calculated revenge on Brody shows logistics ruling spirit, while Sylar's uncontrollable hunger for powers is textbook epithumetikon and intemperance that makes his life spin 'super' out of control. Cases like Micah's ATM thefts and Hiro's Vegas cheating (punished by a desert beating) illustrate that vice harms the agent's own soul, since justice is the soul's health. Claire's hospital apology to Brody is read through the Pagan Golden Rule and Sophocles' Ajax: enemies can become friends, so virtue, not mere conformity, is 'only natural' for heroes and ordinary people alike."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - PART THREE - METAPHYSICS, REGULAR PHYSICS, AND HEROIC TIME TRAVEL.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 18,
+   "file": "ch18 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "boethius"
+   ],
+   "concepts": [
+    "fate-vs-free-will",
+    "free-will-determinism"
+   ],
+   "relation": "Johnson asks whether Isaac's paintings and Hiro's visions make the future fated, running Aristotle's sea-battle argument: if propositions about the future are already true (by bivalence and the correspondence theory of a 'written timeline'), then Sylar's exploding New York is inevitable and no one is free. He extends the problem to infallible foreknowledge via Future Hiro as a stand-in for God, considers and rejects Boethius's timeless-knowledge solution, and uses open theism plus a probability calculation about Ando's waffles order to show probabilistic foreknowledge is useless. He concludes most of Isaac's 'prophecies' are really self-fulfilling, as when Noah's efforts to dodge the eighth painting cause his shooting, and that the Heroes universe leaves room to deny fate."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis"
+   ],
+   "concepts": [
+    "time-travel",
+    "possible-worlds"
+   ],
+   "relation": "Luck argues backward time travel is nearly useless for a hero: after the grandfather paradox (Hiro hearing of Kaito's murder only because Kaito died), he shows Lewis's linear time travel makes Hiro necessarily fail to save Kaito, Charlie, or Isaac, yet cannot explain Hiro meeting Ando two days after a five-week absence or New York being spared. Branching time travel, where each trip into the past spawns an alternate universe, fits Volume 1 coherently by building a Heroes multiverse of Hiro-1 through Hiro-4 and explaining Future Hiro's subway appearance as a 'brute fact' copied into branching universes. The price of coherence is that Hiro only ever saves other universes' New Yorks, never his own."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - NOTES.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aquinas"
+   ],
+   "concepts": [
+    "time-travel"
+   ],
+   "relation": "Faraci asks why Hiro may prevent the nuclear future ('save the cheerleader') but comes to agree it would be wrong to save Kaito from the past ('we cannot play God'). Using thought experiments (a variant where Hiro learns of his father's death in the future) he isolates the past/future asymmetry as the candidate morally relevant factor, then tests justifications: Aquinas's natural law fails because observing the past would be equally 'unnatural,' and a duty to keep the timeline intact would also forbid changing the future, which is just as 'settled' to a time traveler. Since every theory of where Hiro's 'present' lies fails or collapses into subjectivity, he concludes there is no good reason to treat altering the past differently from altering the future, while demonstrating how normative ethics evaluates moral intuitions."
+  }
+ ],
+ "holes": [
+  {
+   "ch": 10,
+   "type": "concept",
+   "suggested_slug": "supererogation",
+   "name": "Supererogation (beyond the call of duty)",
+   "philosopher": "",
+   "domain": "ethics-moral-psychology",
+   "what": "Acts that are morally praiseworthy but not required, going beyond what obligation demands.",
+   "why": "Chapter 10 concludes via Fishkin's objections that saving the world is supererogatory rather than obligatory, which is why the heroes could legitimately bill New York for their services."
+  },
+  {
+   "ch": 11,
+   "type": "philosopher",
+   "suggested_slug": "dennis-thompson",
+   "name": "Dennis F. Thompson",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "Political ethicist whose Political Ethics and Public Office distributes blame for institutional wrongdoing to everyone who freely and knowingly contributes causally to a policy.",
+   "why": "Chapter 11 uses Thompson's criterion as the decisive answer to which Company members are morally responsible for the bag-and-tag program and when whistle-blowing is warranted."
+  },
+  {
+   "ch": 12,
+   "type": "concept",
+   "suggested_slug": "epistemic-virtue",
+   "name": "Epistemic Virtue and Responsibility",
+   "philosopher": "",
+   "domain": "knowledge-science-reality",
+   "what": "Virtue epistemology: the truth-seeking traits (responsibility, impartiality, sobriety, courage) and duties governing what we are blameworthy for not knowing.",
+   "why": "Chapter 12's entire verdict on Tim Kring rests on Montmarquet's four epistemic virtues, a framework the taxonomy lacks despite covering other epistemology."
+  },
+  {
+   "ch": 15,
+   "type": "concept",
+   "suggested_slug": "bushido",
+   "name": "Bushido (the way of the warrior)",
+   "philosopher": "",
+   "domain": "eastern-world",
+   "what": "The samurai code, which the chapter via the Hagakure treats as a death-ready mode of action rather than a moral code.",
+   "why": "Chapter 15 is organized around whether Hiro genuinely follows historical Bushido, a central concept absent from the taxonomy's eastern-world entries."
+  }
+ ]
+}

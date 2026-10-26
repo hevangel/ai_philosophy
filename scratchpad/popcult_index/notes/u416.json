@@ -1,0 +1,382 @@
+{
+ "book": "298 - The Philosophy of Tolkien - The Worldview Behind The Lord of the Rings",
+ "unit": "u416",
+ "chapters": [
+  {
+   "n": 3,
+   "file": "ch03 - The Lord of the Rings and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 4,
+   "file": "ch04 - The Lord of the Rings and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 5,
+   "file": "ch05 - The Lord of the Rings and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 6,
+   "file": "ch06 - The Lord of the Rings and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 7,
+   "file": "ch07 - The Lord of the Rings and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 8,
+   "file": "ch08 - The Lord of the Rings and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 9,
+   "file": "ch09 - The Lord of the Rings and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 10,
+   "file": "ch10 - The Lord of the Rings and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "socrates"
+   ],
+   "concepts": [
+    "unexamined-life"
+   ],
+   "relation": "The editors' introduction argues that The Lord of the Rings, though written by a philologist rather than a philosopher, dramatizes perennial questions Tolkien cared about as a Catholic: whether power always corrupts, whether death can be a gift, and the tension of fate versus free will. It frames the volume's method by invoking Socrates, who drew on art, sport, and music his listeners already knew to provoke examination of their lives, presenting Tolkien's fiction as the same kind of popular-culture doorway into the great questions."
+  },
+  {
+   "n": 11,
+   "file": "ch11 - The Lord of the Rings and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 12,
+   "file": "ch12 - The Lord of the Rings and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "socrates"
+   ],
+   "concepts": [
+    "plato-ring-of-gyges",
+    "plato-justice"
+   ],
+   "relation": "Eric Katz reads the One Ring as a variation on Plato's Ring of Gyges from the Republic: both grant impunity, and both pose the question of whether anyone would stay moral if able to act without consequence. Where Plato only argues that unchecked power corrupts the soul, Tolkien shows it through Gollum's ruin, Boromir's fall, and Frodo's final failure at the Cracks of Doom, while Galadriel, Bombadil, and Sam refuse the Ring by knowing who they are. Katz concludes Tolkien answers Plato's 'why be moral?' with 'to be yourself.'"
+  },
+  {
+   "n": 13,
+   "file": "ch13 - The Lord of the Rings and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "bostrom"
+   ],
+   "concepts": [
+    "applied-ethics",
+    "existence-risk"
+   ],
+   "relation": "Theodore Schick treats the Rings of Power as an allegory-free meditation on externalized 'potency,' applying it to emerging genetics, nanotechnology, and robotics. He contrasts the Council of Elrond's choice to destroy the Ring with Boromir's wish to wield it, and with Bill Joy's call to relinquish dangerous research versus Drexler's promise that nanotech could end poverty and disease. Schick argues our situation differs from Middle-earth because the knowledge cannot be un-forged, so grassroots social taming, not destruction of a single artifact, is the realistic response to knowledge-enabled mass destruction."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - The Lord of the Rings and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "freud",
+    "marx",
+    "heidegger"
+   ],
+   "concepts": [
+    "commodity-fetishism",
+    "marx-alienation",
+    "freud-unconscious"
+   ],
+   "relation": "Alison Milbank reads the One Ring as a fetish in both Freud's sexual sense (an object severed from the whole, twice literally cut from a finger, warding off the castrating maternal power figured in Shelob) and Marx's economic sense (a commodity that estranges makers from things and reduces persons to hoarders like Smaug). Against fetishism she sets Tolkien's gift-economy, embodied by Bombadil tossing the Ring in the air and by Sam's elvish rope, and Heidegger's older sense of the 'thing' as a gathering, so the novel teaches us to receive the world back as gift rather than possession."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - The Lord of the Rings and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 16,
+   "file": "ch16 - The Lord of the Rings and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "epicurus",
+    "thoreau"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia",
+    "aristotle-friendship",
+    "epicurean-pleasure"
+   ],
+   "relation": "Gregory Bassham mines the happy communities of the Shire, Rivendell, and Lothlorien for six keys to happiness: delight in simple things (linked to Epicurus's natural pleasures and Thoreau's Walden simplicity), making light of troubles, close friendship (grounded in Aristotle's claim that friendship is the greatest external good), good character, cherishing beauty and creativity, and recovering wonder. He argues Tolkien's hobbits and elves illustrate what modern happiness research confirms, so Tolkien functions as a philosophical guide to a more joy-filled life."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - The Lord of the Rings and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle"
+   ],
+   "concepts": [
+    "aristotle-eudaimonia",
+    "aristotle-friendship"
+   ],
+   "relation": "Jorge Gracia contrasts Sam and Gollum, two hobbits of shared nature and culture who both pursue happiness but reach opposite ends. Gollum's happiness is possession of the Precious, a thing, sought in isolation and won by murdering Deagol, which destroys him; Sam's happiness is fellowship in the Shire with Frodo and Rosie, and his love for Frodo lets him surrender the Ring where Gollum cannot. Drawing on Aristotle's tie between happiness, one's nature, and friendship, Gracia concludes that for ordinary beings happiness is achievable only in a social context whose key is love expressed as loyalty and sharing."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - The Lord of the Rings and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "arendt",
+    "camus"
+   ],
+   "concepts": [
+    "amor-fati",
+    "existentialism"
+   ],
+   "relation": "Eric Bronson reads the elves of Rivendell and especially Lothlorien through the 'merrier' existentialists, arguing that lasting joy requires facing the abyss and still affirming life, and knowing, as Nietzsche urged, what to remember and what to forget. Galadriel sings in dark times yet is burdened by remembering too much, unable to let go of her cursed past, so her regret shows the danger Jaspers and Arendt also diagnosed of losing oneself. When she refuses Frodo's Ring and chooses to 'diminish and remain Galadriel,' she embodies the existentialist's affirmation and trust in one's own inner light."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - The Lord of the Rings and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 20,
+   "file": "ch20 - The Lord of the Rings and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche"
+   ],
+   "concepts": [
+    "will-to-power",
+    "ubermensch",
+    "death-of-god"
+   ],
+   "relation": "Douglas Blount casts Sauron as a candidate for Nietzsche's Ubermensch, embodying the unabashed will to power in a world where God is dead, life is meaningless, and taste rather than reason or morality guides the self-created life. Tolkien answers this not by argument but by a rival portrait whose beauty lies in community, humility, love, and self-sacrifice: Gandalf dying on the bridge, Frodo's mercy to Gollum, and Sam refusing the Ring's vision of 'Samwise the Strong.' Blount argues that on Nietzsche's own criterion of taste, Tolkien's picture of abnegation is the more compelling vision of a life lived well."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - The Lord of the Rings and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "free-will-determinism"
+   ],
+   "relation": "Scott Davison argues that The Lord of the Rings rejects the Manichean view of evil as an independent force equal to good and instead dramatizes Augustine's view that evil is a privation, parasitic on goodness. The Ring is not evil metal but Sauron's power working through it, the Ringwraiths wear robes to give shape to their nothingness, and Sauron himself is a corrupted will, not the source of all evil. Following Augustine's 'inordinate desire,' Davison locates the root of evil in the free choice to want more than one's fair share, illustrated by Boromir, Saruman, and Sauron's wish to usurp Iluvatar, and contrasted with Sam's contented 'plain hobbit-sense.'"
+  },
+  {
+   "n": 22,
+   "file": "ch22 - The Lord of the Rings and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "kant",
+    "mill"
+   ],
+   "concepts": [
+    "virtue-ethics",
+    "aristotle-practical-wisdom",
+    "aristotle-golden-mean"
+   ],
+   "relation": "Aeon Skoble uses the characters to argue for Aristotelian virtue ethics over Kantian duty and utilitarian consequence, since right action flows from developed character and practical reason rather than rule-following. He reads Sam's loyalty and Aragorn's temperance as genuine virtue, Boromir as flawed-but-decent (undone by resentment and pride), and Smeagol's swift murder of Deagol as proof the Ring's corrupting power depends partly on prior character. Skoble contends Kant's rules would make Sam's loyalty no better than a Ringwraith's, and utilitarianism's demand for foreknowledge suits only Galadriel, so virtue ethics best fits Tolkien's flawed, developing heroes."
+  },
+  {
+   "n": 23,
+   "file": "ch23 - The Lord of the Rings and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 24,
+   "file": "ch24 - The Lord of the Rings and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "epicurus",
+    "lucretius",
+    "boethius",
+    "aristotle"
+   ],
+   "concepts": [
+    "epicurean-death",
+    "immortality",
+    "personal-identity"
+   ],
+   "relation": "Bill Davis explains why Arwen relinquishes elvish immortality and why Aragorn and Frodo accept death as a 'gift,' contrasting the Ringwraiths' cursed undeath (an Aristotelian frustration of their mortal nature) with genuine mortality. He surveys real-world responses to death: Socrates' calm confidence in the soul, Lucretius's and the existentialists' liberation through annihilation, and worries from Bernard Williams and others about the tedium of immortality, which Boethius answers with a timeless heaven. Davis argues Arwen chooses a finite life of deep love over deathless boredom, and that all three accept death trusting Iluvatar's love promises a world remade beyond the circles of the world."
+  },
+  {
+   "n": 25,
+   "file": "ch25 - The Lord of the Rings and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "nietzsche",
+    "marx",
+    "macintyre"
+   ],
+   "concepts": [
+    "macintyre-tradition",
+    "death-of-god"
+   ],
+   "relation": "Joe Kraus argues Tolkien wrote The Lord of the Rings as a protest against modernism, the mood that 'all that is solid melts into air' and that the past no longer matters, voiced by Marx, Freud, and Nietzsche's 'God is dead.' Tolkien's heroes survive because they remember lore and tradition (Gandalf watching the Shire, Sam's book-learning at Cirith Ungol), while Saruman and Denethor embody modern despair: they misuse the palantir, lose faith in tradition, and can only try to destroy the present. Against Berman's claim that there is no escape from modernism, Kraus reads Middle-earth as a fantasy where clinging to tradition still yields real, tangible power and certainty."
+  },
+  {
+   "n": 26,
+   "file": "ch26 - The Lord of the Rings and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [],
+   "concepts": [
+    "anthropocentrism",
+    "deep-ecology",
+    "wilderness-ethics"
+   ],
+   "relation": "Andrew Light resists reading the peoples of Middle-earth as simple stand-ins for parts of nature, noting that the ents, not the elves, truly speak for the forest, so nature is animated to stand and speak for itself. His central idea is 'green time': through Tom Bombadil and the ents, Tolkien represents a naturally scaled, ecosystemic, near-indifferent temporal perspective, seen when Bombadil is unconcerned with the Ring and the ents ignore the riders of Rohan. Light argues this indifference should not make us indifferent to nature but should teach humility and long-term responsibility for problems like global warming, imagining what it is to care for things as a process beyond our own lifespan."
+  },
+  {
+   "n": 27,
+   "file": "ch27 - The Lord of the Rings and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 28,
+   "file": "ch28 - The Lord of the Rings and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "augustine",
+    "kant"
+   ],
+   "concepts": [
+    "problem-of-evil",
+    "free-will-determinism",
+    "fate-vs-free-will"
+   ],
+   "relation": "Thomas Hibbs argues that Tolkien dramatizes providence as chance that brings good out of evil, chiefly through Gollum, whose theft and fall at the Cracks of Doom completes the Quest that Frodo, having claimed the Ring, could not. Providence presupposes real freedom and duty: Hibbs compares Gandalf's counsel to do what is in us for the years we are set with Kant on freely accepting duty, while distinguishing Tolkien's enchanted, morally saturated cosmos from Kant's opposition of autonomy and nature. Following Augustine's privation view of evil (echoing the volume's earlier essay), he reads Saruman's self-destruction and Sauron's blind self-projection as evil marring itself, met fittingly by wonder, joy, and gratitude at events like Gandalf's return."
+  },
+  {
+   "n": 29,
+   "file": "ch29 - The Lord of the Rings and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "dogen",
+    "laozi",
+    "buddha"
+   ],
+   "concepts": [
+    "buddhism",
+    "taoism",
+    "yin-yang",
+    "zen"
+   ],
+   "relation": "Jennifer McMahon and Steve Csaki test Buddhist and Taoist parallels in the novel and find many only apparent. Tolkien's talking trees and ents anthropomorphize nature and grant it human-like consciousness, whereas Buddhism attributes sentience to all beings without projecting human consciousness, and Tolkien privileges domesticated over wild nature and stewardship over membership in nature. His master-student chain (Bilbo, Gandalf, Aragorn, 'Master Samwise') genuinely echoes the Zen necessity of the right master, as in Dogen's mushroom-cook mentor; but his good-versus-evil war, with light privileged over a personified dark power to be defeated, contradicts Taoism's yin-yang balance in which evil is imbalance, not a force to destroy."
+  },
+  {
+   "n": 30,
+   "file": "ch30 - The Lord of the Rings and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "descartes",
+    "augustine"
+   ],
+   "concepts": [
+    "plato-cave",
+    "descartes-cogito",
+    "existentialism"
+   ],
+   "relation": "J. Lenore Wright reads the Quest through the Western journey-narrative, both outward (Plato's climb out of the cave, Augustine's conversion) and inward (Descartes's methodological doubt turning toward the cogito). Frodo's leaving the Shire and freely accepting the Ring dramatizes the outward journey and the limits of freedom, while the wounding-and-healing of Sam, Merry, and Pippin marks an existential journey toward the Nietzschean charge to 'become who you are.' Wright contrasts the Yea-saying hobbits, transformed into resilient masters, with Nay-sayers Smeagol and Saruman locked in inauthentic self-pity, and argues Tolkien's ordinary pilgrims show that binding oneself to the good makes ordinary life extraordinary."
+  },
+  {
+   "n": 31,
+   "file": "ch31 - The Lord of the Rings and Philosophy.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kierkegaard"
+   ],
+   "concepts": [
+    "meaning-of-life",
+    "leap-of-faith"
+   ],
+   "relation": "John Davenport argues The Lord of the Rings is religious not as Christian allegory but as an epic fairy tale in Tolkien's sense from 'On Fairy-stories,' delivering 'eucatastrophe,' the sudden joyous turn that, like Kierkegaard's faith in a salvation beyond our own power, hints at eschatological hope. Using Sir Gawain and the Green Knight as Tolkien's model for Frodo (both accept an impossible burden, both fail and bear a scar of mortality), he identifies the destruction of the Ring via Gollum, Eowyn's healing, and the sapling of Nimloth as eucatastrophic 'turns.' Davenport concludes the veiled religious message is that evil cannot stand forever, yet deliverance requires our sacrifice and faith beyond rational hope that 'day shall come again.'"
+  },
+  {
+   "n": 32,
+   "file": "ch32 - The Lord of the Rings and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 33,
+   "file": "ch33 - The Lord of the Rings and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 34,
+   "file": "ch34 - The Lord of the Rings and Philosophy.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 35,
+   "file": "ch35 - The Lord of the Rings and Philosophy.md",
+   "kind": "front",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": []
+}

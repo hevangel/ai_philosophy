@@ -1,0 +1,107 @@
+[
+ {
+  "key": "philosophical-zombies",
+  "name": "Philosophical Zombies",
+  "kind": "concept",
+  "philosopher": "David Chalmers",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "extended-mind",
+  "name": "The Extended Mind",
+  "kind": "concept",
+  "philosopher": "Andy Clark",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "intentional-stance",
+  "name": "The Intentional Stance",
+  "kind": "concept",
+  "philosopher": "Daniel Dennett",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "cartesian-theater",
+  "name": "The Cartesian Theater (critique)",
+  "kind": "concept",
+  "philosopher": "Daniel Dennett",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "language-games",
+  "name": "Language Games",
+  "kind": "concept",
+  "philosopher": "Ludwig Wittgenstein",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "private-language",
+  "name": "The Private Language Argument",
+  "kind": "concept",
+  "philosopher": "Ludwig Wittgenstein",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "russells-teapot",
+  "name": "Russell's Teapot",
+  "kind": "concept",
+  "philosopher": "Bertrand Russell",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "naturalistic-fallacy",
+  "name": "The Naturalistic Fallacy",
+  "kind": "concept",
+  "philosopher": "G.E. Moore",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "sense-reference",
+  "name": "Sense and Reference",
+  "kind": "concept",
+  "philosopher": "Gottlob Frege",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "quine-indeterminacy",
+  "name": "Indeterminacy of Translation",
+  "kind": "concept",
+  "philosopher": "W.V.O. Quine",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "web-of-belief",
+  "name": "The Web of Belief",
+  "kind": "concept",
+  "philosopher": "W.V.O. Quine",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "kripke-naming",
+  "name": "Naming and Necessity (rigid designators)",
+  "kind": "concept",
+  "philosopher": "Saul Kripke",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "possible-worlds",
+  "name": "Possible Worlds",
+  "kind": "concept",
+  "philosopher": "David Lewis",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "category-mistake",
+  "name": "Category Mistake",
+  "kind": "concept",
+  "philosopher": "Gilbert Ryle",
+  "domain": "Mind, Language & Metaphysics"
+ },
+ {
+  "key": "ghost-in-the-machine",
+  "name": "The Ghost in the Machine",
+  "kind": "concept",
+  "philosopher": "Gilbert Ryle",
+  "domain": "Mind, Language & Metaphysics"
+ }
+]

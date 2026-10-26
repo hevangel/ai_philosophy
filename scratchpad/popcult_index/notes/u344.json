@@ -1,0 +1,87 @@
+{
+  "book": "236 - The Philosophy of War Films",
+  "unit": "u344",
+  "chapters": [
+    {
+      "n": 21,
+      "file": "ch21 - The Work of Art in the Age of Embedded Journalism Fiction versus Depiction in Zero Dark Thirty.md",
+      "kind": "chapter",
+      "philosophers": ["wittgenstein", "plato"],
+      "concepts": ["plato-cave", "just-war-theory"],
+      "relation": "Evans argues that Kathryn Bigelow's Zero Dark Thirty fails morally and epistemically because its immersive 'boots-on-the-ground' realism traps the viewer inside Maya's single point of view, so we can never see the CIA torture program's lunacy the way an outside witness would. Drawing on Wittgenstein's Tractatus claim that the subject is a limit of the world (the eye that cannot see itself), she shows how the film effaces its own privileged viewpoint to pass off a partial view as impartial reality. Against this she sets a Platonic point that genuine reality is glimpsed only through fiction that ironically juxtaposes contrasting viewpoints, citing scenes like the SEALs' banter and Maya's final weeping where the film briefly becomes true art. The 'depiction is not endorsement' defense collapses because the narrative logic still credits torture with finding bin Laden."
+    },
+    {
+      "n": 22,
+      "file": "ch22 - Part 4. War, Nature, and the Absolute.md",
+      "kind": "front",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 23,
+      "file": "ch23 - Vernacular Metaphysics On Terrence Malick\u2019s The Thin Red Line.md",
+      "kind": "chapter",
+      "philosophers": ["heidegger", "emerson"],
+      "concepts": ["being-toward-death", "meaning-of-life"],
+      "relation": "Pippin reads Malick's The Thin Red Line as deliberately invoking then refusing Hollywood war-movie conventions (group solidarity, trackable characters, heroic assault) so the viewer is left 'lost' and forced toward a metaphysical rather than political or sentimental reckoning with death. Through unattributed poetic voice-overs\u2014Train's Manichean questions, Witt's search for the calm 'immortality' he saw in his dying mother, Welsh's cynicism, Bell's romantic idealism\u2014and lingering non-plot shots of nature bathed in sunlight, the film pursues a 'vernacular metaphysics': ordinary soldiers straining ordinary speech to ask what it is to live under certain death. Pippin aligns this disclosive, prediscursive truth of the image with the Hegel-to-Heidegger-Merleau-Ponty tradition of art as truth-bearer, while Witt's Emersonian 'one big soul' and his self-sacrifice ('all things shining') stage the film's unresolved question of whether nature and death can be seen as good."
+    },
+    {
+      "n": 24,
+      "file": "ch24 - War and Its Fictional Recovery On-Screen Narrative Management of Death in The Big Red One and The Thin Red Lin.md",
+      "kind": "chapter",
+      "philosophers": ["freud"],
+      "concepts": ["freud-death-drive", "freud-unconscious"],
+      "relation": "Bronfen takes Freud's 'Thoughts for the Times on War and Death' (life 'recovers its full content' when war forces us to believe in death) and his theory of the death drive and the uncanny double as a template for how war films manage mortality through fiction. In Fuller's The Big Red One, the nameless Sergeant's guilt-driven distinction between killing and murder, his Nazi double Schroeder, and the compulsively repeated stabbing scene at the crucifix let the hero convert contingent slaughter into a restitutive story where survival is 'the only glory,' echoing Freud's Eros\u2013Thanatos struggle. In Malick's The Thin Red Line, Private Witt splits not into warlike and peacetime selves but into bodily and spiritual presence, embracing death as transcendence into 'shining light' that doubles the light of cinema itself. Both films strike a pact with the viewer, who dies with the heroes yet safely survives them."
+    },
+    {
+      "n": 25,
+      "file": "ch25 - \u201cProfoundly Unreconciled to Nature\u201d Ecstatic Truth and the Humanistic Sublime in Werner Herzog\u2019s War Films.md",
+      "kind": "chapter",
+      "philosophers": ["kant", "heidegger"],
+      "concepts": ["kant-aesthetics", "meaning-of-life"],
+      "relation": "LaRocca argues against Thomas Weiskel that the 'humanistic sublime' is not an oxymoron, using Herzog's war films (Lessons of Darkness, Little Dieter Needs to Fly, Rescue Dawn) to show a sublime that returns us to the human at the limit of existence rather than transcending it. Building on Kant's link between the sublime and human dignity\u2014and Kant's claim that sublimity lies in our ideas, not in nature\u2014he reads Herzog's 'ecstatic truth' (fabrication that exceeds the 'accountant's truth') as the vehicle: staged monologues, borrowed music, and recontextualized documentary footage disclose an inner reality. Herzog's Heideggerian gloss on aletheia as un-concealment aligns cinema itself with truth, and Dengler's bear ('the only friend I had was death') exemplifies war as the space of radical mortality where the humanistic sublime dawns for the safe spectator, contrasted with Malick's more Darwinian, nature-indifferent vision."
+    },
+    {
+      "n": 26,
+      "file": "ch26 - Acknowledgments.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 27,
+      "file": "ch27 - Appendix. The Multifarious Forms of War Films A Taxonomy of Subgenres.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 28,
+      "file": "ch28 - Contributors.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 29,
+      "file": "ch29 - Index.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    },
+    {
+      "n": 30,
+      "file": "ch30 - 531.md",
+      "kind": "notes",
+      "philosophers": [],
+      "concepts": [],
+      "relation": ""
+    }
+  ],
+  "holes": []
+}

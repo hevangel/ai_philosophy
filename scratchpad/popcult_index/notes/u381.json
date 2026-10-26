@@ -1,0 +1,176 @@
+{
+ "book": "263 - Stephen King and Philosophy",
+ "unit": "u381",
+ "chapters": [
+  {
+   "n": 13,
+   "file": "ch13 - Broadcast Dystopia.md",
+   "kind": "chapter",
+   "philosophers": [
+    "arendt"
+   ],
+   "concepts": [
+    "banality-of-evil",
+    "utopia-dystopia",
+    "terrorism-violence"
+   ],
+   "relation": "Foy and Dale read the Bachman dystopias The Running Man and The Long Walk through Hannah Arendt's distinction between power (collective coordination) and violence (coercion by implements), arguing King's states substitute broadcast spectacle for genuine power and so hemorrhage legitimacy the more violence they apply. The gladiatorial Games Network and the Walk pacify the masses while chants of 'KILL HIM' sever the affective bonds of humanity. The chapter invokes Arendt's Eichmann-in-Jerusalem 'banality of evil' to explain the soldiers, Hunters, and cheering citizens as ordinary people uncritically 'doing their jobs,' and reads Ben Richards's suicide flight into the Games Building and Garraty's exhausted walk as futile personal revolts that change nothing."
+  },
+  {
+   "n": 14,
+   "file": "ch14 - Stephen King and the Art of Horror.md",
+   "kind": "chapter",
+   "philosophers": [
+    "plato",
+    "aristotle",
+    "hume"
+   ],
+   "concepts": [
+    "plato-cave",
+    "virtue-ethics"
+   ],
+   "relation": "Littmann stages a mock trial of King's horror using classical aesthetics: Plato prosecutes, condemning fiction as lies that misrepresent gods, afterlife, and paternal authority (Carrie's mother, Jack Torrance, the Loser's Club disobeying elders) and corrupt morals through spectacle. Aristotle counters that Poetics-style poetry is 'more philosophical than history' and that tragedy's catharsis purges pity and fear, which King echoes in Danse Macabre's claim that horror lances real terrors via Danny Torrance, Paul Sheldon, and Louis Creed. Hume's 'Of Tragedy' explains why we enjoy fictional suffering (Pennywise, Annie Wilkes) we would hate in life; Littmann finally revises Hume, arguing horror's pleasure is the spur to imagination rather than mere appreciation of artistic skill."
+  },
+  {
+   "n": 15,
+   "file": "ch15 - “You Weren’t Hired to Philosophize, Torrance”.md",
+   "kind": "chapter",
+   "philosophers": [
+    "roland-barthes"
+   ],
+   "concepts": [
+    "death-of-the-author"
+   ],
+   "relation": "Bane uses The Shining and its rival adaptations to explain Roland Barthes's 'death of the author,' rooting it in Wimsatt and Beardsley's 'intentional fallacy' that an author's intention is neither available nor desirable for judging a text. He shows the novel opening with Poe and Eliot epigraphs plus pop-culture jingles as Barthes's 'tissue of quotations,' then contrasts King's insistence that Jack Torrance is a good man driven by malevolent ghosts (the 'Author-God') with Kubrick's reading of Jack as already insane. Bane argues King's own 1997 miniseries ending betrays the film to defend his authority, concluding with Barthes that a text's unity lies in the reader's 'destination,' so King holds no more authority over The Shining than any reader."
+  },
+  {
+   "n": 16,
+   "file": "ch16 - What Happens to the Present When It Becomes the Past.md",
+   "kind": "chapter",
+   "philosophers": [
+    "lewis"
+   ],
+   "concepts": [
+    "time-travel",
+    "a-series-time"
+   ],
+   "relation": "Daniels asks whether the airline passengers in The Langoliers are truly time travelers and what theory of time their dead, tasteless past implies. Using David Lewis's distinction between 'personal time' and 'external time,' he shows the discrepancy between the characters' day-long journey and the few hours that elapse in the present qualifies them as genuine time travelers despite the deserted world. He then rules out presentism (incompatible with time travel via the 'nowhere problem') and eternalism (which denies any privileged present), arguing the vibrant, 'oomph'-laden moving now the characters race to rejoin fits the moving spotlight theory, while the langoliers merely consume the world's contents, not spacetime itself."
+  },
+  {
+   "n": 17,
+   "file": "ch17 - Notes on Foreknowledge, Truthmaking, and Counterfactuals from The Dead Zone.md",
+   "kind": "chapter",
+   "philosophers": [
+    "aristotle",
+    "gettier"
+   ],
+   "concepts": [
+    "fate-vs-free-will",
+    "free-will-determinism"
+   ],
+   "relation": "Manninen uses Johnny Smith's clairvoyance in The Dead Zone to probe how knowledge of the future is possible without fatalism, focusing on the truth condition of knowledge and truthmaker theory rather than the Gettier-vexed justification condition. Reviving Aristotle's sea-battle problem from De Interpretatione, he argues that if Johnny's statement 'Stillson will start a nuclear war' has a truthmaker the future seems fixed, foreclosing deliberation. He resolves this via Luis de Molina's middle (counterfactual) knowledge: Johnny knows only that IF Chuck attends the party or IF Stillson becomes president, THEN disaster follows, so by blocking the antecedent (keeping Stillson from office) he can avert the linked future while the general problem of divine foreknowledge and free will remains."
+  },
+  {
+   "n": 18,
+   "file": "ch18 - Time Belongs to the Tower.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "william-james"
+   ],
+   "concepts": [
+    "time-travel",
+    "will-to-believe"
+   ],
+   "relation": "Auxier frames King as 'Tolkien meets Poe' and reads the Dark Tower's temporalization through the literary and psychological experience of time. Drawing on Susanne Langer's 'virtual present' and Sartre's psychology of imagination, he argues readers surrender their real present to a novel's suspended time, which he links to William James's 'will to believe' rather than mere suspension of disbelief. He uses Kant's distinction between amazement (seeing the seemingly impossible) and admiration (accepting it) to explain the psychological cost time travelers like Jake Epping and Wesley Smith should pay, faulting King for keeping ordinary heroes sane while displacing the strain onto insane 'gatekeepers,' and concludes the Tower is 'real' as the way each person binds possibility to their own lived past, present, and future."
+  },
+  {
+   "n": 19,
+   "file": "ch19 - Ur 88,416.md",
+   "kind": "chapter",
+   "philosophers": [
+    "kant",
+    "lewis"
+   ],
+   "concepts": [
+    "time-travel",
+    "possible-worlds"
+   ],
+   "relation": "Auxier reconstructs the metaphysics of King's Tower across Ur and 11/22/63, treating imagination as a power that defies present time to reach the 'nowhen.' He maps King's multiverse onto Everett's many-worlds and Brian Greene's quantum/quilted multiverses, then extracts three 'laws of Dark Tower dynamics': the obduracy of the past (resistance proportional to how much the future would change), the conservation of harmony (time-strings converging like sympathetic guitar strings on an ideal order), and the danse macabre. He shows the 'reset' Jake believes in is really the creation of new Ur strings, dismantles Al Templeton's meat-buying and epistemic-radiation theories via thermodynamics, and closes with Kant's three functions of imagination to argue time travel is a 'plausible impossible' symbol we can imagine but never actually enact."
+  },
+  {
+   "n": 20,
+   "file": "ch20 - From Desperation to Haven.md",
+   "kind": "chapter",
+   "philosophers": [
+    "schopenhauer",
+    "macintyre",
+    "nietzsche"
+   ],
+   "concepts": [
+    "schopenhauer-pessimism",
+    "schopenhauer-compassion",
+    "virtue-ethics"
+   ],
+   "relation": "Held reads The Tommyknockers, Desperation, and The Regulators through Arthur Schopenhauer's pessimism, arguing King's worlds are 'always already sunk in evil' and that the will to live swings life between pain and boredom even before the supernatural arrives. He identifies egoism as the root of King's cruelty (Hilly banishing David Brown to Altair-4, Bobbi turning her dog into a battery) and offers Schopenhauer's compassion-based virtue ethic, 'injure no one; help everyone,' as the answer, supported by MacIntyre on the degradation of happiness and set against Nietzsche's 'last man' and nihilism. Gard's rescue of David Brown ('the kid matters or nothing matters') and Johnny Marinville's self-sacrifice in Desperation exemplify the heroic, compassionate life that defies the dark."
+  },
+  {
+   "n": 21,
+   "file": "ch21 - Index.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  },
+  {
+   "n": 22,
+   "file": "ch22 - Ka-tet Author Biographies.md",
+   "kind": "notes",
+   "philosophers": [],
+   "concepts": [],
+   "relation": ""
+  }
+ ],
+ "holes": [
+  {
+   "ch": 14,
+   "type": "concept",
+   "suggested_slug": "paradox-of-tragedy",
+   "name": "The Paradox of Tragedy (pleasure in fictional suffering)",
+   "philosopher": "hume",
+   "domain": "mind-language-metaphysics",
+   "what": "The puzzle, framed by Aristotle's catharsis and Hume's 'Of Tragedy,' of why audiences take pleasure in fear, horror, and sorrow they would find painful in real life.",
+   "why": "Chapter 14's entire defense of horror art turns on catharsis and Hume's paradox of tragedy, a distinct aesthetic problem the taxonomy has no concept for."
+  },
+  {
+   "ch": 15,
+   "type": "philosopher",
+   "suggested_slug": "barthes",
+   "name": "Roland Barthes",
+   "philosopher": "",
+   "domain": "political-social",
+   "what": "French literary theorist and semiotician (1915-1980) best known for structuralist and post-structuralist criticism.",
+   "why": "Chapter 15 is built entirely on Barthes's essay 'The Death of the Author,' and no comparable literary-theory figure exists in the taxonomy."
+  },
+  {
+   "ch": 15,
+   "type": "concept",
+   "suggested_slug": "death-of-the-author",
+   "name": "The Death of the Author",
+   "philosopher": "barthes",
+   "domain": "political-social",
+   "what": "Barthes's thesis that a text's meaning is created by the reader rather than fixed by its author's intention, extending Wimsatt and Beardsley's 'intentional fallacy.'",
+   "why": "Chapter 15 applies this exact concept to The Shining and its adaptations; the taxonomy has no slug for authorship, intention, or reader-response theory."
+  },
+  {
+   "ch": 17,
+   "type": "concept",
+   "suggested_slug": "middle-knowledge",
+   "name": "Middle Knowledge (scientia media / counterfactuals of freedom)",
+   "philosopher": "",
+   "domain": "religion-meaning",
+   "what": "Luis de Molina's doctrine that God (or a knower) can know true counterfactuals about what free agents would do, reconciling foreknowledge with freedom.",
+   "why": "Chapter 17's resolution of Johnny Smith's predictive knowledge depends specifically on Molinist middle knowledge, which the taxonomy does not cover (and Molina himself is absent)."
+  }
+ ]
+}
