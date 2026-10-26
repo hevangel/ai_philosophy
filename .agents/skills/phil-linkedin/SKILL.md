@@ -42,9 +42,16 @@ link to the site instead.
 
 ## Browser mechanics (learned 2026-10-25, all confirmed live)
 
+- **Session shape**: set the tab viewport to 1366x900 first — narrower panes
+  get LinkedIn's mobile layout. Tabs are released at turn end: if
+  `browser.tabs.list()` comes back empty, check `browser.user.openTabs()` and
+  `claimTab` the LinkedIn page, or just open a fresh tab — the login session
+  persists in the browser, not in the tab.
 - **Write article, not Start a post.** Feed → "Write article" link
   (`/article/new/`) → "Publish new article" editor with a cover area, a
-  `textbox "Title"`, and a `textbox "Article editor content"`.
+  `textbox "Title"`, and a `textbox "Article editor content"`. The first
+  `goto` may report a navigation timeout — check URL/title before retrying;
+  it loads anyway.
 - **Title**: focus via `locator.evaluate((el) => el.focus())`, type via
   `locator.type(...)`. `innerText` reads back empty on this field — verify
   through `domSnapshot()` instead.
@@ -72,10 +79,43 @@ link to the site instead.
   2. Dispatch one paste event carrying the full HTML + plain-text twin.
   3. Verify: `innerText` length ≈ 36 k for a 5 k-word essay, head matches the
      first sentence, tail matches the last line.
+- **Draft autosave is a trap**: the editor saves continuously ("Draft - saved").
+  A reload does NOT give a blank editor — it restores the last save. Escape a
+  bad state inside the editor (click into the text, `Control+a`, `Backspace`,
+  verify empty); never reload to "reset".
 - **Publish flow**: "Next →" opens the share dialog ("Tell your network what
   your article is about...", article preview attached). Focus its textbox and
   `locator.type` the human's words verbatim — this dialog accepts locator
   typing. "Publish" publishes the article AND the share post together.
+
+## Feed composer — plain posts, DMs, comments (the hard way)
+
+If the human ever wants a plain feed post, DM, or comment (the petition
+campaign does), the feed UI is far more hostile than the article editor:
+
+- "Start a post" and the composer toolbar live in **shadow DOM**: role/CSS
+  locator *clicks* time out, and `evaluate(() => el.click())` is a no-op.
+  Screenshot, then click **CUA coordinates**. Locator *typing* still works
+  after `locator.evaluate((el) => el.focus())` — clicks are the broken path,
+  not keys.
+- **Attaching an image to a feed post is not automatable here**: the IAB has
+  no file-chooser access, `navigator.clipboard.write` is permission-denied,
+  `document.execCommand("copy")` returns false, and the composer ignores
+  untrusted synthetic paste/drop events carrying files (it accepts only
+  trusted OS input). Only the article editor mounts an injectable
+  `input[type=file]` (see above). If a feed post must carry a custom image,
+  either link a URL whose Open Graph card carries the image, or hand the one
+  attach step to the human in an open composer.
+- Page-level `fetch`/XMLHttpRequest to other origins are killed by LinkedIn's
+  CSP and its patched fetch wrapper — move data in through `evaluate`
+  arguments, or load images via the CORS `img` → `canvas` route (GitHub Pages
+  serves `Access-Control-Allow-Origin: *`).
+- **Verification**: the feed lags and may not show your own new post at once —
+  `linkedin.com/in/horacechan/recent-activity/all/` is authoritative. Permalink
+  shapes: link posts `…/feed/update/urn:li:activity:<id>/`, article shares
+  `…/feed/update/urn:li:share:<id>/`, articles `…/pulse/<slug>-horace-chan-<id>/`.
+  Grab the permalink from the `a[href*="/feed/update/"]` inside the matching
+  post container, not from a page-wide link dump.
 
 ## Procedure
 
@@ -94,4 +134,9 @@ link to the site instead.
 - The OG share pages (`articles/<slug>/index.html`, template:
   `the_bridge_was_not_built_for_machines`) are NOT needed for this flow —
   the Pulse article carries its own cover. They remain useful only if the
-  human explicitly wants to share the *site* link on social platforms.
+  human explicitly wants to share the *site* link on social platforms (clean
+  `/read/...` routes return HTTP 404 to crawlers and never unfurl). If you do
+  create one: commit only that file, push, and verify the deploy with
+  `gh api repos/hevangel/ai_philosophy/pages/builds/latest --jq .status`
+  until `built` — local `curl` to github.io is network-blocked on this
+  machine (HTTP 000 is a proxy block, not a missing deploy).
