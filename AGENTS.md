@@ -80,11 +80,11 @@ it really is.**
 
 `.agents/skills/` also holds utility skills outside both toolkits:
 
-- `phil-linkedin` — post a repo article to the owner's LinkedIn feed via
-  `browser-use:control-browser`. The cover reaches the post through a per-article
-  Open Graph share page (`articles/<slug>/index.html`, created from the
-  `the_bridge_was_not_built_for_machines` template, committed and pushed when missing —
-  clean `/read/...` routes return 404 to crawlers and never unfurl). Requires the post
+- `phil-linkedin` — publish a repo article to the owner's LinkedIn as a long-form
+  article (the "Write article" / Pulse flow) with the cover as hero image and the full
+  markdown text as body, then "share with a post" using the owner's words. Driven via
+  `browser-use:control-browser`; the skill encodes the working browser mechanics (direct
+  file-input injection for the cover, synthetic paste for the body). Requires the share-post
   text supplied verbatim by the user; the skill never drafts, summarizes, or edits it.
 
 - `libgen-download` — batch-download books from a libgen mirror into a local corpus folder,
