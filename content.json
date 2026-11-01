@@ -17,9 +17,15 @@
         {
           "slug": "from_doing_to_directing",
           "title": "From Doing to Directing: Process, Results, and the Bootstrapping Problem in AI-Native Education",
+          "title_zh": "從「做」到「指揮」：過程、結果與 AI 原生教育中的自舉難題",
           "summary": "Generative AI forces education to decide which manual practice is worth keeping. This paper argues for verification-first AI-native education: students use AI early but are trained to specify, verify, diagnose errors, and take responsibility, with selective unaided work kept where it builds the judgment needed for oversight. It examines the evidence from software engineering and education, names the unresolved bootstrapping problem, and proposes a longitudinal test.",
+          "summary_zh": "生成式 AI 迫使教育決定應保留哪些手工實踐。本文主張驗證優先的 AI 原生教育：學生及早使用 AI，但須受訓練去界定規格、驗證、診斷錯誤並承擔責任，並在對監督所需判斷力至關重要之處，保留有選擇性的無輔助練習。文章審視軟件工程與教育的證據，指出未解決的自舉難題，並提出一項縱向測試。",
           "path": "articles/from_doing_to_directing/index.md",
           "cover": "articles/from_doing_to_directing/cover.png",
+          "cover_zh_text": [
+            "從「做」到「指揮」",
+            "過程、結果與 AI 原生教育中的自舉難題"
+          ],
           "date": "2026-11-01"
         },
         {
