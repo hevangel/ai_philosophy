@@ -19,6 +19,7 @@
           "title": "From Doing to Directing: Process, Results, and the Bootstrapping Problem in AI-Native Education",
           "summary": "Generative AI forces education to decide which manual practice is worth keeping. This paper argues for verification-first AI-native education: students use AI early but are trained to specify, verify, diagnose errors, and take responsibility, with selective unaided work kept where it builds the judgment needed for oversight. It examines the evidence from software engineering and education, names the unresolved bootstrapping problem, and proposes a longitudinal test.",
           "path": "articles/from_doing_to_directing/index.md",
+          "cover": "articles/from_doing_to_directing/cover.png",
           "date": "2026-11-01"
         },
         {
