@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">From Expression to Reception — Pop Art Cover</title>
+<desc id="desc">Original Warhol-inspired pop art with four silkscreen-style portraits of a viewer, each in contrasting neon colors, and bold editorial typography about generative AI and artistic reception.</desc>
+<defs><pattern id="halftone" width="13" height="13" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="2.8" fill="#161322"/></pattern></defs>
+
+<g transform="translate(0 0)">
+ <rect width="360" height="337.5" fill="#f9db30"/>
+ <circle cx="129" cy="149" r="123" fill="#23cdd8" opacity=".62"/>
+ <circle cx="129" cy="149" r="123" fill="url(#halftone)" opacity=".34"/>
+ <path d="M0 25 L90 0 L0 130 Z" fill="#25224b" opacity=".12"/>
+ <path d="M265 0 L360 0 L360 118 Z" fill="#25224b" opacity=".16"/>
+ <path d="M53 337 L70 297 Q96 270 137 265 L223 265 Q275 277 298 337 Z" fill="#25224b"/>
+ <path d="M142 246 L217 246 L221 310 L137 310 Z" fill="#ff83bd"/>
+ <path d="M81 164 Q66 53 155 35 Q236 7 270 80 Q280 124 253 223 L228 280 L103 259 Q64 216 81 164 Z" fill="#25224b"/>
+ <ellipse cx="174" cy="166" rx="87" ry="110" fill="#ff83bd"/>
+ <ellipse cx="254" cy="171" rx="18" ry="27" fill="#ff83bd"/>
+ <path d="M84 130 Q89 53 161 48 Q222 42 253 104 Q222 93 194 78 Q165 114 102 121 Z" fill="#25224b"/>
+ <path d="M115 144 Q135 132 154 141 M192 141 Q213 129 234 142" stroke="#25224b" stroke-width="8" fill="none" stroke-linecap="square"/>
+ <path d="M115 168 Q133 155 152 168 Q134 181 115 168 Z M192 168 Q211 155 231 168 Q211 182 192 168 Z" fill="#fff9e8"/>
+ <circle cx="134" cy="168" r="8" fill="#25224b"/><circle cx="211" cy="168" r="8" fill="#25224b"/>
+ <path d="M174 165 L158 217 L181 222" stroke="#25224b" stroke-width="5" fill="none" stroke-linejoin="round"/>
+ <path d="M142 242 Q174 226 203 242 Q172 260 142 242 Z" fill="#23cdd8" stroke="#25224b" stroke-width="3"/>
+ <path d="M150 243 L195 243" stroke="#25224b" stroke-width="2"/>
+ <path d="M101 196 Q90 221 108 243" stroke="#25224b" stroke-width="4" fill="none"/>
+ <rect x="271" y="58" width="72" height="99" fill="#25224b" transform="rotate(8 307 108)"/>
+ <rect x="279" y="65" width="56" height="84" fill="#23cdd8" transform="rotate(8 307 108)"/>
+ <path d="M308 83 L318 104 L338 112 L317 122 L310 141 L299 120 L280 112 L300 104 Z" fill="#ff83bd"/>
+ <path d="M234 193 Q281 194 290 175" stroke="#25224b" stroke-width="5" stroke-dasharray="10 8" fill="none"/>
+ <path d="M281 171 L292 175 L289 186" stroke="#25224b" stroke-width="5" fill="none"/>
+ <path d="M279 255 L298 234 L310 252 L332 227" stroke="#23cdd8" stroke-width="12" fill="none" stroke-linecap="square"/>
+ <path d="M0 333 H360" stroke="#25224b" stroke-width="8"/>
+</g>
+
+<g transform="translate(360 0)">
+ <rect width="360" height="337.5" fill="#ff58a1"/>
+ <circle cx="129" cy="149" r="123" fill="#5df0c1" opacity=".62"/>
+ <circle cx="129" cy="149" r="123" fill="url(#halftone)" opacity=".34"/>
+ <path d="M0 25 L90 0 L0 130 Z" fill="#153c99" opacity=".12"/>
+ <path d="M265 0 L360 0 L360 118 Z" fill="#153c99" opacity=".16"/>
+ <path d="M53 337 L70 297 Q96 270 137 265 L223 265 Q275 277 298 337 Z" fill="#153c99"/>
+ <path d="M142 246 L217 246 L221 310 L137 310 Z" fill="#ffe66a"/>
+ <path d="M81 164 Q66 53 155 35 Q236 7 270 80 Q280 124 253 223 L228 280 L103 259 Q64 216 81 164 Z" fill="#153c99"/>
+ <ellipse cx="174" cy="166" rx="87" ry="110" fill="#ffe66a"/>
+ <ellipse cx="254" cy="171" rx="18" ry="27" fill="#ffe66a"/>
+ <path d="M84 130 Q89 53 161 48 Q222 42 253 104 Q222 93 194 78 Q165 114 102 121 Z" fill="#153c99"/>
+ <path d="M115 144 Q135 132 154 141 M192 141 Q213 129 234 142" stroke="#153c99" stroke-width="8" fill="none" stroke-linecap="square"/>
+ <path d="M115 168 Q133 155 152 168 Q134 181 115 168 Z M192 168 Q211 155 231 168 Q211 182 192 168 Z" fill="#fff9e8"/>
+ <circle cx="134" cy="168" r="8" fill="#153c99"/><circle cx="211" cy="168" r="8" fill="#153c99"/>
+ <path d="M174 165 L158 217 L181 222" stroke="#153c99" stroke-width="5" fill="none" stroke-linejoin="round"/>
+ <path d="M142 242 Q174 226 203 242 Q172 260 142 242 Z" fill="#5df0c1" stroke="#153c99" stroke-width="3"/>
+ <path d="M150 243 L195 243" stroke="#153c99" stroke-width="2"/>
+ <path d="M101 196 Q90 221 108 243" stroke="#153c99" stroke-width="4" fill="none"/>
+ <rect x="271" y="58" width="72" height="99" fill="#153c99" transform="rotate(8 307 108)"/>
+ <rect x="279" y="65" width="56" height="84" fill="#5df0c1" transform="rotate(8 307 108)"/>
+ <path d="M308 83 L318 104 L338 112 L317 122 L310 141 L299 120 L280 112 L300 104 Z" fill="#ffe66a"/>
+ <path d="M234 193 Q281 194 290 175" stroke="#153c99" stroke-width="5" stroke-dasharray="10 8" fill="none"/>
+ <path d="M281 171 L292 175 L289 186" stroke="#153c99" stroke-width="5" fill="none"/>
+ <path d="M279 255 L298 234 L310 252 L332 227" stroke="#5df0c1" stroke-width="12" fill="none" stroke-linecap="square"/>
+ <path d="M0 333 H360" stroke="#153c99" stroke-width="8"/>
+</g>
+
+<g transform="translate(0 337.5)">
+ <rect width="360" height="337.5" fill="#29c9d7"/>
+ <circle cx="129" cy="149" r="123" fill="#fb487e" opacity=".62"/>
+ <circle cx="129" cy="149" r="123" fill="url(#halftone)" opacity=".34"/>
+ <path d="M0 25 L90 0 L0 130 Z" fill="#7b2c9a" opacity=".12"/>
+ <path d="M265 0 L360 0 L360 118 Z" fill="#7b2c9a" opacity=".16"/>
+ <path d="M53 337 L70 297 Q96 270 137 265 L223 265 Q275 277 298 337 Z" fill="#7b2c9a"/>
+ <path d="M142 246 L217 246 L221 310 L137 310 Z" fill="#ffb15e"/>
+ <path d="M81 164 Q66 53 155 35 Q236 7 270 80 Q280 124 253 223 L228 280 L103 259 Q64 216 81 164 Z" fill="#7b2c9a"/>
+ <ellipse cx="174" cy="166" rx="87" ry="110" fill="#ffb15e"/>
+ <ellipse cx="254" cy="171" rx="18" ry="27" fill="#ffb15e"/>
+ <path d="M84 130 Q89 53 161 48 Q222 42 253 104 Q222 93 194 78 Q165 114 102 121 Z" fill="#7b2c9a"/>
+ <path d="M115 144 Q135 132 154 141 M192 141 Q213 129 234 142" stroke="#7b2c9a" stroke-width="8" fill="none" stroke-linecap="square"/>
+ <path d="M115 168 Q133 155 152 168 Q134 181 115 168 Z M192 168 Q211 155 231 168 Q211 182 192 168 Z" fill="#fff9e8"/>
+ <circle cx="134" cy="168" r="8" fill="#7b2c9a"/><circle cx="211" cy="168" r="8" fill="#7b2c9a"/>
+ <path d="M174 165 L158 217 L181 222" stroke="#7b2c9a" stroke-width="5" fill="none" stroke-linejoin="round"/>
+ <path d="M142 242 Q174 226 203 242 Q172 260 142 242 Z" fill="#fb487e" stroke="#7b2c9a" stroke-width="3"/>
+ <path d="M150 243 L195 243" stroke="#7b2c9a" stroke-width="2"/>
+ <path d="M101 196 Q90 221 108 243" stroke="#7b2c9a" stroke-width="4" fill="none"/>
+ <rect x="271" y="58" width="72" height="99" fill="#7b2c9a" transform="rotate(8 307 108)"/>
+ <rect x="279" y="65" width="56" height="84" fill="#fb487e" transform="rotate(8 307 108)"/>
+ <path d="M308 83 L318 104 L338 112 L317 122 L310 141 L299 120 L280 112 L300 104 Z" fill="#ffb15e"/>
+ <path d="M234 193 Q281 194 290 175" stroke="#7b2c9a" stroke-width="5" stroke-dasharray="10 8" fill="none"/>
+ <path d="M281 171 L292 175 L289 186" stroke="#7b2c9a" stroke-width="5" fill="none"/>
+ <path d="M279 255 L298 234 L310 252 L332 227" stroke="#fb487e" stroke-width="12" fill="none" stroke-linecap="square"/>
+ <path d="M0 333 H360" stroke="#7b2c9a" stroke-width="8"/>
+</g>
+
+<g transform="translate(360 337.5)">
+ <rect width="360" height="337.5" fill="#a777ee"/>
+ <circle cx="129" cy="149" r="123" fill="#ff4c93" opacity=".62"/>
+ <circle cx="129" cy="149" r="123" fill="url(#halftone)" opacity=".34"/>
+ <path d="M0 25 L90 0 L0 130 Z" fill="#24204d" opacity=".12"/>
+ <path d="M265 0 L360 0 L360 118 Z" fill="#24204d" opacity=".16"/>
+ <path d="M53 337 L70 297 Q96 270 137 265 L223 265 Q275 277 298 337 Z" fill="#ffdc43"/>
+ <path d="M142 246 L217 246 L221 310 L137 310 Z" fill="#65e4c7"/>
+ <path d="M81 164 Q66 53 155 35 Q236 7 270 80 Q280 124 253 223 L228 280 L103 259 Q64 216 81 164 Z" fill="#ffdc43"/>
+ <ellipse cx="174" cy="166" rx="87" ry="110" fill="#65e4c7"/>
+ <ellipse cx="254" cy="171" rx="18" ry="27" fill="#65e4c7"/>
+ <path d="M84 130 Q89 53 161 48 Q222 42 253 104 Q222 93 194 78 Q165 114 102 121 Z" fill="#ffdc43"/>
+ <path d="M115 144 Q135 132 154 141 M192 141 Q213 129 234 142" stroke="#24204d" stroke-width="8" fill="none" stroke-linecap="square"/>
+ <path d="M115 168 Q133 155 152 168 Q134 181 115 168 Z M192 168 Q211 155 231 168 Q211 182 192 168 Z" fill="#fff9e8"/>
+ <circle cx="134" cy="168" r="8" fill="#24204d"/><circle cx="211" cy="168" r="8" fill="#24204d"/>
+ <path d="M174 165 L158 217 L181 222" stroke="#24204d" stroke-width="5" fill="none" stroke-linejoin="round"/>
+ <path d="M142 242 Q174 226 203 242 Q172 260 142 242 Z" fill="#ff4c93" stroke="#24204d" stroke-width="3"/>
+ <path d="M150 243 L195 243" stroke="#24204d" stroke-width="2"/>
+ <path d="M101 196 Q90 221 108 243" stroke="#24204d" stroke-width="4" fill="none"/>
+ <rect x="271" y="58" width="72" height="99" fill="#24204d" transform="rotate(8 307 108)"/>
+ <rect x="279" y="65" width="56" height="84" fill="#ff4c93" transform="rotate(8 307 108)"/>
+ <path d="M308 83 L318 104 L338 112 L317 122 L310 141 L299 120 L280 112 L300 104 Z" fill="#65e4c7"/>
+ <path d="M234 193 Q281 194 290 175" stroke="#24204d" stroke-width="5" stroke-dasharray="10 8" fill="none"/>
+ <path d="M281 171 L292 175 L289 186" stroke="#24204d" stroke-width="5" fill="none"/>
+ <path d="M279 255 L298 234 L310 252 L332 227" stroke="#ff4c93" stroke-width="12" fill="none" stroke-linecap="square"/>
+ <path d="M0 333 H360" stroke="#24204d" stroke-width="8"/>
+</g>
+<rect x="720" width="480" height="675" fill="#151326"/>
+<path d="M720 0 L755 0 L720 60 Z M1200 0 L1200 195 L1150 0 Z" fill="#fb4a9b"/>
+<rect x="720" y="0" width="12" height="675" fill="#161326"/>
+<rect x="758" y="54" width="112" height="8" fill="#ff4f9b"/>
+<g font-family="Arial Black, Impact, Helvetica, Arial, sans-serif" font-weight="900" letter-spacing="-2">
+ <text x="754" y="137" font-size="73" fill="#fff8eb">FROM</text>
+ <text x="754" y="194" font-size="50" fill="#ffe34f">EXPRESSION</text>
+ <text x="754" y="269" font-size="74" fill="#fff8eb">TO</text>
+ <text x="754" y="325" font-size="55" fill="#39d6de">RECEPTION</text>
+</g>
+<rect x="758" y="348" width="396" height="9" fill="#fb4a9b"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#fff8eb">
+ <text x="758" y="406" font-size="34" font-weight="900" letter-spacing="1">GENERATIVE AI</text>
+ <text x="758" y="444" font-size="22" font-weight="700" letter-spacing=".7">&amp; THE TRANSFORMATION</text>
+ <text x="758" y="474" font-size="22" font-weight="700" letter-spacing=".7">OF ARTISTIC RECEPTION</text>
+</g>
+<rect x="758" y="535" width="400" height="91" fill="#ff58a1"/>
+<g font-family="Arial Black, Impact, Helvetica, Arial, sans-serif" font-weight="900" fill="#151326">
+ <text x="775" y="569" font-size="27">THE AUDIENCE</text>
+ <text x="775" y="600" font-size="24">BECOMES THE REVISER</text>
+</g>
+<rect x="0" y="0" width="1200" height="675" fill="none" stroke="#151326" stroke-width="6"/>
+</svg>
