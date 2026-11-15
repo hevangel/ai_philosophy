@@ -16,14 +16,14 @@
       "items": [
         {
           "slug": "from_expression_to_reception",
-          "title": "From Expression to Reception: Generative AI and the Transformation of Artistic Reception",
-          "title_zh": "從表達到接受：生成式人工智能與藝術接受的轉變",
-          "summary": "When generative AI creates art for the person who will first experience it, audience, critic, and reviser begin to overlap. This essay develops reception-directed production, generative criticism, and transformative reception, relating them to Dewey, Kant, reception theory, participatory culture, and the dangers of personalization.",
-          "summary_zh": "當生成式人工智能為即將親身體驗作品的人創作，觀眾、評論者與修訂者的角色便開始重疊。本文提出以接受為導向的生產、生成式批評與轉化式接受三個概念，並參照杜威、康德、接受理論及參與式文化，討論個人化藝術的風險。",
+          "title": "From Spectator to Co-Producer: Generative AI and the Transformation of Artistic Reception",
+          "title_zh": "從觀眾到共同生產者：生成式人工智能與藝術接受的轉變",
+          "summary": "Generative AI enables audiences to commission works for their own experience, convert criticism into immediate revisions, and transform existing art. Drawing on reception theory, participatory culture, and contemporary AI aesthetics, this report argues that artist, spectator, critic, editor, and curator increasingly converge within a recursive creative process.",
+          "summary_zh": "生成式人工智能讓觀眾為自己的審美經驗委託創作、把批評立即轉化為修訂，並改造既有藝術。本文結合接受理論、參與式文化及當代 AI 美學，論證藝術家、觀眾、評論者、編輯與策展人的角色，如何在遞歸的創作過程中逐漸匯合。",
           "path": "articles/from_expression_to_reception/index.md",
           "cover": "articles/from_expression_to_reception/cover.svg",
           "cover_zh_text": [
-            "從表達到接受",
+            "從觀眾到共同生產者",
             "生成式人工智能與藝術接受的轉變"
           ],
           "date": "2026-11-14"
