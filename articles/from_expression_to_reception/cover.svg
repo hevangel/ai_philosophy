@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
-<title id="title">From Expression to Reception — Pop Art Cover</title>
+<title id="title">From Spectator to Co-Producer — Pop Art Cover</title>
 <desc id="desc">Original Warhol-inspired pop art with four silkscreen-style portraits of a viewer, each in contrasting neon colors, and bold editorial typography about generative AI and artistic reception.</desc>
 <defs><pattern id="halftone" width="13" height="13" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="2.8" fill="#161322"/></pattern></defs>
 
@@ -120,9 +120,9 @@
 <rect x="758" y="54" width="112" height="8" fill="#ff4f9b"/>
 <g font-family="Arial Black, Impact, Helvetica, Arial, sans-serif" font-weight="900" letter-spacing="-2">
  <text x="754" y="137" font-size="73" fill="#fff8eb">FROM</text>
- <text x="754" y="194" font-size="50" fill="#ffe34f">EXPRESSION</text>
+ <text x="754" y="194" font-size="50" fill="#ffe34f">SPECTATOR</text>
  <text x="754" y="269" font-size="74" fill="#fff8eb">TO</text>
- <text x="754" y="325" font-size="55" fill="#39d6de">RECEPTION</text>
+ <text x="754" y="325" font-size="43" fill="#39d6de">CO-PRODUCER</text>
 </g>
 <rect x="758" y="348" width="396" height="9" fill="#fb4a9b"/>
 <g font-family="Arial, Helvetica, sans-serif" fill="#fff8eb">
@@ -132,8 +132,8 @@
 </g>
 <rect x="758" y="535" width="400" height="91" fill="#ff58a1"/>
 <g font-family="Arial Black, Impact, Helvetica, Arial, sans-serif" font-weight="900" fill="#151326">
- <text x="775" y="569" font-size="27">THE AUDIENCE</text>
- <text x="775" y="600" font-size="24">BECOMES THE REVISER</text>
+ <text x="775" y="569" font-size="27">THE SPECTATOR</text>
+ <text x="775" y="600" font-size="23">BECOMES CO-PRODUCER</text>
 </g>
 <rect x="0" y="0" width="1200" height="675" fill="none" stroke="#151326" stroke-width="6"/>
 </svg>
