@@ -15,6 +15,20 @@
       "description_zh": "與人工智能對話而寫成的哲學文章。",
       "items": [
         {
+          "slug": "from_expression_to_reception",
+          "title": "From Expression to Reception: Generative AI and the Transformation of Artistic Reception",
+          "title_zh": "從表達到接受：生成式人工智能與藝術接受的轉變",
+          "summary": "When generative AI creates art for the person who will first experience it, audience, critic, and reviser begin to overlap. This essay develops reception-directed production, generative criticism, and transformative reception, relating them to Dewey, Kant, reception theory, participatory culture, and the dangers of personalization.",
+          "summary_zh": "當生成式人工智能為即將親身體驗作品的人創作，觀眾、評論者與修訂者的角色便開始重疊。本文提出以接受為導向的生產、生成式批評與轉化式接受三個概念，並參照杜威、康德、接受理論及參與式文化，討論個人化藝術的風險。",
+          "path": "articles/from_expression_to_reception/index.md",
+          "cover": "articles/from_expression_to_reception/cover.svg",
+          "cover_zh_text": [
+            "從表達到接受",
+            "生成式人工智能與藝術接受的轉變"
+          ],
+          "date": "2026-11-14"
+        },
+        {
           "slug": "from_doing_to_directing",
           "title": "From Doing to Directing: Process, Results, and the Bootstrapping Problem in AI-Native Education",
           "title_zh": "從「做」到「指揮」：過程、結果與 AI 原生教育中的自舉難題",
