@@ -15,6 +15,20 @@
       "description_zh": "與人工智能對話而寫成的哲學文章。",
       "items": [
         {
+          "slug": "the_king_still_needs_workers",
+          "title": "The King Still Needs Workers: Why Artificial Intelligence Will Transform Employment Without Bringing It to an End",
+          "title_zh": "國王仍然需要工人：為何人工智能會改變就業，卻不會終結就業",
+          "summary": "Will AI make human employment obsolete? Drawing on Henry George's theory of land, Hobbes, Mancur Olson's stationary bandit, and modern automation research, this essay develops a resource-control theory of employment: rulers, human or artificial, face continuing incentives to maintain productive capacity, retain indispensable workers, distribute benefits, and preserve political stability — so while individual occupations will disappear, employment as an institution is likely to survive in new forms.",
+          "summary_zh": "人工智能最終會否令人的就業變得過時？本文借鑑亨利·佐治的土地理論、霍布斯、曼庫爾·奧爾森的「坐寇」理論及當代自動化研究，提出就業的「資源控制理論」：無論統治者是人類還是人工智能，都持續面對維持生產力、挽留關鍵工人、分配利益及維護政治穩定的誘因——因此，雖然個別職業將會消失，就業作為一項制度很可能會以新的形式延續下去。",
+          "path": "articles/the_king_still_needs_workers/index.md",
+          "cover": "articles/the_king_still_needs_workers/cover.png",
+          "cover_zh_text": [
+            "國王仍然需要工人",
+            "為何人工智能會改變就業，卻不會終結就業"
+          ],
+          "date": "2026-11-16"
+        },
+        {
           "slug": "from_expression_to_reception",
           "title": "From Spectator to Co-Producer: Generative AI and the Transformation of Artistic Reception",
           "title_zh": "從觀眾到共同生產者：生成式人工智能與藝術接受的轉變",
