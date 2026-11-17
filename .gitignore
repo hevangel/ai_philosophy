@@ -244,3 +244,6 @@ data/
 # Repo-local: downloaded book binaries (libgen corpus) — never publish copyrighted
 # epub files; commit their metadata/states only. Force-add a specific file if ever needed.
 *.epub
+
+# Playwright CLI session artifacts
+.playwright-cli/

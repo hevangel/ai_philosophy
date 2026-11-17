@@ -24,6 +24,22 @@ Content lives in four kinds of folders:
   `submissions.json`, polished manuscripts, and per-venue artifacts. **Not site content —
   never register it in `content.json`.** Schemas and workflow: `publish/README.md`.
 
+## Linked projects
+
+- `better-call-sophie/` — git submodule of
+  https://github.com/hevangel/better-call-sophie (tracks `main`). An AI-generated
+  philosophical crime drama / dark comedy in preproduction: Dr. Sophie Goodman, Saul
+  Goodman's granddaughter, a philosopher who defends people accused of being immoral
+  rather than illegal. **Not site content — never register it in `content.json`, and
+  never move its files into `articles/` or `research/`.** It has its own `AGENTS.md`,
+  canon (`spec/canon.md`), and license; follow those when working inside the
+  submodule. A fresh clone of this repo leaves the folder empty until
+  `git submodule update --init better-call-sophie`. Its `external/` submodules
+  (ComfyUI, Remotion, auto-editor, Whisper) stay uninitialized unless a production
+  task needs them — they are large third-party trees with separate licenses
+  (`better-call-sophie/spec/third-party.md`). Do not commit large video renders from
+  that project into this repo.
+
 ## Submission pipeline skills
 
 `.agents/skills/` holds five project skills for external academic submission:

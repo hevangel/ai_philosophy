@@ -13,6 +13,17 @@ read, but do not write.
 - **Knowledge Base** — an evolving wiki-style library of philosophy notes.
 - **Research** — projects where AI reads and organizes source material.
 
+## Better Call Sophie
+
+[`better-call-sophie/`](better-call-sophie/) is a git submodule of
+[hevangel/better-call-sophie](https://github.com/hevangel/better-call-sophie):
+an AI-generated philosophical crime drama in preproduction (Dr. Sophie Goodman).
+It is a separate project, not part of this website. After cloning, check it out with:
+
+```bash
+git submodule update --init better-call-sophie
+```
+
 ## How to read
 
 The easiest way is to visit the site above. All content is plain markdown under
