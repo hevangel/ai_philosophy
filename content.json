@@ -15,6 +15,20 @@
       "description_zh": "與人工智能對話而寫成的哲學文章。",
       "items": [
         {
+          "slug": "the_return_of_the_renaissance_man",
+          "title": "The Return of the Renaissance Man: How Artificial Intelligence Reverses the Division of Intellectual Labor",
+          "title_zh": "文藝復興人的回歸：人工智能如何逆轉知識分工",
+          "summary": "Modern specialization turned Adam Smith's division of labor into a division of the human mind. Drawing on Smith, Gilbert Ryle, John Dewey, and Andy Clark & David Chalmers's Extended Mind, this essay argues for Homo Universalis Augmentatus: AI lowers the cost of crossing disciplines so a single curious individual can run a modern Renaissance workshop — provided they turn knowledge into real accomplishment rather than AI slop.",
+          "summary_zh": "現代專業化把亞當·史密斯的分工原則變成心智的分工。本文借鑑史密斯、吉爾伯特·賴爾、約翰·杜威，以及安迪·克拉克與大衞·查爾莫斯的「延展心靈」理論，提出「增強的通才」（Homo Universalis Augmentatus）：人工智能降低了跨學科的門檻，讓一個好奇的個體得以運作現代文藝復興工坊——前提是把知識轉化為真正成果，而非粗製濫造的 AI 廢料。",
+          "path": "articles/the_return_of_the_renaissance_man/index.md",
+          "cover": "articles/the_return_of_the_renaissance_man/cover.png",
+          "cover_zh_text": [
+            "文藝復興人的回歸",
+            "人工智能如何逆轉知識分工"
+          ],
+          "date": "2026-11-24"
+        },
+        {
           "slug": "the_king_still_needs_workers",
           "title": "The King Still Needs Workers: Why Artificial Intelligence Will Transform Employment Without Bringing It to an End",
           "title_zh": "國王仍然需要工人：為何人工智能會改變就業，卻不會終結就業",
