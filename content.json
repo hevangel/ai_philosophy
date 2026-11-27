@@ -15,6 +15,34 @@
       "description_zh": "與人工智能對話而寫成的哲學文章。",
       "items": [
         {
+          "slug": "reconstructing_philosophy",
+          "title": "Reconstructing Philosophy: Artificial Intelligence, Epistemic Efficiency, and the Case Against Historical Necessity",
+          "title_zh": "重構哲學：人工智能、認知效率，與反對歷史必然性的論證",
+          "summary": "In *History of Philosophy as a Source of Meaning* (2025), Hannah Ginsborg argues that historical familiarity is essential to understanding philosophical concepts. Approaching philosophy as a knowledge-producing discipline analogous to mathematics and science, this paper argues for epistemic independence: philosophical concepts and arguments can be independently reconstructed without beginning from the historical canon, and AI shifts the cost-benefit balance in favor of guided reconstruction.",
+          "summary_zh": "Hannah Ginsborg 在〈作為意義來源的哲學史〉（2025）中論證，熟悉哲學史對理解哲學概念至關重要。本文把哲學視為與數學、科學相近的知識生產學科，論證「認知獨立性」：哲學概念與論證可以獨立重構，無須從歷史經典出發；而人工智能正改變成本結構，使有引導的獨立重構更具效率。",
+          "path": "articles/reconstructing_philosophy/index.md",
+          "cover": "articles/reconstructing_philosophy/cover.png",
+          "cover_zh_text": [
+            "重構哲學",
+            "人工智能、認知效率，與反對歷史必然性的論證"
+          ],
+          "date": "2026-11-26"
+        },
+        {
+          "slug": "from_friction_to_understanding",
+          "title": "From Friction to Understanding: AI Summarization, Intellectual Competence, and the Separation of Knowledge from Presentation",
+          "title_zh": "從阻力到理解：人工智能摘要、知識能力，以及知識與呈現的分離",
+          "summary": "Should readers struggle through dense prose, or rely on AI summaries? Drawing on cognitive load theory, desirable difficulties, and social epistemology, this essay distinguishes extraneous friction from productive struggle: readers should learn to summarize in order to evaluate summaries, use AI to cut needless prose overhead, and move toward separating structured knowledge layers from prose presentation.",
+          "summary_zh": "讀者應當在艱深文字中苦苦掙扎，還是依賴人工智能摘要？本文借鑑認知負荷理論、可欲困難與社會知識論，區分無謂阻力與具生產力的掙扎：讀者應學會做摘要以評核摘要、善用 AI 消除冗餘文字負擔，並推動把結構化知識層與散文呈現層分離。",
+          "path": "articles/from_friction_to_understanding/index.md",
+          "cover": "articles/from_friction_to_understanding/cover.png",
+          "cover_zh_text": [
+            "從阻力到理解",
+            "人工智能摘要、知識能力，以及知識與呈現的分離"
+          ],
+          "date": "2026-11-26"
+        },
+        {
           "slug": "the_return_of_the_renaissance_man",
           "title": "The Return of the Renaissance Man: How Artificial Intelligence Reverses the Division of Intellectual Labor",
           "title_zh": "文藝復興人的回歸：人工智能如何逆轉知識分工",
